@@ -1,0 +1,57 @@
+"Electricity per source, and per period (TJ)"
+t_periods,sector,Source,VFlow_Out
+2016,Trade energy,Import,93238.8497412385
+2017,Trade energy,Import,93844.71354697109
+2018,Trade energy,Import,94874.12529062958
+2019,Trade energy,Import,95069.06778037216
+2020,Trade energy,Import,94201.8934550884
+2021,Trade energy,Import,94973.46848044592
+2022,Trade energy,Import,95519.11193265145
+2023,District Energy,Gas Turbine,44.29399192272721
+2023,District Energy,Internal Combustion Engine,57.31483355521627
+2023,Electricity energy,PV pannel,3430.1377385979877
+2023,Electricity energy,Wind Turbine,817.2948549096006
+2023,Solid waste,Internal Combustion Engine,0.09296414072480534
+2023,Trade energy,Import,87769.79113271601
+2024,District Energy,Gas Turbine,106.70730602228195
+2024,District Energy,Internal Combustion Engine,147.58560954132727
+2024,Electricity energy,PV pannel,3180.0929956189816
+2024,Electricity energy,Wind Turbine,1344.0360133767294
+2024,Solid waste,Internal Combustion Engine,0.404384706127569
+2024,Trade energy,Import,73266.07803472916
+2025,District Energy,Gas Turbine,84.66753763723155
+2025,District Energy,Internal Combustion Engine,120.11877417484118
+2025,Electricity energy,PV pannel,6448.661529773471
+2025,Electricity energy,Wind Turbine,2773.2542260449045
+2025,Solid waste,Internal Combustion Engine,0.1249292249582532
+2025,Trade energy,Import,67586.70193568798
+2030,District Energy,Gas Turbine,324.3065725103767
+2030,District Energy,Internal Combustion Engine,602.6065868159733
+2030,Electricity energy,PV pannel,16052.43879379663
+2030,Electricity energy,Wind Turbine,6901.229103499772
+2030,Solid waste,Internal Combustion Engine,0.14839137413647138
+2030,Trade energy,Import,51343.01983450897
+2035,District Energy,Gas Turbine,748.869419640082
+2035,District Energy,Internal Combustion Engine,1007.933240266659
+2035,Electricity energy,PV pannel,31229.960637359414
+2035,Electricity energy,Wind Turbine,17171.529201882575
+2035,Solid waste,Internal Combustion Engine,0.059453685006199006
+2035,Trade energy,Import,40849.31256798117
+2040,District Energy,Gas Turbine,1302.8795938453081
+2040,District Energy,Internal Combustion Engine,3570.580163300986
+2040,Electricity energy,PV pannel,41353.39840324359
+2040,Electricity energy,Wind Turbine,19310.622380323126
+2040,Solid waste,Internal Combustion Engine,0.1217333770994556
+2040,Trade energy,Import,62796.30741906067
+2045,District Energy,Gas Turbine,2.208480227618564
+2045,District Energy,Internal Combustion Engine,3085.318920964384
+2045,Electricity energy,PV pannel,41544.70006295055
+2045,Electricity energy,Wind Turbine,19417.77840675379
+2045,Solid waste,Internal Combustion Engine,0.13544108581540823
+2045,Trade energy,Import,61226.3884863887
+2050,District Energy,Gas Turbine,843.1231686765022
+2050,District Energy,Internal Combustion Engine,156.71442176463538
+2050,Electricity energy,PV pannel,41540.95250887924
+2050,Electricity energy,Wind Turbine,19664.494035174663
+2050,Solid waste,Internal Combustion Engine,0.3264261440534689
+2050,Trade energy,Import,64151.33347868088

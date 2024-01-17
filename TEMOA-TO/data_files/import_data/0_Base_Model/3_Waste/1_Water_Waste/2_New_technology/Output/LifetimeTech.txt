@@ -1,0 +1,15 @@
+INSERT INTO`LifetimeTech`VALUES('TO','WATWASWWABGASERKSTD____23',30,'WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency');
+INSERT INTO`LifetimeTech`VALUES('TO','WATWASWWABGASERKSTDMENE_23',30,'WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy');
+INSERT INTO`LifetimeTech`VALUES('TO','WATWASWWABADIPUB_______23',30,'WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic');
+INSERT INTO`LifetimeTech`VALUES('TO','WATWASWWABADIPUB___MENE_23',30,'WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy');
+INSERT INTO`LifetimeTech`VALUES('TO','WATWASWWABGASCENCCSHH2_23',30,'WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen');
+INSERT INTO`LifetimeTech`VALUES('TO','WATWASWWHBGASERKSTD____23',30,'WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency');
+INSERT INTO`LifetimeTech`VALUES('TO','WATWASWWHBGASERKSTDMENE_23',30,'WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy');
+INSERT INTO`LifetimeTech`VALUES('TO','WATWASWWHBADIPUB_______23',30,'WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic');
+INSERT INTO`LifetimeTech`VALUES('TO','WATWASWWHBADIPUB___MENE_23',30,'WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy');
+INSERT INTO`LifetimeTech`VALUES('TO','WATWASWWHBGASCENCCSHH2_23',30,'WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen');
+INSERT INTO`LifetimeTech`VALUES('TO','WATWASWWHCGASERKSTD____23',30,'WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency');
+INSERT INTO`LifetimeTech`VALUES('TO','WATWASWWHCGASERKSTDMENE_23',30,'WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy');
+INSERT INTO`LifetimeTech`VALUES('TO','WATWASWWHCADIPUB_______23',30,'WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublic');
+INSERT INTO`LifetimeTech`VALUES('TO','WATWASWWHCADIPUB___MENE_23',30,'WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy');
+INSERT INTO`LifetimeTech`VALUES('TO','WATWASWWHCGASCENCCSHH2_23',30,'WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen');

@@ -1,0 +1,1382 @@
+"Waste sector GHG emissions per subsector, per end use, per period (metric ton)"
+t_periods,emissions_comm,Sub,EndUse,Treatment_Plant,Tech_type_1,Emisions
+2016,CH4,Solid,Green Bin,Compost,Leaking,612.0664669439492
+2016,CH4,Solid,Green Bin,Dufferin,Anaerobic Digester,20.51469450595196
+2016,CH4,Solid,Green Bin,Disco Road,Anaerobic Digester,137.52925722563546
+2016,CH4,Solid,Green Bin,Disco Road,Flaring,5.623536875464483
+2016,CH4,Solid,Landfill,MI - Arbor Hills,Biogas capture,1984.9690375006012
+2016,CH4,Solid,Landfill,MI - Arbor Hills,Flaring,36.86371069643975
+2016,CH4,Solid,Landfill,Beare Rd,Biogas capture,2800.306350707873
+2016,CH4,Solid,Landfill,Beare Rd,Flaring,52.00568937028913
+2016,CH4,Solid,Landfill,Brock West,Leaking,22496.61829389294
+2016,CH4,Solid,Landfill,MI - Carleton farms,Biogas capture,6086.844102979899
+2016,CH4,Solid,Landfill,MI - Carleton farms,Flaring,91.30266154469848
+2016,CH4,Solid,Landfill,Green Lane,Biogas capture,4298.654962057868
+2016,CH4,Solid,Landfill,Green Lane,Flaring,128.9596488617361
+2016,CH4,Solid,Landfill,Keele Valley,Biogas capture,26773.054728059207
+2016,CH4,Solid,Landfill,Keele Valley,Flaring,206.12882843727016
+2016,CH4,Solid,Landfill,Thackeray,Leaking,1523.867616705988
+2016,CH4,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,0.7764718642200976
+2016,CH4,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Flaring,2.7011569125486717e-05
+2016,CH4,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,0.34859521705029795
+2016,CH4,Water,Waste water,Humber Wastewater Treatment Plant,Flaring,2.6992478123559884e-05
+2016,CH4,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,0.16237215084792322
+2016,CH4,Water,Waste water,Highland Creek Waterwater Treatment Plant,Flaring,2.6946577574406988e-05
+2016,CH4,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,1.4874243967542582
+2016,CO2,Solid,Green Bin,Dufferin,Anaerobic Digester,49.71522930943278
+2016,CO2,Solid,Green Bin,Disco Road,Anaerobic Digester,87.77394714297623
+2016,CO2,Water,Fresh water,F.J Horgan Water Treatment Plant,Process,30080.16475125942
+2016,CO2,Water,Fresh water,R.C. Harris Water Treatment Plant,Process,29506.272861344107
+2016,CO2,Water,Fresh water,R.L. Clark Water Treatment Plant,Process,18114.650590136043
+2016,CO2,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,12634.6531156064
+2016,CO2,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,2880.9102495717552
+2016,CO2,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,2642.0993420785508
+2016,CO2,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,17697.58476578722
+2016,CO2,Water,Waste water,North Toronto Wastewater Treatment Plant,Process,1770.7921031936226
+2016,CO2e,Solid,Green Bin,Compost,Leaking,26533.081342020203
+2016,CO2e,Solid,Green Bin,Dufferin,Anaerobic Digester,480.5238139344239
+2016,CO2e,Solid,Green Bin,Disco Road,Anaerobic Digester,2975.8883488813212
+2016,CO2e,Solid,Green Bin,Disco Road,Flaring,118.09427438475414
+2016,CO2e,Solid,Landfill,MI - Arbor Hills,Biogas capture,41684.34978751263
+2016,CO2e,Solid,Landfill,MI - Arbor Hills,Flaring,774.1379246252349
+2016,CO2e,Solid,Landfill,Beare Rd,Biogas capture,58806.43336486538
+2016,CO2e,Solid,Landfill,Beare Rd,Flaring,1092.119476776072
+2016,CO2e,Solid,Landfill,Brock West,Leaking,472428.9841717519
+2016,CO2e,Solid,Landfill,MI - Carleton farms,Biogas capture,127823.72616257783
+2016,CO2e,Solid,Landfill,MI - Carleton farms,Flaring,1917.355892438669
+2016,CO2e,Solid,Landfill,Green Lane,Biogas capture,90271.7542032152
+2016,CO2e,Solid,Landfill,Green Lane,Flaring,2708.152626096459
+2016,CO2e,Solid,Landfill,Keele Valley,Biogas capture,562234.1492892433
+2016,CO2e,Solid,Landfill,Keele Valley,Flaring,4328.705397182674
+2016,CO2e,Solid,Landfill,Thackeray,Leaking,32001.21995082574
+2016,CO2e,Water,Fresh water,F.J Horgan Water Treatment Plant,Process,555.6676026128673
+2016,CO2e,Water,Fresh water,Island Water Treatment Plant,Process,305.6409072146866
+2016,CO2e,Water,Fresh water,R.C. Harris Water Treatment Plant,Process,213.38100664714403
+2016,CO2e,Water,Fresh water,R.L. Clark Water Treatment Plant,Process,729.2462397014966
+2016,CO2e,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,12650.959024755024
+2016,CO2e,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Flaring,0.00215197794776612
+2016,CO2e,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Process,11326.156533558114
+2016,CO2e,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,2888.230749129811
+2016,CO2e,Water,Waste water,Humber Wastewater Treatment Plant,Flaring,0.002046453517885464
+2016,CO2e,Water,Waste water,Humber Wastewater Treatment Plant,Process,4144.735279357721
+2016,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,2645.509157246357
+2016,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Flaring,0.002146800152131037
+2016,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,28783.260405625108
+2016,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Process,3372.181821558747
+2016,CO2e,Water,Waste water,North Toronto Wastewater Treatment Plant,Process,451.90767114523715
+2016,N2O,Solid,Green Bin,Compost,Leaking,45.90498502079618
+2016,N2O,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Flaring,5.3179026715801985e-06
+2016,N2O,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Process,38.00723668979233
+2016,N2O,Water,Waste water,Humber Wastewater Treatment Plant,Flaring,4.9651391855392824e-06
+2016,N2O,Water,Waste water,Humber Wastewater Treatment Plant,Process,13.908507648851412
+2016,N2O,Water,Waste water,Highland Creek Waterwater Treatment Plant,Flaring,5.305107459961376e-06
+2016,N2O,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,37.09543532720152
+2016,N2O,Water,Waste water,Highland Creek Waterwater Treatment Plant,Process,11.31604638106962
+2016,N2O,Water,Waste water,North Toronto Wastewater Treatment Plant,Process,1.516468695118245
+2017,CH4,Solid,Green Bin,Compost,Leaking,679.8732724414382
+2017,CH4,Solid,Green Bin,Dufferin,Anaerobic Digester,22.991444272302722
+2017,CH4,Solid,Green Bin,Disco Road,Anaerobic Digester,137.5272851560894
+2017,CH4,Solid,Green Bin,Disco Road,Flaring,5.611357788320838
+2017,CH4,Solid,Landfill,MI - Arbor Hills,Biogas capture,1897.6254013672467
+2017,CH4,Solid,Landfill,MI - Arbor Hills,Flaring,35.241614596820334
+2017,CH4,Solid,Landfill,Beare Rd,Biogas capture,2677.085819637965
+2017,CH4,Solid,Landfill,Beare Rd,Flaring,49.717308078990825
+2017,CH4,Solid,Landfill,Brock West,Leaking,21506.7104387221
+2017,CH4,Solid,Landfill,MI - Carleton farms,Biogas capture,5819.007634759436
+2017,CH4,Solid,Landfill,MI - Carleton farms,Flaring,87.28511452139159
+2017,CH4,Solid,Landfill,Green Lane,Biogas capture,4628.246773017073
+2017,CH4,Solid,Landfill,Green Lane,Flaring,138.84740319051227
+2017,CH4,Solid,Landfill,Keele Valley,Biogas capture,25594.972901004363
+2017,CH4,Solid,Landfill,Keele Valley,Flaring,197.05864091923735
+2017,CH4,Solid,Landfill,Thackeray,Leaking,1456.8136042179322
+2017,CH4,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,0.781604318605326
+2017,CH4,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Flaring,3.110344462890536e-05
+2017,CH4,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,0.35082444922446776
+2017,CH4,Water,Waste water,Humber Wastewater Treatment Plant,Flaring,3.1077133252068424e-05
+2017,CH4,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,0.1633441580766041
+2017,CH4,Water,Waste water,Highland Creek Waterwater Treatment Plant,Flaring,3.1026570058024755e-05
+2017,CH4,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,1.4975369706947061
+2017,CO2,Solid,Green Bin,Dufferin,Anaerobic Digester,53.32718730735867
+2017,CO2,Solid,Green Bin,Disco Road,Anaerobic Digester,94.99022473003248
+2017,CO2,Water,Fresh water,F.J Horgan Water Treatment Plant,Process,30328.220277771103
+2017,CO2,Water,Fresh water,R.C. Harris Water Treatment Plant,Process,29749.595798914957
+2017,CO2,Water,Fresh water,R.L. Clark Water Treatment Plant,Process,18264.03272374838
+2017,CO2,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,12718.167771806038
+2017,CO2,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,2899.333387656046
+2017,CO2,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,2657.915722202743
+2017,CO2,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,17817.90559345543
+2017,CO2,Water,Waste water,North Toronto Wastewater Treatment Plant,Process,1782.8312120387989
+2017,CO2e,Solid,Green Bin,Compost,Leaking,29472.506360336345
+2017,CO2e,Solid,Green Bin,Dufferin,Anaerobic Digester,536.1475170257156
+2017,CO2e,Solid,Green Bin,Disco Road,Anaerobic Digester,2983.0632130079093
+2017,CO2e,Solid,Green Bin,Disco Road,Flaring,117.8385135547376
+2017,CO2e,Solid,Landfill,MI - Arbor Hills,Biogas capture,39850.13342871219
+2017,CO2e,Solid,Landfill,MI - Arbor Hills,Flaring,740.073906533227
+2017,CO2e,Solid,Landfill,Beare Rd,Biogas capture,56218.80221239729
+2017,CO2e,Solid,Landfill,Beare Rd,Flaring,1044.0634696588074
+2017,CO2e,Solid,Landfill,Brock West,Leaking,451640.9192131643
+2017,CO2e,Solid,Landfill,MI - Carleton farms,Biogas capture,122199.16032994816
+2017,CO2e,Solid,Landfill,MI - Carleton farms,Flaring,1832.9874049492237
+2017,CO2e,Solid,Landfill,Green Lane,Biogas capture,97193.18223335852
+2017,CO2e,Solid,Landfill,Green Lane,Flaring,2915.795467000759
+2017,CO2e,Solid,Landfill,Keele Valley,Biogas capture,537494.4309210918
+2017,CO2e,Solid,Landfill,Keele Valley,Flaring,4138.2314593039855
+2017,CO2e,Solid,Landfill,Thackeray,Leaking,30593.085688576575
+2017,CO2e,Water,Fresh water,F.J Horgan Water Treatment Plant,Process,560.2499053068657
+2017,CO2e,Water,Fresh water,Island Water Treatment Plant,Process,308.1613693482878
+2017,CO2e,Water,Fresh water,R.C. Harris Water Treatment Plant,Process,215.14064920514923
+2017,CO2e,Water,Fresh water,R.L. Clark Water Treatment Plant,Process,735.25995544128
+2017,CO2e,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,12734.58146249675
+2017,CO2e,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Flaring,0.002477972554279105
+2017,CO2e,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Process,11403.159827931771
+2017,CO2e,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,2906.70070108976
+2017,CO2e,Water,Waste water,Humber Wastewater Treatment Plant,Flaring,0.002356134489703652
+2017,CO2e,Water,Waste water,Humber Wastewater Treatment Plant,Process,4172.914147433283
+2017,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,2661.3459495223515
+2017,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Flaring,0.00247184805331026
+2017,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,28978.949577951593
+2017,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Process,3395.108319962914
+2017,CO2e,Water,Waste water,North Toronto Wastewater Treatment Plant,Process,454.9800621001524
+2017,N2O,Solid,Green Bin,Compost,Leaking,50.99049543310785
+2017,N2O,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Flaring,6.123490661315745e-06
+2017,N2O,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Process,38.26563700648247
+2017,N2O,Water,Waste water,Humber Wastewater Treatment Plant,Flaring,5.716492253054413e-06
+2017,N2O,Water,Waste water,Humber Wastewater Treatment Plant,Process,14.003067608836512
+2017,N2O,Water,Waste water,Highland Creek Waterwater Treatment Plant,Flaring,6.108355980173624e-06
+2017,N2O,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,37.34763660440124
+2017,N2O,Water,Waste water,Highland Creek Waterwater Treatment Plant,Process,11.392980939472862
+2017,N2O,Water,Waste water,North Toronto Wastewater Treatment Plant,Process,1.5267787318797064
+2018,CH4,Solid,Green Bin,Compost,Leaking,707.368650730987
+2018,CH4,Solid,Green Bin,Dufferin,Anaerobic Digester,25.823004719730957
+2018,CH4,Solid,Green Bin,Disco Road,Anaerobic Digester,137.1070941172302
+2018,CH4,Solid,Green Bin,Disco Road,Flaring,0.08635553519233853
+2018,CH4,Solid,Landfill,MI - Arbor Hills,Biogas capture,1814.125105169613
+2018,CH4,Solid,Landfill,MI - Arbor Hills,Flaring,33.69089481029284
+2018,CH4,Solid,Landfill,Beare Rd,Biogas capture,2559.2873022249946
+2018,CH4,Solid,Landfill,Beare Rd,Flaring,47.529621327035656
+2018,CH4,Solid,Landfill,Brock West,Leaking,20560.361021931974
+2018,CH4,Solid,Landfill,MI - Carleton farms,Biogas capture,5562.956645597604
+2018,CH4,Solid,Landfill,MI - Carleton farms,Flaring,83.44434968396409
+2018,CH4,Solid,Landfill,Green Lane,Biogas capture,4974.115918787773
+2018,CH4,Solid,Landfill,Green Lane,Flaring,149.22347756363328
+2018,CH4,Solid,Landfill,Keele Valley,Biogas capture,24468.7296409466
+2018,CH4,Solid,Landfill,Keele Valley,Flaring,188.387564492244
+2018,CH4,Solid,Landfill,Thackeray,Leaking,1392.7101371325448
+2018,CH4,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,0.7867089579751458
+2018,CH4,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Flaring,3.365367788529849e-05
+2018,CH4,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,0.3530698159400463
+2018,CH4,Water,Waste water,Humber Wastewater Treatment Plant,Flaring,3.362268897707549e-05
+2018,CH4,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,0.1643499561934368
+2018,CH4,Water,Waste water,Highland Creek Waterwater Treatment Plant,Flaring,3.3560790908615026e-05
+2018,CH4,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,1.5074871623513066
+2018,CO2,Solid,Green Bin,Dufferin,Anaerobic Digester,71.05445658556373
+2018,CO2,Solid,Green Bin,Disco Road,Anaerobic Digester,142.82839195056926
+2018,CO2,Water,Fresh water,F.J Horgan Water Treatment Plant,Process,30572.29266675159
+2018,CO2,Water,Fresh water,R.C. Harris Water Treatment Plant,Process,29989.01159223579
+2018,CO2,Water,Fresh water,R.L. Clark Water Treatment Plant,Process,18411.01616222689
+2018,CO2,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,12801.229825551827
+2018,CO2,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,2917.8898671157867
+2018,CO2,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,2674.28194343508
+2018,CO2,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,17936.294373861874
+2018,CO2,Water,Waste water,North Toronto Wastewater Treatment Plant,Process,1794.677002965096
+2018,CO2e,Solid,Green Bin,Compost,Leaking,30664.431009188294
+2018,CO2e,Solid,Green Bin,Dufferin,Anaerobic Digester,613.3375556999138
+2018,CO2e,Solid,Green Bin,Disco Road,Anaerobic Digester,3022.0773684124033
+2018,CO2e,Solid,Green Bin,Disco Road,Flaring,1.8134662390391088
+2018,CO2e,Solid,Landfill,MI - Arbor Hills,Biogas capture,38096.62720856189
+2018,CO2e,Solid,Landfill,MI - Arbor Hills,Flaring,707.5087910161499
+2018,CO2e,Solid,Landfill,Beare Rd,Biogas capture,53745.03334672491
+2018,CO2e,Solid,Landfill,Beare Rd,Flaring,998.1220478677492
+2018,CO2e,Solid,Landfill,Brock West,Leaking,431767.5814605715
+2018,CO2e,Solid,Landfill,MI - Carleton farms,Biogas capture,116822.08955754968
+2018,CO2e,Solid,Landfill,MI - Carleton farms,Flaring,1752.3313433632463
+2018,CO2e,Solid,Landfill,Green Lane,Biogas capture,104456.43429454326
+2018,CO2e,Solid,Landfill,Green Lane,Flaring,3133.6930288362996
+2018,CO2e,Solid,Landfill,Keele Valley,Biogas capture,513843.3224598788
+2018,CO2e,Solid,Landfill,Keele Valley,Flaring,3956.138854337123
+2018,CO2e,Solid,Landfill,Thackeray,Leaking,29246.91287978345
+2018,CO2e,Water,Fresh water,F.J Horgan Water Treatment Plant,Process,564.758627929154
+2018,CO2e,Water,Fresh water,Island Water Treatment Plant,Process,310.6413593025863
+2018,CO2e,Water,Fresh water,R.C. Harris Water Treatment Plant,Process,216.8720364001871
+2018,CO2e,Water,Fresh water,R.L. Clark Water Treatment Plant,Process,741.177106274752
+2018,CO2e,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,12817.75071366931
+2018,CO2e,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Flaring,0.002681146450024375
+2018,CO2e,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Process,11478.926646297925
+2018,CO2e,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,2925.3043332505285
+2018,CO2e,Water,Waste water,Humber Wastewater Treatment Plant,Flaring,0.002549127568907717
+2018,CO2e,Water,Waste water,Humber Wastewater Treatment Plant,Process,4200.640534914862
+2018,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,2677.7332925151413
+2018,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Flaring,0.002673746260700723
+2018,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,29171.496478595927
+2018,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Process,3417.6666776850857
+2018,CO2e,Water,Waste water,North Toronto Wastewater Treatment Plant,Process,458.003118155531
+2018,N2O,Solid,Green Bin,Compost,Leaking,53.05264880482402
+2018,N2O,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Flaring,6.625567833668141e-06
+2018,N2O,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Process,38.51988807482526
+2018,N2O,Water,Waste water,Humber Wastewater Treatment Plant,Flaring,6.184735236205142e-06
+2018,N2O,Water,Waste water,Humber Wastewater Treatment Plant,Process,14.096109177566648
+2018,N2O,Water,Waste water,Highland Creek Waterwater Treatment Plant,Flaring,6.607280710133582e-06
+2018,N2O,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,37.595788168874776
+2018,N2O,Water,Waste water,Highland Creek Waterwater Treatment Plant,Process,11.468680126460018
+2018,N2O,Water,Waste water,North Toronto Wastewater Treatment Plant,Process,1.536923215287017
+2019,CH4,Solid,Green Bin,Compost,Leaking,661.6906577812296
+2019,CH4,Solid,Green Bin,Dufferin,Anaerobic Digester,118.64978180048945
+2019,CH4,Solid,Green Bin,Disco Road,Anaerobic Digester,137.27778482907567
+2019,CH4,Solid,Green Bin,Disco Road,Flaring,0.1148431073487344
+2019,CH4,Solid,Landfill,MI - Arbor Hills,Biogas capture,1734.2990322723572
+2019,CH4,Solid,Landfill,MI - Arbor Hills,Flaring,32.2084105993438
+2019,CH4,Solid,Landfill,Beare Rd,Biogas capture,2446.6722162145225
+2019,CH4,Solid,Landfill,Beare Rd,Flaring,45.43819830112689
+2019,CH4,Solid,Landfill,Brock West,Leaking,19655.653362546393
+2019,CH4,Solid,Landfill,MI - Carleton farms,Biogas capture,5318.172544738018
+2019,CH4,Solid,Landfill,MI - Carleton farms,Flaring,79.7725881710703
+2019,CH4,Solid,Landfill,Green Lane,Biogas capture,5316.698999461953
+2019,CH4,Solid,Landfill,Green Lane,Flaring,159.50096998385868
+2019,CH4,Solid,Landfill,Keele Valley,Biogas capture,23392.043920399887
+2019,CH4,Solid,Landfill,Keele Valley,Flaring,180.09803726325595
+2019,CH4,Solid,Landfill,Thackeray,Leaking,1331.427384022145
+2019,CH4,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,0.7920300731852747
+2019,CH4,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Flaring,3.4853992479873865e-05
+2019,CH4,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,0.3554178685000003
+2019,CH4,Water,Waste water,Humber Wastewater Treatment Plant,Flaring,3.482027665789933e-05
+2019,CH4,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,0.16540798450959962
+2019,CH4,Water,Waste water,Highland Creek Waterwater Treatment Plant,Flaring,3.4751169053165516e-05
+2019,CH4,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,1.5178338137427811
+2019,CO2,Solid,Green Bin,Dufferin,Anaerobic Digester,150.96235056482425
+2019,CO2,Solid,Green Bin,Disco Road,Anaerobic Digester,138.00986608142668
+2019,CO2,Water,Fresh water,F.J Horgan Water Treatment Plant,Process,30826.09000411465
+2019,CO2,Water,Fresh water,R.C. Harris Water Treatment Plant,Process,30237.96679409837
+2019,CO2,Water,Fresh water,R.L. Clark Water Treatment Plant,Process,18563.856085978627
+2019,CO2,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,12887.814347111644
+2019,CO2,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,2937.294977558047
+2019,CO2,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,2691.4980479421415
+2019,CO2,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,18059.400287979075
+2019,CO2,Water,Waste water,North Toronto Wastewater Treatment Plant,Process,1806.9947836923377
+2019,CO2e,Solid,Green Bin,Compost,Leaking,28684.29001481631
+2019,CO2e,Solid,Green Bin,Dufferin,Anaerobic Digester,2642.607768375102
+2019,CO2e,Solid,Green Bin,Disco Road,Anaerobic Digester,3020.8433474920153
+2019,CO2e,Solid,Green Bin,Disco Road,Flaring,2.4117052543234223
+2019,CO2e,Solid,Landfill,MI - Arbor Hills,Biogas capture,36420.2796777195
+2019,CO2e,Solid,Landfill,MI - Arbor Hills,Flaring,676.3766225862199
+2019,CO2e,Solid,Landfill,Beare Rd,Biogas capture,51380.11654050498
+2019,CO2e,Solid,Landfill,Beare Rd,Flaring,954.2021643236652
+2019,CO2e,Solid,Landfill,Brock West,Leaking,412768.7206134743
+2019,CO2e,Solid,Landfill,MI - Carleton farms,Biogas capture,111681.62343949836
+2019,CO2e,Solid,Landfill,MI - Carleton farms,Flaring,1675.2243515924772
+2019,CO2e,Solid,Landfill,Green Lane,Biogas capture,111650.678988701
+2019,CO2e,Solid,Landfill,Green Lane,Flaring,3349.520369661033
+2019,CO2e,Solid,Landfill,Keele Valley,Biogas capture,491232.9223283979
+2019,CO2e,Solid,Landfill,Keele Valley,Flaring,3782.058782528377
+2019,CO2e,Solid,Landfill,Thackeray,Leaking,27959.97506446503
+2019,CO2e,Water,Fresh water,F.J Horgan Water Treatment Plant,Process,569.4469984604847
+2019,CO2e,Water,Fresh water,Island Water Treatment Plant,Process,313.22016327788333
+2019,CO2e,Water,Fresh water,R.C. Harris Water Treatment Plant,Process,218.67240989468877
+2019,CO2e,Water,Fresh water,R.L. Clark Water Treatment Plant,Process,747.3300231701372
+2019,CO2e,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,12904.446978648535
+2019,CO2e,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Flaring,0.0027767740133809514
+2019,CO2e,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Process,11557.712357457294
+2019,CO2e,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,2944.7587527965475
+2019,CO2e,Water,Waste water,Humber Wastewater Treatment Plant,Flaring,0.0026399235125472557
+2019,CO2e,Water,Waste water,Humber Wastewater Treatment Plant,Process,4229.471667399091
+2019,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,2694.971615616843
+2019,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Flaring,0.0027685821995043795
+2019,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,29371.715301130294
+2019,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Process,3441.1238624273487
+2019,CO2e,Water,Waste water,North Toronto Wastewater Treatment Plant,Process,461.1466264149627
+2019,N2O,Solid,Green Bin,Compost,Leaking,49.62679933359222
+2019,N2O,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Flaring,6.861879769475168e-06
+2019,N2O,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Process,38.78426965589696
+2019,N2O,Water,Waste water,Humber Wastewater Treatment Plant,Flaring,6.405025848091846e-06
+2019,N2O,Water,Waste water,Humber Wastewater Treatment Plant,Process,14.192857944292252
+2019,N2O,Water,Waste water,Highland Creek Waterwater Treatment Plant,Flaring,6.8416364073419585e-06
+2019,N2O,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,37.853827191485315
+2019,N2O,Water,Waste water,Highland Creek Waterwater Treatment Plant,Process,11.547395511501168
+2019,N2O,Water,Waste water,North Toronto Wastewater Treatment Plant,Process,1.547471900721351
+2020,CH4,Solid,Green Bin,Compost,Leaking,685.1103085970533
+2020,CH4,Solid,Green Bin,Dufferin,Anaerobic Digester,112.4996884138483
+2020,CH4,Solid,Green Bin,Disco Road,Anaerobic Digester,134.39546000656347
+2020,CH4,Solid,Green Bin,Disco Road,Flaring,0.1466479712353315
+2020,CH4,Solid,Landfill,MI - Arbor Hills,Biogas capture,1657.9855075979556
+2020,CH4,Solid,Landfill,MI - Arbor Hills,Flaring,30.791159426819203
+2020,CH4,Solid,Landfill,Beare Rd,Biogas capture,2339.012477572093
+2020,CH4,Solid,Landfill,Beare Rd,Flaring,43.43880315491033
+2020,CH4,Solid,Landfill,Brock West,Leaking,18790.755118378653
+2020,CH4,Solid,Landfill,MI - Carleton farms,Biogas capture,5084.159560723474
+2020,CH4,Solid,Landfill,MI - Carleton farms,Flaring,76.26239341085214
+2020,CH4,Solid,Landfill,Green Lane,Biogas capture,5603.998912746959
+2020,CH4,Solid,Landfill,Green Lane,Flaring,168.1199673824089
+2020,CH4,Solid,Landfill,Keele Valley,Biogas capture,22362.735082831565
+2020,CH4,Solid,Landfill,Keele Valley,Flaring,172.17327010675646
+2020,CH4,Solid,Landfill,Thackeray,Leaking,1272.8412263688017
+2020,CH4,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,0.7972268353527187
+2020,CH4,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Flaring,3.390335317516637e-05
+2020,CH4,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,0.35771830730189247
+2020,CH4,Water,Waste water,Humber Wastewater Treatment Plant,Flaring,3.3870905921051025e-05
+2020,CH4,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,0.1664514014220769
+2020,CH4,Water,Waste water,Highland Creek Waterwater Treatment Plant,Flaring,3.380411550864194e-05
+2020,CH4,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,1.527909401764954
+2020,CO2,Solid,Green Bin,Dufferin,Anaerobic Digester,176.38777884449348
+2020,CO2,Solid,Green Bin,Disco Road,Anaerobic Digester,162.67636624773863
+2020,CO2,Water,Fresh water,F.J Horgan Water Treatment Plant,Process,31073.238305878614
+2020,CO2,Water,Fresh water,R.C. Harris Water Treatment Plant,Process,30480.399815639263
+2020,CO2,Water,Fresh water,R.L. Clark Water Treatment Plant,Process,18712.691877518515
+2020,CO2,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,12972.375411505014
+2020,CO2,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,2956.3065915984293
+2020,CO2,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,2708.4763975148576
+2020,CO2,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,18179.28105198743
+2020,CO2,Water,Waste water,North Toronto Wastewater Treatment Plant,Process,1818.9898607675368
+2020,CO2e,Solid,Green Bin,Compost,Leaking,29699.53187768226
+2020,CO2e,Solid,Green Bin,Dufferin,Anaerobic Digester,2538.8812355353084
+2020,CO2e,Solid,Green Bin,Disco Road,Anaerobic Digester,2984.9810263855716
+2020,CO2e,Solid,Green Bin,Disco Road,Flaring,3.0796073959419616
+2020,CO2e,Solid,Landfill,MI - Arbor Hills,Biogas capture,34817.69565955708
+2020,CO2e,Solid,Landfill,MI - Arbor Hills,Flaring,646.6143479632035
+2020,CO2e,Solid,Landfill,Beare Rd,Biogas capture,49119.262029013975
+2020,CO2e,Solid,Landfill,Beare Rd,Flaring,912.2148662531172
+2020,CO2e,Solid,Landfill,Brock West,Leaking,394605.8574859518
+2020,CO2e,Solid,Landfill,MI - Carleton farms,Biogas capture,106767.35077519296
+2020,CO2e,Solid,Landfill,MI - Carleton farms,Flaring,1601.5102616278955
+2020,CO2e,Solid,Landfill,Green Lane,Biogas capture,117683.97716768614
+2020,CO2e,Solid,Landfill,Green Lane,Flaring,3530.519315030588
+2020,CO2e,Solid,Landfill,Keele Valley,Biogas capture,469617.436739463
+2020,CO2e,Solid,Landfill,Keele Valley,Flaring,3615.638672241887
+2020,CO2e,Solid,Landfill,Thackeray,Leaking,26729.66575374483
+2020,CO2e,Water,Fresh water,F.J Horgan Water Treatment Plant,Process,574.0125420818695
+2020,CO2e,Water,Fresh water,Island Water Treatment Plant,Process,315.73140720846465
+2020,CO2e,Water,Fresh water,R.C. Harris Water Treatment Plant,Process,220.42561682853488
+2020,CO2e,Water,Fresh water,R.L. Clark Water Treatment Plant,Process,753.3217446643517
+2020,CO2e,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,12989.11717504742
+2020,CO2e,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Flaring,0.0027010377682740363
+2020,CO2e,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Process,11634.434024259715
+2020,CO2e,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,2963.818676051769
+2020,CO2e,Water,Waste water,Humber Wastewater Treatment Plant,Flaring,0.002567946309294289
+2020,CO2e,Water,Waste water,Humber Wastewater Treatment Plant,Process,4257.547475413224
+2020,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,2711.971876944721
+2020,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Flaring,0.002693131627429117
+2020,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,29566.688756194526
+2020,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Process,3463.966510590606
+2020,CO2e,Water,Waste water,North Toronto Wastewater Treatment Plant,Process,464.20778042422495
+2020,N2O,Solid,Green Bin,Compost,Leaking,51.38327314477899
+2020,N2O,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Flaring,6.674722656360881e-06
+2020,N2O,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Process,39.04172491362322
+2020,N2O,Water,Waste water,Humber Wastewater Treatment Plant,Flaring,6.23039357366516e-06
+2020,N2O,Water,Waste water,Humber Wastewater Treatment Plant,Process,14.287072065145043
+2020,N2O,Water,Waste water,Highland Creek Waterwater Treatment Plant,Flaring,6.6551852407638815e-06
+2020,N2O,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,38.10510606298671
+2020,N2O,Water,Waste water,Highland Creek Waterwater Treatment Plant,Process,11.624048693257064
+2020,N2O,Water,Waste water,North Toronto Wastewater Treatment Plant,Process,1.557744229611493
+2021,CH4,Solid,Green Bin,Compost,Leaking,611.957172062923
+2021,CH4,Solid,Green Bin,Dufferin,Anaerobic Digester,157.934857318477
+2021,CH4,Solid,Green Bin,Disco Road,Anaerobic Digester,143.34270364988976
+2021,CH4,Solid,Green Bin,Disco Road,Flaring,0.09423077497814622
+2021,CH4,Solid,Landfill,MI - Arbor Hills,Biogas capture,1585.0299701794197
+2021,CH4,Solid,Landfill,MI - Arbor Hills,Flaring,29.436270874760684
+2021,CH4,Solid,Landfill,Beare Rd,Biogas capture,2236.090038535122
+2021,CH4,Solid,Landfill,Beare Rd,Flaring,41.52738642993802
+2021,CH4,Solid,Landfill,Brock West,Leaking,17963.91457491242
+2021,CH4,Solid,Landfill,MI - Carleton farms,Biogas capture,4860.443737289321
+2021,CH4,Solid,Landfill,MI - Carleton farms,Flaring,72.90665605933984
+2021,CH4,Solid,Landfill,Green Lane,Biogas capture,5859.54272548774
+2021,CH4,Solid,Landfill,Green Lane,Flaring,175.78628176463235
+2021,CH4,Solid,Landfill,Keele Valley,Biogas capture,21378.718426087697
+2021,CH4,Solid,Landfill,Keele Valley,Flaring,164.59721266102937
+2021,CH4,Solid,Landfill,Thackeray,Leaking,1216.8330071819296
+2021,CH4,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,0.8023148709768345
+2021,CH4,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Flaring,3.251099362987053e-05
+2021,CH4,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,0.35996804281308964
+2021,CH4,Water,Waste water,Humber Wastewater Treatment Plant,Flaring,3.247977730036489e-05
+2021,CH4,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,0.16746886391034008
+2021,CH4,Water,Waste water,Highland Creek Waterwater Treatment Plant,Flaring,3.2415937275868e-05
+2021,CH4,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,1.5377862679851544
+2021,CO2,Solid,Green Bin,Dufferin,Anaerobic Digester,226.74439535258807
+2021,CO2,Solid,Green Bin,Disco Road,Anaerobic Digester,167.12941134239287
+2021,CO2,Water,Fresh water,F.J Horgan Water Treatment Plant,Process,31315.51207978357
+2021,CO2,Water,Fresh water,R.C. Harris Water Treatment Plant,Process,30718.05130920995
+2021,CO2,Water,Fresh water,R.L. Clark Water Treatment Plant,Process,18858.592167550247
+2021,CO2,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,13055.167291176178
+2021,CO2,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,2974.8991762812493
+2021,CO2,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,2725.0324199410643
+2021,CO2,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,18296.797396034068
+2021,CO2,Water,Waste water,North Toronto Wastewater Treatment Plant,Process,1830.7483578676488
+2021,CO2e,Solid,Green Bin,Compost,Leaking,26528.34340892772
+2021,CO2e,Solid,Green Bin,Dufferin,Anaerobic Digester,3543.3763990406046
+2021,CO2e,Solid,Green Bin,Disco Road,Anaerobic Digester,3177.3261879900774
+2021,CO2e,Solid,Green Bin,Disco Road,Flaring,1.9788462745410704
+2021,CO2e,Solid,Landfill,MI - Arbor Hills,Biogas capture,33285.629373767835
+2021,CO2e,Solid,Landfill,MI - Arbor Hills,Flaring,618.1616883699743
+2021,CO2e,Solid,Landfill,Beare Rd,Biogas capture,46957.890809237586
+2021,CO2e,Solid,Landfill,Beare Rd,Flaring,872.0751150286987
+2021,CO2e,Solid,Landfill,Brock West,Leaking,377242.2060731608
+2021,CO2e,Solid,Landfill,MI - Carleton farms,Biogas capture,102069.31848307574
+2021,CO2e,Solid,Landfill,MI - Carleton farms,Flaring,1531.039777246137
+2021,CO2e,Solid,Landfill,Green Lane,Biogas capture,123050.39723524258
+2021,CO2e,Solid,Landfill,Green Lane,Flaring,3691.51191705728
+2021,CO2e,Solid,Landfill,Keele Valley,Biogas capture,448953.08694784186
+2021,CO2e,Solid,Landfill,Keele Valley,Flaring,3456.5414658816157
+2021,CO2e,Solid,Landfill,Thackeray,Leaking,25553.493150820515
+2021,CO2e,Water,Fresh water,F.J Horgan Water Treatment Plant,Process,578.4880390815797
+2021,CO2e,Water,Fresh water,Island Water Treatment Plant,Process,318.1931216523741
+2021,CO2e,Water,Fresh water,R.C. Harris Water Treatment Plant,Process,222.14424510656536
+2021,CO2e,Water,Fresh water,R.L. Clark Water Treatment Plant,Process,759.19529090427
+2021,CO2e,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,13072.01590346669
+2021,CO2e,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Flaring,0.002590110223749749
+2021,CO2e,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Process,11709.642502509749
+2021,CO2e,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,2982.458505180324
+2021,CO2e,Water,Waste water,Humber Wastewater Treatment Plant,Flaring,0.002462476924578943
+2021,CO2e,Water,Waste water,Humber Wastewater Treatment Plant,Process,4285.069542108698
+2021,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,2728.5492660831815
+2021,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Flaring,0.002582537202846809
+2021,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,29757.816730851857
+2021,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Process,3486.3586316900623
+2021,CO2e,Water,Waste water,North Toronto Wastewater Treatment Plant,Process,467.2085590199147
+2021,N2O,Solid,Green Bin,Compost,Leaking,45.89678790471922
+2021,N2O,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Flaring,6.400601870880764e-06
+2021,N2O,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Process,39.294102357415255
+2021,N2O,Water,Waste water,Humber Wastewater Treatment Plant,Flaring,5.974502017688861e-06
+2021,N2O,Water,Waste water,Humber Wastewater Treatment Plant,Process,14.379427993653351
+2021,N2O,Water,Waste water,Highland Creek Waterwater Treatment Plant,Flaring,6.3818876511865125e-06
+2021,N2O,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,38.35142893687956
+2021,N2O,Water,Waste water,Highland Creek Waterwater Treatment Plant,Process,11.699190039228393
+2021,N2O,Water,Waste water,North Toronto Wastewater Treatment Plant,Process,1.5678139564426663
+2022,CH4,Solid,Green Bin,Compost,Leaking,618.5016868785608
+2022,CH4,Solid,Green Bin,Dufferin,Anaerobic Digester,157.94810200344608
+2022,CH4,Solid,Green Bin,Disco Road,Anaerobic Digester,143.3576738916591
+2022,CH4,Solid,Green Bin,Disco Road,Flaring,0.09175544706821406
+2022,CH4,Solid,Landfill,MI - Arbor Hills,Biogas capture,1515.2846601215183
+2022,CH4,Solid,Landfill,MI - Arbor Hills,Flaring,28.141000830828233
+2022,CH4,Solid,Landfill,Beare Rd,Biogas capture,2137.6964459916553
+2022,CH4,Solid,Landfill,Beare Rd,Flaring,39.700076854130785
+2022,CH4,Solid,Landfill,Brock West,Leaking,17173.4570974812
+2022,CH4,Solid,Landfill,MI - Carleton farms,Biogas capture,4646.571973440053
+2022,CH4,Solid,Landfill,MI - Carleton farms,Flaring,69.69857960160081
+2022,CH4,Solid,Landfill,Green Lane,Biogas capture,6106.771770223979
+2022,CH4,Solid,Landfill,Green Lane,Flaring,183.2031531067195
+2022,CH4,Solid,Landfill,Keele Valley,Biogas capture,20438.000980158733
+2022,CH4,Solid,Landfill,Keele Valley,Flaring,157.35452082069128
+2022,CH4,Solid,Landfill,Thackeray,Leaking,1163.289290677323
+2022,CH4,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,0.8060014644420203
+2022,CH4,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Flaring,3.0995933747631215e-05
+2022,CH4,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,0.3615888138946724
+2022,CH4,Water,Waste water,Humber Wastewater Treatment Plant,Flaring,3.096687201745377e-05
+2022,CH4,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,0.16819373392922618
+2022,CH4,Water,Waste water,Highland Creek Waterwater Treatment Plant,Flaring,3.090741741971057e-05
+2022,CH4,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,1.544976367495018
+2022,CO2,Solid,Green Bin,Dufferin,Anaerobic Digester,246.87638441031297
+2022,CO2,Solid,Green Bin,Disco Road,Anaerobic Digester,179.56703934746977
+2022,CO2,Water,Fresh water,F.J Horgan Water Treatment Plant,Process,31491.881044039717
+2022,CO2,Water,Fresh water,R.C. Harris Water Treatment Plant,Process,30891.05537440248
+2022,CO2,Water,Fresh water,R.L. Clark Water Treatment Plant,Process,18964.80375877142
+2022,CO2,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,13115.1550792175
+2022,CO2,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,2988.2937835298835
+2022,CO2,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,2736.827414279628
+2022,CO2,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,18382.346211710297
+2022,CO2,Water,Waste water,North Toronto Wastewater Treatment Plant,Process,1839.3082359964371
+2022,CO2e,Solid,Green Bin,Compost,Leaking,26812.04812618561
+2022,CO2e,Solid,Green Bin,Dufferin,Anaerobic Digester,3563.7865264826796
+2022,CO2e,Solid,Green Bin,Disco Road,Anaerobic Digester,3190.07819107231
+2022,CO2e,Solid,Green Bin,Disco Road,Flaring,1.926864388432496
+2022,CO2e,Solid,Landfill,MI - Arbor Hills,Biogas capture,31820.977862551896
+2022,CO2e,Solid,Landfill,MI - Arbor Hills,Flaring,590.9610174473929
+2022,CO2e,Solid,Landfill,Beare Rd,Biogas capture,44891.62536582478
+2022,CO2e,Solid,Landfill,Beare Rd,Flaring,833.7016139367465
+2022,CO2e,Solid,Landfill,Brock West,Leaking,360642.5990471053
+2022,CO2e,Solid,Landfill,MI - Carleton farms,Biogas capture,97578.01144224108
+2022,CO2e,Solid,Landfill,MI - Carleton farms,Flaring,1463.6701716336172
+2022,CO2e,Solid,Landfill,Green Lane,Biogas capture,128242.20717470357
+2022,CO2e,Solid,Landfill,Green Lane,Flaring,3847.26621524111
+2022,CO2e,Solid,Landfill,Keele Valley,Biogas capture,429198.02058333345
+2022,CO2e,Solid,Landfill,Keele Valley,Flaring,3304.444937234517
+2022,CO2e,Solid,Landfill,Thackeray,Leaking,24429.075104223775
+2022,CO2e,Water,Fresh water,F.J Horgan Water Treatment Plant,Process,581.7460837209799
+2022,CO2e,Water,Fresh water,Island Water Treatment Plant,Process,319.9851853156223
+2022,CO2e,Water,Fresh water,R.C. Harris Water Treatment Plant,Process,223.39536149623137
+2022,CO2e,Water,Fresh water,R.L. Clark Water Treatment Plant,Process,763.471078787074
+2022,CO2e,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,13132.08110997078
+2022,CO2e,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Flaring,0.002469407296756595
+2022,CO2e,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Process,11764.392306012844
+2022,CO2e,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,2995.8871486216735
+2022,CO2e,Water,Waste water,Humber Wastewater Treatment Plant,Flaring,0.0023477749574506053
+2022,CO2e,Water,Waste water,Humber Wastewater Treatment Plant,Process,4305.1048857260475
+2022,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,2740.3594826921403
+2022,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Flaring,0.002462355311556566
+2022,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,29896.952882569127
+2022,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Process,3502.6595091589325
+2022,CO2e,Water,Waste water,North Toronto Wastewater Treatment Plant,Process,469.39304729693566
+2022,N2O,Solid,Green Bin,Compost,Leaking,46.38762651589206
+2022,N2O,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Flaring,6.1023244565648945e-06
+2022,N2O,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Process,39.47782653024445
+2022,N2O,Water,Waste water,Humber Wastewater Treatment Plant,Flaring,5.696210218402939e-06
+2022,N2O,Water,Waste water,Humber Wastewater Treatment Plant,Process,14.44666069035586
+2022,N2O,Water,Waste water,Highland Creek Waterwater Treatment Plant,Flaring,6.084897804505517e-06
+2022,N2O,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,38.53074552732026
+2022,N2O,Water,Waste water,Highland Creek Waterwater Treatment Plant,Process,11.753890970331986
+2022,N2O,Water,Waste water,North Toronto Wastewater Treatment Plant,Process,1.575144454016562
+2023,CH4,Solid,Green Bin,Compost,Biogas upgrade,0.0001931503840442791
+2023,CH4,Solid,Green Bin,Compost,Biogas capture,5.664463533011141
+2023,CH4,Solid,Green Bin,Compost,Leaking,592.8808541756803
+2023,CH4,Solid,Green Bin,Dufferin,Anaerobic Digester,157.83604189330688
+2023,CH4,Solid,Green Bin,Dufferin,Gasification,0.00042957658144823654
+2023,CH4,Solid,Green Bin,Disco Road,Anaerobic Digester,143.24484404615907
+2023,CH4,Solid,Green Bin,Disco Road,Flaring,0.1188177044906868
+2023,CH4,Solid,Green Bin,Disco Road,Gasification,0.0004364130310360684
+2023,CH4,Solid,Landfill,MI - Arbor Hills,Biogas upgrade,0.0001489418655988083
+2023,CH4,Solid,Landfill,MI - Arbor Hills,Biogas capture,1445.4254708141211
+2023,CH4,Solid,Landfill,MI - Arbor Hills,Flaring,26.602793916853965
+2023,CH4,Solid,Landfill,Beare Rd,Biogas upgrade,0.00015413122658961952
+2023,CH4,Solid,Landfill,Beare Rd,Biogas capture,2040.3494980778387
+2023,CH4,Solid,Landfill,Beare Rd,Flaring,37.639877706176975
+2023,CH4,Solid,Landfill,Brock West,Biogas upgrade,0.00013645559503383802
+2023,CH4,Solid,Landfill,Brock West,Biogas capture,5.703236908561988
+2023,CH4,Solid,Landfill,Brock West,Leaking,16384.2332871575
+2023,CH4,Solid,Landfill,MI - Carleton farms,Biogas upgrade,0.00016172022072986843
+2023,CH4,Solid,Landfill,MI - Carleton farms,Biogas capture,4437.652604652748
+2023,CH4,Solid,Landfill,MI - Carleton farms,Flaring,66.30750193110764
+2023,CH4,Solid,Landfill,Green Lane,Biogas upgrade,0.003491206923287202
+2023,CH4,Solid,Landfill,Green Lane,Biogas capture,6344.533937282833
+2023,CH4,Solid,Landfill,Green Lane,Flaring,178.9099412766385
+2023,CH4,Solid,Landfill,Keele Valley,Biogas upgrade,0.0033231218951987745
+2023,CH4,Solid,Landfill,Keele Valley,Biogas capture,19530.454638232706
+2023,CH4,Solid,Landfill,Keele Valley,Flaring,140.04861829761097
+2023,CH4,Solid,Landfill,Thackeray,Biogas upgrade,0.00010566727533282866
+2023,CH4,Solid,Landfill,Thackeray,Biogas capture,4.683821574106823
+2023,CH4,Solid,Landfill,Thackeray,Leaking,1084.549740918541
+2023,CH4,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,0.8099177018083292
+2023,CH4,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Flaring,2.8990071223896757e-05
+2023,CH4,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,0.36331406640461966
+2023,CH4,Water,Waste water,Humber Wastewater Treatment Plant,Flaring,2.8971986196224904e-05
+2023,CH4,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,0.16898062848734777
+2023,CH4,Water,Waste water,Highland Creek Waterwater Treatment Plant,Flaring,2.893526004290291e-05
+2023,CH4,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,1.5525433989422477
+2023,CO2,Solid,Green Bin,Compost,Biogas upgrade,0.052319996321729186
+2023,CO2,Solid,Green Bin,Dufferin,Anaerobic Digester,602.1992764050083
+2023,CO2,Solid,Green Bin,Dufferin,Gasification,0.11636241508129908
+2023,CO2,Solid,Green Bin,Disco Road,Anaerobic Digester,471.418752115122
+2023,CO2,Solid,Green Bin,Disco Road,Gasification,0.1182142520272047
+2023,CO2,Solid,Landfill,MI - Arbor Hills,Biogas upgrade,0.04034492552960545
+2023,CO2,Solid,Landfill,Beare Rd,Biogas upgrade,0.041750604059807725
+2023,CO2,Solid,Landfill,Brock West,Biogas upgrade,0.036962682034393984
+2023,CO2,Solid,Landfill,MI - Carleton farms,Biogas upgrade,0.04380628801543695
+2023,CO2,Solid,Landfill,Green Lane,Biogas upgrade,0.9456876531133778
+2023,CO2,Solid,Landfill,Keele Valley,Biogas upgrade,0.9001572851835462
+2023,CO2,Solid,Landfill,Thackeray,Biogas upgrade,0.028622834399714924
+2023,CO2,Water,Fresh water,F.J Horgan Water Treatment Plant,Process,31677.49591761229
+2023,CO2,Water,Fresh water,R.C. Harris Water Treatment Plant,Process,31073.128948534988
+2023,CO2,Water,Fresh water,R.L. Clark Water Treatment Plant,Process,19076.58335196563
+2023,CO2,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,13178.879604112408
+2023,CO2,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,3002.551861082018
+2023,CO2,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,2749.6316641675626
+2023,CO2,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,18472.37981661482
+2023,CO2,Water,Waste water,North Toronto Wastewater Treatment Plant,Process,1848.3168543964305
+2023,CO2e,Solid,Green Bin,Compost,Biogas upgrade,0.05637615438665905
+2023,CO2e,Solid,Green Bin,Compost,Biogas capture,838.2762339818618
+2023,CO2e,Solid,Green Bin,Compost,Leaking,25701.385028515742
+2023,CO2e,Solid,Green Bin,Dufferin,Anaerobic Digester,3916.756156164453
+2023,CO2e,Solid,Green Bin,Dufferin,Gasification,0.12538352329171207
+2023,CO2e,Solid,Green Bin,Disco Road,Anaerobic Digester,3479.5604770844616
+2023,CO2e,Solid,Green Bin,Disco Road,Flaring,2.495171794304422
+2023,CO2e,Solid,Green Bin,Disco Road,Gasification,0.12737892567896214
+2023,CO2e,Solid,Landfill,MI - Arbor Hills,Biogas upgrade,0.04347270470718042
+2023,CO2e,Solid,Landfill,MI - Arbor Hills,Biogas capture,30353.934887096555
+2023,CO2e,Solid,Landfill,MI - Arbor Hills,Flaring,558.6586722539334
+2023,CO2e,Solid,Landfill,Beare Rd,Biogas upgrade,0.04498735981818974
+2023,CO2e,Solid,Landfill,Beare Rd,Biogas capture,42847.33945963463
+2023,CO2e,Solid,Landfill,Beare Rd,Flaring,790.4374318297168
+2023,CO2e,Solid,Landfill,Brock West,Biogas upgrade,0.03982824953010458
+2023,CO2e,Solid,Landfill,Brock West,Biogas capture,119.76797507980172
+2023,CO2e,Solid,Landfill,Brock West,Leaking,344068.8990303076
+2023,CO2e,Solid,Landfill,MI - Carleton farms,Biogas upgrade,0.047202412650764185
+2023,CO2e,Solid,Landfill,MI - Carleton farms,Biogas capture,93190.70469770771
+2023,CO2e,Solid,Landfill,MI - Carleton farms,Flaring,1392.4575405532603
+2023,CO2e,Solid,Landfill,Green Lane,Biogas upgrade,1.0190029985024087
+2023,CO2e,Solid,Landfill,Green Lane,Biogas capture,133235.2126829395
+2023,CO2e,Solid,Landfill,Green Lane,Flaring,3757.10876680941
+2023,CO2e,Solid,Landfill,Keele Valley,Biogas upgrade,0.9699428449827203
+2023,CO2e,Solid,Landfill,Keele Valley,Biogas capture,410139.5474028871
+2023,CO2e,Solid,Landfill,Keele Valley,Flaring,2941.0209842498307
+2023,CO2e,Solid,Landfill,Thackeray,Biogas upgrade,0.03084184718170433
+2023,CO2e,Solid,Landfill,Thackeray,Biogas capture,98.36025305624332
+2023,CO2e,Solid,Landfill,Thackeray,Leaking,22775.544559289352
+2023,CO2e,Water,Fresh water,F.J Horgan Water Treatment Plant,Process,585.1749270355841
+2023,CO2e,Water,Fresh water,Island Water Treatment Plant,Process,321.8711955426679
+2023,CO2e,Water,Fresh water,R.C. Harris Water Treatment Plant,Process,224.71206600567015
+2023,CO2e,Water,Fresh water,R.L. Clark Water Treatment Plant,Process,767.9710191867364
+2023,CO2e,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,13195.88787585038
+2023,CO2e,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Flaring,0.002309602736818825
+2023,CO2e,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Process,11822.01229523579
+2023,CO2e,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,3010.181456476515
+2023,CO2e,Water,Waste water,Humber Wastewater Treatment Plant,Flaring,0.0021965313003122723
+2023,CO2e,Water,Waste water,Humber Wastewater Treatment Plant,Process,4326.190556051906
+2023,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,2753.180257365796
+2023,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Flaring,0.002305235998543021
+2023,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,30043.383072310826
+2023,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Process,3519.814938571235
+2023,CO2e,Water,Waste water,North Toronto Wastewater Treatment Plant,Process,471.692054477979
+2023,N2O,Solid,Green Bin,Compost,Leaking,44.46606406317602
+2023,N2O,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Flaring,5.707420272204675e-06
+2023,N2O,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Process,39.671182198777835
+2023,N2O,Water,Waste water,Humber Wastewater Treatment Plant,Flaring,5.329260369770301e-06
+2023,N2O,Water,Waste water,Humber Wastewater Treatment Plant,Process,14.51741797332854
+2023,N2O,Water,Waste water,Highland Creek Waterwater Treatment Plant,Flaring,5.69662932094651e-06
+2023,N2O,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,38.71946256482626
+2023,N2O,Water,Waste water,Highland Creek Waterwater Treatment Plant,Process,11.811459525406828
+2023,N2O,Water,Waste water,North Toronto Wastewater Treatment Plant,Process,1.5828592432146944
+2024,CH4,Solid,Green Bin,Compost,Biogas upgrade,0.00031713112377369156
+2024,CH4,Solid,Green Bin,Compost,Biogas capture,9.796197902317488
+2024,CH4,Solid,Green Bin,Compost,Leaking,576.5460050527556
+2024,CH4,Solid,Green Bin,Dufferin,Anaerobic Digester,157.6542316220779
+2024,CH4,Solid,Green Bin,Dufferin,Gasification,0.0007944688330715221
+2024,CH4,Solid,Green Bin,Disco Road,Anaerobic Digester,143.02970856976575
+2024,CH4,Solid,Green Bin,Disco Road,Flaring,0.15485816941985536
+2024,CH4,Solid,Green Bin,Disco Road,Gasification,0.0008054333541281269
+2024,CH4,Solid,Landfill,MI - Arbor Hills,Biogas upgrade,0.00023327751815873008
+2024,CH4,Solid,Landfill,MI - Arbor Hills,Biogas capture,1378.6390276363888
+2024,CH4,Solid,Landfill,MI - Arbor Hills,Flaring,25.230346687717834
+2024,CH4,Solid,Landfill,Beare Rd,Biogas upgrade,0.00024120041113907855
+2024,CH4,Solid,Landfill,Beare Rd,Biogas capture,1947.2916515057466
+2024,CH4,Solid,Landfill,Beare Rd,Flaring,35.769402973524834
+2024,CH4,Solid,Landfill,Brock West,Biogas upgrade,0.00021764817682123655
+2024,CH4,Solid,Landfill,Brock West,Biogas capture,9.810404850658966
+2024,CH4,Solid,Landfill,Brock West,Leaking,15637.649736541862
+2024,CH4,Solid,Landfill,MI - Carleton farms,Biogas upgrade,0.00025275414903838325
+2024,CH4,Solid,Landfill,MI - Carleton farms,Biogas capture,4237.990818042384
+2024,CH4,Solid,Landfill,MI - Carleton farms,Flaring,63.16405065272548
+2024,CH4,Solid,Landfill,Green Lane,Biogas upgrade,0.002666675123184958
+2024,CH4,Solid,Landfill,Green Lane,Biogas capture,6575.033715759199
+2024,CH4,Solid,Landfill,Green Lane,Flaring,185.0039568539339
+2024,CH4,Solid,Landfill,Keele Valley,Biogas upgrade,0.0025899929586063247
+2024,CH4,Solid,Landfill,Keele Valley,Biogas capture,18663.132734123377
+2024,CH4,Solid,Landfill,Keele Valley,Flaring,132.6343045622807
+2024,CH4,Solid,Landfill,Thackeray,Biogas upgrade,0.00016765181672412992
+2024,CH4,Solid,Landfill,Thackeray,Biogas capture,7.701062249586504
+2024,CH4,Solid,Landfill,Thackeray,Leaking,1017.8659941392884
+2024,CH4,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,0.8139131885661512
+2024,CH4,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Flaring,2.741608178257997e-05
+2024,CH4,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,0.3650723211670839
+2024,CH4,Water,Waste water,Humber Wastewater Treatment Plant,Flaring,2.7403627502826432e-05
+2024,CH4,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,0.16977214377051414
+2024,CH4,Water,Waste water,Highland Creek Waterwater Treatment Plant,Flaring,2.7379876200657087e-05
+2024,CH4,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,1.5602907309239271
+2024,CO2,Solid,Green Bin,Compost,Biogas upgrade,0.08590352699242707
+2024,CO2,Solid,Green Bin,Dufferin,Anaerobic Digester,298.2761566618055
+2024,CO2,Solid,Green Bin,Dufferin,Gasification,0.21520333303868294
+2024,CO2,Solid,Green Bin,Disco Road,Anaerobic Digester,257.2362826828968
+2024,CO2,Solid,Green Bin,Disco Road,Gasification,0.218173369594342
+2024,CO2,Solid,Landfill,MI - Arbor Hills,Biogas upgrade,0.06318951397585053
+2024,CO2,Solid,Landfill,Beare Rd,Biogas upgrade,0.06533564344714507
+2024,CO2,Solid,Landfill,Brock West,Biogas upgrade,0.0589558849031729
+2024,CO2,Solid,Landfill,MI - Carleton farms,Biogas upgrade,0.06846528529272002
+2024,CO2,Solid,Landfill,Green Lane,Biogas upgrade,0.7223409537943198
+2024,CO2,Solid,Landfill,Keele Valley,Biogas upgrade,0.7015695192017973
+2024,CO2,Solid,Landfill,Thackeray,Biogas upgrade,0.04541302093568111
+2024,CO2,Water,Fresh water,F.J Horgan Water Treatment Plant,Process,31867.533462628948
+2024,CO2,Water,Fresh water,R.C. Harris Water Treatment Plant,Process,31259.54081507722
+2024,CO2,Water,Fresh water,R.L. Clark Water Treatment Plant,Process,19191.026333094163
+2024,CO2,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,13243.89366519984
+2024,CO2,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,3017.0826805505217
+2024,CO2,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,2762.5111019158353
+2024,CO2,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,18564.55866264804
+2024,CO2,Water,Waste water,North Toronto Wastewater Treatment Plant,Process,1857.5401220324095
+2024,CO2e,Solid,Green Bin,Compost,Biogas upgrade,0.09256328059167458
+2024,CO2e,Solid,Green Bin,Compost,Biogas capture,1449.7259691122754
+2024,CO2e,Solid,Green Bin,Compost,Leaking,24993.269319036957
+2024,CO2e,Solid,Green Bin,Dufferin,Anaerobic Digester,3609.015020725441
+2024,CO2e,Solid,Green Bin,Dufferin,Gasification,0.2318871785331849
+2024,CO2e,Solid,Green Bin,Disco Road,Anaerobic Digester,3260.8601626479776
+2024,CO2e,Solid,Green Bin,Disco Road,Flaring,3.2520215578169624
+2024,CO2e,Solid,Green Bin,Disco Road,Gasification,0.2350874700310327
+2024,CO2e,Solid,Landfill,MI - Arbor Hills,Biogas upgrade,0.06808834185718385
+2024,CO2e,Solid,Landfill,MI - Arbor Hills,Biogas capture,28951.41958036417
+2024,CO2e,Solid,Landfill,MI - Arbor Hills,Flaring,529.8372804420745
+2024,CO2e,Solid,Landfill,Beare Rd,Biogas upgrade,0.07040085208106571
+2024,CO2e,Solid,Landfill,Beare Rd,Biogas capture,40893.12468162069
+2024,CO2e,Solid,Landfill,Beare Rd,Flaring,751.1574624440217
+2024,CO2e,Solid,Landfill,Brock West,Biogas upgrade,0.06352649661641885
+2024,CO2e,Solid,Landfill,Brock West,Biogas capture,206.0185018638383
+2024,CO2e,Solid,Landfill,Brock West,Leaking,328390.64446737914
+2024,CO2e,Solid,Landfill,MI - Carleton farms,Biogas upgrade,0.07377312242252607
+2024,CO2e,Solid,Landfill,MI - Carleton farms,Biogas capture,88997.80717889009
+2024,CO2e,Solid,Landfill,MI - Carleton farms,Flaring,1326.4450637072352
+2024,CO2e,Solid,Landfill,Green Lane,Biogas upgrade,0.778341131381204
+2024,CO2e,Solid,Landfill,Green Lane,Biogas capture,138075.7080309432
+2024,CO2e,Solid,Landfill,Green Lane,Flaring,3885.083093932613
+2024,CO2e,Solid,Landfill,Keele Valley,Biogas upgrade,0.7559593713325302
+2024,CO2e,Solid,Landfill,Keele Valley,Biogas capture,391925.78741659113
+2024,CO2e,Solid,Landfill,Keele Valley,Flaring,2785.3203958078957
+2024,CO2e,Solid,Landfill,Thackeray,Biogas upgrade,0.04893370908688784
+2024,CO2e,Solid,Landfill,Thackeray,Biogas capture,161.72230724131663
+2024,CO2e,Solid,Landfill,Thackeray,Leaking,21375.18587692505
+2024,CO2e,Water,Fresh water,F.J Horgan Water Treatment Plant,Process,588.6854698764566
+2024,CO2e,Water,Fresh water,Island Water Treatment Plant,Process,323.8021439977649
+2024,CO2e,Water,Fresh water,R.C. Harris Water Treatment Plant,Process,226.06014381648137
+2024,CO2e,Water,Fresh water,R.L. Clark Water Treatment Plant,Process,772.5781802919823
+2024,CO2e,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,13260.98584215973
+2024,CO2e,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Flaring,0.002184204965515919
+2024,CO2e,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Process,11881.005203772696
+2024,CO2e,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,3024.749199295031
+2024,CO2e,Water,Waste water,Humber Wastewater Treatment Plant,Flaring,0.0020776250942677764
+2024,CO2e,Water,Waste water,Humber Wastewater Treatment Plant,Process,4347.778637455876
+2024,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,2766.0763169350166
+2024,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Flaring,0.0021813205120610984
+2024,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,30193.302271138076
+2024,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Process,3537.379133317298
+2024,CO2e,Water,Waste water,North Toronto Wastewater Treatment Plant,Process,474.0458403290722
+2024,N2O,Solid,Green Bin,Compost,Leaking,43.24095037895666
+2024,N2O,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Flaring,5.397541100945434e-06
+2024,N2O,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Process,39.869144979103
+2024,N2O,Water,Waste water,Humber Wastewater Treatment Plant,Flaring,5.040768176873896e-06
+2024,N2O,Water,Waste water,Humber Wastewater Treatment Plant,Process,14.589861199516363
+2024,N2O,Water,Waste water,Highland Creek Waterwater Treatment Plant,Flaring,5.390413127004363e-06
+2024,N2O,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,38.91267618503571
+2024,N2O,Water,Waste water,Highland Creek Waterwater Treatment Plant,Process,11.870399776232546
+2024,N2O,Water,Waste water,North Toronto Wastewater Treatment Plant,Process,1.5907578534532616
+2025,CH4,Solid,Green Bin,Compost,Biogas upgrade,0.00044756279587398535
+2025,CH4,Solid,Green Bin,Compost,Biogas capture,14.888442258395443
+2025,CH4,Solid,Green Bin,Compost,Leaking,553.7325762913891
+2025,CH4,Solid,Green Bin,Dufferin,Anaerobic Digester,157.7568517523065
+2025,CH4,Solid,Green Bin,Dufferin,Gasification,0.001017244173322696
+2025,CH4,Solid,Green Bin,Disco Road,Anaerobic Digester,143.18096841538824
+2025,CH4,Solid,Green Bin,Disco Road,Flaring,0.11158957230096468
+2025,CH4,Solid,Green Bin,Disco Road,Gasification,0.001038777878653356
+2025,CH4,Solid,Landfill,MI - Arbor Hills,Biogas upgrade,0.0002925512363480454
+2025,CH4,Solid,Landfill,MI - Arbor Hills,Biogas capture,1315.2616393416483
+2025,CH4,Solid,Landfill,MI - Arbor Hills,Flaring,23.94533735645715
+2025,CH4,Solid,Landfill,Beare Rd,Biogas upgrade,0.0003017283591103201
+2025,CH4,Solid,Landfill,Beare Rd,Biogas capture,1858.7619576366849
+2025,CH4,Solid,Landfill,Beare Rd,Flaring,34.00949688875132
+2025,CH4,Solid,Landfill,Brock West,Biogas upgrade,0.0002744220901179751
+2025,CH4,Solid,Landfill,Brock West,Biogas capture,13.276836524828097
+2025,CH4,Solid,Landfill,Brock West,Leaking,14926.623686492563
+2025,CH4,Solid,Landfill,MI - Carleton farms,Biogas upgrade,0.00031474077841927385
+2025,CH4,Solid,Landfill,MI - Carleton farms,Biogas capture,4047.6195469431427
+2025,CH4,Solid,Landfill,MI - Carleton farms,Flaring,60.18700131085292
+2025,CH4,Solid,Landfill,Green Lane,Biogas upgrade,0.00199707575792357
+2025,CH4,Solid,Landfill,Green Lane,Biogas capture,6798.612073158971
+2025,CH4,Solid,Landfill,Green Lane,Flaring,191.04560177991215
+2025,CH4,Solid,Landfill,Keele Valley,Biogas upgrade,0.001961953608341482
+2025,CH4,Solid,Landfill,Keele Valley,Biogas capture,17834.756666489397
+2025,CH4,Solid,Landfill,Keele Valley,Flaring,125.65919554693494
+2025,CH4,Solid,Landfill,Thackeray,Biogas upgrade,0.0002126365274763156
+2025,CH4,Solid,Landfill,Thackeray,Biogas capture,10.062429313511974
+2025,CH4,Solid,Landfill,Thackeray,Leaking,957.1936026195526
+2025,CH4,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,0.8180170608690996
+2025,CH4,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Flaring,2.349652364912031e-05
+2025,CH4,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,0.3669207430062384
+2025,CH4,Water,Waste water,Humber Wastewater Treatment Plant,Flaring,2.3488309971911775e-05
+2025,CH4,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,0.17068725988127142
+2025,CH4,Water,Waste water,Highland Creek Waterwater Treatment Plant,Flaring,2.347360019255386e-05
+2025,CH4,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,1.5679866473742194
+2025,CO2,Solid,Green Bin,Compost,Biogas upgrade,0.12123446686236768
+2025,CO2,Solid,Green Bin,Dufferin,Anaerobic Digester,15.87808719080825
+2025,CO2,Solid,Green Bin,Dufferin,Gasification,0.2755480485834441
+2025,CO2,Solid,Green Bin,Disco Road,Anaerobic Digester,15.46947299440971
+2025,CO2,Solid,Green Bin,Disco Road,Gasification,0.28138103405364157
+2025,CO2,Solid,Landfill,MI - Arbor Hills,Biogas upgrade,0.07924540085893977
+2025,CO2,Solid,Landfill,Beare Rd,Biogas upgrade,0.0817312723292041
+2025,CO2,Solid,Landfill,Brock West,Biogas upgrade,0.0743346321397022
+2025,CO2,Solid,Landfill,MI - Carleton farms,Biogas upgrade,0.08525603741703942
+2025,CO2,Solid,Landfill,Green Lane,Biogas upgrade,0.5409618874214738
+2025,CO2,Solid,Landfill,Keele Valley,Biogas upgrade,0.5314481049558648
+2025,CO2,Solid,Landfill,Thackeray,Biogas upgrade,0.05759834437023795
+2025,CO2,Water,Fresh water,F.J Horgan Water Treatment Plant,Process,32056.309814165517
+2025,CO2,Water,Fresh water,R.C. Harris Water Treatment Plant,Process,31444.715550132412
+2025,CO2,Water,Fresh water,R.L. Clark Water Treatment Plant,Process,19304.709807770018
+2025,CO2,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,13310.671362329382
+2025,CO2,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,3032.358671618363
+2025,CO2,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,2777.401756880564
+2025,CO2,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,18656.12575945421
+2025,CO2,Water,Waste water,North Toronto Wastewater Treatment Plant,Process,1866.7021791350412
+2025,CO2e,Solid,Green Bin,Compost,Biogas upgrade,0.13063328557572138
+2025,CO2e,Solid,Green Bin,Compost,Biogas capture,2203.3202673986734
+2025,CO2e,Solid,Green Bin,Compost,Leaking,24004.30718223171
+2025,CO2e,Solid,Green Bin,Dufferin,Anaerobic Digester,3328.771973989244
+2025,CO2e,Solid,Green Bin,Dufferin,Gasification,0.2969101762232207
+2025,CO2e,Solid,Green Bin,Disco Road,Anaerobic Digester,3022.269809717563
+2025,CO2e,Solid,Green Bin,Disco Road,Flaring,2.343381018320258
+2025,CO2e,Solid,Green Bin,Disco Road,Gasification,0.303195369505362
+2025,CO2e,Solid,Landfill,MI - Arbor Hills,Biogas upgrade,0.08538897682224872
+2025,CO2e,Solid,Landfill,MI - Arbor Hills,Biogas capture,27620.49442617463
+2025,CO2e,Solid,Landfill,MI - Arbor Hills,Flaring,502.8520844856002
+2025,CO2e,Solid,Landfill,Beare Rd,Biogas upgrade,0.08806756787052081
+2025,CO2e,Solid,Landfill,Beare Rd,Biogas capture,39034.00111037038
+2025,CO2e,Solid,Landfill,Beare Rd,Flaring,714.199434663778
+2025,CO2e,Solid,Landfill,Brock West,Biogas upgrade,0.0800974960321797
+2025,CO2e,Solid,Landfill,Brock West,Biogas capture,278.81356702139
+2025,CO2e,Solid,Landfill,Brock West,Leaking,313459.0974163439
+2025,CO2e,Solid,Landfill,MI - Carleton farms,Biogas upgrade,0.09186559376384416
+2025,CO2e,Solid,Landfill,MI - Carleton farms,Biogas capture,85000.01048580604
+2025,CO2e,Solid,Landfill,MI - Carleton farms,Flaring,1263.9270275279116
+2025,CO2e,Solid,Landfill,Green Lane,Biogas upgrade,0.5829004783378687
+2025,CO2e,Solid,Landfill,Green Lane,Biogas capture,142770.8535363384
+2025,CO2e,Solid,Landfill,Green Lane,Flaring,4011.9576373781574
+2025,CO2e,Solid,Landfill,Keele Valley,Biogas upgrade,0.572649130731036
+2025,CO2e,Solid,Landfill,Keele Valley,Biogas capture,374529.8899962774
+2025,CO2e,Solid,Landfill,Keele Valley,Flaring,2638.8431064856345
+2025,CO2e,Solid,Landfill,Thackeray,Biogas upgrade,0.06206371144724057
+2025,CO2e,Solid,Landfill,Thackeray,Biogas capture,211.3110155837515
+2025,CO2e,Solid,Landfill,Thackeray,Leaking,20101.0656550106
+2025,CO2e,Water,Fresh water,F.J Horgan Water Treatment Plant,Process,592.1727148278344
+2025,CO2e,Water,Fresh water,Island Water Treatment Plant,Process,325.72027761890325
+2025,CO2e,Water,Fresh water,R.C. Harris Water Treatment Plant,Process,227.3992750428444
+2025,CO2e,Water,Fresh water,R.L. Clark Water Treatment Plant,Process,777.154765746628
+2025,CO2e,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,13327.84972060763
+2025,CO2e,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Flaring,0.0018719386684708545
+2025,CO2e,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Process,11939.606603205706
+2025,CO2e,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,3040.064007221494
+2025,CO2e,Water,Waste water,Humber Wastewater Treatment Plant,Flaring,0.0017807825702838315
+2025,CO2e,Water,Waste water,Humber Wastewater Treatment Plant,Process,4369.223448561307
+2025,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,2780.98618933807
+2025,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Flaring,0.0018701123853405255
+2025,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,30342.226524183854
+2025,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Process,3554.8267618399777
+2025,CO2e,Water,Waste water,North Toronto Wastewater Treatment Plant,Process,476.3840051992919
+2025,N2O,Solid,Green Bin,Compost,Leaking,41.529943221854175
+2025,N2O,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Flaring,4.625878093420563e-06
+2025,N2O,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Process,40.06579397048896
+2025,N2O,Water,Waste water,Humber Wastewater Treatment Plant,Flaring,4.320563962663371e-06
+2025,N2O,Water,Waste water,Humber Wastewater Treatment Plant,Process,14.661823652890288
+2025,N2O,Water,Waste water,Highland Creek Waterwater Treatment Plant,Flaring,4.6213650379090405e-06
+2025,N2O,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,39.10460753400936
+2025,N2O,Water,Waste water,Highland Creek Waterwater Treatment Plant,Process,11.928948865234824
+2025,N2O,Water,Waste water,North Toronto Wastewater Treatment Plant,Process,1.5986040442929252
+2030,CH4,Solid,Green Bin,Compost,Biogas upgrade,0.0004539980997700136
+2030,CH4,Solid,Green Bin,Compost,Biogas capture,15.806806801801326
+2030,CH4,Solid,Green Bin,Compost,Leaking,582.0661390271397
+2030,CH4,Solid,Green Bin,Dufferin,Anaerobic Digester,157.51838969963111
+2030,CH4,Solid,Green Bin,Dufferin,Gasification,0.0012707576645910779
+2030,CH4,Solid,Green Bin,Disco Road,Anaerobic Digester,142.8367760216763
+2030,CH4,Solid,Green Bin,Disco Road,Flaring,0.22321299403115633
+2030,CH4,Solid,Green Bin,Disco Road,Gasification,0.0012986356687786052
+2030,CH4,Solid,Landfill,MI - Arbor Hills,Biogas upgrade,0.00034160895164748046
+2030,CH4,Solid,Landfill,MI - Arbor Hills,Biogas capture,1046.1273363896105
+2030,CH4,Solid,Landfill,MI - Arbor Hills,Flaring,18.8475873696794
+2030,CH4,Solid,Landfill,Beare Rd,Biogas upgrade,0.00035338391174892096
+2030,CH4,Solid,Landfill,Beare Rd,Biogas capture,1479.9016750728333
+2030,CH4,Solid,Landfill,Beare Rd,Flaring,26.85960478887054
+2030,CH4,Solid,Landfill,Brock West,Biogas upgrade,0.0003262255111264918
+2030,CH4,Solid,Landfill,Brock West,Biogas capture,17.015728097214804
+2030,CH4,Solid,Landfill,Brock West,Leaking,11881.42193564827
+2030,CH4,Solid,Landfill,MI - Carleton farms,Biogas upgrade,0.00036839361625362274
+2030,CH4,Solid,Landfill,MI - Carleton farms,Biogas capture,3225.953002268271
+2030,CH4,Solid,Landfill,MI - Carleton farms,Flaring,47.74170458107326
+2030,CH4,Solid,Landfill,Green Lane,Biogas upgrade,0.001717810419560361
+2030,CH4,Solid,Landfill,Green Lane,Biogas capture,7823.048140366408
+2030,CH4,Solid,Landfill,Green Lane,Flaring,221.68378351439583
+2030,CH4,Solid,Landfill,Keele Valley,Biogas upgrade,0.0016938602370368634
+2030,CH4,Solid,Landfill,Keele Valley,Biogas capture,14229.978401781049
+2030,CH4,Solid,Landfill,Keele Valley,Flaring,97.87501391731212
+2030,CH4,Solid,Landfill,Thackeray,Biogas upgrade,0.0002515043904025292
+2030,CH4,Solid,Landfill,Thackeray,Biogas capture,12.313153475387958
+2030,CH4,Solid,Landfill,Thackeray,Leaking,739.1690840932644
+2030,CH4,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,0.000726014483966969
+2030,CH4,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Flaring,1.3540265629938822e-05
+2030,CH4,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,0.00016645202774055146
+2030,CH4,Water,Waste water,Humber Wastewater Treatment Plant,Flaring,1.353314188950926e-05
+2030,CH4,Water,Waste water,Highland Creek Waterwater Treatment Plant,Flaring,1.3518416966229246e-05
+2030,CH4,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,1.604914948267335
+2030,CO2,Solid,Green Bin,Compost,Biogas upgrade,0.12297764266724838
+2030,CO2,Solid,Green Bin,Dufferin,Anaerobic Digester,12.272250179077295
+2030,CO2,Solid,Green Bin,Dufferin,Gasification,0.3442190222203889
+2030,CO2,Solid,Green Bin,Disco Road,Anaerobic Digester,11.83201914785879
+2030,CO2,Solid,Green Bin,Disco Road,Gasification,0.3517705323235954
+2030,CO2,Solid,Landfill,MI - Arbor Hills,Biogas upgrade,0.09253400754082178
+2030,CO2,Solid,Landfill,Beare Rd,Biogas upgrade,0.09572357339255026
+2030,CO2,Solid,Landfill,Brock West,Biogas upgrade,0.0883669873432893
+2030,CO2,Solid,Landfill,MI - Carleton farms,Biogas upgrade,0.09978935709969634
+2030,CO2,Solid,Landfill,Green Lane,Biogas upgrade,0.4653153307332923
+2030,CO2,Solid,Landfill,Keele Valley,Biogas upgrade,0.4588277771737463
+2030,CO2,Solid,Landfill,Thackeray,Biogas upgrade,0.06812675442437888
+2030,CO2,Water,Fresh water,F.J Horgan Water Treatment Plant,Process,32962.13958059298
+2030,CO2,Water,Fresh water,R.C. Harris Water Treatment Plant,Process,32333.263218511725
+2030,CO2,Water,Fresh water,R.L. Clark Water Treatment Plant,Process,19850.211797154192
+2030,CO2,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,11.813616931300023
+2030,CO2,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,1.375616558475517
+2030,CO2,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,19095.503879605072
+2030,CO2,Water,Waste water,North Toronto Wastewater Treatment Plant,Process,1910.6656532044228
+2030,CO2e,Solid,Green Bin,Compost,Biogas upgrade,0.13251160276241866
+2030,CO2e,Solid,Green Bin,Compost,Biogas capture,2339.2277838620225
+2030,CO2e,Solid,Green Bin,Compost,Leaking,25232.567126826503
+2030,CO2e,Solid,Green Bin,Dufferin,Anaerobic Digester,3320.1584338713305
+2030,CO2e,Solid,Green Bin,Dufferin,Gasification,0.37090493317680157
+2030,CO2e,Solid,Green Bin,Disco Road,Anaerobic Digester,3011.4043156030607
+2030,CO2e,Solid,Green Bin,Disco Road,Flaring,4.687472874654283
+2030,CO2e,Solid,Green Bin,Disco Road,Gasification,0.3790418813679461
+2030,CO2e,Solid,Landfill,MI - Arbor Hills,Biogas upgrade,0.09970779552541884
+2030,CO2e,Solid,Landfill,MI - Arbor Hills,Biogas capture,21968.674064181832
+2030,CO2e,Solid,Landfill,MI - Arbor Hills,Flaring,395.7993347632675
+2030,CO2e,Solid,Landfill,Beare Rd,Biogas upgrade,0.10314463553927757
+2030,CO2e,Solid,Landfill,Beare Rd,Biogas capture,31077.935176529514
+2030,CO2e,Solid,Landfill,Beare Rd,Flaring,564.0517005662814
+2030,CO2e,Solid,Landfill,Brock West,Biogas upgrade,0.0952177230769456
+2030,CO2e,Solid,Landfill,Brock West,Biogas capture,357.3302900415109
+2030,CO2e,Solid,Landfill,Brock West,Leaking,249509.8606486137
+2030,CO2e,Solid,Landfill,MI - Carleton farms,Biogas upgrade,0.10752562304102238
+2030,CO2e,Solid,Landfill,MI - Carleton farms,Biogas capture,67745.01304763372
+2030,CO2e,Solid,Landfill,MI - Carleton farms,Flaring,1002.5757962025384
+2030,CO2e,Solid,Landfill,Green Lane,Biogas upgrade,0.5013893495440599
+2030,CO2e,Solid,Landfill,Green Lane,Biogas capture,164284.0109476946
+2030,CO2e,Solid,Landfill,Green Lane,Flaring,4655.359453802314
+2030,CO2e,Solid,Landfill,Keele Valley,Biogas upgrade,0.49439884215152036
+2030,CO2e,Solid,Landfill,Keele Valley,Biogas capture,298829.54643740214
+2030,CO2e,Solid,Landfill,Keele Valley,Flaring,2055.3752922635554
+2030,CO2e,Solid,Landfill,Thackeray,Biogas upgrade,0.07340834662283198
+2030,CO2e,Solid,Landfill,Thackeray,Biogas capture,258.57622298314726
+2030,CO2e,Solid,Landfill,Thackeray,Leaking,15522.550765958547
+2030,CO2e,Water,Fresh water,F.J Horgan Water Treatment Plant,Process,608.9060092999861
+2030,CO2e,Water,Fresh water,Island Water Treatment Plant,Process,334.92430405451523
+2030,CO2e,Water,Fresh water,R.C. Harris Water Treatment Plant,Process,233.8250000666192
+2030,CO2e,Water,Fresh water,R.L. Clark Water Treatment Plant,Process,799.1151823962152
+2030,CO2e,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,11.828863235463327
+2030,CO2e,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Flaring,0.001078736037405189
+2030,CO2e,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Process,12220.801209726797
+2030,CO2e,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,1.3791120510580686
+2030,CO2e,Water,Waste water,Humber Wastewater Treatment Plant,Flaring,0.0010260245725143826
+2030,CO2e,Water,Waste water,Humber Wastewater Treatment Plant,Process,4472.124834831523
+2030,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Flaring,0.001076995381678276
+2030,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,31056.828828182122
+2030,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Process,3638.547955142264
+2030,CO2e,Water,Waste water,North Toronto Wastewater Treatment Plant,Process,487.6035216780006
+2030,N2O,Solid,Green Bin,Compost,Leaking,43.65496042703547
+2030,N2O,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Flaring,2.665739795894207e-06
+2030,N2O,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Process,41.009400032640265
+2030,N2O,Water,Waste water,Humber Wastewater Treatment Plant,Flaring,2.4893576940761346e-06
+2030,N2O,Water,Waste water,Humber Wastewater Treatment Plant,Process,15.00713031822659
+2030,N2O,Water,Waste water,Highland Creek Waterwater Treatment Plant,Flaring,2.6614383402263825e-06
+2030,N2O,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,40.02557629081693
+2030,N2O,Water,Waste water,Highland Creek Waterwater Treatment Plant,Process,12.209892466920346
+2030,N2O,Water,Waste water,North Toronto Wastewater Treatment Plant,Process,1.636253428449666
+2035,CH4,Solid,Green Bin,Compost,Biogas upgrade,0.000564312571036307
+2035,CH4,Solid,Green Bin,Compost,Biogas capture,20.732866409983185
+2035,CH4,Solid,Green Bin,Compost,Leaking,593.398702367776
+2035,CH4,Solid,Green Bin,Dufferin,Anaerobic Digester,155.77395246218072
+2035,CH4,Solid,Green Bin,Dufferin,Gasification,0.0015650865252839798
+2035,CH4,Solid,Green Bin,Disco Road,Anaerobic Digester,141.16183359976665
+2035,CH4,Solid,Green Bin,Disco Road,Flaring,0.6007946421370276
+2035,CH4,Solid,Green Bin,Disco Road,Gasification,0.00159799971978292
+2035,CH4,Solid,Landfill,MI - Arbor Hills,Biogas upgrade,0.000388542862215998
+2035,CH4,Solid,Landfill,MI - Arbor Hills,Biogas capture,830.6373788436227
+2035,CH4,Solid,Landfill,MI - Arbor Hills,Flaring,14.751195270355447
+2035,CH4,Solid,Landfill,Beare Rd,Biogas upgrade,0.0004012411053652223
+2035,CH4,Solid,Landfill,Beare Rd,Biogas capture,1176.7268109005056
+2035,CH4,Solid,Landfill,Beare Rd,Flaring,21.12599350926053
+2035,CH4,Solid,Landfill,Brock West,Biogas upgrade,0.0003757176865030272
+2035,CH4,Solid,Landfill,Brock West,Biogas capture,20.90115701951069
+2035,CH4,Solid,Landfill,Brock West,Leaking,9444.48563431873
+2035,CH4,Solid,Landfill,MI - Carleton farms,Biogas upgrade,0.00042019585200247226
+2035,CH4,Solid,Landfill,MI - Carleton farms,Biogas capture,2568.916718785545
+2035,CH4,Solid,Landfill,MI - Carleton farms,Flaring,37.76205861895954
+2035,CH4,Solid,Landfill,Green Lane,Biogas upgrade,0.0015642332244474554
+2035,CH4,Solid,Landfill,Green Lane,Biogas capture,8709.270577498837
+2035,CH4,Solid,Landfill,Green Lane,Flaring,247.81704030741903
+2035,CH4,Solid,Landfill,Keele Valley,Biogas upgrade,0.001546080733958066
+2035,CH4,Solid,Landfill,Keele Valley,Biogas capture,11349.421050512266
+2035,CH4,Solid,Landfill,Keele Valley,Flaring,75.32663908452074
+2035,CH4,Solid,Landfill,Thackeray,Biogas upgrade,0.0002865919605276485
+2035,CH4,Solid,Landfill,Thackeray,Biogas capture,14.450869334890415
+2035,CH4,Solid,Landfill,Thackeray,Leaking,563.0701693085774
+2035,CH4,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,0.0006860988989722007
+2035,CH4,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Flaring,1.4358260874744425e-05
+2035,CH4,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,0.00014971811933802445
+2035,CH4,Water,Waste water,Humber Wastewater Treatment Plant,Flaring,1.435094882165573e-05
+2035,CH4,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,9.913161972210655e-05
+2035,CH4,Water,Waste water,Highland Creek Waterwater Treatment Plant,Flaring,1.4335360953297188e-05
+2035,CH4,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,1.6420851584064635
+2035,CO2,Solid,Green Bin,Compost,Biogas upgrade,0.15285929555364824
+2035,CO2,Solid,Green Bin,Dufferin,Anaerobic Digester,14.337442667969645
+2035,CO2,Solid,Green Bin,Dufferin,Gasification,0.42394594062662483
+2035,CO2,Solid,Green Bin,Disco Road,Anaerobic Digester,13.912081369191844
+2035,CO2,Solid,Green Bin,Disco Road,Gasification,0.4328613679691154
+2035,CO2,Solid,Landfill,MI - Arbor Hills,Biogas upgrade,0.10524732437143326
+2035,CO2,Solid,Landfill,Beare Rd,Biogas upgrade,0.1086869863640676
+2035,CO2,Solid,Landfill,Brock West,Biogas upgrade,0.10177327926689779
+2035,CO2,Solid,Landfill,MI - Carleton farms,Biogas upgrade,0.11382139124370214
+2035,CO2,Solid,Landfill,Green Lane,Biogas upgrade,0.4237148010570651
+2035,CO2,Solid,Landfill,Keele Valley,Biogas upgrade,0.41879770891492696
+2035,CO2,Solid,Landfill,Thackeray,Biogas upgrade,0.07763117011046836
+2035,CO2,Water,Fresh water,F.J Horgan Water Treatment Plant,Process,33873.90325355729
+2035,CO2,Water,Fresh water,R.C. Harris Water Treatment Plant,Process,33227.63158191707
+2035,CO2,Water,Fresh water,R.L. Clark Water Treatment Plant,Process,20399.287259109013
+2035,CO2,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,11.16411552171328
+2035,CO2,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,1.237321808937175
+2035,CO2,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,1.6130573246656523
+2035,CO2,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,19537.760270003673
+2035,CO2,Water,Waste water,North Toronto Wastewater Treatment Plant,Process,1954.917122832881
+2035,CO2e,Solid,Green Bin,Compost,Biogas upgrade,0.16470985954541068
+2035,CO2e,Solid,Green Bin,Compost,Biogas capture,3068.2286279228424
+2035,CO2e,Solid,Green Bin,Compost,Leaking,25723.83374764309
+2035,CO2e,Solid,Green Bin,Dufferin,Anaerobic Digester,3285.5904443737654
+2035,CO2e,Solid,Green Bin,Dufferin,Gasification,0.45681275765758833
+2035,CO2e,Solid,Green Bin,Disco Road,Anaerobic Digester,2978.3105869642923
+2035,CO2e,Solid,Green Bin,Disco Road,Flaring,12.61668748487758
+2035,CO2e,Solid,Green Bin,Disco Road,Gasification,0.46641936208455664
+2035,CO2e,Solid,Landfill,MI - Arbor Hills,Biogas upgrade,0.11340672447796918
+2035,CO2e,Solid,Landfill,MI - Arbor Hills,Biogas capture,17443.384955716076
+2035,CO2e,Solid,Landfill,MI - Arbor Hills,Flaring,309.7751006774645
+2035,CO2e,Solid,Landfill,Beare Rd,Biogas upgrade,0.11711304957673728
+2035,CO2e,Solid,Landfill,Beare Rd,Biogas capture,24711.263028910635
+2035,CO2e,Solid,Landfill,Beare Rd,Flaring,443.6458636944714
+2035,CO2e,Solid,Landfill,Brock West,Biogas upgrade,0.10966335068346142
+2035,CO2e,Solid,Landfill,Brock West,Biogas capture,438.92429740972455
+2035,CO2e,Solid,Landfill,Brock West,Leaking,198334.19832069345
+2035,CO2e,Solid,Landfill,MI - Carleton farms,Biogas upgrade,0.122645504135754
+2035,CO2e,Solid,Landfill,MI - Carleton farms,Biogas capture,53947.251094496445
+2035,CO2e,Solid,Landfill,MI - Carleton farms,Flaring,793.0032309981505
+2035,CO2e,Solid,Landfill,Green Lane,Biogas upgrade,0.45656369877046177
+2035,CO2e,Solid,Landfill,Green Lane,Biogas capture,182894.6821274756
+2035,CO2e,Solid,Landfill,Green Lane,Flaring,5204.157846455801
+2035,CO2e,Solid,Landfill,Keele Valley,Biogas upgrade,0.45126540432804635
+2035,CO2e,Solid,Landfill,Keele Valley,Biogas capture,238337.84206075768
+2035,CO2e,Solid,Landfill,Keele Valley,Flaring,1581.8594207749356
+2035,CO2e,Solid,Landfill,Thackeray,Biogas upgrade,0.08364960128154898
+2035,CO2e,Solid,Landfill,Thackeray,Biogas capture,303.46825603269883
+2035,CO2e,Solid,Landfill,Thackeray,Leaking,11824.473555480126
+2035,CO2e,Water,Fresh water,F.J Horgan Water Treatment Plant,Process,625.7489201834501
+2035,CO2e,Water,Fresh water,Island Water Treatment Plant,Process,344.1886241958366
+2035,CO2e,Water,Fresh water,R.C. Harris Water Treatment Plant,Process,240.29281870902184
+2035,CO2e,Water,Fresh water,R.L. Clark Water Treatment Plant,Process,821.2194572715101
+2035,CO2e,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,11.178523598591696
+2035,CO2e,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Flaring,0.001143904696064795
+2035,CO2e,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Process,12503.837865075937
+2035,CO2e,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,1.240465889443274
+2035,CO2e,Water,Waste water,Humber Wastewater Treatment Plant,Flaring,0.0010880271743348318
+2035,CO2e,Water,Waste water,Humber Wastewater Treatment Plant,Process,4575.70030674404
+2035,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,1.6151390886798165
+2035,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Flaring,0.001142080287947995
+2035,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,31776.11233603702
+2035,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Process,3722.8175888634546
+2035,CO2e,Water,Waste water,North Toronto Wastewater Treatment Plant,Process,498.8965348716361
+2035,N2O,Solid,Green Bin,Compost,Leaking,44.50490267758319
+2035,N2O,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Flaring,2.8267826097153093e-06
+2035,N2O,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Process,41.95918746669778
+2035,N2O,Water,Waste water,Humber Wastewater Treatment Plant,Flaring,2.6397894264431593e-06
+2035,N2O,Water,Waste water,Humber Wastewater Treatment Plant,Process,15.354699015919596
+2035,N2O,Water,Waste water,Highland Creek Waterwater Treatment Plant,Flaring,2.822274187680383e-06
+2035,N2O,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,40.952578113110114
+2035,N2O,Water,Waste water,Highland Creek Waterwater Treatment Plant,Process,12.492676472696155
+2035,N2O,Water,Waste water,North Toronto Wastewater Treatment Plant,Process,1.6741494458779724
+2040,CH4,Solid,Green Bin,Compost,Biogas upgrade,0.0005162419877922274
+2040,CH4,Solid,Green Bin,Compost,Biogas capture,19.89678385742354
+2040,CH4,Solid,Green Bin,Compost,Leaking,627.7805037313221
+2040,CH4,Solid,Green Bin,Dufferin,Anaerobic Digester,156.16880687103927
+2040,CH4,Solid,Green Bin,Dufferin,Gasification,0.0019167884262924096
+2040,CH4,Solid,Green Bin,Disco Road,Anaerobic Digester,141.54526499247606
+2040,CH4,Solid,Green Bin,Disco Road,Flaring,0.5530708230056147
+2040,CH4,Solid,Green Bin,Disco Road,Gasification,0.0019570995970085376
+2040,CH4,Solid,Landfill,MI - Arbor Hills,Biogas upgrade,0.0004360394006844986
+2040,CH4,Solid,Landfill,MI - Arbor Hills,Biogas capture,658.1139377278752
+2040,CH4,Solid,Landfill,MI - Arbor Hills,Flaring,11.436425280268375
+2040,CH4,Solid,Landfill,Beare Rd,Biogas upgrade,0.0004500380452218189
+2040,CH4,Solid,Landfill,Beare Rd,Biogas capture,933.9804671031181
+2040,CH4,Solid,Landfill,Beare Rd,Flaring,16.504983203689164
+2040,CH4,Solid,Landfill,Brock West,Biogas upgrade,0.0004263488122338545
+2040,CH4,Solid,Landfill,Brock West,Biogas capture,25.160690774783088
+2040,CH4,Solid,Landfill,Brock West,Leaking,7491.746851604512
+2040,CH4,Solid,Landfill,MI - Carleton farms,Biogas upgrade,0.000470567342974455
+2040,CH4,Solid,Landfill,MI - Carleton farms,Biogas capture,2043.1404038398189
+2040,CH4,Solid,Landfill,MI - Carleton farms,Flaring,29.755354228565448
+2040,CH4,Solid,Landfill,Green Lane,Biogas upgrade,0.001395291321152286
+2040,CH4,Solid,Landfill,Green Lane,Biogas capture,9481.971731163327
+2040,CH4,Solid,Landfill,Green Lane,Flaring,271.1126710230614
+2040,CH4,Solid,Landfill,Keele Valley,Biogas upgrade,0.0013811376086357715
+2040,CH4,Solid,Landfill,Keele Valley,Biogas capture,9046.609985001569
+2040,CH4,Solid,Landfill,Keele Valley,Flaring,57.7945746641256
+2040,CH4,Solid,Landfill,Thackeray,Biogas upgrade,0.00031886470040406865
+2040,CH4,Solid,Landfill,Thackeray,Biogas capture,16.473119568695623
+2040,CH4,Solid,Landfill,Thackeray,Leaking,420.5979212290337
+2040,CH4,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,0.0004819637149116842
+2040,CH4,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Flaring,1.5065791102144433e-05
+2040,CH4,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,0.00015204518091309718
+2040,CH4,Water,Waste water,Humber Wastewater Treatment Plant,Flaring,1.5058622657369064e-05
+2040,CH4,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,0.0003714602061083853
+2040,CH4,Water,Waste water,Highland Creek Waterwater Treatment Plant,Flaring,1.504388083361425e-05
+2040,CH4,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,1.6773773160998369
+2040,CO2,Solid,Green Bin,Compost,Biogas upgrade,0.1398380802402112
+2040,CO2,Solid,Green Bin,Dufferin,Anaerobic Digester,12.759390219880002
+2040,CO2,Solid,Green Bin,Dufferin,Gasification,0.5192138959980614
+2040,CO2,Solid,Green Bin,Disco Road,Anaerobic Digester,12.217940489479997
+2040,CO2,Solid,Green Bin,Disco Road,Gasification,0.5301332649344903
+2040,CO2,Solid,Landfill,MI - Arbor Hills,Biogas upgrade,0.1181130441589597
+2040,CO2,Solid,Landfill,Beare Rd,Biogas upgrade,0.12190495497666684
+2040,CO2,Solid,Landfill,Brock West,Biogas upgrade,0.11548808664411028
+2040,CO2,Solid,Landfill,MI - Carleton farms,Biogas upgrade,0.1274658695366885
+2040,CO2,Solid,Landfill,Green Lane,Biogas upgrade,0.3779523253429974
+2040,CO2,Solid,Landfill,Keele Valley,Biogas upgrade,0.37411841017649633
+2040,CO2,Solid,Landfill,Thackeray,Biogas upgrade,0.08637311302702681
+2040,CO2,Water,Fresh water,F.J Horgan Water Treatment Plant,Process,34739.59935509
+2040,CO2,Water,Fresh water,R.C. Harris Water Treatment Plant,Process,34076.811285488686
+2040,CO2,Water,Fresh water,R.L. Clark Water Treatment Plant,Process,20920.620254661146
+2040,CO2,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,7.84245332357856
+2040,CO2,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,1.2565534426920475
+2040,CO2,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,6.044354041269882
+2040,CO2,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,19957.671328144792
+2040,CO2,Water,Waste water,North Toronto Wastewater Treatment Plant,Process,1996.9327526065952
+2040,CO2e,Solid,Green Bin,Compost,Biogas upgrade,0.15067916198384795
+2040,CO2e,Solid,Green Bin,Compost,Biogas capture,2944.4979110821128
+2040,CO2e,Solid,Green Bin,Compost,Leaking,27214.28483675281
+2040,CO2e,Solid,Green Bin,Dufferin,Anaerobic Digester,3292.3043345117044
+2040,CO2e,Solid,Green Bin,Dufferin,Gasification,0.559466452950202
+2040,CO2e,Solid,Green Bin,Disco Road,Anaerobic Digester,2984.668505331477
+2040,CO2e,Solid,Green Bin,Disco Road,Flaring,11.614487283117908
+2040,CO2e,Solid,Green Bin,Disco Road,Gasification,0.5712323564716696
+2040,CO2e,Solid,Landfill,MI - Arbor Hills,Biogas upgrade,0.1272698715733342
+2040,CO2e,Solid,Landfill,MI - Arbor Hills,Biogas capture,13820.392692285384
+2040,CO2e,Solid,Landfill,MI - Arbor Hills,Flaring,240.164930885636
+2040,CO2e,Solid,Landfill,Beare Rd,Biogas upgrade,0.13135575392632504
+2040,CO2e,Solid,Landfill,Beare Rd,Biogas capture,19613.589809165485
+2040,CO2e,Solid,Landfill,Beare Rd,Flaring,346.6046472774725
+2040,CO2e,Solid,Landfill,Brock West,Biogas upgrade,0.12444141170102116
+2040,CO2e,Solid,Landfill,Brock West,Biogas capture,528.3745062704448
+2040,CO2e,Solid,Landfill,Brock West,Leaking,157326.6838836948
+2040,CO2e,Solid,Landfill,MI - Carleton farms,Biogas upgrade,0.13734778373915205
+2040,CO2e,Solid,Landfill,MI - Carleton farms,Biogas capture,42905.94848063621
+2040,CO2e,Solid,Landfill,MI - Carleton farms,Flaring,624.8624387998744
+2040,CO2e,Solid,Landfill,Green Lane,Biogas upgrade,0.40725344308719535
+2040,CO2e,Solid,Landfill,Green Lane,Biogas capture,199121.4063544298
+2040,CO2e,Solid,Landfill,Green Lane,Flaring,5693.36609148429
+2040,CO2e,Solid,Landfill,Keele Valley,Biogas upgrade,0.40312229995784754
+2040,CO2e,Solid,Landfill,Keele Valley,Biogas capture,189978.809685033
+2040,CO2e,Solid,Landfill,Keele Valley,Flaring,1213.686067946638
+2040,CO2e,Solid,Landfill,Thackeray,Biogas upgrade,0.09306927173551226
+2040,CO2e,Solid,Landfill,Thackeray,Biogas capture,345.93551094260823
+2040,CO2e,Solid,Landfill,Thackeray,Leaking,8832.556345809706
+2040,CO2e,Water,Fresh water,F.J Horgan Water Treatment Plant,Process,641.7408298442159
+2040,CO2e,Water,Fresh water,Island Water Treatment Plant,Process,352.98485732895006
+2040,CO2e,Water,Fresh water,R.C. Harris Water Treatment Plant,Process,246.43384576478996
+2040,CO2e,Water,Fresh water,R.L. Clark Water Treatment Plant,Process,842.2068964012252
+2040,CO2e,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,7.852574561591706
+2040,CO2e,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Flaring,0.0012002727448689695
+2040,CO2e,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Process,12772.573872557874
+2040,CO2e,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,1.259746391491223
+2040,CO2e,Water,Waste water,Humber Wastewater Treatment Plant,Flaring,0.0011416799587876606
+2040,CO2e,Water,Waste water,Humber Wastewater Treatment Plant,Process,4674.042547430657
+2040,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,6.0521547055981575
+2040,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Flaring,0.001198527181163005
+2040,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,32459.05351098439
+2040,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Process,3802.829433519324
+2040,CO2e,Water,Waste water,North Toronto Wastewater Treatment Plant,Process,509.6189598070625
+2040,N2O,Solid,Green Bin,Compost,Leaking,47.08353777984914
+2040,N2O,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Flaring,2.966077623234686e-06
+2040,N2O,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Process,42.860986149523065
+2040,N2O,Water,Waste water,Humber Wastewater Treatment Plant,Flaring,2.769962694573523e-06
+2040,N2O,Water,Waste water,Humber Wastewater Treatment Plant,Process,15.684706535002196
+2040,N2O,Water,Waste water,Highland Creek Waterwater Treatment Plant,Flaring,2.9617640391178043e-06
+2040,N2O,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,41.83274248054196
+2040,N2O,Water,Waste water,Highland Creek Waterwater Treatment Plant,Process,12.761172595702428
+2040,N2O,Water,Waste water,North Toronto Wastewater Treatment Plant,Process,1.7101307376075925
+2045,CH4,Solid,Green Bin,Compost,Biogas upgrade,0.0009041918387482248
+2045,CH4,Solid,Green Bin,Compost,Biogas capture,34.59480903535743
+2045,CH4,Solid,Green Bin,Compost,Leaking,1089.8036686406876
+2045,CH4,Solid,Green Bin,Dufferin,Anaerobic Digester,0.4503980762304873
+2045,CH4,Solid,Green Bin,Dufferin,Gasification,0.0024168434903653023
+2045,CH4,Solid,Green Bin,Disco Road,Anaerobic Digester,0.45042430479322465
+2045,CH4,Solid,Green Bin,Disco Road,Flaring,0.0350178907007037
+2045,CH4,Solid,Green Bin,Disco Road,Gasification,0.002444383597773125
+2045,CH4,Solid,Landfill,MI - Arbor Hills,Biogas upgrade,0.0005568842158201773
+2045,CH4,Solid,Landfill,MI - Arbor Hills,Biogas capture,519.2047996134694
+2045,CH4,Solid,Landfill,MI - Arbor Hills,Flaring,8.74840873972091
+2045,CH4,Solid,Landfill,Beare Rd,Biogas upgrade,0.0005791715590019028
+2045,CH4,Solid,Landfill,Beare Rd,Biogas capture,739.1898446518846
+2045,CH4,Solid,Landfill,Beare Rd,Flaring,12.752181468442352
+2045,CH4,Solid,Landfill,Brock West,Biogas upgrade,0.000551478971672437
+2045,CH4,Solid,Landfill,Brock West,Biogas capture,30.303103033115626
+2045,CH4,Solid,Landfill,Brock West,Leaking,5922.211465905175
+2045,CH4,Solid,Landfill,MI - Carleton farms,Biogas upgrade,0.0006081709791527101
+2045,CH4,Solid,Landfill,MI - Carleton farms,Biogas capture,1621.4806704907717
+2045,CH4,Solid,Landfill,MI - Carleton farms,Flaring,23.301919055568806
+2045,CH4,Solid,Landfill,Green Lane,Biogas upgrade,0.0034298880144006476
+2045,CH4,Solid,Landfill,Green Lane,Biogas capture,10166.600597210108
+2045,CH4,Solid,Landfill,Green Lane,Flaring,258.32978168922585
+2045,CH4,Solid,Landfill,Keele Valley,Biogas upgrade,0.0032404438806077455
+2045,CH4,Solid,Landfill,Keele Valley,Biogas capture,7202.728637857326
+2045,CH4,Solid,Landfill,Keele Valley,Flaring,28.09603739218346
+2045,CH4,Solid,Landfill,Thackeray,Biogas upgrade,0.0003995452593879099
+2045,CH4,Solid,Landfill,Thackeray,Biogas capture,18.943199211838724
+2045,CH4,Solid,Landfill,Thackeray,Leaking,301.80046160128325
+2045,CH4,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,0.0005257494232629854
+2045,CH4,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Flaring,1.4548597292019393e-05
+2045,CH4,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,0.00014658877038672348
+2045,CH4,Water,Waste water,Humber Wastewater Treatment Plant,Flaring,1.4542601414218042e-05
+2045,CH4,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,0.0004057074890076095
+2045,CH4,Water,Waste water,Highland Creek Waterwater Treatment Plant,Flaring,1.453072434855392e-05
+2045,CH4,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,1.7150268488960059
+2045,CO2,Solid,Green Bin,Compost,Biogas upgrade,0.24492477150135827
+2045,CO2,Solid,Green Bin,Dufferin,Anaerobic Digester,18.725145028725905
+2045,CO2,Solid,Green Bin,Dufferin,Gasification,0.654667310923491
+2045,CO2,Solid,Green Bin,Disco Road,Anaerobic Digester,18.73224974307959
+2045,CO2,Solid,Green Bin,Disco Road,Gasification,0.662127292561151
+2045,CO2,Solid,Landfill,MI - Arbor Hills,Biogas upgrade,0.15084712498765387
+2045,CO2,Solid,Landfill,Beare Rd,Biogas upgrade,0.15688425361703148
+2045,CO2,Solid,Landfill,Brock West,Biogas upgrade,0.14938296867583942
+2045,CO2,Solid,Landfill,MI - Carleton farms,Biogas upgrade,0.16473952951063098
+2045,CO2,Solid,Landfill,Green Lane,Biogas upgrade,0.929077771112514
+2045,CO2,Solid,Landfill,Keele Valley,Biogas upgrade,0.8777617127351953
+2045,CO2,Solid,Landfill,Thackeray,Biogas upgrade,0.10822762069552788
+2045,CO2,Water,Fresh water,F.J Horgan Water Treatment Plant,Process,35663.120525854625
+2045,CO2,Water,Fresh water,R.C. Harris Water Treatment Plant,Process,34982.71282835401
+2045,CO2,Water,Fresh water,R.L. Clark Water Treatment Plant,Process,21476.776228517803
+2045,CO2,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,8.55492889665739
+2045,CO2,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,1.2114597975631385
+2045,CO2,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,6.601621547695698
+2045,CO2,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,20405.630766961614
+2045,CO2,Water,Waste water,North Toronto Wastewater Treatment Plant,Process,2041.7548598919352
+2045,CO2e,Solid,Green Bin,Compost,Biogas upgrade,0.263912800115071
+2045,CO2e,Solid,Green Bin,Compost,Biogas capture,5119.638614402937
+2045,CO2e,Solid,Green Bin,Compost,Leaking,47242.98903557382
+2045,CO2e,Solid,Green Bin,Dufferin,Anaerobic Digester,28.18350462956614
+2045,CO2e,Solid,Green Bin,Dufferin,Gasification,0.7054210242211623
+2045,CO2e,Solid,Green Bin,Disco Road,Anaerobic Digester,28.191160143737303
+2045,CO2e,Solid,Green Bin,Disco Road,Flaring,0.7353757047147778
+2045,CO2e,Solid,Green Bin,Disco Road,Gasification,0.7134593481143865
+2045,CO2e,Solid,Landfill,MI - Arbor Hills,Biogas upgrade,0.16254169351987763
+2045,CO2e,Solid,Landfill,MI - Arbor Hills,Biogas capture,10903.300791882863
+2045,CO2e,Solid,Landfill,MI - Arbor Hills,Flaring,183.7165835341391
+2045,CO2e,Solid,Landfill,Beare Rd,Biogas upgrade,0.16904685635607142
+2045,CO2e,Solid,Landfill,Beare Rd,Biogas capture,15522.986737689582
+2045,CO2e,Solid,Landfill,Beare Rd,Flaring,267.7958108372894
+2045,CO2e,Solid,Landfill,Brock West,Biogas upgrade,0.1609640270809606
+2045,CO2e,Solid,Landfill,Brock West,Biogas capture,636.3651636954281
+2045,CO2e,Solid,Landfill,Brock West,Leaking,124366.4407840087
+2045,CO2e,Solid,Landfill,MI - Carleton farms,Biogas upgrade,0.17751112007283787
+2045,CO2e,Solid,Landfill,MI - Carleton farms,Biogas capture,34051.09408030621
+2045,CO2e,Solid,Landfill,MI - Carleton farms,Flaring,489.340300166945
+2045,CO2e,Solid,Landfill,Green Lane,Biogas upgrade,1.0011054194149276
+2045,CO2e,Solid,Landfill,Green Lane,Biogas capture,213498.61254141227
+2045,CO2e,Solid,Landfill,Green Lane,Flaring,5424.925415473745
+2045,CO2e,Solid,Landfill,Keele Valley,Biogas upgrade,0.9458110342279578
+2045,CO2e,Solid,Landfill,Keele Valley,Biogas capture,151257.30139500386
+2045,CO2e,Solid,Landfill,Keele Valley,Flaring,590.0167852358529
+2045,CO2e,Solid,Landfill,Thackeray,Biogas upgrade,0.11661807114267402
+2045,CO2e,Solid,Landfill,Thackeray,Biogas capture,397.8071834486134
+2045,CO2e,Solid,Landfill,Thackeray,Leaking,6337.809693626948
+2045,CO2e,Water,Fresh water,F.J Horgan Water Treatment Plant,Process,658.8009357037048
+2045,CO2e,Water,Fresh water,Island Water Treatment Plant,Process,362.3686439803895
+2045,CO2e,Water,Fresh water,R.C. Harris Water Treatment Plant,Process,252.985069094476
+2045,CO2e,Water,Fresh water,R.L. Clark Water Treatment Plant,Process,864.5962133028087
+2045,CO2e,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,8.565969634545914
+2045,CO2e,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Flaring,0.0011590685605085702
+2045,CO2e,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Process,13059.26038027408
+2045,CO2e,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,1.2145381617412596
+2045,CO2e,Water,Waste water,Humber Wastewater Treatment Plant,Flaring,0.0011025574490456471
+2045,CO2e,Water,Waste water,Humber Wastewater Treatment Plant,Process,4778.953659940468
+2045,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,6.610141404964857
+2045,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Flaring,0.0011576446454438553
+2045,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,33187.61242731451
+2045,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Process,3888.185752959156
+2045,CO2e,Water,Waste water,North Toronto Wastewater Treatment Plant,Process,521.0576002226197
+2045,N2O,Solid,Green Bin,Compost,Leaking,81.73527514805158
+2045,N2O,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Flaring,2.864255091866318e-06
+2045,N2O,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Process,43.823021410315704
+2045,N2O,Water,Waste water,Humber Wastewater Treatment Plant,Flaring,2.675043017943183e-06
+2045,N2O,Water,Waste water,Humber Wastewater Treatment Plant,Process,16.03675724812237
+2045,N2O,Water,Waste water,Highland Creek Waterwater Treatment Plant,Flaring,2.860736356121553e-06
+2045,N2O,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,42.77169831049021
+2045,N2O,Water,Waste water,Highland Creek Waterwater Treatment Plant,Process,13.047603197849517
+2045,N2O,Water,Waste water,North Toronto Wastewater Treatment Plant,Process,1.7485154369886562
+2050,CH4,Solid,Green Bin,Compost,Biogas upgrade,0.0012691179987853345
+2050,CH4,Solid,Green Bin,Compost,Biogas capture,48.76345278139848
+2050,CH4,Solid,Green Bin,Compost,Leaking,1035.23462742457
+2050,CH4,Solid,Green Bin,Dufferin,Anaerobic Digester,3.1317347076598328
+2050,CH4,Solid,Green Bin,Dufferin,Gasification,0.0048025426601881185
+2050,CH4,Solid,Green Bin,Disco Road,Anaerobic Digester,3.1317887089733327
+2050,CH4,Solid,Green Bin,Disco Road,Flaring,0.09275693293387738
+2050,CH4,Solid,Green Bin,Disco Road,Gasification,0.004854369374699018
+2050,CH4,Solid,Landfill,MI - Arbor Hills,Biogas upgrade,0.0009053892024960063
+2050,CH4,Solid,Landfill,MI - Arbor Hills,Biogas capture,400.505333697488
+2050,CH4,Solid,Landfill,MI - Arbor Hills,Flaring,5.955428809460446
+2050,CH4,Solid,Landfill,Beare Rd,Biogas upgrade,0.0009467073917088304
+2050,CH4,Solid,Landfill,Beare Rd,Biogas capture,575.0779704819363
+2050,CH4,Solid,Landfill,Beare Rd,Flaring,9.063285145107368
+2050,CH4,Solid,Landfill,Brock West,Biogas upgrade,0.0009305684329045327
+2050,CH4,Solid,Landfill,Brock West,Biogas capture,50.748023043517705
+2050,CH4,Solid,Landfill,Brock West,Leaking,4572.802472496955
+2050,CH4,Solid,Landfill,MI - Carleton farms,Biogas upgrade,0.0010077678312335632
+2050,CH4,Solid,Landfill,MI - Carleton farms,Biogas capture,1272.603204117255
+2050,CH4,Solid,Landfill,MI - Carleton farms,Flaring,17.35831534826999
+2050,CH4,Solid,Landfill,Green Lane,Biogas upgrade,0.0037902417588776193
+2050,CH4,Solid,Landfill,Green Lane,Biogas capture,10772.61578494721
+2050,CH4,Solid,Landfill,Green Lane,Flaring,273.83285393630103
+2050,CH4,Solid,Landfill,Keele Valley,Biogas upgrade,0.0035248854260111536
+2050,CH4,Solid,Landfill,Keele Valley,Biogas capture,5698.329463716043
+2050,CH4,Solid,Landfill,Keele Valley,Flaring,16.63938699722871
+2050,CH4,Solid,Landfill,Thackeray,Biogas upgrade,0.0006579867278840775
+2050,CH4,Solid,Landfill,Thackeray,Biogas capture,31.432627055622554
+2050,CH4,Solid,Landfill,Thackeray,Leaking,145.07388561707523
+2050,CH4,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,0.004126617905406118
+2050,CH4,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Flaring,4.0855644234908355e-05
+2050,CH4,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,0.0006470270496524471
+2050,CH4,Water,Waste water,Humber Wastewater Treatment Plant,Flaring,4.083279617306578e-05
+2050,CH4,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,0.0009275565688713776
+2050,CH4,Water,Waste water,Highland Creek Waterwater Treatment Plant,Flaring,4.07844005688038e-05
+2050,CH4,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,1.7500901742301507
+2050,CO2,Solid,Green Bin,Compost,Biogas upgrade,0.34377487446810856
+2050,CO2,Solid,Green Bin,Dufferin,Anaerobic Digester,97.24462106468545
+2050,CO2,Solid,Green Bin,Dufferin,Gasification,1.30089834177284
+2050,CO2,Solid,Green Bin,Disco Road,Anaerobic Digester,97.25924877841021
+2050,CO2,Solid,Green Bin,Disco Road,Gasification,1.3149370066504407
+2050,CO2,Solid,Landfill,MI - Arbor Hills,Biogas upgrade,0.24524910979967277
+2050,CO2,Solid,Landfill,Beare Rd,Biogas upgrade,0.25644125688409114
+2050,CO2,Solid,Landfill,Brock West,Biogas upgrade,0.25206958416153624
+2050,CO2,Solid,Landfill,MI - Carleton farms,Biogas upgrade,0.27298112547997666
+2050,CO2,Solid,Landfill,Green Lane,Biogas upgrade,1.0266893118756653
+2050,CO2,Solid,Landfill,Keele Valley,Biogas upgrade,0.9548103848509161
+2050,CO2,Solid,Landfill,Thackeray,Biogas upgrade,0.17823347001344578
+2050,CO2,Water,Fresh water,F.J Horgan Water Treatment Plant,Process,36523.20354125587
+2050,CO2,Water,Fresh water,R.C. Harris Water Treatment Plant,Process,35826.38653645004
+2050,CO2,Water,Fresh water,R.L. Clark Water Treatment Plant,Process,21994.72895355569
+2050,CO2,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,67.14781072953019
+2050,CO2,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,5.3472531116941635
+2050,CO2,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,15.093084544103949
+2050,CO2,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,20822.81914549399
+2050,CO2,Water,Waste water,North Toronto Wastewater Treatment Plant,Process,2083.498064798064
+2050,CO2e,Solid,Green Bin,Compost,Biogas upgrade,0.3704263524426005
+2050,CO2e,Solid,Green Bin,Compost,Biogas capture,7216.436881501706
+2050,CO2e,Solid,Green Bin,Compost,Leaking,44877.42109885512
+2050,CO2e,Solid,Green Bin,Dufferin,Anaerobic Digester,163.01104992554193
+2050,CO2e,Solid,Green Bin,Dufferin,Gasification,1.40175173763679
+2050,CO2e,Solid,Green Bin,Disco Road,Anaerobic Digester,163.0268116668502
+2050,CO2e,Solid,Green Bin,Disco Road,Flaring,1.9478955916114256
+2050,CO2e,Solid,Green Bin,Disco Road,Gasification,1.41687876351912
+2050,CO2e,Solid,Landfill,MI - Arbor Hills,Biogas upgrade,0.2642622830520889
+2050,CO2e,Solid,Landfill,MI - Arbor Hills,Biogas capture,8410.61200764725
+2050,CO2e,Solid,Landfill,MI - Arbor Hills,Flaring,125.06400499866932
+2050,CO2e,Solid,Landfill,Beare Rd,Biogas upgrade,0.27632211210997665
+2050,CO2e,Solid,Landfill,Beare Rd,Biogas capture,12076.637380120665
+2050,CO2e,Solid,Landfill,Beare Rd,Flaring,190.3289880472548
+2050,CO2e,Solid,Landfill,Brock West,Biogas upgrade,0.27161152125253146
+2050,CO2e,Solid,Landfill,Brock West,Biogas capture,1065.7084839138718
+2050,CO2e,Solid,Landfill,Brock West,Leaking,96028.85192243606
+2050,CO2e,Solid,Landfill,MI - Carleton farms,Biogas upgrade,0.2941442499358814
+2050,CO2e,Solid,Landfill,MI - Carleton farms,Biogas capture,26724.667286462354
+2050,CO2e,Solid,Landfill,MI - Carleton farms,Flaring,364.5246223136698
+2050,CO2e,Solid,Landfill,Green Lane,Biogas upgrade,1.1062843888120955
+2050,CO2e,Solid,Landfill,Green Lane,Biogas capture,226224.9314838914
+2050,CO2e,Solid,Landfill,Green Lane,Flaring,5750.489932662323
+2050,CO2e,Solid,Landfill,Keele Valley,Biogas upgrade,1.0288329787971502
+2050,CO2e,Solid,Landfill,Keele Valley,Biogas capture,119664.91873803691
+2050,CO2e,Solid,Landfill,Keele Valley,Flaring,349.4271269418029
+2050,CO2e,Solid,Landfill,Thackeray,Biogas upgrade,0.19205119129901138
+2050,CO2e,Solid,Landfill,Thackeray,Biogas capture,660.0851681680739
+2050,CO2e,Solid,Landfill,Thackeray,Leaking,3046.551597958579
+2050,CO2e,Water,Fresh water,F.J Horgan Water Treatment Plant,Process,674.6891554386772
+2050,CO2e,Water,Fresh water,Island Water Treatment Plant,Process,371.10784322632287
+2050,CO2e,Water,Fresh water,R.C. Harris Water Treatment Plant,Process,259.08627835153317
+2050,CO2e,Water,Fresh water,R.L. Clark Water Treatment Plant,Process,885.4475719977708
+2050,CO2e,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,67.23446970554372
+2050,CO2e,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Flaring,0.003254918106639856
+2050,CO2e,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Process,13326.253930674517
+2050,CO2e,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,5.360840679736863
+2050,CO2e,Water,Waste water,Humber Wastewater Treatment Plant,Flaring,0.003095766864789442
+2050,CO2e,Water,Waste water,Humber Wastewater Treatment Plant,Process,4876.658259314811
+2050,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,15.112563232050244
+2050,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Flaring,0.0032492422128158876
+2050,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,33866.12545021645
+2050,CO2e,Water,Waste water,Highland Creek Waterwater Treatment Plant,Process,3967.67880885026
+2050,CO2e,Water,Waste water,North Toronto Wastewater Treatment Plant,Process,531.7105020970101
+2050,N2O,Solid,Green Bin,Compost,Leaking,77.64259705684273
+2050,N2O,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Flaring,8.043454958747585e-06
+2050,N2O,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Process,44.718972921726575
+2050,N2O,Water,Waste water,Humber Wastewater Treatment Plant,Flaring,7.511000487097517e-06
+2050,N2O,Water,Waste water,Humber Wastewater Treatment Plant,Process,16.364625031257763
+2050,N2O,Water,Waste water,Highland Creek Waterwater Treatment Plant,Flaring,8.029428861983246e-06
+2050,N2O,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,43.646155741824295
+2050,N2O,Water,Waste water,Highland Creek Waterwater Treatment Plant,Process,13.314358418960602
+2050,N2O,Water,Waste water,North Toronto Wastewater Treatment Plant,Process,1.784263429855738

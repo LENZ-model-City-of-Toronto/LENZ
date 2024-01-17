@@ -1,0 +1,7 @@
+tech,flag,sector,tech_desc,tech_category
+INDBDGIPSEP___WAH_23,p,INDBDG,IndustryBuildingIndustrial Processes,
+INDBDGLIRET_23,p,INDBDG,IndustryBuildingLightingRetrofit,
+INDBDGIPRET_23,p,INDBDG,IndustryBuildingIndustrial ProcessesRetrofit,
+INDBDGSCRET_23,p,INDBDG,IndustryBuildingSpace CoolingRetrofit,
+INDBDGSHRET_23,p,INDBDG,IndustryBuildingSpace HeatingRetrofit,
+INDBDGWHRET_23,p,INDBDG,IndustryBuildingWater HeatingRetrofit,

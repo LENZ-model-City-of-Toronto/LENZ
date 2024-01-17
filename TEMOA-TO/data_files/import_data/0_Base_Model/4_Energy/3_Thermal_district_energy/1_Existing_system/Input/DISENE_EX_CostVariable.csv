@@ -1,0 +1,575 @@
+regions,periods,tech,vintage,cost_fixed,cost_fixed_units,cost_fixed_notes
+TO,2016,COMBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AveragePipe
+TO,2016,COMBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AverageSubstation
+TO,2016,COMBDGDCOPRDDLAENWELC_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingProductionDeep Lake CoolingEnwave
+TO,2016,COMBDGDCOPRDHEPLARHWP_EX,2015,0.08276916666666666,k$/TJ,CommercialBuildingDistrict CoolingProductionHeat PumpLarge
+TO,2016,COMBDGDCOSTGHTSMEDCW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingStorageHot Tank StorageMedium
+TO,2016,COMBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AveragePipe
+TO,2016,COMBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AverageSubstation
+TO,2016,COMBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,CommercialBuildingDistrict HeatingProductionBoilerLarge
+TO,2016,PUBBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AveragePipe
+TO,2016,PUBBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AverageSubstation
+TO,2016,PUBBDGDCOPRDHEPMEDELC_EX,2015,0.7882777777777779,k$/TJ,PublicBuildingDistrict CoolingProductionHeat PumpMedium
+TO,2016,PUBBDGDCOPRDHEPMEDHWP_EX,2015,0.08276916666666666,k$/TJ,PublicBuildingDistrict CoolingProductionHeat PumpMedium
+TO,2016,PUBBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AveragePipe
+TO,2016,PUBBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AverageSubstation
+TO,2016,PUBBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,PublicBuildingDistrict HeatingProductionBoilerLarge
+TO,2016,RESBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AveragePipe
+TO,2016,RESBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AverageSubstation
+TO,2016,RESBDGDCOPRDDLAENWELC_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingProductionDeep Lake CoolingEnwave
+TO,2016,RESBDGDCOPRDHEPLARHWP_EX,2015,0.08276916666666666,k$/TJ,ResidentialBuildingDistrict CoolingProductionHeat PumpLarge
+TO,2016,RESBDGDCOSTGHTSMEDCW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingStorageHot Tank StorageMedium
+TO,2016,RESBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AveragePipe
+TO,2016,RESBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AverageSubstation
+TO,2016,RESBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,ResidentialBuildingDistrict HeatingProductionBoilerLarge
+TO,2017,COMBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AveragePipe
+TO,2017,COMBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AverageSubstation
+TO,2017,COMBDGDCOPRDDLAENWELC_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingProductionDeep Lake CoolingEnwave
+TO,2017,COMBDGDCOPRDHEPLARHWP_EX,2015,0.08276916666666666,k$/TJ,CommercialBuildingDistrict CoolingProductionHeat PumpLarge
+TO,2017,COMBDGDCOSTGHTSMEDCW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingStorageHot Tank StorageMedium
+TO,2017,COMBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AveragePipe
+TO,2017,COMBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AverageSubstation
+TO,2017,COMBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,CommercialBuildingDistrict HeatingProductionBoilerLarge
+TO,2017,PUBBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AveragePipe
+TO,2017,PUBBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AverageSubstation
+TO,2017,PUBBDGDCOPRDHEPMEDELC_EX,2015,0.7882777777777779,k$/TJ,PublicBuildingDistrict CoolingProductionHeat PumpMedium
+TO,2017,PUBBDGDCOPRDHEPMEDHWP_EX,2015,0.08276916666666666,k$/TJ,PublicBuildingDistrict CoolingProductionHeat PumpMedium
+TO,2017,PUBBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AveragePipe
+TO,2017,PUBBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AverageSubstation
+TO,2017,PUBBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,PublicBuildingDistrict HeatingProductionBoilerLarge
+TO,2017,RESBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AveragePipe
+TO,2017,RESBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AverageSubstation
+TO,2017,RESBDGDCOPRDDLAENWELC_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingProductionDeep Lake CoolingEnwave
+TO,2017,RESBDGDCOPRDHEPLARHWP_EX,2015,0.08276916666666666,k$/TJ,ResidentialBuildingDistrict CoolingProductionHeat PumpLarge
+TO,2017,RESBDGDCOSTGHTSMEDCW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingStorageHot Tank StorageMedium
+TO,2017,RESBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AveragePipe
+TO,2017,RESBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AverageSubstation
+TO,2017,RESBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,ResidentialBuildingDistrict HeatingProductionBoilerLarge
+TO,2018,COMBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AveragePipe
+TO,2018,COMBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AverageSubstation
+TO,2018,COMBDGDCOPRDDLAENWELC_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingProductionDeep Lake CoolingEnwave
+TO,2018,COMBDGDCOPRDHEPLARHWP_EX,2015,0.08276916666666666,k$/TJ,CommercialBuildingDistrict CoolingProductionHeat PumpLarge
+TO,2018,COMBDGDCOSTGHTSMEDCW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingStorageHot Tank StorageMedium
+TO,2018,COMBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AveragePipe
+TO,2018,COMBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AverageSubstation
+TO,2018,COMBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,CommercialBuildingDistrict HeatingProductionBoilerLarge
+TO,2018,PUBBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AveragePipe
+TO,2018,PUBBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AverageSubstation
+TO,2018,PUBBDGDCOPRDHEPMEDELC_EX,2015,0.7882777777777779,k$/TJ,PublicBuildingDistrict CoolingProductionHeat PumpMedium
+TO,2018,PUBBDGDCOPRDHEPMEDHWP_EX,2015,0.08276916666666666,k$/TJ,PublicBuildingDistrict CoolingProductionHeat PumpMedium
+TO,2018,PUBBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AveragePipe
+TO,2018,PUBBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AverageSubstation
+TO,2018,PUBBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,PublicBuildingDistrict HeatingProductionBoilerLarge
+TO,2018,RESBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AveragePipe
+TO,2018,RESBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AverageSubstation
+TO,2018,RESBDGDCOPRDDLAENWELC_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingProductionDeep Lake CoolingEnwave
+TO,2018,RESBDGDCOPRDHEPLARHWP_EX,2015,0.08276916666666666,k$/TJ,ResidentialBuildingDistrict CoolingProductionHeat PumpLarge
+TO,2018,RESBDGDCOSTGHTSMEDCW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingStorageHot Tank StorageMedium
+TO,2018,RESBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AveragePipe
+TO,2018,RESBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AverageSubstation
+TO,2018,RESBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,ResidentialBuildingDistrict HeatingProductionBoilerLarge
+TO,2019,COMBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AveragePipe
+TO,2019,COMBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AverageSubstation
+TO,2019,COMBDGDCOPRDDLAENWELC_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingProductionDeep Lake CoolingEnwave
+TO,2019,COMBDGDCOPRDHEPLARHWP_EX,2015,0.08276916666666666,k$/TJ,CommercialBuildingDistrict CoolingProductionHeat PumpLarge
+TO,2019,COMBDGDCOSTGHTSMEDCW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingStorageHot Tank StorageMedium
+TO,2019,COMBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AveragePipe
+TO,2019,COMBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AverageSubstation
+TO,2019,COMBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,CommercialBuildingDistrict HeatingProductionBoilerLarge
+TO,2019,PUBBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AveragePipe
+TO,2019,PUBBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AverageSubstation
+TO,2019,PUBBDGDCOPRDHEPMEDELC_EX,2015,0.7882777777777779,k$/TJ,PublicBuildingDistrict CoolingProductionHeat PumpMedium
+TO,2019,PUBBDGDCOPRDHEPMEDHWP_EX,2015,0.08276916666666666,k$/TJ,PublicBuildingDistrict CoolingProductionHeat PumpMedium
+TO,2019,PUBBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AveragePipe
+TO,2019,PUBBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AverageSubstation
+TO,2019,PUBBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,PublicBuildingDistrict HeatingProductionBoilerLarge
+TO,2019,RESBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AveragePipe
+TO,2019,RESBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AverageSubstation
+TO,2019,RESBDGDCOPRDDLAENWELC_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingProductionDeep Lake CoolingEnwave
+TO,2019,RESBDGDCOPRDHEPLARHWP_EX,2015,0.08276916666666666,k$/TJ,ResidentialBuildingDistrict CoolingProductionHeat PumpLarge
+TO,2019,RESBDGDCOSTGHTSMEDCW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingStorageHot Tank StorageMedium
+TO,2019,RESBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AveragePipe
+TO,2019,RESBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AverageSubstation
+TO,2019,RESBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,ResidentialBuildingDistrict HeatingProductionBoilerLarge
+TO,2020,COMBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AveragePipe
+TO,2020,COMBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AverageSubstation
+TO,2020,COMBDGDCOPRDDLAENWELC_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingProductionDeep Lake CoolingEnwave
+TO,2020,COMBDGDCOPRDHEPLARHWP_EX,2015,0.08276916666666666,k$/TJ,CommercialBuildingDistrict CoolingProductionHeat PumpLarge
+TO,2020,COMBDGDCOSTGHTSMEDCW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingStorageHot Tank StorageMedium
+TO,2020,COMBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AveragePipe
+TO,2020,COMBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AverageSubstation
+TO,2020,COMBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,CommercialBuildingDistrict HeatingProductionBoilerLarge
+TO,2020,PUBBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AveragePipe
+TO,2020,PUBBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AverageSubstation
+TO,2020,PUBBDGDCOPRDHEPMEDELC_EX,2015,0.70945,k$/TJ,PublicBuildingDistrict CoolingProductionHeat PumpMedium
+TO,2020,PUBBDGDCOPRDHEPMEDHWP_EX,2015,0.08276916666666666,k$/TJ,PublicBuildingDistrict CoolingProductionHeat PumpMedium
+TO,2020,PUBBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AveragePipe
+TO,2020,PUBBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AverageSubstation
+TO,2020,PUBBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,PublicBuildingDistrict HeatingProductionBoilerLarge
+TO,2020,RESBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AveragePipe
+TO,2020,RESBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AverageSubstation
+TO,2020,RESBDGDCOPRDDLAENWELC_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingProductionDeep Lake CoolingEnwave
+TO,2020,RESBDGDCOPRDHEPLARHWP_EX,2015,0.08276916666666666,k$/TJ,ResidentialBuildingDistrict CoolingProductionHeat PumpLarge
+TO,2020,RESBDGDCOSTGHTSMEDCW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingStorageHot Tank StorageMedium
+TO,2020,RESBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AveragePipe
+TO,2020,RESBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AverageSubstation
+TO,2020,RESBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,ResidentialBuildingDistrict HeatingProductionBoilerLarge
+TO,2021,COMBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AveragePipe
+TO,2021,COMBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AverageSubstation
+TO,2021,COMBDGDCOPRDDLAENWELC_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingProductionDeep Lake CoolingEnwave
+TO,2021,COMBDGDCOPRDHEPLARHWP_EX,2015,0.08276916666666666,k$/TJ,CommercialBuildingDistrict CoolingProductionHeat PumpLarge
+TO,2021,COMBDGDCOSTGHTSMEDCW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingStorageHot Tank StorageMedium
+TO,2021,COMBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AveragePipe
+TO,2021,COMBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AverageSubstation
+TO,2021,COMBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,CommercialBuildingDistrict HeatingProductionBoilerLarge
+TO,2021,PUBBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AveragePipe
+TO,2021,PUBBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AverageSubstation
+TO,2021,PUBBDGDCOPRDHEPMEDELC_EX,2015,0.70945,k$/TJ,PublicBuildingDistrict CoolingProductionHeat PumpMedium
+TO,2021,PUBBDGDCOPRDHEPMEDHWP_EX,2015,0.08276916666666666,k$/TJ,PublicBuildingDistrict CoolingProductionHeat PumpMedium
+TO,2021,PUBBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AveragePipe
+TO,2021,PUBBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AverageSubstation
+TO,2021,PUBBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,PublicBuildingDistrict HeatingProductionBoilerLarge
+TO,2021,RESBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AveragePipe
+TO,2021,RESBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AverageSubstation
+TO,2021,RESBDGDCOPRDDLAENWELC_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingProductionDeep Lake CoolingEnwave
+TO,2021,RESBDGDCOPRDHEPLARHWP_EX,2015,0.08276916666666666,k$/TJ,ResidentialBuildingDistrict CoolingProductionHeat PumpLarge
+TO,2021,RESBDGDCOSTGHTSMEDCW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingStorageHot Tank StorageMedium
+TO,2021,RESBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AveragePipe
+TO,2021,RESBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AverageSubstation
+TO,2021,RESBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,ResidentialBuildingDistrict HeatingProductionBoilerLarge
+TO,2022,COMBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AveragePipe
+TO,2022,COMBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AverageSubstation
+TO,2022,COMBDGDCOPRDDLAENWELC_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingProductionDeep Lake CoolingEnwave
+TO,2022,COMBDGDCOPRDHEPLARHWP_EX,2015,0.08276916666666666,k$/TJ,CommercialBuildingDistrict CoolingProductionHeat PumpLarge
+TO,2022,COMBDGDCOSTGHTSMEDCW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingStorageHot Tank StorageMedium
+TO,2022,COMBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AveragePipe
+TO,2022,COMBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AverageSubstation
+TO,2022,COMBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,CommercialBuildingDistrict HeatingProductionBoilerLarge
+TO,2022,PUBBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AveragePipe
+TO,2022,PUBBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AverageSubstation
+TO,2022,PUBBDGDCOPRDHEPMEDELC_EX,2015,0.70945,k$/TJ,PublicBuildingDistrict CoolingProductionHeat PumpMedium
+TO,2022,PUBBDGDCOPRDHEPMEDHWP_EX,2015,0.08276916666666666,k$/TJ,PublicBuildingDistrict CoolingProductionHeat PumpMedium
+TO,2022,PUBBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AveragePipe
+TO,2022,PUBBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AverageSubstation
+TO,2022,PUBBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,PublicBuildingDistrict HeatingProductionBoilerLarge
+TO,2022,RESBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AveragePipe
+TO,2022,RESBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AverageSubstation
+TO,2022,RESBDGDCOPRDDLAENWELC_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingProductionDeep Lake CoolingEnwave
+TO,2022,RESBDGDCOPRDHEPLARHWP_EX,2015,0.08276916666666666,k$/TJ,ResidentialBuildingDistrict CoolingProductionHeat PumpLarge
+TO,2022,RESBDGDCOSTGHTSMEDCW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingStorageHot Tank StorageMedium
+TO,2022,RESBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AveragePipe
+TO,2022,RESBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AverageSubstation
+TO,2022,RESBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,ResidentialBuildingDistrict HeatingProductionBoilerLarge
+TO,2023,COMBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AveragePipe
+TO,2023,COMBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AverageSubstation
+TO,2023,COMBDGDCOPRDDLAENWELC_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingProductionDeep Lake CoolingEnwave
+TO,2023,COMBDGDCOPRDHEPLARHWP_EX,2015,0.08276916666666666,k$/TJ,CommercialBuildingDistrict CoolingProductionHeat PumpLarge
+TO,2023,COMBDGDCOSTGHTSMEDCW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingStorageHot Tank StorageMedium
+TO,2023,COMBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AveragePipe
+TO,2023,COMBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AverageSubstation
+TO,2023,COMBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,CommercialBuildingDistrict HeatingProductionBoilerLarge
+TO,2023,PUBBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AveragePipe
+TO,2023,PUBBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AverageSubstation
+TO,2023,PUBBDGDCOPRDHEPMEDELC_EX,2015,0.70945,k$/TJ,PublicBuildingDistrict CoolingProductionHeat PumpMedium
+TO,2023,PUBBDGDCOPRDHEPMEDHWP_EX,2015,0.08276916666666666,k$/TJ,PublicBuildingDistrict CoolingProductionHeat PumpMedium
+TO,2023,PUBBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AveragePipe
+TO,2023,PUBBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AverageSubstation
+TO,2023,PUBBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,PublicBuildingDistrict HeatingProductionBoilerLarge
+TO,2023,RESBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AveragePipe
+TO,2023,RESBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AverageSubstation
+TO,2023,RESBDGDCOPRDDLAENWELC_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingProductionDeep Lake CoolingEnwave
+TO,2023,RESBDGDCOPRDHEPLARHWP_EX,2015,0.08276916666666666,k$/TJ,ResidentialBuildingDistrict CoolingProductionHeat PumpLarge
+TO,2023,RESBDGDCOSTGHTSMEDCW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingStorageHot Tank StorageMedium
+TO,2023,RESBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AveragePipe
+TO,2023,RESBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AverageSubstation
+TO,2023,RESBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,ResidentialBuildingDistrict HeatingProductionBoilerLarge
+TO,2024,COMBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AveragePipe
+TO,2024,COMBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AverageSubstation
+TO,2024,COMBDGDCOPRDDLAENWELC_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingProductionDeep Lake CoolingEnwave
+TO,2024,COMBDGDCOPRDHEPLARHWP_EX,2015,0.08276916666666666,k$/TJ,CommercialBuildingDistrict CoolingProductionHeat PumpLarge
+TO,2024,COMBDGDCOSTGHTSMEDCW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingStorageHot Tank StorageMedium
+TO,2024,COMBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AveragePipe
+TO,2024,COMBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AverageSubstation
+TO,2024,COMBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,CommercialBuildingDistrict HeatingProductionBoilerLarge
+TO,2024,PUBBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AveragePipe
+TO,2024,PUBBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AverageSubstation
+TO,2024,PUBBDGDCOPRDHEPMEDELC_EX,2015,0.70945,k$/TJ,PublicBuildingDistrict CoolingProductionHeat PumpMedium
+TO,2024,PUBBDGDCOPRDHEPMEDHWP_EX,2015,0.08276916666666666,k$/TJ,PublicBuildingDistrict CoolingProductionHeat PumpMedium
+TO,2024,PUBBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AveragePipe
+TO,2024,PUBBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AverageSubstation
+TO,2024,PUBBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,PublicBuildingDistrict HeatingProductionBoilerLarge
+TO,2024,RESBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AveragePipe
+TO,2024,RESBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AverageSubstation
+TO,2024,RESBDGDCOPRDDLAENWELC_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingProductionDeep Lake CoolingEnwave
+TO,2024,RESBDGDCOPRDHEPLARHWP_EX,2015,0.08276916666666666,k$/TJ,ResidentialBuildingDistrict CoolingProductionHeat PumpLarge
+TO,2024,RESBDGDCOSTGHTSMEDCW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingStorageHot Tank StorageMedium
+TO,2024,RESBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AveragePipe
+TO,2024,RESBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AverageSubstation
+TO,2024,RESBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,ResidentialBuildingDistrict HeatingProductionBoilerLarge
+TO,2025,COMBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AveragePipe
+TO,2025,COMBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AverageSubstation
+TO,2025,COMBDGDCOPRDDLAENWELC_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingProductionDeep Lake CoolingEnwave
+TO,2025,COMBDGDCOPRDHEPLARHWP_EX,2015,0.08276916666666666,k$/TJ,CommercialBuildingDistrict CoolingProductionHeat PumpLarge
+TO,2025,COMBDGDCOSTGHTSMEDCW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingStorageHot Tank StorageMedium
+TO,2025,COMBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AveragePipe
+TO,2025,COMBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AverageSubstation
+TO,2025,COMBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,CommercialBuildingDistrict HeatingProductionBoilerLarge
+TO,2025,PUBBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AveragePipe
+TO,2025,PUBBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AverageSubstation
+TO,2025,PUBBDGDCOPRDHEPMEDELC_EX,2015,0.70945,k$/TJ,PublicBuildingDistrict CoolingProductionHeat PumpMedium
+TO,2025,PUBBDGDCOPRDHEPMEDHWP_EX,2015,0.08276916666666666,k$/TJ,PublicBuildingDistrict CoolingProductionHeat PumpMedium
+TO,2025,PUBBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AveragePipe
+TO,2025,PUBBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AverageSubstation
+TO,2025,PUBBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,PublicBuildingDistrict HeatingProductionBoilerLarge
+TO,2025,RESBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AveragePipe
+TO,2025,RESBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AverageSubstation
+TO,2025,RESBDGDCOPRDDLAENWELC_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingProductionDeep Lake CoolingEnwave
+TO,2025,RESBDGDCOPRDHEPLARHWP_EX,2015,0.08276916666666666,k$/TJ,ResidentialBuildingDistrict CoolingProductionHeat PumpLarge
+TO,2025,RESBDGDCOSTGHTSMEDCW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingStorageHot Tank StorageMedium
+TO,2025,RESBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AveragePipe
+TO,2025,RESBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AverageSubstation
+TO,2025,RESBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,ResidentialBuildingDistrict HeatingProductionBoilerLarge
+TO,2026,COMBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AveragePipe
+TO,2026,COMBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AverageSubstation
+TO,2026,COMBDGDCOPRDDLAENWELC_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingProductionDeep Lake CoolingEnwave
+TO,2026,COMBDGDCOPRDHEPLARHWP_EX,2015,0.08276916666666666,k$/TJ,CommercialBuildingDistrict CoolingProductionHeat PumpLarge
+TO,2026,COMBDGDCOSTGHTSMEDCW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingStorageHot Tank StorageMedium
+TO,2026,COMBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AveragePipe
+TO,2026,COMBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AverageSubstation
+TO,2026,COMBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,CommercialBuildingDistrict HeatingProductionBoilerLarge
+TO,2026,PUBBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AveragePipe
+TO,2026,PUBBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AverageSubstation
+TO,2026,PUBBDGDCOPRDHEPMEDELC_EX,2015,0.70945,k$/TJ,PublicBuildingDistrict CoolingProductionHeat PumpMedium
+TO,2026,PUBBDGDCOPRDHEPMEDHWP_EX,2015,0.08276916666666666,k$/TJ,PublicBuildingDistrict CoolingProductionHeat PumpMedium
+TO,2026,PUBBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AveragePipe
+TO,2026,PUBBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AverageSubstation
+TO,2026,PUBBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,PublicBuildingDistrict HeatingProductionBoilerLarge
+TO,2026,RESBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AveragePipe
+TO,2026,RESBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AverageSubstation
+TO,2026,RESBDGDCOPRDDLAENWELC_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingProductionDeep Lake CoolingEnwave
+TO,2026,RESBDGDCOPRDHEPLARHWP_EX,2015,0.08276916666666666,k$/TJ,ResidentialBuildingDistrict CoolingProductionHeat PumpLarge
+TO,2026,RESBDGDCOSTGHTSMEDCW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingStorageHot Tank StorageMedium
+TO,2026,RESBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AveragePipe
+TO,2026,RESBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AverageSubstation
+TO,2026,RESBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,ResidentialBuildingDistrict HeatingProductionBoilerLarge
+TO,2027,COMBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AveragePipe
+TO,2027,COMBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AverageSubstation
+TO,2027,COMBDGDCOPRDDLAENWELC_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingProductionDeep Lake CoolingEnwave
+TO,2027,COMBDGDCOPRDHEPLARHWP_EX,2015,0.08276916666666666,k$/TJ,CommercialBuildingDistrict CoolingProductionHeat PumpLarge
+TO,2027,COMBDGDCOSTGHTSMEDCW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingStorageHot Tank StorageMedium
+TO,2027,COMBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AveragePipe
+TO,2027,COMBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AverageSubstation
+TO,2027,COMBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,CommercialBuildingDistrict HeatingProductionBoilerLarge
+TO,2027,PUBBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AveragePipe
+TO,2027,PUBBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AverageSubstation
+TO,2027,PUBBDGDCOPRDHEPMEDELC_EX,2015,0.70945,k$/TJ,PublicBuildingDistrict CoolingProductionHeat PumpMedium
+TO,2027,PUBBDGDCOPRDHEPMEDHWP_EX,2015,0.08276916666666666,k$/TJ,PublicBuildingDistrict CoolingProductionHeat PumpMedium
+TO,2027,PUBBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AveragePipe
+TO,2027,PUBBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AverageSubstation
+TO,2027,PUBBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,PublicBuildingDistrict HeatingProductionBoilerLarge
+TO,2027,RESBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AveragePipe
+TO,2027,RESBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AverageSubstation
+TO,2027,RESBDGDCOPRDDLAENWELC_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingProductionDeep Lake CoolingEnwave
+TO,2027,RESBDGDCOPRDHEPLARHWP_EX,2015,0.08276916666666666,k$/TJ,ResidentialBuildingDistrict CoolingProductionHeat PumpLarge
+TO,2027,RESBDGDCOSTGHTSMEDCW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingStorageHot Tank StorageMedium
+TO,2027,RESBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AveragePipe
+TO,2027,RESBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AverageSubstation
+TO,2027,RESBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,ResidentialBuildingDistrict HeatingProductionBoilerLarge
+TO,2028,COMBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AveragePipe
+TO,2028,COMBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AverageSubstation
+TO,2028,COMBDGDCOPRDDLAENWELC_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingProductionDeep Lake CoolingEnwave
+TO,2028,COMBDGDCOPRDHEPLARHWP_EX,2015,0.08276916666666666,k$/TJ,CommercialBuildingDistrict CoolingProductionHeat PumpLarge
+TO,2028,COMBDGDCOSTGHTSMEDCW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingStorageHot Tank StorageMedium
+TO,2028,COMBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AveragePipe
+TO,2028,COMBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AverageSubstation
+TO,2028,COMBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,CommercialBuildingDistrict HeatingProductionBoilerLarge
+TO,2028,PUBBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AveragePipe
+TO,2028,PUBBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AverageSubstation
+TO,2028,PUBBDGDCOPRDHEPMEDELC_EX,2015,0.70945,k$/TJ,PublicBuildingDistrict CoolingProductionHeat PumpMedium
+TO,2028,PUBBDGDCOPRDHEPMEDHWP_EX,2015,0.08276916666666666,k$/TJ,PublicBuildingDistrict CoolingProductionHeat PumpMedium
+TO,2028,PUBBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AveragePipe
+TO,2028,PUBBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AverageSubstation
+TO,2028,PUBBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,PublicBuildingDistrict HeatingProductionBoilerLarge
+TO,2028,RESBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AveragePipe
+TO,2028,RESBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AverageSubstation
+TO,2028,RESBDGDCOPRDDLAENWELC_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingProductionDeep Lake CoolingEnwave
+TO,2028,RESBDGDCOPRDHEPLARHWP_EX,2015,0.08276916666666666,k$/TJ,ResidentialBuildingDistrict CoolingProductionHeat PumpLarge
+TO,2028,RESBDGDCOSTGHTSMEDCW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingStorageHot Tank StorageMedium
+TO,2028,RESBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AveragePipe
+TO,2028,RESBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AverageSubstation
+TO,2028,RESBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,ResidentialBuildingDistrict HeatingProductionBoilerLarge
+TO,2029,COMBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AveragePipe
+TO,2029,COMBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AverageSubstation
+TO,2029,COMBDGDCOPRDDLAENWELC_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingProductionDeep Lake CoolingEnwave
+TO,2029,COMBDGDCOPRDHEPLARHWP_EX,2015,0.08276916666666666,k$/TJ,CommercialBuildingDistrict CoolingProductionHeat PumpLarge
+TO,2029,COMBDGDCOSTGHTSMEDCW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingStorageHot Tank StorageMedium
+TO,2029,COMBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AveragePipe
+TO,2029,COMBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AverageSubstation
+TO,2029,COMBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,CommercialBuildingDistrict HeatingProductionBoilerLarge
+TO,2029,PUBBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AveragePipe
+TO,2029,PUBBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AverageSubstation
+TO,2029,PUBBDGDCOPRDHEPMEDELC_EX,2015,0.70945,k$/TJ,PublicBuildingDistrict CoolingProductionHeat PumpMedium
+TO,2029,PUBBDGDCOPRDHEPMEDHWP_EX,2015,0.08276916666666666,k$/TJ,PublicBuildingDistrict CoolingProductionHeat PumpMedium
+TO,2029,PUBBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AveragePipe
+TO,2029,PUBBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AverageSubstation
+TO,2029,PUBBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,PublicBuildingDistrict HeatingProductionBoilerLarge
+TO,2029,RESBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AveragePipe
+TO,2029,RESBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AverageSubstation
+TO,2029,RESBDGDCOPRDDLAENWELC_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingProductionDeep Lake CoolingEnwave
+TO,2029,RESBDGDCOPRDHEPLARHWP_EX,2015,0.08276916666666666,k$/TJ,ResidentialBuildingDistrict CoolingProductionHeat PumpLarge
+TO,2029,RESBDGDCOSTGHTSMEDCW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingStorageHot Tank StorageMedium
+TO,2029,RESBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AveragePipe
+TO,2029,RESBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AverageSubstation
+TO,2029,RESBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,ResidentialBuildingDistrict HeatingProductionBoilerLarge
+TO,2030,COMBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AveragePipe
+TO,2030,COMBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AverageSubstation
+TO,2030,COMBDGDCOPRDDLAENWELC_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingProductionDeep Lake CoolingEnwave
+TO,2030,COMBDGDCOPRDHEPLARHWP_EX,2015,0.08276916666666666,k$/TJ,CommercialBuildingDistrict CoolingProductionHeat PumpLarge
+TO,2030,COMBDGDCOSTGHTSMEDCW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingStorageHot Tank StorageMedium
+TO,2030,COMBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AveragePipe
+TO,2030,COMBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AverageSubstation
+TO,2030,COMBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,CommercialBuildingDistrict HeatingProductionBoilerLarge
+TO,2030,PUBBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AveragePipe
+TO,2030,PUBBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AverageSubstation
+TO,2030,PUBBDGDCOPRDHEPMEDELC_EX,2015,0.6700361111111112,k$/TJ,PublicBuildingDistrict CoolingProductionHeat PumpMedium
+TO,2030,PUBBDGDCOPRDHEPMEDHWP_EX,2015,0.08276916666666666,k$/TJ,PublicBuildingDistrict CoolingProductionHeat PumpMedium
+TO,2030,PUBBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AveragePipe
+TO,2030,PUBBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AverageSubstation
+TO,2030,PUBBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,PublicBuildingDistrict HeatingProductionBoilerLarge
+TO,2030,RESBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AveragePipe
+TO,2030,RESBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AverageSubstation
+TO,2030,RESBDGDCOPRDDLAENWELC_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingProductionDeep Lake CoolingEnwave
+TO,2030,RESBDGDCOPRDHEPLARHWP_EX,2015,0.08276916666666666,k$/TJ,ResidentialBuildingDistrict CoolingProductionHeat PumpLarge
+TO,2030,RESBDGDCOSTGHTSMEDCW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingStorageHot Tank StorageMedium
+TO,2030,RESBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AveragePipe
+TO,2030,RESBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AverageSubstation
+TO,2030,RESBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,ResidentialBuildingDistrict HeatingProductionBoilerLarge
+TO,2031,COMBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AveragePipe
+TO,2031,COMBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AverageSubstation
+TO,2031,COMBDGDCOPRDDLAENWELC_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingProductionDeep Lake CoolingEnwave
+TO,2031,COMBDGDCOPRDHEPLARHWP_EX,2015,0.08276916666666666,k$/TJ,CommercialBuildingDistrict CoolingProductionHeat PumpLarge
+TO,2031,COMBDGDCOSTGHTSMEDCW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingStorageHot Tank StorageMedium
+TO,2031,COMBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AveragePipe
+TO,2031,COMBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AverageSubstation
+TO,2031,COMBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,CommercialBuildingDistrict HeatingProductionBoilerLarge
+TO,2031,PUBBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AveragePipe
+TO,2031,PUBBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AverageSubstation
+TO,2031,PUBBDGDCOPRDHEPMEDELC_EX,2015,0.6700361111111112,k$/TJ,PublicBuildingDistrict CoolingProductionHeat PumpMedium
+TO,2031,PUBBDGDCOPRDHEPMEDHWP_EX,2015,0.08276916666666666,k$/TJ,PublicBuildingDistrict CoolingProductionHeat PumpMedium
+TO,2031,PUBBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AveragePipe
+TO,2031,PUBBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AverageSubstation
+TO,2031,PUBBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,PublicBuildingDistrict HeatingProductionBoilerLarge
+TO,2031,RESBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AveragePipe
+TO,2031,RESBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AverageSubstation
+TO,2031,RESBDGDCOPRDDLAENWELC_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingProductionDeep Lake CoolingEnwave
+TO,2031,RESBDGDCOPRDHEPLARHWP_EX,2015,0.08276916666666666,k$/TJ,ResidentialBuildingDistrict CoolingProductionHeat PumpLarge
+TO,2031,RESBDGDCOSTGHTSMEDCW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingStorageHot Tank StorageMedium
+TO,2031,RESBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AveragePipe
+TO,2031,RESBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AverageSubstation
+TO,2031,RESBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,ResidentialBuildingDistrict HeatingProductionBoilerLarge
+TO,2032,COMBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AveragePipe
+TO,2032,COMBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AverageSubstation
+TO,2032,COMBDGDCOPRDDLAENWELC_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingProductionDeep Lake CoolingEnwave
+TO,2032,COMBDGDCOPRDHEPLARHWP_EX,2015,0.08276916666666666,k$/TJ,CommercialBuildingDistrict CoolingProductionHeat PumpLarge
+TO,2032,COMBDGDCOSTGHTSMEDCW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingStorageHot Tank StorageMedium
+TO,2032,COMBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AveragePipe
+TO,2032,COMBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AverageSubstation
+TO,2032,COMBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,CommercialBuildingDistrict HeatingProductionBoilerLarge
+TO,2032,PUBBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AveragePipe
+TO,2032,PUBBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AverageSubstation
+TO,2032,PUBBDGDCOPRDHEPMEDELC_EX,2015,0.6700361111111112,k$/TJ,PublicBuildingDistrict CoolingProductionHeat PumpMedium
+TO,2032,PUBBDGDCOPRDHEPMEDHWP_EX,2015,0.08276916666666666,k$/TJ,PublicBuildingDistrict CoolingProductionHeat PumpMedium
+TO,2032,PUBBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AveragePipe
+TO,2032,PUBBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AverageSubstation
+TO,2032,PUBBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,PublicBuildingDistrict HeatingProductionBoilerLarge
+TO,2032,RESBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AveragePipe
+TO,2032,RESBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AverageSubstation
+TO,2032,RESBDGDCOPRDDLAENWELC_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingProductionDeep Lake CoolingEnwave
+TO,2032,RESBDGDCOPRDHEPLARHWP_EX,2015,0.08276916666666666,k$/TJ,ResidentialBuildingDistrict CoolingProductionHeat PumpLarge
+TO,2032,RESBDGDCOSTGHTSMEDCW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingStorageHot Tank StorageMedium
+TO,2032,RESBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AveragePipe
+TO,2032,RESBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AverageSubstation
+TO,2032,RESBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,ResidentialBuildingDistrict HeatingProductionBoilerLarge
+TO,2033,COMBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AveragePipe
+TO,2033,COMBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AverageSubstation
+TO,2033,COMBDGDCOPRDDLAENWELC_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingProductionDeep Lake CoolingEnwave
+TO,2033,COMBDGDCOPRDHEPLARHWP_EX,2015,0.08276916666666666,k$/TJ,CommercialBuildingDistrict CoolingProductionHeat PumpLarge
+TO,2033,COMBDGDCOSTGHTSMEDCW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingStorageHot Tank StorageMedium
+TO,2033,COMBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AveragePipe
+TO,2033,COMBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AverageSubstation
+TO,2033,COMBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,CommercialBuildingDistrict HeatingProductionBoilerLarge
+TO,2033,PUBBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AveragePipe
+TO,2033,PUBBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AverageSubstation
+TO,2033,PUBBDGDCOPRDHEPMEDELC_EX,2015,0.6700361111111112,k$/TJ,PublicBuildingDistrict CoolingProductionHeat PumpMedium
+TO,2033,PUBBDGDCOPRDHEPMEDHWP_EX,2015,0.08276916666666666,k$/TJ,PublicBuildingDistrict CoolingProductionHeat PumpMedium
+TO,2033,PUBBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AveragePipe
+TO,2033,PUBBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AverageSubstation
+TO,2033,PUBBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,PublicBuildingDistrict HeatingProductionBoilerLarge
+TO,2033,RESBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AveragePipe
+TO,2033,RESBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AverageSubstation
+TO,2033,RESBDGDCOPRDDLAENWELC_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingProductionDeep Lake CoolingEnwave
+TO,2033,RESBDGDCOPRDHEPLARHWP_EX,2015,0.08276916666666666,k$/TJ,ResidentialBuildingDistrict CoolingProductionHeat PumpLarge
+TO,2033,RESBDGDCOSTGHTSMEDCW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingStorageHot Tank StorageMedium
+TO,2033,RESBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AveragePipe
+TO,2033,RESBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AverageSubstation
+TO,2033,RESBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,ResidentialBuildingDistrict HeatingProductionBoilerLarge
+TO,2034,COMBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AveragePipe
+TO,2034,COMBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AverageSubstation
+TO,2034,COMBDGDCOPRDHEPLARHWP_EX,2015,0.08276916666666666,k$/TJ,CommercialBuildingDistrict CoolingProductionHeat PumpLarge
+TO,2034,COMBDGDCOSTGHTSMEDCW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingStorageHot Tank StorageMedium
+TO,2034,COMBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AveragePipe
+TO,2034,COMBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AverageSubstation
+TO,2034,COMBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,CommercialBuildingDistrict HeatingProductionBoilerLarge
+TO,2034,PUBBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AveragePipe
+TO,2034,PUBBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AverageSubstation
+TO,2034,PUBBDGDCOPRDHEPMEDHWP_EX,2015,0.08276916666666666,k$/TJ,PublicBuildingDistrict CoolingProductionHeat PumpMedium
+TO,2034,PUBBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AveragePipe
+TO,2034,PUBBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AverageSubstation
+TO,2034,PUBBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,PublicBuildingDistrict HeatingProductionBoilerLarge
+TO,2034,RESBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AveragePipe
+TO,2034,RESBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AverageSubstation
+TO,2034,RESBDGDCOPRDHEPLARHWP_EX,2015,0.08276916666666666,k$/TJ,ResidentialBuildingDistrict CoolingProductionHeat PumpLarge
+TO,2034,RESBDGDCOSTGHTSMEDCW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingStorageHot Tank StorageMedium
+TO,2034,RESBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AveragePipe
+TO,2034,RESBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AverageSubstation
+TO,2034,RESBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,ResidentialBuildingDistrict HeatingProductionBoilerLarge
+TO,2035,COMBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AveragePipe
+TO,2035,COMBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AverageSubstation
+TO,2035,COMBDGDCOPRDHEPLARHWP_EX,2015,0.08276916666666666,k$/TJ,CommercialBuildingDistrict CoolingProductionHeat PumpLarge
+TO,2035,COMBDGDCOSTGHTSMEDCW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingStorageHot Tank StorageMedium
+TO,2035,COMBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AveragePipe
+TO,2035,COMBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AverageSubstation
+TO,2035,COMBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,CommercialBuildingDistrict HeatingProductionBoilerLarge
+TO,2035,PUBBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AveragePipe
+TO,2035,PUBBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AverageSubstation
+TO,2035,PUBBDGDCOPRDHEPMEDHWP_EX,2015,0.08276916666666666,k$/TJ,PublicBuildingDistrict CoolingProductionHeat PumpMedium
+TO,2035,PUBBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AveragePipe
+TO,2035,PUBBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AverageSubstation
+TO,2035,PUBBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,PublicBuildingDistrict HeatingProductionBoilerLarge
+TO,2035,RESBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AveragePipe
+TO,2035,RESBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AverageSubstation
+TO,2035,RESBDGDCOPRDHEPLARHWP_EX,2015,0.08276916666666666,k$/TJ,ResidentialBuildingDistrict CoolingProductionHeat PumpLarge
+TO,2035,RESBDGDCOSTGHTSMEDCW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingStorageHot Tank StorageMedium
+TO,2035,RESBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AveragePipe
+TO,2035,RESBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AverageSubstation
+TO,2035,RESBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,ResidentialBuildingDistrict HeatingProductionBoilerLarge
+TO,2036,COMBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AveragePipe
+TO,2036,COMBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AverageSubstation
+TO,2036,COMBDGDCOPRDHEPLARHWP_EX,2015,0.08276916666666666,k$/TJ,CommercialBuildingDistrict CoolingProductionHeat PumpLarge
+TO,2036,COMBDGDCOSTGHTSMEDCW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingStorageHot Tank StorageMedium
+TO,2036,COMBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AveragePipe
+TO,2036,COMBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AverageSubstation
+TO,2036,COMBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,CommercialBuildingDistrict HeatingProductionBoilerLarge
+TO,2036,PUBBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AveragePipe
+TO,2036,PUBBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AverageSubstation
+TO,2036,PUBBDGDCOPRDHEPMEDHWP_EX,2015,0.08276916666666666,k$/TJ,PublicBuildingDistrict CoolingProductionHeat PumpMedium
+TO,2036,PUBBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AveragePipe
+TO,2036,PUBBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AverageSubstation
+TO,2036,PUBBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,PublicBuildingDistrict HeatingProductionBoilerLarge
+TO,2036,RESBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AveragePipe
+TO,2036,RESBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AverageSubstation
+TO,2036,RESBDGDCOPRDHEPLARHWP_EX,2015,0.08276916666666666,k$/TJ,ResidentialBuildingDistrict CoolingProductionHeat PumpLarge
+TO,2036,RESBDGDCOSTGHTSMEDCW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingStorageHot Tank StorageMedium
+TO,2036,RESBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AveragePipe
+TO,2036,RESBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AverageSubstation
+TO,2036,RESBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,ResidentialBuildingDistrict HeatingProductionBoilerLarge
+TO,2037,COMBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AveragePipe
+TO,2037,COMBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AverageSubstation
+TO,2037,COMBDGDCOPRDHEPLARHWP_EX,2015,0.08276916666666666,k$/TJ,CommercialBuildingDistrict CoolingProductionHeat PumpLarge
+TO,2037,COMBDGDCOSTGHTSMEDCW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingStorageHot Tank StorageMedium
+TO,2037,COMBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AveragePipe
+TO,2037,COMBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AverageSubstation
+TO,2037,COMBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,CommercialBuildingDistrict HeatingProductionBoilerLarge
+TO,2037,PUBBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AveragePipe
+TO,2037,PUBBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AverageSubstation
+TO,2037,PUBBDGDCOPRDHEPMEDHWP_EX,2015,0.08276916666666666,k$/TJ,PublicBuildingDistrict CoolingProductionHeat PumpMedium
+TO,2037,PUBBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AveragePipe
+TO,2037,PUBBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AverageSubstation
+TO,2037,PUBBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,PublicBuildingDistrict HeatingProductionBoilerLarge
+TO,2037,RESBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AveragePipe
+TO,2037,RESBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AverageSubstation
+TO,2037,RESBDGDCOPRDHEPLARHWP_EX,2015,0.08276916666666666,k$/TJ,ResidentialBuildingDistrict CoolingProductionHeat PumpLarge
+TO,2037,RESBDGDCOSTGHTSMEDCW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingStorageHot Tank StorageMedium
+TO,2037,RESBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AveragePipe
+TO,2037,RESBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AverageSubstation
+TO,2037,RESBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,ResidentialBuildingDistrict HeatingProductionBoilerLarge
+TO,2038,COMBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AveragePipe
+TO,2038,COMBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AverageSubstation
+TO,2038,COMBDGDCOPRDHEPLARHWP_EX,2015,0.08276916666666666,k$/TJ,CommercialBuildingDistrict CoolingProductionHeat PumpLarge
+TO,2038,COMBDGDCOSTGHTSMEDCW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingStorageHot Tank StorageMedium
+TO,2038,COMBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AveragePipe
+TO,2038,COMBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AverageSubstation
+TO,2038,COMBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,CommercialBuildingDistrict HeatingProductionBoilerLarge
+TO,2038,PUBBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AveragePipe
+TO,2038,PUBBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AverageSubstation
+TO,2038,PUBBDGDCOPRDHEPMEDHWP_EX,2015,0.08276916666666666,k$/TJ,PublicBuildingDistrict CoolingProductionHeat PumpMedium
+TO,2038,PUBBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AveragePipe
+TO,2038,PUBBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AverageSubstation
+TO,2038,PUBBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,PublicBuildingDistrict HeatingProductionBoilerLarge
+TO,2038,RESBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AveragePipe
+TO,2038,RESBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AverageSubstation
+TO,2038,RESBDGDCOPRDHEPLARHWP_EX,2015,0.08276916666666666,k$/TJ,ResidentialBuildingDistrict CoolingProductionHeat PumpLarge
+TO,2038,RESBDGDCOSTGHTSMEDCW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingStorageHot Tank StorageMedium
+TO,2038,RESBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AveragePipe
+TO,2038,RESBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AverageSubstation
+TO,2038,RESBDGDHEPRDBOILARNGA_EX,2015,0.19706944444444446,k$/TJ,ResidentialBuildingDistrict HeatingProductionBoilerLarge
+TO,2039,COMBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AveragePipe
+TO,2039,COMBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AverageSubstation
+TO,2039,COMBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AveragePipe
+TO,2039,COMBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AverageSubstation
+TO,2039,PUBBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AveragePipe
+TO,2039,PUBBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AverageSubstation
+TO,2039,PUBBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AveragePipe
+TO,2039,PUBBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AverageSubstation
+TO,2039,RESBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AveragePipe
+TO,2039,RESBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AverageSubstation
+TO,2039,RESBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AveragePipe
+TO,2039,RESBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AverageSubstation
+TO,2040,COMBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AveragePipe
+TO,2040,COMBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AverageSubstation
+TO,2040,COMBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AveragePipe
+TO,2040,COMBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AverageSubstation
+TO,2040,PUBBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AveragePipe
+TO,2040,PUBBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AverageSubstation
+TO,2040,PUBBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AveragePipe
+TO,2040,PUBBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AverageSubstation
+TO,2040,RESBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AveragePipe
+TO,2040,RESBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AverageSubstation
+TO,2040,RESBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AveragePipe
+TO,2040,RESBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AverageSubstation
+TO,2041,COMBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AveragePipe
+TO,2041,COMBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AverageSubstation
+TO,2041,COMBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AveragePipe
+TO,2041,COMBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AverageSubstation
+TO,2041,PUBBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AveragePipe
+TO,2041,PUBBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AverageSubstation
+TO,2041,PUBBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AveragePipe
+TO,2041,PUBBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AverageSubstation
+TO,2041,RESBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AveragePipe
+TO,2041,RESBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AverageSubstation
+TO,2041,RESBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AveragePipe
+TO,2041,RESBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AverageSubstation
+TO,2042,COMBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AveragePipe
+TO,2042,COMBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AverageSubstation
+TO,2042,COMBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AveragePipe
+TO,2042,COMBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AverageSubstation
+TO,2042,PUBBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AveragePipe
+TO,2042,PUBBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AverageSubstation
+TO,2042,PUBBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AveragePipe
+TO,2042,PUBBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AverageSubstation
+TO,2042,RESBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AveragePipe
+TO,2042,RESBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AverageSubstation
+TO,2042,RESBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AveragePipe
+TO,2042,RESBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AverageSubstation
+TO,2043,COMBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AveragePipe
+TO,2043,COMBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict CoolingToronto AverageSubstation
+TO,2043,COMBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AveragePipe
+TO,2043,COMBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,CommercialBuildingDistrict HeatingToronto AverageSubstation
+TO,2043,PUBBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AveragePipe
+TO,2043,PUBBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict CoolingToronto AverageSubstation
+TO,2043,PUBBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AveragePipe
+TO,2043,PUBBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,PublicBuildingDistrict HeatingToronto AverageSubstation
+TO,2043,RESBDGDCOAVGPIP___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AveragePipe
+TO,2043,RESBDGDCOAVGSUB___CW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict CoolingToronto AverageSubstation
+TO,2043,RESBDGDHEAVGPIP___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AveragePipe
+TO,2043,RESBDGDHEAVGSUB___HW_EX,2015,0.0,k$/TJ,ResidentialBuildingDistrict HeatingToronto AverageSubstation

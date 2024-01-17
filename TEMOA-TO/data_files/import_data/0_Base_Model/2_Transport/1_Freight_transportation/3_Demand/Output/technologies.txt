@@ -1,0 +1,6 @@
+INSERT INTO`technologies`VALUES('FRETRAROATRULGT','p','FRETRA','Freight TransportationTransportationRoadTruckPassenger Light Trucks','nan');
+INSERT INTO`technologies`VALUES('FRETRAROATRUMET','p','FRETRA','Freight TransportationTransportationRoadTruckMedium Trucks','nan');
+INSERT INTO`technologies`VALUES('FRETRAROATRUHET','p','FRETRA','Freight TransportationTransportationRoadTruckHeavy Trucks','nan');
+INSERT INTO`technologies`VALUES('FRETRAAIR______','p','FRETRA','Freight TransportationTransportationAir','nan');
+INSERT INTO`technologies`VALUES('FRETRARAI______','p','FRETRA','Freight TransportationTransportationRail','nan');
+INSERT INTO`technologies`VALUES('FRETRAMAR______','p','FRETRA','Freight TransportationTransportationMarine','nan');

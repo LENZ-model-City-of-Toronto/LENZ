@@ -1,0 +1,6 @@
+﻿regions,periods,emis_comm,emis_limit,emis_limit_units,emis_limit_notes
+TO,2030,CO2e,9600000,tCO2e /yr ,
+TO,2035,CO2e,6600000,tCO2e /yr ,
+TO,2040,CO2e,4800000,tCO2e /yr ,
+TO,2045,CO2e,2800000,tCO2e /yr ,
+TO,2050,CO2e,2000000,tCO2e /yr ,

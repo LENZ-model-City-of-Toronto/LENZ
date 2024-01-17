@@ -1,0 +1,1137 @@
+regions,season_name,time_of_day_name,tech,cf_tech,cf_tech_notes
+TO,W,D,SLDWASLDFGLCAP__________23,0.95,SolidWasteLandfillGreen LaneBiogas capture
+TO,W,D,SLDWASLDFGLBUPPUBSTD____23,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASLDFGLBUPPUBSTDMENE_23,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASLDFGLBUPPUBSTD____21,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASLDFGLBUPPUBSTDMENE_21,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASLDFGLBUPPUBSTD____17,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASLDFGLBUPPUBSTDMENE_17,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASLDFBWCAP__________23,0.95,SolidWasteLandfillBrock WestBiogas capture
+TO,W,D,SLDWASLDFBWBUPPUBSTD_23,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASLDFBWBUPPUBSTDMENE_23,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASLDFBWBUPPUBSTD_21,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASLDFBWBUPPUBSTDMENE_21,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASLDFBWBUPPUBSTD_17,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASLDFBWBUPPUBSTDMENE_17,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASLDFBWCHPICESTD____20,1.0,SolidWasteLandfillBrock WestCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,W,D,SLDWASLDFKVCAP__________23,0.95,SolidWasteLandfillKeele ValleyBiogas capture
+TO,W,D,SLDWASLDFKVBUPPUBSTD_23,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASLDFKVBUPPUBSTDMENE_23,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASLDFKVBUPPUBSTD_21,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASLDFKVBUPPUBSTDMENE_21,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASLDFKVBUPPUBSTD_17,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASLDFKVBUPPUBSTDMENE_17,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASLDFBRCAP__________23,0.95,SolidWasteLandfillBeare RdBiogas capture
+TO,W,D,SLDWASLDFBRBUPPUBSTD_23,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASLDFBRBUPPUBSTDMENE_23,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASLDFBRBUPPUBSTD_21,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASLDFBRBUPPUBSTDMENE_21,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASLDFBRBUPPUBSTD_17,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASLDFBRBUPPUBSTDMENE_17,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASLDFBRCHPICESTD____20,1.0,SolidWasteLandfillBeare RdCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,W,D,SLDWASLDFTKCAP__________23,0.95,SolidWasteLandfillThackerayBiogas capture
+TO,W,D,SLDWASLDFTKBUPPUBSTD_23,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASLDFTKBUPPUBSTDMENE_23,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASLDFTKBUPPUBSTD_21,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASLDFTKBUPPUBSTDMENE_21,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASLDFTKBUPPUBSTD_17,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASLDFTKBUPPUBSTDMENE_17,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASLDFTKCHPICESTD____20,1.0,SolidWasteLandfillThackerayCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,W,D,SLDWASLDFAHCAP__________23,0.95,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,W,D,SLDWASLDFAHBUPPUBSTD_23,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASLDFAHBUPPUBSTDMENE_23,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASLDFAHBUPPUBSTD_21,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASLDFAHBUPPUBSTDMENE_21,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASLDFAHBUPPUBSTD_17,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASLDFAHBUPPUBSTDMENE_17,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASLDFAHCHPICESTD____20,1.0,SolidWasteLandfillMI - Arbor HillsCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,W,D,SLDWASLDFCFCAP__________23,0.95,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,W,D,SLDWASLDFCFBUPPUBSTD_23,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASLDFCFBUPPUBSTDMENE_23,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASLDFCFBUPPUBSTD_21,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASLDFCFBUPPUBSTDMENE_21,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASLDFCFBUPPUBSTD_17,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASLDFCFBUPPUBSTDMENE_17,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASLDFCFCHPICESTD____20,1.0,SolidWasteLandfillMI - Carleton farmsCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,W,D,SLDWASGRBCPCAP__________23,0.95,SolidWasteGreen BinCompostBiogas capture
+TO,W,D,SLDWASGRBCPBUPPUBSTD____23,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASGRBCPBUPPUBSTDMENE_23,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASGRBCPBUPPUBSTD____21,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASGRBCPBUPPUBSTDMENE_21,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASGRBCPBUPPUBSTD____17,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASGRBCPBUPPUBSTDMENE_17,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,W,D,SLDWASGRBDRGASERKSTD____21,0.91324200913242,SolidWasteGreen BinDisco RoadGasificationEnerkemStandard Efficiency
+TO,W,D,SLDWASGRBDRGASERKSTDMENE_21,1.0,SolidWasteGreen BinDisco RoadGasificationEnerkemStandard Efficiency
+TO,W,D,SLDWASGRBDRADIPUBSTD____21,0.91324200913242,SolidWasteGreen BinDisco RoadAnaerobic DigesterPublicStandard Efficiency
+TO,W,D,SLDWASGRBDRADIPUBSTDMENE_21,1.0,SolidWasteGreen BinDisco RoadAnaerobic DigesterPublicStandard Efficiency
+TO,W,D,SLDWASGRBDRGASCENCCSHH2_21,0.9,SolidWasteGreen BinDisco RoadGasificationCentralCarbon Capture Storage
+TO,W,D,SLDWASGRBDFGASERKSTD____21,0.91324200913242,SolidWasteGreen BinDufferinGasificationEnerkemStandard Efficiency
+TO,W,D,SLDWASGRBDFGASERKSTDMENE_21,1.0,SolidWasteGreen BinDufferinGasificationEnerkemStandard Efficiency
+TO,W,D,SLDWASGRBDFADIPUBSTD____21,0.91324200913242,SolidWasteGreen BinDufferinAnaerobic DigesterPublicStandard Efficiency
+TO,W,D,SLDWASGRBDFADIPUBSTDMENE_21,1.0,SolidWasteGreen BinDufferinAnaerobic DigesterPublicStandard Efficiency
+TO,W,D,SLDWASGRBDFGASCENCCSHH2_21,0.9,SolidWasteGreen BinDufferinGasificationCentralCarbon Capture Storage
+TO,W,N,SLDWASLDFGLCAP__________23,0.95,SolidWasteLandfillGreen LaneBiogas capture
+TO,W,N,SLDWASLDFGLBUPPUBSTD____23,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASLDFGLBUPPUBSTDMENE_23,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASLDFGLBUPPUBSTD____21,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASLDFGLBUPPUBSTDMENE_21,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASLDFGLBUPPUBSTD____17,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASLDFGLBUPPUBSTDMENE_17,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASLDFBWCAP__________23,0.95,SolidWasteLandfillBrock WestBiogas capture
+TO,W,N,SLDWASLDFBWBUPPUBSTD_23,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASLDFBWBUPPUBSTDMENE_23,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASLDFBWBUPPUBSTD_21,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASLDFBWBUPPUBSTDMENE_21,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASLDFBWBUPPUBSTD_17,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASLDFBWBUPPUBSTDMENE_17,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASLDFBWCHPICESTD____20,1.0,SolidWasteLandfillBrock WestCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,W,N,SLDWASLDFKVCAP__________23,0.95,SolidWasteLandfillKeele ValleyBiogas capture
+TO,W,N,SLDWASLDFKVBUPPUBSTD_23,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASLDFKVBUPPUBSTDMENE_23,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASLDFKVBUPPUBSTD_21,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASLDFKVBUPPUBSTDMENE_21,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASLDFKVBUPPUBSTD_17,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASLDFKVBUPPUBSTDMENE_17,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASLDFBRCAP__________23,0.95,SolidWasteLandfillBeare RdBiogas capture
+TO,W,N,SLDWASLDFBRBUPPUBSTD_23,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASLDFBRBUPPUBSTDMENE_23,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASLDFBRBUPPUBSTD_21,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASLDFBRBUPPUBSTDMENE_21,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASLDFBRBUPPUBSTD_17,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASLDFBRBUPPUBSTDMENE_17,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASLDFBRCHPICESTD____20,1.0,SolidWasteLandfillBeare RdCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,W,N,SLDWASLDFTKCAP__________23,0.95,SolidWasteLandfillThackerayBiogas capture
+TO,W,N,SLDWASLDFTKBUPPUBSTD_23,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASLDFTKBUPPUBSTDMENE_23,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASLDFTKBUPPUBSTD_21,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASLDFTKBUPPUBSTDMENE_21,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASLDFTKBUPPUBSTD_17,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASLDFTKBUPPUBSTDMENE_17,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASLDFTKCHPICESTD____20,1.0,SolidWasteLandfillThackerayCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,W,N,SLDWASLDFAHCAP__________23,0.95,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,W,N,SLDWASLDFAHBUPPUBSTD_23,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASLDFAHBUPPUBSTDMENE_23,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASLDFAHBUPPUBSTD_21,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASLDFAHBUPPUBSTDMENE_21,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASLDFAHBUPPUBSTD_17,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASLDFAHBUPPUBSTDMENE_17,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASLDFAHCHPICESTD____20,1.0,SolidWasteLandfillMI - Arbor HillsCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,W,N,SLDWASLDFCFCAP__________23,0.95,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,W,N,SLDWASLDFCFBUPPUBSTD_23,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASLDFCFBUPPUBSTDMENE_23,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASLDFCFBUPPUBSTD_21,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASLDFCFBUPPUBSTDMENE_21,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASLDFCFBUPPUBSTD_17,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASLDFCFBUPPUBSTDMENE_17,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASLDFCFCHPICESTD____20,1.0,SolidWasteLandfillMI - Carleton farmsCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,W,N,SLDWASGRBCPCAP__________23,0.95,SolidWasteGreen BinCompostBiogas capture
+TO,W,N,SLDWASGRBCPBUPPUBSTD____23,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASGRBCPBUPPUBSTDMENE_23,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASGRBCPBUPPUBSTD____21,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASGRBCPBUPPUBSTDMENE_21,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASGRBCPBUPPUBSTD____17,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASGRBCPBUPPUBSTDMENE_17,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,W,N,SLDWASGRBDRGASERKSTD____21,0.91324200913242,SolidWasteGreen BinDisco RoadGasificationEnerkemStandard Efficiency
+TO,W,N,SLDWASGRBDRGASERKSTDMENE_21,1.0,SolidWasteGreen BinDisco RoadGasificationEnerkemStandard Efficiency
+TO,W,N,SLDWASGRBDRADIPUBSTD____21,0.91324200913242,SolidWasteGreen BinDisco RoadAnaerobic DigesterPublicStandard Efficiency
+TO,W,N,SLDWASGRBDRADIPUBSTDMENE_21,1.0,SolidWasteGreen BinDisco RoadAnaerobic DigesterPublicStandard Efficiency
+TO,W,N,SLDWASGRBDRGASCENCCSHH2_21,0.9,SolidWasteGreen BinDisco RoadGasificationCentralCarbon Capture Storage
+TO,W,N,SLDWASGRBDFGASERKSTD____21,0.91324200913242,SolidWasteGreen BinDufferinGasificationEnerkemStandard Efficiency
+TO,W,N,SLDWASGRBDFGASERKSTDMENE_21,1.0,SolidWasteGreen BinDufferinGasificationEnerkemStandard Efficiency
+TO,W,N,SLDWASGRBDFADIPUBSTD____21,0.91324200913242,SolidWasteGreen BinDufferinAnaerobic DigesterPublicStandard Efficiency
+TO,W,N,SLDWASGRBDFADIPUBSTDMENE_21,1.0,SolidWasteGreen BinDufferinAnaerobic DigesterPublicStandard Efficiency
+TO,W,N,SLDWASGRBDFGASCENCCSHH2_21,0.9,SolidWasteGreen BinDufferinGasificationCentralCarbon Capture Storage
+TO,W,P1,SLDWASLDFGLCAP__________23,0.95,SolidWasteLandfillGreen LaneBiogas capture
+TO,W,P1,SLDWASLDFGLBUPPUBSTD____23,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASLDFGLBUPPUBSTDMENE_23,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASLDFGLBUPPUBSTD____21,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASLDFGLBUPPUBSTDMENE_21,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASLDFGLBUPPUBSTD____17,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASLDFGLBUPPUBSTDMENE_17,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASLDFBWCAP__________23,0.95,SolidWasteLandfillBrock WestBiogas capture
+TO,W,P1,SLDWASLDFBWBUPPUBSTD_23,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASLDFBWBUPPUBSTDMENE_23,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASLDFBWBUPPUBSTD_21,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASLDFBWBUPPUBSTDMENE_21,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASLDFBWBUPPUBSTD_17,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASLDFBWBUPPUBSTDMENE_17,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASLDFBWCHPICESTD____20,1.0,SolidWasteLandfillBrock WestCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,W,P1,SLDWASLDFKVCAP__________23,0.95,SolidWasteLandfillKeele ValleyBiogas capture
+TO,W,P1,SLDWASLDFKVBUPPUBSTD_23,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASLDFKVBUPPUBSTDMENE_23,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASLDFKVBUPPUBSTD_21,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASLDFKVBUPPUBSTDMENE_21,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASLDFKVBUPPUBSTD_17,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASLDFKVBUPPUBSTDMENE_17,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASLDFBRCAP__________23,0.95,SolidWasteLandfillBeare RdBiogas capture
+TO,W,P1,SLDWASLDFBRBUPPUBSTD_23,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASLDFBRBUPPUBSTDMENE_23,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASLDFBRBUPPUBSTD_21,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASLDFBRBUPPUBSTDMENE_21,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASLDFBRBUPPUBSTD_17,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASLDFBRBUPPUBSTDMENE_17,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASLDFBRCHPICESTD____20,1.0,SolidWasteLandfillBeare RdCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,W,P1,SLDWASLDFTKCAP__________23,0.95,SolidWasteLandfillThackerayBiogas capture
+TO,W,P1,SLDWASLDFTKBUPPUBSTD_23,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASLDFTKBUPPUBSTDMENE_23,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASLDFTKBUPPUBSTD_21,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASLDFTKBUPPUBSTDMENE_21,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASLDFTKBUPPUBSTD_17,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASLDFTKBUPPUBSTDMENE_17,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASLDFTKCHPICESTD____20,1.0,SolidWasteLandfillThackerayCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,W,P1,SLDWASLDFAHCAP__________23,0.95,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,W,P1,SLDWASLDFAHBUPPUBSTD_23,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASLDFAHBUPPUBSTDMENE_23,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASLDFAHBUPPUBSTD_21,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASLDFAHBUPPUBSTDMENE_21,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASLDFAHBUPPUBSTD_17,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASLDFAHBUPPUBSTDMENE_17,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASLDFAHCHPICESTD____20,1.0,SolidWasteLandfillMI - Arbor HillsCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,W,P1,SLDWASLDFCFCAP__________23,0.95,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,W,P1,SLDWASLDFCFBUPPUBSTD_23,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASLDFCFBUPPUBSTDMENE_23,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASLDFCFBUPPUBSTD_21,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASLDFCFBUPPUBSTDMENE_21,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASLDFCFBUPPUBSTD_17,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASLDFCFBUPPUBSTDMENE_17,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASLDFCFCHPICESTD____20,1.0,SolidWasteLandfillMI - Carleton farmsCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,W,P1,SLDWASGRBCPCAP__________23,0.95,SolidWasteGreen BinCompostBiogas capture
+TO,W,P1,SLDWASGRBCPBUPPUBSTD____23,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASGRBCPBUPPUBSTDMENE_23,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASGRBCPBUPPUBSTD____21,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASGRBCPBUPPUBSTDMENE_21,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASGRBCPBUPPUBSTD____17,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASGRBCPBUPPUBSTDMENE_17,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,W,P1,SLDWASGRBDRGASERKSTD____21,0.91324200913242,SolidWasteGreen BinDisco RoadGasificationEnerkemStandard Efficiency
+TO,W,P1,SLDWASGRBDRGASERKSTDMENE_21,1.0,SolidWasteGreen BinDisco RoadGasificationEnerkemStandard Efficiency
+TO,W,P1,SLDWASGRBDRADIPUBSTD____21,0.91324200913242,SolidWasteGreen BinDisco RoadAnaerobic DigesterPublicStandard Efficiency
+TO,W,P1,SLDWASGRBDRADIPUBSTDMENE_21,1.0,SolidWasteGreen BinDisco RoadAnaerobic DigesterPublicStandard Efficiency
+TO,W,P1,SLDWASGRBDRGASCENCCSHH2_21,0.9,SolidWasteGreen BinDisco RoadGasificationCentralCarbon Capture Storage
+TO,W,P1,SLDWASGRBDFGASERKSTD____21,0.91324200913242,SolidWasteGreen BinDufferinGasificationEnerkemStandard Efficiency
+TO,W,P1,SLDWASGRBDFGASERKSTDMENE_21,1.0,SolidWasteGreen BinDufferinGasificationEnerkemStandard Efficiency
+TO,W,P1,SLDWASGRBDFADIPUBSTD____21,0.91324200913242,SolidWasteGreen BinDufferinAnaerobic DigesterPublicStandard Efficiency
+TO,W,P1,SLDWASGRBDFADIPUBSTDMENE_21,1.0,SolidWasteGreen BinDufferinAnaerobic DigesterPublicStandard Efficiency
+TO,W,P1,SLDWASGRBDFGASCENCCSHH2_21,0.9,SolidWasteGreen BinDufferinGasificationCentralCarbon Capture Storage
+TO,W,P2,SLDWASLDFGLCAP__________23,0.95,SolidWasteLandfillGreen LaneBiogas capture
+TO,W,P2,SLDWASLDFGLBUPPUBSTD____23,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASLDFGLBUPPUBSTDMENE_23,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASLDFGLBUPPUBSTD____21,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASLDFGLBUPPUBSTDMENE_21,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASLDFGLBUPPUBSTD____17,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASLDFGLBUPPUBSTDMENE_17,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASLDFBWCAP__________23,0.95,SolidWasteLandfillBrock WestBiogas capture
+TO,W,P2,SLDWASLDFBWBUPPUBSTD_23,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASLDFBWBUPPUBSTDMENE_23,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASLDFBWBUPPUBSTD_21,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASLDFBWBUPPUBSTDMENE_21,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASLDFBWBUPPUBSTD_17,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASLDFBWBUPPUBSTDMENE_17,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASLDFBWCHPICESTD____20,1.0,SolidWasteLandfillBrock WestCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,W,P2,SLDWASLDFKVCAP__________23,0.95,SolidWasteLandfillKeele ValleyBiogas capture
+TO,W,P2,SLDWASLDFKVBUPPUBSTD_23,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASLDFKVBUPPUBSTDMENE_23,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASLDFKVBUPPUBSTD_21,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASLDFKVBUPPUBSTDMENE_21,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASLDFKVBUPPUBSTD_17,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASLDFKVBUPPUBSTDMENE_17,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASLDFBRCAP__________23,0.95,SolidWasteLandfillBeare RdBiogas capture
+TO,W,P2,SLDWASLDFBRBUPPUBSTD_23,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASLDFBRBUPPUBSTDMENE_23,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASLDFBRBUPPUBSTD_21,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASLDFBRBUPPUBSTDMENE_21,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASLDFBRBUPPUBSTD_17,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASLDFBRBUPPUBSTDMENE_17,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASLDFBRCHPICESTD____20,1.0,SolidWasteLandfillBeare RdCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,W,P2,SLDWASLDFTKCAP__________23,0.95,SolidWasteLandfillThackerayBiogas capture
+TO,W,P2,SLDWASLDFTKBUPPUBSTD_23,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASLDFTKBUPPUBSTDMENE_23,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASLDFTKBUPPUBSTD_21,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASLDFTKBUPPUBSTDMENE_21,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASLDFTKBUPPUBSTD_17,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASLDFTKBUPPUBSTDMENE_17,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASLDFTKCHPICESTD____20,1.0,SolidWasteLandfillThackerayCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,W,P2,SLDWASLDFAHCAP__________23,0.95,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,W,P2,SLDWASLDFAHBUPPUBSTD_23,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASLDFAHBUPPUBSTDMENE_23,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASLDFAHBUPPUBSTD_21,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASLDFAHBUPPUBSTDMENE_21,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASLDFAHBUPPUBSTD_17,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASLDFAHBUPPUBSTDMENE_17,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASLDFAHCHPICESTD____20,1.0,SolidWasteLandfillMI - Arbor HillsCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,W,P2,SLDWASLDFCFCAP__________23,0.95,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,W,P2,SLDWASLDFCFBUPPUBSTD_23,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASLDFCFBUPPUBSTDMENE_23,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASLDFCFBUPPUBSTD_21,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASLDFCFBUPPUBSTDMENE_21,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASLDFCFBUPPUBSTD_17,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASLDFCFBUPPUBSTDMENE_17,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASLDFCFCHPICESTD____20,1.0,SolidWasteLandfillMI - Carleton farmsCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,W,P2,SLDWASGRBCPCAP__________23,0.95,SolidWasteGreen BinCompostBiogas capture
+TO,W,P2,SLDWASGRBCPBUPPUBSTD____23,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASGRBCPBUPPUBSTDMENE_23,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASGRBCPBUPPUBSTD____21,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASGRBCPBUPPUBSTDMENE_21,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASGRBCPBUPPUBSTD____17,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASGRBCPBUPPUBSTDMENE_17,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,W,P2,SLDWASGRBDRGASERKSTD____21,0.91324200913242,SolidWasteGreen BinDisco RoadGasificationEnerkemStandard Efficiency
+TO,W,P2,SLDWASGRBDRGASERKSTDMENE_21,1.0,SolidWasteGreen BinDisco RoadGasificationEnerkemStandard Efficiency
+TO,W,P2,SLDWASGRBDRADIPUBSTD____21,0.91324200913242,SolidWasteGreen BinDisco RoadAnaerobic DigesterPublicStandard Efficiency
+TO,W,P2,SLDWASGRBDRADIPUBSTDMENE_21,1.0,SolidWasteGreen BinDisco RoadAnaerobic DigesterPublicStandard Efficiency
+TO,W,P2,SLDWASGRBDRGASCENCCSHH2_21,0.9,SolidWasteGreen BinDisco RoadGasificationCentralCarbon Capture Storage
+TO,W,P2,SLDWASGRBDFGASERKSTD____21,0.91324200913242,SolidWasteGreen BinDufferinGasificationEnerkemStandard Efficiency
+TO,W,P2,SLDWASGRBDFGASERKSTDMENE_21,1.0,SolidWasteGreen BinDufferinGasificationEnerkemStandard Efficiency
+TO,W,P2,SLDWASGRBDFADIPUBSTD____21,0.91324200913242,SolidWasteGreen BinDufferinAnaerobic DigesterPublicStandard Efficiency
+TO,W,P2,SLDWASGRBDFADIPUBSTDMENE_21,1.0,SolidWasteGreen BinDufferinAnaerobic DigesterPublicStandard Efficiency
+TO,W,P2,SLDWASGRBDFGASCENCCSHH2_21,0.9,SolidWasteGreen BinDufferinGasificationCentralCarbon Capture Storage
+TO,S,D,SLDWASLDFGLCAP__________23,0.95,SolidWasteLandfillGreen LaneBiogas capture
+TO,S,D,SLDWASLDFGLBUPPUBSTD____23,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASLDFGLBUPPUBSTDMENE_23,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASLDFGLBUPPUBSTD____21,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASLDFGLBUPPUBSTDMENE_21,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASLDFGLBUPPUBSTD____17,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASLDFGLBUPPUBSTDMENE_17,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASLDFBWCAP__________23,0.95,SolidWasteLandfillBrock WestBiogas capture
+TO,S,D,SLDWASLDFBWBUPPUBSTD_23,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASLDFBWBUPPUBSTDMENE_23,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASLDFBWBUPPUBSTD_21,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASLDFBWBUPPUBSTDMENE_21,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASLDFBWBUPPUBSTD_17,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASLDFBWBUPPUBSTDMENE_17,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASLDFBWCHPICESTD____20,1.0,SolidWasteLandfillBrock WestCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,S,D,SLDWASLDFKVCAP__________23,0.95,SolidWasteLandfillKeele ValleyBiogas capture
+TO,S,D,SLDWASLDFKVBUPPUBSTD_23,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASLDFKVBUPPUBSTDMENE_23,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASLDFKVBUPPUBSTD_21,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASLDFKVBUPPUBSTDMENE_21,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASLDFKVBUPPUBSTD_17,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASLDFKVBUPPUBSTDMENE_17,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASLDFBRCAP__________23,0.95,SolidWasteLandfillBeare RdBiogas capture
+TO,S,D,SLDWASLDFBRBUPPUBSTD_23,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASLDFBRBUPPUBSTDMENE_23,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASLDFBRBUPPUBSTD_21,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASLDFBRBUPPUBSTDMENE_21,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASLDFBRBUPPUBSTD_17,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASLDFBRBUPPUBSTDMENE_17,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASLDFBRCHPICESTD____20,1.0,SolidWasteLandfillBeare RdCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,S,D,SLDWASLDFTKCAP__________23,0.95,SolidWasteLandfillThackerayBiogas capture
+TO,S,D,SLDWASLDFTKBUPPUBSTD_23,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASLDFTKBUPPUBSTDMENE_23,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASLDFTKBUPPUBSTD_21,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASLDFTKBUPPUBSTDMENE_21,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASLDFTKBUPPUBSTD_17,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASLDFTKBUPPUBSTDMENE_17,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASLDFTKCHPICESTD____20,1.0,SolidWasteLandfillThackerayCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,S,D,SLDWASLDFAHCAP__________23,0.95,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,S,D,SLDWASLDFAHBUPPUBSTD_23,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASLDFAHBUPPUBSTDMENE_23,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASLDFAHBUPPUBSTD_21,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASLDFAHBUPPUBSTDMENE_21,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASLDFAHBUPPUBSTD_17,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASLDFAHBUPPUBSTDMENE_17,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASLDFAHCHPICESTD____20,1.0,SolidWasteLandfillMI - Arbor HillsCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,S,D,SLDWASLDFCFCAP__________23,0.95,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,S,D,SLDWASLDFCFBUPPUBSTD_23,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASLDFCFBUPPUBSTDMENE_23,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASLDFCFBUPPUBSTD_21,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASLDFCFBUPPUBSTDMENE_21,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASLDFCFBUPPUBSTD_17,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASLDFCFBUPPUBSTDMENE_17,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASLDFCFCHPICESTD____20,1.0,SolidWasteLandfillMI - Carleton farmsCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,S,D,SLDWASGRBCPCAP__________23,0.95,SolidWasteGreen BinCompostBiogas capture
+TO,S,D,SLDWASGRBCPBUPPUBSTD____23,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASGRBCPBUPPUBSTDMENE_23,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASGRBCPBUPPUBSTD____21,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASGRBCPBUPPUBSTDMENE_21,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASGRBCPBUPPUBSTD____17,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASGRBCPBUPPUBSTDMENE_17,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,S,D,SLDWASGRBDRGASERKSTD____21,0.91324200913242,SolidWasteGreen BinDisco RoadGasificationEnerkemStandard Efficiency
+TO,S,D,SLDWASGRBDRGASERKSTDMENE_21,1.0,SolidWasteGreen BinDisco RoadGasificationEnerkemStandard Efficiency
+TO,S,D,SLDWASGRBDRADIPUBSTD____21,0.91324200913242,SolidWasteGreen BinDisco RoadAnaerobic DigesterPublicStandard Efficiency
+TO,S,D,SLDWASGRBDRADIPUBSTDMENE_21,1.0,SolidWasteGreen BinDisco RoadAnaerobic DigesterPublicStandard Efficiency
+TO,S,D,SLDWASGRBDRGASCENCCSHH2_21,0.9,SolidWasteGreen BinDisco RoadGasificationCentralCarbon Capture Storage
+TO,S,D,SLDWASGRBDFGASERKSTD____21,0.91324200913242,SolidWasteGreen BinDufferinGasificationEnerkemStandard Efficiency
+TO,S,D,SLDWASGRBDFGASERKSTDMENE_21,1.0,SolidWasteGreen BinDufferinGasificationEnerkemStandard Efficiency
+TO,S,D,SLDWASGRBDFADIPUBSTD____21,0.91324200913242,SolidWasteGreen BinDufferinAnaerobic DigesterPublicStandard Efficiency
+TO,S,D,SLDWASGRBDFADIPUBSTDMENE_21,1.0,SolidWasteGreen BinDufferinAnaerobic DigesterPublicStandard Efficiency
+TO,S,D,SLDWASGRBDFGASCENCCSHH2_21,0.9,SolidWasteGreen BinDufferinGasificationCentralCarbon Capture Storage
+TO,S,N,SLDWASLDFGLCAP__________23,0.95,SolidWasteLandfillGreen LaneBiogas capture
+TO,S,N,SLDWASLDFGLBUPPUBSTD____23,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASLDFGLBUPPUBSTDMENE_23,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASLDFGLBUPPUBSTD____21,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASLDFGLBUPPUBSTDMENE_21,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASLDFGLBUPPUBSTD____17,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASLDFGLBUPPUBSTDMENE_17,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASLDFBWCAP__________23,0.95,SolidWasteLandfillBrock WestBiogas capture
+TO,S,N,SLDWASLDFBWBUPPUBSTD_23,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASLDFBWBUPPUBSTDMENE_23,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASLDFBWBUPPUBSTD_21,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASLDFBWBUPPUBSTDMENE_21,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASLDFBWBUPPUBSTD_17,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASLDFBWBUPPUBSTDMENE_17,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASLDFBWCHPICESTD____20,1.0,SolidWasteLandfillBrock WestCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,S,N,SLDWASLDFKVCAP__________23,0.95,SolidWasteLandfillKeele ValleyBiogas capture
+TO,S,N,SLDWASLDFKVBUPPUBSTD_23,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASLDFKVBUPPUBSTDMENE_23,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASLDFKVBUPPUBSTD_21,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASLDFKVBUPPUBSTDMENE_21,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASLDFKVBUPPUBSTD_17,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASLDFKVBUPPUBSTDMENE_17,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASLDFBRCAP__________23,0.95,SolidWasteLandfillBeare RdBiogas capture
+TO,S,N,SLDWASLDFBRBUPPUBSTD_23,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASLDFBRBUPPUBSTDMENE_23,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASLDFBRBUPPUBSTD_21,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASLDFBRBUPPUBSTDMENE_21,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASLDFBRBUPPUBSTD_17,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASLDFBRBUPPUBSTDMENE_17,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASLDFBRCHPICESTD____20,1.0,SolidWasteLandfillBeare RdCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,S,N,SLDWASLDFTKCAP__________23,0.95,SolidWasteLandfillThackerayBiogas capture
+TO,S,N,SLDWASLDFTKBUPPUBSTD_23,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASLDFTKBUPPUBSTDMENE_23,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASLDFTKBUPPUBSTD_21,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASLDFTKBUPPUBSTDMENE_21,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASLDFTKBUPPUBSTD_17,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASLDFTKBUPPUBSTDMENE_17,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASLDFTKCHPICESTD____20,1.0,SolidWasteLandfillThackerayCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,S,N,SLDWASLDFAHCAP__________23,0.95,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,S,N,SLDWASLDFAHBUPPUBSTD_23,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASLDFAHBUPPUBSTDMENE_23,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASLDFAHBUPPUBSTD_21,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASLDFAHBUPPUBSTDMENE_21,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASLDFAHBUPPUBSTD_17,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASLDFAHBUPPUBSTDMENE_17,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASLDFAHCHPICESTD____20,1.0,SolidWasteLandfillMI - Arbor HillsCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,S,N,SLDWASLDFCFCAP__________23,0.95,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,S,N,SLDWASLDFCFBUPPUBSTD_23,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASLDFCFBUPPUBSTDMENE_23,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASLDFCFBUPPUBSTD_21,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASLDFCFBUPPUBSTDMENE_21,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASLDFCFBUPPUBSTD_17,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASLDFCFBUPPUBSTDMENE_17,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASLDFCFCHPICESTD____20,1.0,SolidWasteLandfillMI - Carleton farmsCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,S,N,SLDWASGRBCPCAP__________23,0.95,SolidWasteGreen BinCompostBiogas capture
+TO,S,N,SLDWASGRBCPBUPPUBSTD____23,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASGRBCPBUPPUBSTDMENE_23,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASGRBCPBUPPUBSTD____21,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASGRBCPBUPPUBSTDMENE_21,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASGRBCPBUPPUBSTD____17,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASGRBCPBUPPUBSTDMENE_17,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,S,N,SLDWASGRBDRGASERKSTD____21,0.91324200913242,SolidWasteGreen BinDisco RoadGasificationEnerkemStandard Efficiency
+TO,S,N,SLDWASGRBDRGASERKSTDMENE_21,1.0,SolidWasteGreen BinDisco RoadGasificationEnerkemStandard Efficiency
+TO,S,N,SLDWASGRBDRADIPUBSTD____21,0.91324200913242,SolidWasteGreen BinDisco RoadAnaerobic DigesterPublicStandard Efficiency
+TO,S,N,SLDWASGRBDRADIPUBSTDMENE_21,1.0,SolidWasteGreen BinDisco RoadAnaerobic DigesterPublicStandard Efficiency
+TO,S,N,SLDWASGRBDRGASCENCCSHH2_21,0.9,SolidWasteGreen BinDisco RoadGasificationCentralCarbon Capture Storage
+TO,S,N,SLDWASGRBDFGASERKSTD____21,0.91324200913242,SolidWasteGreen BinDufferinGasificationEnerkemStandard Efficiency
+TO,S,N,SLDWASGRBDFGASERKSTDMENE_21,1.0,SolidWasteGreen BinDufferinGasificationEnerkemStandard Efficiency
+TO,S,N,SLDWASGRBDFADIPUBSTD____21,0.91324200913242,SolidWasteGreen BinDufferinAnaerobic DigesterPublicStandard Efficiency
+TO,S,N,SLDWASGRBDFADIPUBSTDMENE_21,1.0,SolidWasteGreen BinDufferinAnaerobic DigesterPublicStandard Efficiency
+TO,S,N,SLDWASGRBDFGASCENCCSHH2_21,0.9,SolidWasteGreen BinDufferinGasificationCentralCarbon Capture Storage
+TO,S,P1,SLDWASLDFGLCAP__________23,0.95,SolidWasteLandfillGreen LaneBiogas capture
+TO,S,P1,SLDWASLDFGLBUPPUBSTD____23,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASLDFGLBUPPUBSTDMENE_23,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASLDFGLBUPPUBSTD____21,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASLDFGLBUPPUBSTDMENE_21,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASLDFGLBUPPUBSTD____17,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASLDFGLBUPPUBSTDMENE_17,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASLDFBWCAP__________23,0.95,SolidWasteLandfillBrock WestBiogas capture
+TO,S,P1,SLDWASLDFBWBUPPUBSTD_23,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASLDFBWBUPPUBSTDMENE_23,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASLDFBWBUPPUBSTD_21,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASLDFBWBUPPUBSTDMENE_21,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASLDFBWBUPPUBSTD_17,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASLDFBWBUPPUBSTDMENE_17,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASLDFBWCHPICESTD____20,1.0,SolidWasteLandfillBrock WestCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,S,P1,SLDWASLDFKVCAP__________23,0.95,SolidWasteLandfillKeele ValleyBiogas capture
+TO,S,P1,SLDWASLDFKVBUPPUBSTD_23,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASLDFKVBUPPUBSTDMENE_23,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASLDFKVBUPPUBSTD_21,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASLDFKVBUPPUBSTDMENE_21,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASLDFKVBUPPUBSTD_17,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASLDFKVBUPPUBSTDMENE_17,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASLDFBRCAP__________23,0.95,SolidWasteLandfillBeare RdBiogas capture
+TO,S,P1,SLDWASLDFBRBUPPUBSTD_23,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASLDFBRBUPPUBSTDMENE_23,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASLDFBRBUPPUBSTD_21,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASLDFBRBUPPUBSTDMENE_21,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASLDFBRBUPPUBSTD_17,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASLDFBRBUPPUBSTDMENE_17,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASLDFBRCHPICESTD____20,1.0,SolidWasteLandfillBeare RdCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,S,P1,SLDWASLDFTKCAP__________23,0.95,SolidWasteLandfillThackerayBiogas capture
+TO,S,P1,SLDWASLDFTKBUPPUBSTD_23,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASLDFTKBUPPUBSTDMENE_23,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASLDFTKBUPPUBSTD_21,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASLDFTKBUPPUBSTDMENE_21,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASLDFTKBUPPUBSTD_17,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASLDFTKBUPPUBSTDMENE_17,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASLDFTKCHPICESTD____20,1.0,SolidWasteLandfillThackerayCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,S,P1,SLDWASLDFAHCAP__________23,0.95,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,S,P1,SLDWASLDFAHBUPPUBSTD_23,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASLDFAHBUPPUBSTDMENE_23,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASLDFAHBUPPUBSTD_21,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASLDFAHBUPPUBSTDMENE_21,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASLDFAHBUPPUBSTD_17,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASLDFAHBUPPUBSTDMENE_17,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASLDFAHCHPICESTD____20,1.0,SolidWasteLandfillMI - Arbor HillsCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,S,P1,SLDWASLDFCFCAP__________23,0.95,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,S,P1,SLDWASLDFCFBUPPUBSTD_23,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASLDFCFBUPPUBSTDMENE_23,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASLDFCFBUPPUBSTD_21,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASLDFCFBUPPUBSTDMENE_21,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASLDFCFBUPPUBSTD_17,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASLDFCFBUPPUBSTDMENE_17,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASLDFCFCHPICESTD____20,1.0,SolidWasteLandfillMI - Carleton farmsCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,S,P1,SLDWASGRBCPCAP__________23,0.95,SolidWasteGreen BinCompostBiogas capture
+TO,S,P1,SLDWASGRBCPBUPPUBSTD____23,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASGRBCPBUPPUBSTDMENE_23,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASGRBCPBUPPUBSTD____21,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASGRBCPBUPPUBSTDMENE_21,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASGRBCPBUPPUBSTD____17,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASGRBCPBUPPUBSTDMENE_17,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,S,P1,SLDWASGRBDRGASERKSTD____21,0.91324200913242,SolidWasteGreen BinDisco RoadGasificationEnerkemStandard Efficiency
+TO,S,P1,SLDWASGRBDRGASERKSTDMENE_21,1.0,SolidWasteGreen BinDisco RoadGasificationEnerkemStandard Efficiency
+TO,S,P1,SLDWASGRBDRADIPUBSTD____21,0.91324200913242,SolidWasteGreen BinDisco RoadAnaerobic DigesterPublicStandard Efficiency
+TO,S,P1,SLDWASGRBDRADIPUBSTDMENE_21,1.0,SolidWasteGreen BinDisco RoadAnaerobic DigesterPublicStandard Efficiency
+TO,S,P1,SLDWASGRBDRGASCENCCSHH2_21,0.9,SolidWasteGreen BinDisco RoadGasificationCentralCarbon Capture Storage
+TO,S,P1,SLDWASGRBDFGASERKSTD____21,0.91324200913242,SolidWasteGreen BinDufferinGasificationEnerkemStandard Efficiency
+TO,S,P1,SLDWASGRBDFGASERKSTDMENE_21,1.0,SolidWasteGreen BinDufferinGasificationEnerkemStandard Efficiency
+TO,S,P1,SLDWASGRBDFADIPUBSTD____21,0.91324200913242,SolidWasteGreen BinDufferinAnaerobic DigesterPublicStandard Efficiency
+TO,S,P1,SLDWASGRBDFADIPUBSTDMENE_21,1.0,SolidWasteGreen BinDufferinAnaerobic DigesterPublicStandard Efficiency
+TO,S,P1,SLDWASGRBDFGASCENCCSHH2_21,0.9,SolidWasteGreen BinDufferinGasificationCentralCarbon Capture Storage
+TO,S,P2,SLDWASLDFGLCAP__________23,0.95,SolidWasteLandfillGreen LaneBiogas capture
+TO,S,P2,SLDWASLDFGLBUPPUBSTD____23,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASLDFGLBUPPUBSTDMENE_23,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASLDFGLBUPPUBSTD____21,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASLDFGLBUPPUBSTDMENE_21,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASLDFGLBUPPUBSTD____17,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASLDFGLBUPPUBSTDMENE_17,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASLDFBWCAP__________23,0.95,SolidWasteLandfillBrock WestBiogas capture
+TO,S,P2,SLDWASLDFBWBUPPUBSTD_23,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASLDFBWBUPPUBSTDMENE_23,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASLDFBWBUPPUBSTD_21,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASLDFBWBUPPUBSTDMENE_21,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASLDFBWBUPPUBSTD_17,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASLDFBWBUPPUBSTDMENE_17,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASLDFBWCHPICESTD____20,1.0,SolidWasteLandfillBrock WestCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,S,P2,SLDWASLDFKVCAP__________23,0.95,SolidWasteLandfillKeele ValleyBiogas capture
+TO,S,P2,SLDWASLDFKVBUPPUBSTD_23,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASLDFKVBUPPUBSTDMENE_23,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASLDFKVBUPPUBSTD_21,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASLDFKVBUPPUBSTDMENE_21,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASLDFKVBUPPUBSTD_17,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASLDFKVBUPPUBSTDMENE_17,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASLDFBRCAP__________23,0.95,SolidWasteLandfillBeare RdBiogas capture
+TO,S,P2,SLDWASLDFBRBUPPUBSTD_23,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASLDFBRBUPPUBSTDMENE_23,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASLDFBRBUPPUBSTD_21,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASLDFBRBUPPUBSTDMENE_21,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASLDFBRBUPPUBSTD_17,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASLDFBRBUPPUBSTDMENE_17,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASLDFBRCHPICESTD____20,1.0,SolidWasteLandfillBeare RdCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,S,P2,SLDWASLDFTKCAP__________23,0.95,SolidWasteLandfillThackerayBiogas capture
+TO,S,P2,SLDWASLDFTKBUPPUBSTD_23,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASLDFTKBUPPUBSTDMENE_23,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASLDFTKBUPPUBSTD_21,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASLDFTKBUPPUBSTDMENE_21,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASLDFTKBUPPUBSTD_17,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASLDFTKBUPPUBSTDMENE_17,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASLDFTKCHPICESTD____20,1.0,SolidWasteLandfillThackerayCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,S,P2,SLDWASLDFAHCAP__________23,0.95,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,S,P2,SLDWASLDFAHBUPPUBSTD_23,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASLDFAHBUPPUBSTDMENE_23,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASLDFAHBUPPUBSTD_21,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASLDFAHBUPPUBSTDMENE_21,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASLDFAHBUPPUBSTD_17,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASLDFAHBUPPUBSTDMENE_17,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASLDFAHCHPICESTD____20,1.0,SolidWasteLandfillMI - Arbor HillsCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,S,P2,SLDWASLDFCFCAP__________23,0.95,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,S,P2,SLDWASLDFCFBUPPUBSTD_23,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASLDFCFBUPPUBSTDMENE_23,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASLDFCFBUPPUBSTD_21,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASLDFCFBUPPUBSTDMENE_21,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASLDFCFBUPPUBSTD_17,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASLDFCFBUPPUBSTDMENE_17,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASLDFCFCHPICESTD____20,1.0,SolidWasteLandfillMI - Carleton farmsCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,S,P2,SLDWASGRBCPCAP__________23,0.95,SolidWasteGreen BinCompostBiogas capture
+TO,S,P2,SLDWASGRBCPBUPPUBSTD____23,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASGRBCPBUPPUBSTDMENE_23,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASGRBCPBUPPUBSTD____21,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASGRBCPBUPPUBSTDMENE_21,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASGRBCPBUPPUBSTD____17,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASGRBCPBUPPUBSTDMENE_17,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,S,P2,SLDWASGRBDRGASERKSTD____21,0.91324200913242,SolidWasteGreen BinDisco RoadGasificationEnerkemStandard Efficiency
+TO,S,P2,SLDWASGRBDRGASERKSTDMENE_21,1.0,SolidWasteGreen BinDisco RoadGasificationEnerkemStandard Efficiency
+TO,S,P2,SLDWASGRBDRADIPUBSTD____21,0.91324200913242,SolidWasteGreen BinDisco RoadAnaerobic DigesterPublicStandard Efficiency
+TO,S,P2,SLDWASGRBDRADIPUBSTDMENE_21,1.0,SolidWasteGreen BinDisco RoadAnaerobic DigesterPublicStandard Efficiency
+TO,S,P2,SLDWASGRBDRGASCENCCSHH2_21,0.9,SolidWasteGreen BinDisco RoadGasificationCentralCarbon Capture Storage
+TO,S,P2,SLDWASGRBDFGASERKSTD____21,0.91324200913242,SolidWasteGreen BinDufferinGasificationEnerkemStandard Efficiency
+TO,S,P2,SLDWASGRBDFGASERKSTDMENE_21,1.0,SolidWasteGreen BinDufferinGasificationEnerkemStandard Efficiency
+TO,S,P2,SLDWASGRBDFADIPUBSTD____21,0.91324200913242,SolidWasteGreen BinDufferinAnaerobic DigesterPublicStandard Efficiency
+TO,S,P2,SLDWASGRBDFADIPUBSTDMENE_21,1.0,SolidWasteGreen BinDufferinAnaerobic DigesterPublicStandard Efficiency
+TO,S,P2,SLDWASGRBDFGASCENCCSHH2_21,0.9,SolidWasteGreen BinDufferinGasificationCentralCarbon Capture Storage
+TO,F,D,SLDWASLDFGLCAP__________23,0.95,SolidWasteLandfillGreen LaneBiogas capture
+TO,F,D,SLDWASLDFGLBUPPUBSTD____23,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASLDFGLBUPPUBSTDMENE_23,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASLDFGLBUPPUBSTD____21,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASLDFGLBUPPUBSTDMENE_21,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASLDFGLBUPPUBSTD____17,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASLDFGLBUPPUBSTDMENE_17,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASLDFBWCAP__________23,0.95,SolidWasteLandfillBrock WestBiogas capture
+TO,F,D,SLDWASLDFBWBUPPUBSTD_23,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASLDFBWBUPPUBSTDMENE_23,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASLDFBWBUPPUBSTD_21,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASLDFBWBUPPUBSTDMENE_21,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASLDFBWBUPPUBSTD_17,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASLDFBWBUPPUBSTDMENE_17,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASLDFBWCHPICESTD____20,1.0,SolidWasteLandfillBrock WestCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,F,D,SLDWASLDFKVCAP__________23,0.95,SolidWasteLandfillKeele ValleyBiogas capture
+TO,F,D,SLDWASLDFKVBUPPUBSTD_23,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASLDFKVBUPPUBSTDMENE_23,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASLDFKVBUPPUBSTD_21,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASLDFKVBUPPUBSTDMENE_21,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASLDFKVBUPPUBSTD_17,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASLDFKVBUPPUBSTDMENE_17,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASLDFBRCAP__________23,0.95,SolidWasteLandfillBeare RdBiogas capture
+TO,F,D,SLDWASLDFBRBUPPUBSTD_23,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASLDFBRBUPPUBSTDMENE_23,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASLDFBRBUPPUBSTD_21,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASLDFBRBUPPUBSTDMENE_21,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASLDFBRBUPPUBSTD_17,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASLDFBRBUPPUBSTDMENE_17,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASLDFBRCHPICESTD____20,1.0,SolidWasteLandfillBeare RdCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,F,D,SLDWASLDFTKCAP__________23,0.95,SolidWasteLandfillThackerayBiogas capture
+TO,F,D,SLDWASLDFTKBUPPUBSTD_23,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASLDFTKBUPPUBSTDMENE_23,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASLDFTKBUPPUBSTD_21,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASLDFTKBUPPUBSTDMENE_21,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASLDFTKBUPPUBSTD_17,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASLDFTKBUPPUBSTDMENE_17,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASLDFTKCHPICESTD____20,1.0,SolidWasteLandfillThackerayCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,F,D,SLDWASLDFAHCAP__________23,0.95,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,F,D,SLDWASLDFAHBUPPUBSTD_23,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASLDFAHBUPPUBSTDMENE_23,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASLDFAHBUPPUBSTD_21,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASLDFAHBUPPUBSTDMENE_21,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASLDFAHBUPPUBSTD_17,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASLDFAHBUPPUBSTDMENE_17,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASLDFAHCHPICESTD____20,1.0,SolidWasteLandfillMI - Arbor HillsCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,F,D,SLDWASLDFCFCAP__________23,0.95,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,F,D,SLDWASLDFCFBUPPUBSTD_23,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASLDFCFBUPPUBSTDMENE_23,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASLDFCFBUPPUBSTD_21,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASLDFCFBUPPUBSTDMENE_21,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASLDFCFBUPPUBSTD_17,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASLDFCFBUPPUBSTDMENE_17,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASLDFCFCHPICESTD____20,1.0,SolidWasteLandfillMI - Carleton farmsCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,F,D,SLDWASGRBCPCAP__________23,0.95,SolidWasteGreen BinCompostBiogas capture
+TO,F,D,SLDWASGRBCPBUPPUBSTD____23,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASGRBCPBUPPUBSTDMENE_23,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASGRBCPBUPPUBSTD____21,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASGRBCPBUPPUBSTDMENE_21,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASGRBCPBUPPUBSTD____17,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASGRBCPBUPPUBSTDMENE_17,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,F,D,SLDWASGRBDRGASERKSTD____21,0.91324200913242,SolidWasteGreen BinDisco RoadGasificationEnerkemStandard Efficiency
+TO,F,D,SLDWASGRBDRGASERKSTDMENE_21,1.0,SolidWasteGreen BinDisco RoadGasificationEnerkemStandard Efficiency
+TO,F,D,SLDWASGRBDRADIPUBSTD____21,0.91324200913242,SolidWasteGreen BinDisco RoadAnaerobic DigesterPublicStandard Efficiency
+TO,F,D,SLDWASGRBDRADIPUBSTDMENE_21,1.0,SolidWasteGreen BinDisco RoadAnaerobic DigesterPublicStandard Efficiency
+TO,F,D,SLDWASGRBDRGASCENCCSHH2_21,0.9,SolidWasteGreen BinDisco RoadGasificationCentralCarbon Capture Storage
+TO,F,D,SLDWASGRBDFGASERKSTD____21,0.91324200913242,SolidWasteGreen BinDufferinGasificationEnerkemStandard Efficiency
+TO,F,D,SLDWASGRBDFGASERKSTDMENE_21,1.0,SolidWasteGreen BinDufferinGasificationEnerkemStandard Efficiency
+TO,F,D,SLDWASGRBDFADIPUBSTD____21,0.91324200913242,SolidWasteGreen BinDufferinAnaerobic DigesterPublicStandard Efficiency
+TO,F,D,SLDWASGRBDFADIPUBSTDMENE_21,1.0,SolidWasteGreen BinDufferinAnaerobic DigesterPublicStandard Efficiency
+TO,F,D,SLDWASGRBDFGASCENCCSHH2_21,0.9,SolidWasteGreen BinDufferinGasificationCentralCarbon Capture Storage
+TO,F,N,SLDWASLDFGLCAP__________23,0.95,SolidWasteLandfillGreen LaneBiogas capture
+TO,F,N,SLDWASLDFGLBUPPUBSTD____23,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASLDFGLBUPPUBSTDMENE_23,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASLDFGLBUPPUBSTD____21,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASLDFGLBUPPUBSTDMENE_21,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASLDFGLBUPPUBSTD____17,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASLDFGLBUPPUBSTDMENE_17,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASLDFBWCAP__________23,0.95,SolidWasteLandfillBrock WestBiogas capture
+TO,F,N,SLDWASLDFBWBUPPUBSTD_23,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASLDFBWBUPPUBSTDMENE_23,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASLDFBWBUPPUBSTD_21,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASLDFBWBUPPUBSTDMENE_21,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASLDFBWBUPPUBSTD_17,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASLDFBWBUPPUBSTDMENE_17,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASLDFBWCHPICESTD____20,1.0,SolidWasteLandfillBrock WestCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,F,N,SLDWASLDFKVCAP__________23,0.95,SolidWasteLandfillKeele ValleyBiogas capture
+TO,F,N,SLDWASLDFKVBUPPUBSTD_23,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASLDFKVBUPPUBSTDMENE_23,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASLDFKVBUPPUBSTD_21,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASLDFKVBUPPUBSTDMENE_21,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASLDFKVBUPPUBSTD_17,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASLDFKVBUPPUBSTDMENE_17,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASLDFBRCAP__________23,0.95,SolidWasteLandfillBeare RdBiogas capture
+TO,F,N,SLDWASLDFBRBUPPUBSTD_23,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASLDFBRBUPPUBSTDMENE_23,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASLDFBRBUPPUBSTD_21,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASLDFBRBUPPUBSTDMENE_21,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASLDFBRBUPPUBSTD_17,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASLDFBRBUPPUBSTDMENE_17,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASLDFBRCHPICESTD____20,1.0,SolidWasteLandfillBeare RdCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,F,N,SLDWASLDFTKCAP__________23,0.95,SolidWasteLandfillThackerayBiogas capture
+TO,F,N,SLDWASLDFTKBUPPUBSTD_23,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASLDFTKBUPPUBSTDMENE_23,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASLDFTKBUPPUBSTD_21,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASLDFTKBUPPUBSTDMENE_21,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASLDFTKBUPPUBSTD_17,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASLDFTKBUPPUBSTDMENE_17,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASLDFTKCHPICESTD____20,1.0,SolidWasteLandfillThackerayCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,F,N,SLDWASLDFAHCAP__________23,0.95,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,F,N,SLDWASLDFAHBUPPUBSTD_23,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASLDFAHBUPPUBSTDMENE_23,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASLDFAHBUPPUBSTD_21,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASLDFAHBUPPUBSTDMENE_21,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASLDFAHBUPPUBSTD_17,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASLDFAHBUPPUBSTDMENE_17,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASLDFAHCHPICESTD____20,1.0,SolidWasteLandfillMI - Arbor HillsCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,F,N,SLDWASLDFCFCAP__________23,0.95,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,F,N,SLDWASLDFCFBUPPUBSTD_23,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASLDFCFBUPPUBSTDMENE_23,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASLDFCFBUPPUBSTD_21,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASLDFCFBUPPUBSTDMENE_21,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASLDFCFBUPPUBSTD_17,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASLDFCFBUPPUBSTDMENE_17,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASLDFCFCHPICESTD____20,1.0,SolidWasteLandfillMI - Carleton farmsCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,F,N,SLDWASGRBCPCAP__________23,0.95,SolidWasteGreen BinCompostBiogas capture
+TO,F,N,SLDWASGRBCPBUPPUBSTD____23,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASGRBCPBUPPUBSTDMENE_23,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASGRBCPBUPPUBSTD____21,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASGRBCPBUPPUBSTDMENE_21,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASGRBCPBUPPUBSTD____17,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASGRBCPBUPPUBSTDMENE_17,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,F,N,SLDWASGRBDRGASERKSTD____21,0.91324200913242,SolidWasteGreen BinDisco RoadGasificationEnerkemStandard Efficiency
+TO,F,N,SLDWASGRBDRGASERKSTDMENE_21,1.0,SolidWasteGreen BinDisco RoadGasificationEnerkemStandard Efficiency
+TO,F,N,SLDWASGRBDRADIPUBSTD____21,0.91324200913242,SolidWasteGreen BinDisco RoadAnaerobic DigesterPublicStandard Efficiency
+TO,F,N,SLDWASGRBDRADIPUBSTDMENE_21,1.0,SolidWasteGreen BinDisco RoadAnaerobic DigesterPublicStandard Efficiency
+TO,F,N,SLDWASGRBDRGASCENCCSHH2_21,0.9,SolidWasteGreen BinDisco RoadGasificationCentralCarbon Capture Storage
+TO,F,N,SLDWASGRBDFGASERKSTD____21,0.91324200913242,SolidWasteGreen BinDufferinGasificationEnerkemStandard Efficiency
+TO,F,N,SLDWASGRBDFGASERKSTDMENE_21,1.0,SolidWasteGreen BinDufferinGasificationEnerkemStandard Efficiency
+TO,F,N,SLDWASGRBDFADIPUBSTD____21,0.91324200913242,SolidWasteGreen BinDufferinAnaerobic DigesterPublicStandard Efficiency
+TO,F,N,SLDWASGRBDFADIPUBSTDMENE_21,1.0,SolidWasteGreen BinDufferinAnaerobic DigesterPublicStandard Efficiency
+TO,F,N,SLDWASGRBDFGASCENCCSHH2_21,0.9,SolidWasteGreen BinDufferinGasificationCentralCarbon Capture Storage
+TO,F,P1,SLDWASLDFGLCAP__________23,0.95,SolidWasteLandfillGreen LaneBiogas capture
+TO,F,P1,SLDWASLDFGLBUPPUBSTD____23,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASLDFGLBUPPUBSTDMENE_23,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASLDFGLBUPPUBSTD____21,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASLDFGLBUPPUBSTDMENE_21,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASLDFGLBUPPUBSTD____17,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASLDFGLBUPPUBSTDMENE_17,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASLDFBWCAP__________23,0.95,SolidWasteLandfillBrock WestBiogas capture
+TO,F,P1,SLDWASLDFBWBUPPUBSTD_23,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASLDFBWBUPPUBSTDMENE_23,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASLDFBWBUPPUBSTD_21,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASLDFBWBUPPUBSTDMENE_21,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASLDFBWBUPPUBSTD_17,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASLDFBWBUPPUBSTDMENE_17,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASLDFBWCHPICESTD____20,1.0,SolidWasteLandfillBrock WestCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,F,P1,SLDWASLDFKVCAP__________23,0.95,SolidWasteLandfillKeele ValleyBiogas capture
+TO,F,P1,SLDWASLDFKVBUPPUBSTD_23,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASLDFKVBUPPUBSTDMENE_23,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASLDFKVBUPPUBSTD_21,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASLDFKVBUPPUBSTDMENE_21,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASLDFKVBUPPUBSTD_17,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASLDFKVBUPPUBSTDMENE_17,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASLDFBRCAP__________23,0.95,SolidWasteLandfillBeare RdBiogas capture
+TO,F,P1,SLDWASLDFBRBUPPUBSTD_23,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASLDFBRBUPPUBSTDMENE_23,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASLDFBRBUPPUBSTD_21,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASLDFBRBUPPUBSTDMENE_21,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASLDFBRBUPPUBSTD_17,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASLDFBRBUPPUBSTDMENE_17,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASLDFBRCHPICESTD____20,1.0,SolidWasteLandfillBeare RdCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,F,P1,SLDWASLDFTKCAP__________23,0.95,SolidWasteLandfillThackerayBiogas capture
+TO,F,P1,SLDWASLDFTKBUPPUBSTD_23,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASLDFTKBUPPUBSTDMENE_23,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASLDFTKBUPPUBSTD_21,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASLDFTKBUPPUBSTDMENE_21,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASLDFTKBUPPUBSTD_17,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASLDFTKBUPPUBSTDMENE_17,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASLDFTKCHPICESTD____20,1.0,SolidWasteLandfillThackerayCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,F,P1,SLDWASLDFAHCAP__________23,0.95,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,F,P1,SLDWASLDFAHBUPPUBSTD_23,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASLDFAHBUPPUBSTDMENE_23,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASLDFAHBUPPUBSTD_21,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASLDFAHBUPPUBSTDMENE_21,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASLDFAHBUPPUBSTD_17,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASLDFAHBUPPUBSTDMENE_17,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASLDFAHCHPICESTD____20,1.0,SolidWasteLandfillMI - Arbor HillsCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,F,P1,SLDWASLDFCFCAP__________23,0.95,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,F,P1,SLDWASLDFCFBUPPUBSTD_23,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASLDFCFBUPPUBSTDMENE_23,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASLDFCFBUPPUBSTD_21,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASLDFCFBUPPUBSTDMENE_21,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASLDFCFBUPPUBSTD_17,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASLDFCFBUPPUBSTDMENE_17,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASLDFCFCHPICESTD____20,1.0,SolidWasteLandfillMI - Carleton farmsCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,F,P1,SLDWASGRBCPCAP__________23,0.95,SolidWasteGreen BinCompostBiogas capture
+TO,F,P1,SLDWASGRBCPBUPPUBSTD____23,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASGRBCPBUPPUBSTDMENE_23,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASGRBCPBUPPUBSTD____21,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASGRBCPBUPPUBSTDMENE_21,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASGRBCPBUPPUBSTD____17,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASGRBCPBUPPUBSTDMENE_17,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,F,P1,SLDWASGRBDRGASERKSTD____21,0.91324200913242,SolidWasteGreen BinDisco RoadGasificationEnerkemStandard Efficiency
+TO,F,P1,SLDWASGRBDRGASERKSTDMENE_21,1.0,SolidWasteGreen BinDisco RoadGasificationEnerkemStandard Efficiency
+TO,F,P1,SLDWASGRBDRADIPUBSTD____21,0.91324200913242,SolidWasteGreen BinDisco RoadAnaerobic DigesterPublicStandard Efficiency
+TO,F,P1,SLDWASGRBDRADIPUBSTDMENE_21,1.0,SolidWasteGreen BinDisco RoadAnaerobic DigesterPublicStandard Efficiency
+TO,F,P1,SLDWASGRBDRGASCENCCSHH2_21,0.9,SolidWasteGreen BinDisco RoadGasificationCentralCarbon Capture Storage
+TO,F,P1,SLDWASGRBDFGASERKSTD____21,0.91324200913242,SolidWasteGreen BinDufferinGasificationEnerkemStandard Efficiency
+TO,F,P1,SLDWASGRBDFGASERKSTDMENE_21,1.0,SolidWasteGreen BinDufferinGasificationEnerkemStandard Efficiency
+TO,F,P1,SLDWASGRBDFADIPUBSTD____21,0.91324200913242,SolidWasteGreen BinDufferinAnaerobic DigesterPublicStandard Efficiency
+TO,F,P1,SLDWASGRBDFADIPUBSTDMENE_21,1.0,SolidWasteGreen BinDufferinAnaerobic DigesterPublicStandard Efficiency
+TO,F,P1,SLDWASGRBDFGASCENCCSHH2_21,0.9,SolidWasteGreen BinDufferinGasificationCentralCarbon Capture Storage
+TO,F,P2,SLDWASLDFGLCAP__________23,0.95,SolidWasteLandfillGreen LaneBiogas capture
+TO,F,P2,SLDWASLDFGLBUPPUBSTD____23,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASLDFGLBUPPUBSTDMENE_23,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASLDFGLBUPPUBSTD____21,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASLDFGLBUPPUBSTDMENE_21,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASLDFGLBUPPUBSTD____17,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASLDFGLBUPPUBSTDMENE_17,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASLDFBWCAP__________23,0.95,SolidWasteLandfillBrock WestBiogas capture
+TO,F,P2,SLDWASLDFBWBUPPUBSTD_23,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASLDFBWBUPPUBSTDMENE_23,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASLDFBWBUPPUBSTD_21,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASLDFBWBUPPUBSTDMENE_21,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASLDFBWBUPPUBSTD_17,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASLDFBWBUPPUBSTDMENE_17,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASLDFBWCHPICESTD____20,1.0,SolidWasteLandfillBrock WestCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,F,P2,SLDWASLDFKVCAP__________23,0.95,SolidWasteLandfillKeele ValleyBiogas capture
+TO,F,P2,SLDWASLDFKVBUPPUBSTD_23,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASLDFKVBUPPUBSTDMENE_23,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASLDFKVBUPPUBSTD_21,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASLDFKVBUPPUBSTDMENE_21,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASLDFKVBUPPUBSTD_17,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASLDFKVBUPPUBSTDMENE_17,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASLDFBRCAP__________23,0.95,SolidWasteLandfillBeare RdBiogas capture
+TO,F,P2,SLDWASLDFBRBUPPUBSTD_23,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASLDFBRBUPPUBSTDMENE_23,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASLDFBRBUPPUBSTD_21,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASLDFBRBUPPUBSTDMENE_21,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASLDFBRBUPPUBSTD_17,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASLDFBRBUPPUBSTDMENE_17,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASLDFBRCHPICESTD____20,1.0,SolidWasteLandfillBeare RdCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,F,P2,SLDWASLDFTKCAP__________23,0.95,SolidWasteLandfillThackerayBiogas capture
+TO,F,P2,SLDWASLDFTKBUPPUBSTD_23,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASLDFTKBUPPUBSTDMENE_23,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASLDFTKBUPPUBSTD_21,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASLDFTKBUPPUBSTDMENE_21,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASLDFTKBUPPUBSTD_17,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASLDFTKBUPPUBSTDMENE_17,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASLDFTKCHPICESTD____20,1.0,SolidWasteLandfillThackerayCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,F,P2,SLDWASLDFAHCAP__________23,0.95,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,F,P2,SLDWASLDFAHBUPPUBSTD_23,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASLDFAHBUPPUBSTDMENE_23,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASLDFAHBUPPUBSTD_21,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASLDFAHBUPPUBSTDMENE_21,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASLDFAHBUPPUBSTD_17,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASLDFAHBUPPUBSTDMENE_17,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASLDFAHCHPICESTD____20,1.0,SolidWasteLandfillMI - Arbor HillsCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,F,P2,SLDWASLDFCFCAP__________23,0.95,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,F,P2,SLDWASLDFCFBUPPUBSTD_23,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASLDFCFBUPPUBSTDMENE_23,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASLDFCFBUPPUBSTD_21,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASLDFCFBUPPUBSTDMENE_21,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASLDFCFBUPPUBSTD_17,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASLDFCFBUPPUBSTDMENE_17,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASLDFCFCHPICESTD____20,1.0,SolidWasteLandfillMI - Carleton farmsCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,F,P2,SLDWASGRBCPCAP__________23,0.95,SolidWasteGreen BinCompostBiogas capture
+TO,F,P2,SLDWASGRBCPBUPPUBSTD____23,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASGRBCPBUPPUBSTDMENE_23,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASGRBCPBUPPUBSTD____21,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASGRBCPBUPPUBSTDMENE_21,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASGRBCPBUPPUBSTD____17,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASGRBCPBUPPUBSTDMENE_17,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,F,P2,SLDWASGRBDRGASERKSTD____21,0.91324200913242,SolidWasteGreen BinDisco RoadGasificationEnerkemStandard Efficiency
+TO,F,P2,SLDWASGRBDRGASERKSTDMENE_21,1.0,SolidWasteGreen BinDisco RoadGasificationEnerkemStandard Efficiency
+TO,F,P2,SLDWASGRBDRADIPUBSTD____21,0.91324200913242,SolidWasteGreen BinDisco RoadAnaerobic DigesterPublicStandard Efficiency
+TO,F,P2,SLDWASGRBDRADIPUBSTDMENE_21,1.0,SolidWasteGreen BinDisco RoadAnaerobic DigesterPublicStandard Efficiency
+TO,F,P2,SLDWASGRBDRGASCENCCSHH2_21,0.9,SolidWasteGreen BinDisco RoadGasificationCentralCarbon Capture Storage
+TO,F,P2,SLDWASGRBDFGASERKSTD____21,0.91324200913242,SolidWasteGreen BinDufferinGasificationEnerkemStandard Efficiency
+TO,F,P2,SLDWASGRBDFGASERKSTDMENE_21,1.0,SolidWasteGreen BinDufferinGasificationEnerkemStandard Efficiency
+TO,F,P2,SLDWASGRBDFADIPUBSTD____21,0.91324200913242,SolidWasteGreen BinDufferinAnaerobic DigesterPublicStandard Efficiency
+TO,F,P2,SLDWASGRBDFADIPUBSTDMENE_21,1.0,SolidWasteGreen BinDufferinAnaerobic DigesterPublicStandard Efficiency
+TO,F,P2,SLDWASGRBDFGASCENCCSHH2_21,0.9,SolidWasteGreen BinDufferinGasificationCentralCarbon Capture Storage
+TO,R,D,SLDWASLDFGLCAP__________23,0.95,SolidWasteLandfillGreen LaneBiogas capture
+TO,R,D,SLDWASLDFGLBUPPUBSTD____23,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASLDFGLBUPPUBSTDMENE_23,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASLDFGLBUPPUBSTD____21,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASLDFGLBUPPUBSTDMENE_21,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASLDFGLBUPPUBSTD____17,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASLDFGLBUPPUBSTDMENE_17,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASLDFBWCAP__________23,0.95,SolidWasteLandfillBrock WestBiogas capture
+TO,R,D,SLDWASLDFBWBUPPUBSTD_23,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASLDFBWBUPPUBSTDMENE_23,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASLDFBWBUPPUBSTD_21,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASLDFBWBUPPUBSTDMENE_21,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASLDFBWBUPPUBSTD_17,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASLDFBWBUPPUBSTDMENE_17,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASLDFBWCHPICESTD____20,1.0,SolidWasteLandfillBrock WestCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,R,D,SLDWASLDFKVCAP__________23,0.95,SolidWasteLandfillKeele ValleyBiogas capture
+TO,R,D,SLDWASLDFKVBUPPUBSTD_23,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASLDFKVBUPPUBSTDMENE_23,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASLDFKVBUPPUBSTD_21,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASLDFKVBUPPUBSTDMENE_21,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASLDFKVBUPPUBSTD_17,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASLDFKVBUPPUBSTDMENE_17,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASLDFBRCAP__________23,0.95,SolidWasteLandfillBeare RdBiogas capture
+TO,R,D,SLDWASLDFBRBUPPUBSTD_23,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASLDFBRBUPPUBSTDMENE_23,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASLDFBRBUPPUBSTD_21,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASLDFBRBUPPUBSTDMENE_21,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASLDFBRBUPPUBSTD_17,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASLDFBRBUPPUBSTDMENE_17,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASLDFBRCHPICESTD____20,1.0,SolidWasteLandfillBeare RdCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,R,D,SLDWASLDFTKCAP__________23,0.95,SolidWasteLandfillThackerayBiogas capture
+TO,R,D,SLDWASLDFTKBUPPUBSTD_23,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASLDFTKBUPPUBSTDMENE_23,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASLDFTKBUPPUBSTD_21,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASLDFTKBUPPUBSTDMENE_21,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASLDFTKBUPPUBSTD_17,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASLDFTKBUPPUBSTDMENE_17,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASLDFTKCHPICESTD____20,1.0,SolidWasteLandfillThackerayCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,R,D,SLDWASLDFAHCAP__________23,0.95,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,R,D,SLDWASLDFAHBUPPUBSTD_23,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASLDFAHBUPPUBSTDMENE_23,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASLDFAHBUPPUBSTD_21,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASLDFAHBUPPUBSTDMENE_21,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASLDFAHBUPPUBSTD_17,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASLDFAHBUPPUBSTDMENE_17,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASLDFAHCHPICESTD____20,1.0,SolidWasteLandfillMI - Arbor HillsCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,R,D,SLDWASLDFCFCAP__________23,0.95,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,R,D,SLDWASLDFCFBUPPUBSTD_23,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASLDFCFBUPPUBSTDMENE_23,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASLDFCFBUPPUBSTD_21,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASLDFCFBUPPUBSTDMENE_21,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASLDFCFBUPPUBSTD_17,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASLDFCFBUPPUBSTDMENE_17,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASLDFCFCHPICESTD____20,1.0,SolidWasteLandfillMI - Carleton farmsCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,R,D,SLDWASGRBCPCAP__________23,0.95,SolidWasteGreen BinCompostBiogas capture
+TO,R,D,SLDWASGRBCPBUPPUBSTD____23,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASGRBCPBUPPUBSTDMENE_23,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASGRBCPBUPPUBSTD____21,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASGRBCPBUPPUBSTDMENE_21,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASGRBCPBUPPUBSTD____17,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASGRBCPBUPPUBSTDMENE_17,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,R,D,SLDWASGRBDRGASERKSTD____21,0.91324200913242,SolidWasteGreen BinDisco RoadGasificationEnerkemStandard Efficiency
+TO,R,D,SLDWASGRBDRGASERKSTDMENE_21,1.0,SolidWasteGreen BinDisco RoadGasificationEnerkemStandard Efficiency
+TO,R,D,SLDWASGRBDRADIPUBSTD____21,0.91324200913242,SolidWasteGreen BinDisco RoadAnaerobic DigesterPublicStandard Efficiency
+TO,R,D,SLDWASGRBDRADIPUBSTDMENE_21,1.0,SolidWasteGreen BinDisco RoadAnaerobic DigesterPublicStandard Efficiency
+TO,R,D,SLDWASGRBDRGASCENCCSHH2_21,0.9,SolidWasteGreen BinDisco RoadGasificationCentralCarbon Capture Storage
+TO,R,D,SLDWASGRBDFGASERKSTD____21,0.91324200913242,SolidWasteGreen BinDufferinGasificationEnerkemStandard Efficiency
+TO,R,D,SLDWASGRBDFGASERKSTDMENE_21,1.0,SolidWasteGreen BinDufferinGasificationEnerkemStandard Efficiency
+TO,R,D,SLDWASGRBDFADIPUBSTD____21,0.91324200913242,SolidWasteGreen BinDufferinAnaerobic DigesterPublicStandard Efficiency
+TO,R,D,SLDWASGRBDFADIPUBSTDMENE_21,1.0,SolidWasteGreen BinDufferinAnaerobic DigesterPublicStandard Efficiency
+TO,R,D,SLDWASGRBDFGASCENCCSHH2_21,0.9,SolidWasteGreen BinDufferinGasificationCentralCarbon Capture Storage
+TO,R,N,SLDWASLDFGLCAP__________23,0.95,SolidWasteLandfillGreen LaneBiogas capture
+TO,R,N,SLDWASLDFGLBUPPUBSTD____23,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASLDFGLBUPPUBSTDMENE_23,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASLDFGLBUPPUBSTD____21,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASLDFGLBUPPUBSTDMENE_21,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASLDFGLBUPPUBSTD____17,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASLDFGLBUPPUBSTDMENE_17,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASLDFBWCAP__________23,0.95,SolidWasteLandfillBrock WestBiogas capture
+TO,R,N,SLDWASLDFBWBUPPUBSTD_23,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASLDFBWBUPPUBSTDMENE_23,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASLDFBWBUPPUBSTD_21,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASLDFBWBUPPUBSTDMENE_21,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASLDFBWBUPPUBSTD_17,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASLDFBWBUPPUBSTDMENE_17,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASLDFBWCHPICESTD____20,1.0,SolidWasteLandfillBrock WestCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,R,N,SLDWASLDFKVCAP__________23,0.95,SolidWasteLandfillKeele ValleyBiogas capture
+TO,R,N,SLDWASLDFKVBUPPUBSTD_23,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASLDFKVBUPPUBSTDMENE_23,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASLDFKVBUPPUBSTD_21,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASLDFKVBUPPUBSTDMENE_21,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASLDFKVBUPPUBSTD_17,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASLDFKVBUPPUBSTDMENE_17,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASLDFBRCAP__________23,0.95,SolidWasteLandfillBeare RdBiogas capture
+TO,R,N,SLDWASLDFBRBUPPUBSTD_23,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASLDFBRBUPPUBSTDMENE_23,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASLDFBRBUPPUBSTD_21,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASLDFBRBUPPUBSTDMENE_21,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASLDFBRBUPPUBSTD_17,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASLDFBRBUPPUBSTDMENE_17,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASLDFBRCHPICESTD____20,1.0,SolidWasteLandfillBeare RdCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,R,N,SLDWASLDFTKCAP__________23,0.95,SolidWasteLandfillThackerayBiogas capture
+TO,R,N,SLDWASLDFTKBUPPUBSTD_23,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASLDFTKBUPPUBSTDMENE_23,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASLDFTKBUPPUBSTD_21,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASLDFTKBUPPUBSTDMENE_21,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASLDFTKBUPPUBSTD_17,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASLDFTKBUPPUBSTDMENE_17,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASLDFTKCHPICESTD____20,1.0,SolidWasteLandfillThackerayCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,R,N,SLDWASLDFAHCAP__________23,0.95,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,R,N,SLDWASLDFAHBUPPUBSTD_23,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASLDFAHBUPPUBSTDMENE_23,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASLDFAHBUPPUBSTD_21,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASLDFAHBUPPUBSTDMENE_21,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASLDFAHBUPPUBSTD_17,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASLDFAHBUPPUBSTDMENE_17,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASLDFAHCHPICESTD____20,1.0,SolidWasteLandfillMI - Arbor HillsCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,R,N,SLDWASLDFCFCAP__________23,0.95,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,R,N,SLDWASLDFCFBUPPUBSTD_23,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASLDFCFBUPPUBSTDMENE_23,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASLDFCFBUPPUBSTD_21,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASLDFCFBUPPUBSTDMENE_21,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASLDFCFBUPPUBSTD_17,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASLDFCFBUPPUBSTDMENE_17,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASLDFCFCHPICESTD____20,1.0,SolidWasteLandfillMI - Carleton farmsCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,R,N,SLDWASGRBCPCAP__________23,0.95,SolidWasteGreen BinCompostBiogas capture
+TO,R,N,SLDWASGRBCPBUPPUBSTD____23,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASGRBCPBUPPUBSTDMENE_23,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASGRBCPBUPPUBSTD____21,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASGRBCPBUPPUBSTDMENE_21,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASGRBCPBUPPUBSTD____17,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASGRBCPBUPPUBSTDMENE_17,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,R,N,SLDWASGRBDRGASERKSTD____21,0.91324200913242,SolidWasteGreen BinDisco RoadGasificationEnerkemStandard Efficiency
+TO,R,N,SLDWASGRBDRGASERKSTDMENE_21,1.0,SolidWasteGreen BinDisco RoadGasificationEnerkemStandard Efficiency
+TO,R,N,SLDWASGRBDRADIPUBSTD____21,0.91324200913242,SolidWasteGreen BinDisco RoadAnaerobic DigesterPublicStandard Efficiency
+TO,R,N,SLDWASGRBDRADIPUBSTDMENE_21,1.0,SolidWasteGreen BinDisco RoadAnaerobic DigesterPublicStandard Efficiency
+TO,R,N,SLDWASGRBDRGASCENCCSHH2_21,0.9,SolidWasteGreen BinDisco RoadGasificationCentralCarbon Capture Storage
+TO,R,N,SLDWASGRBDFGASERKSTD____21,0.91324200913242,SolidWasteGreen BinDufferinGasificationEnerkemStandard Efficiency
+TO,R,N,SLDWASGRBDFGASERKSTDMENE_21,1.0,SolidWasteGreen BinDufferinGasificationEnerkemStandard Efficiency
+TO,R,N,SLDWASGRBDFADIPUBSTD____21,0.91324200913242,SolidWasteGreen BinDufferinAnaerobic DigesterPublicStandard Efficiency
+TO,R,N,SLDWASGRBDFADIPUBSTDMENE_21,1.0,SolidWasteGreen BinDufferinAnaerobic DigesterPublicStandard Efficiency
+TO,R,N,SLDWASGRBDFGASCENCCSHH2_21,0.9,SolidWasteGreen BinDufferinGasificationCentralCarbon Capture Storage
+TO,R,P1,SLDWASLDFGLCAP__________23,0.95,SolidWasteLandfillGreen LaneBiogas capture
+TO,R,P1,SLDWASLDFGLBUPPUBSTD____23,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASLDFGLBUPPUBSTDMENE_23,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASLDFGLBUPPUBSTD____21,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASLDFGLBUPPUBSTDMENE_21,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASLDFGLBUPPUBSTD____17,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASLDFGLBUPPUBSTDMENE_17,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASLDFBWCAP__________23,0.95,SolidWasteLandfillBrock WestBiogas capture
+TO,R,P1,SLDWASLDFBWBUPPUBSTD_23,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASLDFBWBUPPUBSTDMENE_23,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASLDFBWBUPPUBSTD_21,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASLDFBWBUPPUBSTDMENE_21,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASLDFBWBUPPUBSTD_17,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASLDFBWBUPPUBSTDMENE_17,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASLDFBWCHPICESTD____20,1.0,SolidWasteLandfillBrock WestCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,R,P1,SLDWASLDFKVCAP__________23,0.95,SolidWasteLandfillKeele ValleyBiogas capture
+TO,R,P1,SLDWASLDFKVBUPPUBSTD_23,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASLDFKVBUPPUBSTDMENE_23,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASLDFKVBUPPUBSTD_21,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASLDFKVBUPPUBSTDMENE_21,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASLDFKVBUPPUBSTD_17,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASLDFKVBUPPUBSTDMENE_17,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASLDFBRCAP__________23,0.95,SolidWasteLandfillBeare RdBiogas capture
+TO,R,P1,SLDWASLDFBRBUPPUBSTD_23,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASLDFBRBUPPUBSTDMENE_23,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASLDFBRBUPPUBSTD_21,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASLDFBRBUPPUBSTDMENE_21,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASLDFBRBUPPUBSTD_17,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASLDFBRBUPPUBSTDMENE_17,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASLDFBRCHPICESTD____20,1.0,SolidWasteLandfillBeare RdCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,R,P1,SLDWASLDFTKCAP__________23,0.95,SolidWasteLandfillThackerayBiogas capture
+TO,R,P1,SLDWASLDFTKBUPPUBSTD_23,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASLDFTKBUPPUBSTDMENE_23,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASLDFTKBUPPUBSTD_21,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASLDFTKBUPPUBSTDMENE_21,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASLDFTKBUPPUBSTD_17,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASLDFTKBUPPUBSTDMENE_17,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASLDFTKCHPICESTD____20,1.0,SolidWasteLandfillThackerayCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,R,P1,SLDWASLDFAHCAP__________23,0.95,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,R,P1,SLDWASLDFAHBUPPUBSTD_23,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASLDFAHBUPPUBSTDMENE_23,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASLDFAHBUPPUBSTD_21,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASLDFAHBUPPUBSTDMENE_21,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASLDFAHBUPPUBSTD_17,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASLDFAHBUPPUBSTDMENE_17,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASLDFAHCHPICESTD____20,1.0,SolidWasteLandfillMI - Arbor HillsCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,R,P1,SLDWASLDFCFCAP__________23,0.95,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,R,P1,SLDWASLDFCFBUPPUBSTD_23,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASLDFCFBUPPUBSTDMENE_23,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASLDFCFBUPPUBSTD_21,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASLDFCFBUPPUBSTDMENE_21,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASLDFCFBUPPUBSTD_17,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASLDFCFBUPPUBSTDMENE_17,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASLDFCFCHPICESTD____20,1.0,SolidWasteLandfillMI - Carleton farmsCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,R,P1,SLDWASGRBCPCAP__________23,0.95,SolidWasteGreen BinCompostBiogas capture
+TO,R,P1,SLDWASGRBCPBUPPUBSTD____23,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASGRBCPBUPPUBSTDMENE_23,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASGRBCPBUPPUBSTD____21,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASGRBCPBUPPUBSTDMENE_21,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASGRBCPBUPPUBSTD____17,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASGRBCPBUPPUBSTDMENE_17,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,R,P1,SLDWASGRBDRGASERKSTD____21,0.91324200913242,SolidWasteGreen BinDisco RoadGasificationEnerkemStandard Efficiency
+TO,R,P1,SLDWASGRBDRGASERKSTDMENE_21,1.0,SolidWasteGreen BinDisco RoadGasificationEnerkemStandard Efficiency
+TO,R,P1,SLDWASGRBDRADIPUBSTD____21,0.91324200913242,SolidWasteGreen BinDisco RoadAnaerobic DigesterPublicStandard Efficiency
+TO,R,P1,SLDWASGRBDRADIPUBSTDMENE_21,1.0,SolidWasteGreen BinDisco RoadAnaerobic DigesterPublicStandard Efficiency
+TO,R,P1,SLDWASGRBDRGASCENCCSHH2_21,0.9,SolidWasteGreen BinDisco RoadGasificationCentralCarbon Capture Storage
+TO,R,P1,SLDWASGRBDFGASERKSTD____21,0.91324200913242,SolidWasteGreen BinDufferinGasificationEnerkemStandard Efficiency
+TO,R,P1,SLDWASGRBDFGASERKSTDMENE_21,1.0,SolidWasteGreen BinDufferinGasificationEnerkemStandard Efficiency
+TO,R,P1,SLDWASGRBDFADIPUBSTD____21,0.91324200913242,SolidWasteGreen BinDufferinAnaerobic DigesterPublicStandard Efficiency
+TO,R,P1,SLDWASGRBDFADIPUBSTDMENE_21,1.0,SolidWasteGreen BinDufferinAnaerobic DigesterPublicStandard Efficiency
+TO,R,P1,SLDWASGRBDFGASCENCCSHH2_21,0.9,SolidWasteGreen BinDufferinGasificationCentralCarbon Capture Storage
+TO,R,P2,SLDWASLDFGLCAP__________23,0.95,SolidWasteLandfillGreen LaneBiogas capture
+TO,R,P2,SLDWASLDFGLBUPPUBSTD____23,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASLDFGLBUPPUBSTDMENE_23,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASLDFGLBUPPUBSTD____21,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASLDFGLBUPPUBSTDMENE_21,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASLDFGLBUPPUBSTD____17,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASLDFGLBUPPUBSTDMENE_17,1.0,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASLDFBWCAP__________23,0.95,SolidWasteLandfillBrock WestBiogas capture
+TO,R,P2,SLDWASLDFBWBUPPUBSTD_23,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASLDFBWBUPPUBSTDMENE_23,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASLDFBWBUPPUBSTD_21,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASLDFBWBUPPUBSTDMENE_21,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASLDFBWBUPPUBSTD_17,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASLDFBWBUPPUBSTDMENE_17,1.0,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASLDFBWCHPICESTD____20,1.0,SolidWasteLandfillBrock WestCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,R,P2,SLDWASLDFKVCAP__________23,0.95,SolidWasteLandfillKeele ValleyBiogas capture
+TO,R,P2,SLDWASLDFKVBUPPUBSTD_23,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASLDFKVBUPPUBSTDMENE_23,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASLDFKVBUPPUBSTD_21,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASLDFKVBUPPUBSTDMENE_21,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASLDFKVBUPPUBSTD_17,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASLDFKVBUPPUBSTDMENE_17,1.0,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASLDFBRCAP__________23,0.95,SolidWasteLandfillBeare RdBiogas capture
+TO,R,P2,SLDWASLDFBRBUPPUBSTD_23,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASLDFBRBUPPUBSTDMENE_23,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASLDFBRBUPPUBSTD_21,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASLDFBRBUPPUBSTDMENE_21,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASLDFBRBUPPUBSTD_17,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASLDFBRBUPPUBSTDMENE_17,1.0,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASLDFBRCHPICESTD____20,1.0,SolidWasteLandfillBeare RdCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,R,P2,SLDWASLDFTKCAP__________23,0.95,SolidWasteLandfillThackerayBiogas capture
+TO,R,P2,SLDWASLDFTKBUPPUBSTD_23,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASLDFTKBUPPUBSTDMENE_23,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASLDFTKBUPPUBSTD_21,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASLDFTKBUPPUBSTDMENE_21,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASLDFTKBUPPUBSTD_17,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASLDFTKBUPPUBSTDMENE_17,1.0,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASLDFTKCHPICESTD____20,1.0,SolidWasteLandfillThackerayCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,R,P2,SLDWASLDFAHCAP__________23,0.95,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,R,P2,SLDWASLDFAHBUPPUBSTD_23,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASLDFAHBUPPUBSTDMENE_23,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASLDFAHBUPPUBSTD_21,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASLDFAHBUPPUBSTDMENE_21,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASLDFAHBUPPUBSTD_17,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASLDFAHBUPPUBSTDMENE_17,1.0,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASLDFAHCHPICESTD____20,1.0,SolidWasteLandfillMI - Arbor HillsCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,R,P2,SLDWASLDFCFCAP__________23,0.95,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,R,P2,SLDWASLDFCFBUPPUBSTD_23,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASLDFCFBUPPUBSTDMENE_23,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASLDFCFBUPPUBSTD_21,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASLDFCFBUPPUBSTDMENE_21,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASLDFCFBUPPUBSTD_17,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASLDFCFBUPPUBSTDMENE_17,1.0,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASLDFCFCHPICESTD____20,1.0,SolidWasteLandfillMI - Carleton farmsCogeneration engineInternal Combustion EngineStandard Efficiency
+TO,R,P2,SLDWASGRBCPCAP__________23,0.95,SolidWasteGreen BinCompostBiogas capture
+TO,R,P2,SLDWASGRBCPBUPPUBSTD____23,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASGRBCPBUPPUBSTDMENE_23,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASGRBCPBUPPUBSTD____21,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASGRBCPBUPPUBSTDMENE_21,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASGRBCPBUPPUBSTD____17,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASGRBCPBUPPUBSTDMENE_17,1.0,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency
+TO,R,P2,SLDWASGRBDRGASERKSTD____21,0.91324200913242,SolidWasteGreen BinDisco RoadGasificationEnerkemStandard Efficiency
+TO,R,P2,SLDWASGRBDRGASERKSTDMENE_21,1.0,SolidWasteGreen BinDisco RoadGasificationEnerkemStandard Efficiency
+TO,R,P2,SLDWASGRBDRADIPUBSTD____21,0.91324200913242,SolidWasteGreen BinDisco RoadAnaerobic DigesterPublicStandard Efficiency
+TO,R,P2,SLDWASGRBDRADIPUBSTDMENE_21,1.0,SolidWasteGreen BinDisco RoadAnaerobic DigesterPublicStandard Efficiency
+TO,R,P2,SLDWASGRBDRGASCENCCSHH2_21,0.9,SolidWasteGreen BinDisco RoadGasificationCentralCarbon Capture Storage
+TO,R,P2,SLDWASGRBDFGASERKSTD____21,0.91324200913242,SolidWasteGreen BinDufferinGasificationEnerkemStandard Efficiency
+TO,R,P2,SLDWASGRBDFGASERKSTDMENE_21,1.0,SolidWasteGreen BinDufferinGasificationEnerkemStandard Efficiency
+TO,R,P2,SLDWASGRBDFADIPUBSTD____21,0.91324200913242,SolidWasteGreen BinDufferinAnaerobic DigesterPublicStandard Efficiency
+TO,R,P2,SLDWASGRBDFADIPUBSTDMENE_21,1.0,SolidWasteGreen BinDufferinAnaerobic DigesterPublicStandard Efficiency
+TO,R,P2,SLDWASGRBDFGASCENCCSHH2_21,0.9,SolidWasteGreen BinDufferinGasificationCentralCarbon Capture Storage

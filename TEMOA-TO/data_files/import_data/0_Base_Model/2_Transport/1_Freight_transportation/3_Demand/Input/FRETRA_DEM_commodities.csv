@@ -1,0 +1,36 @@
+comm_name,flag,comm_desc
+ADEMFRETRAROATRULGT,d,Aggregated DemandFreight TransportationTransportationRoadTruckPassenger Light Trucks
+ADEMFRETRAROATRUMET,d,Aggregated DemandFreight TransportationTransportationRoadTruckMedium Trucks
+ADEMFRETRAROATRUHET,d,Aggregated DemandFreight TransportationTransportationRoadTruckHeavy Trucks
+ADEMFRETRAAIR______,d,Aggregated DemandFreight TransportationTransportationAir
+ADEMFRETRARAI______,d,Aggregated DemandFreight TransportationTransportationRail
+ADEMFRETRAMAR______,d,Aggregated DemandFreight TransportationTransportationMarine
+VKTFRETRAROATRULGT,p,Vehicule kilometer travelledFreight TransportationTransportationRoadTruckPassenger Light Trucks
+VKTFRETRAROATRUMET,p,Vehicule kilometer travelledFreight TransportationTransportationRoadTruckMedium Trucks
+VKTFRETRAROATRUHET,p,Vehicule kilometer travelledFreight TransportationTransportationRoadTruckHeavy Trucks
+VKTFRETRAAIR______,p,Vehicule kilometer travelledFreight TransportationTransportationAir
+VKTFRETRARAI______,p,Vehicule kilometer travelledFreight TransportationTransportationRail
+VKTFRETRAMAR______,p,Vehicule kilometer travelledFreight TransportationTransportationMarine
+FRETRAGAS,p,Freight TransportationGasoline
+FRETRAETH,p,Freight TransportationEthanol
+FRETRACETH,p,Freight TransportationCellulosic Ethanol
+FRETRAPRO,p,Freight TransportationPropane
+FRETRADSL,p,Freight TransportationDiesel
+FRETRABDSL,p,Freight TransportationBiodiesel
+FRETRARDSL,p,Freight TransportationRenewable Diesel
+FRETRAFTDSL,p,Freight TransportationFT Diesel
+FRETRAATF,p,Freight TransportationAviation Turbo Fuel
+FRETRABJE,p,Freight TransportationBio Jet
+FRETRASJE,p,Freight TransportationSynthetic Jet
+FRETRAAGA,p,Freight TransportationAviation Gasoline
+FRETRAHH2,p,Freight TransportationHydrogen
+FRETRAHFO,p,Freight TransportationHeavy Fuel Oil
+FRETRAKER,p,Freight TransportationKerosene
+FRETRALFO,p,Freight TransportationLight Fuel Oil
+FRETRAELC,p,Freight TransportationElectricity
+FRETRANGA,p,Freight TransportationNatural Gas
+FRETRABMTN,p,Freight TransportationBio Methane
+FRETRASGA,p,Freight TransportationSynthetic Gas
+FRETRASMTN,p,Freight TransportationSynthetic Methane
+FRETRABELC,p,Freight TransportationBattery Electric Vehicle
+FRETRABELCF,p,Freight TransportationBattery Electricity Freight

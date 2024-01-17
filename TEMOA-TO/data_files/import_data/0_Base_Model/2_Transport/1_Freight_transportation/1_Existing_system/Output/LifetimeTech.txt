@@ -1,0 +1,10 @@
+INSERT INTO`LifetimeTech`VALUES('TO','FRETRAROATRULGTCONVGAS_EX',20,'Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline');
+INSERT INTO`LifetimeTech`VALUES('TO','FRETRAROATRULGTCONVPRO_EX',20,'Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane');
+INSERT INTO`LifetimeTech`VALUES('TO','FRETRAROATRULGTCONVDSL_EX',20,'Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel');
+INSERT INTO`LifetimeTech`VALUES('TO','FRETRAROATRUMETCONVGAS_EX',20,'Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline');
+INSERT INTO`LifetimeTech`VALUES('TO','FRETRAROATRUMETCONVDSL_EX',20,'Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel');
+INSERT INTO`LifetimeTech`VALUES('TO','FRETRAROATRUHETCONVDSL_EX',20,'Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel');
+INSERT INTO`LifetimeTech`VALUES('TO','FRETRAAIR_________ATF_EX',25,'Freight TransportationTransportationAirAviation Turbo Fuel');
+INSERT INTO`LifetimeTech`VALUES('TO','FRETRAAIR_________AGA_EX',25,'Freight TransportationTransportationAirAviation Gasoline');
+INSERT INTO`LifetimeTech`VALUES('TO','FRETRARAI_________DSL_EX',50,'Freight TransportationTransportationRailDiesel');
+INSERT INTO`LifetimeTech`VALUES('TO','FRETRAMAR_________ALL_EX',200,'Freight TransportationTransportationMarineAll');

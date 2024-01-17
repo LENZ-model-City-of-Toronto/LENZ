@@ -1,0 +1,6 @@
+INSERT INTO`CapacityToActivity`VALUES('TO','INDBDGIPSEP___WAH_23',1,'IndustryBuildingIndustrial Processes');
+INSERT INTO`CapacityToActivity`VALUES('TO','INDBDGLIRET_23',1,'IndustryBuildingLightingRetrofit');
+INSERT INTO`CapacityToActivity`VALUES('TO','INDBDGIPRET_23',1,'IndustryBuildingIndustrial ProcessesRetrofit');
+INSERT INTO`CapacityToActivity`VALUES('TO','INDBDGSCRET_23',1,'IndustryBuildingSpace CoolingRetrofit');
+INSERT INTO`CapacityToActivity`VALUES('TO','INDBDGSHRET_23',1,'IndustryBuildingSpace HeatingRetrofit');
+INSERT INTO`CapacityToActivity`VALUES('TO','INDBDGWHRET_23',1,'IndustryBuildingWater HeatingRetrofit');

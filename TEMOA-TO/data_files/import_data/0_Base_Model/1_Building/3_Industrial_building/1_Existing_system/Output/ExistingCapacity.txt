@@ -1,0 +1,10 @@
+INSERT INTO`ExistingCapacity`VALUES('TO','INDBDGLISEP_EX',2015,10000000000,'TJa','IndustryBuildingLightingSelf produced');
+INSERT INTO`ExistingCapacity`VALUES('TO','INDBDGSCSEP_EX',2015,10000000000,'TJa','IndustryBuildingSpace CoolingSelf produced');
+INSERT INTO`ExistingCapacity`VALUES('TO','INDBDGSCDCO_EX',2015,10000000000,'TJa','IndustryBuildingSpace CoolingDistrict Cooling');
+INSERT INTO`ExistingCapacity`VALUES('TO','INDBDGIPSEP_EX',2015,10000000000,'TJa','IndustryBuildingIndustrial ProcessesSelf producedMix Energy');
+INSERT INTO`ExistingCapacity`VALUES('TO','INDBDGIPSEPMENE_EX',2015,10000000000,'TJa','IndustryBuildingIndustrial ProcessesSelf producedMix Energy');
+INSERT INTO`ExistingCapacity`VALUES('TO','INDBDGSHSEP_EX',2015,10000000000,'TJa','IndustryBuildingSpace HeatingSelf produced');
+INSERT INTO`ExistingCapacity`VALUES('TO','INDBDGSHDHE_EX',2015,10000000000,'TJa','IndustryBuildingSpace HeatingDistrict Heating');
+INSERT INTO`ExistingCapacity`VALUES('TO','INDBDGWHSEP_EX',2015,10000000000,'TJa','IndustryBuildingWater HeatingSelf produced');
+INSERT INTO`ExistingCapacity`VALUES('TO','INDBDGWHDHE_EX',2015,10000000000,'TJa','IndustryBuildingWater HeatingDistrict Heating');
+INSERT INTO`ExistingCapacity`VALUES('TO','INDBDGIPSEPETHOS_EX',2015,10000000000,'TJa','IndustryBuildingIndustrial ProcessesSelf produced');

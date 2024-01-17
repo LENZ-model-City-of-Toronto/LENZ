@@ -1,0 +1,11 @@
+regions,tech,c2a,c2a_notes
+TO,INDBDGLISEP_EX,1,IndustryBuildingLightingSelf produced
+TO,INDBDGSCSEP_EX,1,IndustryBuildingSpace CoolingSelf produced
+TO,INDBDGSCDCO_EX,1,IndustryBuildingSpace CoolingDistrict Cooling
+TO,INDBDGIPSEP_EX,1,IndustryBuildingIndustrial ProcessesSelf producedMix Energy
+TO,INDBDGIPSEPMENE_EX,1,IndustryBuildingIndustrial ProcessesSelf producedMix Energy
+TO,INDBDGSHSEP_EX,1,IndustryBuildingSpace HeatingSelf produced
+TO,INDBDGSHDHE_EX,1,IndustryBuildingSpace HeatingDistrict Heating
+TO,INDBDGWHSEP_EX,1,IndustryBuildingWater HeatingSelf produced
+TO,INDBDGWHDHE_EX,1,IndustryBuildingWater HeatingDistrict Heating
+TO,INDBDGIPSEPETHOS_EX,1,IndustryBuildingIndustrial ProcessesSelf produced

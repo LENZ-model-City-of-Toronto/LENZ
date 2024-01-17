@@ -1,0 +1,110 @@
+"Local renewable thermal energy generation per sector, energy and per period (TJ)"
+t_periods,Source_Sector,Energy,Consumption_Sector,Type,VFlow_Out
+2016,Solid waste,Bio Methane,Solid waste,Green Bin,176.2384612543163
+2016,Water waste,Bio Methane,Water waste,Waste water,1273.7788930811432
+2016,Water waste,Cellulosic Ethanol,Water waste,Waste water,0.2884350237761248
+2016,Water waste,Hydrogen,Water waste,Waste water,0.5329985166694202
+2017,Solid waste,Bio Methane,Solid waste,Green Bin,179.95284101661483
+2017,Water waste,Bio Methane,Water waste,Waste water,1281.3832831863867
+2017,Water waste,Cellulosic Ethanol,Water waste,Waste water,0.5628290910155723
+2017,Water waste,Hydrogen,Water waste,Waste water,0.8637681342077939
+2018,Solid waste,Bio Methane,Solid waste,Green Bin,218.56214229625698
+2018,Water waste,Bio Methane,Water waste,Waste water,1289.243053225102
+2018,Water waste,Cellulosic Ethanol,Water waste,Waste water,0.7352619904684253
+2018,Water waste,Hydrogen,Water waste,Waste water,1.1131675827882888
+2019,Solid waste,Bio Methane,Solid waste,Green Bin,370.01378888239964
+2019,Water waste,Bio Methane,Water waste,Waste water,1297.4995727792734
+2019,Water waste,Cellulosic Ethanol,Water waste,Waste water,0.8745706936113254
+2019,Water waste,Hydrogen,Water waste,Waste water,1.3215494278995898
+2020,Solid waste,Bio Methane,Solid waste,Green Bin,356.01318968216617
+2020,Water waste,Bio Methane,Water waste,Waste water,1305.7805657279912
+2020,Water waste,Cellulosic Ethanol,Water waste,Waste water,0.9904699138217284
+2020,Water waste,Hydrogen,Water waste,Waste water,1.4048542834556212
+2021,Solid waste,Bio Methane,Solid waste,Green Bin,442.1538138780437
+2021,Water waste,Bio Methane,Water waste,Waste water,1313.8806592297753
+2021,Water waste,Cellulosic Ethanol,Water waste,Waste water,1.175494649610378
+2021,Water waste,Hydrogen,Water waste,Waste water,1.474587078345204
+2022,Solid waste,Bio Methane,Solid waste,Green Bin,442.21702388929424
+2022,Water waste,Bio Methane,Water waste,Waste water,1319.7051462068357
+2022,Water waste,Cellulosic Ethanol,Water waste,Waste water,1.3159614237906259
+2022,Water waste,Hydrogen,Water waste,Waste water,1.5394964819027683
+2023,District Energy,Hydrogen,Industrial building,Alkaline Electrolyser,7.494047583943304
+2023,District Energy,Hydrogen,Industrial building,Autothermal Reforming Gas,12.664280842968584
+2023,District Energy,Hydrogen,Industrial building,Steam Methane Reforming,26.422426120502735
+2023,Solid waste,Bio Methane,Solid waste,Green Bin,139.6287002937303
+2023,Solid waste,Bio Methane,Solid waste,Landfill,52.865533306779
+2023,Solid waste,Cellulosic Ethanol,Solid waste,Green Bin,0.30782787101609976
+2023,Solid waste,Hydrogen,Solid waste,Green Bin,1.1266320615900371
+2023,Water waste,Bio Methane,Water waste,Waste water,1325.4843845100781
+2023,Water waste,Cellulosic Ethanol,Water waste,Waste water,1.485151110127435
+2023,Water waste,Hydrogen,Water waste,Waste water,1.6721286938225635
+2024,District Energy,Hydrogen,Industrial building,Alkaline Electrolyser,8.159082608577155
+2024,District Energy,Hydrogen,Industrial building,Autothermal Reforming Gas,16.59748994443265
+2024,District Energy,Hydrogen,Industrial building,Steam Methane Reforming,21.480355227609902
+2024,Solid waste,Bio Methane,Solid waste,Green Bin,457.3117110438934
+2024,Solid waste,Bio Methane,Solid waste,Landfill,483.6528687974354
+2024,Solid waste,Cellulosic Ethanol,Solid waste,Green Bin,0.5307421156188284
+2024,Solid waste,Hydrogen,Solid waste,Green Bin,2.075587469086431
+2024,Water waste,Bio Methane,Water waste,Waste water,1332.029162770759
+2024,Water waste,Cellulosic Ethanol,Water waste,Waste water,1.559914353315196
+2024,Water waste,Hydrogen,Water waste,Waste water,1.7227109687603608
+2025,District Energy,Hydrogen,Industrial building,Alkaline Electrolyser,11.56386301279635
+2025,District Energy,Hydrogen,Industrial building,Autothermal Reforming Gas,7.738788921482109
+2025,District Energy,Hydrogen,Industrial building,Steam Methane Reforming,2.425399587146939
+2025,Solid waste,Bio Methane,Solid waste,Green Bin,720.712053819835
+2025,Solid waste,Bio Methane,Solid waste,Landfill,2608.5207017792986
+2025,Solid waste,Cellulosic Ethanol,Solid waste,Green Bin,0.8247594932495398
+2025,Solid waste,Hydrogen,Solid waste,Green Bin,2.9002797187353684
+2025,Water waste,Bio Methane,Water waste,Waste water,1338.5889185529281
+2025,Water waste,Cellulosic Ethanol,Water waste,Waste water,1.8708248553917908
+2025,Water waste,Hydrogen,Water waste,Waste water,2.05127331437201
+2030,District Energy,Hydrogen,Industrial building,Alkaline Electrolyser,93.62530418237995
+2030,District Energy,Hydrogen,Industrial building,Autothermal Reforming Gas,0.1573901231612635
+2030,District Energy,Hydrogen,Industrial building,Steam Methane Reforming,0.37302404129892247
+2030,Solid waste,Bio Methane,Solid waste,Green Bin,726.4044258221247
+2030,Solid waste,Bio Methane,Solid waste,Landfill,2087.227558468743
+2030,Solid waste,Cellulosic Ethanol,Solid waste,Green Bin,0.9283449998805335
+2030,Solid waste,Hydrogen,Solid waste,Green Bin,3.189767663935496
+2030,Water waste,Bio Methane,Water waste,Waste water,849.6750814404473
+2030,Water waste,Cellulosic Ethanol,Water waste,Waste water,2.5378945503348858
+2030,Water waste,Hydrogen,Water waste,Waste water,2.2612898893953846
+2035,District Energy,Hydrogen,Industrial building,Alkaline Electrolyser,94.75478223014062
+2035,District Energy,Hydrogen,Industrial building,Autothermal Reforming Gas,0.07280106378136318
+2035,District Energy,Hydrogen,Industrial building,Steam Methane Reforming,0.15963948682779772
+2035,Solid waste,Bio Methane,Solid waste,Green Bin,731.9194476764068
+2035,Solid waste,Bio Methane,Solid waste,Landfill,1666.7963618535794
+2035,Solid waste,Cellulosic Ethanol,Solid waste,Green Bin,0.18782039418983698
+2035,Solid waste,Hydrogen,Solid waste,Green Bin,3.282538078760794
+2035,Water waste,Bio Methane,Water waste,Waste water,870.355427301821
+2035,Water waste,Cellulosic Ethanol,Water waste,Waste water,1.5955253120811506
+2035,Water waste,Hydrogen,Water waste,Waste water,2.2265006784831125
+2040,District Energy,Hydrogen,Industrial building,Alkaline Electrolyser,872.0137691474307
+2040,District Energy,Hydrogen,Industrial building,Autothermal Reforming Gas,871.6597747072287
+2040,District Energy,Hydrogen,Industrial building,Steam Methane Reforming,1811.5380241703622
+2040,Solid waste,Bio Methane,Solid waste,Green Bin,735.7346441041184
+2040,Solid waste,Bio Methane,Solid waste,Landfill,1330.8587665286548
+2040,Solid waste,Cellulosic Ethanol,Solid waste,Green Bin,0.32526740125489134
+2040,Solid waste,Hydrogen,Solid waste,Green Bin,3.6659444690407237
+2040,Water waste,Bio Methane,Water waste,Waste water,888.1953368362185
+2040,Water waste,Cellulosic Ethanol,Water waste,Waste water,2.3408063386073663
+2040,Water waste,Hydrogen,Water waste,Waste water,2.5613664525657014
+2045,District Energy,Hydrogen,Industrial building,Alkaline Electrolyser,2170.001324581199
+2045,District Energy,Hydrogen,Industrial building,Autothermal Reforming Gas,2169.3680245075307
+2045,District Energy,Hydrogen,Industrial building,Steam Methane Reforming,4501.296845563718
+2045,Solid waste,Bio Methane,Solid waste,Green Bin,186.09269573823337
+2045,Solid waste,Bio Methane,Solid waste,Landfill,1062.6070730199929
+2045,Solid waste,Cellulosic Ethanol,Solid waste,Green Bin,0.30679334570773414
+2045,Solid waste,Hydrogen,Solid waste,Green Bin,421.3187457564388
+2045,Water waste,Bio Methane,Water waste,Waste water,906.8494048314934
+2045,Water waste,Cellulosic Ethanol,Water waste,Waste water,1.9661320906496231
+2045,Water waste,Hydrogen,Water waste,Waste water,4.891988898268429
+2050,District Energy,Hydrogen,Industrial building,Alkaline Electrolyser,5198.572253627776
+2050,District Energy,Hydrogen,Industrial building,Autothermal Reforming Gas,3808.4470131276134
+2050,District Energy,Hydrogen,Industrial building,Steam Methane Reforming,6661.860185219197
+2050,Solid waste,Bio Methane,Solid waste,Green Bin,189.98549879237774
+2050,Solid waste,Bio Methane,Solid waste,Landfill,847.9856259479828
+2050,Solid waste,Cellulosic Ethanol,Solid waste,Green Bin,0.6582139978659746
+2050,Solid waste,Hydrogen,Solid waste,Green Bin,421.1360920752313
+2050,Water waste,Bio Methane,Water waste,Waste water,925.2222845409274
+2050,Water waste,Cellulosic Ethanol,Water waste,Waste water,1.4526151744246134
+2050,Water waste,Hydrogen,Water waste,Waste water,5.751674617516597

@@ -1,0 +1,26 @@
+regions,tech,vintage,exist_cap,exist_cap_units,exist_cap_notes
+TO,WATWASWWABPRC_EX,1950,298.57,TJ,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,WATWASWWABTTE_EX,1950,1007.7111567263879,TJ,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,WATWASWWABADI_EX,2000,2015.4223134527758,TJ,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,WATWASWWABADIMNGA_EX,1950,10000000000.0,TJ,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,WATWASWWABUSE_EX,1950,10000000000.0,TJ,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,WATWASWWABFLR_EX,1950,10000000000.0,TJ,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,WATWASWWHCPRC_EX,1955,79.935,TJ,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,WATWASWWHCINC_EX,1955,3.7183951762523195,TJ,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,WATWASWWHCINCMNGA_EX,1955,10000000000.0,TJ,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,WATWASWWHCTTE_EX,1955,209.0721941382857,TJ,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,WATWASWWHCADI_EX,2000,418.1443882765714,TJ,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,WATWASWWHCADIMNGA_EX,1955,10000000000.0,TJ,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,WATWASWWHCUSE_EX,1955,10000000000.0,TJ,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,WATWASWWHCFLR_EX,1955,10000000000.0,TJ,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,WATWASWWHBPRC_EX,1960,172.645,TJ,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,WATWASWWHBTTE_EX,1960,561.1898990357979,TJ,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,WATWASWWHBADI_EX,2000,1122.3797980715958,TJ,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,WATWASWWHBADIMNGA_EX,1960,10000000000.0,TJ,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,WATWASWWHBUSE_EX,1960,10000000000.0,TJ,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,WATWASWWHBFLR_EX,1960,10000000000.0,TJ,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,WATWASWWNTPRC_EX,1950,14.6,TJ,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,WATWASFWRCHPRC_EX,1950,346.75,TJ,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,WATWASFWFJHPRC_EX,1980,292.0,TJ,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,WATWASFWRLCPRC_EX,1950,224.475,TJ,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,WATWASFWISDPRC_EX,1980,149.65,TJ,WaterWasteFresh waterIsland Water Treatment PlantProcess

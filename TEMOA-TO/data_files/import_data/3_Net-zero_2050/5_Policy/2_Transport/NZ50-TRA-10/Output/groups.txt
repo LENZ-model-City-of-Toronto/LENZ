@@ -1,0 +1,1 @@
+INSERT INTO`groups`VALUES('NZ50-10-PUBTRA','nan');

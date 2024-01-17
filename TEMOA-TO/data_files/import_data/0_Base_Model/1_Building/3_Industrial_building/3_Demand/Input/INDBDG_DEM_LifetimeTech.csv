@@ -1,0 +1,6 @@
+regions,tech,life,life_notes
+TO,INDBDGLI,200,IndustryBuildingLighting
+TO,INDBDGSC,200,IndustryBuildingSpace Cooling
+TO,INDBDGIP,200,IndustryBuildingIndustrial Processes
+TO,INDBDGSH,200,IndustryBuildingSpace Heating
+TO,INDBDGWH,200,IndustryBuildingWater Heating

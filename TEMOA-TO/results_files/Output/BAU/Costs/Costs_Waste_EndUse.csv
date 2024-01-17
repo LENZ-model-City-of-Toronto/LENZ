@@ -1,0 +1,986 @@
+"Discounted Investment and fixed Costs for waste sector by end use, per vintage. (k CAD 2016)"
+vintage,sector,Cost_type,Cost,EndUse,Treatment_Plant,Tech_type_1,Tech_type_2,Efficiency,Energy_cat,Costs
+1950,Water Waste,FixedCosts,Discounted,Fresh water,R.C. Harris Water Treatment Plant,Process,,,,1734760.799485731
+1950,Water Waste,FixedCosts,Discounted,Fresh water,R.L. Clark Water Treatment Plant,Process,,,,1123029.3596670788
+1950,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,,,Mix Natural gas,0.0
+1950,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Flaring,,,,0.0
+1950,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Process,,,Electricity,924713.8890331724
+1950,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Tons to Energy,,,,111512.49368245508
+1950,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Export of energy,,,,0.0
+1950,Water Waste,FixedCosts,Discounted,Waste water,North Toronto Wastewater Treatment Plant,Process,,,Electricity,24596.659690515233
+1950,Water Waste,FixedCosts,Undiscounted,Fresh water,R.C. Harris Water Treatment Plant,Process,,,,2743406.653181776
+1950,Water Waste,FixedCosts,Undiscounted,Fresh water,R.L. Clark Water Treatment Plant,Process,,,,1775994.8333755715
+1950,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,,,Mix Natural gas,0.0
+1950,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Flaring,,,,0.0
+1950,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Process,,,Electricity,1462372.35486025
+1950,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Tons to Energy,,,,176349.452427118
+1950,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Export of energy,,,,0.0
+1950,Water Waste,FixedCosts,Undiscounted,Waste water,North Toronto Wastewater Treatment Plant,Process,,,Electricity,38897.95057682388
+1955,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,,,Mix Natural gas,0.0
+1955,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Flaring,,,,0.0
+1955,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,,,Mix Natural gas,0.0
+1955,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Process,,,Electricity,276256.7961032888
+1955,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Tons to Energy,,,,23135.75827001866
+1955,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Export of energy,,,,0.0
+1955,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,,,Mix Natural gas,0.0
+1955,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Flaring,,,,0.0
+1955,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,,,Mix Natural gas,0.0
+1955,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Process,,,Electricity,436881.4032696139
+1955,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Tons to Energy,,,,36587.6339742
+1955,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Export of energy,,,,0.0
+1960,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,,,Mix Natural gas,0.0
+1960,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Flaring,,,,0.0
+1960,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Process,,,Electricity,226591.6835957332
+1960,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Tons to Energy,,,,62100.8159462886
+1960,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Export of energy,,,,0.0
+1960,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,,,Mix Natural gas,0.0
+1960,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Flaring,,,,0.0
+1960,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Process,,,Electricity,358339.39325610595
+1960,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Tons to Energy,,,,98208.23233126468
+1960,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Export of energy,,,,0.0
+1980,Water Waste,FixedCosts,Discounted,Fresh water,F.J Horgan Water Treatment Plant,Process,,,,1460851.1995669317
+1980,Water Waste,FixedCosts,Discounted,Fresh water,Island Water Treatment Plant,Process,,,,748686.2397780524
+1980,Water Waste,FixedCosts,Undiscounted,Fresh water,F.J Horgan Water Treatment Plant,Process,,,,2310237.1816267595
+1980,Water Waste,FixedCosts,Undiscounted,Fresh water,Island Water Treatment Plant,Process,,,,1183996.5555837136
+2000,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,,,Mix Natural gas,164403.38300154102
+2000,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,,,Mix Natural gas,91555.51895197398
+2000,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,,,Mix Natural gas,34109.15496812526
+2000,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,,,Mix Natural gas,197821.7617546438
+2000,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,,,Mix Natural gas,110166.06669991944
+2000,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,,,Mix Natural gas,41042.54428689859
+2015,Solid Waste,FixedCosts,Discounted,Green Bin,Compost,Biogas generation,,,,79154.54485358644
+2015,Solid Waste,FixedCosts,Discounted,Green Bin,Compost,Leaking,,,,0.0
+2015,Solid Waste,FixedCosts,Discounted,Green Bin,Dufferin,Anaerobic Digester,,,Mix Natural gas,59177.62987243984
+2015,Solid Waste,FixedCosts,Discounted,Green Bin,Dufferin,Flaring,,,,0.0
+2015,Solid Waste,FixedCosts,Discounted,Green Bin,Dufferin,Tons to Energy,,,,6086.255085692477
+2015,Solid Waste,FixedCosts,Discounted,Green Bin,Dufferin,Export of energy,,,,0.0
+2015,Solid Waste,FixedCosts,Discounted,Green Bin,Disco Road,Anaerobic Digester,,,Mix Natural gas,55854.87147632866
+2015,Solid Waste,FixedCosts,Discounted,Green Bin,Disco Road,Flaring,,,,0.0
+2015,Solid Waste,FixedCosts,Discounted,Green Bin,Disco Road,Tons to Energy,,,,8299.438753217015
+2015,Solid Waste,FixedCosts,Discounted,Green Bin,Disco Road,Export of energy,,,,0.0
+2015,Solid Waste,FixedCosts,Discounted,Landfill,MI - Arbor Hills,Biogas capture,,,,2510.343464642533
+2015,Solid Waste,FixedCosts,Discounted,Landfill,MI - Arbor Hills,Flaring,,,,0.0
+2015,Solid Waste,FixedCosts,Discounted,Landfill,MI - Arbor Hills,Biogas generation,,,,0.0
+2015,Solid Waste,FixedCosts,Discounted,Landfill,Beare Rd,Biogas capture,,,,3541.481309626909
+2015,Solid Waste,FixedCosts,Discounted,Landfill,Beare Rd,Flaring,,,,0.0
+2015,Solid Waste,FixedCosts,Discounted,Landfill,Beare Rd,Biogas generation,,,,0.0
+2015,Solid Waste,FixedCosts,Discounted,Landfill,Brock West,Biogas generation,,,,0.0
+2015,Solid Waste,FixedCosts,Discounted,Landfill,Brock West,Leaking,,,,0.0
+2015,Solid Waste,FixedCosts,Discounted,Landfill,MI - Carleton farms,Biogas capture,,,,6735.65199121288
+2015,Solid Waste,FixedCosts,Discounted,Landfill,MI - Carleton farms,Flaring,,,,0.0
+2015,Solid Waste,FixedCosts,Discounted,Landfill,MI - Carleton farms,Biogas generation,,,,0.0
+2015,Solid Waste,FixedCosts,Discounted,Landfill,Green Lane,Aggregate demand,,,,0.0
+2015,Solid Waste,FixedCosts,Discounted,Landfill,Green Lane,Biogas capture,,,,28299.447663563085
+2015,Solid Waste,FixedCosts,Discounted,Landfill,Green Lane,Flaring,,,,0.0
+2015,Solid Waste,FixedCosts,Discounted,Landfill,Green Lane,Biogas generation,,,,0.0
+2015,Solid Waste,FixedCosts,Discounted,Landfill,Keele Valley,Biogas capture,,,,20974.756662792428
+2015,Solid Waste,FixedCosts,Discounted,Landfill,Keele Valley,Flaring,,,,0.0
+2015,Solid Waste,FixedCosts,Discounted,Landfill,Keele Valley,Biogas generation,,,,0.0
+2015,Solid Waste,FixedCosts,Discounted,Landfill,Thackeray,Biogas generation,,,,0.0
+2015,Solid Waste,FixedCosts,Discounted,Landfill,Thackeray,Leaking,,,,0.0
+2015,Solid Waste,FixedCosts,Undiscounted,Green Bin,Compost,Biogas generation,,,,125177.54900000012
+2015,Solid Waste,FixedCosts,Undiscounted,Green Bin,Compost,Leaking,,,,0.0
+2015,Solid Waste,FixedCosts,Undiscounted,Green Bin,Dufferin,Anaerobic Digester,,,Mix Natural gas,86831.70758494647
+2015,Solid Waste,FixedCosts,Undiscounted,Green Bin,Dufferin,Flaring,,,,0.0
+2015,Solid Waste,FixedCosts,Undiscounted,Green Bin,Dufferin,Tons to Energy,,,,9625.0
+2015,Solid Waste,FixedCosts,Undiscounted,Green Bin,Dufferin,Export of energy,,,,0.0
+2015,Solid Waste,FixedCosts,Undiscounted,Green Bin,Disco Road,Anaerobic Digester,,,Mix Natural gas,81956.20334375818
+2015,Solid Waste,FixedCosts,Undiscounted,Green Bin,Disco Road,Flaring,,,,0.0
+2015,Solid Waste,FixedCosts,Undiscounted,Green Bin,Disco Road,Tons to Energy,,,,13125.0
+2015,Solid Waste,FixedCosts,Undiscounted,Green Bin,Disco Road,Export of energy,,,,0.0
+2015,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Arbor Hills,Biogas capture,,,,3969.938082941078
+2015,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Arbor Hills,Flaring,,,,0.0
+2015,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Arbor Hills,Biogas generation,,,,0.0
+2015,Solid Waste,FixedCosts,Undiscounted,Landfill,Beare Rd,Biogas capture,,,,5600.612712616973
+2015,Solid Waste,FixedCosts,Undiscounted,Landfill,Beare Rd,Flaring,,,,0.0
+2015,Solid Waste,FixedCosts,Undiscounted,Landfill,Beare Rd,Biogas generation,,,,0.0
+2015,Solid Waste,FixedCosts,Undiscounted,Landfill,Brock West,Biogas generation,,,,0.0
+2015,Solid Waste,FixedCosts,Undiscounted,Landfill,Brock West,Leaking,,,,0.0
+2015,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Carleton farms,Biogas capture,,,,10651.977201518774
+2015,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Carleton farms,Flaring,,,,0.0
+2015,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Carleton farms,Biogas generation,,,,0.0
+2015,Solid Waste,FixedCosts,Undiscounted,Landfill,Green Lane,Aggregate demand,,,,0.0
+2015,Solid Waste,FixedCosts,Undiscounted,Landfill,Green Lane,Biogas capture,,,,44753.65884714705
+2015,Solid Waste,FixedCosts,Undiscounted,Landfill,Green Lane,Flaring,,,,0.0
+2015,Solid Waste,FixedCosts,Undiscounted,Landfill,Green Lane,Biogas generation,,,,0.0
+2015,Solid Waste,FixedCosts,Undiscounted,Landfill,Keele Valley,Biogas capture,,,,33170.156366590665
+2015,Solid Waste,FixedCosts,Undiscounted,Landfill,Keele Valley,Flaring,,,,0.0
+2015,Solid Waste,FixedCosts,Undiscounted,Landfill,Keele Valley,Biogas generation,,,,0.0
+2015,Solid Waste,FixedCosts,Undiscounted,Landfill,Thackeray,Biogas generation,,,,0.0
+2015,Solid Waste,FixedCosts,Undiscounted,Landfill,Thackeray,Leaking,,,,0.0
+2016,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,112.47977495439228
+2016,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,125.14430341928224
+2016,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,48.27364946363143
+2016,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,110.6095168776738
+2016,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,120.05971689647674
+2016,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,48.23817422061473
+2016,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,107.29200158328014
+2016,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,113.59321248055414
+2016,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,48.14369726658228
+2016,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,167.14470310723655
+2016,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,196.42404503010573
+2016,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,71.73453903844614
+2016,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,164.3655036369872
+2016,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,188.44337771384073
+2016,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,71.68182290379802
+2016,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,159.43568306115492
+2016,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,178.29367916683643
+2016,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,71.54143035377176
+2017,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,79.47963693638624
+2017,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,104.93785793459696
+2017,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,37.315745881353934
+2017,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,78.16214338975344
+2017,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,101.68544200302831
+2017,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,37.29580278274236
+2017,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,75.76462232992161
+2017,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,96.86927639480102
+2017,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,37.2020422959737
+2017,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,121.64976622611044
+2017,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,166.59316599634508
+2017,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,57.11465147548332
+2017,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,119.63323987885788
+2017,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,161.42982191975193
+2017,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,57.08412701189193
+2017,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,115.96364741853807
+2017,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,153.78396090801525
+2017,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,56.940619294238594
+2018,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,75.56545311917837
+2018,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,90.88829733764818
+2018,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,33.61766735417459
+2018,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,74.33145229481002
+2018,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,88.60044697125191
+2018,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,33.60587748617315
+2018,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,71.90152812443398
+2018,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,84.81060588746203
+2018,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,33.51319579050804
+2018,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,119.12856755369826
+2018,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,145.94155367067984
+2018,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,52.99808829417485
+2018,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,117.18317128464876
+2018,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,142.26789659030237
+2018,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,52.97950162488769
+2018,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,113.3524077051006
+2018,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,136.18245641665126
+2018,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,52.83338938460751
+2019,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,72.11685666024918
+2019,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,79.87739728369718
+2019,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,30.482384327621045
+2019,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,70.92184424785488
+2019,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,78.0968644699356
+2019,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,30.47459923671659
+2019,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,68.47914830008186
+2019,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,75.00551059415692
+2019,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,30.386355285366992
+2019,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,117.10262825218678
+2019,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,129.7305816823439
+2019,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,49.49698982270313
+2019,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,115.16217908723463
+2019,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,126.83878042831218
+2019,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,49.48434847020506
+2019,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,111.19575391630988
+2019,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,121.818046777385
+2019,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,49.34105882740935
+2020,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,68.8182036743441
+2020,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,45.51110715111145
+2020,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,27.5908315901496
+2020,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,67.66220052916387
+2020,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,44.626050591349355
+2020,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,27.58652644729124
+2020,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,65.20467621097858
+2020,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,43.24824499014852
+2020,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,27.5030431012351
+2020,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,115.0986978900186
+2020,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,74.7621911609337
+2020,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,46.14576696533161
+2020,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,113.16527839251702
+2020,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,73.30828744706727
+2020,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,46.13856659812102
+2020,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,109.05505996259836
+2020,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,71.04493302245257
+2020,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,45.99894039584419
+2021,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,72.33464048453939
+2021,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,45.842285749783855
+2021,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,27.54013817634776
+2021,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,71.03422942931792
+2021,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,45.0043470171124
+2021,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,27.536276541397577
+2021,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,68.3003383699576
+2021,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,43.62204883907927
+2021,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,27.454534551712825
+2021,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,124.60934988446184
+2021,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,77.46063909913802
+2021,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,47.44281150628564
+2021,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,122.36915936041618
+2021,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,76.04475704402134
+2021,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,47.43615914971889
+2021,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,117.65954325836827
+2021,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,73.7090598041313
+2021,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,47.295343959035
+2022,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,68.02063731461281
+2022,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,41.2356182004884
+2022,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,24.868257545041185
+2022,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,66.82625752448553
+2022,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,40.56118180352843
+2022,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,24.867547713321112
+2022,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,64.13793685705932
+2022,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,39.344851071347925
+2022,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,24.79078516463003
+2022,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,119.17490637973872
+2022,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,70.8893408483939
+2022,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,43.570192543915354
+2022,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,117.0823047033988
+2022,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,69.72989778166931
+2022,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,43.56894889004611
+2022,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,112.37225821592769
+2022,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,67.63886853024178
+2022,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,43.43445780153399
+2023,Solid Waste,FixedCosts,Discounted,Green Bin,Compost,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2023,Solid Waste,FixedCosts,Discounted,Green Bin,Compost,Biogas upgrade,Public,Standard,___,59.565211974657686
+2023,Solid Waste,FixedCosts,Discounted,Green Bin,Compost,Biogas capture,___,___,___,20.950818992473447
+2023,Solid Waste,FixedCosts,Discounted,Green Bin,Compost,Cogeneration engine,Internal Combustion Engine,Standard,___,4.238880239564852
+2023,Solid Waste,FixedCosts,Discounted,Green Bin,Dufferin,Anaerobic Digester,Public,Standard,Mix Energy,33.879758247737314
+2023,Solid Waste,FixedCosts,Discounted,Green Bin,Dufferin,Gasification,Central,Carbon Capture Storage,Hydrogen,29.49448511808007
+2023,Solid Waste,FixedCosts,Discounted,Green Bin,Dufferin,Gasification,Enerkem,Standard,Mix Energy,36.95585059482996
+2023,Solid Waste,FixedCosts,Discounted,Green Bin,Disco Road,Anaerobic Digester,Public,Standard,Mix Energy,34.13894773043267
+2023,Solid Waste,FixedCosts,Discounted,Green Bin,Disco Road,Gasification,Central,Carbon Capture Storage,Hydrogen,29.628052163242316
+2023,Solid Waste,FixedCosts,Discounted,Green Bin,Disco Road,Gasification,Enerkem,Standard,Mix Energy,37.233937540959985
+2023,Solid Waste,FixedCosts,Discounted,Landfill,MI - Arbor Hills,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2023,Solid Waste,FixedCosts,Discounted,Landfill,MI - Arbor Hills,Biogas upgrade,Public,Standard,___,55.264096556198844
+2023,Solid Waste,FixedCosts,Discounted,Landfill,MI - Arbor Hills,Biogas capture,___,___,___,14.196600044391928
+2023,Solid Waste,FixedCosts,Discounted,Landfill,MI - Arbor Hills,Cogeneration engine,Internal Combustion Engine,Standard,___,10.01341466298489
+2023,Solid Waste,FixedCosts,Discounted,Landfill,Beare Rd,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2023,Solid Waste,FixedCosts,Discounted,Landfill,Beare Rd,Biogas upgrade,Public,Standard,___,56.5750117770151
+2023,Solid Waste,FixedCosts,Discounted,Landfill,Beare Rd,Biogas capture,___,___,___,14.429995859495795
+2023,Solid Waste,FixedCosts,Discounted,Landfill,Beare Rd,Cogeneration engine,Internal Combustion Engine,Standard,___,10.142946648137633
+2023,Solid Waste,FixedCosts,Discounted,Landfill,Brock West,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2023,Solid Waste,FixedCosts,Discounted,Landfill,Brock West,Biogas upgrade,Public,Standard,___,55.4746819287344
+2023,Solid Waste,FixedCosts,Discounted,Landfill,Brock West,Biogas capture,___,___,___,19.646711598129578
+2023,Solid Waste,FixedCosts,Discounted,Landfill,Brock West,Cogeneration engine,Internal Combustion Engine,Standard,___,10.451680014722092
+2023,Solid Waste,FixedCosts,Discounted,Landfill,MI - Carleton farms,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2023,Solid Waste,FixedCosts,Discounted,Landfill,MI - Carleton farms,Biogas upgrade,Public,Standard,___,58.806936475849696
+2023,Solid Waste,FixedCosts,Discounted,Landfill,MI - Carleton farms,Biogas capture,___,___,___,14.883150118148464
+2023,Solid Waste,FixedCosts,Discounted,Landfill,MI - Carleton farms,Cogeneration engine,Internal Combustion Engine,Standard,___,10.359480424947336
+2023,Solid Waste,FixedCosts,Discounted,Landfill,Green Lane,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2023,Solid Waste,FixedCosts,Discounted,Landfill,Green Lane,Biogas upgrade,Public,Standard,___,1022.8957316361825
+2023,Solid Waste,FixedCosts,Discounted,Landfill,Green Lane,Biogas capture,___,___,___,15.452476996775932
+2023,Solid Waste,FixedCosts,Discounted,Landfill,Green Lane,Cogeneration engine,Internal Combustion Engine,Standard,___,4.266085518694677
+2023,Solid Waste,FixedCosts,Discounted,Landfill,Keele Valley,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2023,Solid Waste,FixedCosts,Discounted,Landfill,Keele Valley,Biogas upgrade,Public,Standard,___,932.9583438269461
+2023,Solid Waste,FixedCosts,Discounted,Landfill,Keele Valley,Biogas capture,___,___,___,15.414146226623089
+2023,Solid Waste,FixedCosts,Discounted,Landfill,Keele Valley,Cogeneration engine,Internal Combustion Engine,Standard,___,4.265987031334213
+2023,Solid Waste,FixedCosts,Discounted,Landfill,Thackeray,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2023,Solid Waste,FixedCosts,Discounted,Landfill,Thackeray,Biogas upgrade,Public,Standard,___,47.5179195052605
+2023,Solid Waste,FixedCosts,Discounted,Landfill,Thackeray,Biogas capture,___,___,___,15.984783059702734
+2023,Solid Waste,FixedCosts,Discounted,Landfill,Thackeray,Cogeneration engine,Internal Combustion Engine,Standard,___,9.409116136904808
+2023,Solid Waste,FixedCosts,Undiscounted,Green Bin,Compost,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2023,Solid Waste,FixedCosts,Undiscounted,Green Bin,Compost,Biogas upgrade,Public,Standard,___,106.1319495753779
+2023,Solid Waste,FixedCosts,Undiscounted,Green Bin,Compost,Biogas capture,___,___,___,37.32969616255345
+2023,Solid Waste,FixedCosts,Undiscounted,Green Bin,Compost,Cogeneration engine,Internal Combustion Engine,Standard,___,7.552741087078925
+2023,Solid Waste,FixedCosts,Undiscounted,Green Bin,Dufferin,Anaerobic Digester,Public,Standard,Mix Energy,60.366188162054534
+2023,Solid Waste,FixedCosts,Undiscounted,Green Bin,Dufferin,Gasification,Central,Carbon Capture Storage,Hydrogen,51.58584523930427
+2023,Solid Waste,FixedCosts,Undiscounted,Green Bin,Dufferin,Gasification,Enerkem,Standard,Mix Energy,65.8471000407824
+2023,Solid Waste,FixedCosts,Undiscounted,Green Bin,Disco Road,Anaerobic Digester,Public,Standard,Mix Energy,60.0544394150708
+2023,Solid Waste,FixedCosts,Undiscounted,Green Bin,Disco Road,Gasification,Central,Carbon Capture Storage,Hydrogen,51.81945395948453
+2023,Solid Waste,FixedCosts,Undiscounted,Green Bin,Disco Road,Gasification,Enerkem,Standard,Mix Energy,66.34258908154662
+2023,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Arbor Hills,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2023,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Arbor Hills,Biogas upgrade,Public,Standard,___,98.46831925196079
+2023,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Arbor Hills,Biogas capture,___,___,___,25.295181366839596
+2023,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Arbor Hills,Cogeneration engine,Internal Combustion Engine,Standard,___,17.841676120306794
+2023,Solid Waste,FixedCosts,Undiscounted,Landfill,Beare Rd,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2023,Solid Waste,FixedCosts,Undiscounted,Landfill,Beare Rd,Biogas upgrade,Public,Standard,___,100.80407838889562
+2023,Solid Waste,FixedCosts,Undiscounted,Landfill,Beare Rd,Biogas capture,___,___,___,25.71104075957116
+2023,Solid Waste,FixedCosts,Undiscounted,Landfill,Beare Rd,Cogeneration engine,Internal Combustion Engine,Standard,___,18.072473286318356
+2023,Solid Waste,FixedCosts,Undiscounted,Landfill,Brock West,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2023,Solid Waste,FixedCosts,Undiscounted,Landfill,Brock West,Biogas upgrade,Public,Standard,___,98.843535513237
+2023,Solid Waste,FixedCosts,Undiscounted,Landfill,Brock West,Biogas capture,___,___,___,35.00606705709056
+2023,Solid Waste,FixedCosts,Undiscounted,Landfill,Brock West,Cogeneration engine,Internal Combustion Engine,Standard,___,18.622567426980854
+2023,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Carleton farms,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2023,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Carleton farms,Biogas upgrade,Public,Standard,___,104.78087141522674
+2023,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Carleton farms,Biogas capture,___,___,___,26.518460784361043
+2023,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Carleton farms,Cogeneration engine,Internal Combustion Engine,Standard,___,18.45828828000144
+2023,Solid Waste,FixedCosts,Undiscounted,Landfill,Green Lane,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2023,Solid Waste,FixedCosts,Undiscounted,Landfill,Green Lane,Biogas upgrade,Public,Standard,___,1822.5725152639232
+2023,Solid Waste,FixedCosts,Undiscounted,Landfill,Green Lane,Biogas capture,___,___,___,27.53287455997398
+2023,Solid Waste,FixedCosts,Undiscounted,Landfill,Green Lane,Cogeneration engine,Internal Combustion Engine,Standard,___,7.6012148390739505
+2023,Solid Waste,FixedCosts,Undiscounted,Landfill,Keele Valley,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2023,Solid Waste,FixedCosts,Undiscounted,Landfill,Keele Valley,Biogas upgrade,Public,Standard,___,1662.3241086608853
+2023,Solid Waste,FixedCosts,Undiscounted,Landfill,Keele Valley,Biogas capture,___,___,___,27.464577659313612
+2023,Solid Waste,FixedCosts,Undiscounted,Landfill,Keele Valley,Cogeneration engine,Internal Combustion Engine,Standard,___,7.60103935651915
+2023,Solid Waste,FixedCosts,Undiscounted,Landfill,Thackeray,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2023,Solid Waste,FixedCosts,Undiscounted,Landfill,Thackeray,Biogas upgrade,Public,Standard,___,84.66635590929843
+2023,Solid Waste,FixedCosts,Undiscounted,Landfill,Thackeray,Biogas capture,___,___,___,28.48132548218763
+2023,Solid Waste,FixedCosts,Undiscounted,Landfill,Thackeray,Cogeneration engine,Internal Combustion Engine,Standard,___,16.76495065300394
+2023,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,63.59453959050548
+2023,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,36.574613946687904
+2023,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,22.251493516239965
+2023,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,62.51385648001583
+2023,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,36.05581220013715
+2023,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,22.253975010896816
+2023,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,59.86876327684155
+2023,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,35.00512699861091
+2023,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,22.18226731896524
+2023,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,113.31131452970357
+2023,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,63.96898834435248
+2023,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,39.647208656743814
+2023,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,111.38577776777196
+2023,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,63.06160425202796
+2023,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,39.65163012788547
+2023,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,106.67281043071446
+2023,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,61.22395616343886
+2023,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,39.523862981728286
+2024,Solid Waste,FixedCosts,Discounted,Green Bin,Compost,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2024,Solid Waste,FixedCosts,Discounted,Green Bin,Compost,Biogas upgrade,Public,Standard,___,48.547426698283324
+2024,Solid Waste,FixedCosts,Discounted,Green Bin,Compost,Biogas capture,___,___,___,16.94816408945352
+2024,Solid Waste,FixedCosts,Discounted,Green Bin,Compost,Cogeneration engine,Internal Combustion Engine,Standard,___,3.711007642347018
+2024,Solid Waste,FixedCosts,Discounted,Green Bin,Dufferin,Anaerobic Digester,Public,Standard,Mix Energy,29.57018305050407
+2024,Solid Waste,FixedCosts,Discounted,Green Bin,Dufferin,Gasification,Central,Carbon Capture Storage,Hydrogen,24.718774411206617
+2024,Solid Waste,FixedCosts,Discounted,Green Bin,Dufferin,Gasification,Enerkem,Standard,Mix Energy,30.683884762788747
+2024,Solid Waste,FixedCosts,Discounted,Green Bin,Disco Road,Anaerobic Digester,Public,Standard,Mix Energy,29.782517074011004
+2024,Solid Waste,FixedCosts,Discounted,Green Bin,Disco Road,Gasification,Central,Carbon Capture Storage,Hydrogen,24.8216565983026
+2024,Solid Waste,FixedCosts,Discounted,Green Bin,Disco Road,Gasification,Enerkem,Standard,Mix Energy,30.89406430110605
+2024,Solid Waste,FixedCosts,Discounted,Landfill,MI - Arbor Hills,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2024,Solid Waste,FixedCosts,Discounted,Landfill,MI - Arbor Hills,Biogas upgrade,Public,Standard,___,46.3458088879408
+2024,Solid Waste,FixedCosts,Discounted,Landfill,MI - Arbor Hills,Biogas capture,___,___,___,12.362450495810176
+2024,Solid Waste,FixedCosts,Discounted,Landfill,MI - Arbor Hills,Cogeneration engine,Internal Combustion Engine,Standard,___,8.728666692760616
+2024,Solid Waste,FixedCosts,Discounted,Landfill,Beare Rd,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2024,Solid Waste,FixedCosts,Discounted,Landfill,Beare Rd,Biogas upgrade,Public,Standard,___,47.43798585202898
+2024,Solid Waste,FixedCosts,Discounted,Landfill,Beare Rd,Biogas capture,___,___,___,12.571714394970272
+2024,Solid Waste,FixedCosts,Discounted,Landfill,Beare Rd,Cogeneration engine,Internal Combustion Engine,Standard,___,8.843924494926334
+2024,Solid Waste,FixedCosts,Discounted,Landfill,Brock West,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2024,Solid Waste,FixedCosts,Discounted,Landfill,Brock West,Biogas upgrade,Public,Standard,___,47.436177908713844
+2024,Solid Waste,FixedCosts,Discounted,Landfill,Brock West,Biogas capture,___,___,___,16.052639562433477
+2024,Solid Waste,FixedCosts,Discounted,Landfill,Brock West,Cogeneration engine,Internal Combustion Engine,Standard,___,9.130035723124472
+2024,Solid Waste,FixedCosts,Discounted,Landfill,MI - Carleton farms,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2024,Solid Waste,FixedCosts,Discounted,Landfill,MI - Carleton farms,Biogas upgrade,Public,Standard,___,49.310145695023
+2024,Solid Waste,FixedCosts,Discounted,Landfill,MI - Carleton farms,Biogas capture,___,___,___,12.969772428552682
+2024,Solid Waste,FixedCosts,Discounted,Landfill,MI - Carleton farms,Cogeneration engine,Internal Combustion Engine,Standard,___,9.036791390181302
+2024,Solid Waste,FixedCosts,Discounted,Landfill,Green Lane,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2024,Solid Waste,FixedCosts,Discounted,Landfill,Green Lane,Biogas upgrade,Public,Standard,___,98.17647552402542
+2024,Solid Waste,FixedCosts,Discounted,Landfill,Green Lane,Biogas capture,___,___,___,13.534732656174176
+2024,Solid Waste,FixedCosts,Discounted,Landfill,Green Lane,Cogeneration engine,Internal Combustion Engine,Standard,___,3.728185347547941
+2024,Solid Waste,FixedCosts,Discounted,Landfill,Keele Valley,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2024,Solid Waste,FixedCosts,Discounted,Landfill,Keele Valley,Biogas upgrade,Public,Standard,___,96.69306298941092
+2024,Solid Waste,FixedCosts,Discounted,Landfill,Keele Valley,Biogas capture,___,___,___,13.442060531976583
+2024,Solid Waste,FixedCosts,Discounted,Landfill,Keele Valley,Cogeneration engine,Internal Combustion Engine,Standard,___,3.7280827384719863
+2024,Solid Waste,FixedCosts,Discounted,Landfill,Thackeray,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2024,Solid Waste,FixedCosts,Discounted,Landfill,Thackeray,Biogas upgrade,Public,Standard,___,40.52862666625748
+2024,Solid Waste,FixedCosts,Discounted,Landfill,Thackeray,Biogas capture,___,___,___,13.086594844989762
+2024,Solid Waste,FixedCosts,Discounted,Landfill,Thackeray,Cogeneration engine,Internal Combustion Engine,Standard,___,8.196046802030923
+2024,Solid Waste,FixedCosts,Undiscounted,Green Bin,Compost,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2024,Solid Waste,FixedCosts,Undiscounted,Green Bin,Compost,Biogas upgrade,Public,Standard,___,87.96267459629392
+2024,Solid Waste,FixedCosts,Undiscounted,Green Bin,Compost,Biogas capture,___,___,___,30.708236135158742
+2024,Solid Waste,FixedCosts,Undiscounted,Green Bin,Compost,Cogeneration engine,Internal Combustion Engine,Standard,___,6.723943571651214
+2024,Solid Waste,FixedCosts,Undiscounted,Green Bin,Dufferin,Anaerobic Digester,Public,Standard,Mix Energy,53.57796625534246
+2024,Solid Waste,FixedCosts,Undiscounted,Green Bin,Dufferin,Gasification,Central,Carbon Capture Storage,Hydrogen,43.98330228236061
+2024,Solid Waste,FixedCosts,Undiscounted,Green Bin,Dufferin,Gasification,Enerkem,Standard,Mix Energy,55.5958730318204
+2024,Solid Waste,FixedCosts,Undiscounted,Green Bin,Disco Road,Anaerobic Digester,Public,Standard,Mix Energy,53.96269248875417
+2024,Solid Waste,FixedCosts,Undiscounted,Green Bin,Disco Road,Gasification,Central,Carbon Capture Storage,Hydrogen,44.16636549816721
+2024,Solid Waste,FixedCosts,Undiscounted,Green Bin,Disco Road,Gasification,Enerkem,Standard,Mix Energy,55.976695571616474
+2024,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Arbor Hills,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2024,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Arbor Hills,Biogas upgrade,Public,Standard,___,83.97358178113524
+2024,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Arbor Hills,Biogas capture,___,___,___,22.399420198603348
+2024,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Arbor Hills,Cogeneration engine,Internal Combustion Engine,Standard,___,15.815397852631412
+2024,Solid Waste,FixedCosts,Undiscounted,Landfill,Beare Rd,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2024,Solid Waste,FixedCosts,Undiscounted,Landfill,Beare Rd,Biogas upgrade,Public,Standard,___,85.95248804718156
+2024,Solid Waste,FixedCosts,Undiscounted,Landfill,Beare Rd,Biogas capture,___,___,___,22.77858369950261
+2024,Solid Waste,FixedCosts,Undiscounted,Landfill,Beare Rd,Cogeneration engine,Internal Combustion Engine,Standard,___,16.024232496115115
+2024,Solid Waste,FixedCosts,Undiscounted,Landfill,Brock West,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2024,Solid Waste,FixedCosts,Undiscounted,Landfill,Brock West,Biogas upgrade,Public,Standard,___,85.94921224987708
+2024,Solid Waste,FixedCosts,Undiscounted,Landfill,Brock West,Biogas capture,___,___,___,29.08564276779392
+2024,Solid Waste,FixedCosts,Undiscounted,Landfill,Brock West,Cogeneration engine,Internal Combustion Engine,Standard,___,16.542635026917612
+2024,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Carleton farms,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2024,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Carleton farms,Biogas upgrade,Public,Standard,___,89.34463873901944
+2024,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Carleton farms,Biogas capture,___,___,___,23.499821706535595
+2024,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Carleton farms,Cogeneration engine,Internal Combustion Engine,Standard,___,16.373686403386994
+2024,Solid Waste,FixedCosts,Undiscounted,Landfill,Green Lane,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2024,Solid Waste,FixedCosts,Undiscounted,Landfill,Green Lane,Biogas upgrade,Public,Standard,___,177.8851312388146
+2024,Solid Waste,FixedCosts,Undiscounted,Landfill,Green Lane,Biogas capture,___,___,___,24.52346839683226
+2024,Solid Waste,FixedCosts,Undiscounted,Landfill,Green Lane,Cogeneration engine,Internal Combustion Engine,Standard,___,6.755067711397909
+2024,Solid Waste,FixedCosts,Undiscounted,Landfill,Keele Valley,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2024,Solid Waste,FixedCosts,Undiscounted,Landfill,Keele Valley,Biogas upgrade,Public,Standard,___,175.19734852923236
+2024,Solid Waste,FixedCosts,Undiscounted,Landfill,Keele Valley,Biogas capture,___,___,___,24.35555655352074
+2024,Solid Waste,FixedCosts,Undiscounted,Landfill,Keele Valley,Cogeneration engine,Internal Combustion Engine,Standard,___,6.754881794875188
+2024,Solid Waste,FixedCosts,Undiscounted,Landfill,Thackeray,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2024,Solid Waste,FixedCosts,Undiscounted,Landfill,Thackeray,Biogas upgrade,Public,Standard,___,73.43347818278386
+2024,Solid Waste,FixedCosts,Undiscounted,Landfill,Thackeray,Biogas capture,___,___,___,23.711491261473533
+2024,Solid Waste,FixedCosts,Undiscounted,Landfill,Thackeray,Cogeneration engine,Internal Combustion Engine,Standard,___,14.850348347063568
+2024,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,59.278724592477694
+2024,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,32.040794674698844
+2024,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,19.686519747939784
+2024,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,58.14774622640201
+2024,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,31.594198904387415
+2024,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,19.686119879441
+2024,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,55.63480667354454
+2024,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,30.706499017263617
+2024,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,19.62139893395448
+2024,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,107.40662309905343
+2024,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,57.0117245337787
+2024,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,35.669839748329544
+2024,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,105.35741289870968
+2024,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,56.21707523455106
+2024,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,35.66911522995583
+2024,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,100.80423883364692
+2024,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,54.63754819887077
+2024,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,35.551847892537985
+2025,Solid Waste,FixedCosts,Discounted,Green Bin,Compost,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2025,Solid Waste,FixedCosts,Discounted,Green Bin,Compost,Biogas upgrade,Public,Standard,___,39.3031876518417
+2025,Solid Waste,FixedCosts,Discounted,Green Bin,Compost,Biogas capture,___,___,___,13.636185599174672
+2025,Solid Waste,FixedCosts,Discounted,Green Bin,Compost,Cogeneration engine,Internal Combustion Engine,Standard,___,3.1921239966268193
+2025,Solid Waste,FixedCosts,Discounted,Green Bin,Dufferin,Anaerobic Digester,Public,Standard,Mix Energy,24.56649195319696
+2025,Solid Waste,FixedCosts,Discounted,Green Bin,Dufferin,Gasification,Central,Carbon Capture Storage,Hydrogen,20.88375051952996
+2025,Solid Waste,FixedCosts,Discounted,Green Bin,Dufferin,Gasification,Enerkem,Standard,Mix Energy,24.956548090634623
+2025,Solid Waste,FixedCosts,Discounted,Green Bin,Disco Road,Anaerobic Digester,Public,Standard,Mix Energy,24.734661431802294
+2025,Solid Waste,FixedCosts,Discounted,Green Bin,Disco Road,Gasification,Central,Carbon Capture Storage,Hydrogen,20.966388070269012
+2025,Solid Waste,FixedCosts,Discounted,Green Bin,Disco Road,Gasification,Enerkem,Standard,Mix Energy,25.083589059215218
+2025,Solid Waste,FixedCosts,Discounted,Landfill,MI - Arbor Hills,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2025,Solid Waste,FixedCosts,Discounted,Landfill,MI - Arbor Hills,Biogas upgrade,Public,Standard,___,38.74894648635058
+2025,Solid Waste,FixedCosts,Discounted,Landfill,MI - Arbor Hills,Biogas capture,___,___,___,10.50377377502153
+2025,Solid Waste,FixedCosts,Discounted,Landfill,MI - Arbor Hills,Cogeneration engine,Internal Combustion Engine,Standard,___,7.459513187775645
+2025,Solid Waste,FixedCosts,Discounted,Landfill,Beare Rd,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2025,Solid Waste,FixedCosts,Discounted,Landfill,Beare Rd,Biogas upgrade,Public,Standard,___,39.6619476766862
+2025,Solid Waste,FixedCosts,Discounted,Landfill,Beare Rd,Biogas capture,___,___,___,10.691533746418918
+2025,Solid Waste,FixedCosts,Discounted,Landfill,Beare Rd,Cogeneration engine,Internal Combustion Engine,Standard,___,7.559896124545362
+2025,Solid Waste,FixedCosts,Discounted,Landfill,Brock West,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2025,Solid Waste,FixedCosts,Discounted,Landfill,Brock West,Biogas upgrade,Public,Standard,___,40.20287049679929
+2025,Solid Waste,FixedCosts,Discounted,Landfill,Brock West,Biogas capture,___,___,___,13.125780139249589
+2025,Solid Waste,FixedCosts,Discounted,Landfill,Brock West,Cogeneration engine,Internal Combustion Engine,Standard,___,7.816816362432913
+2025,Solid Waste,FixedCosts,Discounted,Landfill,MI - Carleton farms,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2025,Solid Waste,FixedCosts,Discounted,Landfill,MI - Carleton farms,Biogas upgrade,Public,Standard,___,41.234899770750644
+2025,Solid Waste,FixedCosts,Discounted,Landfill,MI - Carleton farms,Biogas capture,___,___,___,11.041769594928322
+2025,Solid Waste,FixedCosts,Discounted,Landfill,MI - Carleton farms,Cogeneration engine,Internal Combustion Engine,Standard,___,7.727782328552423
+2025,Solid Waste,FixedCosts,Discounted,Landfill,Green Lane,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2025,Solid Waste,FixedCosts,Discounted,Landfill,Green Lane,Biogas upgrade,Public,Standard,___,62.695207559837314
+2025,Solid Waste,FixedCosts,Discounted,Landfill,Green Lane,Biogas capture,___,___,___,11.614690671539147
+2025,Solid Waste,FixedCosts,Discounted,Landfill,Green Lane,Cogeneration engine,Internal Combustion Engine,Standard,___,3.2067275971589835
+2025,Solid Waste,FixedCosts,Discounted,Landfill,Keele Valley,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2025,Solid Waste,FixedCosts,Discounted,Landfill,Keele Valley,Biogas upgrade,Public,Standard,___,61.6132013412454
+2025,Solid Waste,FixedCosts,Discounted,Landfill,Keele Valley,Biogas capture,___,___,___,11.466107759557278
+2025,Solid Waste,FixedCosts,Discounted,Landfill,Keele Valley,Cogeneration engine,Internal Combustion Engine,Standard,___,3.2066189795350635
+2025,Solid Waste,FixedCosts,Discounted,Landfill,Thackeray,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2025,Solid Waste,FixedCosts,Discounted,Landfill,Thackeray,Biogas upgrade,Public,Standard,___,34.22879960519638
+2025,Solid Waste,FixedCosts,Discounted,Landfill,Thackeray,Biogas capture,___,___,___,10.724762625119798
+2025,Solid Waste,FixedCosts,Discounted,Landfill,Thackeray,Cogeneration engine,Internal Combustion Engine,Standard,___,6.999203091700807
+2025,Solid Waste,FixedCosts,Undiscounted,Green Bin,Compost,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2025,Solid Waste,FixedCosts,Undiscounted,Green Bin,Compost,Biogas upgrade,Public,Standard,___,72.4115941402565
+2025,Solid Waste,FixedCosts,Undiscounted,Green Bin,Compost,Biogas capture,___,___,___,25.123100598746923
+2025,Solid Waste,FixedCosts,Undiscounted,Green Bin,Compost,Cogeneration engine,Internal Combustion Engine,Standard,___,5.881120618934925
+2025,Solid Waste,FixedCosts,Undiscounted,Green Bin,Dufferin,Anaerobic Digester,Public,Standard,Mix Energy,45.26093050066942
+2025,Solid Waste,FixedCosts,Undiscounted,Green Bin,Dufferin,Gasification,Central,Carbon Capture Storage,Hydrogen,37.80358506465433
+2025,Solid Waste,FixedCosts,Undiscounted,Green Bin,Dufferin,Gasification,Enerkem,Standard,Mix Energy,45.9795639857254
+2025,Solid Waste,FixedCosts,Undiscounted,Green Bin,Disco Road,Anaerobic Digester,Public,Standard,Mix Energy,45.57076338596663
+2025,Solid Waste,FixedCosts,Undiscounted,Green Bin,Disco Road,Gasification,Central,Carbon Capture Storage,Hydrogen,37.953174846239634
+2025,Solid Waste,FixedCosts,Undiscounted,Green Bin,Disco Road,Gasification,Enerkem,Standard,Mix Energy,45.61946627540415
+2025,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Arbor Hills,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2025,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Arbor Hills,Biogas upgrade,Public,Standard,___,71.39046866089646
+2025,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Arbor Hills,Biogas capture,___,___,___,19.351992776654303
+2025,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Arbor Hills,Cogeneration engine,Internal Combustion Engine,Standard,___,13.743293450443328
+2025,Solid Waste,FixedCosts,Undiscounted,Landfill,Beare Rd,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2025,Solid Waste,FixedCosts,Undiscounted,Landfill,Beare Rd,Biogas upgrade,Public,Standard,___,73.07256814427144
+2025,Solid Waste,FixedCosts,Undiscounted,Landfill,Beare Rd,Biogas capture,___,___,___,19.697918887407727
+2025,Solid Waste,FixedCosts,Undiscounted,Landfill,Beare Rd,Cogeneration engine,Internal Combustion Engine,Standard,___,13.928237443799937
+2025,Solid Waste,FixedCosts,Undiscounted,Landfill,Brock West,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2025,Solid Waste,FixedCosts,Undiscounted,Landfill,Brock West,Biogas upgrade,Public,Standard,___,74.06915610701387
+2025,Solid Waste,FixedCosts,Undiscounted,Landfill,Brock West,Biogas capture,___,___,___,24.18273735547868
+2025,Solid Waste,FixedCosts,Undiscounted,Landfill,Brock West,Cogeneration engine,Internal Combustion Engine,Standard,___,14.401583375868622
+2025,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Carleton farms,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2025,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Carleton farms,Biogas upgrade,Public,Standard,___,75.9705511182332
+2025,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Carleton farms,Biogas capture,___,___,___,20.343188078809888
+2025,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Carleton farms,Cogeneration engine,Internal Combustion Engine,Standard,___,14.23754842829302
+2025,Solid Waste,FixedCosts,Undiscounted,Landfill,Green Lane,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2025,Solid Waste,FixedCosts,Undiscounted,Landfill,Green Lane,Biogas upgrade,Public,Standard,___,115.50869523809091
+2025,Solid Waste,FixedCosts,Undiscounted,Landfill,Green Lane,Biogas capture,___,___,___,21.39872914182588
+2025,Solid Waste,FixedCosts,Undiscounted,Landfill,Green Lane,Cogeneration engine,Internal Combustion Engine,Standard,___,5.908026070067511
+2025,Solid Waste,FixedCosts,Undiscounted,Landfill,Keele Valley,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2025,Solid Waste,FixedCosts,Undiscounted,Landfill,Keele Valley,Biogas upgrade,Public,Standard,___,113.51522346547148
+2025,Solid Waste,FixedCosts,Undiscounted,Landfill,Keele Valley,Biogas capture,___,___,___,21.12498224847168
+2025,Solid Waste,FixedCosts,Undiscounted,Landfill,Keele Valley,Cogeneration engine,Internal Combustion Engine,Standard,___,5.907825954612006
+2025,Solid Waste,FixedCosts,Undiscounted,Landfill,Thackeray,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2025,Solid Waste,FixedCosts,Undiscounted,Landfill,Thackeray,Biogas upgrade,Public,Standard,___,63.06261891212048
+2025,Solid Waste,FixedCosts,Undiscounted,Landfill,Thackeray,Biogas capture,___,___,___,19.75913926727967
+2025,Solid Waste,FixedCosts,Undiscounted,Landfill,Thackeray,Cogeneration engine,Internal Combustion Engine,Standard,___,12.895225142322984
+2025,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,54.729271383774304
+2025,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,27.502757316264116
+2025,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,17.148818775853695
+2025,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,53.48235432209963
+2025,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,27.090102176715128
+2025,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,17.14456388620962
+2025,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,51.10824722098257
+2025,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,26.352471035452368
+2025,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,17.08490922329373
+2025,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,100.83237578945118
+2025,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,49.78525407807523
+2025,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,31.59472244800836
+2025,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,98.53507479197556
+2025,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,49.038269303682426
+2025,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,31.586883304151957
+2025,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,94.16105603872732
+2025,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,47.70301577395905
+2025,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,31.476976462042757
+2030,Solid Waste,FixedCosts,Discounted,Green Bin,Compost,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2030,Solid Waste,FixedCosts,Discounted,Green Bin,Compost,Biogas upgrade,Public,Standard,___,29.848038802673898
+2030,Solid Waste,FixedCosts,Discounted,Green Bin,Compost,Biogas capture,___,___,___,10.425422621896972
+2030,Solid Waste,FixedCosts,Discounted,Green Bin,Compost,Cogeneration engine,Internal Combustion Engine,Standard,___,2.655054180269359
+2030,Solid Waste,FixedCosts,Discounted,Green Bin,Dufferin,Anaerobic Digester,Public,Standard,Mix Energy,20.4362345774289
+2030,Solid Waste,FixedCosts,Discounted,Green Bin,Dufferin,Gasification,Central,Carbon Capture Storage,Hydrogen,17.410729008254467
+2030,Solid Waste,FixedCosts,Discounted,Green Bin,Dufferin,Gasification,Enerkem,Standard,Mix Energy,20.629140604783174
+2030,Solid Waste,FixedCosts,Discounted,Green Bin,Disco Road,Anaerobic Digester,Public,Standard,Mix Energy,20.57445408462939
+2030,Solid Waste,FixedCosts,Discounted,Green Bin,Disco Road,Gasification,Central,Carbon Capture Storage,Hydrogen,17.477468823996
+2030,Solid Waste,FixedCosts,Discounted,Green Bin,Disco Road,Gasification,Enerkem,Standard,Mix Energy,20.76088061119935
+2030,Solid Waste,FixedCosts,Discounted,Landfill,MI - Arbor Hills,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2030,Solid Waste,FixedCosts,Discounted,Landfill,MI - Arbor Hills,Biogas upgrade,Public,Standard,___,31.669029462766506
+2030,Solid Waste,FixedCosts,Discounted,Landfill,MI - Arbor Hills,Biogas capture,___,___,___,8.624784289234128
+2030,Solid Waste,FixedCosts,Discounted,Landfill,MI - Arbor Hills,Cogeneration engine,Internal Combustion Engine,Standard,___,6.149837794106696
+2030,Solid Waste,FixedCosts,Discounted,Landfill,Beare Rd,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2030,Solid Waste,FixedCosts,Discounted,Landfill,Beare Rd,Biogas upgrade,Public,Standard,___,32.45977135523073
+2030,Solid Waste,FixedCosts,Discounted,Landfill,Beare Rd,Biogas capture,___,___,___,8.792342244212083
+2030,Solid Waste,FixedCosts,Discounted,Landfill,Beare Rd,Cogeneration engine,Internal Combustion Engine,Standard,___,6.238154737321635
+2030,Solid Waste,FixedCosts,Discounted,Landfill,Brock West,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2030,Solid Waste,FixedCosts,Discounted,Landfill,Brock West,Biogas upgrade,Public,Standard,___,33.06992525790941
+2030,Solid Waste,FixedCosts,Discounted,Landfill,Brock West,Biogas capture,___,___,___,10.914639681624408
+2030,Solid Waste,FixedCosts,Discounted,Landfill,Brock West,Cogeneration engine,Internal Combustion Engine,Standard,___,6.463923623390881
+2030,Solid Waste,FixedCosts,Discounted,Landfill,MI - Carleton farms,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2030,Solid Waste,FixedCosts,Discounted,Landfill,MI - Carleton farms,Biogas upgrade,Public,Standard,___,33.84002091948082
+2030,Solid Waste,FixedCosts,Discounted,Landfill,MI - Carleton farms,Biogas capture,___,___,___,9.109652025137276
+2030,Solid Waste,FixedCosts,Discounted,Landfill,MI - Carleton farms,Cogeneration engine,Internal Combustion Engine,Standard,___,6.385118612664755
+2030,Solid Waste,FixedCosts,Discounted,Landfill,Green Lane,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2030,Solid Waste,FixedCosts,Discounted,Landfill,Green Lane,Biogas upgrade,Public,Standard,___,40.56565354625501
+2030,Solid Waste,FixedCosts,Discounted,Landfill,Green Lane,Biogas capture,___,___,___,9.667106235322182
+2030,Solid Waste,FixedCosts,Discounted,Landfill,Green Lane,Cogeneration engine,Internal Combustion Engine,Standard,___,2.66386745773219
+2030,Solid Waste,FixedCosts,Discounted,Landfill,Keele Valley,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2030,Solid Waste,FixedCosts,Discounted,Landfill,Keele Valley,Biogas upgrade,Public,Standard,___,39.550607048821426
+2030,Solid Waste,FixedCosts,Discounted,Landfill,Keele Valley,Biogas capture,___,___,___,9.49234846123676
+2030,Solid Waste,FixedCosts,Discounted,Landfill,Keele Valley,Cogeneration engine,Internal Combustion Engine,Standard,___,2.6637679687025964
+2030,Solid Waste,FixedCosts,Discounted,Landfill,Thackeray,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2030,Solid Waste,FixedCosts,Discounted,Landfill,Thackeray,Biogas upgrade,Public,Standard,___,27.957723037058198
+2030,Solid Waste,FixedCosts,Discounted,Landfill,Thackeray,Biogas capture,___,___,___,8.766903849406766
+2030,Solid Waste,FixedCosts,Discounted,Landfill,Thackeray,Cogeneration engine,Internal Combustion Engine,Standard,___,5.746131456740557
+2030,Solid Waste,FixedCosts,Undiscounted,Green Bin,Compost,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2030,Solid Waste,FixedCosts,Undiscounted,Green Bin,Compost,Biogas upgrade,Public,Standard,___,59.496433894211144
+2030,Solid Waste,FixedCosts,Undiscounted,Green Bin,Compost,Biogas capture,___,___,___,20.857040099178633
+2030,Solid Waste,FixedCosts,Undiscounted,Green Bin,Compost,Cogeneration engine,Internal Combustion Engine,Standard,___,5.311686011371858
+2030,Solid Waste,FixedCosts,Undiscounted,Green Bin,Dufferin,Anaerobic Digester,Public,Standard,Mix Energy,40.8846125012147
+2030,Solid Waste,FixedCosts,Undiscounted,Green Bin,Dufferin,Gasification,Central,Carbon Capture Storage,Hydrogen,34.34592554463333
+2030,Solid Waste,FixedCosts,Undiscounted,Green Bin,Dufferin,Gasification,Enerkem,Standard,Mix Energy,41.270539181966306
+2030,Solid Waste,FixedCosts,Undiscounted,Green Bin,Disco Road,Anaerobic Digester,Public,Standard,Mix Energy,41.16113364656514
+2030,Solid Waste,FixedCosts,Undiscounted,Green Bin,Disco Road,Gasification,Central,Carbon Capture Storage,Hydrogen,34.477582337478395
+2030,Solid Waste,FixedCosts,Undiscounted,Green Bin,Disco Road,Gasification,Enerkem,Standard,Mix Energy,41.5340974755857
+2030,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Arbor Hills,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2030,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Arbor Hills,Biogas upgrade,Public,Standard,___,63.35687687323743
+2030,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Arbor Hills,Biogas capture,___,___,___,17.254693482592888
+2030,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Arbor Hills,Cogeneration engine,Internal Combustion Engine,Standard,___,12.30332986268796
+2030,Solid Waste,FixedCosts,Undiscounted,Landfill,Beare Rd,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2030,Solid Waste,FixedCosts,Undiscounted,Landfill,Beare Rd,Biogas upgrade,Public,Standard,___,64.93883052225179
+2030,Solid Waste,FixedCosts,Undiscounted,Landfill,Beare Rd,Biogas capture,___,___,___,17.589908956598833
+2030,Solid Waste,FixedCosts,Undiscounted,Landfill,Beare Rd,Cogeneration engine,Internal Combustion Engine,Standard,___,12.480016227632245
+2030,Solid Waste,FixedCosts,Undiscounted,Landfill,Brock West,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2030,Solid Waste,FixedCosts,Undiscounted,Landfill,Brock West,Biogas upgrade,Public,Standard,___,66.15950088511177
+2030,Solid Waste,FixedCosts,Undiscounted,Landfill,Brock West,Biogas capture,___,___,___,21.83576491466058
+2030,Solid Waste,FixedCosts,Undiscounted,Landfill,Brock West,Cogeneration engine,Internal Combustion Engine,Standard,___,12.931688153142764
+2030,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Carleton farms,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2030,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Carleton farms,Biogas upgrade,Public,Standard,___,67.70014980421293
+2030,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Carleton farms,Biogas capture,___,___,___,18.224717066029143
+2030,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Carleton farms,Cogeneration engine,Internal Combustion Engine,Standard,___,12.774031305229586
+2030,Solid Waste,FixedCosts,Undiscounted,Landfill,Green Lane,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2030,Solid Waste,FixedCosts,Undiscounted,Landfill,Green Lane,Biogas upgrade,Public,Standard,___,81.15541147335081
+2030,Solid Waste,FixedCosts,Undiscounted,Landfill,Green Lane,Biogas capture,___,___,___,19.339956729394167
+2030,Solid Waste,FixedCosts,Undiscounted,Landfill,Green Lane,Cogeneration engine,Internal Combustion Engine,Standard,___,5.329317803205543
+2030,Solid Waste,FixedCosts,Undiscounted,Landfill,Keele Valley,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2030,Solid Waste,FixedCosts,Undiscounted,Landfill,Keele Valley,Biogas upgrade,Public,Standard,___,79.12471533111128
+2030,Solid Waste,FixedCosts,Undiscounted,Landfill,Keele Valley,Biogas capture,___,___,___,18.990337338992937
+2030,Solid Waste,FixedCosts,Undiscounted,Landfill,Keele Valley,Cogeneration engine,Internal Combustion Engine,Standard,___,5.329118766029312
+2030,Solid Waste,FixedCosts,Undiscounted,Landfill,Thackeray,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2030,Solid Waste,FixedCosts,Undiscounted,Landfill,Thackeray,Biogas upgrade,Public,Standard,___,55.93205873888606
+2030,Solid Waste,FixedCosts,Undiscounted,Landfill,Thackeray,Biogas capture,___,___,___,17.539017051325004
+2030,Solid Waste,FixedCosts,Undiscounted,Landfill,Thackeray,Cogeneration engine,Internal Combustion Engine,Standard,___,11.49567730296794
+2030,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,361515.3374099491
+2030,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,27.47254396089288
+2030,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,14.290850654316742
+2030,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,162636.30421855306
+2030,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,26.890518512458097
+2030,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,14.272777977386752
+2030,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,76565.25284645939
+2030,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,26.158117435547847
+2030,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,14.234908243662868
+2030,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,723245.4896351653
+2030,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,54.19474101027846
+2030,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,28.590193027035554
+2030,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,325369.24800956994
+2030,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,53.046586748182634
+2030,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,28.554036934270876
+2030,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,153176.00127483218
+2030,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,51.60178838020833
+2030,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,28.47827496437573
+2035,Solid Waste,FixedCosts,Discounted,Green Bin,Compost,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2035,Solid Waste,FixedCosts,Discounted,Green Bin,Compost,Biogas upgrade,Public,Standard,___,24.590208361172373
+2035,Solid Waste,FixedCosts,Discounted,Green Bin,Compost,Biogas capture,___,___,___,8.54745430324206
+2035,Solid Waste,FixedCosts,Discounted,Green Bin,Compost,Cogeneration engine,Internal Combustion Engine,Standard,___,2.1241341972542926
+2035,Solid Waste,FixedCosts,Discounted,Green Bin,Dufferin,Anaerobic Digester,Public,Standard,Mix Energy,16.51747516048085
+2035,Solid Waste,FixedCosts,Discounted,Green Bin,Dufferin,Gasification,Central,Carbon Capture Storage,Hydrogen,13.85948298746106
+2035,Solid Waste,FixedCosts,Discounted,Green Bin,Dufferin,Gasification,Enerkem,Standard,Mix Energy,16.449636324837474
+2035,Solid Waste,FixedCosts,Discounted,Green Bin,Disco Road,Anaerobic Digester,Public,Standard,Mix Energy,16.62240553749925
+2035,Solid Waste,FixedCosts,Discounted,Green Bin,Disco Road,Gasification,Central,Carbon Capture Storage,Hydrogen,17.144538027210743
+2035,Solid Waste,FixedCosts,Discounted,Green Bin,Disco Road,Gasification,Enerkem,Standard,Mix Energy,16.54996964366247
+2035,Solid Waste,FixedCosts,Discounted,Landfill,MI - Arbor Hills,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2035,Solid Waste,FixedCosts,Discounted,Landfill,MI - Arbor Hills,Biogas upgrade,Public,Standard,___,24.857879541261127
+2035,Solid Waste,FixedCosts,Discounted,Landfill,MI - Arbor Hills,Biogas capture,___,___,___,6.798937652759204
+2035,Solid Waste,FixedCosts,Discounted,Landfill,MI - Arbor Hills,Cogeneration engine,Internal Combustion Engine,Standard,___,4.864674755815756
+2035,Solid Waste,FixedCosts,Discounted,Landfill,Beare Rd,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2035,Solid Waste,FixedCosts,Discounted,Landfill,Beare Rd,Biogas upgrade,Public,Standard,___,25.50008069247656
+2035,Solid Waste,FixedCosts,Discounted,Landfill,Beare Rd,Biogas capture,___,___,___,6.939237863317531
+2035,Solid Waste,FixedCosts,Discounted,Landfill,Beare Rd,Cogeneration engine,Internal Combustion Engine,Standard,___,4.939642407345351
+2035,Solid Waste,FixedCosts,Discounted,Landfill,Brock West,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2035,Solid Waste,FixedCosts,Discounted,Landfill,Brock West,Biogas upgrade,Public,Standard,___,26.12834689909289
+2035,Solid Waste,FixedCosts,Discounted,Landfill,Brock West,Biogas capture,___,___,___,8.69594182653983
+2035,Solid Waste,FixedCosts,Discounted,Landfill,Brock West,Cogeneration engine,Internal Combustion Engine,Standard,___,5.1318043803215465
+2035,Solid Waste,FixedCosts,Discounted,Landfill,MI - Carleton farms,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2035,Solid Waste,FixedCosts,Discounted,Landfill,MI - Carleton farms,Biogas upgrade,Public,Standard,___,26.65530299341935
+2035,Solid Waste,FixedCosts,Discounted,Landfill,MI - Carleton farms,Biogas capture,___,___,___,7.212591008037007
+2035,Solid Waste,FixedCosts,Discounted,Landfill,MI - Carleton farms,Cogeneration engine,Internal Combustion Engine,Standard,___,5.06398617099327
+2035,Solid Waste,FixedCosts,Discounted,Landfill,Green Lane,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2035,Solid Waste,FixedCosts,Discounted,Landfill,Green Lane,Biogas upgrade,Public,Standard,___,35.57046248314006
+2035,Solid Waste,FixedCosts,Discounted,Landfill,Green Lane,Biogas capture,___,___,___,7.727695356534455
+2035,Solid Waste,FixedCosts,Discounted,Landfill,Green Lane,Cogeneration engine,Internal Combustion Engine,Standard,___,2.130895980419542
+2035,Solid Waste,FixedCosts,Discounted,Landfill,Keele Valley,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2035,Solid Waste,FixedCosts,Discounted,Landfill,Keele Valley,Biogas upgrade,Public,Standard,___,34.387506135641075
+2035,Solid Waste,FixedCosts,Discounted,Landfill,Keele Valley,Biogas capture,___,___,___,7.555119973386328
+2035,Solid Waste,FixedCosts,Discounted,Landfill,Keele Valley,Cogeneration engine,Internal Combustion Engine,Standard,___,2.13080704881975
+2035,Solid Waste,FixedCosts,Discounted,Landfill,Thackeray,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2035,Solid Waste,FixedCosts,Discounted,Landfill,Thackeray,Biogas upgrade,Public,Standard,___,21.96923656361734
+2035,Solid Waste,FixedCosts,Discounted,Landfill,Thackeray,Biogas capture,___,___,___,6.888971772546739
+2035,Solid Waste,FixedCosts,Discounted,Landfill,Thackeray,Cogeneration engine,Internal Combustion Engine,Standard,___,4.523926544817417
+2035,Solid Waste,FixedCosts,Undiscounted,Green Bin,Compost,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2035,Solid Waste,FixedCosts,Undiscounted,Green Bin,Compost,Biogas upgrade,Public,Standard,___,53.32421771299822
+2035,Solid Waste,FixedCosts,Undiscounted,Green Bin,Compost,Biogas capture,___,___,___,18.535276621635457
+2035,Solid Waste,FixedCosts,Undiscounted,Green Bin,Compost,Cogeneration engine,Internal Combustion Engine,Standard,___,4.606215316372066
+2035,Solid Waste,FixedCosts,Undiscounted,Green Bin,Dufferin,Anaerobic Digester,Public,Standard,Mix Energy,35.818380576118415
+2035,Solid Waste,FixedCosts,Undiscounted,Green Bin,Dufferin,Gasification,Central,Carbon Capture Storage,Hydrogen,29.840796446742026
+2035,Solid Waste,FixedCosts,Undiscounted,Green Bin,Dufferin,Gasification,Enerkem,Standard,Mix Energy,35.671271093022064
+2035,Solid Waste,FixedCosts,Undiscounted,Green Bin,Disco Road,Anaerobic Digester,Public,Standard,Mix Energy,36.04592359595191
+2035,Solid Waste,FixedCosts,Undiscounted,Green Bin,Disco Road,Gasification,Central,Carbon Capture Storage,Hydrogen,36.91383509083884
+2035,Solid Waste,FixedCosts,Undiscounted,Green Bin,Disco Road,Gasification,Enerkem,Standard,Mix Energy,35.88884532656698
+2035,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Arbor Hills,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2035,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Arbor Hills,Biogas upgrade,Public,Standard,___,53.90466648646552
+2035,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Arbor Hills,Biogas capture,___,___,___,14.743593315186851
+2035,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Arbor Hills,Cogeneration engine,Internal Combustion Engine,Standard,___,10.549116622844195
+2035,Solid Waste,FixedCosts,Undiscounted,Landfill,Beare Rd,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2035,Solid Waste,FixedCosts,Undiscounted,Landfill,Beare Rd,Biogas upgrade,Public,Standard,___,55.29728884655182
+2035,Solid Waste,FixedCosts,Undiscounted,Landfill,Beare Rd,Biogas capture,___,___,___,15.047836323749756
+2035,Solid Waste,FixedCosts,Undiscounted,Landfill,Beare Rd,Cogeneration engine,Internal Combustion Engine,Standard,___,10.711685044912082
+2035,Solid Waste,FixedCosts,Undiscounted,Landfill,Brock West,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2035,Solid Waste,FixedCosts,Undiscounted,Landfill,Brock West,Biogas upgrade,Public,Standard,___,56.65969308043493
+2035,Solid Waste,FixedCosts,Undiscounted,Landfill,Brock West,Biogas capture,___,___,___,18.85727393469998
+2035,Solid Waste,FixedCosts,Undiscounted,Landfill,Brock West,Cogeneration engine,Internal Combustion Engine,Standard,___,11.128391025302294
+2035,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Carleton farms,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2035,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Carleton farms,Biogas upgrade,Public,Standard,___,57.8024048902065
+2035,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Carleton farms,Biogas capture,___,___,___,15.640606518595684
+2035,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Carleton farms,Cogeneration engine,Internal Combustion Engine,Standard,___,10.981326270664557
+2035,Solid Waste,FixedCosts,Undiscounted,Landfill,Green Lane,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2035,Solid Waste,FixedCosts,Undiscounted,Landfill,Green Lane,Biogas upgrade,Public,Standard,___,77.13505545556771
+2035,Solid Waste,FixedCosts,Undiscounted,Landfill,Green Lane,Biogas capture,___,___,___,16.7576176484225
+2035,Solid Waste,FixedCosts,Undiscounted,Landfill,Green Lane,Cogeneration engine,Internal Combustion Engine,Standard,___,4.620878339650925
+2035,Solid Waste,FixedCosts,Undiscounted,Landfill,Keele Valley,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2035,Solid Waste,FixedCosts,Undiscounted,Landfill,Keele Valley,Biogas upgrade,Public,Standard,___,74.56979773621417
+2035,Solid Waste,FixedCosts,Undiscounted,Landfill,Keele Valley,Biogas capture,___,___,___,16.38338546755878
+2035,Solid Waste,FixedCosts,Undiscounted,Landfill,Keele Valley,Cogeneration engine,Internal Combustion Engine,Standard,___,4.620685490207794
+2035,Solid Waste,FixedCosts,Undiscounted,Landfill,Thackeray,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2035,Solid Waste,FixedCosts,Undiscounted,Landfill,Thackeray,Biogas upgrade,Public,Standard,___,47.64060297091518
+2035,Solid Waste,FixedCosts,Undiscounted,Landfill,Thackeray,Biogas capture,___,___,___,14.938833588658037
+2035,Solid Waste,FixedCosts,Undiscounted,Landfill,Thackeray,Cogeneration engine,Internal Combustion Engine,Standard,___,9.810199265101083
+2035,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,5904.477718511627
+2035,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,22.41430262272724
+2035,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,11.26601650110518
+2035,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,2668.8001877739225
+2035,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,21.74265959768819
+2035,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,11.247978705965895
+2035,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,1269.6482262788954
+2035,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,20.924137851312437
+2035,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,11.214141604678783
+2035,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,12803.94418457258
+2035,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,48.26014380663485
+2035,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,24.43051753932033
+2035,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,5787.331288743999
+2035,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,46.81403194133674
+2035,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,24.39140232317648
+2035,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,2753.25029550868
+2035,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,45.05167609855901
+2035,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,24.31802608620812
+2040,Solid Waste,FixedCosts,Discounted,Green Bin,Compost,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2040,Solid Waste,FixedCosts,Discounted,Green Bin,Compost,Biogas upgrade,Public,Standard,___,17.629368825458315
+2040,Solid Waste,FixedCosts,Discounted,Green Bin,Compost,Biogas capture,___,___,___,6.144594045775487
+2040,Solid Waste,FixedCosts,Discounted,Green Bin,Compost,Cogeneration engine,Internal Combustion Engine,Standard,___,1.5980159388460318
+2040,Solid Waste,FixedCosts,Discounted,Green Bin,Dufferin,Anaerobic Digester,Public,Standard,Mix Energy,12.670953853187845
+2040,Solid Waste,FixedCosts,Discounted,Green Bin,Dufferin,Gasification,Central,Carbon Capture Storage,Hydrogen,10.387659956320713
+2040,Solid Waste,FixedCosts,Discounted,Green Bin,Dufferin,Gasification,Enerkem,Standard,Mix Energy,12.355676049928835
+2040,Solid Waste,FixedCosts,Discounted,Green Bin,Disco Road,Anaerobic Digester,Public,Standard,Mix Energy,12.73807973191044
+2040,Solid Waste,FixedCosts,Discounted,Green Bin,Disco Road,Gasification,Central,Carbon Capture Storage,Hydrogen,10.42101771017575
+2040,Solid Waste,FixedCosts,Discounted,Green Bin,Disco Road,Gasification,Enerkem,Standard,Mix Energy,12.421930295166302
+2040,Solid Waste,FixedCosts,Discounted,Landfill,MI - Arbor Hills,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2040,Solid Waste,FixedCosts,Discounted,Landfill,MI - Arbor Hills,Biogas upgrade,Public,Standard,___,18.308555631510366
+2040,Solid Waste,FixedCosts,Discounted,Landfill,MI - Arbor Hills,Biogas capture,___,___,___,5.0183686743586104
+2040,Solid Waste,FixedCosts,Discounted,Landfill,MI - Arbor Hills,Cogeneration engine,Internal Combustion Engine,Standard,___,3.6035897131753343
+2040,Solid Waste,FixedCosts,Discounted,Landfill,Beare Rd,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2040,Solid Waste,FixedCosts,Discounted,Landfill,Beare Rd,Biogas upgrade,Public,Standard,___,18.787543600342318
+2040,Solid Waste,FixedCosts,Discounted,Landfill,Beare Rd,Biogas capture,___,___,___,5.130635400377523
+2040,Solid Waste,FixedCosts,Discounted,Landfill,Beare Rd,Cogeneration engine,Internal Combustion Engine,Standard,___,3.664125475157349
+2040,Solid Waste,FixedCosts,Discounted,Landfill,Brock West,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2040,Solid Waste,FixedCosts,Discounted,Landfill,Brock West,Biogas upgrade,Public,Standard,___,19.36424428508647
+2040,Solid Waste,FixedCosts,Discounted,Landfill,Brock West,Biogas capture,___,___,___,6.4769745033504815
+2040,Solid Waste,FixedCosts,Discounted,Landfill,Brock West,Cogeneration engine,Internal Combustion Engine,Standard,___,3.819636033749671
+2040,Solid Waste,FixedCosts,Discounted,Landfill,MI - Carleton farms,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2040,Solid Waste,FixedCosts,Discounted,Landfill,MI - Carleton farms,Biogas upgrade,Public,Standard,___,19.41638278476118
+2040,Solid Waste,FixedCosts,Discounted,Landfill,MI - Carleton farms,Biogas capture,___,___,___,5.34967469160918
+2040,Solid Waste,FixedCosts,Discounted,Landfill,MI - Carleton farms,Cogeneration engine,Internal Combustion Engine,Standard,___,3.763682785192802
+2040,Solid Waste,FixedCosts,Discounted,Landfill,Green Lane,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2040,Solid Waste,FixedCosts,Discounted,Landfill,Green Lane,Biogas upgrade,Public,Standard,___,24.466177385822636
+2040,Solid Waste,FixedCosts,Discounted,Landfill,Green Lane,Biogas capture,___,___,___,5.796335940994208
+2040,Solid Waste,FixedCosts,Discounted,Landfill,Green Lane,Cogeneration engine,Internal Combustion Engine,Standard,___,1.6028565767162353
+2040,Solid Waste,FixedCosts,Discounted,Landfill,Keele Valley,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2040,Solid Waste,FixedCosts,Discounted,Landfill,Keele Valley,Biogas upgrade,Public,Standard,___,23.228449164386046
+2040,Solid Waste,FixedCosts,Discounted,Landfill,Keele Valley,Biogas capture,___,___,___,5.651686055023109
+2040,Solid Waste,FixedCosts,Discounted,Landfill,Keele Valley,Cogeneration engine,Internal Combustion Engine,Standard,___,1.602780217554974
+2040,Solid Waste,FixedCosts,Discounted,Landfill,Thackeray,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2040,Solid Waste,FixedCosts,Discounted,Landfill,Thackeray,Biogas upgrade,Public,Standard,___,16.22175698536897
+2040,Solid Waste,FixedCosts,Discounted,Landfill,Thackeray,Biogas capture,___,___,___,5.077646688083717
+2040,Solid Waste,FixedCosts,Discounted,Landfill,Thackeray,Cogeneration engine,Internal Combustion Engine,Standard,___,3.3345412682633837
+2040,Solid Waste,FixedCosts,Undiscounted,Green Bin,Compost,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2040,Solid Waste,FixedCosts,Undiscounted,Green Bin,Compost,Biogas upgrade,Public,Standard,___,41.36382554397515
+2040,Solid Waste,FixedCosts,Undiscounted,Green Bin,Compost,Biogas capture,___,___,___,14.4170740690938
+2040,Solid Waste,FixedCosts,Undiscounted,Green Bin,Compost,Cogeneration engine,Internal Combustion Engine,Standard,___,3.749428193677859
+2040,Solid Waste,FixedCosts,Undiscounted,Green Bin,Dufferin,Anaerobic Digester,Public,Standard,Mix Energy,29.729885956106887
+2040,Solid Waste,FixedCosts,Undiscounted,Green Bin,Dufferin,Gasification,Central,Carbon Capture Storage,Hydrogen,24.319796338130296
+2040,Solid Waste,FixedCosts,Undiscounted,Green Bin,Dufferin,Gasification,Enerkem,Standard,Mix Energy,28.99014897624061
+2040,Solid Waste,FixedCosts,Undiscounted,Green Bin,Disco Road,Anaerobic Digester,Public,Standard,Mix Energy,29.88738354802055
+2040,Solid Waste,FixedCosts,Undiscounted,Green Bin,Disco Road,Gasification,Central,Carbon Capture Storage,Hydrogen,24.39789417570519
+2040,Solid Waste,FixedCosts,Undiscounted,Green Bin,Disco Road,Gasification,Enerkem,Standard,Mix Energy,29.14560145265557
+2040,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Arbor Hills,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2040,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Arbor Hills,Biogas upgrade,Public,Standard,___,42.95740299053337
+2040,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Arbor Hills,Biogas capture,___,___,___,11.77460908650103
+2040,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Arbor Hills,Cogeneration engine,Internal Combustion Engine,Standard,___,8.455110202958323
+2040,Solid Waste,FixedCosts,Undiscounted,Landfill,Beare Rd,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2040,Solid Waste,FixedCosts,Undiscounted,Landfill,Beare Rd,Biogas upgrade,Public,Standard,___,44.08125347982691
+2040,Solid Waste,FixedCosts,Undiscounted,Landfill,Beare Rd,Biogas capture,___,___,___,12.038020744366708
+2040,Solid Waste,FixedCosts,Undiscounted,Landfill,Beare Rd,Cogeneration engine,Internal Combustion Engine,Standard,___,8.597145389957172
+2040,Solid Waste,FixedCosts,Undiscounted,Landfill,Brock West,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2040,Solid Waste,FixedCosts,Undiscounted,Landfill,Brock West,Biogas upgrade,Public,Standard,___,45.43436752214022
+2040,Solid Waste,FixedCosts,Undiscounted,Landfill,Brock West,Biogas capture,___,___,___,15.196939043131026
+2040,Solid Waste,FixedCosts,Undiscounted,Landfill,Brock West,Cogeneration engine,Internal Combustion Engine,Standard,___,8.962020144098673
+2040,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Carleton farms,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2040,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Carleton farms,Biogas upgrade,Public,Standard,___,45.37679787955242
+2040,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Carleton farms,Biogas capture,___,___,___,12.55195309892148
+2040,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Carleton farms,Cogeneration engine,Internal Combustion Engine,Standard,___,8.830736918088746
+2040,Solid Waste,FixedCosts,Undiscounted,Landfill,Green Lane,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2040,Solid Waste,FixedCosts,Undiscounted,Landfill,Green Lane,Biogas upgrade,Public,Standard,___,57.40504399985562
+2040,Solid Waste,FixedCosts,Undiscounted,Landfill,Green Lane,Biogas capture,___,___,___,13.599955337670714
+2040,Solid Waste,FixedCosts,Undiscounted,Landfill,Green Lane,Cogeneration engine,Internal Combustion Engine,Standard,___,3.760785792600828
+2040,Solid Waste,FixedCosts,Undiscounted,Landfill,Keele Valley,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2040,Solid Waste,FixedCosts,Undiscounted,Landfill,Keele Valley,Biogas upgrade,Public,Standard,___,54.500959643277604
+2040,Solid Waste,FixedCosts,Undiscounted,Landfill,Keele Valley,Biogas capture,___,___,___,13.260563002783258
+2040,Solid Waste,FixedCosts,Undiscounted,Landfill,Keele Valley,Cogeneration engine,Internal Combustion Engine,Standard,___,3.760606630938471
+2040,Solid Waste,FixedCosts,Undiscounted,Landfill,Thackeray,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2040,Solid Waste,FixedCosts,Undiscounted,Landfill,Thackeray,Biogas upgrade,Public,Standard,___,38.061142891887876
+2040,Solid Waste,FixedCosts,Undiscounted,Landfill,Thackeray,Biogas capture,___,___,___,11.91369321609152
+2040,Solid Waste,FixedCosts,Undiscounted,Landfill,Thackeray,Cogeneration engine,Internal Combustion Engine,Standard,___,7.823841264835894
+2040,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,3561.1101690559544
+2040,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,17.838097039504593
+2040,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,8.341096442180236
+2040,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,1609.1422752726594
+2040,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,17.20486396364783
+2040,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,8.328824771035475
+2040,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,764.9047398634009
+2040,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,16.445968455838653
+2040,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,8.306875615019802
+2040,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,8355.440358306585
+2040,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,41.76290799705908
+2040,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,19.570732310142457
+2040,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,3775.533940483155
+2040,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,40.28037011035886
+2040,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,19.54193926205375
+2040,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,1794.697616841474
+2040,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,38.50362883566869
+2040,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,19.490439910644255
+2045,Solid Waste,FixedCosts,Discounted,Green Bin,Compost,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2045,Solid Waste,FixedCosts,Discounted,Green Bin,Compost,Biogas upgrade,Public,Standard,___,15.186187598285835
+2045,Solid Waste,FixedCosts,Discounted,Green Bin,Compost,Biogas capture,___,___,___,5.376040044162356
+2045,Solid Waste,FixedCosts,Discounted,Green Bin,Compost,Cogeneration engine,Internal Combustion Engine,Standard,___,1.0737246432874803
+2045,Solid Waste,FixedCosts,Discounted,Green Bin,Dufferin,Anaerobic Digester,Public,Standard,Mix Energy,9.320027248158128
+2045,Solid Waste,FixedCosts,Discounted,Green Bin,Dufferin,Gasification,Central,Carbon Capture Storage,Hydrogen,6.9664775472865585
+2045,Solid Waste,FixedCosts,Discounted,Green Bin,Dufferin,Gasification,Enerkem,Standard,Mix Energy,8.366126912444694
+2045,Solid Waste,FixedCosts,Discounted,Green Bin,Disco Road,Anaerobic Digester,Public,Standard,Mix Energy,9.333826345785903
+2045,Solid Waste,FixedCosts,Discounted,Green Bin,Disco Road,Gasification,Central,Carbon Capture Storage,Hydrogen,8.61461802285579
+2045,Solid Waste,FixedCosts,Discounted,Green Bin,Disco Road,Gasification,Enerkem,Standard,Mix Energy,8.39194797161414
+2045,Solid Waste,FixedCosts,Discounted,Landfill,MI - Arbor Hills,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2045,Solid Waste,FixedCosts,Discounted,Landfill,MI - Arbor Hills,Biogas upgrade,Public,Standard,___,11.99903300594496
+2045,Solid Waste,FixedCosts,Discounted,Landfill,MI - Arbor Hills,Biogas capture,___,___,___,3.2949641587840386
+2045,Solid Waste,FixedCosts,Discounted,Landfill,MI - Arbor Hills,Cogeneration engine,Internal Combustion Engine,Standard,___,2.3655212238666907
+2045,Solid Waste,FixedCosts,Discounted,Landfill,Beare Rd,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2045,Solid Waste,FixedCosts,Discounted,Landfill,Beare Rd,Biogas upgrade,Public,Standard,___,12.318663386428373
+2045,Solid Waste,FixedCosts,Discounted,Landfill,Beare Rd,Biogas capture,___,___,___,3.3654793720585885
+2045,Solid Waste,FixedCosts,Discounted,Landfill,Beare Rd,Cogeneration engine,Internal Combustion Engine,Standard,___,2.40979530783518
+2045,Solid Waste,FixedCosts,Discounted,Landfill,Brock West,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2045,Solid Waste,FixedCosts,Discounted,Landfill,Brock West,Biogas upgrade,Public,Standard,___,12.782448257070456
+2045,Solid Waste,FixedCosts,Discounted,Landfill,Brock West,Biogas capture,___,___,___,4.291261367640542
+2045,Solid Waste,FixedCosts,Discounted,Landfill,Brock West,Cogeneration engine,Internal Combustion Engine,Standard,___,2.525067375230419
+2045,Solid Waste,FixedCosts,Discounted,Landfill,MI - Carleton farms,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2045,Solid Waste,FixedCosts,Discounted,Landfill,MI - Carleton farms,Biogas upgrade,Public,Standard,___,12.897175381594266
+2045,Solid Waste,FixedCosts,Discounted,Landfill,MI - Carleton farms,Biogas capture,___,___,___,3.5283490411100695
+2045,Solid Waste,FixedCosts,Discounted,Landfill,MI - Carleton farms,Cogeneration engine,Internal Combustion Engine,Standard,___,2.483002059238864
+2045,Solid Waste,FixedCosts,Discounted,Landfill,Green Lane,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2045,Solid Waste,FixedCosts,Discounted,Landfill,Green Lane,Biogas upgrade,Public,Standard,___,433.1248769617823
+2045,Solid Waste,FixedCosts,Discounted,Landfill,Green Lane,Biogas capture,___,___,___,3.8735120939141456
+2045,Solid Waste,FixedCosts,Discounted,Landfill,Green Lane,Cogeneration engine,Internal Combustion Engine,Standard,___,1.077446387481317
+2045,Solid Waste,FixedCosts,Discounted,Landfill,Keele Valley,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2045,Solid Waste,FixedCosts,Discounted,Landfill,Keele Valley,Biogas upgrade,Public,Standard,___,201.76456583674613
+2045,Solid Waste,FixedCosts,Discounted,Landfill,Keele Valley,Biogas capture,___,___,___,3.787421874386291
+2045,Solid Waste,FixedCosts,Discounted,Landfill,Keele Valley,Cogeneration engine,Internal Combustion Engine,Standard,___,1.0773876576837564
+2045,Solid Waste,FixedCosts,Discounted,Landfill,Thackeray,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2045,Solid Waste,FixedCosts,Discounted,Landfill,Thackeray,Biogas upgrade,Public,Standard,___,10.708295707483202
+2045,Solid Waste,FixedCosts,Discounted,Landfill,Thackeray,Biogas capture,___,___,___,3.344744712674705
+2045,Solid Waste,FixedCosts,Discounted,Landfill,Thackeray,Cogeneration engine,Internal Combustion Engine,Standard,___,2.177304290557956
+2045,Solid Waste,FixedCosts,Undiscounted,Green Bin,Compost,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2045,Solid Waste,FixedCosts,Undiscounted,Green Bin,Compost,Biogas upgrade,Public,Standard,___,38.48292893652892
+2045,Solid Waste,FixedCosts,Undiscounted,Green Bin,Compost,Biogas capture,___,___,___,13.62328534666504
+2045,Solid Waste,FixedCosts,Undiscounted,Green Bin,Compost,Cogeneration engine,Internal Combustion Engine,Standard,___,2.72089811070792
+2045,Solid Waste,FixedCosts,Undiscounted,Green Bin,Dufferin,Anaerobic Digester,Public,Standard,Mix Energy,23.617642278952683
+2045,Solid Waste,FixedCosts,Undiscounted,Green Bin,Dufferin,Gasification,Central,Carbon Capture Storage,Hydrogen,17.644699077522333
+2045,Solid Waste,FixedCosts,Undiscounted,Green Bin,Dufferin,Gasification,Enerkem,Standard,Mix Energy,21.200387876278587
+2045,Solid Waste,FixedCosts,Undiscounted,Green Bin,Disco Road,Anaerobic Digester,Public,Standard,Mix Energy,23.652610218730924
+2045,Solid Waste,FixedCosts,Undiscounted,Green Bin,Disco Road,Gasification,Central,Carbon Capture Storage,Hydrogen,21.819110396802422
+2045,Solid Waste,FixedCosts,Undiscounted,Green Bin,Disco Road,Gasification,Enerkem,Standard,Mix Energy,21.265820360807872
+2045,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Arbor Hills,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2045,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Arbor Hills,Biogas upgrade,Public,Standard,___,30.406442136074137
+2045,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Arbor Hills,Biogas capture,___,___,___,8.34968426079556
+2045,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Arbor Hills,Cogeneration engine,Internal Combustion Engine,Standard,___,5.994406730902507
+2045,Solid Waste,FixedCosts,Undiscounted,Landfill,Beare Rd,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2045,Solid Waste,FixedCosts,Undiscounted,Landfill,Beare Rd,Biogas upgrade,Public,Standard,___,31.216409294618074
+2045,Solid Waste,FixedCosts,Undiscounted,Landfill,Beare Rd,Biogas capture,___,___,___,8.528375056219092
+2045,Solid Waste,FixedCosts,Undiscounted,Landfill,Beare Rd,Cogeneration engine,Internal Combustion Engine,Standard,___,6.10660055282537
+2045,Solid Waste,FixedCosts,Undiscounted,Landfill,Brock West,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2045,Solid Waste,FixedCosts,Undiscounted,Landfill,Brock West,Biogas upgrade,Public,Standard,___,32.39167465356644
+2045,Solid Waste,FixedCosts,Undiscounted,Landfill,Brock West,Biogas capture,___,___,___,10.874375493532252
+2045,Solid Waste,FixedCosts,Undiscounted,Landfill,Brock West,Cogeneration engine,Internal Combustion Engine,Standard,___,6.398708545646326
+2045,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Carleton farms,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2045,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Carleton farms,Biogas upgrade,Public,Standard,___,32.682401720617854
+2045,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Carleton farms,Biogas capture,___,___,___,8.941098911989952
+2045,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Carleton farms,Cogeneration engine,Internal Combustion Engine,Standard,___,6.292111906067187
+2045,Solid Waste,FixedCosts,Undiscounted,Landfill,Green Lane,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2045,Solid Waste,FixedCosts,Undiscounted,Landfill,Green Lane,Biogas upgrade,Public,Standard,___,1097.5706544442085
+2045,Solid Waste,FixedCosts,Undiscounted,Landfill,Green Lane,Biogas capture,___,___,___,9.815767761337892
+2045,Solid Waste,FixedCosts,Undiscounted,Landfill,Green Lane,Cogeneration engine,Internal Combustion Engine,Standard,___,2.7303292873218266
+2045,Solid Waste,FixedCosts,Undiscounted,Landfill,Keele Valley,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2045,Solid Waste,FixedCosts,Undiscounted,Landfill,Keele Valley,Biogas upgrade,Public,Standard,___,511.2864172625881
+2045,Solid Waste,FixedCosts,Undiscounted,Landfill,Keele Valley,Biogas capture,___,___,___,9.597608741585328
+2045,Solid Waste,FixedCosts,Undiscounted,Landfill,Keele Valley,Cogeneration engine,Internal Combustion Engine,Standard,___,2.7301804616464325
+2045,Solid Waste,FixedCosts,Undiscounted,Landfill,Thackeray,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2045,Solid Waste,FixedCosts,Undiscounted,Landfill,Thackeray,Biogas upgrade,Public,Standard,___,27.13561781555555
+2045,Solid Waste,FixedCosts,Undiscounted,Landfill,Thackeray,Biogas capture,___,___,___,8.47583188707747
+2045,Solid Waste,FixedCosts,Undiscounted,Landfill,Thackeray,Cogeneration engine,Internal Combustion Engine,Standard,___,5.517451022151152
+2045,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,1946.80793909084
+2045,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,13.576994727926175
+2045,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,5.489985023920074
+2045,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,893.3695975527858
+2045,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,13.04061174907289
+2045,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,5.4844341198542566
+2045,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,435.93347477836426
+2045,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,12.401515132317943
+2045,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,5.474232795736448
+2045,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,4933.356123004809
+2045,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,34.38782149591135
+2045,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,13.91203040070253
+2045,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,2263.865009843546
+2045,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,33.029270321673
+2045,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,13.897963996918444
+2045,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,1104.6878502174918
+2045,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,31.41056597538599
+2045,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,13.87211308282013
+2050,Solid Waste,FixedCosts,Discounted,Green Bin,Compost,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2050,Solid Waste,FixedCosts,Discounted,Green Bin,Compost,Biogas upgrade,Public,Standard,___,7.091146395623671
+2050,Solid Waste,FixedCosts,Discounted,Green Bin,Compost,Biogas capture,___,___,___,2.5089116236078683
+2050,Solid Waste,FixedCosts,Discounted,Green Bin,Compost,Cogeneration engine,Internal Combustion Engine,Standard,___,0.5400843715716775
+2050,Solid Waste,FixedCosts,Discounted,Green Bin,Dufferin,Anaerobic Digester,Public,Standard,Mix Energy,7.139999194730992
+2050,Solid Waste,FixedCosts,Discounted,Green Bin,Dufferin,Gasification,Central,Carbon Capture Storage,Hydrogen,3.615643741395948
+2050,Solid Waste,FixedCosts,Discounted,Green Bin,Dufferin,Gasification,Enerkem,Standard,Mix Energy,5.331988718766909
+2050,Solid Waste,FixedCosts,Discounted,Green Bin,Disco Road,Anaerobic Digester,Public,Standard,Mix Energy,7.176880318344746
+2050,Solid Waste,FixedCosts,Discounted,Green Bin,Disco Road,Gasification,Central,Carbon Capture Storage,Hydrogen,3.623363228922284
+2050,Solid Waste,FixedCosts,Discounted,Green Bin,Disco Road,Gasification,Enerkem,Standard,Mix Energy,5.3622547436831
+2050,Solid Waste,FixedCosts,Discounted,Landfill,MI - Arbor Hills,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2050,Solid Waste,FixedCosts,Discounted,Landfill,MI - Arbor Hills,Biogas upgrade,Public,Standard,___,6.2958094303877274
+2050,Solid Waste,FixedCosts,Discounted,Landfill,MI - Arbor Hills,Biogas capture,___,___,___,1.6394347714441977
+2050,Solid Waste,FixedCosts,Discounted,Landfill,MI - Arbor Hills,Cogeneration engine,Internal Combustion Engine,Standard,___,1.1280680253856412
+2050,Solid Waste,FixedCosts,Discounted,Landfill,Beare Rd,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2050,Solid Waste,FixedCosts,Discounted,Landfill,Beare Rd,Biogas upgrade,Public,Standard,___,6.458165084353736
+2050,Solid Waste,FixedCosts,Discounted,Landfill,Beare Rd,Biogas capture,___,___,___,1.6704886983269729
+2050,Solid Waste,FixedCosts,Discounted,Landfill,Beare Rd,Cogeneration engine,Internal Combustion Engine,Standard,___,1.153568649808771
+2050,Solid Waste,FixedCosts,Discounted,Landfill,Brock West,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2050,Solid Waste,FixedCosts,Discounted,Landfill,Brock West,Biogas upgrade,Public,Standard,___,6.587680701798245
+2050,Solid Waste,FixedCosts,Discounted,Landfill,Brock West,Biogas capture,___,___,___,2.42093647822928
+2050,Solid Waste,FixedCosts,Discounted,Landfill,Brock West,Cogeneration engine,Internal Combustion Engine,Standard,___,1.226744834866647
+2050,Solid Waste,FixedCosts,Discounted,Landfill,MI - Carleton farms,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2050,Solid Waste,FixedCosts,Discounted,Landfill,MI - Carleton farms,Biogas upgrade,Public,Standard,___,6.771544884892685
+2050,Solid Waste,FixedCosts,Discounted,Landfill,MI - Carleton farms,Biogas capture,___,___,___,1.7492964791174952
+2050,Solid Waste,FixedCosts,Discounted,Landfill,MI - Carleton farms,Cogeneration engine,Internal Combustion Engine,Standard,___,1.198486307707055
+2050,Solid Waste,FixedCosts,Discounted,Landfill,Green Lane,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2050,Solid Waste,FixedCosts,Discounted,Landfill,Green Lane,Biogas upgrade,Public,Standard,___,13.70441325264621
+2050,Solid Waste,FixedCosts,Discounted,Landfill,Green Lane,Biogas capture,___,___,___,1.9676332009226891
+2050,Solid Waste,FixedCosts,Discounted,Landfill,Green Lane,Cogeneration engine,Internal Combustion Engine,Standard,___,0.5402894643329689
+2050,Solid Waste,FixedCosts,Discounted,Landfill,Keele Valley,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2050,Solid Waste,FixedCosts,Discounted,Landfill,Keele Valley,Biogas upgrade,Public,Standard,___,9.153543018184424
+2050,Solid Waste,FixedCosts,Discounted,Landfill,Keele Valley,Biogas capture,___,___,___,1.9852697155866008
+2050,Solid Waste,FixedCosts,Discounted,Landfill,Keele Valley,Cogeneration engine,Internal Combustion Engine,Standard,___,0.5402772002086033
+2050,Solid Waste,FixedCosts,Discounted,Landfill,Thackeray,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2050,Solid Waste,FixedCosts,Discounted,Landfill,Thackeray,Biogas upgrade,Public,Standard,___,5.543724478306434
+2050,Solid Waste,FixedCosts,Discounted,Landfill,Thackeray,Biogas capture,___,___,___,1.8725241026024564
+2050,Solid Waste,FixedCosts,Undiscounted,Green Bin,Compost,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2050,Solid Waste,FixedCosts,Undiscounted,Green Bin,Compost,Biogas upgrade,Public,Standard,___,19.372340389414983
+2050,Solid Waste,FixedCosts,Undiscounted,Green Bin,Compost,Biogas capture,___,___,___,6.854108950491739
+2050,Solid Waste,FixedCosts,Undiscounted,Green Bin,Compost,Cogeneration engine,Internal Combustion Engine,Standard,___,1.4754593547168784
+2050,Solid Waste,FixedCosts,Undiscounted,Green Bin,Dufferin,Anaerobic Digester,Public,Standard,Mix Energy,19.50580160999658
+2050,Solid Waste,FixedCosts,Undiscounted,Green Bin,Dufferin,Gasification,Central,Carbon Capture Storage,Hydrogen,9.877596283783936
+2050,Solid Waste,FixedCosts,Undiscounted,Green Bin,Dufferin,Gasification,Enerkem,Standard,Mix Energy,14.56648821637937
+2050,Solid Waste,FixedCosts,Undiscounted,Green Bin,Disco Road,Anaerobic Digester,Public,Standard,Mix Energy,19.60655734690122
+2050,Solid Waste,FixedCosts,Undiscounted,Green Bin,Disco Road,Gasification,Central,Carbon Capture Storage,Hydrogen,9.898685192635728
+2050,Solid Waste,FixedCosts,Undiscounted,Green Bin,Disco Road,Gasification,Enerkem,Standard,Mix Energy,14.64917213012184
+2050,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Arbor Hills,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2050,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Arbor Hills,Biogas upgrade,Public,Standard,___,17.199555122374974
+2050,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Arbor Hills,Biogas capture,___,___,___,4.478780533745625
+2050,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Arbor Hills,Cogeneration engine,Internal Combustion Engine,Standard,___,3.0817750122424106
+2050,Solid Waste,FixedCosts,Undiscounted,Landfill,Beare Rd,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2050,Solid Waste,FixedCosts,Undiscounted,Landfill,Beare Rd,Biogas upgrade,Public,Standard,___,17.643095393200106
+2050,Solid Waste,FixedCosts,Undiscounted,Landfill,Beare Rd,Biogas capture,___,___,___,4.563616921042946
+2050,Solid Waste,FixedCosts,Undiscounted,Landfill,Beare Rd,Cogeneration engine,Internal Combustion Engine,Standard,___,3.151440303142677
+2050,Solid Waste,FixedCosts,Undiscounted,Landfill,Brock West,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2050,Solid Waste,FixedCosts,Undiscounted,Landfill,Brock West,Biogas upgrade,Public,Standard,___,17.996919794347534
+2050,Solid Waste,FixedCosts,Undiscounted,Landfill,Brock West,Biogas capture,___,___,___,6.6137691849590325
+2050,Solid Waste,FixedCosts,Undiscounted,Landfill,Brock West,Cogeneration engine,Internal Combustion Engine,Standard,___,3.35135071060724
+2050,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Carleton farms,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2050,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Carleton farms,Biogas upgrade,Public,Standard,___,18.499219329797178
+2050,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Carleton farms,Biogas capture,___,___,___,4.778912314711676
+2050,Solid Waste,FixedCosts,Undiscounted,Landfill,MI - Carleton farms,Cogeneration engine,Internal Combustion Engine,Standard,___,3.2741510906167415
+2050,Solid Waste,FixedCosts,Undiscounted,Landfill,Green Lane,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2050,Solid Waste,FixedCosts,Undiscounted,Landfill,Green Lane,Biogas upgrade,Public,Standard,___,37.43915913671142
+2050,Solid Waste,FixedCosts,Undiscounted,Landfill,Green Lane,Biogas capture,___,___,___,5.37538756121478
+2050,Solid Waste,FixedCosts,Undiscounted,Landfill,Green Lane,Cogeneration engine,Internal Combustion Engine,Standard,___,1.47601964871752
+2050,Solid Waste,FixedCosts,Undiscounted,Landfill,Keele Valley,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2050,Solid Waste,FixedCosts,Undiscounted,Landfill,Keele Valley,Biogas upgrade,Public,Standard,___,25.006612644023086
+2050,Solid Waste,FixedCosts,Undiscounted,Landfill,Keele Valley,Biogas capture,___,___,___,5.423568849019395
+2050,Solid Waste,FixedCosts,Undiscounted,Landfill,Keele Valley,Cogeneration engine,Internal Combustion Engine,Standard,___,1.475986144291221
+2050,Solid Waste,FixedCosts,Undiscounted,Landfill,Thackeray,Biogas upgrade,Public,Standard,Mix Energy,0.0
+2050,Solid Waste,FixedCosts,Undiscounted,Landfill,Thackeray,Biogas upgrade,Public,Standard,___,15.144930259113451
+2050,Solid Waste,FixedCosts,Undiscounted,Landfill,Thackeray,Biogas capture,___,___,___,5.115558511862903
+2050,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,282.78044515886234
+2050,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,13.111622860323193
+2050,Water Waste,FixedCosts,Discounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,2.5627378978202477
+2050,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,131.9383151306379
+2050,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,11.201338370961988
+2050,Water Waste,FixedCosts,Discounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,2.5607848569893914
+2050,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,66.71215087218617
+2050,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,9.83164704267243
+2050,Water Waste,FixedCosts,Discounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,2.558026439145688
+2050,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,772.5293955951354
+2050,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,35.81971192479888
+2050,Water Waste,FixedCosts,Undiscounted,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,7.001157234049914
+2050,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,360.4429817855736
+2050,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,30.600995612389383
+2050,Water Waste,FixedCosts,Undiscounted,Waste water,Humber Wastewater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,6.995821711461757
+2050,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,Public,___,Mix Energy,182.25127824234312
+2050,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Central,Carbon Capture Storage,Hydrogen,26.85912861942603
+2050,Water Waste,FixedCosts,Undiscounted,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Enerkem,Standard,Mix Energy,6.988285975147326

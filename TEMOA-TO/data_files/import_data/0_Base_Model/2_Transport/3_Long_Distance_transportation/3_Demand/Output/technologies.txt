@@ -1,0 +1,10 @@
+INSERT INTO`technologies`VALUES('LDITRADOMROACAR___','p','LDITRA','Long DistanceTransportationDomesticRoadCars','nan');
+INSERT INTO`technologies`VALUES('LDITRADOMROATRULGT','p','LDITRA','Long DistanceTransportationDomesticRoadTruckPassenger Light Trucks','nan');
+INSERT INTO`technologies`VALUES('LDITRADOMROABUSIUB','p','LDITRA','Long DistanceTransportationDomesticRoadInter-city BusesInter Urban Bus','nan');
+INSERT INTO`technologies`VALUES('LDITRADOMAIR______','p','LDITRA','Long DistanceTransportationDomesticAir','nan');
+INSERT INTO`technologies`VALUES('LDITRADOMRAI______','p','LDITRA','Long DistanceTransportationDomesticRail','nan');
+INSERT INTO`technologies`VALUES('LDITRAINTROACAR___','p','LDITRA','Long DistanceTransportationInternationalRoadCars','nan');
+INSERT INTO`technologies`VALUES('LDITRAINTROATRULGT','p','LDITRA','Long DistanceTransportationInternationalRoadTruckPassenger Light Trucks','nan');
+INSERT INTO`technologies`VALUES('LDITRAINTROABUSIUB','p','LDITRA','Long DistanceTransportationInternationalRoadInter-city BusesInter Urban Bus','nan');
+INSERT INTO`technologies`VALUES('LDITRAINTAIR______','p','LDITRA','Long DistanceTransportationInternationalAir','nan');
+INSERT INTO`technologies`VALUES('LDITRAINTRAI______','p','LDITRA','Long DistanceTransportationInternationalRail','nan');

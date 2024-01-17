@@ -1,0 +1,41 @@
+comm_name,flag,comm_desc
+ADEMSLDWASGRB,d,Aggregated DemandSolidWasteGreen Bin
+ADEMSLDWASREC,d,Aggregated DemandSolidWasteRecycled
+ADEMSLDWASLDF,d,Aggregated DemandSolidWasteLandfill
+ADEMSLDWASHISGL,d,Aggregated DemandSolidWasteHistorical LF waste
+ADEMSLDWASHISBW,d,Aggregated DemandSolidWasteHistorical LF waste
+ADEMSLDWASHISKV,d,Aggregated DemandSolidWasteHistorical LF waste
+ADEMSLDWASHISBR,d,Aggregated DemandSolidWasteHistorical LF waste
+ADEMSLDWASHISTK,d,Aggregated DemandSolidWasteHistorical LF waste
+ADEMSLDWASHISAH,d,Aggregated DemandSolidWasteHistorical LF waste
+ADEMSLDWASHISCF,d,Aggregated DemandSolidWasteHistorical LF waste
+ADEMSLDWASGRBDR,p,Aggregated DemandSolidWasteGreen BinDisco Road
+ADEMSLDWASGRBDF,p,Aggregated DemandSolidWasteGreen BinDufferin
+ADEMSLDWASGRBCP,p,Aggregated DemandSolidWasteGreen BinCompost
+ADEMSLDWASLDFGL,p,Aggregated DemandSolidWasteLandfillGreen Lane
+BGASLDWASLDFGL,p,Biogas flowSolidWasteLandfillGreen Lane
+BGASLDWASLDFGLCAP,p,Biogas flowSolidWasteLandfillGreen LaneCapture
+BGASLDWASLDFBW,p,Biogas flowSolidWasteLandfillBrock West
+BGASLDWASLDFKV,p,Biogas flowSolidWasteLandfillKeele Valley
+BGASLDWASLDFKVCAP,p,Biogas flowSolidWasteLandfillKeele ValleyCapture
+BGASLDWASLDFBR,p,Biogas flowSolidWasteLandfillBeard Rd
+BGASLDWASLDFBRCAP,p,Biogas flowSolidWasteLandfillBeard RdCapture
+BGASLDWASLDFTK,p,Biogas flowSolidWasteLandfillThackeray
+BGASLDWASLDFAH,p,Biogas flowSolidWasteLandfillArbor Hill
+BGASLDWASLDFAHCAP,p,Biogas flowSolidWasteLandfillArbor HillCapture
+BGASLDWASLDFCF,p,Biogas flowSolidWasteLandfillCarleton Farms
+BGASLDWASLDFCFCAP,p,Biogas flowSolidWasteLandfillCarleton FarmsCapture
+EUESLDWASGRBDRTTE,p,End Use EnergySolidWasteGreen BinDisco RoadTon to Energy
+SEESLDWASGRBDRADIMNGA,p,Secondary EnergySolidWasteGreenBinDisco RoadAnaerobic DigesterMix Natural Gas
+BMTNSLDWASGRBDR,p,Bio MethaneSolidWasteGreenBinDiscoRoad
+EUESLDWASGRBDFTTE,p,End Use EnergySolidWasteGreen BinDufferinTon to Energy
+SEESLDWASGRBDFADIMNGA,p,Secondary EnergySolidWasteGreenBinDufferinAnaerobic DigesterMix Natural Gas
+BMTNSLDWASGRBDF,p,Bio MethaneSolidWasteGreenBinDufferin
+BGASLDWASGRBCP,p,Biogas flowSolidWasteGreen BinCompost
+SLDWASELC,p,SolidWasteElectricity
+SLDWASNGA,p,SolidWasteNatural Gas
+SLDWASBMTN,p,SolidWasteBio Methane
+SLDWASHH2,p,SolidWasteHydrogen
+SLDWASCETH,p,SolidWasteCellulosic Ethanol
+SLDWASETHOS,p,SolidWasteDummy
+ADEMSLDWASLDFGLAGG,p,Aggregated DemandSolidWasteLF WasteAggregated

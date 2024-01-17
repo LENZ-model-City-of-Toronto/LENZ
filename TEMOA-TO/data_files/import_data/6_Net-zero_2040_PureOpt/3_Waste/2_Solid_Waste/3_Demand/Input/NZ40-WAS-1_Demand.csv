@@ -1,0 +1,351 @@
+regions,periods,demand_comm,demand,demand_units,demand_notes
+TO,2016,ADEMSLDWASGRB,231.82288,kt,Aggregated DemandSolidWasteGreen Bin
+TO,2016,ADEMSLDWASREC,258.45775,kt,Aggregated DemandSolidWasteRecycled
+TO,2016,ADEMSLDWASLDF,552.56267,kt,Aggregated DemandSolidWasteLandfill
+TO,2016,ADEMSLDWASHISGL,3739.19886,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2016,ADEMSLDWASHISBW,4974.651094,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2016,ADEMSLDWASHISKV,10478.39738,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2016,ADEMSLDWASHISBR,1769.224267,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2016,ADEMSLDWASHISTK,336.9710775,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2016,ADEMSLDWASHISAH,1067.618577,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2016,ADEMSLDWASHISCF,2864.59096,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2017,ADEMSLDWASGRB,249.633495,kt,Aggregated DemandSolidWasteGreen Bin
+TO,2017,ADEMSLDWASREC,260.55841,kt,Aggregated DemandSolidWasteRecycled
+TO,2017,ADEMSLDWASLDF,495.12217,kt,Aggregated DemandSolidWasteLandfill
+TO,2017,ADEMSLDWASHISGL,4125.702629,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2017,ADEMSLDWASHISBW,4755.753919,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2017,ADEMSLDWASHISKV,10017.32151,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2017,ADEMSLDWASHISBR,1691.373944,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2017,ADEMSLDWASHISTK,322.1435016,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2017,ADEMSLDWASHISAH,1020.640671,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2017,ADEMSLDWASHISCF,2738.541744,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2018,ADEMSLDWASGRB,257.27146,kt,Aggregated DemandSolidWasteGreen Bin
+TO,2018,ADEMSLDWASREC,262.61781,kt,Aggregated DemandSolidWasteRecycled
+TO,2018,ADEMSLDWASLDF,524.50078,kt,Aggregated DemandSolidWasteLandfill
+TO,2018,ADEMSLDWASHISGL,4441.638521,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2018,ADEMSLDWASHISBW,4546.488771,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2018,ADEMSLDWASHISKV,9576.534137,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2018,ADEMSLDWASHISBR,1616.949231,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2018,ADEMSLDWASHISTK,307.9683763,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2018,ADEMSLDWASHISAH,975.7299117,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2018,ADEMSLDWASHISCF,2618.039011,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2019,ADEMSLDWASGRB,278.17091,kt,Aggregated DemandSolidWasteGreen Bin
+TO,2019,ADEMSLDWASREC,264.80199,kt,Aggregated DemandSolidWasteRecycled
+TO,2019,ADEMSLDWASLDF,535.89045,kt,Aggregated DemandSolidWasteLandfill
+TO,2019,ADEMSLDWASHISGL,4772.282556,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2019,ADEMSLDWASHISBW,4346.431816,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2019,ADEMSLDWASHISKV,9155.14252,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2019,ADEMSLDWASHISBR,1545.799393,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2019,ADEMSLDWASHISTK,294.4169922,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2019,ADEMSLDWASHISAH,932.7953385,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2019,ADEMSLDWASHISCF,2502.838702,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2020,ADEMSLDWASGRB,280.3881409,kt,Aggregated DemandSolidWasteGreen Bin
+TO,2020,ADEMSLDWASREC,266.90085,kt,Aggregated DemandSolidWasteRecycled
+TO,2020,ADEMSLDWASLDF,497.512725,kt,Aggregated DemandSolidWasteLandfill
+TO,2020,ADEMSLDWASHISGL,5097.499473,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2020,ADEMSLDWASHISBW,4155.177871,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2020,ADEMSLDWASHISKV,8752.293195,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2020,ADEMSLDWASHISBR,1477.780327,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2020,ADEMSLDWASHISTK,281.4619032,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2020,ADEMSLDWASHISAH,891.7499947,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2020,ADEMSLDWASHISCF,2392.707497,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2021,ADEMSLDWASGRB,282.5387149,kt,Aggregated DemandSolidWasteGreen Bin
+TO,2021,ADEMSLDWASREC,268.93722,kt,Aggregated DemandSolidWasteRecycled
+TO,2021,ADEMSLDWASLDF,501.3286421,kt,Aggregated DemandSolidWasteLandfill
+TO,2021,ADEMSLDWASHISGL,5348.817572,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2021,ADEMSLDWASHISBW,3972.339581,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2021,ADEMSLDWASHISKV,8367.170255,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2021,ADEMSLDWASHISBR,1412.754272,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2021,ADEMSLDWASHISTK,269.0768706,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2021,ADEMSLDWASHISAH,852.5107493,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2021,ADEMSLDWASHISCF,2287.422342,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2022,ADEMSLDWASGRB,284.187245,kt,Aggregated DemandSolidWasteGreen Bin
+TO,2022,ADEMSLDWASREC,270.4973,kt,Aggregated DemandSolidWasteRecycled
+TO,2022,ADEMSLDWASLDF,504.2537471,kt,Aggregated DemandSolidWasteLandfill
+TO,2022,ADEMSLDWASHISGL,5592.725049,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2022,ADEMSLDWASHISBW,3797.546637,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2022,ADEMSLDWASHISKV,7998.993694,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2022,ADEMSLDWASHISBR,1350.589526,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2022,ADEMSLDWASHISTK,257.2368108,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2022,ADEMSLDWASHISAH,814.9981296,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2022,ADEMSLDWASHISCF,2186.769999,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2023,ADEMSLDWASGRB,285.8902001,kt,Aggregated DemandSolidWasteGreen Bin
+TO,2023,ADEMSLDWASREC,272.1182199,kt,Aggregated DemandSolidWasteRecycled
+TO,2023,ADEMSLDWASLDF,507.2843646,kt,Aggregated DemandSolidWasteLandfill
+TO,2023,ADEMSLDWASHISGL,5828.696376,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2023,ADEMSLDWASHISBW,3630.445022,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2023,ADEMSLDWASHISKV,7647.017828,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2023,ADEMSLDWASHISBR,1291.160186,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2023,ADEMSLDWASHISTK,245.9177433,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2023,ADEMSLDWASHISAH,779.1361596,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2023,ADEMSLDWASHISCF,2090.546612,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2024,ADEMSLDWASGRB,287.6532029,kt,Aggregated DemandSolidWasteGreen Bin
+TO,2024,ADEMSLDWASREC,273.7962948,kt,Aggregated DemandSolidWasteRecycled
+TO,2024,ADEMSLDWASLDF,510.4222655,kt,Aggregated DemandSolidWasteLandfill
+TO,2024,ADEMSLDWASHISGL,6057.181633,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2024,ADEMSLDWASHISBW,3470.696299,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2024,ADEMSLDWASHISKV,7310.529787,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2024,ADEMSLDWASHISBR,1234.345886,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2024,ADEMSLDWASHISTK,235.0967434,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2024,ADEMSLDWASHISAH,744.8522066,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2024,ADEMSLDWASHISCF,1998.557297,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2025,ADEMSLDWASGRB,552.5009784,kt,Aggregated DemandSolidWasteGreen Bin
+TO,2025,ADEMSLDWASREC,275.4580718,kt,Aggregated DemandSolidWasteRecycled
+TO,2025,ADEMSLDWASLDF,0,kt,Aggregated DemandSolidWasteLandfill
+TO,2025,ADEMSLDWASHISGL,6278.612789,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2025,ADEMSLDWASHISBW,3317.976922,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2025,ADEMSLDWASHISKV,6988.848068,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2025,ADEMSLDWASHISBR,1180.031559,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2025,ADEMSLDWASHISTK,224.7518946,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2025,ADEMSLDWASHISAH,712.0768338,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2025,ADEMSLDWASHISCF,1910.615743,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2026,ADEMSLDWASGRB,555.7211286,kt,Aggregated DemandSolidWasteGreen Bin
+TO,2026,ADEMSLDWASREC,277.0613439,kt,Aggregated DemandSolidWasteRecycled
+TO,2026,ADEMSLDWASLDF,0,kt,Aggregated DemandSolidWasteLandfill
+TO,2026,ADEMSLDWASHISGL,6002.338015,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2026,ADEMSLDWASHISBW,3171.977582,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2026,ADEMSLDWASHISKV,6681.321153,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2026,ADEMSLDWASHISBR,1128.107199,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2026,ADEMSLDWASHISTK,214.8622453,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2026,ADEMSLDWASHISAH,680.74366,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2026,ADEMSLDWASHISCF,1826.543839,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2027,ADEMSLDWASGRB,558.8315005,kt,Aggregated DemandSolidWasteGreen Bin
+TO,2027,ADEMSLDWASREC,278.6100616,kt,Aggregated DemandSolidWasteRecycled
+TO,2027,ADEMSLDWASLDF,0,kt,Aggregated DemandSolidWasteLandfill
+TO,2027,ADEMSLDWASHISGL,5738.220028,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2027,ADEMSLDWASHISBW,3032.402581,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2027,ADEMSLDWASHISKV,6387.326198,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2027,ADEMSLDWASHISBR,1078.467641,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2027,ADEMSLDWASHISTK,205.4077655,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2027,ADEMSLDWASHISAH,650.7892247,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2027,ADEMSLDWASHISCF,1746.171311,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2028,ADEMSLDWASGRB,561.8987054,kt,Aggregated DemandSolidWasteGreen Bin
+TO,2028,ADEMSLDWASREC,280.1373295,kt,Aggregated DemandSolidWasteRecycled
+TO,2028,ADEMSLDWASLDF,0,kt,Aggregated DemandSolidWasteLandfill
+TO,2028,ADEMSLDWASHISGL,5485.723897,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2028,ADEMSLDWASHISBW,2898.969231,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2028,ADEMSLDWASHISKV,6106.267761,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2028,ADEMSLDWASHISBR,1031.012349,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2028,ADEMSLDWASHISTK,196.3693065,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2028,ADEMSLDWASHISAH,622.1528601,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2028,ADEMSLDWASHISCF,1669.335376,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2029,ADEMSLDWASGRB,565.0029668,kt,Aggregated DemandSolidWasteGreen Bin
+TO,2029,ADEMSLDWASREC,281.6830152,kt,Aggregated DemandSolidWasteRecycled
+TO,2029,ADEMSLDWASLDF,0,kt,Aggregated DemandSolidWasteLandfill
+TO,2029,ADEMSLDWASHISGL,5244.338231,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2029,ADEMSLDWASHISBW,2771.407285,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2029,ADEMSLDWASHISKV,5837.576603,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2029,ADEMSLDWASHISBR,985.6452099,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2029,ADEMSLDWASHISTK,187.7285625,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2029,ADEMSLDWASHISAH,594.7765675,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2029,ADEMSLDWASHISCF,1595.880416,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2030,ADEMSLDWASGRB,568.2006972,kt,Aggregated DemandSolidWasteGreen Bin
+TO,2030,ADEMSLDWASREC,283.275146,kt,Aggregated DemandSolidWasteRecycled
+TO,2030,ADEMSLDWASLDF,0,kt,Aggregated DemandSolidWasteLandfill
+TO,2030,ADEMSLDWASHISGL,5013.574143,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2030,ADEMSLDWASHISBW,2649.458386,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2030,ADEMSLDWASHISKV,5580.708532,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2030,ADEMSLDWASHISBR,942.2743386,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2030,ADEMSLDWASHISTK,179.4680331,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2030,ADEMSLDWASHISAH,568.6049008,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2030,ADEMSLDWASHISCF,1525.657659,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2031,ADEMSLDWASGRB,571.5026045,kt,Aggregated DemandSolidWasteGreen Bin
+TO,2031,ADEMSLDWASREC,284.9190456,kt,Aggregated DemandSolidWasteRecycled
+TO,2031,ADEMSLDWASLDF,0,kt,Aggregated DemandSolidWasteLandfill
+TO,2031,ADEMSLDWASHISGL,4792.964256,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2031,ADEMSLDWASHISBW,2532.875545,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2031,ADEMSLDWASHISKV,5335.143304,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2031,ADEMSLDWASHISBR,900.8118949,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2031,ADEMSLDWASHISTK,171.5709877,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2031,ADEMSLDWASHISAH,543.5848533,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2031,ADEMSLDWASHISCF,1458.52488,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2032,ADEMSLDWASGRB,574.7858448,kt,Aggregated DemandSolidWasteGreen Bin
+TO,2032,ADEMSLDWASREC,286.5535,kt,Aggregated DemandSolidWasteRecycled
+TO,2032,ADEMSLDWASLDF,0,kt,Aggregated DemandSolidWasteLandfill
+TO,2032,ADEMSLDWASHISGL,4582.061759,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2032,ADEMSLDWASHISBW,2421.422643,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2032,ADEMSLDWASHISKV,5100.383564,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2032,ADEMSLDWASHISBR,861.1739031,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2032,ADEMSLDWASHISTK,164.0214322,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2032,ADEMSLDWASHISAH,519.6657509,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2032,ADEMSLDWASHISCF,1394.346112,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2033,ADEMSLDWASGRB,578.0732711,kt,Aggregated DemandSolidWasteGreen Bin
+TO,2033,ADEMSLDWASREC,288.1900331,kt,Aggregated DemandSolidWasteRecycled
+TO,2033,ADEMSLDWASLDF,0,kt,Aggregated DemandSolidWasteLandfill
+TO,2033,ADEMSLDWASHISGL,4380.439503,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2033,ADEMSLDWASHISBW,2314.873949,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2033,ADEMSLDWASHISKV,4875.953843,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2033,ADEMSLDWASHISBR,823.2800828,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2033,ADEMSLDWASHISTK,156.8040761,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2033,ADEMSLDWASHISAH,496.7991493,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2033,ADEMSLDWASHISCF,1332.991372,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2034,ADEMSLDWASGRB,581.3018203,kt,Aggregated DemandSolidWasteGreen Bin
+TO,2034,ADEMSLDWASREC,289.7973095,kt,Aggregated DemandSolidWasteRecycled
+TO,2034,ADEMSLDWASLDF,0,kt,Aggregated DemandSolidWasteLandfill
+TO,2034,ADEMSLDWASHISGL,4187.689134,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2034,ADEMSLDWASHISBW,2213.013666,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2034,ADEMSLDWASHISKV,4661.399596,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2034,ADEMSLDWASHISBR,787.053686,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2034,ADEMSLDWASHISTK,149.9043019,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2034,ADEMSLDWASHISAH,474.9387357,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2034,ADEMSLDWASHISCF,1274.336395,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2035,ADEMSLDWASGRB,584.384594,kt,Aggregated DemandSolidWasteGreen Bin
+TO,2035,ADEMSLDWASREC,291.3321456,kt,Aggregated DemandSolidWasteRecycled
+TO,2035,ADEMSLDWASLDF,0,kt,Aggregated DemandSolidWasteLandfill
+TO,2035,ADEMSLDWASHISGL,4003.420267,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2035,ADEMSLDWASHISBW,2115.635492,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2035,ADEMSLDWASHISKV,4456.286275,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2035,ADEMSLDWASHISBR,752.4213419,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2035,ADEMSLDWASHISTK,143.3081351,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2035,ADEMSLDWASHISAH,454.0402354,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2035,ADEMSLDWASHISCF,1218.262385,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2036,ADEMSLDWASGRB,587.4483177,kt,Aggregated DemandSolidWasteGreen Bin
+TO,2036,ADEMSLDWASREC,292.8575144,kt,Aggregated DemandSolidWasteRecycled
+TO,2036,ADEMSLDWASLDF,0,kt,Aggregated DemandSolidWasteLandfill
+TO,2036,ADEMSLDWASHISGL,3827.259694,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2036,ADEMSLDWASHISBW,2022.542203,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2036,ADEMSLDWASHISKV,4260.198457,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2036,ADEMSLDWASHISBR,719.3129081,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2036,ADEMSLDWASHISTK,137.0022163,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2036,ADEMSLDWASHISAH,434.0613217,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2036,ADEMSLDWASHISCF,1164.655772,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2037,ADEMSLDWASGRB,590.4485566,kt,Aggregated DemandSolidWasteGreen Bin
+TO,2037,ADEMSLDWASREC,294.3513252,kt,Aggregated DemandSolidWasteRecycled
+TO,2037,ADEMSLDWASLDF,0,kt,Aggregated DemandSolidWasteLandfill
+TO,2037,ADEMSLDWASHISGL,3658.85063,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2037,ADEMSLDWASHISBW,1933.545253,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2037,ADEMSLDWASHISKV,4072.738997,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2037,ADEMSLDWASHISBR,687.6613288,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2037,ADEMSLDWASHISTK,130.9737738,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2037,ADEMSLDWASHISAH,414.9615305,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2037,ADEMSLDWASHISCF,1113.407985,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2038,ADEMSLDWASGRB,593.3816905,kt,Aggregated DemandSolidWasteGreen Bin
+TO,2038,ADEMSLDWASREC,295.8117997,kt,Aggregated DemandSolidWasteRecycled
+TO,2038,ADEMSLDWASLDF,0,kt,Aggregated DemandSolidWasteLandfill
+TO,2038,ADEMSLDWASHISGL,3497.851989,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2038,ADEMSLDWASHISBW,1848.464393,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2038,ADEMSLDWASHISKV,3893.528226,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2038,ADEMSLDWASHISBR,657.4024987,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2038,ADEMSLDWASHISTK,125.210598,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2038,ADEMSLDWASHISAH,396.7021782,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2038,ADEMSLDWASHISCF,1064.41523,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2039,ADEMSLDWASGRB,596.34287,kt,Aggregated DemandSolidWasteGreen Bin
+TO,2039,ADEMSLDWASREC,297.2862093,kt,Aggregated DemandSolidWasteRecycled
+TO,2039,ADEMSLDWASLDF,0,kt,Aggregated DemandSolidWasteLandfill
+TO,2039,ADEMSLDWASHISGL,3343.937693,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2039,ADEMSLDWASHISBW,1767.127305,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2039,ADEMSLDWASHISKV,3722.203179,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2039,ADEMSLDWASHISBR,628.4751333,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2039,ADEMSLDWASHISTK,119.7010163,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2039,ADEMSLDWASHISAH,379.2462834,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2039,ADEMSLDWASHISCF,1017.57828,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2040,ADEMSLDWASGRB,599.4424274,kt,Aggregated DemandSolidWasteGreen Bin
+TO,2040,ADEMSLDWASREC,298.8293829,kt,Aggregated DemandSolidWasteRecycled
+TO,2040,ADEMSLDWASLDF,0,kt,Aggregated DemandSolidWasteLandfill
+TO,2040,ADEMSLDWASHISGL,3196.796014,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2040,ADEMSLDWASHISBW,1689.369253,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2040,ADEMSLDWASHISKV,3558.416866,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2040,ADEMSLDWASHISBR,600.8206448,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2040,ADEMSLDWASHISTK,114.4338702,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2040,ADEMSLDWASHISAH,362.5584919,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2040,ADEMSLDWASHISCF,972.8022728,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2041,ADEMSLDWASGRB,602.7176764,kt,Aggregated DemandSolidWasteGreen Bin
+TO,2041,ADEMSLDWASREC,300.4598638,kt,Aggregated DemandSolidWasteRecycled
+TO,2041,ADEMSLDWASLDF,0,kt,Aggregated DemandSolidWasteLandfill
+TO,2041,ADEMSLDWASHISGL,3056.128939,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2041,ADEMSLDWASHISBW,1615.032752,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2041,ADEMSLDWASHISKV,3401.837563,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2041,ADEMSLDWASHISBR,574.3830235,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2041,ADEMSLDWASHISTK,109.3984917,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2041,ADEMSLDWASHISAH,346.6050053,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2041,ADEMSLDWASHISCF,929.9965231,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2042,ADEMSLDWASGRB,606.167123,kt,Aggregated DemandSolidWasteGreen Bin
+TO,2042,ADEMSLDWASREC,302.1769147,kt,Aggregated DemandSolidWasteRecycled
+TO,2042,ADEMSLDWASLDF,0,kt,Aggregated DemandSolidWasteLandfill
+TO,2042,ADEMSLDWASHISGL,2921.65157,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2042,ADEMSLDWASHISBW,1543.967244,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2042,ADEMSLDWASHISKV,3252.148144,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2042,ADEMSLDWASHISBR,549.1087241,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2042,ADEMSLDWASHISTK,104.5846826,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2042,ADEMSLDWASHISAH,331.3535122,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2042,ADEMSLDWASHISCF,889.0743342,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2043,ADEMSLDWASGRB,609.569038,kt,Aggregated DemandSolidWasteGreen Bin
+TO,2043,ADEMSLDWASREC,303.8703418,kt,Aggregated DemandSolidWasteRecycled
+TO,2043,ADEMSLDWASLDF,0,kt,Aggregated DemandSolidWasteLandfill
+TO,2043,ADEMSLDWASHISGL,2793.091544,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2043,ADEMSLDWASHISBW,1476.028797,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2043,ADEMSLDWASHISKV,3109.045436,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2043,ADEMSLDWASHISBR,524.9465575,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2043,ADEMSLDWASHISTK,99.98269323,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2043,ADEMSLDWASHISAH,316.7731233,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2043,ADEMSLDWASHISCF,849.9528247,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2044,ADEMSLDWASGRB,612.863278,kt,Aggregated DemandSolidWasteGreen Bin
+TO,2044,ADEMSLDWASREC,305.5102635,kt,Aggregated DemandSolidWasteRecycled
+TO,2044,ADEMSLDWASLDF,0,kt,Aggregated DemandSolidWasteLandfill
+TO,2044,ADEMSLDWASHISGL,2670.188482,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2044,ADEMSLDWASHISBW,1411.079813,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2044,ADEMSLDWASHISKV,2972.239608,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2044,ADEMSLDWASHISBR,501.847587,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2044,ADEMSLDWASHISTK,95.58320295,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2044,ADEMSLDWASHISAH,302.8343082,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2044,ADEMSLDWASHISCF,812.5527601,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2045,ADEMSLDWASGRB,616.0041717,kt,Aggregated DemandSolidWasteGreen Bin
+TO,2045,ADEMSLDWASREC,307.0739781,kt,Aggregated DemandSolidWasteRecycled
+TO,2045,ADEMSLDWASLDF,0,kt,Aggregated DemandSolidWasteLandfill
+TO,2045,ADEMSLDWASHISGL,2552.693465,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2045,ADEMSLDWASHISBW,1348.988748,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2045,ADEMSLDWASHISKV,2841.453581,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2045,ADEMSLDWASHISBR,479.7650295,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2045,ADEMSLDWASHISTK,91.37730133,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2045,ADEMSLDWASHISAH,289.508836,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2045,ADEMSLDWASHISCF,776.7983925,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2046,ADEMSLDWASGRB,619.0066578,kt,Aggregated DemandSolidWasteGreen Bin
+TO,2046,ADEMSLDWASREC,308.5689154,kt,Aggregated DemandSolidWasteRecycled
+TO,2046,ADEMSLDWASLDF,0,kt,Aggregated DemandSolidWasteLandfill
+TO,2046,ADEMSLDWASHISGL,2440.368525,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2046,ADEMSLDWASHISBW,1289.629846,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2046,ADEMSLDWASHISKV,2716.422468,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2046,ADEMSLDWASHISBR,458.65416,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2046,ADEMSLDWASHISTK,87.35646997,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2046,ADEMSLDWASHISAH,276.7697182,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2046,ADEMSLDWASHISCF,742.6173071,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2047,ADEMSLDWASGRB,621.931731,kt,Aggregated DemandSolidWasteGreen Bin
+TO,2047,ADEMSLDWASREC,310.02538,kt,Aggregated DemandSolidWasteRecycled
+TO,2047,ADEMSLDWASLDF,0,kt,Aggregated DemandSolidWasteLandfill
+TO,2047,ADEMSLDWASHISGL,2332.986164,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2047,ADEMSLDWASHISBW,1232.882886,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2047,ADEMSLDWASHISKV,2596.893039,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2047,ADEMSLDWASHISBR,438.472222,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2047,ADEMSLDWASHISTK,83.51256531,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2047,ADEMSLDWASHISAH,264.5911537,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2047,ADEMSLDWASHISCF,709.9402756,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2048,ADEMSLDWASGRB,624.8548744,kt,Aggregated DemandSolidWasteGreen Bin
+TO,2048,ADEMSLDWASREC,311.4808862,kt,Aggregated DemandSolidWasteRecycled
+TO,2048,ADEMSLDWASLDF,0,kt,Aggregated DemandSolidWasteLandfill
+TO,2048,ADEMSLDWASHISGL,2230.328898,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2048,ADEMSLDWASHISBW,1178.632934,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2048,ADEMSLDWASHISKV,2482.623206,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2048,ADEMSLDWASHISBR,419.1783401,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2048,ADEMSLDWASHISTK,79.83780214,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2048,ADEMSLDWASHISAH,252.9484766,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2048,ADEMSLDWASHISCF,678.7011157,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2049,ADEMSLDWASGRB,627.8383747,kt,Aggregated DemandSolidWasteGreen Bin
+TO,2049,ADEMSLDWASREC,312.9663875,kt,Aggregated DemandSolidWasteRecycled
+TO,2049,ADEMSLDWASLDF,0,kt,Aggregated DemandSolidWasteLandfill
+TO,2049,ADEMSLDWASHISGL,2132.18881,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2049,ADEMSLDWASHISBW,1126.770117,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2049,ADEMSLDWASHISKV,2373.381533,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2049,ADEMSLDWASHISBR,400.7334376,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2049,ADEMSLDWASHISTK,76.3247378,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2049,ADEMSLDWASHISAH,241.8181067,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2049,ADEMSLDWASHISCF,648.8365575,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2050,ADEMSLDWASGRB,630.9160318,kt,Aggregated DemandSolidWasteGreen Bin
+TO,2050,ADEMSLDWASREC,314.4986761,kt,Aggregated DemandSolidWasteRecycled
+TO,2050,ADEMSLDWASLDF,0,kt,Aggregated DemandSolidWasteLandfill
+TO,2050,ADEMSLDWASHISGL,2038.367133,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2050,ADEMSLDWASHISBW,1077.189394,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2050,ADEMSLDWASHISKV,2268.946769,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2050,ADEMSLDWASHISBR,383.1001572,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2050,ADEMSLDWASHISTK,72.96625714,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2050,ADEMSLDWASHISAH,231.177501,kt,Aggregated DemandSolidWasteHistorical LF waste
+TO,2050,ADEMSLDWASHISCF,620.2861151,kt,Aggregated DemandSolidWasteHistorical LF waste

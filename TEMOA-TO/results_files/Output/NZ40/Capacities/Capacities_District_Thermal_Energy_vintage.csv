@@ -1,0 +1,277 @@
+"District thermal energy Capacity, per technology type, and per vintage"
+vintage,Tech_cat,EndUse,Tech_type_1,Tech_type_2,Capacity_units,Capacities
+2015,Toronto Average,District Cooling,Pipe,___,MW,376.2322873900292
+2015,Toronto Average,District Cooling,Substation,___,MW,376.2322873900292
+2015,Toronto Average,District Heating,Pipe,___,MW,850.8756684981685
+2015,Toronto Average,District Heating,Substation,___,MW,850.8756684981686
+2015,Production,District Cooling,Deep Lake Cooling,Enwave,MW,222.14076246334312
+2015,Production,District Cooling,Heat Pump,Large,MW,51.11788856304984
+2015,Production,District Cooling,Heat Pump,Medium,MW,63.34310850439882
+2015,Production,District Heating,Boiler,Large,MW,628.4800077410634
+2015,Storage,District Cooling,Hot Tank Storage,Medium,MW,42.22873900293257
+2023,Toronto Average,District Cooling,Pipe,___,MW,1.1624701393040557
+2023,Toronto Average,District Cooling,Substation,___,MW,3.1141642413472863
+2023,Toronto Average,District Heating,Pipe,___,MW,4.2304417799007545
+2023,Toronto Average,District Heating,Substation,___,MW,5.420447134962387
+2023,Consumption,District Cooling,Heat Pump,Large,MW,0.1610306033308471
+2023,Consumption,District Cooling,Heat Pump,Medium,MW,0.15003167898210693
+2023,Consumption,District Cooling,Heat Pump,Small,MW,0.10769821405838088
+2023,Consumption,District Heating,Heat Pump,Large,MW,1.771215611209254
+2023,Consumption,District Heating,Heat Pump,Medium,MW,1.7256892276316875
+2023,Consumption,District Heating,Heat Pump,Small,MW,5.535784514374204
+2023,Production,District Cooling,Deep Lake Cooling,Enwave,MW,1.5820966692149432
+2023,Production,District Cooling,Heat Pump,Enwave,MW,2.324154168562555
+2023,Production,District Cooling,Heat Pump,Large,MW,3.1054663401929035
+2023,Production,District Cooling,Heat Pump,Medium,MW,3.0767332877429716
+2023,Production,District Cooling,Heat Pump,Small,MW,1.6570598401155519
+2023,Production,District Heating,Boiler,Large,MW,6.808419882566321
+2023,Production,District Heating,Boiler,Medium,MW,6.933126341923248
+2023,Production,District Heating,Boiler,Small,MW,5.945023172281628
+2023,Production,District Heating,Gas Turbine,Large,MW,11.071605417599999
+2023,Production,District Heating,Gas Turbine,Medium,MW,11.071605417599999
+2023,Production,District Heating,Gas Turbine,Small,MW,11.071605417599999
+2023,Production,District Heating,Internal Combustion Engine,Large,MW,11.071605417599999
+2023,Production,District Heating,Internal Combustion Engine,Medium,MW,11.071605417599999
+2023,Production,District Heating,Internal Combustion Engine,Small,MW,11.071605417599999
+2023,Production,Hydrogen,Alkaline Electrolyser,___,MW,1.385003214056668
+2023,Production,Hydrogen,Autothermal Reforming Gas,Carbon Capture and Storage,MW,1.3850020057299732
+2023,Production,Hydrogen,Steam Methane Reforming,Carbon Capture and Storage,MW,1.3850013532384713
+2023,Production,Hydrogen,Steam Methane Reforming,___,MW,1.3850023139314986
+2023,Storage,District Cooling,Hot Tank Storage,Large,MW,2.4449435161625503
+2023,Storage,District Cooling,Hot Tank Storage,Medium,MW,2.4225924517773487
+2023,Storage,District Cooling,Hot Tank Storage,Small,MW,2.4122295464111594
+2023,Storage,District Heating,Hot Tank Storage,Large,MW,5.26399057460336
+2023,Storage,District Heating,Hot Tank Storage,Medium,MW,4.773930546001617
+2023,Storage,District Heating,Hot Tank Storage,Small,MW,4.444294746952512
+2023,Storage,District Heating,Pit Storage,Large,MW,1.0032560199929494
+2023,Storage,District Heating,Pit Storage,Medium,MW,0.8831139658454598
+2023,Storage,District Heating,Pit Storage,Small,MW,0.7143227801518802
+2024,Toronto Average,District Cooling,Pipe,___,MW,0.23146049030859414
+2024,Toronto Average,District Cooling,Substation,___,MW,0.6064962353313361
+2024,Toronto Average,District Heating,Pipe,___,MW,0.8440949721781185
+2024,Toronto Average,District Heating,Substation,___,MW,1.082329610616792
+2024,Consumption,District Cooling,Heat Pump,Large,MW,0.03082054668180961
+2024,Consumption,District Cooling,Heat Pump,Medium,MW,0.028823211122520124
+2024,Consumption,District Cooling,Heat Pump,Small,MW,0.020591510173428224
+2024,Consumption,District Heating,Heat Pump,Large,MW,0.3532832650226264
+2024,Consumption,District Heating,Heat Pump,Medium,MW,0.3441465821741281
+2024,Consumption,District Heating,Heat Pump,Small,MW,1.1071370533888918
+2024,Production,District Cooling,Deep Lake Cooling,Enwave,MW,0.3156570190290339
+2024,Production,District Cooling,Heat Pump,Enwave,MW,0.4629374128012826
+2024,Production,District Cooling,Heat Pump,Large,MW,0.6186690558400223
+2024,Production,District Cooling,Heat Pump,Medium,MW,0.6131036799268311
+2024,Production,District Cooling,Heat Pump,Small,MW,0.32935159159098837
+2024,Production,District Heating,Boiler,Large,MW,1.3575940302445655
+2024,Production,District Heating,Boiler,Medium,MW,1.3827378696557056
+2024,Production,District Heating,Boiler,Small,MW,1.1855873292840386
+2024,Production,District Heating,Gas Turbine,Large,MW,2.2143210835199993
+2024,Production,District Heating,Gas Turbine,Medium,MW,2.2143210835199993
+2024,Production,District Heating,Gas Turbine,Small,MW,2.2143210835199993
+2024,Production,District Heating,Internal Combustion Engine,Large,MW,2.2143210835199993
+2024,Production,District Heating,Internal Combustion Engine,Medium,MW,2.2143210835199993
+2024,Production,District Heating,Internal Combustion Engine,Small,MW,2.2143210835199993
+2024,Production,Hydrogen,Alkaline Electrolyser,___,MW,0.276999833035212
+2024,Production,Hydrogen,Autothermal Reforming Gas,Carbon Capture and Storage,MW,0.27699826060800403
+2024,Production,Hydrogen,Steam Methane Reforming,Carbon Capture and Storage,MW,0.276997425408112
+2024,Production,Hydrogen,Steam Methane Reforming,___,MW,0.2769986539337334
+2024,Storage,District Cooling,Hot Tank Storage,Large,MW,0.4877125425445765
+2024,Storage,District Cooling,Hot Tank Storage,Medium,MW,0.4832642351298522
+2024,Storage,District Cooling,Hot Tank Storage,Small,MW,0.4812012796996471
+2024,Storage,District Heating,Hot Tank Storage,Large,MW,1.0501376903397515
+2024,Storage,District Heating,Hot Tank Storage,Medium,MW,0.9516242193628037
+2024,Storage,District Heating,Hot Tank Storage,Small,MW,0.8857457290661215
+2024,Storage,District Heating,Pit Storage,Large,MW,0.19987709833775316
+2024,Storage,District Heating,Pit Storage,Medium,MW,0.17595911527002228
+2024,Storage,District Heating,Pit Storage,Small,MW,0.14232631830417242
+2025,Toronto Average,District Cooling,Pipe,___,MW,0.2761601277148418
+2025,Toronto Average,District Cooling,Substation,___,MW,0.7107148958922256
+2025,Toronto Average,District Heating,Pipe,___,MW,1.0117268486781466
+2025,Toronto Average,District Heating,Substation,___,MW,1.2966099313210644
+2025,Consumption,District Cooling,Heat Pump,Large,MW,0.02755519652594524
+2025,Consumption,District Cooling,Heat Pump,Medium,MW,0.0263161830381063
+2025,Consumption,District Cooling,Heat Pump,Small,MW,0.017873713730742487
+2025,Consumption,District Heating,Heat Pump,Large,MW,0.42251146584341465
+2025,Consumption,District Heating,Heat Pump,Medium,MW,0.41164540574842057
+2025,Consumption,District Heating,Heat Pump,Small,MW,1.328559553523442
+2025,Production,District Cooling,Deep Lake Cooling,Enwave,MW,0.3773838471286929
+2025,Production,District Cooling,Heat Pump,Enwave,MW,0.5539295680294781
+2025,Production,District Cooling,Heat Pump,Large,MW,0.7290340069378897
+2025,Production,District Cooling,Heat Pump,Medium,MW,0.7235420954607208
+2025,Production,District Cooling,Heat Pump,Small,MW,0.3820719871075301
+2025,Production,District Heating,Boiler,Large,MW,1.6186538236478158
+2025,Production,District Heating,Boiler,Medium,MW,1.6509019328621135
+2025,Production,District Heating,Boiler,Small,MW,1.4177219685991105
+2025,Production,District Heating,Gas Turbine,Large,MW,2.657185300223999
+2025,Production,District Heating,Gas Turbine,Medium,MW,2.657185300223999
+2025,Production,District Heating,Gas Turbine,Small,MW,2.657185300223999
+2025,Production,District Heating,Internal Combustion Engine,Large,MW,2.657185300223999
+2025,Production,District Heating,Internal Combustion Engine,Medium,MW,2.657185300223999
+2025,Production,District Heating,Internal Combustion Engine,Small,MW,2.657185300223999
+2025,Production,Hydrogen,Alkaline Electrolyser,___,MW,0.33239961529740636
+2025,Production,Hydrogen,Autothermal Reforming Gas,Carbon Capture and Storage,MW,0.3323973929876931
+2025,Production,Hydrogen,Steam Methane Reforming,Carbon Capture and Storage,MW,0.3323962419220169
+2025,Production,Hydrogen,Steam Methane Reforming,___,MW,0.33239798289593087
+2025,Storage,District Cooling,Hot Tank Storage,Large,MW,0.5821940870274133
+2025,Storage,District Cooling,Hot Tank Storage,Medium,MW,0.5769386051064441
+2025,Storage,District Cooling,Hot Tank Storage,Small,MW,0.5744968891545222
+2025,Storage,District Heating,Hot Tank Storage,Large,MW,1.2575534577792833
+2025,Storage,District Heating,Hot Tank Storage,Medium,MW,1.137858860435177
+2025,Storage,District Heating,Hot Tank Storage,Small,MW,1.0584425698986781
+2025,Storage,District Heating,Pit Storage,Large,MW,0.23832873630194717
+2025,Storage,District Heating,Pit Storage,Medium,MW,0.20991268423777037
+2025,Storage,District Heating,Pit Storage,Small,MW,0.16980036106986035
+2030,Toronto Average,District Cooling,Pipe,___,MW,2.0471841616718045
+2030,Toronto Average,District Cooling,Substation,___,MW,4.301903301616575
+2030,Toronto Average,District Heating,Pipe,___,MW,8.8334569417554
+2030,Toronto Average,District Heating,Substation,___,MW,10.347064354194028
+2030,Consumption,District Heating,Heat Pump,Large,MW,3.1846921591621986
+2030,Consumption,District Heating,Heat Pump,Medium,MW,3.1544151295325342
+2030,Consumption,District Heating,Heat Pump,Small,MW,11.864038629366071
+2030,Production,District Cooling,Deep Lake Cooling,Enwave,MW,3.0598306247691767
+2030,Production,District Cooling,Heat Pump,Enwave,MW,4.583709094567828
+2030,Production,District Heating,Boiler,Large,MW,13.3873176900975
+2030,Production,District Heating,Boiler,Medium,MW,13.725840131137792
+2030,Production,District Heating,Boiler,Small,MW,11.51519494619045
+2030,Production,District Heating,Gas Turbine,Large,MW,23.72845215617629
+2030,Production,District Heating,Gas Turbine,Medium,MW,23.72845215617629
+2030,Production,District Heating,Gas Turbine,Small,MW,23.72845215617629
+2030,Production,District Heating,Internal Combustion Engine,Large,MW,23.72845215617629
+2030,Production,District Heating,Internal Combustion Engine,Medium,MW,23.72845215617629
+2030,Production,District Heating,Internal Combustion Engine,Small,MW,23.72845215617629
+2030,Production,Hydrogen,Alkaline Electrolyser,___,MW,2.9683067661533564
+2030,Production,Hydrogen,Autothermal Reforming Gas,Carbon Capture and Storage,MW,2.968294294703565
+2030,Production,Hydrogen,Steam Methane Reforming,Carbon Capture and Storage,MW,2.9682879925013705
+2030,Production,Hydrogen,Steam Methane Reforming,___,MW,2.9682977952469254
+2030,Storage,District Cooling,Hot Tank Storage,Large,MW,0.9304086807339891
+2030,Storage,District Cooling,Hot Tank Storage,Medium,MW,0.9048518262434996
+2030,Storage,District Cooling,Hot Tank Storage,Small,MW,0.8927349862489472
+2030,Storage,District Heating,Hot Tank Storage,Large,MW,10.270146365724608
+2030,Storage,District Heating,Hot Tank Storage,Medium,MW,8.288254257188933
+2030,Storage,District Heating,Hot Tank Storage,Small,MW,6.582323020783584
+2030,Storage,District Heating,Pit Storage,Large,MW,0.7440862902109106
+2030,Storage,District Heating,Pit Storage,Medium,MW,0.6178633362641652
+2030,Storage,District Heating,Pit Storage,Small,MW,0.45642534487756864
+2035,Toronto Average,District Cooling,Pipe,___,MW,4.9976286025359355
+2035,Toronto Average,District Cooling,Substation,___,MW,5.6617473289417255
+2035,Toronto Average,District Heating,Pipe,___,MW,22.04362919414368
+2035,Toronto Average,District Heating,Substation,___,MW,19.026398586928423
+2035,Consumption,District Heating,Heat Pump,Large,MW,7.627664617825428
+2035,Consumption,District Heating,Heat Pump,Medium,MW,7.586432492649476
+2035,Consumption,District Heating,Heat Pump,Small,MW,29.521377437106672
+2035,Production,District Cooling,Deep Lake Cooling,Enwave,MW,7.511694856022796
+2035,Production,District Cooling,Heat Pump,Enwave,MW,11.328253043183583
+2035,Production,District Heating,Boiler,Large,MW,32.968294135258546
+2035,Production,District Heating,Boiler,Medium,MW,33.80635958446105
+2035,Production,District Heating,Boiler,Small,MW,28.287666539422418
+2035,Production,District Heating,Gas Turbine,Large,MW,59.04398206925658
+2035,Production,District Heating,Gas Turbine,Medium,MW,59.04398206925658
+2035,Production,District Heating,Gas Turbine,Small,MW,59.04398206925658
+2035,Production,District Heating,Internal Combustion Engine,Large,MW,59.04398206925658
+2035,Production,District Heating,Internal Combustion Engine,Medium,MW,59.04398206925658
+2035,Production,District Heating,Internal Combustion Engine,Small,MW,59.04398206925658
+2035,Production,Hydrogen,Alkaline Electrolyser,___,MW,7.386092650248536
+2035,Production,Hydrogen,Autothermal Reforming Gas,Carbon Capture and Storage,MW,7.386055755011903
+2035,Production,Hydrogen,Steam Methane Reforming,Carbon Capture and Storage,MW,7.386034740680446
+2035,Production,Hydrogen,Steam Methane Reforming,___,MW,7.386065345453281
+2035,Storage,District Cooling,Hot Tank Storage,Large,MW,1.160185375197257
+2035,Storage,District Cooling,Hot Tank Storage,Medium,MW,1.12688946319356
+2035,Storage,District Cooling,Hot Tank Storage,Small,MW,1.1114735785152707
+2035,Storage,District Heating,Hot Tank Storage,Large,MW,26.028651993234817
+2035,Storage,District Heating,Hot Tank Storage,Medium,MW,21.791915452555486
+2035,Storage,District Heating,Hot Tank Storage,Small,MW,18.425615930470336
+2035,Storage,District Heating,Pit Storage,Large,MW,1.0683134282317144
+2035,Storage,District Heating,Pit Storage,Medium,MW,0.9198388914986816
+2035,Storage,District Heating,Pit Storage,Small,MW,0.6938290329294805
+2040,Toronto Average,District Cooling,Pipe,___,MW,12.313850115143248
+2040,Toronto Average,District Cooling,Substation,___,MW,13.196226151817779
+2040,Toronto Average,District Heating,Pipe,___,MW,53.55458878240716
+2040,Toronto Average,District Heating,Substation,___,MW,54.1855762761378
+2040,Consumption,District Heating,Heat Pump,Large,MW,18.701205144013205
+2040,Consumption,District Heating,Heat Pump,Medium,MW,18.629298462429702
+2040,Consumption,District Heating,Heat Pump,Small,MW,73.4577145737763
+2040,Production,District Cooling,Deep Lake Cooling,Enwave,MW,19.128367290390113
+2040,Production,District Cooling,Heat Pump,Enwave,MW,19.465973286952575
+2040,Production,District Heating,Boiler,Large,MW,83.32209832538918
+2040,Production,District Heating,Boiler,Medium,MW,85.4263962364262
+2040,Production,District Heating,Boiler,Small,MW,71.8854332982086
+2040,Production,District Heating,Gas Turbine,Large,MW,146.92032146257247
+2040,Production,District Heating,Gas Turbine,Medium,MW,146.92032146257247
+2040,Production,District Heating,Gas Turbine,Small,MW,146.92032146257247
+2040,Production,District Heating,Internal Combustion Engine,Large,MW,146.92032146257247
+2040,Production,District Heating,Internal Combustion Engine,Medium,MW,146.92032146257247
+2040,Production,District Heating,Internal Combustion Engine,Small,MW,146.92032146257247
+2040,Production,Hydrogen,Alkaline Electrolyser,___,MW,18.37895081701469
+2040,Production,Hydrogen,Autothermal Reforming Gas,Carbon Capture and Storage,MW,18.378841947043476
+2040,Production,Hydrogen,Steam Methane Reforming,Carbon Capture and Storage,MW,18.378779182281253
+2040,Production,Hydrogen,Steam Methane Reforming,___,MW,18.378870616478935
+2040,Storage,District Cooling,Hot Tank Storage,Large,MW,1.504046577285504
+2040,Storage,District Cooling,Hot Tank Storage,Medium,MW,1.4572490408988537
+2040,Storage,District Cooling,Hot Tank Storage,Small,MW,1.4353418169979526
+2040,Storage,District Heating,Hot Tank Storage,Large,MW,45.8755346073588
+2040,Storage,District Heating,Hot Tank Storage,Medium,MW,31.60933056732623
+2040,Storage,District Heating,Hot Tank Storage,Small,MW,24.784794604179286
+2040,Storage,District Heating,Pit Storage,Large,MW,1.4728558086523953
+2040,Storage,District Heating,Pit Storage,Medium,MW,1.2284180384018046
+2040,Storage,District Heating,Pit Storage,Small,MW,0.866806580378068
+2045,Toronto Average,District Cooling,Pipe,___,MW,30.672474797022453
+2045,Toronto Average,District Cooling,Substation,___,MW,32.03465973964761
+2045,Toronto Average,District Heating,Pipe,___,MW,65.78564626623397
+2045,Toronto Average,District Heating,Substation,___,MW,74.50194659653383
+2045,Consumption,District Heating,Heat Pump,Large,MW,0.40224471535540335
+2045,Consumption,District Heating,Heat Pump,Medium,MW,0.35660784014890257
+2045,Consumption,District Heating,Heat Pump,Small,MW,97.50559492933823
+2045,Production,District Cooling,Deep Lake Cooling,Enwave,MW,0.2810508523714193
+2045,Production,District Cooling,Heat Pump,Enwave,MW,27.51198617234167
+2045,Production,District Heating,Boiler,Large,MW,26.55097222666114
+2045,Production,District Heating,Boiler,Medium,MW,2.801690174298385
+2045,Production,District Heating,Boiler,Small,MW,1.744776980140727
+2045,Production,District Heating,Gas Turbine,Large,MW,365.5847743017482
+2045,Production,District Heating,Gas Turbine,Medium,MW,365.5847743017482
+2045,Production,District Heating,Gas Turbine,Small,MW,365.5847743017482
+2045,Production,District Heating,Internal Combustion Engine,Large,MW,365.5847743017482
+2045,Production,District Heating,Internal Combustion Engine,Medium,MW,365.5847743017482
+2045,Production,District Heating,Internal Combustion Engine,Small,MW,365.5847743017482
+2045,Production,Hydrogen,Alkaline Electrolyser,___,MW,46.34206282552219
+2045,Production,Hydrogen,Autothermal Reforming Gas,Carbon Capture and Storage,MW,45.73232864580814
+2045,Production,Hydrogen,Steam Methane Reforming,Carbon Capture and Storage,MW,45.72559875054762
+2045,Production,Hydrogen,Steam Methane Reforming,___,MW,46.341805190166845
+2045,Storage,District Cooling,Hot Tank Storage,Large,MW,1.9863150912042413
+2045,Storage,District Cooling,Hot Tank Storage,Medium,MW,1.9207505886364333
+2045,Storage,District Cooling,Hot Tank Storage,Small,MW,1.8902824864316172
+2045,Storage,District Heating,Hot Tank Storage,Large,MW,29.595092003437543
+2045,Storage,District Heating,Hot Tank Storage,Medium,MW,11.988567709080138
+2045,Storage,District Heating,Hot Tank Storage,Small,MW,10.354876951190242
+2045,Storage,District Heating,Pit Storage,Large,MW,1.9254538288667695
+2045,Storage,District Heating,Pit Storage,Medium,MW,1.6045464945347439
+2045,Storage,District Heating,Pit Storage,Small,MW,1.164154212091916
+2050,Toronto Average,District Cooling,Pipe,___,MW,55.39510495521752
+2050,Toronto Average,District Cooling,Substation,___,MW,59.1722262944555
+2050,Toronto Average,District Heating,Pipe,___,MW,7.041456364375763
+2050,Toronto Average,District Heating,Substation,___,MW,14.483875147495073
+2050,Consumption,District Heating,Heat Pump,Large,MW,1.142032086543141
+2050,Consumption,District Heating,Heat Pump,Medium,MW,1.0148406240300474
+2050,Consumption,District Heating,Heat Pump,Small,MW,73.58393576630172
+2050,Production,District Cooling,Deep Lake Cooling,Enwave,MW,0.810839750770604
+2050,Production,District Cooling,Heat Pump,Enwave,MW,64.97590325310361
+2050,Production,District Heating,Boiler,Large,MW,85.65600673990303
+2050,Production,District Heating,Boiler,Medium,MW,13.699593667831088
+2050,Production,District Heating,Boiler,Small,MW,5.233241405449022
+2050,Production,District Heating,Gas Turbine,Large,MW,909.6919055905257
+2050,Production,District Heating,Gas Turbine,Medium,MW,909.6919055905257
+2050,Production,District Heating,Gas Turbine,Small,MW,909.6919055905257
+2050,Production,District Heating,Internal Combustion Engine,Large,MW,909.6919055905257
+2050,Production,District Heating,Internal Combustion Engine,Medium,MW,909.6919055905257
+2050,Production,District Heating,Internal Combustion Engine,Small,MW,909.6919055905257
+2050,Production,Hydrogen,Alkaline Electrolyser,___,MW,115.1794632876501
+2050,Production,Hydrogen,Autothermal Reforming Gas,Carbon Capture and Storage,MW,99.57007508822348
+2050,Production,Hydrogen,Steam Methane Reforming,Carbon Capture and Storage,MW,0.15052997065636195
+2050,Production,Hydrogen,Steam Methane Reforming,___,MW,115.03893463077829
+2050,Storage,District Cooling,Hot Tank Storage,Large,MW,5.852368257555553
+2050,Storage,District Cooling,Hot Tank Storage,Medium,MW,5.67025069293759
+2050,Storage,District Cooling,Hot Tank Storage,Small,MW,5.58529301316544
+2050,Storage,District Heating,Hot Tank Storage,Large,MW,57.65699384842915
+2050,Storage,District Heating,Hot Tank Storage,Medium,MW,29.164101459558168
+2050,Storage,District Heating,Hot Tank Storage,Small,MW,25.411678881360334
+2050,Storage,District Heating,Pit Storage,Large,MW,5.945442303068599
+2050,Storage,District Heating,Pit Storage,Medium,MW,4.979323385158072
+2050,Storage,District Heating,Pit Storage,Small,MW,3.609212443217187

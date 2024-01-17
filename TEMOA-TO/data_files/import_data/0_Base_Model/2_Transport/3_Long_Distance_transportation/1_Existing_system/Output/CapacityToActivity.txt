@@ -1,0 +1,6 @@
+INSERT INTO`CapacityToActivity`VALUES('TO','LDITRADOMAIR_________AGA_EX',7708.8,'Long DistanceTransportationDomesticAirAviation Gasoline');
+INSERT INTO`CapacityToActivity`VALUES('TO','LDITRADOMAIR_________ATF_EX',7708.8,'Long DistanceTransportationDomesticAirAviation Turbo Fuel');
+INSERT INTO`CapacityToActivity`VALUES('TO','LDITRADOMRAI_________DSL_EX',1314.0,'Long DistanceTransportationDomesticRailDiesel');
+INSERT INTO`CapacityToActivity`VALUES('TO','LDITRAINTAIR_________AGA_EX',7708.8,'Long DistanceTransportationInternationalAirAviation Gasoline');
+INSERT INTO`CapacityToActivity`VALUES('TO','LDITRAINTAIR_________ATF_EX',7708.8,'Long DistanceTransportationInternationalAirAviation Turbo Fuel');
+INSERT INTO`CapacityToActivity`VALUES('TO','LDITRAINTRAI_________DSL_EX',1314.0,'Long DistanceTransportationInternationalRailDiesel');

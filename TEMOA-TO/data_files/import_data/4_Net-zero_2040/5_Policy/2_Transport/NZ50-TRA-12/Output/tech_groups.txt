@@ -1,0 +1,10 @@
+INSERT INTO`tech_groups`VALUES('FRETRAATFIMP','nan','nan');
+INSERT INTO`tech_groups`VALUES('FRETRABJEIMP','nan','nan');
+INSERT INTO`tech_groups`VALUES('FRETRASJEIMP','nan','nan');
+INSERT INTO`tech_groups`VALUES('FRETRAAGAIMP','nan','nan');
+INSERT INTO`tech_groups`VALUES('FRETRAHH2IMP','nan','nan');
+INSERT INTO`tech_groups`VALUES('LDITRAAGAIMP','nan','nan');
+INSERT INTO`tech_groups`VALUES('LDITRAATFIMP','nan','nan');
+INSERT INTO`tech_groups`VALUES('LDITRAHH2IMP','nan','nan');
+INSERT INTO`tech_groups`VALUES('LDITRABJEIMP','nan','nan');
+INSERT INTO`tech_groups`VALUES('LDITRASJEIMP','nan','nan');

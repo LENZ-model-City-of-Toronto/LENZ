@@ -1,0 +1,11 @@
+regions,tech,c2a,c2a_notes
+TO,LDITRADOMROACAR___,1,Long DistanceTransportationDomesticRoadCars
+TO,LDITRADOMROATRULGT,1,Long DistanceTransportationDomesticRoadTruckPassenger Light Trucks
+TO,LDITRADOMROABUSIUB,1,Long DistanceTransportationDomesticRoadInter-city BusesInter Urban Bus
+TO,LDITRADOMAIR______,1,Long DistanceTransportationDomesticAir
+TO,LDITRADOMRAI______,1,Long DistanceTransportationDomesticRail
+TO,LDITRAINTROACAR___,1,Long DistanceTransportationInternationalRoadCars
+TO,LDITRAINTROATRULGT,1,Long DistanceTransportationInternationalRoadTruckPassenger Light Trucks
+TO,LDITRAINTROABUSIUB,1,Long DistanceTransportationInternationalRoadInter-city BusesInter Urban Bus
+TO,LDITRAINTAIR______,1,Long DistanceTransportationInternationalAir
+TO,LDITRAINTRAI______,1,Long DistanceTransportationInternationalRail

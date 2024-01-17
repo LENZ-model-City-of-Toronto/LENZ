@@ -1,0 +1,10 @@
+INSERT INTO`LifetimeTech`VALUES('TO','INDBDGLISEP_EX',200,'IndustryBuildingLightingSelf produced');
+INSERT INTO`LifetimeTech`VALUES('TO','INDBDGSCSEP_EX',200,'IndustryBuildingSpace CoolingSelf produced');
+INSERT INTO`LifetimeTech`VALUES('TO','INDBDGSCDCO_EX',200,'IndustryBuildingSpace CoolingDistrict Cooling');
+INSERT INTO`LifetimeTech`VALUES('TO','INDBDGIPSEP_EX',200,'IndustryBuildingIndustrial ProcessesSelf producedMix Energy');
+INSERT INTO`LifetimeTech`VALUES('TO','INDBDGIPSEPMENE_EX',200,'IndustryBuildingIndustrial ProcessesSelf producedMix Energy');
+INSERT INTO`LifetimeTech`VALUES('TO','INDBDGSHSEP_EX',200,'IndustryBuildingSpace HeatingSelf produced');
+INSERT INTO`LifetimeTech`VALUES('TO','INDBDGSHDHE_EX',200,'IndustryBuildingSpace HeatingDistrict Heating');
+INSERT INTO`LifetimeTech`VALUES('TO','INDBDGWHSEP_EX',200,'IndustryBuildingWater HeatingSelf produced');
+INSERT INTO`LifetimeTech`VALUES('TO','INDBDGWHDHE_EX',200,'IndustryBuildingWater HeatingDistrict Heating');
+INSERT INTO`LifetimeTech`VALUES('TO','INDBDGIPSEPETHOS_EX',200,'IndustryBuildingIndustrial ProcessesSelf produced');

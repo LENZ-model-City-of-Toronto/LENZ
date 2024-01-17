@@ -1,0 +1,10 @@
+INSERT INTO`Efficiency`VALUES('TO','VKTLDITRADOMROACAR___','LDITRADOMROACAR___',2015.0,'ADEMLDITRADOMROACAR___',1.5,'Long DistanceTransportationDomesticRoadCars');
+INSERT INTO`Efficiency`VALUES('TO','VKTLDITRADOMROATRULGT','LDITRADOMROATRULGT',2015.0,'ADEMLDITRADOMROATRULGT',1.5,'Long DistanceTransportationDomesticRoadTruckPassenger Light Trucks');
+INSERT INTO`Efficiency`VALUES('TO','VKTLDITRADOMROABUSIUB','LDITRADOMROABUSIUB',2015.0,'ADEMLDITRADOMROABUSIUB',1.7110998957021386,'Long DistanceTransportationDomesticRoadInter-city BusesInter Urban Bus');
+INSERT INTO`Efficiency`VALUES('TO','VKTLDITRADOMAIR______','LDITRADOMAIR______',2015.0,'ADEMLDITRADOMAIR______',34.0,'Long DistanceTransportationDomesticAir');
+INSERT INTO`Efficiency`VALUES('TO','VKTLDITRADOMRAI______','LDITRADOMRAI______',2015.0,'ADEMLDITRADOMRAI______',130.15426913089965,'Long DistanceTransportationDomesticRail');
+INSERT INTO`Efficiency`VALUES('TO','VKTLDITRAINTROACAR___','LDITRAINTROACAR___',2015.0,'ADEMLDITRAINTROACAR___',1.5,'Long DistanceTransportationInternationalRoadCars');
+INSERT INTO`Efficiency`VALUES('TO','VKTLDITRAINTROATRULGT','LDITRAINTROATRULGT',2015.0,'ADEMLDITRAINTROATRULGT',1.5,'Long DistanceTransportationInternationalRoadTruckPassenger Light Trucks');
+INSERT INTO`Efficiency`VALUES('TO','VKTLDITRAINTROABUSIUB','LDITRAINTROABUSIUB',2015.0,'ADEMLDITRAINTROABUSIUB',1.7110998957021386,'Long DistanceTransportationInternationalRoadInter-city BusesInter Urban Bus');
+INSERT INTO`Efficiency`VALUES('TO','VKTLDITRAINTAIR______','LDITRAINTAIR______',2015.0,'ADEMLDITRAINTAIR______',34.0,'Long DistanceTransportationInternationalAir');
+INSERT INTO`Efficiency`VALUES('TO','VKTLDITRAINTRAI______','LDITRAINTRAI______',2015.0,'ADEMLDITRAINTRAI______',130.15426913089965,'Long DistanceTransportationInternationalRail');

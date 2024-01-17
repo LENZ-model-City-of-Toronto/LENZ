@@ -1,0 +1,37 @@
+regions,input_comm,tech,vintage,output_comm,efficiency,eff_notes
+TO,INDBDGELC,INDBDGLISEP_EX,2015,EUEINDBDGLISEP,1.0,IndustryBuildingLightingSelf produced
+TO,INDBDGELC,INDBDGSCSEP_EX,2015,EUEINDBDGSCSEP,3.5466292497069167,IndustryBuildingSpace CoolingSelf produced
+TO,INDBDGNGA,INDBDGSCSEP_EX,2015,EUEINDBDGSCSEP,3.5466292497069167,IndustryBuildingSpace CoolingSelf produced
+TO,INDBDGDCO,INDBDGSCDCO_EX,2015,EUEINDBDGSCDCO,1.0,IndustryBuildingSpace CoolingDistrict Cooling
+TO,INDBDGMENE,INDBDGIPSEP_EX,2015,EUEINDBDGIPSEP,1.0,IndustryBuildingIndustrial ProcessesSelf producedMix Energy
+TO,INDBDGMENE,INDBDGIPSEP_EX,2015,WHEINDBDGIPSEP,1.0,IndustryBuildingIndustrial ProcessesSelf producedMix Energy
+TO,INDBDGELC,INDBDGIPSEPMENE_EX,2015,INDBDGMENE,1.0,IndustryBuildingIndustrial ProcessesSelf producedMix Energy
+TO,INDBDGNGA,INDBDGIPSEPMENE_EX,2015,INDBDGMENE,1.0,IndustryBuildingIndustrial ProcessesSelf producedMix Energy
+TO,INDBDGBMTN,INDBDGIPSEPMENE_EX,2015,INDBDGMENE,1.0,IndustryBuildingIndustrial ProcessesSelf producedMix Energy
+TO,INDBDGHH2,INDBDGIPSEPMENE_EX,2015,INDBDGMENE,1.0,IndustryBuildingIndustrial ProcessesSelf producedMix Energy
+TO,INDBDGLFO,INDBDGIPSEPMENE_EX,2015,INDBDGMENE,1.0,IndustryBuildingIndustrial ProcessesSelf producedMix Energy
+TO,INDBDGHFO,INDBDGIPSEPMENE_EX,2015,INDBDGMENE,1.0,IndustryBuildingIndustrial ProcessesSelf producedMix Energy
+TO,INDBDGPCOK,INDBDGIPSEPMENE_EX,2015,INDBDGMENE,1.0,IndustryBuildingIndustrial ProcessesSelf producedMix Energy
+TO,INDBDGPRO,INDBDGIPSEPMENE_EX,2015,INDBDGMENE,1.0,IndustryBuildingIndustrial ProcessesSelf producedMix Energy
+TO,INDBDGCOA,INDBDGIPSEPMENE_EX,2015,INDBDGMENE,1.0,IndustryBuildingIndustrial ProcessesSelf producedMix Energy
+TO,INDBDGCOK,INDBDGIPSEPMENE_EX,2015,INDBDGMENE,1.0,IndustryBuildingIndustrial ProcessesSelf producedMix Energy
+TO,INDBDGBMA,INDBDGIPSEPMENE_EX,2015,INDBDGMENE,1.0,IndustryBuildingIndustrial ProcessesSelf producedMix Energy
+TO,INDBDGELC,INDBDGSHSEP_EX,2015,EUEINDBDGSHSEP,1.0,IndustryBuildingSpace HeatingSelf produced
+TO,INDBDGNGA,INDBDGSHSEP_EX,2015,EUEINDBDGSHSEP,1.0,IndustryBuildingSpace HeatingSelf produced
+TO,INDBDGBMTN,INDBDGSHSEP_EX,2015,EUEINDBDGSHSEP,1.0,IndustryBuildingSpace HeatingSelf produced
+TO,INDBDGHH2,INDBDGSHSEP_EX,2015,EUEINDBDGSHSEP,1.0,IndustryBuildingSpace HeatingSelf produced
+TO,INDBDGLFO,INDBDGSHSEP_EX,2015,EUEINDBDGSHSEP,1.0,IndustryBuildingSpace HeatingSelf produced
+TO,INDBDGHFO,INDBDGSHSEP_EX,2015,EUEINDBDGSHSEP,1.0,IndustryBuildingSpace HeatingSelf produced
+TO,INDBDGPRO,INDBDGSHSEP_EX,2015,EUEINDBDGSHSEP,1.0,IndustryBuildingSpace HeatingSelf produced
+TO,INDBDGWAH,INDBDGSHSEP_EX,2015,EUEINDBDGSHSEP,1.0,IndustryBuildingSpace HeatingSelf produced
+TO,INDBDGDHE,INDBDGSHDHE_EX,2015,EUEINDBDGSHDHE,1.0,IndustryBuildingSpace HeatingDistrict Heating
+TO,INDBDGELC,INDBDGWHSEP_EX,2015,EUEINDBDGWHSEP,1.0,IndustryBuildingWater HeatingSelf produced
+TO,INDBDGNGA,INDBDGWHSEP_EX,2015,EUEINDBDGWHSEP,1.0,IndustryBuildingWater HeatingSelf produced
+TO,INDBDGBMTN,INDBDGWHSEP_EX,2015,EUEINDBDGWHSEP,1.0,IndustryBuildingWater HeatingSelf produced
+TO,INDBDGHH2,INDBDGWHSEP_EX,2015,EUEINDBDGWHSEP,1.0,IndustryBuildingWater HeatingSelf produced
+TO,INDBDGLFO,INDBDGWHSEP_EX,2015,EUEINDBDGWHSEP,1.0,IndustryBuildingWater HeatingSelf produced
+TO,INDBDGHFO,INDBDGWHSEP_EX,2015,EUEINDBDGWHSEP,1.0,IndustryBuildingWater HeatingSelf produced
+TO,INDBDGPRO,INDBDGWHSEP_EX,2015,EUEINDBDGWHSEP,1.0,IndustryBuildingWater HeatingSelf produced
+TO,INDBDGWAH,INDBDGWHSEP_EX,2015,EUEINDBDGWHSEP,1.0,IndustryBuildingWater HeatingSelf produced
+TO,INDBDGDHE,INDBDGWHDHE_EX,2015,EUEINDBDGWHDHE,1.0,IndustryBuildingWater HeatingDistrict Heating
+TO,WHEINDBDGIPSEP,INDBDGIPSEPETHOS_EX,2015,INDBDGETHOS,1.0,IndustryBuildingIndustrial ProcessesSelf produced

@@ -1,0 +1,523 @@
+"Waste Capacity per end use,  per plants, per technology type, and per period"
+t_periods,Sub,EndUse,Treatment_Plant,Tech_type_1,Tech_type_2,Capacity_units,Capacities
+2016,Solid,Green Bin,Dufferin,Anaerobic Digester,,Tj.y,427.0712898693506
+2016,Solid,Green Bin,Disco Road,Anaerobic Digester,,Tj.y,403.0917097947471
+2016,Solid,Landfill,MI - Arbor Hills,Biogas capture,,Tj.y,204.37241250980665
+2016,Solid,Landfill,Beare Rd,Biogas capture,,Tj.y,288.3195424455218
+2016,Solid,Landfill,MI - Carleton farms,Biogas capture,,Tj.y,506.18195661617216
+2016,Solid,Landfill,Green Lane,Biogas capture,,Tj.y,2658.3673355205324
+2016,Solid,Landfill,Keele Valley,Biogas capture,,Tj.y,1142.7782271417814
+2016,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,,TJ.y,2015.422313452776
+2016,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,Public,TJ.y,0.6190544559527282
+2016,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Central,MW,0.011719517649223302
+2016,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Enerkem,TJ.y,0.3410570961748021
+2016,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,,TJ.y,1122.3797980715958
+2016,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,Public,TJ.y,0.6087611245814339
+2016,Water,Waste water,Humber Wastewater Treatment Plant,Gasification,Central,MW,0.011243356131160624
+2016,Water,Waste water,Humber Wastewater Treatment Plant,Gasification,Enerkem,TJ.y,0.3408064608177532
+2016,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,,TJ.y,418.14438827657136
+2016,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,Public,TJ.y,0.5905025298561295
+2016,Water,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Central,MW,0.01063778072292747
+2016,Water,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Enerkem,TJ.y,0.3401389737734596
+2016,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,,kt.y,3.71839517625232
+2017,Solid,Green Bin,Dufferin,Anaerobic Digester,,Tj.y,427.0712898693506
+2017,Solid,Green Bin,Disco Road,Anaerobic Digester,,Tj.y,403.0917097947471
+2017,Solid,Landfill,MI - Arbor Hills,Biogas capture,,Tj.y,204.37241250980665
+2017,Solid,Landfill,Beare Rd,Biogas capture,,Tj.y,288.3195424455218
+2017,Solid,Landfill,MI - Carleton farms,Biogas capture,,Tj.y,506.18195661617216
+2017,Solid,Landfill,Green Lane,Biogas capture,,Tj.y,2658.3673355205324
+2017,Solid,Landfill,Keele Valley,Biogas capture,,Tj.y,1142.7782271417814
+2017,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,,TJ.y,2015.422313452776
+2017,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,Public,TJ.y,1.0696091456790633
+2017,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Central,MW,0.021340949335117237
+2017,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Enerkem,TJ.y,0.6126049090188248
+2017,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,,TJ.y,1122.3797980715958
+2017,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,Public,TJ.y,1.0518471982068336
+2017,Water,Waste water,Humber Wastewater Treatment Plant,Gasification,Central,MW,0.020566583734032355
+2017,Water,Waste water,Humber Wastewater Treatment Plant,Gasification,Enerkem,TJ.y,0.6122091471292253
+2017,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,,TJ.y,418.14438827657136
+2017,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,Public,TJ.y,1.0199975202951594
+2017,Water,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Central,MW,0.0195194288110316
+2017,Water,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Enerkem,TJ.y,0.6108593621832851
+2017,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,,kt.y,3.71839517625232
+2018,Solid,Green Bin,Dufferin,Anaerobic Digester,,Tj.y,427.0712898693506
+2018,Solid,Green Bin,Disco Road,Anaerobic Digester,,Tj.y,403.0917097947471
+2018,Solid,Landfill,MI - Arbor Hills,Biogas capture,,Tj.y,204.37241250980665
+2018,Solid,Landfill,Beare Rd,Biogas capture,,Tj.y,288.3195424455218
+2018,Solid,Landfill,MI - Carleton farms,Biogas capture,,Tj.y,506.18195661617216
+2018,Solid,Landfill,Green Lane,Biogas capture,,Tj.y,2658.3673355205324
+2018,Solid,Landfill,Keele Valley,Biogas capture,,Tj.y,1142.7782271417814
+2018,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,,TJ.y,2015.422313452776
+2018,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,Public,TJ.y,1.5108260625446124
+2018,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Central,MW,0.029508171193201944
+2018,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Enerkem,TJ.y,0.8645807959307006
+2018,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,,TJ.y,1122.3797980715958
+2018,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,Public,TJ.y,1.4858589437055327
+2018,Water,Waste water,Humber Wastewater Treatment Plant,Gasification,Central,MW,0.02852821937180266
+2018,Water,Waste water,Humber Wastewater Treatment Plant,Gasification,Enerkem,TJ.y,0.864096664957817
+2018,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,,TJ.y,418.14438827657136
+2018,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,Public,TJ.y,1.4398212525362728
+2018,Water,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Central,MW,0.02714050935155755
+2018,Water,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Enerkem,TJ.y,0.8620521990805774
+2018,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,,kt.y,3.71839517625232
+2019,Solid,Green Bin,Dufferin,Anaerobic Digester,,Tj.y,427.0712898693506
+2019,Solid,Green Bin,Disco Road,Anaerobic Digester,,Tj.y,403.0917097947471
+2019,Solid,Landfill,MI - Arbor Hills,Biogas capture,,Tj.y,204.37241250980665
+2019,Solid,Landfill,Beare Rd,Biogas capture,,Tj.y,288.3195424455218
+2019,Solid,Landfill,MI - Carleton farms,Biogas capture,,Tj.y,506.18195661617216
+2019,Solid,Landfill,Green Lane,Biogas capture,,Tj.y,2658.3673355205324
+2019,Solid,Landfill,Keele Valley,Biogas capture,,Tj.y,1142.7782271417814
+2019,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,,TJ.y,2015.422313452776
+2019,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,Public,TJ.y,1.9445395005156747
+2019,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Central,MW,0.03654973040998215
+2019,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Enerkem,TJ.y,1.0999109429506364
+2019,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,,TJ.y,1122.3797980715958
+2019,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,Public,TJ.y,1.9123855329175128
+2019,Water,Waste water,Humber Wastewater Treatment Plant,Gasification,Central,MW,0.035412816448204244
+2019,Water,Waste water,Humber Wastewater Treatment Plant,Gasification,Enerkem,TJ.y,1.099366709507834
+2019,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,,TJ.y,418.14438827657136
+2019,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,Public,TJ.y,1.8516573781522352
+2019,Water,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Central,MW,0.03375258939414786
+2019,Water,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Enerkem,TJ.y,1.0966409825513583
+2019,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,,kt.y,3.71839517625232
+2020,Solid,Green Bin,Dufferin,Anaerobic Digester,,Tj.y,427.0712898693506
+2020,Solid,Green Bin,Disco Road,Anaerobic Digester,,Tj.y,403.0917097947471
+2020,Solid,Landfill,MI - Arbor Hills,Biogas capture,,Tj.y,204.37241250980665
+2020,Solid,Landfill,Beare Rd,Biogas capture,,Tj.y,288.3195424455218
+2020,Solid,Landfill,MI - Carleton farms,Biogas capture,,Tj.y,506.18195661617216
+2020,Solid,Landfill,Green Lane,Biogas capture,,Tj.y,2658.3673355205324
+2020,Solid,Landfill,Keele Valley,Biogas capture,,Tj.y,1142.7782271417814
+2020,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,,TJ.y,2015.422313452776
+2020,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,Public,TJ.y,2.37083097418241
+2020,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Central,MW,0.040489156775614425
+2020,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Enerkem,TJ.y,1.3193079237205294
+2020,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,,TJ.y,1122.3797980715958
+2020,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,Public,TJ.y,2.331516193630539
+2020,Water,Waste water,Humber Wastewater Treatment Plant,Gasification,Central,MW,0.03927563261107819
+2020,Water,Waste water,Humber Wastewater Treatment Plant,Gasification,Enerkem,TJ.y,1.318729456610582
+2020,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,,TJ.y,418.14438827657136
+2020,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,Public,TJ.y,2.2555650076433404
+2020,Water,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Central,MW,0.03749614316039269
+2020,Water,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Enerkem,TJ.y,1.3153398861592325
+2020,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,,kt.y,3.71839517625232
+2021,Solid,Green Bin,Dufferin,Anaerobic Digester,,Tj.y,427.0712898693506
+2021,Solid,Green Bin,Disco Road,Anaerobic Digester,,Tj.y,403.0917097947471
+2021,Solid,Landfill,MI - Arbor Hills,Biogas capture,,Tj.y,204.37241250980665
+2021,Solid,Landfill,Beare Rd,Biogas capture,,Tj.y,288.3195424455218
+2021,Solid,Landfill,MI - Carleton farms,Biogas capture,,Tj.y,506.18195661617216
+2021,Solid,Landfill,Green Lane,Biogas capture,,Tj.y,2658.3673355205324
+2021,Solid,Landfill,Keele Valley,Biogas capture,,Tj.y,1142.7782271417814
+2021,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,,TJ.y,2015.422313452776
+2021,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,Public,TJ.y,2.832347084865602
+2021,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Central,MW,0.04460267723882799
+2021,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Enerkem,TJ.y,1.544871616518921
+2021,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,,TJ.y,1122.3797980715958
+2021,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,Public,TJ.y,2.784735302372821
+2021,Water,Waste water,Humber Wastewater Treatment Plant,Gasification,Central,MW,0.04331396314718872
+2021,Water,Waste water,Humber Wastewater Treatment Plant,Gasification,Enerkem,TJ.y,1.5442615212219968
+2021,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,,TJ.y,418.14438827657136
+2021,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,Public,TJ.y,2.691341093785445
+2021,Water,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Central,MW,0.04141043730196918
+2021,Water,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Enerkem,TJ.y,1.5402024543094488
+2021,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,,kt.y,3.71839517625232
+2022,Solid,Green Bin,Dufferin,Anaerobic Digester,,Tj.y,427.0712898693506
+2022,Solid,Green Bin,Disco Road,Anaerobic Digester,,Tj.y,403.0917097947471
+2022,Solid,Landfill,MI - Arbor Hills,Biogas capture,,Tj.y,204.37241250980665
+2022,Solid,Landfill,Beare Rd,Biogas capture,,Tj.y,288.3195424455218
+2022,Solid,Landfill,MI - Carleton farms,Biogas capture,,Tj.y,506.18195661617216
+2022,Solid,Landfill,Green Lane,Biogas capture,,Tj.y,2658.3673355205324
+2022,Solid,Landfill,Keele Valley,Biogas capture,,Tj.y,1142.7782271417814
+2022,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,,TJ.y,2015.422313452776
+2022,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,Public,TJ.y,3.2889559215695816
+2022,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Central,MW,0.048507973284024376
+2022,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Enerkem,TJ.y,1.75916635800356
+2022,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,,TJ.y,1122.3797980715958
+2022,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,Public,TJ.y,3.2333265081329694
+2022,Water,Waste water,Humber Wastewater Treatment Plant,Gasification,Central,MW,0.047155385436910446
+2022,Water,Waste water,Humber Wastewater Treatment Plant,Gasification,Enerkem,TJ.y,1.75855014594495
+2022,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,,TJ.y,418.14438827657136
+2022,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,Public,TJ.y,3.1218861444211834
+2022,Water,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Central,MW,0.04513666472362951
+2022,Water,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Enerkem,TJ.y,1.7538296008207634
+2022,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,,kt.y,3.71839517625232
+2023,Solid,Green Bin,Compost,Biogas upgrade,Public,TJ.y,3.6966067788887367
+2023,Solid,Green Bin,Compost,Biogas capture,___,TJ.y,3.9438943387091583
+2023,Solid,Green Bin,Compost,Cogeneration engine,Internal Combustion Engine,MW,0.010759310988554134
+2023,Solid,Green Bin,Dufferin,Anaerobic Digester,,Tj.y,427.0712898693506
+2023,Solid,Green Bin,Dufferin,Anaerobic Digester,Public,TJ.y,0.30750752981057594
+2023,Solid,Green Bin,Dufferin,Gasification,Central,MW,0.002952238635487409
+2023,Solid,Green Bin,Dufferin,Gasification,Enerkem,TJ.y,0.26129801603485076
+2023,Solid,Green Bin,Disco Road,Anaerobic Digester,,Tj.y,403.0917097947471
+2023,Solid,Green Bin,Disco Road,Anaerobic Digester,Public,TJ.y,0.3172498212600876
+2023,Solid,Green Bin,Disco Road,Gasification,Central,MW,0.0029656079751987897
+2023,Solid,Green Bin,Disco Road,Gasification,Enerkem,TJ.y,0.26326424238708973
+2023,Solid,Landfill,MI - Arbor Hills,Biogas upgrade,Public,TJ.y,3.3590304914111346
+2023,Solid,Landfill,MI - Arbor Hills,Biogas capture,,Tj.y,204.37241250980665
+2023,Solid,Landfill,MI - Arbor Hills,Biogas capture,___,TJ.y,2.078505052913207
+2023,Solid,Landfill,MI - Arbor Hills,Cogeneration engine,Internal Combustion Engine,MW,0.025416486507640126
+2023,Solid,Landfill,Beare Rd,Biogas upgrade,Public,TJ.y,3.440459562266331
+2023,Solid,Landfill,Beare Rd,Biogas capture,,Tj.y,288.3195424455218
+2023,Solid,Landfill,Beare Rd,Biogas capture,___,TJ.y,2.112676219213959
+2023,Solid,Landfill,Beare Rd,Cogeneration engine,Internal Combustion Engine,MW,0.025745270250623675
+2023,Solid,Landfill,Brock West,Biogas upgrade,Public,TJ.y,3.3584493372870496
+2023,Solid,Landfill,Brock West,Biogas capture,___,TJ.y,2.876448530081128
+2023,Solid,Landfill,Brock West,Cogeneration engine,Internal Combustion Engine,MW,0.026528910767904836
+2023,Solid,Landfill,MI - Carleton farms,Biogas upgrade,Public,TJ.y,3.579212626871004
+2023,Solid,Landfill,MI - Carleton farms,Biogas capture,,Tj.y,506.18195661617216
+2023,Solid,Landfill,MI - Carleton farms,Biogas capture,___,TJ.y,2.1790219226509437
+2023,Solid,Landfill,MI - Carleton farms,Cogeneration engine,Internal Combustion Engine,MW,0.026294885741638577
+2023,Solid,Landfill,Green Lane,Biogas upgrade,Public,TJ.y,65.07430984667036
+2023,Solid,Landfill,Green Lane,Biogas capture,,Tj.y,2658.3673355205324
+2023,Solid,Landfill,Green Lane,Biogas capture,___,TJ.y,2.2623763025930588
+2023,Solid,Landfill,Green Lane,Cogeneration engine,Internal Combustion Engine,MW,0.010828364616433524
+2023,Solid,Landfill,Keele Valley,Biogas upgrade,Public,TJ.y,59.350731744475326
+2023,Solid,Landfill,Keele Valley,Biogas capture,,Tj.y,1142.7782271417814
+2023,Solid,Landfill,Keele Valley,Biogas capture,___,TJ.y,2.256764346265796
+2023,Solid,Landfill,Keele Valley,Cogeneration engine,Internal Combustion Engine,MW,0.01082811463151303
+2023,Solid,Landfill,Thackeray,Biogas upgrade,Public,TJ.y,2.8722489140548597
+2023,Solid,Landfill,Thackeray,Biogas capture,___,TJ.y,2.340310514871354
+2023,Solid,Landfill,Thackeray,Cogeneration engine,Internal Combustion Engine,MW,0.02388262959152967
+2023,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,,TJ.y,2015.422313452776
+2023,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,Public,TJ.y,3.738603995100152
+2023,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Central,MW,0.05216889456945
+2023,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Enerkem,TJ.y,1.96113066234543
+2023,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,,TJ.y,1122.3797980715958
+2023,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,Public,TJ.y,3.675333562766985
+2023,Water,Waste water,Humber Wastewater Treatment Plant,Gasification,Central,MW,0.0507643774699964
+2023,Water,Waste water,Humber Wastewater Treatment Plant,Gasification,Enerkem,TJ.y,1.9605369734195583
+2023,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,,TJ.y,418.14438827657136
+2023,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,Public,TJ.y,3.545190947717669
+2023,Water,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Central,MW,0.048640488843688254
+2023,Water,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Enerkem,TJ.y,1.9551655778656536
+2023,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,,kt.y,3.71839517625232
+2024,Solid,Green Bin,Compost,Biogas upgrade,Public,TJ.y,6.862212439706304
+2024,Solid,Green Bin,Compost,Biogas capture,___,TJ.y,7.308389862196555
+2024,Solid,Green Bin,Compost,Cogeneration engine,Internal Combustion Engine,MW,0.020692717090357717
+2024,Solid,Green Bin,Dufferin,Anaerobic Digester,,Tj.y,427.0712898693506
+2024,Solid,Green Bin,Dufferin,Anaerobic Digester,Public,TJ.y,0.5905440610569372
+2024,Solid,Green Bin,Dufferin,Gasification,Central,MW,0.005571098209509365
+2024,Solid,Green Bin,Dufferin,Gasification,Enerkem,TJ.y,0.4900876169888442
+2024,Solid,Green Bin,Disco Road,Anaerobic Digester,,Tj.y,403.0917097947471
+2024,Solid,Green Bin,Disco Road,Anaerobic Digester,Public,TJ.y,0.6023187472798036
+2024,Solid,Green Bin,Disco Road,Gasification,Central,MW,0.005595367523312928
+2024,Solid,Green Bin,Disco Road,Gasification,Enerkem,TJ.y,0.493621014286746
+2024,Solid,Landfill,MI - Arbor Hills,Biogas upgrade,Public,TJ.y,6.322095316716719
+2024,Solid,Landfill,MI - Arbor Hills,Biogas capture,,Tj.y,204.37241250980665
+2024,Solid,Landfill,MI - Arbor Hills,Biogas capture,___,TJ.y,3.987234312770191
+2024,Solid,Landfill,MI - Arbor Hills,Cogeneration engine,Internal Combustion Engine,MW,0.04878086603547138
+2024,Solid,Landfill,Beare Rd,Biogas upgrade,Public,TJ.y,6.474730763427339
+2024,Solid,Landfill,Beare Rd,Biogas capture,,Tj.y,288.3195424455218
+2024,Solid,Landfill,Beare Rd,Biogas capture,___,TJ.y,4.053715264860905
+2024,Solid,Landfill,Beare Rd,Cogeneration engine,Internal Combustion Engine,MW,0.04941816505669061
+2024,Solid,Landfill,Brock West,Biogas upgrade,Public,TJ.y,6.383306622429126
+2024,Solid,Landfill,Brock West,Biogas capture,___,TJ.y,5.354933102467404
+2024,Solid,Landfill,Brock West,Cogeneration engine,Internal Combustion Engine,MW,0.050967651213184854
+2024,Solid,Landfill,MI - Carleton farms,Biogas upgrade,Public,TJ.y,6.7357331667163365
+2024,Solid,Landfill,MI - Carleton farms,Biogas capture,,Tj.y,506.18195661617216
+2024,Solid,Landfill,MI - Carleton farms,Biogas capture,___,TJ.y,4.181520063003862
+2024,Solid,Landfill,MI - Carleton farms,Cogeneration engine,Internal Combustion Engine,MW,0.05048403526308247
+2024,Solid,Landfill,Green Lane,Biogas upgrade,Public,TJ.y,71.61454263338143
+2024,Solid,Landfill,Green Lane,Biogas capture,,Tj.y,2658.3673355205324
+2024,Solid,Landfill,Green Lane,Biogas capture,___,TJ.y,4.352102789581789
+2024,Solid,Landfill,Green Lane,Cogeneration engine,Internal Combustion Engine,MW,0.020807750985081808
+2024,Solid,Landfill,Keele Valley,Biogas upgrade,Public,TJ.y,65.79160428156169
+2024,Solid,Landfill,Keele Valley,Biogas capture,,Tj.y,1142.7782271417814
+2024,Solid,Landfill,Keele Valley,Biogas capture,___,TJ.y,4.332182505379807
+2024,Solid,Landfill,Keele Valley,Cogeneration engine,Internal Combustion Engine,MW,0.02080722634224642
+2024,Solid,Landfill,Thackeray,Biogas upgrade,Public,TJ.y,5.453021698239359
+2024,Solid,Landfill,Thackeray,Biogas capture,___,TJ.y,4.360845723565716
+2024,Solid,Landfill,Thackeray,Cogeneration engine,Internal Combustion Engine,MW,0.04582132364996368
+2024,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,,TJ.y,2015.422313452776
+2024,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,Public,TJ.y,4.180606559293787
+2024,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Central,MW,0.055563494176098176
+2024,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Enerkem,TJ.y,2.1495638638664767
+2024,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,,TJ.y,1122.3797980715958
+2024,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,Public,TJ.y,4.108903163173198
+2024,Water,Waste water,Humber Wastewater Treatment Plant,Gasification,Central,MW,0.054111661963470205
+2024,Water,Waste water,Humber Wastewater Treatment Plant,Gasification,Enerkem,TJ.y,2.148966347524567
+2024,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,,TJ.y,418.14438827657136
+2024,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,Public,TJ.y,3.960023206292348
+2024,Water,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Central,MW,0.05189372493049031
+2024,Water,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Enerkem,TJ.y,2.1429754633500404
+2024,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,,kt.y,3.71839517625232
+2025,Solid,Green Bin,Compost,Biogas upgrade,Public,TJ.y,9.559398035645724
+2025,Solid,Green Bin,Compost,Biogas capture,___,TJ.y,10.166827599666036
+2025,Solid,Green Bin,Compost,Cogeneration engine,Internal Combustion Engine,MW,0.029715170198042137
+2025,Solid,Green Bin,Dufferin,Anaerobic Digester,,Tj.y,427.0712898693506
+2025,Solid,Green Bin,Dufferin,Anaerobic Digester,Public,TJ.y,0.8388403125555133
+2025,Solid,Green Bin,Dufferin,Gasification,Central,MW,0.007916787670030644
+2025,Solid,Green Bin,Dufferin,Gasification,Enerkem,TJ.y,0.6865814801757049
+2025,Solid,Green Bin,Disco Road,Anaerobic Digester,,Tj.y,403.0917097947471
+2025,Solid,Green Bin,Disco Road,Anaerobic Digester,Public,TJ.y,0.8523147063000609
+2025,Solid,Green Bin,Disco Road,Gasification,Central,MW,0.007950338938798696
+2025,Solid,Green Bin,Disco Road,Gasification,Enerkem,TJ.y,0.6963741977329867
+2025,Solid,Landfill,MI - Arbor Hills,Biogas upgrade,Public,TJ.y,8.934506717028412
+2025,Solid,Landfill,MI - Arbor Hills,Biogas capture,,Tj.y,204.37241250980665
+2025,Solid,Landfill,MI - Arbor Hills,Biogas capture,___,TJ.y,5.6997070397246175
+2025,Solid,Landfill,MI - Arbor Hills,Cogeneration engine,Internal Combustion Engine,MW,0.06986498056673014
+2025,Solid,Landfill,Beare Rd,Biogas upgrade,Public,TJ.y,9.149795390607517
+2025,Solid,Landfill,Beare Rd,Biogas capture,,Tj.y,288.3195424455218
+2025,Solid,Landfill,Beare Rd,Biogas capture,___,TJ.y,5.796799259452911
+2025,Solid,Landfill,Beare Rd,Cogeneration engine,Internal Combustion Engine,MW,0.0707860092741312
+2025,Solid,Landfill,Brock West,Biogas upgrade,Public,TJ.y,9.088949992673047
+2025,Solid,Landfill,Brock West,Biogas capture,___,TJ.y,7.494882133159368
+2025,Solid,Landfill,Brock West,Cogeneration engine,Internal Combustion Engine,MW,0.07306167361205106
+2025,Solid,Landfill,MI - Carleton farms,Biogas upgrade,Public,TJ.y,9.518973645662125
+2025,Solid,Landfill,MI - Carleton farms,Biogas capture,,Tj.y,506.18195661617216
+2025,Solid,Landfill,MI - Carleton farms,Biogas capture,___,TJ.y,5.9817044247039615
+2025,Solid,Landfill,MI - Carleton farms,Cogeneration engine,Internal Combustion Engine,MW,0.0723264053462731
+2025,Solid,Landfill,Green Lane,Biogas upgrade,Public,TJ.y,75.99574016091736
+2025,Solid,Landfill,Green Lane,Biogas capture,,Tj.y,2658.3673355205324
+2025,Solid,Landfill,Green Lane,Biogas capture,___,TJ.y,6.245692791902837
+2025,Solid,Landfill,Green Lane,Cogeneration engine,Internal Combustion Engine,MW,0.029871480779118022
+2025,Solid,Landfill,Keele Valley,Biogas upgrade,Public,TJ.y,70.09668198742419
+2025,Solid,Landfill,Keele Valley,Biogas capture,,Tj.y,1142.7782271417814
+2025,Solid,Landfill,Keele Valley,Biogas capture,___,TJ.y,6.201548434533409
+2025,Solid,Landfill,Keele Valley,Cogeneration engine,Internal Combustion Engine,MW,0.02987064913147345
+2025,Solid,Landfill,Thackeray,Biogas upgrade,Public,TJ.y,7.753550792758879
+2025,Solid,Landfill,Thackeray,Biogas capture,___,TJ.y,6.10934715666519
+2025,Solid,Landfill,Thackeray,Cogeneration engine,Internal Combustion Engine,MW,0.0656043840050007
+2025,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,,TJ.y,2015.422313452776
+2025,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,Public,TJ.y,4.611514148137596
+2025,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Central,MW,0.05865263891146094
+2025,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Enerkem,TJ.y,2.322888872084378
+2025,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,,TJ.y,1122.3797980715958
+2025,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,Public,TJ.y,4.529993226386768
+2025,Water,Waste water,Humber Wastewater Treatment Plant,Gasification,Central,MW,0.057154456747909886
+2025,Water,Waste water,Humber Wastewater Treatment Plant,Gasification,Enerkem,TJ.y,2.3222483511021976
+2025,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,,TJ.y,418.14438827657136
+2025,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,Public,TJ.y,4.362420881671524
+2025,Water,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Central,MW,0.05485366804553304
+2025,Water,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Enerkem,TJ.y,2.3156545306511105
+2025,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,,kt.y,3.71839517625232
+2030,Solid,Green Bin,Compost,Biogas upgrade,Public,TJ.y,12.32958201801309
+2030,Solid,Green Bin,Compost,Biogas capture,___,TJ.y,13.104898209230615
+2030,Solid,Green Bin,Compost,Cogeneration engine,Internal Combustion Engine,MW,0.03980423693747598
+2030,Solid,Green Bin,Dufferin,Anaerobic Digester,,Tj.y,427.0712898693506
+2030,Solid,Green Bin,Dufferin,Anaerobic Digester,Public,TJ.y,1.116530557824612
+2030,Solid,Green Bin,Dufferin,Gasification,Central,MW,0.010616300512670023
+2030,Solid,Green Bin,Dufferin,Gasification,Enerkem,TJ.y,0.9049441213501298
+2030,Solid,Green Bin,Disco Road,Anaerobic Digester,,Tj.y,403.0917097947471
+2030,Solid,Green Bin,Disco Road,Anaerobic Digester,Public,TJ.y,1.1318830964255449
+2030,Solid,Green Bin,Disco Road,Gasification,Central,MW,0.010660199710558349
+2030,Solid,Green Bin,Disco Road,Gasification,Enerkem,TJ.y,0.9161313272334402
+2030,Solid,Landfill,MI - Arbor Hills,Biogas upgrade,Public,TJ.y,11.803956601639815
+2030,Solid,Landfill,MI - Arbor Hills,Biogas capture,,Tj.y,204.37241250980665
+2030,Solid,Landfill,MI - Arbor Hills,Biogas capture,___,TJ.y,7.590131257677491
+2030,Solid,Landfill,MI - Arbor Hills,Cogeneration engine,Internal Combustion Engine,MW,0.09323404188477089
+2030,Solid,Landfill,Beare Rd,Biogas upgrade,Public,TJ.y,12.092082585321402
+2030,Solid,Landfill,Beare Rd,Biogas capture,,Tj.y,288.3195424455218
+2030,Solid,Landfill,Beare Rd,Biogas capture,___,TJ.y,7.723949684737876
+2030,Solid,Landfill,Beare Rd,Cogeneration engine,Internal Combustion Engine,MW,0.09449067034789065
+2030,Solid,Landfill,Brock West,Biogas upgrade,Public,TJ.y,12.08032350816551
+2030,Solid,Landfill,Brock West,Biogas capture,___,TJ.y,9.887208537209576
+2030,Solid,Landfill,Brock West,Cogeneration engine,Internal Combustion Engine,MW,0.09762424462081948
+2030,Solid,Landfill,MI - Carleton farms,Biogas upgrade,Public,TJ.y,12.588726169467751
+2030,Solid,Landfill,MI - Carleton farms,Biogas capture,,Tj.y,506.18195661617216
+2030,Solid,Landfill,MI - Carleton farms,Biogas capture,___,TJ.y,7.978404426458112
+2030,Solid,Landfill,MI - Carleton farms,Cogeneration engine,Internal Combustion Engine,MW,0.09658952144428072
+2030,Solid,Landfill,Green Lane,Biogas upgrade,Public,TJ.y,79.76725151989243
+2030,Solid,Landfill,Green Lane,Biogas capture,,Tj.y,2658.3673355205324
+2030,Solid,Landfill,Green Lane,Biogas capture,___,TJ.y,8.364578451175259
+2030,Solid,Landfill,Green Lane,Cogeneration engine,Internal Combustion Engine,MW,0.03999403751102601
+2030,Solid,Landfill,Keele Valley,Biogas upgrade,Public,TJ.y,73.77229039100595
+2030,Solid,Landfill,Keele Valley,Biogas capture,,Tj.y,1142.7782271417814
+2030,Solid,Landfill,Keele Valley,Biogas capture,___,TJ.y,8.282129793393473
+2030,Solid,Landfill,Keele Valley,Cogeneration engine,Internal Combustion Engine,MW,0.039992827810282974
+2030,Solid,Landfill,Thackeray,Biogas upgrade,Public,TJ.y,10.279787795505854
+2030,Solid,Landfill,Thackeray,Biogas capture,___,TJ.y,8.030921864808356
+2030,Solid,Landfill,Thackeray,Cogeneration engine,Internal Combustion Engine,MW,0.08743938239841736
+2030,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,Public,TJ.y,3831.30722650351
+2030,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Central,MW,0.06291222420551984
+2030,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Enerkem,TJ.y,2.517074831746647
+2030,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,Public,TJ.y,1726.060405975434
+2030,Water,Waste water,Humber Wastewater Treatment Plant,Gasification,Central,MW,0.06132379968784061
+2030,Water,Waste water,Humber Wastewater Treatment Plant,Gasification,Enerkem,TJ.y,2.5161887368516043
+2030,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,Public,TJ.y,814.8174540818418
+2030,Water,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Central,MW,0.058909453068839775
+2030,Water,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Enerkem,TJ.y,2.509080337474237
+2030,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,,kt.y,3.71839517625232
+2035,Solid,Green Bin,Compost,Biogas upgrade,Public,TJ.y,15.547212910664356
+2035,Solid,Green Bin,Compost,Biogas capture,___,TJ.y,16.531849539835367
+2035,Solid,Green Bin,Compost,Cogeneration engine,Internal Combustion Engine,MW,0.05128741627209922
+2035,Solid,Green Bin,Dufferin,Anaerobic Digester,,Tj.y,427.0712898693506
+2035,Solid,Green Bin,Dufferin,Anaerobic Digester,Public,TJ.y,1.4358357619334985
+2035,Solid,Green Bin,Dufferin,Gasification,Central,MW,0.013814731281377108
+2035,Solid,Green Bin,Dufferin,Gasification,Enerkem,TJ.y,1.1526612817183386
+2035,Solid,Green Bin,Disco Road,Anaerobic Digester,,Tj.y,403.0917097947471
+2035,Solid,Green Bin,Disco Road,Anaerobic Digester,Public,TJ.y,1.453216747081228
+2035,Solid,Green Bin,Disco Road,Gasification,Central,MW,0.014616741090284442
+2035,Solid,Green Bin,Disco Road,Gasification,Enerkem,TJ.y,1.1653594197790442
+2035,Solid,Landfill,MI - Arbor Hills,Biogas upgrade,Public,TJ.y,15.007463272949197
+2035,Solid,Landfill,MI - Arbor Hills,Biogas capture,,Tj.y,204.37241250980665
+2035,Solid,Landfill,MI - Arbor Hills,Biogas capture,___,TJ.y,9.71022311741807
+2035,Solid,Landfill,MI - Arbor Hills,Cogeneration engine,Internal Combustion Engine,MW,0.119532725224955
+2035,Solid,Landfill,Beare Rd,Biogas upgrade,Public,TJ.y,15.379503571319066
+2035,Solid,Landfill,Beare Rd,Biogas capture,,Tj.y,288.3195424455218
+2035,Solid,Landfill,Beare Rd,Biogas capture,___,TJ.y,9.88779092850228
+2035,Solid,Landfill,Beare Rd,Cogeneration engine,Internal Combustion Engine,MW,0.12119463268971348
+2035,Solid,Landfill,Brock West,Biogas upgrade,Public,TJ.y,15.441998747203488
+2035,Solid,Landfill,Brock West,Biogas capture,___,TJ.y,12.598837385834594
+2035,Solid,Landfill,Brock West,Cogeneration engine,Internal Combustion Engine,MW,0.1253670445275349
+2035,Solid,Landfill,MI - Carleton farms,Biogas upgrade,Public,TJ.y,16.027703025669318
+2035,Solid,Landfill,MI - Carleton farms,Biogas capture,,Tj.y,506.18195661617216
+2035,Solid,Landfill,MI - Carleton farms,Biogas capture,___,TJ.y,10.227484542315873
+2035,Solid,Landfill,MI - Carleton farms,Cogeneration engine,Internal Combustion Engine,MW,0.12396569260368052
+2035,Solid,Landfill,Green Lane,Biogas upgrade,Public,TJ.y,84.49329402528633
+2035,Solid,Landfill,Green Lane,Biogas capture,,Tj.y,2658.3673355205324
+2035,Solid,Landfill,Green Lane,Biogas capture,___,TJ.y,10.77428197497429
+2035,Solid,Landfill,Green Lane,Cogeneration engine,Internal Combustion Engine,MW,0.051513771395172894
+2035,Solid,Landfill,Keele Valley,Biogas upgrade,Public,TJ.y,78.33859926665765
+2035,Solid,Landfill,Keele Valley,Biogas capture,,Tj.y,1142.7782271417814
+2035,Solid,Landfill,Keele Valley,Biogas capture,___,TJ.y,10.638019665164752
+2035,Solid,Landfill,Keele Valley,Cogeneration engine,Internal Combustion Engine,MW,0.051512080925601667
+2035,Solid,Landfill,Thackeray,Biogas upgrade,Public,TJ.y,13.104479132605535
+2035,Solid,Landfill,Thackeray,Biogas capture,___,TJ.y,10.179088787773408
+2035,Solid,Landfill,Thackeray,Cogeneration engine,Internal Combustion Engine,MW,0.11189596328579796
+2035,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,Public,TJ.y,3920.2235055630417
+2035,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Central,MW,0.06808489877299848
+2035,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Enerkem,TJ.y,2.7348622153163977
+2035,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,Public,TJ.y,1766.2502065917115
+2035,Water,Waste water,Humber Wastewater Treatment Plant,Gasification,Central,MW,0.06634147542031105
+2035,Water,Waste water,Humber Wastewater Treatment Plant,Gasification,Enerkem,TJ.y,2.7336274253694377
+2035,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,Public,TJ.y,833.937247800652
+2035,Water,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Central,MW,0.06373823393843311
+2035,Water,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Enerkem,TJ.y,2.7258649089173983
+2035,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,,kt.y,3.71839517625232
+2040,Solid,Green Bin,Compost,Biogas upgrade,Public,TJ.y,19.167791209202214
+2040,Solid,Green Bin,Compost,Biogas capture,___,TJ.y,20.40900568704636
+2040,Solid,Green Bin,Compost,Cogeneration engine,Internal Combustion Engine,MW,0.06488338792599971
+2040,Solid,Green Bin,Dufferin,Anaerobic Digester,,Tj.y,427.0712898693506
+2040,Solid,Green Bin,Dufferin,Anaerobic Digester,Public,TJ.y,1.8213323965220911
+2040,Solid,Green Bin,Dufferin,Gasification,Central,MW,0.017743658201888148
+2040,Solid,Green Bin,Dufferin,Gasification,Enerkem,TJ.y,1.4454910693571326
+2040,Solid,Green Bin,Disco Road,Anaerobic Digester,,Tj.y,403.0917097947471
+2040,Solid,Green Bin,Disco Road,Anaerobic Digester,Public,TJ.y,1.840755595747876
+2040,Solid,Green Bin,Disco Road,Gasification,Central,MW,0.01855828492140672
+2040,Solid,Green Bin,Disco Road,Gasification,Enerkem,TJ.y,1.4597594344523328
+2040,Solid,Landfill,MI - Arbor Hills,Biogas upgrade,Public,TJ.y,18.72069165548691
+2040,Solid,Landfill,MI - Arbor Hills,Biogas capture,,Tj.y,204.37241250980665
+2040,Solid,Landfill,MI - Arbor Hills,Biogas capture,___,TJ.y,12.173000353950624
+2040,Solid,Landfill,MI - Arbor Hills,Cogeneration engine,Internal Combustion Engine,MW,0.15019218387090522
+2040,Solid,Landfill,Beare Rd,Biogas upgrade,Public,TJ.y,19.190752917151805
+2040,Solid,Landfill,Beare Rd,Biogas capture,,Tj.y,288.3195424455218
+2040,Solid,Landfill,Beare Rd,Biogas capture,___,TJ.y,12.405663347394018
+2040,Solid,Landfill,Beare Rd,Cogeneration engine,Internal Combustion Engine,MW,0.1523691315702117
+2040,Solid,Landfill,Brock West,Biogas upgrade,Public,TJ.y,19.362368280133776
+2040,Solid,Landfill,Brock West,Biogas capture,___,TJ.y,15.777429156095875
+2040,Solid,Landfill,Brock West,Cogeneration engine,Internal Combustion Engine,MW,0.1578646323054006
+2040,Solid,Landfill,MI - Carleton farms,Biogas upgrade,Public,TJ.y,20.04773798280632
+2040,Solid,Landfill,MI - Carleton farms,Biogas capture,,Tj.y,506.18195661617216
+2040,Solid,Landfill,MI - Carleton farms,Biogas capture,___,TJ.y,12.852851052486283
+2040,Solid,Landfill,MI - Carleton farms,Cogeneration engine,Internal Combustion Engine,MW,0.1559872283204684
+2040,Solid,Landfill,Green Lane,Biogas upgrade,Public,TJ.y,89.58491291842516
+2040,Solid,Landfill,Green Lane,Biogas capture,,Tj.y,2658.3673355205324
+2040,Solid,Landfill,Green Lane,Biogas capture,___,TJ.y,13.618848633401493
+2040,Solid,Landfill,Green Lane,Cogeneration engine,Internal Combustion Engine,MW,0.06515092735372907
+2040,Solid,Landfill,Keele Valley,Biogas upgrade,Public,TJ.y,83.1668546005428
+2040,Solid,Landfill,Keele Valley,Biogas capture,,Tj.y,1142.7782271417814
+2040,Solid,Landfill,Keele Valley,Biogas capture,___,TJ.y,13.411599022826897
+2040,Solid,Landfill,Keele Valley,Cogeneration engine,Internal Combustion Engine,MW,0.06514858721792686
+2040,Solid,Landfill,Thackeray,Biogas upgrade,Public,TJ.y,16.388143921837383
+2040,Solid,Landfill,Thackeray,Biogas capture,___,TJ.y,12.670956860851106
+2040,Solid,Landfill,Thackeray,Cogeneration engine,Internal Combustion Engine,MW,0.14026634899972823
+2040,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,Public,TJ.y,4004.621893020684
+2040,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Central,MW,0.07483180615771245
+2040,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Enerkem,TJ.y,2.9886287939414475
+2040,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,Public,TJ.y,1804.3869130612384
+2040,Water,Waste water,Humber Wastewater Treatment Plant,Gasification,Central,MW,0.07284887491882609
+2040,Water,Waste water,Humber Wastewater Treatment Plant,Gasification,Enerkem,TJ.y,2.9870206549963063
+2040,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,Public,TJ.y,852.0655065566265
+2040,Water,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Central,MW,0.0699585962213458
+2040,Water,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Enerkem,TJ.y,2.9785903651568697
+2040,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,,kt.y,3.71839517625232
+2045,Solid,Green Bin,Compost,Biogas upgrade,Public,TJ.y,25.439970551004258
+2045,Solid,Green Bin,Compost,Biogas capture,___,TJ.y,27.125759805725753
+2045,Solid,Green Bin,Compost,Cogeneration engine,Internal Combustion Engine,MW,0.08297173671012636
+2045,Solid,Green Bin,Dufferin,Anaerobic Digester,Public,TJ.y,2.3827749458244423
+2045,Solid,Green Bin,Dufferin,Gasification,Central,MW,0.023085135408476943
+2045,Solid,Green Bin,Dufferin,Gasification,Enerkem,TJ.y,1.838090844843773
+2045,Solid,Green Bin,Disco Road,Anaerobic Digester,Public,TJ.y,2.403029408773382
+2045,Solid,Green Bin,Disco Road,Gasification,Central,MW,0.02516345740638458
+2045,Solid,Green Bin,Disco Road,Gasification,Enerkem,TJ.y,1.8535709226154415
+2045,Solid,Landfill,MI - Arbor Hills,Biogas upgrade,Public,TJ.y,23.54075157171876
+2045,Solid,Landfill,MI - Arbor Hills,Biogas capture,,Tj.y,204.37241250980665
+2045,Solid,Landfill,MI - Arbor Hills,Biogas capture,___,TJ.y,15.374770280595284
+2045,Solid,Landfill,MI - Arbor Hills,Cogeneration engine,Internal Combustion Engine,MW,0.19004259917156127
+2045,Solid,Landfill,Beare Rd,Biogas upgrade,Public,TJ.y,24.139951451616987
+2045,Solid,Landfill,Beare Rd,Biogas capture,,Tj.y,288.3195424455218
+2045,Solid,Landfill,Beare Rd,Biogas capture,___,TJ.y,15.675954046451787
+2045,Solid,Landfill,Beare Rd,Cogeneration engine,Internal Combustion Engine,MW,0.19296540390034575
+2045,Solid,Landfill,Brock West,Biogas upgrade,Public,TJ.y,24.487253346773187
+2045,Solid,Landfill,Brock West,Biogas capture,___,TJ.y,19.947317182845747
+2045,Solid,Landfill,Brock West,Cogeneration engine,Internal Combustion Engine,MW,0.20040281904827317
+2045,Solid,Landfill,MI - Carleton farms,Biogas upgrade,Public,TJ.y,25.231095174067274
+2045,Solid,Landfill,MI - Carleton farms,Biogas capture,,Tj.y,506.18195661617216
+2045,Solid,Landfill,MI - Carleton farms,Biogas capture,___,TJ.y,16.281404841277947
+2045,Solid,Landfill,MI - Carleton farms,Cogeneration engine,Internal Combustion Engine,MW,0.1978167677279868
+2045,Solid,Landfill,Green Lane,Biogas upgrade,Public,TJ.y,272.5133329632863
+2045,Solid,Landfill,Green Lane,Biogas capture,,Tj.y,2658.3673355205324
+2045,Solid,Landfill,Green Lane,Biogas capture,___,TJ.y,17.382802939164115
+2045,Solid,Landfill,Green Lane,Cogeneration engine,Internal Combustion Engine,MW,0.08330197396963623
+2045,Solid,Landfill,Keele Valley,Biogas upgrade,Public,TJ.y,168.3711154990328
+2045,Solid,Landfill,Keele Valley,Biogas capture,,Tj.y,1142.7782271417814
+2045,Solid,Landfill,Keele Valley,Biogas capture,___,TJ.y,17.091898070875203
+2045,Solid,Landfill,Keele Valley,Cogeneration engine,Internal Combustion Engine,MW,0.08329864445069102
+2045,Solid,Landfill,Thackeray,Biogas upgrade,Public,TJ.y,20.68385137325058
+2045,Solid,Landfill,Thackeray,Biogas capture,___,TJ.y,15.92109935626983
+2045,Solid,Landfill,Thackeray,Cogeneration engine,Internal Combustion Engine,MW,0.17694599462675245
+2045,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,Public,TJ.y,4094.951533910057
+2045,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Central,MW,0.06541815779103075
+2045,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Enerkem,TJ.y,2.735717162720296
+2045,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,Public,TJ.y,1845.29856860957
+2045,Water,Waste water,Humber Wastewater Treatment Plant,Gasification,Central,MW,0.06369743883108184
+2045,Water,Waste water,Humber Wastewater Treatment Plant,Gasification,Enerkem,TJ.y,2.7341095872000936
+2045,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,Public,TJ.y,871.5422932318936
+2045,Water,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Central,MW,0.06125727265533093
+2045,Water,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Enerkem,TJ.y,2.726422258064278
+2045,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,,kt.y,3.71839517625232
+2050,Solid,Green Bin,Compost,Biogas upgrade,Public,TJ.y,44.35146800236016
+2050,Solid,Green Bin,Compost,Biogas capture,___,TJ.y,47.40164628315136
+2050,Solid,Green Bin,Compost,Cogeneration engine,Internal Combustion Engine,MW,0.14182426776203896
+2050,Solid,Green Bin,Dufferin,Anaerobic Digester,Public,TJ.y,5.164946049803415
+2050,Solid,Green Bin,Dufferin,Gasification,Central,MW,0.0416716234837808
+2050,Solid,Green Bin,Dufferin,Gasification,Enerkem,TJ.y,3.4565895355525917
+2050,Solid,Green Bin,Disco Road,Anaerobic Digester,Public,TJ.y,5.199571606306005
+2050,Solid,Green Bin,Disco Road,Gasification,Central,MW,0.043789628086811555
+2050,Solid,Green Bin,Disco Road,Gasification,Enerkem,TJ.y,3.4812567148512015
+2050,Solid,Landfill,MI - Arbor Hills,Biogas upgrade,Public,TJ.y,40.016622634711766
+2050,Solid,Landfill,MI - Arbor Hills,Biogas capture,,Tj.y,204.37241250980665
+2050,Solid,Landfill,MI - Arbor Hills,Biogas capture,___,TJ.y,25.679369381415857
+2050,Solid,Landfill,MI - Arbor Hills,Cogeneration engine,Internal Combustion Engine,MW,0.3129672050057948
+2050,Solid,Landfill,Beare Rd,Biogas upgrade,Public,TJ.y,41.04110166140896
+2050,Solid,Landfill,Beare Rd,Biogas capture,,Tj.y,288.3195424455218
+2050,Solid,Landfill,Beare Rd,Biogas capture,___,TJ.y,26.17574131371054
+2050,Solid,Landfill,Beare Rd,Cogeneration engine,Internal Combustion Engine,MW,0.31866879092081885
+2050,Solid,Landfill,Brock West,Biogas upgrade,Public,TJ.y,41.6496608986362
+2050,Solid,Landfill,Brock West,Biogas capture,___,TJ.y,35.16401277283207
+2050,Solid,Landfill,Brock West,Cogeneration engine,Internal Combustion Engine,MW,0.33408015223357723
+2050,Solid,Landfill,MI - Carleton farms,Biogas upgrade,Public,TJ.y,42.95429077275732
+2050,Solid,Landfill,MI - Carleton farms,Biogas capture,,Tj.y,506.18195661617216
+2050,Solid,Landfill,MI - Carleton farms,Biogas capture,___,TJ.y,27.276535138473967
+2050,Solid,Landfill,MI - Carleton farms,Cogeneration engine,Internal Combustion Engine,MW,0.32841479342971847
+2050,Solid,Landfill,Green Lane,Biogas upgrade,Public,TJ.y,309.7411914115544
+2050,Solid,Landfill,Green Lane,Biogas capture,,Tj.y,2658.3673355205324
+2050,Solid,Landfill,Green Lane,Biogas capture,___,TJ.y,29.750279624504618
+2050,Solid,Landfill,Green Lane,Cogeneration engine,Internal Combustion Engine,MW,0.14217685380395717
+2050,Solid,Landfill,Keele Valley,Biogas upgrade,Public,TJ.y,192.95108340644947
+2050,Solid,Landfill,Keele Valley,Biogas capture,,Tj.y,1142.7782271417814
+2050,Solid,Landfill,Keele Valley,Biogas capture,___,TJ.y,29.57022833594505
+2050,Solid,Landfill,Keele Valley,Cogeneration engine,Internal Combustion Engine,MW,0.14217218787389174
+2050,Solid,Landfill,Thackeray,Biogas upgrade,Public,TJ.y,35.120559819893145
+2050,Solid,Landfill,Thackeray,Biogas capture,___,TJ.y,27.69077175802351
+2050,Solid,Landfill,Thackeray,Cogeneration engine,Internal Combustion Engine,MW,0.3354840788099884
+2050,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Anaerobic Digester,Public,TJ.y,4179.446108279383
+2050,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Central,MW,0.11215395632245909
+2050,Water,Waste water,Ahsbridges Bay Wastewater Treatment Plant,Gasification,Enerkem,TJ.y,2.998636084527056
+2050,Water,Waste water,Humber Wastewater Treatment Plant,Anaerobic Digester,Public,TJ.y,1884.028043174219
+2050,Water,Waste water,Humber Wastewater Treatment Plant,Gasification,Central,MW,0.10115332212592776
+2050,Water,Waste water,Humber Wastewater Treatment Plant,Gasification,Enerkem,TJ.y,2.99651100216286
+2050,Water,Waste water,Highland Creek Waterwater Treatment Plant,Anaerobic Digester,Public,TJ.y,890.5172659873454
+2050,Water,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Central,MW,0.09251151082536312
+2050,Water,Waste water,Highland Creek Waterwater Treatment Plant,Gasification,Enerkem,TJ.y,2.9897809057960987
+2050,Water,Waste water,Highland Creek Waterwater Treatment Plant,Incineration,,kt.y,3.71839517625232

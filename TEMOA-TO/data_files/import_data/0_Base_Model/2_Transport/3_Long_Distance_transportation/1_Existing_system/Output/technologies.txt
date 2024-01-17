@@ -1,0 +1,6 @@
+INSERT INTO`technologies`VALUES('LDITRADOMAIR_________AGA_EX','p','LDITRA','Long DistanceTransportationDomesticAirAviation Gasoline','nan');
+INSERT INTO`technologies`VALUES('LDITRADOMAIR_________ATF_EX','p','LDITRA','Long DistanceTransportationDomesticAirAviation Turbo Fuel','nan');
+INSERT INTO`technologies`VALUES('LDITRADOMRAI_________DSL_EX','p','LDITRA','Long DistanceTransportationDomesticRailDiesel','nan');
+INSERT INTO`technologies`VALUES('LDITRAINTAIR_________AGA_EX','p','LDITRA','Long DistanceTransportationInternationalAirAviation Gasoline','nan');
+INSERT INTO`technologies`VALUES('LDITRAINTAIR_________ATF_EX','p','LDITRA','Long DistanceTransportationInternationalAirAviation Turbo Fuel','nan');
+INSERT INTO`technologies`VALUES('LDITRAINTRAI_________DSL_EX','p','LDITRA','Long DistanceTransportationInternationalRailDiesel','nan');

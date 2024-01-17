@@ -1,0 +1,33 @@
+regions,tech,vintage,exist_cap,exist_cap_units,exist_cap_notes
+TO,SLDWASLDFGLAGG_EX,2015,10000000000.0,kta,SolidWasteLandfillGreen LaneAggregate demand
+TO,SLDWASLDFGLGEN_EX,2015,10000000000.0,kta,SolidWasteLandfillGreen LaneBiogas generation
+TO,SLDWASLDFGLCAP_EX,2015,2658.3673355205324,Tja,SolidWasteLandfillGreen LaneBiogas capture
+TO,SLDWASLDFGLFLR_EX,2015,10000000000.0,Tja,SolidWasteLandfillGreen LaneFlaring
+TO,SLDWASLDFBWGEN_EX,2015,10000000000.0,kta,SolidWasteHistorical LF wasteBrock WestBiogas generation
+TO,SLDWASLDFBWLEK_EX,2015,10000000000.0,kta,SolidWasteLandfillBrock WestLeaking
+TO,SLDWASLDFKVGEN_EX,2015,10000000000.0,kta,SolidWasteHistorical LF wasteKeele ValleyBiogas generation
+TO,SLDWASLDFKVCAP_EX,2015,1142.7782271417816,Tja,SolidWasteLandfillKeele ValleyBiogas capture
+TO,SLDWASLDFKVFLR_EX,2015,10000000000.0,Tja,SolidWasteLandfillKeele ValleyFlaring
+TO,SLDWASLDFBRGEN_EX,2015,10000000000.0,kta,SolidWasteHistorical LF wasteBeare RdBiogas generation
+TO,SLDWASLDFBRCAP_EX,2015,288.3195424455218,Tja,SolidWasteLandfillBeare RdBiogas capture
+TO,SLDWASLDFBRFLR_EX,2015,10000000000.0,Tja,SolidWasteLandfillBeare RdFlaring
+TO,SLDWASLDFTKGEN_EX,2015,10000000000.0,kta,SolidWasteHistorical LF wasteThackerayBiogas generation
+TO,SLDWASLDFTKLEK_EX,2015,10000000000.0,Tja,SolidWasteLandfillThackerayLeaking
+TO,SLDWASLDFAHGEN_EX,2015,10000000000.0,kta,SolidWasteHistorical LF wasteMI - Arbor HillsBiogas generation
+TO,SLDWASLDFAHCAP_EX,2015,204.37241250980662,Tja,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,SLDWASLDFAHFLR_EX,2015,10000000000.0,Tja,SolidWasteLandfillMI - Arbor HillsFlaring
+TO,SLDWASLDFCFGEN_EX,2015,10000000000.0,kta,SolidWasteHistorical LF wasteMI - Carleton farmsBiogas generation
+TO,SLDWASLDFCFCAP_EX,2015,506.1819566161722,Tja,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,SLDWASLDFCFFLR_EX,2015,10000000000.0,Tja,SolidWasteLandfillMI - Carleton farmsFlaring
+TO,SLDWASGRBDRTTE_EX,2015,150.0,Tja,SolidWasteGreen BinDisco RoadTons to Energy
+TO,SLDWASGRBDRADI_EX,2015,403.09170979474703,Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,SLDWASGRBDRADIMNGA_EX,2015,10000000000.0,Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,SLDWASGRBDRUSE_EX,2015,10000000000.0,Tja,SolidWasteGreen BinDisco RoadExport of energy
+TO,SLDWASGRBDRFLR_EX,2015,10000000000.0,Tja,SolidWasteGreen BinDisco RoadFlaring
+TO,SLDWASGRBDFTTE_EX,2015,110.0,kta,SolidWasteGreen BinDufferinTons to Energy
+TO,SLDWASGRBDFADI_EX,2015,427.07128986935055,Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,SLDWASGRBDFADIMNGA_EX,2015,10000000000.0,Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,SLDWASGRBDFUSE_EX,2015,10000000000.0,Tja,SolidWasteGreen BinDufferinExport of energy
+TO,SLDWASGRBDFFLR_EX,2015,10000000000.0,Tja,SolidWasteGreen BinDufferinFlaring
+TO,SLDWASGRBCPGEN_EX,2015,1788.2507000000003,kta,SolidWasteGreen BinCompostBiogas generation
+TO,SLDWASGRBCPLEK_EX,2015,10000000000.0,kta,SolidWasteGreen BinCompostLeaking

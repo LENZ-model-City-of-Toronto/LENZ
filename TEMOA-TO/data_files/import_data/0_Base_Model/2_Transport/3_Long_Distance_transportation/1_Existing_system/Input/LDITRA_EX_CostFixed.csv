@@ -1,0 +1,757 @@
+regions,periods,tech,vintage,cost_fixed,cost_fixed_units,cost_fixed_notes
+TO,2016,LDITRADOMAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2016,LDITRADOMAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2016,LDITRADOMRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2016,LDITRAINTAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2016,LDITRAINTAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2016,LDITRAINTRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2017,LDITRADOMAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2017,LDITRADOMAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2017,LDITRADOMRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2017,LDITRAINTAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2017,LDITRAINTAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2017,LDITRAINTRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2018,LDITRADOMAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2018,LDITRADOMAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2018,LDITRADOMRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2018,LDITRAINTAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2018,LDITRAINTAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2018,LDITRAINTRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2019,LDITRADOMAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2019,LDITRADOMAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2019,LDITRADOMRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2019,LDITRAINTAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2019,LDITRAINTAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2019,LDITRAINTRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2020,LDITRADOMAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2020,LDITRADOMAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2020,LDITRADOMRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2020,LDITRAINTAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2020,LDITRAINTAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2020,LDITRAINTRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2021,LDITRADOMAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2021,LDITRADOMAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2021,LDITRADOMRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2021,LDITRAINTAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2021,LDITRAINTAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2021,LDITRAINTRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2022,LDITRADOMAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2022,LDITRADOMAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2022,LDITRADOMRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2022,LDITRAINTAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2022,LDITRAINTAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2022,LDITRAINTRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2023,LDITRADOMAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2023,LDITRADOMAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2023,LDITRADOMRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2023,LDITRAINTAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2023,LDITRAINTAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2023,LDITRAINTRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2024,LDITRADOMAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2024,LDITRADOMAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2024,LDITRADOMRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2024,LDITRAINTAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2024,LDITRAINTAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2024,LDITRAINTRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2025,LDITRADOMAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2025,LDITRADOMAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2025,LDITRADOMRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2025,LDITRAINTAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2025,LDITRAINTAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2025,LDITRAINTRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2026,LDITRADOMAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2026,LDITRADOMAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2026,LDITRADOMRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2026,LDITRAINTAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2026,LDITRAINTAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2026,LDITRAINTRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2027,LDITRADOMAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2027,LDITRADOMAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2027,LDITRADOMRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2027,LDITRAINTAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2027,LDITRAINTAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2027,LDITRAINTRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2028,LDITRADOMAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2028,LDITRADOMAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2028,LDITRADOMRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2028,LDITRAINTAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2028,LDITRAINTAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2028,LDITRAINTRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2029,LDITRADOMAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2029,LDITRADOMAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2029,LDITRADOMRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2029,LDITRAINTAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2029,LDITRAINTAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2029,LDITRAINTRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2030,LDITRADOMAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2030,LDITRADOMAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2030,LDITRADOMRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2030,LDITRAINTAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2030,LDITRAINTAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2030,LDITRAINTRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2031,LDITRADOMAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2031,LDITRADOMAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2031,LDITRADOMRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2031,LDITRAINTAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2031,LDITRAINTAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2031,LDITRAINTRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2032,LDITRADOMAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2032,LDITRADOMAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2032,LDITRADOMRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2032,LDITRAINTAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2032,LDITRAINTAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2032,LDITRAINTRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2033,LDITRADOMAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2033,LDITRADOMAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2033,LDITRADOMRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2033,LDITRAINTAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2033,LDITRAINTAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2033,LDITRAINTRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2034,LDITRADOMAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2034,LDITRADOMAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2034,LDITRADOMRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2034,LDITRAINTAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2034,LDITRAINTAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2034,LDITRAINTRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2035,LDITRADOMAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2035,LDITRADOMAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2035,LDITRADOMRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2035,LDITRAINTAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2035,LDITRAINTAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2035,LDITRAINTRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2036,LDITRADOMAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2036,LDITRADOMAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2036,LDITRADOMRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2036,LDITRAINTAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2036,LDITRAINTAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2036,LDITRAINTRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2037,LDITRADOMAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2037,LDITRADOMAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2037,LDITRADOMRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2037,LDITRAINTAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2037,LDITRAINTAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2037,LDITRAINTRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2038,LDITRADOMAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2038,LDITRADOMAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2038,LDITRADOMRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2038,LDITRAINTAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2038,LDITRAINTAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2038,LDITRAINTRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2039,LDITRADOMAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2039,LDITRADOMAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2039,LDITRADOMRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2039,LDITRAINTAIR_________AGA_EX,2015,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2039,LDITRAINTAIR_________ATF_EX,2015,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2039,LDITRAINTRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2040,LDITRADOMRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2040,LDITRAINTRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2041,LDITRADOMRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2041,LDITRAINTRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2042,LDITRADOMRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2042,LDITRAINTRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2043,LDITRADOMRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2043,LDITRAINTRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2044,LDITRADOMRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2044,LDITRAINTRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2045,LDITRADOMRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2045,LDITRAINTRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2046,LDITRADOMRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2046,LDITRAINTRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2047,LDITRADOMRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2047,LDITRAINTRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2048,LDITRADOMRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2048,LDITRAINTRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2049,LDITRADOMRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2049,LDITRAINTRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2050,LDITRADOMRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2050,LDITRAINTRAI_________DSL_EX,2015,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2016,LDITRADOMAIR_________AGA_EX,2010,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2016,LDITRADOMAIR_________ATF_EX,2010,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2016,LDITRADOMRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2016,LDITRAINTAIR_________AGA_EX,2010,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2016,LDITRAINTAIR_________ATF_EX,2010,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2016,LDITRAINTRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2017,LDITRADOMAIR_________AGA_EX,2010,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2017,LDITRADOMAIR_________ATF_EX,2010,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2017,LDITRADOMRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2017,LDITRAINTAIR_________AGA_EX,2010,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2017,LDITRAINTAIR_________ATF_EX,2010,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2017,LDITRAINTRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2018,LDITRADOMAIR_________AGA_EX,2010,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2018,LDITRADOMAIR_________ATF_EX,2010,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2018,LDITRADOMRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2018,LDITRAINTAIR_________AGA_EX,2010,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2018,LDITRAINTAIR_________ATF_EX,2010,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2018,LDITRAINTRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2019,LDITRADOMAIR_________AGA_EX,2010,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2019,LDITRADOMAIR_________ATF_EX,2010,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2019,LDITRADOMRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2019,LDITRAINTAIR_________AGA_EX,2010,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2019,LDITRAINTAIR_________ATF_EX,2010,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2019,LDITRAINTRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2020,LDITRADOMAIR_________AGA_EX,2010,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2020,LDITRADOMAIR_________ATF_EX,2010,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2020,LDITRADOMRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2020,LDITRAINTAIR_________AGA_EX,2010,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2020,LDITRAINTAIR_________ATF_EX,2010,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2020,LDITRAINTRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2021,LDITRADOMAIR_________AGA_EX,2010,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2021,LDITRADOMAIR_________ATF_EX,2010,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2021,LDITRADOMRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2021,LDITRAINTAIR_________AGA_EX,2010,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2021,LDITRAINTAIR_________ATF_EX,2010,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2021,LDITRAINTRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2022,LDITRADOMAIR_________AGA_EX,2010,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2022,LDITRADOMAIR_________ATF_EX,2010,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2022,LDITRADOMRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2022,LDITRAINTAIR_________AGA_EX,2010,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2022,LDITRAINTAIR_________ATF_EX,2010,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2022,LDITRAINTRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2023,LDITRADOMAIR_________AGA_EX,2010,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2023,LDITRADOMAIR_________ATF_EX,2010,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2023,LDITRADOMRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2023,LDITRAINTAIR_________AGA_EX,2010,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2023,LDITRAINTAIR_________ATF_EX,2010,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2023,LDITRAINTRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2024,LDITRADOMAIR_________AGA_EX,2010,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2024,LDITRADOMAIR_________ATF_EX,2010,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2024,LDITRADOMRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2024,LDITRAINTAIR_________AGA_EX,2010,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2024,LDITRAINTAIR_________ATF_EX,2010,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2024,LDITRAINTRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2025,LDITRADOMAIR_________AGA_EX,2010,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2025,LDITRADOMAIR_________ATF_EX,2010,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2025,LDITRADOMRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2025,LDITRAINTAIR_________AGA_EX,2010,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2025,LDITRAINTAIR_________ATF_EX,2010,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2025,LDITRAINTRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2026,LDITRADOMAIR_________AGA_EX,2010,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2026,LDITRADOMAIR_________ATF_EX,2010,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2026,LDITRADOMRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2026,LDITRAINTAIR_________AGA_EX,2010,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2026,LDITRAINTAIR_________ATF_EX,2010,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2026,LDITRAINTRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2027,LDITRADOMAIR_________AGA_EX,2010,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2027,LDITRADOMAIR_________ATF_EX,2010,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2027,LDITRADOMRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2027,LDITRAINTAIR_________AGA_EX,2010,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2027,LDITRAINTAIR_________ATF_EX,2010,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2027,LDITRAINTRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2028,LDITRADOMAIR_________AGA_EX,2010,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2028,LDITRADOMAIR_________ATF_EX,2010,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2028,LDITRADOMRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2028,LDITRAINTAIR_________AGA_EX,2010,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2028,LDITRAINTAIR_________ATF_EX,2010,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2028,LDITRAINTRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2029,LDITRADOMAIR_________AGA_EX,2010,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2029,LDITRADOMAIR_________ATF_EX,2010,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2029,LDITRADOMRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2029,LDITRAINTAIR_________AGA_EX,2010,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2029,LDITRAINTAIR_________ATF_EX,2010,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2029,LDITRAINTRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2030,LDITRADOMAIR_________AGA_EX,2010,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2030,LDITRADOMAIR_________ATF_EX,2010,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2030,LDITRADOMRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2030,LDITRAINTAIR_________AGA_EX,2010,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2030,LDITRAINTAIR_________ATF_EX,2010,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2030,LDITRAINTRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2031,LDITRADOMAIR_________AGA_EX,2010,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2031,LDITRADOMAIR_________ATF_EX,2010,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2031,LDITRADOMRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2031,LDITRAINTAIR_________AGA_EX,2010,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2031,LDITRAINTAIR_________ATF_EX,2010,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2031,LDITRAINTRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2032,LDITRADOMAIR_________AGA_EX,2010,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2032,LDITRADOMAIR_________ATF_EX,2010,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2032,LDITRADOMRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2032,LDITRAINTAIR_________AGA_EX,2010,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2032,LDITRAINTAIR_________ATF_EX,2010,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2032,LDITRAINTRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2033,LDITRADOMAIR_________AGA_EX,2010,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2033,LDITRADOMAIR_________ATF_EX,2010,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2033,LDITRADOMRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2033,LDITRAINTAIR_________AGA_EX,2010,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2033,LDITRAINTAIR_________ATF_EX,2010,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2033,LDITRAINTRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2034,LDITRADOMAIR_________AGA_EX,2010,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2034,LDITRADOMAIR_________ATF_EX,2010,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2034,LDITRADOMRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2034,LDITRAINTAIR_________AGA_EX,2010,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2034,LDITRAINTAIR_________ATF_EX,2010,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2034,LDITRAINTRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2035,LDITRADOMRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2035,LDITRAINTRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2036,LDITRADOMRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2036,LDITRAINTRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2037,LDITRADOMRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2037,LDITRAINTRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2038,LDITRADOMRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2038,LDITRAINTRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2039,LDITRADOMRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2039,LDITRAINTRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2040,LDITRADOMRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2040,LDITRAINTRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2041,LDITRADOMRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2041,LDITRAINTRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2042,LDITRADOMRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2042,LDITRAINTRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2043,LDITRADOMRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2043,LDITRAINTRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2044,LDITRADOMRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2044,LDITRAINTRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2045,LDITRADOMRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2045,LDITRAINTRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2046,LDITRADOMRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2046,LDITRAINTRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2047,LDITRADOMRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2047,LDITRAINTRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2048,LDITRADOMRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2048,LDITRAINTRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2049,LDITRADOMRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2049,LDITRAINTRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2050,LDITRADOMRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2050,LDITRAINTRAI_________DSL_EX,2010,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2016,LDITRADOMAIR_________AGA_EX,2005,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2016,LDITRADOMAIR_________ATF_EX,2005,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2016,LDITRADOMRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2016,LDITRAINTAIR_________AGA_EX,2005,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2016,LDITRAINTAIR_________ATF_EX,2005,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2016,LDITRAINTRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2017,LDITRADOMAIR_________AGA_EX,2005,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2017,LDITRADOMAIR_________ATF_EX,2005,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2017,LDITRADOMRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2017,LDITRAINTAIR_________AGA_EX,2005,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2017,LDITRAINTAIR_________ATF_EX,2005,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2017,LDITRAINTRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2018,LDITRADOMAIR_________AGA_EX,2005,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2018,LDITRADOMAIR_________ATF_EX,2005,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2018,LDITRADOMRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2018,LDITRAINTAIR_________AGA_EX,2005,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2018,LDITRAINTAIR_________ATF_EX,2005,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2018,LDITRAINTRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2019,LDITRADOMAIR_________AGA_EX,2005,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2019,LDITRADOMAIR_________ATF_EX,2005,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2019,LDITRADOMRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2019,LDITRAINTAIR_________AGA_EX,2005,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2019,LDITRAINTAIR_________ATF_EX,2005,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2019,LDITRAINTRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2020,LDITRADOMAIR_________AGA_EX,2005,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2020,LDITRADOMAIR_________ATF_EX,2005,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2020,LDITRADOMRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2020,LDITRAINTAIR_________AGA_EX,2005,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2020,LDITRAINTAIR_________ATF_EX,2005,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2020,LDITRAINTRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2021,LDITRADOMAIR_________AGA_EX,2005,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2021,LDITRADOMAIR_________ATF_EX,2005,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2021,LDITRADOMRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2021,LDITRAINTAIR_________AGA_EX,2005,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2021,LDITRAINTAIR_________ATF_EX,2005,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2021,LDITRAINTRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2022,LDITRADOMAIR_________AGA_EX,2005,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2022,LDITRADOMAIR_________ATF_EX,2005,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2022,LDITRADOMRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2022,LDITRAINTAIR_________AGA_EX,2005,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2022,LDITRAINTAIR_________ATF_EX,2005,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2022,LDITRAINTRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2023,LDITRADOMAIR_________AGA_EX,2005,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2023,LDITRADOMAIR_________ATF_EX,2005,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2023,LDITRADOMRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2023,LDITRAINTAIR_________AGA_EX,2005,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2023,LDITRAINTAIR_________ATF_EX,2005,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2023,LDITRAINTRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2024,LDITRADOMAIR_________AGA_EX,2005,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2024,LDITRADOMAIR_________ATF_EX,2005,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2024,LDITRADOMRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2024,LDITRAINTAIR_________AGA_EX,2005,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2024,LDITRAINTAIR_________ATF_EX,2005,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2024,LDITRAINTRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2025,LDITRADOMAIR_________AGA_EX,2005,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2025,LDITRADOMAIR_________ATF_EX,2005,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2025,LDITRADOMRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2025,LDITRAINTAIR_________AGA_EX,2005,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2025,LDITRAINTAIR_________ATF_EX,2005,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2025,LDITRAINTRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2026,LDITRADOMAIR_________AGA_EX,2005,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2026,LDITRADOMAIR_________ATF_EX,2005,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2026,LDITRADOMRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2026,LDITRAINTAIR_________AGA_EX,2005,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2026,LDITRAINTAIR_________ATF_EX,2005,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2026,LDITRAINTRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2027,LDITRADOMAIR_________AGA_EX,2005,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2027,LDITRADOMAIR_________ATF_EX,2005,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2027,LDITRADOMRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2027,LDITRAINTAIR_________AGA_EX,2005,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2027,LDITRAINTAIR_________ATF_EX,2005,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2027,LDITRAINTRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2028,LDITRADOMAIR_________AGA_EX,2005,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2028,LDITRADOMAIR_________ATF_EX,2005,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2028,LDITRADOMRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2028,LDITRAINTAIR_________AGA_EX,2005,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2028,LDITRAINTAIR_________ATF_EX,2005,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2028,LDITRAINTRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2029,LDITRADOMAIR_________AGA_EX,2005,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2029,LDITRADOMAIR_________ATF_EX,2005,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2029,LDITRADOMRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2029,LDITRAINTAIR_________AGA_EX,2005,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2029,LDITRAINTAIR_________ATF_EX,2005,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2029,LDITRAINTRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2030,LDITRADOMRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2030,LDITRAINTRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2031,LDITRADOMRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2031,LDITRAINTRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2032,LDITRADOMRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2032,LDITRAINTRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2033,LDITRADOMRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2033,LDITRAINTRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2034,LDITRADOMRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2034,LDITRAINTRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2035,LDITRADOMRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2035,LDITRAINTRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2036,LDITRADOMRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2036,LDITRAINTRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2037,LDITRADOMRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2037,LDITRAINTRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2038,LDITRADOMRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2038,LDITRAINTRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2039,LDITRADOMRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2039,LDITRAINTRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2040,LDITRADOMRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2040,LDITRAINTRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2041,LDITRADOMRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2041,LDITRAINTRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2042,LDITRADOMRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2042,LDITRAINTRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2043,LDITRADOMRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2043,LDITRAINTRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2044,LDITRADOMRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2044,LDITRAINTRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2045,LDITRADOMRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2045,LDITRAINTRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2046,LDITRADOMRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2046,LDITRAINTRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2047,LDITRADOMRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2047,LDITRAINTRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2048,LDITRADOMRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2048,LDITRAINTRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2049,LDITRADOMRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2049,LDITRAINTRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2050,LDITRADOMRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2050,LDITRAINTRAI_________DSL_EX,2005,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2016,LDITRADOMAIR_________AGA_EX,2000,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2016,LDITRADOMAIR_________ATF_EX,2000,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2016,LDITRADOMRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2016,LDITRAINTAIR_________AGA_EX,2000,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2016,LDITRAINTAIR_________ATF_EX,2000,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2016,LDITRAINTRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2017,LDITRADOMAIR_________AGA_EX,2000,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2017,LDITRADOMAIR_________ATF_EX,2000,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2017,LDITRADOMRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2017,LDITRAINTAIR_________AGA_EX,2000,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2017,LDITRAINTAIR_________ATF_EX,2000,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2017,LDITRAINTRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2018,LDITRADOMAIR_________AGA_EX,2000,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2018,LDITRADOMAIR_________ATF_EX,2000,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2018,LDITRADOMRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2018,LDITRAINTAIR_________AGA_EX,2000,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2018,LDITRAINTAIR_________ATF_EX,2000,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2018,LDITRAINTRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2019,LDITRADOMAIR_________AGA_EX,2000,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2019,LDITRADOMAIR_________ATF_EX,2000,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2019,LDITRADOMRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2019,LDITRAINTAIR_________AGA_EX,2000,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2019,LDITRAINTAIR_________ATF_EX,2000,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2019,LDITRAINTRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2020,LDITRADOMAIR_________AGA_EX,2000,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2020,LDITRADOMAIR_________ATF_EX,2000,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2020,LDITRADOMRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2020,LDITRAINTAIR_________AGA_EX,2000,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2020,LDITRAINTAIR_________ATF_EX,2000,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2020,LDITRAINTRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2021,LDITRADOMAIR_________AGA_EX,2000,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2021,LDITRADOMAIR_________ATF_EX,2000,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2021,LDITRADOMRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2021,LDITRAINTAIR_________AGA_EX,2000,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2021,LDITRAINTAIR_________ATF_EX,2000,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2021,LDITRAINTRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2022,LDITRADOMAIR_________AGA_EX,2000,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2022,LDITRADOMAIR_________ATF_EX,2000,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2022,LDITRADOMRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2022,LDITRAINTAIR_________AGA_EX,2000,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2022,LDITRAINTAIR_________ATF_EX,2000,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2022,LDITRAINTRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2023,LDITRADOMAIR_________AGA_EX,2000,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2023,LDITRADOMAIR_________ATF_EX,2000,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2023,LDITRADOMRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2023,LDITRAINTAIR_________AGA_EX,2000,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2023,LDITRAINTAIR_________ATF_EX,2000,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2023,LDITRAINTRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2024,LDITRADOMAIR_________AGA_EX,2000,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2024,LDITRADOMAIR_________ATF_EX,2000,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2024,LDITRADOMRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2024,LDITRAINTAIR_________AGA_EX,2000,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2024,LDITRAINTAIR_________ATF_EX,2000,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2024,LDITRAINTRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2025,LDITRADOMRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2025,LDITRAINTRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2026,LDITRADOMRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2026,LDITRAINTRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2027,LDITRADOMRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2027,LDITRAINTRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2028,LDITRADOMRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2028,LDITRAINTRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2029,LDITRADOMRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2029,LDITRAINTRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2030,LDITRADOMRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2030,LDITRAINTRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2031,LDITRADOMRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2031,LDITRAINTRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2032,LDITRADOMRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2032,LDITRAINTRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2033,LDITRADOMRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2033,LDITRAINTRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2034,LDITRADOMRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2034,LDITRAINTRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2035,LDITRADOMRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2035,LDITRAINTRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2036,LDITRADOMRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2036,LDITRAINTRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2037,LDITRADOMRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2037,LDITRAINTRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2038,LDITRADOMRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2038,LDITRAINTRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2039,LDITRADOMRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2039,LDITRAINTRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2040,LDITRADOMRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2040,LDITRAINTRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2041,LDITRADOMRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2041,LDITRAINTRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2042,LDITRADOMRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2042,LDITRAINTRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2043,LDITRADOMRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2043,LDITRAINTRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2044,LDITRADOMRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2044,LDITRAINTRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2045,LDITRADOMRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2045,LDITRAINTRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2046,LDITRADOMRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2046,LDITRAINTRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2047,LDITRADOMRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2047,LDITRAINTRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2048,LDITRADOMRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2048,LDITRAINTRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2049,LDITRADOMRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2049,LDITRAINTRAI_________DSL_EX,2000,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2016,LDITRADOMAIR_________AGA_EX,1995,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2016,LDITRADOMAIR_________ATF_EX,1995,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2016,LDITRADOMRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2016,LDITRAINTAIR_________AGA_EX,1995,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2016,LDITRAINTAIR_________ATF_EX,1995,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2016,LDITRAINTRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2017,LDITRADOMAIR_________AGA_EX,1995,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2017,LDITRADOMAIR_________ATF_EX,1995,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2017,LDITRADOMRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2017,LDITRAINTAIR_________AGA_EX,1995,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2017,LDITRAINTAIR_________ATF_EX,1995,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2017,LDITRAINTRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2018,LDITRADOMAIR_________AGA_EX,1995,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2018,LDITRADOMAIR_________ATF_EX,1995,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2018,LDITRADOMRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2018,LDITRAINTAIR_________AGA_EX,1995,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2018,LDITRAINTAIR_________ATF_EX,1995,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2018,LDITRAINTRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2019,LDITRADOMAIR_________AGA_EX,1995,729.625,k$/kunits,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,2019,LDITRADOMAIR_________ATF_EX,1995,1340.0,k$/kunits,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,2019,LDITRADOMRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2019,LDITRAINTAIR_________AGA_EX,1995,729.625,k$/kunits,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,2019,LDITRAINTAIR_________ATF_EX,1995,1340.0,k$/kunits,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,2019,LDITRAINTRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2020,LDITRADOMRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2020,LDITRAINTRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2021,LDITRADOMRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2021,LDITRAINTRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2022,LDITRADOMRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2022,LDITRAINTRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2023,LDITRADOMRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2023,LDITRAINTRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2024,LDITRADOMRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2024,LDITRAINTRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2025,LDITRADOMRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2025,LDITRAINTRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2026,LDITRADOMRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2026,LDITRAINTRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2027,LDITRADOMRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2027,LDITRAINTRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2028,LDITRADOMRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2028,LDITRAINTRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2029,LDITRADOMRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2029,LDITRAINTRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2030,LDITRADOMRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2030,LDITRAINTRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2031,LDITRADOMRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2031,LDITRAINTRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2032,LDITRADOMRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2032,LDITRAINTRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2033,LDITRADOMRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2033,LDITRAINTRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2034,LDITRADOMRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2034,LDITRAINTRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2035,LDITRADOMRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2035,LDITRAINTRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2036,LDITRADOMRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2036,LDITRAINTRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2037,LDITRADOMRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2037,LDITRAINTRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2038,LDITRADOMRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2038,LDITRAINTRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2039,LDITRADOMRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2039,LDITRAINTRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2040,LDITRADOMRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2040,LDITRAINTRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2041,LDITRADOMRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2041,LDITRAINTRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2042,LDITRADOMRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2042,LDITRAINTRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2043,LDITRADOMRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2043,LDITRAINTRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2044,LDITRADOMRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2044,LDITRAINTRAI_________DSL_EX,1995,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2016,LDITRADOMRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2016,LDITRAINTRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2017,LDITRADOMRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2017,LDITRAINTRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2018,LDITRADOMRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2018,LDITRAINTRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2019,LDITRADOMRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2019,LDITRAINTRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2020,LDITRADOMRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2020,LDITRAINTRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2021,LDITRADOMRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2021,LDITRAINTRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2022,LDITRADOMRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2022,LDITRAINTRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2023,LDITRADOMRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2023,LDITRAINTRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2024,LDITRADOMRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2024,LDITRAINTRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2025,LDITRADOMRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2025,LDITRAINTRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2026,LDITRADOMRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2026,LDITRAINTRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2027,LDITRADOMRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2027,LDITRAINTRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2028,LDITRADOMRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2028,LDITRAINTRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2029,LDITRADOMRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2029,LDITRAINTRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2030,LDITRADOMRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2030,LDITRAINTRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2031,LDITRADOMRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2031,LDITRAINTRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2032,LDITRADOMRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2032,LDITRAINTRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2033,LDITRADOMRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2033,LDITRAINTRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2034,LDITRADOMRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2034,LDITRAINTRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2035,LDITRADOMRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2035,LDITRAINTRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2036,LDITRADOMRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2036,LDITRAINTRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2037,LDITRADOMRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2037,LDITRAINTRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2038,LDITRADOMRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2038,LDITRAINTRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2039,LDITRADOMRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2039,LDITRAINTRAI_________DSL_EX,1990,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2016,LDITRADOMRAI_________DSL_EX,1985,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2016,LDITRAINTRAI_________DSL_EX,1985,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2017,LDITRADOMRAI_________DSL_EX,1985,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2017,LDITRAINTRAI_________DSL_EX,1985,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2018,LDITRADOMRAI_________DSL_EX,1985,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2018,LDITRAINTRAI_________DSL_EX,1985,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2019,LDITRADOMRAI_________DSL_EX,1985,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2019,LDITRAINTRAI_________DSL_EX,1985,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2020,LDITRADOMRAI_________DSL_EX,1985,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2020,LDITRAINTRAI_________DSL_EX,1985,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2021,LDITRADOMRAI_________DSL_EX,1985,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2021,LDITRAINTRAI_________DSL_EX,1985,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2022,LDITRADOMRAI_________DSL_EX,1985,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2022,LDITRAINTRAI_________DSL_EX,1985,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2023,LDITRADOMRAI_________DSL_EX,1985,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2023,LDITRAINTRAI_________DSL_EX,1985,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2024,LDITRADOMRAI_________DSL_EX,1985,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2024,LDITRAINTRAI_________DSL_EX,1985,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2025,LDITRADOMRAI_________DSL_EX,1985,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2025,LDITRAINTRAI_________DSL_EX,1985,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2026,LDITRADOMRAI_________DSL_EX,1985,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2026,LDITRAINTRAI_________DSL_EX,1985,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2027,LDITRADOMRAI_________DSL_EX,1985,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2027,LDITRAINTRAI_________DSL_EX,1985,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2028,LDITRADOMRAI_________DSL_EX,1985,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2028,LDITRAINTRAI_________DSL_EX,1985,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2029,LDITRADOMRAI_________DSL_EX,1985,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2029,LDITRAINTRAI_________DSL_EX,1985,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2030,LDITRADOMRAI_________DSL_EX,1985,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2030,LDITRAINTRAI_________DSL_EX,1985,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2031,LDITRADOMRAI_________DSL_EX,1985,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2031,LDITRAINTRAI_________DSL_EX,1985,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2032,LDITRADOMRAI_________DSL_EX,1985,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2032,LDITRAINTRAI_________DSL_EX,1985,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2033,LDITRADOMRAI_________DSL_EX,1985,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2033,LDITRAINTRAI_________DSL_EX,1985,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2034,LDITRADOMRAI_________DSL_EX,1985,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2034,LDITRAINTRAI_________DSL_EX,1985,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2016,LDITRADOMRAI_________DSL_EX,1980,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2016,LDITRAINTRAI_________DSL_EX,1980,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2017,LDITRADOMRAI_________DSL_EX,1980,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2017,LDITRAINTRAI_________DSL_EX,1980,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2018,LDITRADOMRAI_________DSL_EX,1980,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2018,LDITRAINTRAI_________DSL_EX,1980,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2019,LDITRADOMRAI_________DSL_EX,1980,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2019,LDITRAINTRAI_________DSL_EX,1980,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2020,LDITRADOMRAI_________DSL_EX,1980,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2020,LDITRAINTRAI_________DSL_EX,1980,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2021,LDITRADOMRAI_________DSL_EX,1980,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2021,LDITRAINTRAI_________DSL_EX,1980,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2022,LDITRADOMRAI_________DSL_EX,1980,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2022,LDITRAINTRAI_________DSL_EX,1980,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2023,LDITRADOMRAI_________DSL_EX,1980,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2023,LDITRAINTRAI_________DSL_EX,1980,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2024,LDITRADOMRAI_________DSL_EX,1980,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2024,LDITRAINTRAI_________DSL_EX,1980,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2025,LDITRADOMRAI_________DSL_EX,1980,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2025,LDITRAINTRAI_________DSL_EX,1980,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2026,LDITRADOMRAI_________DSL_EX,1980,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2026,LDITRAINTRAI_________DSL_EX,1980,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2027,LDITRADOMRAI_________DSL_EX,1980,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2027,LDITRAINTRAI_________DSL_EX,1980,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2028,LDITRADOMRAI_________DSL_EX,1980,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2028,LDITRAINTRAI_________DSL_EX,1980,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2029,LDITRADOMRAI_________DSL_EX,1980,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2029,LDITRAINTRAI_________DSL_EX,1980,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2016,LDITRADOMRAI_________DSL_EX,1975,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2016,LDITRAINTRAI_________DSL_EX,1975,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2017,LDITRADOMRAI_________DSL_EX,1975,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2017,LDITRAINTRAI_________DSL_EX,1975,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2018,LDITRADOMRAI_________DSL_EX,1975,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2018,LDITRAINTRAI_________DSL_EX,1975,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2019,LDITRADOMRAI_________DSL_EX,1975,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2019,LDITRAINTRAI_________DSL_EX,1975,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2020,LDITRADOMRAI_________DSL_EX,1975,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2020,LDITRAINTRAI_________DSL_EX,1975,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2021,LDITRADOMRAI_________DSL_EX,1975,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2021,LDITRAINTRAI_________DSL_EX,1975,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2022,LDITRADOMRAI_________DSL_EX,1975,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2022,LDITRAINTRAI_________DSL_EX,1975,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2023,LDITRADOMRAI_________DSL_EX,1975,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2023,LDITRAINTRAI_________DSL_EX,1975,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2024,LDITRADOMRAI_________DSL_EX,1975,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2024,LDITRAINTRAI_________DSL_EX,1975,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2016,LDITRADOMRAI_________DSL_EX,1970,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2016,LDITRAINTRAI_________DSL_EX,1970,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2017,LDITRADOMRAI_________DSL_EX,1970,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2017,LDITRAINTRAI_________DSL_EX,1970,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2018,LDITRADOMRAI_________DSL_EX,1970,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2018,LDITRAINTRAI_________DSL_EX,1970,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel
+TO,2019,LDITRADOMRAI_________DSL_EX,1970,20.0,k$/kunits,Long DistanceTransportationDomesticRailDiesel
+TO,2019,LDITRAINTRAI_________DSL_EX,1970,20.0,k$/kunits,Long DistanceTransportationInternationalRailDiesel

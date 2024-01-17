@@ -1,0 +1,25 @@
+"Electricity consumption per source, and per period (TJ)"
+t_periods,sector,Source,VFlow_Out
+2016,Trade energy,Import,93226.55531242448
+2017,Trade energy,Import,93833.4505310407
+2018,Trade energy,Import,94848.37416549625
+2019,Trade energy,Import,95041.93484386968
+2020,Trade energy,Import,94173.50242211689
+2021,Trade energy,Import,94944.62028090245
+2022,Trade energy,Import,95494.08325109721
+2023,Solid waste,Internal Combustion Engine,0.07996609298071358
+2023,Trade energy,Import,88161.24259026705
+2024,Solid waste,Internal Combustion Engine,0.1066614611554506
+2024,Trade energy,Import,87455.41281181487
+2025,Solid waste,Internal Combustion Engine,0.13324501000880606
+2025,Trade energy,Import,86734.82466179116
+2030,Solid waste,Internal Combustion Engine,0.14307375264250582
+2030,Trade energy,Import,83526.78007115814
+2035,Solid waste,Internal Combustion Engine,0.1569176981504578
+2035,Trade energy,Import,79972.22852210782
+2040,Solid waste,Internal Combustion Engine,0.16380371116381628
+2040,Trade energy,Import,77365.52000478047
+2045,Solid waste,Internal Combustion Engine,0.4223182305634117
+2045,Trade energy,Import,75358.39908686138
+2050,Solid waste,Internal Combustion Engine,0.4670035928770843
+2050,Trade energy,Import,76242.24399730081

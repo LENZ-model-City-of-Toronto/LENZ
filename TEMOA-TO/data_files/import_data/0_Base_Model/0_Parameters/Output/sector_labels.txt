@@ -1,0 +1,14 @@
+INSERT INTO`sector_labels`VALUES('RESBDG');
+INSERT INTO`sector_labels`VALUES('COMBDG');
+INSERT INTO`sector_labels`VALUES('PUBBDG');
+INSERT INTO`sector_labels`VALUES('INDBDG');
+INSERT INTO`sector_labels`VALUES('LDITRA');
+INSERT INTO`sector_labels`VALUES('FRETRA');
+INSERT INTO`sector_labels`VALUES('PASTRA');
+INSERT INTO`sector_labels`VALUES('PUBTRA');
+INSERT INTO`sector_labels`VALUES('WATWAS');
+INSERT INTO`sector_labels`VALUES('SLDWAS');
+INSERT INTO`sector_labels`VALUES('TRAENE');
+INSERT INTO`sector_labels`VALUES('DISENE');
+INSERT INTO`sector_labels`VALUES('ELCENE');
+INSERT INTO`sector_labels`VALUES('STAENE');

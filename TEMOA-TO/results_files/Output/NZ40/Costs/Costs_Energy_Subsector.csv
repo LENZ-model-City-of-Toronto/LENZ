@@ -1,0 +1,1092 @@
+"Discounted and undiscounted Energy Cost breakdown, per periods. (k CAD 2016)"
+vintage,sector,Cost,Cost_type,Tech_cat,Tech_type_1,Tech_type_2,Costs
+2015,Distric Thermal Energy,Discounted,FixedCosts,Toronto Average,Pipe,___,327527.3518511579
+2015,Distric Thermal Energy,Discounted,FixedCosts,Toronto Average,Substation,___,22340.616816811067
+2015,Distric Thermal Energy,Discounted,FixedCosts,Production,Boiler,Large,30592.698628073736
+2015,Distric Thermal Energy,Discounted,FixedCosts,Production,Deep Lake Cooling,Enwave,21595.722043843216
+2015,Distric Thermal Energy,Discounted,FixedCosts,Production,Heat Pump,Large,2530.410723108979
+2015,Distric Thermal Energy,Discounted,FixedCosts,Production,Heat Pump,Medium,3767.5476435486325
+2015,Distric Thermal Energy,Discounted,FixedCosts,Storage,Hot Tank Storage,Medium,284.8369505673895
+2015,Distric Thermal Energy,Undiscounted,FixedCosts,Toronto Average,Pipe,___,480582.93823721644
+2015,Distric Thermal Energy,Undiscounted,FixedCosts,Toronto Average,Substation,___,32746.97613555844
+2015,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Boiler,Large,41912.263300238366
+2015,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Deep Lake Cooling,Enwave,27811.594202898545
+2015,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Heat Pump,Large,3481.4962599413475
+2015,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Heat Pump,Medium,4875.856363636362
+2015,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Hot Tank Storage,Medium,388.5043988269797
+2023,Distric Thermal Energy,Discounted,FixedCosts,Toronto Average,Pipe,___,1144.4991822431032
+2023,Distric Thermal Energy,Discounted,FixedCosts,Toronto Average,Substation,___,128.47163369205595
+2023,Distric Thermal Energy,Discounted,FixedCosts,Consumption,Heat Pump,Large,79.96467653715261
+2023,Distric Thermal Energy,Discounted,FixedCosts,Consumption,Heat Pump,Medium,77.62541566528391
+2023,Distric Thermal Energy,Discounted,FixedCosts,Consumption,Heat Pump,Small,233.55163929226754
+2023,Distric Thermal Energy,Discounted,FixedCosts,Production,Alkaline Electrolyser,___,366.112087052433
+2023,Distric Thermal Energy,Discounted,FixedCosts,Production,Autothermal Reforming Gas,Carbon Capture and Storage,1015.6215354174308
+2023,Distric Thermal Energy,Discounted,FixedCosts,Production,Boiler,Large,135.4359768586865
+2023,Distric Thermal Energy,Discounted,FixedCosts,Production,Boiler,Medium,198.1948027104304
+2023,Distric Thermal Energy,Discounted,FixedCosts,Production,Boiler,Small,157.73090058342888
+2023,Distric Thermal Energy,Discounted,FixedCosts,Production,Deep Lake Cooling,Enwave,129.89215375156533
+2023,Distric Thermal Energy,Discounted,FixedCosts,Production,Heat Pump,Enwave,114.68366175909375
+2023,Distric Thermal Energy,Discounted,FixedCosts,Production,Heat Pump,Large,140.809669943949
+2023,Distric Thermal Energy,Discounted,FixedCosts,Production,Heat Pump,Medium,139.5474630526534
+2023,Distric Thermal Energy,Discounted,FixedCosts,Production,Heat Pump,Small,80.63576721333018
+2023,Distric Thermal Energy,Discounted,FixedCosts,Production,Steam Methane Reforming,Carbon Capture and Storage,1055.9796159475525
+2023,Distric Thermal Energy,Discounted,FixedCosts,Production,Steam Methane Reforming,___,1114.777582278593
+2023,Distric Thermal Energy,Discounted,FixedCosts,Storage,Hot Tank Storage,Large,42.08057268860604
+2023,Distric Thermal Energy,Discounted,FixedCosts,Storage,Hot Tank Storage,Medium,39.28348660757264
+2023,Distric Thermal Energy,Discounted,FixedCosts,Storage,Hot Tank Storage,Small,37.427543875837834
+2023,Distric Thermal Energy,Discounted,FixedCosts,Storage,Pit Storage,Large,66.41461196883469
+2023,Distric Thermal Energy,Discounted,FixedCosts,Storage,Pit Storage,Medium,58.46132013869913
+2023,Distric Thermal Energy,Discounted,FixedCosts,Storage,Pit Storage,Small,47.28750121491396
+2023,Distric Thermal Energy,Discounted,InvestmentCosts,Toronto Average,Pipe,___,6450.510777429365
+2023,Distric Thermal Energy,Discounted,InvestmentCosts,Toronto Average,Substation,___,1061.8274125245762
+2023,Distric Thermal Energy,Discounted,InvestmentCosts,Consumption,Heat Pump,Large,989.2361572693397
+2023,Distric Thermal Energy,Discounted,InvestmentCosts,Consumption,Heat Pump,Medium,1106.9216575737146
+2023,Distric Thermal Energy,Discounted,InvestmentCosts,Consumption,Heat Pump,Small,4632.172424250195
+2023,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Alkaline Electrolyser,___,1365.0760313411583
+2023,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Autothermal Reforming Gas,Carbon Capture and Storage,1615.1183526988402
+2023,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Boiler,Large,1119.2396249296448
+2023,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Boiler,Medium,1184.0429447128267
+2023,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Boiler,Small,1388.4603340073331
+2023,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Deep Lake Cooling,Enwave,819.8173169676619
+2023,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Gas Turbine,Large,0.0
+2023,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Gas Turbine,Medium,0.0
+2023,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Gas Turbine,Small,0.0
+2023,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Heat Pump,Enwave,713.4512851942113
+2023,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Heat Pump,Large,972.5829744222406
+2023,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Heat Pump,Medium,1080.2704256838763
+2023,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Heat Pump,Small,688.6295531046449
+2023,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Internal Combustion Engine,Large,0.0
+2023,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Internal Combustion Engine,Medium,0.0
+2023,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Internal Combustion Engine,Small,0.0
+2023,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Steam Methane Reforming,Carbon Capture and Storage,1529.7205697016975
+2023,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Steam Methane Reforming,___,1337.8103764669174
+2023,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Hot Tank Storage,Large,1243.832596749728
+2023,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Hot Tank Storage,Medium,1203.7665320521305
+2023,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Hot Tank Storage,Small,1166.787795377663
+2023,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Pit Storage,Large,336.1755022895659
+2023,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Pit Storage,Medium,371.97259072904524
+2023,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Pit Storage,Small,444.75502053454136
+2023,Distric Thermal Energy,Undiscounted,FixedCosts,Toronto Average,Pipe,___,2039.2427974665043
+2023,Distric Thermal Energy,Undiscounted,FixedCosts,Toronto Average,Substation,___,228.6586817964389
+2023,Distric Thermal Energy,Undiscounted,FixedCosts,Consumption,Heat Pump,Large,137.0832076905475
+2023,Distric Thermal Energy,Undiscounted,FixedCosts,Consumption,Heat Pump,Medium,133.07301971971566
+2023,Distric Thermal Energy,Undiscounted,FixedCosts,Consumption,Heat Pump,Small,400.37688216864984
+2023,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Alkaline Electrolyser,___,601.6913868810512
+2023,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Autothermal Reforming Gas,Carbon Capture and Storage,1809.6115167096252
+2023,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Boiler,Large,227.27056005516152
+2023,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Boiler,Medium,335.55804498361704
+2023,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Boiler,Small,266.5690859232255
+2023,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Deep Lake Cooling,Enwave,208.5004692569258
+2023,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Heat Pump,Enwave,182.03537770749224
+2023,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Heat Pump,Large,231.71116198460805
+2023,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Heat Pump,Medium,229.60492865204012
+2023,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Heat Pump,Small,128.73836086176433
+2023,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Steam Methane Reforming,Carbon Capture and Storage,1881.5206332188432
+2023,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Steam Methane Reforming,___,1883.461192960905
+2023,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Hot Tank Storage,Large,71.53890836230765
+2023,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Hot Tank Storage,Medium,66.78373341938881
+2023,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Hot Tank Storage,Small,63.628545442414875
+2023,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Pit Storage,Large,105.6251815341853
+2023,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Pit Storage,Medium,92.97634013544871
+2023,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Pit Storage,Small,75.20560238260671
+2023,Distric Thermal Energy,Undiscounted,InvestmentCosts,Toronto Average,Pipe,___,6972.250535419236
+2023,Distric Thermal Energy,Undiscounted,InvestmentCosts,Toronto Average,Substation,___,1147.7117085676193
+2023,Distric Thermal Energy,Undiscounted,InvestmentCosts,Consumption,Heat Pump,Large,1069.2490199862705
+2023,Distric Thermal Energy,Undiscounted,InvestmentCosts,Consumption,Heat Pump,Medium,1196.4533330740555
+2023,Distric Thermal Energy,Undiscounted,InvestmentCosts,Consumption,Heat Pump,Small,5006.838648830753
+2023,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Alkaline Electrolyser,___,1475.4881309103555
+2023,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Autothermal Reforming Gas,Carbon Capture and Storage,1745.7547453098937
+2023,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Boiler,Large,1209.76762049346
+2023,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Boiler,Medium,1279.8124582815296
+2023,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Boiler,Small,1500.7638373482287
+2023,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Deep Lake Cooling,Enwave,886.1269943419351
+2023,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Gas Turbine,Large,0.0
+2023,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Gas Turbine,Medium,0.0
+2023,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Gas Turbine,Small,0.0
+2023,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Heat Pump,Enwave,771.157707789033
+2023,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Heat Pump,Large,1051.2488697612064
+2023,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Heat Pump,Medium,1167.6464568087374
+2023,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Heat Pump,Small,744.3283076340764
+2023,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Internal Combustion Engine,Large,0.0
+2023,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Internal Combustion Engine,Medium,0.0
+2023,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Internal Combustion Engine,Small,0.0
+2023,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Steam Methane Reforming,Carbon Capture and Storage,1653.4496924590674
+2023,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Steam Methane Reforming,___,1446.0171349916045
+2023,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Hot Tank Storage,Large,1344.438105429575
+2023,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Hot Tank Storage,Medium,1301.1313579984374
+2023,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Hot Tank Storage,Small,1261.1616524241401
+2023,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Pit Storage,Large,363.3665467290855
+2023,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Pit Storage,Medium,402.0590282472814
+2023,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Pit Storage,Small,480.72835424175923
+2023,Electricity Energy,Discounted,FixedCosts,Production,PV pannel,Decentralized,171111.63038112075
+2023,Electricity Energy,Discounted,FixedCosts,Production,Wind Turbine,Decentralized,432203.8033662156
+2023,Electricity Energy,Discounted,FixedCosts,Storage,Battery,Decentralized,22612.939146605746
+2023,Electricity Energy,Discounted,InvestmentCosts,Production,PV pannel,Decentralized,1343906.0676530371
+2023,Electricity Energy,Discounted,InvestmentCosts,Production,Wind Turbine,Decentralized,669754.6094629394
+2023,Electricity Energy,Discounted,InvestmentCosts,Storage,Battery,Decentralized,102723.40455722973
+2023,Electricity Energy,Undiscounted,FixedCosts,Production,PV pannel,Decentralized,287405.598198229
+2023,Electricity Energy,Undiscounted,FixedCosts,Production,Wind Turbine,Decentralized,770090.9766705041
+2023,Electricity Energy,Undiscounted,FixedCosts,Storage,Battery,Decentralized,34870.77882758363
+2023,Electricity Energy,Undiscounted,InvestmentCosts,Production,PV pannel,Decentralized,1452605.866892477
+2023,Electricity Energy,Undiscounted,InvestmentCosts,Production,Wind Turbine,Decentralized,723926.6928701161
+2023,Electricity Energy,Undiscounted,InvestmentCosts,Storage,Battery,Decentralized,111032.03097191859
+2023,Charging Station Energy,Discounted,FixedCosts,Charging Station,Commercial,240V,121.38534555833252
+2023,Charging Station Energy,Discounted,FixedCosts,Charging Station,Freight,Fast,121.04324644390846
+2023,Charging Station Energy,Discounted,FixedCosts,Charging Station,Freight,Slow,187.66050987669234
+2023,Charging Station Energy,Discounted,FixedCosts,Charging Station,Public,240V,83.76827344514375
+2023,Charging Station Energy,Discounted,FixedCosts,Charging Station,Residential,120V,24.268808549646778
+2023,Charging Station Energy,Discounted,FixedCosts,Charging Station,Residential,240V,16711.072109675406
+2023,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Commercial,240V,252.53825903818634
+2023,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Freight,Fast,64.88708756026742
+2023,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Freight,Slow,89.44309257236316
+2023,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Public,240V,187.6740521586498
+2023,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Residential,120V,76.88018027111252
+2023,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Residential,240V,37439.40861801294
+2023,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Commercial,240V,180.5062056750525
+2023,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Freight,Fast,179.46341263038795
+2023,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Freight,Slow,277.7038335365339
+2023,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Public,240V,124.56769905776486
+2023,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Residential,120V,36.08895725757813
+2023,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Residential,240V,24850.21734217601
+2023,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Commercial,240V,272.9644322049375
+2023,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Freight,Fast,70.13538099445853
+2023,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Freight,Slow,96.67756114124875
+2023,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Public,240V,202.85378256028696
+2023,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Residential,120V,83.09851677699353
+2023,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Residential,240V,40467.63826767031
+2024,Distric Thermal Energy,Discounted,FixedCosts,Toronto Average,Pipe,___,216.44718482964458
+2024,Distric Thermal Energy,Discounted,FixedCosts,Toronto Average,Substation,___,24.000719142128094
+2024,Distric Thermal Energy,Discounted,FixedCosts,Consumption,Heat Pump,Large,15.432884713764093
+2024,Distric Thermal Energy,Discounted,FixedCosts,Consumption,Heat Pump,Medium,14.985531635631828
+2024,Distric Thermal Energy,Discounted,FixedCosts,Consumption,Heat Pump,Small,45.310940374807714
+2024,Distric Thermal Energy,Discounted,FixedCosts,Production,Alkaline Electrolyser,___,69.43204032733307
+2024,Distric Thermal Energy,Discounted,FixedCosts,Production,Autothermal Reforming Gas,Carbon Capture and Storage,192.61296319274857
+2024,Distric Thermal Energy,Discounted,FixedCosts,Production,Boiler,Large,26.149464946779684
+2024,Distric Thermal Energy,Discounted,FixedCosts,Production,Boiler,Medium,38.3167264690523
+2024,Distric Thermal Energy,Discounted,FixedCosts,Production,Boiler,Small,30.530797069358766
+2024,Distric Thermal Energy,Discounted,FixedCosts,Production,Deep Lake Cooling,Enwave,25.161013332154145
+2024,Distric Thermal Energy,Discounted,FixedCosts,Production,Heat Pump,Enwave,21.9507452970103
+2024,Distric Thermal Energy,Discounted,FixedCosts,Production,Heat Pump,Large,27.084044510162524
+2024,Distric Thermal Energy,Discounted,FixedCosts,Production,Heat Pump,Medium,26.847579992755456
+2024,Distric Thermal Energy,Discounted,FixedCosts,Production,Heat Pump,Small,15.418657745590213
+2024,Distric Thermal Energy,Discounted,FixedCosts,Production,Steam Methane Reforming,Carbon Capture and Storage,200.26637714331707
+2024,Distric Thermal Energy,Discounted,FixedCosts,Production,Steam Methane Reforming,___,214.6963524848358
+2024,Distric Thermal Energy,Discounted,FixedCosts,Storage,Hot Tank Storage,Large,8.109454317998388
+2024,Distric Thermal Energy,Discounted,FixedCosts,Storage,Hot Tank Storage,Medium,7.566512085710193
+2024,Distric Thermal Energy,Discounted,FixedCosts,Storage,Hot Tank Storage,Small,7.208240494212244
+2024,Distric Thermal Energy,Discounted,FixedCosts,Storage,Pit Storage,Large,12.743386939136517
+2024,Distric Thermal Energy,Discounted,FixedCosts,Storage,Pit Storage,Medium,11.218469299393895
+2024,Distric Thermal Energy,Discounted,FixedCosts,Storage,Pit Storage,Small,9.074172883518383
+2024,Distric Thermal Energy,Discounted,InvestmentCosts,Toronto Average,Pipe,___,1219.9177772687144
+2024,Distric Thermal Energy,Discounted,InvestmentCosts,Toronto Average,Substation,___,199.24251787810658
+2024,Distric Thermal Energy,Discounted,InvestmentCosts,Consumption,Heat Pump,Large,190.91889357836138
+2024,Distric Thermal Energy,Discounted,InvestmentCosts,Consumption,Heat Pump,Medium,213.69044372351638
+2024,Distric Thermal Energy,Discounted,InvestmentCosts,Consumption,Heat Pump,Small,898.6795774889604
+2024,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Alkaline Electrolyser,___,250.42717764027685
+2024,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Autothermal Reforming Gas,Carbon Capture and Storage,306.3077346941567
+2024,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Boiler,Large,216.67815041473892
+2024,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Boiler,Medium,229.3257771477947
+2024,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Boiler,Small,268.8430725550752
+2024,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Deep Lake Cooling,Enwave,158.80431455164467
+2024,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Gas Turbine,Large,0.0
+2024,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Gas Turbine,Medium,0.0
+2024,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Gas Turbine,Small,0.0
+2024,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Heat Pump,Enwave,137.9699310624601
+2024,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Heat Pump,Large,188.1138245455249
+2024,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Heat Pump,Medium,208.99714758373366
+2024,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Heat Pump,Small,132.79316425296574
+2024,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Internal Combustion Engine,Large,0.0
+2024,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Internal Combustion Engine,Medium,0.0
+2024,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Internal Combustion Engine,Small,0.0
+2024,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Steam Methane Reforming,Carbon Capture and Storage,290.11127857887135
+2024,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Steam Methane Reforming,___,257.05176687260956
+2024,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Hot Tank Storage,Large,240.90422652228926
+2024,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Hot Tank Storage,Medium,233.0238983409808
+2024,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Hot Tank Storage,Small,225.8407528723598
+2024,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Pit Storage,Large,65.0249608544803
+2024,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Pit Storage,Medium,71.95628472417664
+2024,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Pit Storage,Small,86.03483882880991
+2024,Distric Thermal Energy,Undiscounted,FixedCosts,Toronto Average,Pipe,___,392.1788358584031
+2024,Distric Thermal Energy,Undiscounted,FixedCosts,Toronto Average,Substation,___,43.442298685150234
+2024,Distric Thermal Energy,Undiscounted,FixedCosts,Consumption,Heat Pump,Large,27.25024492137122
+2024,Distric Thermal Energy,Undiscounted,FixedCosts,Consumption,Heat Pump,Medium,26.46034198543071
+2024,Distric Thermal Energy,Undiscounted,FixedCosts,Consumption,Heat Pump,Small,80.00670294192881
+2024,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Alkaline Electrolyser,___,117.56799890675973
+2024,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Autothermal Reforming Gas,Carbon Capture and Storage,348.99380990158204
+2024,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Boiler,Large,45.205181799993056
+2024,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Boiler,Medium,66.81673713734534
+2024,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Boiler,Small,53.14535608965353
+2024,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Deep Lake Cooling,Enwave,41.599630333874615
+2024,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Heat Pump,Enwave,35.8646594682962
+2024,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Heat Pump,Large,45.899512542200846
+2024,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Heat Pump,Medium,45.49308493630117
+2024,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Heat Pump,Small,25.33698390046702
+2024,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Steam Methane Reforming,Carbon Capture and Storage,362.8609663436432
+2024,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Steam Methane Reforming,___,373.74200120441463
+2024,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Hot Tank Storage,Large,14.209736151851192
+2024,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Hot Tank Storage,Medium,13.258369319512138
+2024,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Hot Tank Storage,Small,12.630590360995702
+2024,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Pit Storage,Large,20.873373251593836
+2024,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Pit Storage,Medium,18.375593405128306
+2024,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Pit Storage,Small,14.86328543987576
+2024,Distric Thermal Energy,Undiscounted,InvestmentCosts,Toronto Average,Pipe,___,1358.1466412947248
+2024,Distric Thermal Energy,Undiscounted,InvestmentCosts,Toronto Average,Substation,___,221.81868442404772
+2024,Distric Thermal Energy,Undiscounted,InvestmentCosts,Consumption,Heat Pump,Large,212.55191038669548
+2024,Distric Thermal Energy,Undiscounted,InvestmentCosts,Consumption,Heat Pump,Medium,237.90370451823085
+2024,Distric Thermal Energy,Undiscounted,InvestmentCosts,Consumption,Heat Pump,Small,1000.5089461844466
+2024,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Alkaline Electrolyser,___,278.8030771734061
+2024,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Autothermal Reforming Gas,Carbon Capture and Storage,341.0154592622424
+2024,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Boiler,Large,241.22994820732816
+2024,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Boiler,Medium,255.3106773252426
+2024,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Boiler,Small,299.30567684940104
+2024,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Deep Lake Cooling,Enwave,176.79842891896718
+2024,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Gas Turbine,Large,0.0
+2024,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Gas Turbine,Medium,0.0
+2024,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Gas Turbine,Small,0.0
+2024,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Heat Pump,Enwave,153.60330176651695
+2024,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Heat Pump,Large,209.42899902616406
+2024,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Heat Pump,Medium,232.67861106716356
+2024,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Heat Pump,Small,147.83995559180823
+2024,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Internal Combustion Engine,Large,0.0
+2024,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Internal Combustion Engine,Medium,0.0
+2024,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Internal Combustion Engine,Small,0.0
+2024,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Steam Methane Reforming,Carbon Capture and Storage,322.98378296099054
+2024,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Steam Methane Reforming,___,286.17829850676003
+2024,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Hot Tank Storage,Large,268.2010806150268
+2024,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Hot Tank Storage,Medium,259.42783257227217
+2024,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Hot Tank Storage,Small,251.4307650043404
+2024,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Pit Storage,Large,72.39293813928934
+2024,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Pit Storage,Medium,80.10965020690963
+2024,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Pit Storage,Small,95.7834450542176
+2024,Electricity Energy,Discounted,FixedCosts,Production,PV pannel,Decentralized,31468.16636160324
+2024,Electricity Energy,Discounted,FixedCosts,Production,Wind Turbine,Decentralized,81961.441903414
+2024,Electricity Energy,Discounted,FixedCosts,Storage,Battery,Decentralized,4188.891366688185
+2024,Electricity Energy,Discounted,InvestmentCosts,Production,PV pannel,Decentralized,233964.29649686284
+2024,Electricity Energy,Discounted,InvestmentCosts,Production,Wind Turbine,Decentralized,127013.25572429589
+2024,Electricity Energy,Discounted,InvestmentCosts,Storage,Battery,Decentralized,17948.3074727816
+2024,Electricity Energy,Undiscounted,FixedCosts,Production,PV pannel,Decentralized,54092.89006868847
+2024,Electricity Energy,Undiscounted,FixedCosts,Production,Wind Turbine,Decentralized,148505.24804125176
+2024,Electricity Energy,Undiscounted,FixedCosts,Storage,Battery,Decentralized,6680.841150200704
+2024,Electricity Energy,Undiscounted,InvestmentCosts,Production,PV pannel,Decentralized,260474.78722830687
+2024,Electricity Energy,Undiscounted,InvestmentCosts,Production,Wind Turbine,Decentralized,141405.12571927448
+2024,Electricity Energy,Undiscounted,InvestmentCosts,Storage,Battery,Decentralized,19982.02990832708
+2024,Charging Station Energy,Discounted,FixedCosts,Charging Station,Commercial,240V,35936.069852689565
+2024,Charging Station Energy,Discounted,FixedCosts,Charging Station,Freight,Fast,93.88674340278763
+2024,Charging Station Energy,Discounted,FixedCosts,Charging Station,Freight,Slow,153.5779018227049
+2024,Charging Station Energy,Discounted,FixedCosts,Charging Station,Public,240V,333.8503873989561
+2024,Charging Station Energy,Discounted,FixedCosts,Charging Station,Residential,120V,20.651527796618264
+2024,Charging Station Energy,Discounted,FixedCosts,Charging Station,Residential,240V,15973.345399763453
+2024,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Commercial,240V,77731.07947869654
+2024,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Freight,Fast,49.73273906275609
+2024,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Freight,Slow,68.13032279047394
+2024,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Public,240V,722.1952756022259
+2024,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Residential,120V,63.16786743265404
+2024,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Residential,240V,34554.02485271398
+2024,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Commercial,240V,55029.19875052289
+2024,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Freight,Fast,143.32321308486698
+2024,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Freight,Slow,233.97488344270312
+2024,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Public,240V,511.22783867087895
+2024,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Residential,120V,31.62385403525144
+2024,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Residential,240V,24460.114929583673
+2024,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Commercial,240V,86538.7868636255
+2024,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Freight,Fast,55.36795493848351
+2024,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Freight,Slow,75.85016858707979
+2024,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Public,240V,804.0272108453976
+2024,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Residential,120V,70.32541749124135
+2024,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Residential,240V,38469.3408616429
+2025,Distric Thermal Energy,Discounted,FixedCosts,Toronto Average,Pipe,___,245.4473481841381
+2025,Distric Thermal Energy,Discounted,FixedCosts,Toronto Average,Substation,___,26.90980971946998
+2025,Distric Thermal Energy,Discounted,FixedCosts,Consumption,Heat Pump,Large,17.556507043404117
+2025,Distric Thermal Energy,Discounted,FixedCosts,Consumption,Heat Pump,Medium,17.084304084626606
+2025,Distric Thermal Energy,Discounted,FixedCosts,Consumption,Heat Pump,Small,52.52258635548965
+2025,Distric Thermal Energy,Discounted,FixedCosts,Production,Alkaline Electrolyser,___,79.0570292714564
+2025,Distric Thermal Energy,Discounted,FixedCosts,Production,Autothermal Reforming Gas,Carbon Capture and Storage,218.8908164032199
+2025,Distric Thermal Energy,Discounted,FixedCosts,Production,Boiler,Large,30.19377874578775
+2025,Distric Thermal Energy,Discounted,FixedCosts,Production,Boiler,Medium,44.335075448876346
+2025,Distric Thermal Energy,Discounted,FixedCosts,Production,Boiler,Small,35.381663362771526
+2025,Distric Thermal Energy,Discounted,FixedCosts,Production,Deep Lake Cooling,Enwave,29.205104177775482
+2025,Distric Thermal Energy,Discounted,FixedCosts,Production,Heat Pump,Enwave,25.228363267924774
+2025,Distric Thermal Energy,Discounted,FixedCosts,Production,Heat Pump,Large,30.810081655132947
+2025,Distric Thermal Energy,Discounted,FixedCosts,Production,Heat Pump,Medium,30.584296474311387
+2025,Distric Thermal Energy,Discounted,FixedCosts,Production,Heat Pump,Small,17.23874822034277
+2025,Distric Thermal Energy,Discounted,FixedCosts,Production,Steam Methane Reforming,Carbon Capture and Storage,227.5882704726316
+2025,Distric Thermal Energy,Discounted,FixedCosts,Production,Steam Methane Reforming,___,248.17895126267672
+2025,Distric Thermal Energy,Discounted,FixedCosts,Storage,Hot Tank Storage,Large,9.370213926744606
+2025,Distric Thermal Energy,Discounted,FixedCosts,Storage,Hot Tank Storage,Medium,8.733817386261402
+2025,Distric Thermal Energy,Discounted,FixedCosts,Storage,Hot Tank Storage,Small,8.316897665629874
+2025,Distric Thermal Energy,Discounted,FixedCosts,Storage,Pit Storage,Large,14.629646033051122
+2025,Distric Thermal Energy,Discounted,FixedCosts,Storage,Pit Storage,Medium,12.885346164700492
+2025,Distric Thermal Energy,Discounted,FixedCosts,Storage,Pit Storage,Small,10.423078715900676
+2025,Distric Thermal Energy,Discounted,InvestmentCosts,Toronto Average,Pipe,___,1383.3655710004168
+2025,Distric Thermal Energy,Discounted,InvestmentCosts,Toronto Average,Substation,___,224.27262805222944
+2025,Distric Thermal Energy,Discounted,InvestmentCosts,Consumption,Heat Pump,Large,217.19004333894878
+2025,Distric Thermal Energy,Discounted,InvestmentCosts,Consumption,Heat Pump,Medium,243.61848543769855
+2025,Distric Thermal Energy,Discounted,InvestmentCosts,Consumption,Heat Pump,Small,1041.7125604575185
+2025,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Alkaline Electrolyser,___,274.7087677696402
+2025,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Autothermal Reforming Gas,Carbon Capture and Storage,348.09676880745405
+2025,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Boiler,Large,250.8224508510403
+2025,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Boiler,Medium,265.90500805123173
+2025,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Boiler,Small,312.2224980542149
+2025,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Deep Lake Cooling,Enwave,184.3286869704122
+2025,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Gas Turbine,Large,0.0
+2025,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Gas Turbine,Medium,0.0
+2025,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Gas Turbine,Small,0.0
+2025,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Heat Pump,Enwave,160.28005774645047
+2025,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Heat Pump,Large,215.21158980723598
+2025,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Heat Pump,Medium,239.45679221638827
+2025,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Heat Pump,Small,148.88016443806842
+2025,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Internal Combustion Engine,Large,0.0
+2025,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Internal Combustion Engine,Medium,0.0
+2025,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Internal Combustion Engine,Small,0.0
+2025,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Steam Methane Reforming,Carbon Capture and Storage,309.43687148098417
+2025,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Steam Methane Reforming,___,296.313690264129
+2025,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Hot Tank Storage,Large,279.8023669796878
+2025,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Hot Tank Storage,Medium,270.36964484322107
+2025,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Hot Tank Storage,Small,261.9289445130012
+2025,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Pit Storage,Large,75.27595065134952
+2025,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Pit Storage,Medium,83.34094476728144
+2025,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Pit Storage,Small,99.65303248254386
+2025,Distric Thermal Energy,Undiscounted,FixedCosts,Toronto Average,Pipe,___,452.20845487017897
+2025,Distric Thermal Energy,Undiscounted,FixedCosts,Toronto Average,Substation,___,49.53108530101852
+2025,Distric Thermal Energy,Undiscounted,FixedCosts,Consumption,Heat Pump,Large,31.92997936179424
+2025,Distric Thermal Energy,Undiscounted,FixedCosts,Consumption,Heat Pump,Medium,31.07118491646015
+2025,Distric Thermal Energy,Undiscounted,FixedCosts,Consumption,Heat Pump,Small,95.52270814534813
+2025,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Alkaline Electrolyser,___,137.9531344059179
+2025,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Autothermal Reforming Gas,Carbon Capture and Storage,403.2811053094478
+2025,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Boiler,Large,53.77554567935778
+2025,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Boiler,Medium,79.62753121644757
+2025,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Boiler,Small,63.434140044037925
+2025,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Deep Lake Cooling,Enwave,49.73445096459295
+2025,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Heat Pump,Enwave,42.44241586015944
+2025,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Heat Pump,Large,53.7806728216017
+2025,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Heat Pump,Medium,53.38101653341202
+2025,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Heat Pump,Small,29.13349286303354
+2025,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Steam Methane Reforming,Carbon Capture and Storage,419.30516218001696
+2025,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Steam Methane Reforming,___,445.16060867960294
+2025,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Hot Tank Storage,Large,16.92567741222161
+2025,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Hot Tank Storage,Medium,15.776136682982916
+2025,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Hot Tank Storage,Small,15.023043023289443
+2025,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Pit Storage,Large,24.686019007534803
+2025,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Pit Storage,Medium,21.742692859542984
+2025,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Pit Storage,Small,17.587870459507812
+2025,Distric Thermal Energy,Undiscounted,InvestmentCosts,Toronto Average,Pipe,___,1586.3181430045004
+2025,Distric Thermal Energy,Undiscounted,InvestmentCosts,Toronto Average,Substation,___,257.1755046652411
+2025,Distric Thermal Energy,Undiscounted,InvestmentCosts,Consumption,Heat Pump,Large,249.05383902199503
+2025,Distric Thermal Energy,Undiscounted,InvestmentCosts,Consumption,Heat Pump,Medium,279.35957893011806
+2025,Distric Thermal Energy,Undiscounted,InvestmentCosts,Consumption,Heat Pump,Small,1194.5414640140236
+2025,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Alkaline Electrolyser,___,315.01109431272585
+2025,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Autothermal Reforming Gas,Carbon Capture and Storage,399.1657964143022
+2025,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Boiler,Large,287.620432948985
+2025,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Boiler,Medium,304.91574131224314
+2025,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Boiler,Small,358.0284370959229
+2025,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Deep Lake Cooling,Enwave,211.3714165995201
+2025,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Gas Turbine,Large,0.0
+2025,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Gas Turbine,Medium,0.0
+2025,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Gas Turbine,Small,0.0
+2025,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Heat Pump,Enwave,183.79463020836357
+2025,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Heat Pump,Large,246.78512798982905
+2025,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Heat Pump,Medium,274.58732667736825
+2025,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Heat Pump,Small,170.72226671855643
+2025,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Internal Combustion Engine,Large,0.0
+2025,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Internal Combustion Engine,Medium,0.0
+2025,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Internal Combustion Engine,Small,0.0
+2025,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Steam Methane Reforming,Carbon Capture and Storage,354.83413324350335
+2025,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Steam Methane Reforming,___,339.78565951057783
+2025,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Hot Tank Storage,Large,320.8519718142879
+2025,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Hot Tank Storage,Medium,310.0353817699251
+2025,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Hot Tank Storage,Small,300.35635234040944
+2025,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Pit Storage,Large,86.31963145055833
+2025,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Pit Storage,Medium,95.56783507620972
+2025,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Pit Storage,Small,114.27305749568093
+2025,Electricity Energy,Discounted,FixedCosts,Production,PV pannel,Decentralized,34750.573992984355
+2025,Electricity Energy,Discounted,FixedCosts,Production,Wind Turbine,Decentralized,93144.55661680445
+2025,Electricity Energy,Discounted,FixedCosts,Storage,Battery,Decentralized,4691.119394351718
+2025,Electricity Energy,Discounted,InvestmentCosts,Production,PV pannel,Decentralized,242142.62639373203
+2025,Electricity Energy,Discounted,InvestmentCosts,Production,Wind Turbine,Decentralized,144343.1138831208
+2025,Electricity Energy,Discounted,InvestmentCosts,Storage,Battery,Decentralized,18585.80310633401
+2025,Electricity Energy,Undiscounted,FixedCosts,Production,PV pannel,Decentralized,61097.17796943242
+2025,Electricity Energy,Undiscounted,FixedCosts,Production,Wind Turbine,Decentralized,171608.11204060537
+2025,Electricity Energy,Undiscounted,FixedCosts,Storage,Battery,Decentralized,7732.64199786525
+2025,Electricity Energy,Undiscounted,InvestmentCosts,Production,PV pannel,Decentralized,277667.19766298257
+2025,Electricity Energy,Undiscounted,InvestmentCosts,Production,Wind Turbine,Decentralized,165519.58872662322
+2025,Electricity Energy,Undiscounted,InvestmentCosts,Storage,Battery,Decentralized,21312.51296688383
+2025,Charging Station Energy,Discounted,FixedCosts,Charging Station,Commercial,240V,34476.65022490134
+2025,Charging Station Energy,Discounted,FixedCosts,Charging Station,Freight,Fast,68.42919591049461
+2025,Charging Station Energy,Discounted,FixedCosts,Charging Station,Freight,Slow,116.94962334399142
+2025,Charging Station Energy,Discounted,FixedCosts,Charging Station,Public,240V,195.1570982458204
+2025,Charging Station Energy,Discounted,FixedCosts,Charging Station,Residential,120V,16.750701225368264
+2025,Charging Station Energy,Discounted,FixedCosts,Charging Station,Residential,240V,15287.178812064685
+2025,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Commercial,240V,71760.92597344759
+2025,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Freight,Fast,35.74137504986837
+2025,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Freight,Slow,47.757436720000726
+2025,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Public,240V,406.20692523939164
+2025,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Residential,120V,49.298900567088346
+2025,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Residential,240V,31819.277682699216
+2025,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Commercial,240V,54372.73541001084
+2025,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Freight,Fast,107.57390677643988
+2025,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Freight,Slow,183.46768787559247
+2025,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Public,240V,307.7800539520323
+2025,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Residential,120V,26.4173415838777
+2025,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Residential,240V,24109.236926781377
+2025,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Commercial,240V,82288.92002000567
+2025,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Freight,Fast,40.98496658156131
+2025,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Freight,Slow,54.76389605210411
+2025,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Public,240V,465.8012522715338
+2025,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Residential,120V,56.531506956033326
+2025,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Residential,240V,36487.461119088926
+2030,Distric Thermal Energy,Discounted,FixedCosts,Toronto Average,Pipe,___,1542.418948510196
+2030,Distric Thermal Energy,Discounted,FixedCosts,Toronto Average,Substation,___,139.51506457353193
+2030,Distric Thermal Energy,Discounted,FixedCosts,Consumption,Heat Pump,Large,94.8657688622841
+2030,Distric Thermal Energy,Discounted,FixedCosts,Consumption,Heat Pump,Medium,93.96387519371682
+2030,Distric Thermal Energy,Discounted,FixedCosts,Consumption,Heat Pump,Small,353.40657436815997
+2030,Distric Thermal Energy,Discounted,FixedCosts,Production,Alkaline Electrolyser,___,485.2184474608576
+2030,Distric Thermal Energy,Discounted,FixedCosts,Production,Autothermal Reforming Gas,Carbon Capture and Storage,1453.9322273516052
+2030,Distric Thermal Energy,Discounted,FixedCosts,Production,Boiler,Large,188.7559302285344
+2030,Distric Thermal Energy,Discounted,FixedCosts,Production,Boiler,Medium,276.53179498214104
+2030,Distric Thermal Energy,Discounted,FixedCosts,Production,Boiler,Small,208.40930104261813
+2030,Distric Thermal Energy,Discounted,FixedCosts,Production,Deep Lake Cooling,Enwave,204.26159357405538
+2030,Distric Thermal Energy,Discounted,FixedCosts,Production,Heat Pump,Enwave,169.46758413579522
+2030,Distric Thermal Energy,Discounted,FixedCosts,Production,Steam Methane Reforming,Carbon Capture and Storage,1511.7051037854558
+2030,Distric Thermal Energy,Discounted,FixedCosts,Production,Steam Methane Reforming,___,1635.026581362262
+2030,Distric Thermal Energy,Discounted,FixedCosts,Storage,Hot Tank Storage,Large,42.32552302212585
+2030,Distric Thermal Energy,Discounted,FixedCosts,Storage,Hot Tank Storage,Medium,34.73961973895138
+2030,Distric Thermal Energy,Discounted,FixedCosts,Storage,Hot Tank Storage,Small,28.24732689193083
+2030,Distric Thermal Energy,Discounted,FixedCosts,Storage,Pit Storage,Large,37.59285298952238
+2030,Distric Thermal Energy,Discounted,FixedCosts,Storage,Pit Storage,Medium,31.215795631997004
+2030,Distric Thermal Energy,Discounted,FixedCosts,Storage,Pit Storage,Small,23.05959821650655
+2030,Distric Thermal Energy,Discounted,InvestmentCosts,Toronto Average,Pipe,___,8693.226002290785
+2030,Distric Thermal Energy,Discounted,InvestmentCosts,Toronto Average,Substation,___,1205.101954697558
+2030,Distric Thermal Energy,Discounted,InvestmentCosts,Consumption,Heat Pump,Large,1143.4845929883268
+2030,Distric Thermal Energy,Discounted,InvestmentCosts,Consumption,Heat Pump,Medium,1305.5480335694856
+2030,Distric Thermal Energy,Discounted,InvestmentCosts,Consumption,Heat Pump,Small,6829.602240112344
+2030,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Alkaline Electrolyser,___,1291.91395720096
+2030,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Autothermal Reforming Gas,Carbon Capture and Storage,2190.460964440646
+2030,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Boiler,Large,1723.9636695307765
+2030,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Boiler,Medium,1859.868574023828
+2030,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Boiler,Small,2165.651981171859
+2030,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Deep Lake Cooling,Enwave,1289.2017475028044
+2030,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Gas Turbine,Large,0.0
+2030,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Gas Turbine,Medium,0.0
+2030,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Gas Turbine,Small,0.0
+2030,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Heat Pump,Enwave,1040.071464075404
+2030,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Internal Combustion Engine,Large,0.0
+2030,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Internal Combustion Engine,Medium,0.0
+2030,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Internal Combustion Engine,Small,0.0
+2030,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Steam Methane Reforming,Carbon Capture and Storage,1929.1006165322335
+2030,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Steam Methane Reforming,___,1912.7360556787823
+2030,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Hot Tank Storage,Large,1300.8088975147875
+2030,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Hot Tank Storage,Medium,1106.8484755632933
+2030,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Hot Tank Storage,Small,915.6063129541228
+2030,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Pit Storage,Large,192.5930554220682
+2030,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Pit Storage,Medium,201.02480250583395
+2030,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Pit Storage,Small,219.51244330478335
+2030,Distric Thermal Energy,Undiscounted,FixedCosts,Toronto Average,Pipe,___,3085.7544126068733
+2030,Distric Thermal Energy,Undiscounted,FixedCosts,Toronto Average,Substation,___,278.98141958861584
+2030,Distric Thermal Energy,Undiscounted,FixedCosts,Consumption,Heat Pump,Large,189.78790759468023
+2030,Distric Thermal Energy,Undiscounted,FixedCosts,Consumption,Heat Pump,Medium,187.98358434633593
+2030,Distric Thermal Energy,Undiscounted,FixedCosts,Consumption,Heat Pump,Small,707.0231452707156
+2030,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Alkaline Electrolyser,___,945.7595530106385
+2030,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Autothermal Reforming Gas,Carbon Capture and Storage,2908.728390892106
+2030,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Boiler,Large,375.7491759572666
+2030,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Boiler,Medium,551.5221481623757
+2030,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Boiler,Small,415.3919455255479
+2030,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Deep Lake Cooling,Enwave,403.2472436893871
+2030,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Heat Pump,Enwave,331.6950665483969
+2030,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Steam Methane Reforming,Carbon Capture and Storage,3024.3084727868063
+2030,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Steam Methane Reforming,___,3244.456021781015
+2030,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Hot Tank Storage,Large,84.67619615122699
+2030,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Hot Tank Storage,Medium,69.4998819907492
+2030,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Hot Tank Storage,Small,56.51143853316595
+2030,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Pit Storage,Large,73.90488260261826
+2030,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Pit Storage,Medium,61.36804014776569
+2030,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Pit Storage,Small,45.33353452927475
+2030,Distric Thermal Energy,Undiscounted,InvestmentCosts,Toronto Average,Pipe,___,11556.342970894428
+2030,Distric Thermal Energy,Undiscounted,InvestmentCosts,Toronto Average,Substation,___,1602.0026972392545
+2030,Distric Thermal Energy,Undiscounted,InvestmentCosts,Consumption,Heat Pump,Large,1520.0916362952632
+2030,Distric Thermal Energy,Undiscounted,InvestmentCosts,Consumption,Heat Pump,Medium,1735.530726675004
+2030,Distric Thermal Energy,Undiscounted,InvestmentCosts,Consumption,Heat Pump,Small,9078.934082782298
+2030,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Alkaline Electrolyser,___,1717.4062625733538
+2030,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Autothermal Reforming Gas,Carbon Capture and Storage,2911.890035156313
+2030,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Boiler,Large,2291.7516959997865
+2030,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Boiler,Medium,2472.4169274494798
+2030,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Boiler,Small,2878.9102047299866
+2030,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Deep Lake Cooling,Enwave,1713.8007856798956
+2030,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Gas Turbine,Large,0.0
+2030,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Gas Turbine,Medium,0.0
+2030,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Gas Turbine,Small,0.0
+2030,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Heat Pump,Enwave,1382.6193578688035
+2030,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Internal Combustion Engine,Large,0.0
+2030,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Internal Combustion Engine,Medium,0.0
+2030,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Internal Combustion Engine,Small,0.0
+2030,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Steam Methane Reforming,Carbon Capture and Storage,2564.4505669282935
+2030,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Steam Methane Reforming,___,2542.696332339118
+2030,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Hot Tank Storage,Large,1729.2307545335466
+2030,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Hot Tank Storage,Medium,1471.389401017578
+2030,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Hot Tank Storage,Small,1217.1615664916208
+2030,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Pit Storage,Large,256.02364435060167
+2030,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Pit Storage,Medium,267.2323902313782
+2030,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Pit Storage,Small,291.8089418750442
+2030,Electricity Energy,Discounted,FixedCosts,Production,PV pannel,Decentralized,195108.14782127517
+2030,Electricity Energy,Discounted,FixedCosts,Production,Wind Turbine,Decentralized,618618.705973579
+2030,Electricity Energy,Discounted,FixedCosts,Storage,Battery,Decentralized,29591.856910958773
+2030,Electricity Energy,Discounted,InvestmentCosts,Production,PV pannel,Decentralized,859834.9711313978
+2030,Electricity Energy,Discounted,InvestmentCosts,Production,Wind Turbine,Decentralized,958750.1207558226
+2030,Electricity Energy,Discounted,InvestmentCosts,Storage,Battery,Decentralized,95771.13530411743
+2030,Electricity Energy,Undiscounted,FixedCosts,Production,PV pannel,Decentralized,386253.597461167
+2030,Electricity Energy,Undiscounted,FixedCosts,Production,Wind Turbine,Decentralized,1237604.9992921278
+2030,Electricity Energy,Undiscounted,FixedCosts,Storage,Battery,Decentralized,57688.8805681958
+2030,Electricity Energy,Undiscounted,InvestmentCosts,Production,PV pannel,Decentralized,1143021.9140909396
+2030,Electricity Energy,Undiscounted,InvestmentCosts,Production,Wind Turbine,Decentralized,1274514.8022058895
+2030,Electricity Energy,Undiscounted,InvestmentCosts,Storage,Battery,Decentralized,127313.39159877691
+2030,Charging Station Energy,Discounted,FixedCosts,Charging Station,Commercial,240V,381586.72458446457
+2030,Charging Station Energy,Discounted,FixedCosts,Charging Station,Freight,Fast,118.48204163035379
+2030,Charging Station Energy,Discounted,FixedCosts,Charging Station,Freight,Slow,177958.88884106796
+2030,Charging Station Energy,Discounted,FixedCosts,Charging Station,Public,240V,724.9917854313728
+2030,Charging Station Energy,Discounted,FixedCosts,Charging Station,Residential,120V,21.55796405058455
+2030,Charging Station Energy,Discounted,FixedCosts,Charging Station,Residential,240V,78339.49015534518
+2030,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Commercial,240V,417931.6510957654
+2030,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Freight,Fast,60.78539003850484
+2030,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Freight,Slow,76980.78605301397
+2030,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Public,240V,1521.9405324169422
+2030,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Residential,120V,63.99022119364912
+2030,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Residential,240V,164454.3396934583
+2030,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Commercial,240V,696980.3918760779
+2030,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Freight,Fast,215.53747181987984
+2030,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Freight,Slow,322830.51158828003
+2030,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Public,240V,1324.220750255807
+2030,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Residential,120V,39.376312811691946
+2030,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Residential,240V,143089.59151370742
+2030,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Commercial,240V,555577.583877624
+2030,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Freight,Fast,80.80507911786079
+2030,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Freight,Slow,102334.43437030735
+2030,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Public,240V,2023.1921693144932
+2030,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Residential,120V,85.0654225143048
+2030,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Residential,240V,218617.43293557255
+2035,Distric Thermal Energy,Discounted,FixedCosts,Toronto Average,Pipe,___,2694.4626353329436
+2035,Distric Thermal Energy,Discounted,FixedCosts,Toronto Average,Substation,___,157.24717744151172
+2035,Distric Thermal Energy,Discounted,FixedCosts,Consumption,Heat Pump,Large,159.7096184072782
+2035,Distric Thermal Energy,Discounted,FixedCosts,Consumption,Heat Pump,Medium,158.8462916476586
+2035,Distric Thermal Energy,Discounted,FixedCosts,Consumption,Heat Pump,Small,618.1247028506211
+2035,Distric Thermal Energy,Discounted,FixedCosts,Production,Alkaline Electrolyser,___,770.7980034942509
+2035,Distric Thermal Energy,Discounted,FixedCosts,Production,Autothermal Reforming Gas,Carbon Capture and Storage,2543.0049056192097
+2035,Distric Thermal Energy,Discounted,FixedCosts,Production,Boiler,Large,328.41407675038727
+2035,Distric Thermal Energy,Discounted,FixedCosts,Production,Boiler,Medium,478.73842302261147
+2035,Distric Thermal Energy,Discounted,FixedCosts,Production,Boiler,Small,357.6028131958344
+2035,Distric Thermal Energy,Discounted,FixedCosts,Production,Deep Lake Cooling,Enwave,365.20747732538496
+2035,Distric Thermal Energy,Discounted,FixedCosts,Production,Heat Pump,Enwave,295.25039405337355
+2035,Distric Thermal Energy,Discounted,FixedCosts,Production,Steam Methane Reforming,Carbon Capture and Storage,2644.050834714705
+2035,Distric Thermal Energy,Discounted,FixedCosts,Production,Steam Methane Reforming,___,2776.873073549128
+2035,Distric Thermal Energy,Discounted,FixedCosts,Storage,Hot Tank Storage,Large,72.21889450711741
+2035,Distric Thermal Energy,Discounted,FixedCosts,Storage,Hot Tank Storage,Medium,60.876849274969004
+2035,Distric Thermal Energy,Discounted,FixedCosts,Storage,Hot Tank Storage,Small,51.89434866618233
+2035,Distric Thermal Energy,Discounted,FixedCosts,Storage,Pit Storage,Large,38.73113757731118
+2035,Distric Thermal Energy,Discounted,FixedCosts,Storage,Pit Storage,Medium,33.348271878006926
+2035,Distric Thermal Energy,Discounted,FixedCosts,Storage,Pit Storage,Small,25.15440414710939
+2035,Distric Thermal Energy,Discounted,InvestmentCosts,Toronto Average,Pipe,___,15186.25835497019
+2035,Distric Thermal Energy,Discounted,InvestmentCosts,Toronto Average,Substation,___,1427.5872379345856
+2035,Distric Thermal Energy,Discounted,InvestmentCosts,Consumption,Heat Pump,Large,1925.0936369459419
+2035,Distric Thermal Energy,Discounted,InvestmentCosts,Consumption,Heat Pump,Medium,2207.0339614332224
+2035,Distric Thermal Energy,Discounted,InvestmentCosts,Consumption,Heat Pump,Small,11945.295196629815
+2035,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Alkaline Electrolyser,___,2003.1263746086777
+2035,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Autothermal Reforming Gas,Carbon Capture and Storage,3520.042462436878
+2035,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Boiler,Large,3062.3891556886438
+2035,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Boiler,Medium,3313.4459705363583
+2035,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Boiler,Small,3863.335093129448
+2035,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Deep Lake Cooling,Enwave,2305.01539584963
+2035,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Gas Turbine,Large,0.0
+2035,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Gas Turbine,Medium,0.0
+2035,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Gas Turbine,Small,0.0
+2035,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Heat Pump,Enwave,1872.0673530291592
+2035,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Internal Combustion Engine,Large,0.0
+2035,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Internal Combustion Engine,Medium,0.0
+2035,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Internal Combustion Engine,Small,0.0
+2035,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Steam Methane Reforming,Carbon Capture and Storage,3166.818807987077
+2035,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Steam Methane Reforming,___,3156.807574422085
+2035,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Hot Tank Storage,Large,2219.5350189631686
+2035,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Hot Tank Storage,Medium,1939.6138565542549
+2035,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Hot Tank Storage,Small,1682.098749633263
+2035,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Pit Storage,Large,201.38559489483185
+2035,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Pit Storage,Medium,217.96229969145872
+2035,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Pit Storage,Small,243.02684820337967
+2035,Distric Thermal Energy,Undiscounted,FixedCosts,Toronto Average,Pipe,___,5842.980672457493
+2035,Distric Thermal Energy,Undiscounted,FixedCosts,Toronto Average,Substation,___,340.89265422224264
+2035,Distric Thermal Energy,Undiscounted,FixedCosts,Consumption,Heat Pump,Large,346.33258643944
+2035,Distric Thermal Energy,Undiscounted,FixedCosts,Consumption,Heat Pump,Medium,344.46045004225095
+2035,Distric Thermal Energy,Undiscounted,FixedCosts,Consumption,Heat Pump,Small,1340.412238256341
+2035,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Alkaline Electrolyser,___,1653.3799302470215
+2035,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Autothermal Reforming Gas,Carbon Capture and Storage,5514.542424397584
+2035,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Boiler,Large,711.8583786652607
+2035,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Boiler,Medium,1038.1511015231622
+2035,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Boiler,Small,775.4668031095191
+2035,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Deep Lake Cooling,Enwave,791.9576257866738
+2035,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Heat Pump,Enwave,634.9095005974409
+2035,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Steam Methane Reforming,Carbon Capture and Storage,5733.661963482428
+2035,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Steam Methane Reforming,___,6002.419753122105
+2035,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Hot Tank Storage,Large,156.60770324216872
+2035,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Hot Tank Storage,Medium,132.01231631471452
+2035,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Hot Tank Storage,Small,112.53363557175709
+2035,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Pit Storage,Large,83.67381176715244
+2035,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Pit Storage,Medium,72.04479905374085
+2035,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Pit Storage,Small,54.342965618264934
+2035,Distric Thermal Energy,Undiscounted,InvestmentCosts,Toronto Average,Pipe,___,23403.260114806
+2035,Distric Thermal Energy,Undiscounted,InvestmentCosts,Toronto Average,Substation,___,2200.0281231239546
+2035,Distric Thermal Energy,Undiscounted,InvestmentCosts,Consumption,Heat Pump,Large,2966.7259753985804
+2035,Distric Thermal Energy,Undiscounted,InvestmentCosts,Consumption,Heat Pump,Medium,3401.218962189439
+2035,Distric Thermal Energy,Undiscounted,InvestmentCosts,Consumption,Heat Pump,Small,18408.672110031344
+2035,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Alkaline Electrolyser,___,3086.9807751197854
+2035,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Autothermal Reforming Gas,Carbon Capture and Storage,5424.671926288598
+2035,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Boiler,Large,4719.39093278274
+2035,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Boiler,Medium,5106.289917650384
+2035,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Boiler,Small,5953.713810326138
+2035,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Deep Lake Cooling,Enwave,3552.2163272065095
+2035,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Gas Turbine,Large,0.0
+2035,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Gas Turbine,Medium,0.0
+2035,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Gas Turbine,Small,0.0
+2035,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Heat Pump,Enwave,2885.008156142603
+2035,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Internal Combustion Engine,Large,0.0
+2035,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Internal Combustion Engine,Medium,0.0
+2035,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Internal Combustion Engine,Small,0.0
+2035,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Steam Methane Reforming,Carbon Capture and Storage,4880.325526368072
+2035,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Steam Methane Reforming,___,4864.897400643153
+2035,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Hot Tank Storage,Large,3420.484109287884
+2035,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Hot Tank Storage,Medium,2989.1028155967606
+2035,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Hot Tank Storage,Small,2592.251077012212
+2035,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Pit Storage,Large,310.3515922443259
+2035,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Pit Storage,Medium,335.89764349235054
+2035,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Pit Storage,Small,374.5241527201933
+2035,Electricity Energy,Discounted,FixedCosts,Production,PV pannel,Decentralized,229430.75765182293
+2035,Electricity Energy,Discounted,FixedCosts,Production,Wind Turbine,Decentralized,1081738.3571244618
+2035,Electricity Energy,Discounted,FixedCosts,Storage,Battery,Decentralized,50994.109722709545
+2035,Electricity Energy,Discounted,InvestmentCosts,Production,PV pannel,Decentralized,967922.4470605023
+2035,Electricity Energy,Discounted,InvestmentCosts,Production,Wind Turbine,Decentralized,1676793.560300892
+2035,Electricity Energy,Discounted,InvestmentCosts,Storage,Battery,Decentralized,162346.20809130487
+2035,Electricity Energy,Undiscounted,FixedCosts,Production,PV pannel,Decentralized,494399.8820815006
+2035,Electricity Energy,Undiscounted,FixedCosts,Production,Wind Turbine,Decentralized,2345765.0629299385
+2035,Electricity Energy,Undiscounted,FixedCosts,Storage,Battery,Decentralized,109640.4806867551
+2035,Electricity Energy,Undiscounted,InvestmentCosts,Production,PV pannel,Decentralized,1491647.268868088
+2035,Electricity Energy,Undiscounted,InvestmentCosts,Production,Wind Turbine,Decentralized,2584075.3484685747
+2035,Electricity Energy,Undiscounted,InvestmentCosts,Storage,Battery,Decentralized,250188.71981522324
+2035,Charging Station Energy,Discounted,FixedCosts,Charging Station,Commercial,120V,1066988.628619693
+2035,Charging Station Energy,Discounted,FixedCosts,Charging Station,Commercial,240V,56407.15688078756
+2035,Charging Station Energy,Discounted,FixedCosts,Charging Station,Freight,Fast,108.83646497883944
+2035,Charging Station Energy,Discounted,FixedCosts,Charging Station,Freight,Slow,311286.334507529
+2035,Charging Station Energy,Discounted,FixedCosts,Charging Station,Public,240V,1431.3121243995888
+2035,Charging Station Energy,Discounted,FixedCosts,Charging Station,Residential,120V,20.10972125714543
+2035,Charging Station Energy,Discounted,FixedCosts,Charging Station,Residential,240V,34619.629414216855
+2035,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Commercial,120V,1878573.0187912919
+2035,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Commercial,240V,119485.0617782436
+2035,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Freight,Fast,65.21653606036097
+2035,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Freight,Slow,162604.78673838533
+2035,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Public,240V,3036.049558818769
+2035,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Residential,120V,60.31451329310511
+2035,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Residential,240V,73433.9553321348
+2035,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Commercial,120V,2256640.2237989423
+2035,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Commercial,240V,119298.98380640824
+2035,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Freight,Fast,228.97323494591475
+2035,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Freight,Slow,652305.5075046447
+2035,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Public,240V,3027.1705115636064
+2035,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Residential,120V,42.531292893875786
+2035,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Residential,240V,73219.19481953591
+2035,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Commercial,120V,2895033.9165697163
+2035,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Commercial,240V,184136.20493389716
+2035,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Freight,Fast,100.50398995798255
+2035,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Freight,Slow,250587.21055575367
+2035,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Public,240V,4678.799470260765
+2035,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Residential,120V,92.94957390439006
+2035,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Residential,240V,113167.70186084254
+2040,Distric Thermal Energy,Discounted,FixedCosts,Toronto Average,Pipe,___,4170.361478584684
+2040,Distric Thermal Energy,Discounted,FixedCosts,Toronto Average,Substation,___,265.2370779713141
+2040,Distric Thermal Energy,Discounted,FixedCosts,Consumption,Heat Pump,Large,248.80558783291997
+2040,Distric Thermal Energy,Discounted,FixedCosts,Consumption,Heat Pump,Medium,247.84892305956842
+2040,Distric Thermal Energy,Discounted,FixedCosts,Consumption,Heat Pump,Small,977.3001105889779
+2040,Distric Thermal Energy,Discounted,FixedCosts,Production,Alkaline Electrolyser,___,1126.3070357793506
+2040,Distric Thermal Energy,Discounted,FixedCosts,Production,Autothermal Reforming Gas,Carbon Capture and Storage,4020.719831089832
+2040,Distric Thermal Energy,Discounted,FixedCosts,Production,Boiler,Large,519.7606924843881
+2040,Distric Thermal Energy,Discounted,FixedCosts,Production,Boiler,Medium,755.3856483496122
+2040,Distric Thermal Energy,Discounted,FixedCosts,Production,Boiler,Small,569.033922535209
+2040,Distric Thermal Energy,Discounted,FixedCosts,Production,Deep Lake Cooling,Enwave,590.9227064433985
+2040,Distric Thermal Energy,Discounted,FixedCosts,Production,Heat Pump,Enwave,306.7322056580752
+2040,Distric Thermal Energy,Discounted,FixedCosts,Production,Steam Methane Reforming,Carbon Capture and Storage,4180.48016471813
+2040,Distric Thermal Energy,Discounted,FixedCosts,Production,Steam Methane Reforming,___,4292.159967478601
+2040,Distric Thermal Energy,Discounted,FixedCosts,Storage,Hot Tank Storage,Large,79.96546542879287
+2040,Distric Thermal Energy,Discounted,FixedCosts,Storage,Hot Tank Storage,Medium,55.80852262507818
+2040,Distric Thermal Energy,Discounted,FixedCosts,Storage,Hot Tank Storage,Small,44.253354717399276
+2040,Distric Thermal Energy,Discounted,FixedCosts,Storage,Pit Storage,Large,33.15892713710072
+2040,Distric Thermal Energy,Discounted,FixedCosts,Storage,Pit Storage,Medium,27.655812598882125
+2040,Distric Thermal Energy,Discounted,FixedCosts,Storage,Pit Storage,Small,19.514725115565746
+2040,Distric Thermal Energy,Discounted,InvestmentCosts,Toronto Average,Pipe,___,23504.570453832555
+2040,Distric Thermal Energy,Discounted,InvestmentCosts,Toronto Average,Substation,___,2450.493283802504
+2040,Distric Thermal Energy,Discounted,InvestmentCosts,Consumption,Heat Pump,Large,2920.1088716943887
+2040,Distric Thermal Energy,Discounted,InvestmentCosts,Consumption,Heat Pump,Medium,3353.027375752745
+2040,Distric Thermal Energy,Discounted,InvestmentCosts,Consumption,Heat Pump,Small,18389.370458800055
+2040,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Alkaline Electrolyser,___,2870.0075897386105
+2040,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Autothermal Reforming Gas,Carbon Capture and Storage,5223.60261772437
+2040,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Boiler,Large,4925.71369912445
+2040,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Boiler,Medium,5342.001210332669
+2040,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Boiler,Small,6259.58100241674
+2040,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Deep Lake Cooling,Enwave,3729.6222576943605
+2040,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Gas Turbine,Large,0.0
+2040,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Gas Turbine,Medium,0.0
+2040,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Gas Turbine,Small,0.0
+2040,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Heat Pump,Enwave,1907.7544736331579
+2040,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Internal Combustion Engine,Large,0.0
+2040,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Internal Combustion Engine,Medium,0.0
+2040,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Internal Combustion Engine,Small,0.0
+2040,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Steam Methane Reforming,Carbon Capture and Storage,4699.4301245037395
+2040,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Steam Methane Reforming,___,4692.894004795883
+2040,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Hot Tank Storage,Large,2457.6137870595985
+2040,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Hot Tank Storage,Medium,1778.1305223023705
+2040,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Hot Tank Storage,Small,1434.424259104797
+2040,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Pit Storage,Large,167.13211292217645
+2040,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Pit Storage,Medium,175.22083898847788
+2040,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Pit Storage,Small,182.76538362344206
+2040,Distric Thermal Energy,Undiscounted,FixedCosts,Toronto Average,Pipe,___,9784.928000733831
+2040,Distric Thermal Energy,Undiscounted,FixedCosts,Toronto Average,Substation,___,622.2734622847373
+2040,Distric Thermal Energy,Undiscounted,FixedCosts,Consumption,Heat Pump,Large,583.7730795344874
+2040,Distric Thermal Energy,Undiscounted,FixedCosts,Consumption,Heat Pump,Medium,581.5284549435131
+2040,Distric Thermal Energy,Undiscounted,FixedCosts,Consumption,Heat Pump,Small,2293.0413265920865
+2040,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Alkaline Electrolyser,___,2642.6565918600136
+2040,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Autothermal Reforming Gas,Carbon Capture and Storage,9433.823485173887
+2040,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Boiler,Large,1218.9909253818223
+2040,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Boiler,Medium,1772.36295219115
+2040,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Boiler,Small,1335.125501847815
+2040,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Deep Lake Cooling,Enwave,1386.483202053204
+2040,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Heat Pump,Enwave,718.1270069182822
+2040,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Steam Methane Reforming,Carbon Capture and Storage,9808.669495514616
+2040,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Steam Methane Reforming,___,10070.704054091588
+2040,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Hot Tank Storage,Large,187.62314149119143
+2040,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Hot Tank Storage,Medium,130.9436552485713
+2040,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Hot Tank Storage,Small,103.83174022786186
+2040,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Pit Storage,Large,77.74186597656407
+2040,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Pit Storage,Medium,64.83968759440552
+2040,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Pit Storage,Small,45.752721076621995
+2040,Distric Thermal Energy,Undiscounted,InvestmentCosts,Toronto Average,Pipe,___,41991.75423608198
+2040,Distric Thermal Energy,Undiscounted,InvestmentCosts,Toronto Average,Substation,___,4377.893734868305
+2040,Distric Thermal Energy,Undiscounted,InvestmentCosts,Consumption,Heat Pump,Large,5216.8787480564
+2040,Distric Thermal Energy,Undiscounted,InvestmentCosts,Consumption,Heat Pump,Medium,5990.3031108788455
+2040,Distric Thermal Energy,Undiscounted,InvestmentCosts,Consumption,Heat Pump,Small,32853.26683076167
+2040,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Alkaline Electrolyser,___,5127.371019211406
+2040,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Autothermal Reforming Gas,Carbon Capture and Storage,9332.15256076591
+2040,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Boiler,Large,8799.963372962206
+2040,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Boiler,Medium,9543.675873326383
+2040,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Boiler,Small,11182.96492976208
+2040,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Deep Lake Cooling,Enwave,6663.103312019305
+2040,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Gas Turbine,Large,0.0
+2040,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Gas Turbine,Medium,0.0
+2040,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Gas Turbine,Small,0.0
+2040,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Heat Pump,Enwave,3408.271474560264
+2040,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Internal Combustion Engine,Large,0.0
+2040,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Internal Combustion Engine,Medium,0.0
+2040,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Internal Combustion Engine,Small,0.0
+2040,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Steam Methane Reforming,Carbon Capture and Storage,8395.699688509907
+2040,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Steam Methane Reforming,___,8384.02267731036
+2040,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Hot Tank Storage,Large,4390.614768141236
+2040,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Hot Tank Storage,Medium,3176.693657893347
+2040,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Hot Tank Storage,Small,2562.6501482728063
+2040,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Pit Storage,Large,298.5874864027043
+2040,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Pit Storage,Medium,313.0382842901313
+2040,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Pit Storage,Small,326.5168826230316
+2040,Electricity Energy,Discounted,FixedCosts,Production,PV pannel,Decentralized,108217.37647787023
+2040,Electricity Energy,Discounted,FixedCosts,Production,Wind Turbine,Decentralized,39810.56674857936
+2040,Electricity Energy,Discounted,FixedCosts,Storage,Battery,Decentralized,79686.02862490437
+2040,Electricity Energy,Discounted,InvestmentCosts,Production,PV pannel,Decentralized,426217.1363190446
+2040,Electricity Energy,Discounted,InvestmentCosts,Production,Wind Turbine,Decentralized,331781.6365091626
+2040,Electricity Energy,Discounted,InvestmentCosts,Storage,Battery,Decentralized,246964.04899288146
+2040,Electricity Energy,Undiscounted,FixedCosts,Production,PV pannel,Decentralized,253095.37076786684
+2040,Electricity Energy,Undiscounted,FixedCosts,Production,Wind Turbine,Decentralized,93407.61737408399
+2040,Electricity Energy,Undiscounted,FixedCosts,Storage,Battery,Decentralized,186225.45729204023
+2040,Electricity Energy,Undiscounted,InvestmentCosts,Production,PV pannel,Decentralized,761452.1301153013
+2040,Electricity Energy,Undiscounted,InvestmentCosts,Production,Wind Turbine,Decentralized,592739.7383288973
+2040,Electricity Energy,Undiscounted,InvestmentCosts,Storage,Battery,Decentralized,441210.0902174039
+2040,Charging Station Energy,Discounted,FixedCosts,Charging Station,Commercial,120V,248332.07796705497
+2040,Charging Station Energy,Discounted,FixedCosts,Charging Station,Commercial,240V,85624.67804423728
+2040,Charging Station Energy,Discounted,FixedCosts,Charging Station,Freight,Fast,93.44278753790857
+2040,Charging Station Energy,Discounted,FixedCosts,Charging Station,Freight,Slow,353965.8253148749
+2040,Charging Station Energy,Discounted,FixedCosts,Charging Station,Public,240V,1255.3954590761512
+2040,Charging Station Energy,Discounted,FixedCosts,Charging Station,Residential,120V,19.6639737983924
+2040,Charging Station Energy,Discounted,FixedCosts,Charging Station,Residential,240V,40352.90108240471
+2040,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Commercial,120V,427029.3791623471
+2040,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Commercial,240V,176589.02569956108
+2040,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Freight,Fast,63.22858075122282
+2040,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Freight,Slow,215352.30179471098
+2040,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Public,240V,2590.3158948503224
+2040,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Residential,120V,57.36998474514273
+2040,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Residential,240V,83262.01940701394
+2040,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Commercial,120V,578791.9609113083
+2040,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Commercial,240V,199566.9496801709
+2040,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Freight,Fast,217.03041955754352
+2040,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Freight,Slow,819819.5204697732
+2040,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Public,240V,2925.9723730666547
+2040,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Residential,120V,45.831171096591206
+2040,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Residential,240V,94051.21938795032
+2040,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Commercial,120V,762903.2309521777
+2040,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Commercial,240V,315482.5986941628
+2040,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Freight,Fast,112.96011679161262
+2040,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Freight,Slow,384734.5752988879
+2040,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Public,240V,4627.69182121495
+2040,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Residential,120V,102.49352587309218
+2040,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Residential,240V,148750.5701500332
+2045,Distric Thermal Energy,Discounted,FixedCosts,Toronto Average,Pipe,___,3084.3117517199935
+2045,Distric Thermal Energy,Discounted,FixedCosts,Toronto Average,Substation,___,229.20848256636054
+2045,Distric Thermal Energy,Discounted,FixedCosts,Consumption,Heat Pump,Large,2.7027384716901635
+2045,Distric Thermal Energy,Discounted,FixedCosts,Consumption,Heat Pump,Medium,2.3960979276637446
+2045,Distric Thermal Energy,Discounted,FixedCosts,Consumption,Heat Pump,Small,655.1537224987925
+2045,Distric Thermal Energy,Discounted,FixedCosts,Production,Alkaline Electrolyser,___,1434.2821187734758
+2045,Distric Thermal Energy,Discounted,FixedCosts,Production,Autothermal Reforming Gas,Carbon Capture and Storage,5052.800202669962
+2045,Distric Thermal Energy,Discounted,FixedCosts,Production,Boiler,Large,48.85916162512739
+2045,Distric Thermal Energy,Discounted,FixedCosts,Production,Boiler,Medium,12.437679426155473
+2045,Distric Thermal Energy,Discounted,FixedCosts,Production,Boiler,Small,9.599176308847369
+2045,Distric Thermal Energy,Discounted,FixedCosts,Production,Deep Lake Cooling,Enwave,4.384911411547692
+2045,Distric Thermal Energy,Discounted,FixedCosts,Production,Heat Pump,Enwave,216.11257479681964
+2045,Distric Thermal Energy,Discounted,FixedCosts,Production,Steam Methane Reforming,Carbon Capture and Storage,5252.814319677198
+2045,Distric Thermal Energy,Discounted,FixedCosts,Production,Steam Methane Reforming,___,5465.792839498014
+2045,Distric Thermal Energy,Discounted,FixedCosts,Storage,Hot Tank Storage,Large,26.919430557478265
+2045,Distric Thermal Energy,Discounted,FixedCosts,Storage,Hot Tank Storage,Medium,11.856055903246004
+2045,Distric Thermal Energy,Discounted,FixedCosts,Storage,Hot Tank Storage,Small,10.437556444476405
+2045,Distric Thermal Energy,Discounted,FixedCosts,Storage,Pit Storage,Large,21.79355996673593
+2045,Distric Thermal Energy,Discounted,FixedCosts,Storage,Pit Storage,Medium,18.1613185025786
+2045,Distric Thermal Energy,Discounted,FixedCosts,Storage,Pit Storage,Small,13.176667366096018
+2045,Distric Thermal Energy,Discounted,InvestmentCosts,Toronto Average,Pipe,___,17383.48659754296
+2045,Distric Thermal Energy,Discounted,InvestmentCosts,Toronto Average,Substation,___,1956.7389592424606
+2045,Distric Thermal Energy,Discounted,InvestmentCosts,Consumption,Heat Pump,Large,31.720712777367673
+2045,Distric Thermal Energy,Discounted,InvestmentCosts,Consumption,Heat Pump,Medium,32.41564194535559
+2045,Distric Thermal Energy,Discounted,InvestmentCosts,Consumption,Heat Pump,Small,12327.7019821797
+2045,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Alkaline Electrolyser,___,3395.1915785763504
+2045,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Autothermal Reforming Gas,Carbon Capture and Storage,6161.182299337741
+2045,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Boiler,Large,831.0853042395105
+2045,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Boiler,Medium,88.60386667454826
+2045,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Boiler,Small,70.03526814267288
+2045,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Deep Lake Cooling,Enwave,27.67546926222701
+2045,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Gas Turbine,Large,0.0
+2045,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Gas Turbine,Medium,0.0
+2045,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Gas Turbine,Small,0.0
+2045,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Heat Pump,Enwave,1361.7313722390027
+2045,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Internal Combustion Engine,Large,0.0
+2045,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Internal Combustion Engine,Medium,0.0
+2045,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Internal Combustion Engine,Small,0.0
+2045,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Steam Methane Reforming,Carbon Capture and Storage,5542.129800784974
+2045,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Steam Methane Reforming,___,5976.102158886829
+2045,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Hot Tank Storage,Large,827.3266881284347
+2045,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Hot Tank Storage,Medium,377.7490226235027
+2045,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Hot Tank Storage,Small,338.3220157057609
+2045,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Pit Storage,Large,110.34582899583451
+2045,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Pit Storage,Medium,115.58860366238147
+2045,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Pit Storage,Small,123.96680193779666
+2045,Distric Thermal Energy,Undiscounted,FixedCosts,Toronto Average,Pipe,___,7815.875392777266
+2045,Distric Thermal Energy,Undiscounted,FixedCosts,Toronto Average,Substation,___,580.7655125640644
+2045,Distric Thermal Energy,Undiscounted,FixedCosts,Consumption,Heat Pump,Large,6.848940319413382
+2045,Distric Thermal Energy,Undiscounted,FixedCosts,Consumption,Heat Pump,Medium,6.071890372647334
+2045,Distric Thermal Energy,Undiscounted,FixedCosts,Consumption,Heat Pump,Small,1660.2082637428562
+2045,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Alkaline Electrolyser,___,3634.577572183032
+2045,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Autothermal Reforming Gas,Carbon Capture and Storage,12804.171545449335
+2045,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Boiler,Large,123.80334119124873
+2045,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Boiler,Medium,31.518004791808046
+2045,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Boiler,Small,24.32502676210074
+2045,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Deep Lake Cooling,Enwave,11.111691670568579
+2045,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Heat Pump,Enwave,546.5146005190984
+2045,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Steam Methane Reforming,Carbon Capture and Storage,13311.022195177966
+2045,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Steam Methane Reforming,___,13850.725605940304
+2045,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Hot Tank Storage,Large,68.21583932442626
+2045,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Hot Tank Storage,Medium,30.044127523067793
+2045,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Hot Tank Storage,Small,26.449544385263213
+2045,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Pit Storage,Large,55.186934043137
+2045,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Pit Storage,Medium,45.989158626126034
+2045,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Pit Storage,Small,33.36673191305184
+2045,Distric Thermal Energy,Undiscounted,InvestmentCosts,Toronto Average,Pipe,___,36002.669998819925
+2045,Distric Thermal Energy,Undiscounted,InvestmentCosts,Toronto Average,Substation,___,4052.571768508049
+2045,Distric Thermal Energy,Undiscounted,InvestmentCosts,Consumption,Heat Pump,Large,65.69627720208541
+2045,Distric Thermal Energy,Undiscounted,InvestmentCosts,Consumption,Heat Pump,Medium,67.13553424452243
+2045,Distric Thermal Energy,Undiscounted,InvestmentCosts,Consumption,Heat Pump,Small,25531.71274460823
+2045,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Alkaline Electrolyser,___,7031.728721413922
+2045,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Autothermal Reforming Gas,Carbon Capture and Storage,12760.329286127204
+2045,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Boiler,Large,1721.2479085543819
+2045,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Boiler,Medium,183.50609669719998
+2045,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Boiler,Small,145.04895971651098
+2045,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Deep Lake Cooling,Enwave,57.318235977544134
+2045,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Gas Turbine,Large,0.0
+2045,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Gas Turbine,Medium,0.0
+2045,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Gas Turbine,Small,0.0
+2045,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Heat Pump,Enwave,2820.260765679223
+2045,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Internal Combustion Engine,Large,0.0
+2045,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Internal Combustion Engine,Medium,0.0
+2045,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Internal Combustion Engine,Small,0.0
+2045,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Steam Methane Reforming,Carbon Capture and Storage,11478.219239199658
+2045,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Steam Methane Reforming,___,12377.012672247727
+2045,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Hot Tank Storage,Large,1713.4634969094566
+2045,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Hot Tank Storage,Medium,782.3501532663184
+2045,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Hot Tank Storage,Small,700.6934895621981
+2045,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Pit Storage,Large,228.5355382990179
+2045,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Pit Storage,Medium,239.3937677536627
+2045,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Pit Storage,Small,256.74572450882187
+2045,Electricity Energy,Discounted,FixedCosts,Production,PV pannel,Decentralized,6.322629616848305
+2045,Electricity Energy,Discounted,FixedCosts,Production,Wind Turbine,Decentralized,6127.95739192444
+2045,Electricity Energy,Discounted,FixedCosts,Storage,Battery,Decentralized,8391.121760258731
+2045,Electricity Energy,Discounted,InvestmentCosts,Production,PV pannel,Decentralized,24.27346700889525
+2045,Electricity Energy,Discounted,InvestmentCosts,Production,Wind Turbine,Decentralized,2365.1130935546944
+2045,Electricity Energy,Discounted,InvestmentCosts,Storage,Battery,Decentralized,25222.66046147723
+2045,Electricity Energy,Undiscounted,FixedCosts,Production,PV pannel,Decentralized,16.011344299596395
+2045,Electricity Energy,Undiscounted,FixedCosts,Production,Wind Turbine,Decentralized,15528.699834191706
+2045,Electricity Energy,Undiscounted,FixedCosts,Storage,Battery,Decentralized,21243.7479012479
+2045,Electricity Energy,Undiscounted,InvestmentCosts,Production,PV pannel,Decentralized,50.27240177307235
+2045,Electricity Energy,Undiscounted,InvestmentCosts,Production,Wind Turbine,Decentralized,4898.349116521492
+2045,Electricity Energy,Undiscounted,InvestmentCosts,Storage,Battery,Decentralized,52238.26163936521
+2045,Charging Station Energy,Discounted,FixedCosts,Charging Station,Commercial,120V,55197.693079742065
+2045,Charging Station Energy,Discounted,FixedCosts,Charging Station,Commercial,240V,73835.95076125614
+2045,Charging Station Energy,Discounted,FixedCosts,Charging Station,Freight,Fast,53.42602497770493
+2045,Charging Station Energy,Discounted,FixedCosts,Charging Station,Freight,Slow,31600.54283123923
+2045,Charging Station Energy,Discounted,FixedCosts,Charging Station,Public,240V,728.7241960686326
+2045,Charging Station Energy,Discounted,FixedCosts,Charging Station,Residential,120V,13.44888617106185
+2045,Charging Station Energy,Discounted,FixedCosts,Charging Station,Residential,240V,29872.538276719704
+2045,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Commercial,120V,86566.27414755229
+2045,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Commercial,240V,145091.38588808136
+2045,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Freight,Fast,40.54650543112026
+2045,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Freight,Slow,22307.68931472236
+2045,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Public,240V,1432.21217538658
+2045,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Residential,120V,37.37418748543798
+2045,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Residential,240V,58710.570144963516
+2045,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Commercial,120V,139648.31927610672
+2045,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Commercial,240V,186802.4884856469
+2045,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Freight,Fast,135.03787873337785
+2045,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Freight,Slow,79807.02406530228
+2045,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Public,240V,1843.6478685766865
+2045,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Residential,120V,34.025232670706345
+2045,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Residential,240V,75576.5237657386
+2045,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Commercial,120V,179286.0703561168
+2045,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Commercial,240V,300496.5233233684
+2045,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Freight,Fast,83.97523974553602
+2045,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Freight,Slow,46201.11002056793
+2045,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Public,240V,2966.232466047587
+2045,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Residential,120V,77.40510115516389
+2045,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Residential,240V,121594.55299781192
+2050,Distric Thermal Energy,Discounted,FixedCosts,Toronto Average,Pipe,___,308.64618621400564
+2050,Distric Thermal Energy,Discounted,FixedCosts,Toronto Average,Substation,___,32.9576152095146
+2050,Distric Thermal Energy,Discounted,FixedCosts,Consumption,Heat Pump,Large,1.1862997815198633
+2050,Distric Thermal Energy,Discounted,FixedCosts,Consumption,Heat Pump,Medium,1.0541780960012008
+2050,Distric Thermal Energy,Discounted,FixedCosts,Consumption,Heat Pump,Small,76.43621221463627
+2050,Distric Thermal Energy,Discounted,FixedCosts,Production,Alkaline Electrolyser,___,551.1080323028286
+2050,Distric Thermal Energy,Discounted,FixedCosts,Production,Autothermal Reforming Gas,Carbon Capture and Storage,1700.7485622956062
+2050,Distric Thermal Energy,Discounted,FixedCosts,Production,Boiler,Large,24.096277500065522
+2050,Distric Thermal Energy,Discounted,FixedCosts,Production,Boiler,Medium,7.114308754608129
+2050,Distric Thermal Energy,Discounted,FixedCosts,Production,Boiler,Small,4.4294943690905395
+2050,Distric Thermal Energy,Discounted,FixedCosts,Production,Deep Lake Cooling,Enwave,1.9557503487894976
+2050,Distric Thermal Energy,Discounted,FixedCosts,Production,Heat Pump,Enwave,67.49451328161156
+2050,Distric Thermal Energy,Discounted,FixedCosts,Production,Steam Methane Reforming,Carbon Capture and Storage,2.6733639859235097
+2050,Distric Thermal Energy,Discounted,FixedCosts,Production,Steam Methane Reforming,___,2097.623496618944
+2050,Distric Thermal Energy,Discounted,FixedCosts,Storage,Hot Tank Storage,Large,8.369020110529473
+2050,Distric Thermal Energy,Discounted,FixedCosts,Storage,Hot Tank Storage,Medium,4.590337298853624
+2050,Distric Thermal Energy,Discounted,FixedCosts,Storage,Hot Tank Storage,Small,4.084662049004543
+2050,Distric Thermal Energy,Discounted,FixedCosts,Storage,Pit Storage,Large,9.881441319595076
+2050,Distric Thermal Energy,Discounted,FixedCosts,Storage,Pit Storage,Medium,8.275732793896944
+2050,Distric Thermal Energy,Discounted,FixedCosts,Storage,Pit Storage,Small,5.998581627677349
+2050,Distric Thermal Energy,Discounted,InvestmentCosts,Toronto Average,Pipe,___,1739.560483288332
+2050,Distric Thermal Energy,Discounted,InvestmentCosts,Toronto Average,Substation,___,204.831667612606
+2050,Distric Thermal Energy,Discounted,InvestmentCosts,Consumption,Heat Pump,Large,13.170421818824398
+2050,Distric Thermal Energy,Discounted,InvestmentCosts,Consumption,Heat Pump,Medium,13.49057222649505
+2050,Distric Thermal Energy,Discounted,InvestmentCosts,Consumption,Heat Pump,Small,1360.5183125579279
+2050,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Alkaline Electrolyser,___,1230.6250267161822
+2050,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Autothermal Reforming Gas,Carbon Capture and Storage,1946.424937987492
+2050,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Boiler,Large,414.6691858560369
+2050,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Boiler,Medium,70.73981448992137
+2050,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Boiler,Small,32.530197668289446
+2050,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Deep Lake Cooling,Enwave,12.343763324379031
+2050,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Gas Turbine,Large,0.0
+2050,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Gas Turbine,Medium,0.0
+2050,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Gas Turbine,Small,0.0
+2050,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Heat Pump,Enwave,479.4353193515326
+2050,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Internal Combustion Engine,Large,0.0
+2050,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Internal Combustion Engine,Medium,0.0
+2050,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Internal Combustion Engine,Small,0.0
+2050,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Steam Methane Reforming,Carbon Capture and Storage,2.6473316468860992
+2050,Distric Thermal Energy,Discounted,InvestmentCosts,Production,Steam Methane Reforming,___,2293.466414623116
+2050,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Hot Tank Storage,Large,257.20877253107926
+2050,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Hot Tank Storage,Medium,146.25398549946314
+2050,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Hot Tank Storage,Small,132.39986823040016
+2050,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Pit Storage,Large,49.74917301839046
+2050,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Pit Storage,Medium,52.373539851915375
+2050,Distric Thermal Energy,Discounted,InvestmentCosts,Storage,Pit Storage,Small,56.11593634015798
+2050,Distric Thermal Energy,Undiscounted,FixedCosts,Toronto Average,Pipe,___,843.1921505558771
+2050,Distric Thermal Energy,Undiscounted,FixedCosts,Toronto Average,Substation,___,90.03708351813314
+2050,Distric Thermal Energy,Undiscounted,FixedCosts,Consumption,Heat Pump,Large,3.2408586551921257
+2050,Distric Thermal Energy,Undiscounted,FixedCosts,Consumption,Heat Pump,Medium,2.8799147228724684
+2050,Distric Thermal Energy,Undiscounted,FixedCosts,Consumption,Heat Pump,Small,208.81649291761101
+2050,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Alkaline Electrolyser,___,1505.5749518441753
+2050,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Autothermal Reforming Gas,Carbon Capture and Storage,4646.2840036601565
+2050,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Boiler,Large,65.82874810441922
+2050,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Boiler,Medium,19.435617760581046
+2050,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Boiler,Small,12.10095912333395
+2050,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Deep Lake Cooling,Enwave,5.342924734546394
+2050,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Heat Pump,Enwave,184.38861825165745
+2050,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Steam Methane Reforming,Carbon Capture and Storage,7.303377229960366
+2050,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Steam Methane Reforming,___,5730.5087383918135
+2050,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Hot Tank Storage,Large,22.863370358154498
+2050,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Hot Tank Storage,Medium,12.540366774898475
+2050,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Hot Tank Storage,Small,11.158909882029278
+2050,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Pit Storage,Large,26.99516186823692
+2050,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Pit Storage,Medium,22.60851824384252
+2050,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Pit Storage,Small,16.387556914178774
+2050,Distric Thermal Energy,Undiscounted,InvestmentCosts,Toronto Average,Pipe,___,4176.605726797254
+2050,Distric Thermal Energy,Undiscounted,InvestmentCosts,Toronto Average,Substation,___,491.79153251576975
+2050,Distric Thermal Energy,Undiscounted,InvestmentCosts,Consumption,Heat Pump,Large,31.62158471710924
+2050,Distric Thermal Energy,Undiscounted,InvestmentCosts,Consumption,Heat Pump,Medium,32.39025130787135
+2050,Distric Thermal Energy,Undiscounted,InvestmentCosts,Consumption,Heat Pump,Small,3266.542687208266
+2050,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Alkaline Electrolyser,___,2954.674806366535
+2050,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Autothermal Reforming Gas,Carbon Capture and Storage,4673.277888798818
+2050,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Boiler,Large,995.60188508008
+2050,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Boiler,Medium,169.843082289775
+2050,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Boiler,Small,78.10352740273456
+2050,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Deep Lake Cooling,Enwave,29.636815210573
+2050,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Gas Turbine,Large,0.0
+2050,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Gas Turbine,Medium,0.0
+2050,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Gas Turbine,Small,0.0
+2050,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Heat Pump,Enwave,1151.1024305675617
+2050,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Internal Combustion Engine,Large,0.0
+2050,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Internal Combustion Engine,Medium,0.0
+2050,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Internal Combustion Engine,Small,0.0
+2050,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Steam Methane Reforming,Carbon Capture and Storage,6.35612306863573
+2050,Distric Thermal Energy,Undiscounted,InvestmentCosts,Production,Steam Methane Reforming,___,5506.508715020269
+2050,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Hot Tank Storage,Large,617.5465829765802
+2050,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Hot Tank Storage,Medium,351.14917777925444
+2050,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Hot Tank Storage,Small,317.8860713327864
+2050,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Pit Storage,Large,119.44550530330542
+2050,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Pit Storage,Medium,125.74649089789492
+2050,Distric Thermal Energy,Undiscounted,InvestmentCosts,Storage,Pit Storage,Small,134.73181492364728
+2050,Electricity Energy,Discounted,FixedCosts,Production,PV pannel,Decentralized,0.350840561593843
+2050,Electricity Energy,Discounted,FixedCosts,Production,Wind Turbine,Decentralized,2355.5387526158875
+2050,Electricity Energy,Discounted,FixedCosts,Storage,Battery,Decentralized,675.4607829116981
+2050,Electricity Energy,Discounted,InvestmentCosts,Production,PV pannel,Decentralized,1.2981273217628373
+2050,Electricity Energy,Discounted,InvestmentCosts,Production,Wind Turbine,Decentralized,905.8628577274194
+2050,Electricity Energy,Discounted,InvestmentCosts,Storage,Battery,Decentralized,2006.2053046494075
+2050,Electricity Energy,Undiscounted,FixedCosts,Production,PV pannel,Decentralized,0.958463188096637
+2050,Electricity Energy,Undiscounted,FixedCosts,Production,Wind Turbine,Decentralized,6435.108792041736
+2050,Electricity Energy,Undiscounted,FixedCosts,Storage,Battery,Decentralized,1845.294889743324
+2050,Electricity Energy,Undiscounted,InvestmentCosts,Production,PV pannel,Decentralized,3.1167447514890396
+2050,Electricity Energy,Undiscounted,InvestmentCosts,Production,Wind Turbine,Decentralized,2174.935586100091
+2050,Electricity Energy,Undiscounted,InvestmentCosts,Storage,Battery,Decentralized,4816.807834522937
+2050,Charging Station Energy,Discounted,FixedCosts,Charging Station,Commercial,120V,32156.67626889987
+2050,Charging Station Energy,Discounted,FixedCosts,Charging Station,Commercial,240V,6265.328597916526
+2050,Charging Station Energy,Discounted,FixedCosts,Charging Station,Freight,Fast,24.72614159211789
+2050,Charging Station Energy,Discounted,FixedCosts,Charging Station,Freight,Slow,8860.583058484282
+2050,Charging Station Energy,Discounted,FixedCosts,Charging Station,Public,240V,141.1435906052802
+2050,Charging Station Energy,Discounted,FixedCosts,Charging Station,Residential,120V,7.308185033936133
+2050,Charging Station Energy,Discounted,FixedCosts,Charging Station,Residential,240V,3057.100216780439
+2050,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Commercial,120V,61995.72311298257
+2050,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Commercial,240V,12079.095915268641
+2050,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Freight,Fast,22.88082122807303
+2050,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Freight,Slow,8199.31472859879
+2050,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Public,240V,272.1145335160128
+2050,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Residential,120V,19.922387428335952
+2050,Charging Station Energy,Discounted,InvestmentCosts,Charging Station,Residential,240V,5893.865926419117
+2050,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Commercial,120V,87848.99418489053
+2050,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Commercial,240V,17116.284374735453
+2050,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Freight,Fast,67.54947715294637
+2050,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Freight,Slow,24206.27377874695
+2050,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Public,240V,385.59092260134355
+2050,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Residential,120V,19.965269394750287
+2050,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Residential,240V,8351.708271116053
+2050,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Commercial,120V,148848.9159636204
+2050,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Commercial,240V,29001.360779866773
+2050,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Freight,Fast,54.935812748716174
+2050,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Freight,Slow,19686.182331840555
+2050,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Public,240V,653.3346382296296
+2050,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Residential,120V,47.832747538258396
+2050,Charging Station Energy,Undiscounted,InvestmentCosts,Charging Station,Residential,240V,14150.904448418152

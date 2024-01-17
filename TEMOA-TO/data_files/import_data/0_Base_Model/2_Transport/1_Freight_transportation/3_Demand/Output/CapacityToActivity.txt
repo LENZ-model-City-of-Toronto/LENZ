@@ -1,0 +1,6 @@
+INSERT INTO`CapacityToActivity`VALUES('TO','FRETRAROATRULGT',1,'Freight TransportationTransportationRoadTruckPassenger Light Trucks');
+INSERT INTO`CapacityToActivity`VALUES('TO','FRETRAROATRUMET',1,'Freight TransportationTransportationRoadTruckMedium Trucks');
+INSERT INTO`CapacityToActivity`VALUES('TO','FRETRAROATRUHET',1,'Freight TransportationTransportationRoadTruckHeavy Trucks');
+INSERT INTO`CapacityToActivity`VALUES('TO','FRETRAAIR______',1,'Freight TransportationTransportationAir');
+INSERT INTO`CapacityToActivity`VALUES('TO','FRETRARAI______',1,'Freight TransportationTransportationRail');
+INSERT INTO`CapacityToActivity`VALUES('TO','FRETRAMAR______',1,'Freight TransportationTransportationMarine');

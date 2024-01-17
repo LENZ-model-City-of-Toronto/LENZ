@@ -1,0 +1,7 @@
+regions,tech,c2a,c2a_notes
+TO,FRETRAROATRULGT,1,Freight TransportationTransportationRoadTruckPassenger Light Trucks
+TO,FRETRAROATRUMET,1,Freight TransportationTransportationRoadTruckMedium Trucks
+TO,FRETRAROATRUHET,1,Freight TransportationTransportationRoadTruckHeavy Trucks
+TO,FRETRAAIR______,1,Freight TransportationTransportationAir
+TO,FRETRARAI______,1,Freight TransportationTransportationRail
+TO,FRETRAMAR______,1,Freight TransportationTransportationMarine

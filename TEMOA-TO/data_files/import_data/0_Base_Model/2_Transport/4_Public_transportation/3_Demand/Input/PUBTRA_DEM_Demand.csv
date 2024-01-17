@@ -1,0 +1,106 @@
+regions,periods,demand_comm,demand,demand_units,demand_notes
+TO,2016.0,ADEMPUBTRAPOL,79.55540382350827,M vkt,Aggregated DemandPublicTransportationPolice Services
+TO,2016.0,ADEMPUBTRAFLE,90.14657084388134,M vkt,Aggregated DemandPublicTransportationFleet Services
+TO,2016.0,ADEMPUBTRATHC,16.951584659983002,M vkt,Aggregated DemandPublicTransportationToronto Housing Company
+TO,2017.0,ADEMPUBTRAPOL,81.93362800797416,M vkt,Aggregated DemandPublicTransportationPolice Services
+TO,2017.0,ADEMPUBTRAFLE,92.84140670196086,M vkt,Aggregated DemandPublicTransportationFleet Services
+TO,2017.0,ADEMPUBTRATHC,17.45833425417562,M vkt,Aggregated DemandPublicTransportationToronto Housing Company
+TO,2018.0,ADEMPUBTRAPOL,84.48959659707758,M vkt,Aggregated DemandPublicTransportationPolice Services
+TO,2018.0,ADEMPUBTRAFLE,95.73764997920584,M vkt,Aggregated DemandPublicTransportationFleet Services
+TO,2018.0,ADEMPUBTRATHC,18.00295744561294,M vkt,Aggregated DemandPublicTransportationToronto Housing Company
+TO,2019.0,ADEMPUBTRAPOL,87.5261049608578,M vkt,Aggregated DemandPublicTransportationPolice Services
+TO,2019.0,ADEMPUBTRAFLE,99.17840702621697,M vkt,Aggregated DemandPublicTransportationFleet Services
+TO,2019.0,ADEMPUBTRATHC,18.649973564261018,M vkt,Aggregated DemandPublicTransportationToronto Housing Company
+TO,2020.0,ADEMPUBTRAPOL,90.21575609067823,M vkt,Aggregated DemandPublicTransportationPolice Services
+TO,2020.0,ADEMPUBTRAFLE,102.2261299270721,M vkt,Aggregated DemandPublicTransportationFleet Services
+TO,2020.0,ADEMPUBTRATHC,19.223081695722694,M vkt,Aggregated DemandPublicTransportationToronto Housing Company
+TO,2021.0,ADEMPUBTRAPOL,93.26507884495031,M vkt,Aggregated DemandPublicTransportationPolice Services
+TO,2021.0,ADEMPUBTRAFLE,105.68140733731157,M vkt,Aggregated DemandPublicTransportationFleet Services
+TO,2021.0,ADEMPUBTRATHC,19.872828291684055,M vkt,Aggregated DemandPublicTransportationToronto Housing Company
+TO,2022.0,ADEMPUBTRAPOL,96.11183390371195,M vkt,Aggregated DemandPublicTransportationPolice Services
+TO,2022.0,ADEMPUBTRAFLE,108.90714932649374,M vkt,Aggregated DemandPublicTransportationFleet Services
+TO,2022.0,ADEMPUBTRATHC,20.479411968789005,M vkt,Aggregated DemandPublicTransportationToronto Housing Company
+TO,2023.0,ADEMPUBTRAPOL,99.09662236393187,M vkt,Aggregated DemandPublicTransportationPolice Services
+TO,2023.0,ADEMPUBTRAFLE,112.2893010277174,M vkt,Aggregated DemandPublicTransportationFleet Services
+TO,2023.0,ADEMPUBTRATHC,21.115407662906858,M vkt,Aggregated DemandPublicTransportationToronto Housing Company
+TO,2024.0,ADEMPUBTRAPOL,101.84119766081871,M vkt,Aggregated DemandPublicTransportationPolice Services
+TO,2024.0,ADEMPUBTRAFLE,115.39926011969887,M vkt,Aggregated DemandPublicTransportationFleet Services
+TO,2024.0,ADEMPUBTRATHC,21.700218980112783,M vkt,Aggregated DemandPublicTransportationToronto Housing Company
+TO,2025.0,ADEMPUBTRAPOL,104.29928607578968,M vkt,Aggregated DemandPublicTransportationPolice Services
+TO,2025.0,ADEMPUBTRAFLE,118.18459248922957,M vkt,Aggregated DemandPublicTransportationFleet Services
+TO,2025.0,ADEMPUBTRATHC,22.223985963441088,M vkt,Aggregated DemandPublicTransportationToronto Housing Company
+TO,2026.0,ADEMPUBTRAPOL,106.4326850544709,M vkt,Aggregated DemandPublicTransportationPolice Services
+TO,2026.0,ADEMPUBTRAFLE,120.60200969694816,M vkt,Aggregated DemandPublicTransportationFleet Services
+TO,2026.0,ADEMPUBTRATHC,22.678568451399617,M vkt,Aggregated DemandPublicTransportationToronto Housing Company
+TO,2027.0,ADEMPUBTRAPOL,108.33179145033179,M vkt,Aggregated DemandPublicTransportationPolice Services
+TO,2027.0,ADEMPUBTRAFLE,122.75394307955459,M vkt,Aggregated DemandPublicTransportationFleet Services
+TO,2027.0,ADEMPUBTRATHC,23.08322811372966,M vkt,Aggregated DemandPublicTransportationToronto Housing Company
+TO,2028.0,ADEMPUBTRAPOL,110.08034093336725,M vkt,Aggregated DemandPublicTransportationPolice Services
+TO,2028.0,ADEMPUBTRAFLE,124.73527599059325,M vkt,Aggregated DemandPublicTransportationFleet Services
+TO,2028.0,ADEMPUBTRATHC,23.455807261962033,M vkt,Aggregated DemandPublicTransportationToronto Housing Company
+TO,2029.0,ADEMPUBTRAPOL,111.75891737873813,M vkt,Aggregated DemandPublicTransportationPolice Services
+TO,2029.0,ADEMPUBTRAFLE,126.63732039206711,M vkt,Aggregated DemandPublicTransportationFleet Services
+TO,2029.0,ADEMPUBTRATHC,23.813476626384887,M vkt,Aggregated DemandPublicTransportationToronto Housing Company
+TO,2030.0,ADEMPUBTRAPOL,113.30543470153215,M vkt,Aggregated DemandPublicTransportationPolice Services
+TO,2030.0,ADEMPUBTRAFLE,128.38972471283236,M vkt,Aggregated DemandPublicTransportationFleet Services
+TO,2030.0,ADEMPUBTRATHC,24.143006967072147,M vkt,Aggregated DemandPublicTransportationToronto Housing Company
+TO,2031.0,ADEMPUBTRAPOL,114.84522880679302,M vkt,Aggregated DemandPublicTransportationPolice Services
+TO,2031.0,ADEMPUBTRAFLE,130.13451075782348,M vkt,Aggregated DemandPublicTransportationFleet Services
+TO,2031.0,ADEMPUBTRATHC,24.471104731394718,M vkt,Aggregated DemandPublicTransportationToronto Housing Company
+TO,2032.0,ADEMPUBTRAPOL,116.35318443577994,M vkt,Aggregated DemandPublicTransportationPolice Services
+TO,2032.0,ADEMPUBTRAFLE,131.84321968775956,M vkt,Aggregated DemandPublicTransportationFleet Services
+TO,2032.0,ADEMPUBTRATHC,24.792418385524094,M vkt,Aggregated DemandPublicTransportationToronto Housing Company
+TO,2033.0,ADEMPUBTRAPOL,117.86666560648453,M vkt,Aggregated DemandPublicTransportationPolice Services
+TO,2033.0,ADEMPUBTRAFLE,133.55818977173374,M vkt,Aggregated DemandPublicTransportationFleet Services
+TO,2033.0,ADEMPUBTRATHC,25.11490941647161,M vkt,Aggregated DemandPublicTransportationToronto Housing Company
+TO,2034.0,ADEMPUBTRAPOL,119.3735231116098,M vkt,Aggregated DemandPublicTransportationPolice Services
+TO,2034.0,ADEMPUBTRAFLE,135.2656543851843,M vkt,Aggregated DemandPublicTransportationFleet Services
+TO,2034.0,ADEMPUBTRATHC,25.435989083483665,M vkt,Aggregated DemandPublicTransportationToronto Housing Company
+TO,2035.0,ADEMPUBTRAPOL,120.8699914697069,M vkt,Aggregated DemandPublicTransportationPolice Services
+TO,2035.0,ADEMPUBTRAFLE,136.9613467501945,M vkt,Aggregated DemandPublicTransportationFleet Services
+TO,2035.0,ADEMPUBTRATHC,25.754855041596908,M vkt,Aggregated DemandPublicTransportationToronto Housing Company
+TO,2036.0,ADEMPUBTRAPOL,122.36510447378642,M vkt,Aggregated DemandPublicTransportationPolice Services
+TO,2036.0,ADEMPUBTRAFLE,138.6555033236545,M vkt,Aggregated DemandPublicTransportationFleet Services
+TO,2036.0,ADEMPUBTRATHC,26.073432202252413,M vkt,Aggregated DemandPublicTransportationToronto Housing Company
+TO,2037.0,ADEMPUBTRAPOL,123.8103181570297,M vkt,Aggregated DemandPublicTransportationPolice Services
+TO,2037.0,ADEMPUBTRAFLE,140.29311750722476,M vkt,Aggregated DemandPublicTransportationFleet Services
+TO,2037.0,ADEMPUBTRATHC,26.381376866295774,M vkt,Aggregated DemandPublicTransportationToronto Housing Company
+TO,2038.0,ADEMPUBTRAPOL,125.1977029015613,M vkt,Aggregated DemandPublicTransportationPolice Services
+TO,2038.0,ADEMPUBTRAFLE,141.86520401737684,M vkt,Aggregated DemandPublicTransportationFleet Services
+TO,2038.0,ADEMPUBTRATHC,26.676999398802444,M vkt,Aggregated DemandPublicTransportationToronto Housing Company
+TO,2039.0,ADEMPUBTRAPOL,126.53836580276443,M vkt,Aggregated DemandPublicTransportationPolice Services
+TO,2039.0,ADEMPUBTRAFLE,143.38434863097453,M vkt,Aggregated DemandPublicTransportationFleet Services
+TO,2039.0,ADEMPUBTRATHC,26.962666488377668,M vkt,Aggregated DemandPublicTransportationToronto Housing Company
+TO,2040.0,ADEMPUBTRAPOL,127.83572701122331,M vkt,Aggregated DemandPublicTransportationPolice Services
+TO,2040.0,ADEMPUBTRAFLE,144.85442682136244,M vkt,Aggregated DemandPublicTransportationFleet Services
+TO,2040.0,ADEMPUBTRATHC,27.239106897234848,M vkt,Aggregated DemandPublicTransportationToronto Housing Company
+TO,2041.0,ADEMPUBTRAPOL,129.11960840297243,M vkt,Aggregated DemandPublicTransportationPolice Services
+TO,2041.0,ADEMPUBTRAFLE,146.3092306344788,M vkt,Aggregated DemandPublicTransportationFleet Services
+TO,2041.0,ADEMPUBTRATHC,27.512675040435962,M vkt,Aggregated DemandPublicTransportationToronto Housing Company
+TO,2042.0,ADEMPUBTRAPOL,130.39185607329358,M vkt,Aggregated DemandPublicTransportationPolice Services
+TO,2042.0,ADEMPUBTRAFLE,147.75085193525186,M vkt,Aggregated DemandPublicTransportationFleet Services
+TO,2042.0,ADEMPUBTRATHC,27.783764282088992,M vkt,Aggregated DemandPublicTransportationToronto Housing Company
+TO,2043.0,ADEMPUBTRAPOL,131.65027921817938,M vkt,Aggregated DemandPublicTransportationPolice Services
+TO,2043.0,ADEMPUBTRAFLE,149.17680825914528,M vkt,Aggregated DemandPublicTransportationFleet Services
+TO,2043.0,ADEMPUBTRATHC,28.051907807900747,M vkt,Aggregated DemandPublicTransportationToronto Housing Company
+TO,2044.0,ADEMPUBTRAPOL,132.86842534466854,M vkt,Aggregated DemandPublicTransportationPolice Services
+TO,2044.0,ADEMPUBTRAFLE,150.55712550740373,M vkt,Aggregated DemandPublicTransportationFleet Services
+TO,2044.0,ADEMPUBTRATHC,28.311469147532957,M vkt,Aggregated DemandPublicTransportationToronto Housing Company
+TO,2045.0,ADEMPUBTRAPOL,134.0280427330508,M vkt,Aggregated DemandPublicTransportationPolice Services
+TO,2045.0,ADEMPUBTRAFLE,151.87112211894134,M vkt,Aggregated DemandPublicTransportationFleet Services
+TO,2045.0,ADEMPUBTRATHC,28.55855924308397,M vkt,Aggregated DemandPublicTransportationToronto Housing Company
+TO,2046.0,ADEMPUBTRAPOL,135.14755404543547,M vkt,Aggregated DemandPublicTransportationPolice Services
+TO,2046.0,ADEMPUBTRAFLE,153.1396733547103,M vkt,Aggregated DemandPublicTransportationFleet Services
+TO,2046.0,ADEMPUBTRATHC,28.79710357668824,M vkt,Aggregated DemandPublicTransportationToronto Housing Company
+TO,2047.0,ADEMPUBTRAPOL,136.25759691812107,M vkt,Aggregated DemandPublicTransportationPolice Services
+TO,2047.0,ADEMPUBTRAFLE,154.39749562262682,M vkt,Aggregated DemandPublicTransportationFleet Services
+TO,2047.0,ADEMPUBTRATHC,29.033630384776426,M vkt,Aggregated DemandPublicTransportationToronto Housing Company
+TO,2048.0,ADEMPUBTRAPOL,137.37275760306662,M vkt,Aggregated DemandPublicTransportationPolice Services
+TO,2048.0,ADEMPUBTRAFLE,155.66111703432594,M vkt,Aggregated DemandPublicTransportationFleet Services
+TO,2048.0,ADEMPUBTRATHC,29.271247691103934,M vkt,Aggregated DemandPublicTransportationToronto Housing Company
+TO,2049.0,ADEMPUBTRAPOL,138.49404491317043,M vkt,Aggregated DemandPublicTransportationPolice Services
+TO,2049.0,ADEMPUBTRAFLE,156.9316807054106,M vkt,Aggregated DemandPublicTransportationFleet Services
+TO,2049.0,ADEMPUBTRATHC,29.510170452498713,M vkt,Aggregated DemandPublicTransportationToronto Housing Company
+TO,2050.0,ADEMPUBTRAPOL,139.62449316593387,M vkt,Aggregated DemandPublicTransportationPolice Services
+TO,2050.0,ADEMPUBTRAFLE,158.21262491039707,M vkt,Aggregated DemandPublicTransportationFleet Services
+TO,2050.0,ADEMPUBTRATHC,29.75104521825267,M vkt,Aggregated DemandPublicTransportationToronto Housing Company

@@ -1,0 +1,966 @@
+PUB,TRA,,,,,,,FLE,,,,,ARCH,PUBTRAFLE,PublicTransportationFleet Services,PUBTRA,N/A,Mvkt
+PUB,TRA,,,,,,,POL,,,,,ARCH,PUBTRAPOL,PublicTransportationPolice Services,PUBTRA,N/A,Mvkt
+PUB,TRA,,,,,,,THC,,,,,ARCH,PUBTRATHC,PublicTransportationToronto Housing Company,PUBTRA,N/A,Mvkt
+PUB,TRA,,,,MAR,___,___,FLE,,___,ALL,,EX,PUBTRAFLEMAR_________ALL_EX,PublicTransportationFleet ServicesMarineAll,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,BUS,URB,FLE,,CONV,DSL,,EX,PUBTRAFLEROABUSURBCONVDSL_EX,PublicTransportationFleet ServicesRoadInter-city BusesUrban Bus ConventionnalDiesel,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,BUS,URB,FLE,,CONV,RDSL,,EX,PUBTRAFLEROABUSURBCONVRDSL_EX,PublicTransportationFleet ServicesRoadInter-city BusesUrban Bus ConventionnalRenewable Diesel,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,FLE,,CONV,DSL,,EX,PUBTRAFLEROACAR___CONVDSL_EX,PublicTransportationFleet ServicesRoadCarsConventionnalDiesel,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,FLE,,CONV,RDSL,,EX,PUBTRAFLEROACAR___CONVRDSL_EX,PublicTransportationFleet ServicesRoadCarsConventionnalRenewable Diesel,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,FLE,,CONV,GAS,,EX,PUBTRAFLEROACAR___CONVGAS_EX,PublicTransportationFleet ServicesRoadCarsConventionnalGasoline,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,MOR,___,FLE,,CONV,GAS,,EX,PUBTRAFLEROAMOR___CONVGAS_EX,PublicTransportationFleet ServicesRoadMotorcyclesConventionnalGasoline,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,FLE,,CONV,DSL,,EX,PUBTRAFLEROATRUHETCONVDSL_EX,PublicTransportationFleet ServicesRoadTruckHeavy TrucksConventionnalDiesel,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,FLE,,CONV,RDSL,,EX,PUBTRAFLEROATRUHETCONVRDSL_EX,PublicTransportationFleet ServicesRoadTruckHeavy TrucksConventionnalRenewable Diesel,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,FLE,,CONV,DSL,,EX,PUBTRAFLEROATRULGTCONVDSL_EX,PublicTransportationFleet ServicesRoadTruckPassenger Light TrucksConventionnalDiesel,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,FLE,,CONV,RDSL,,EX,PUBTRAFLEROATRULGTCONVRDSL_EX,PublicTransportationFleet ServicesRoadTruckPassenger Light TrucksConventionnalRenewable Diesel,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,FLE,,CONV,GAS,,EX,PUBTRAFLEROATRULGTCONVGAS_EX,PublicTransportationFleet ServicesRoadTruckPassenger Light TrucksConventionnalGasoline,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,FLE,,CONV,DSL,,EX,PUBTRAFLEROATRUMETCONVDSL_EX,PublicTransportationFleet ServicesRoadTruckMedium TrucksConventionnalDiesel,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,FLE,,CONV,RDSL,,EX,PUBTRAFLEROATRUMETCONVRDSL_EX,PublicTransportationFleet ServicesRoadTruckMedium TrucksConventionnalRenewable Diesel,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,FLE,,CONV,GAS,,EX,PUBTRAFLEROATRUMETCONVGAS_EX,PublicTransportationFleet ServicesRoadTruckMedium TrucksConventionnalGasoline,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,MAR,___,___,POL,,___,ALL,,EX,PUBTRAPOLMAR_________ALL_EX,PublicTransportationPolice ServicesMarineAll,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,BUS,URB,POL,,CONV,DSL,,EX,PUBTRAPOLROABUSURBCONVDSL_EX,PublicTransportationPolice ServicesRoadInter-city BusesUrban Bus ConventionnalDiesel,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,BUS,URB,POL,,CONV,RDSL,,EX,PUBTRAPOLROABUSURBCONVRDSL_EX,PublicTransportationPolice ServicesRoadInter-city BusesUrban Bus ConventionnalRenewable Diesel,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,POL,,CONV,DSL,,EX,PUBTRAPOLROACAR___CONVDSL_EX,PublicTransportationPolice ServicesRoadCarsConventionnalDiesel,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,POL,,CONV,RDSL,,EX,PUBTRAPOLROACAR___CONVRDSL_EX,PublicTransportationPolice ServicesRoadCarsConventionnalRenewable Diesel,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,POL,,CONV,GAS,,EX,PUBTRAPOLROACAR___CONVGAS_EX,PublicTransportationPolice ServicesRoadCarsConventionnalGasoline,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,MOR,___,POL,,CONV,GAS,,EX,PUBTRAPOLROAMOR___CONVGAS_EX,PublicTransportationPolice ServicesRoadMotorcyclesConventionnalGasoline,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,POL,,CONV,DSL,,EX,PUBTRAPOLROATRUHETCONVDSL_EX,PublicTransportationPolice ServicesRoadTruckHeavy TrucksConventionnalDiesel,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,POL,,CONV,RDSL,,EX,PUBTRAPOLROATRUHETCONVRDSL_EX,PublicTransportationPolice ServicesRoadTruckHeavy TrucksConventionnalRenewable Diesel,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,POL,,CONV,DSL,,EX,PUBTRAPOLROATRULGTCONVDSL_EX,PublicTransportationPolice ServicesRoadTruckPassenger Light TrucksConventionnalDiesel,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,POL,,CONV,RDSL,,EX,PUBTRAPOLROATRULGTCONVRDSL_EX,PublicTransportationPolice ServicesRoadTruckPassenger Light TrucksConventionnalRenewable Diesel,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,POL,,CONV,GAS,,EX,PUBTRAPOLROATRULGTCONVGAS_EX,PublicTransportationPolice ServicesRoadTruckPassenger Light TrucksConventionnalGasoline,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,POL,,CONV,DSL,,EX,PUBTRAPOLROATRUMETCONVDSL_EX,PublicTransportationPolice ServicesRoadTruckMedium TrucksConventionnalDiesel,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,POL,,CONV,RDSL,,EX,PUBTRAPOLROATRUMETCONVRDSL_EX,PublicTransportationPolice ServicesRoadTruckMedium TrucksConventionnalRenewable Diesel,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,POL,,CONV,GAS,,EX,PUBTRAPOLROATRUMETCONVGAS_EX,PublicTransportationPolice ServicesRoadTruckMedium TrucksConventionnalGasoline,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,MAR,___,___,THC,,___,ALL,,EX,PUBTRATHCMAR_________ALL_EX,PublicTransportationToronto Housing CompanyMarineAll,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,BUS,URB,THC,,CONV,DSL,,EX,PUBTRATHCROABUSURBCONVDSL_EX,PublicTransportationToronto Housing CompanyRoadInter-city BusesUrban Bus ConventionnalDiesel,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,BUS,URB,THC,,CONV,RDSL,,EX,PUBTRATHCROABUSURBCONVRDSL_EX,PublicTransportationToronto Housing CompanyRoadInter-city BusesUrban Bus ConventionnalRenewable Diesel,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,THC,,CONV,DSL,,EX,PUBTRATHCROACAR___CONVDSL_EX,PublicTransportationToronto Housing CompanyRoadCarsConventionnalDiesel,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,THC,,CONV,RDSL,,EX,PUBTRATHCROACAR___CONVRDSL_EX,PublicTransportationToronto Housing CompanyRoadCarsConventionnalRenewable Diesel,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,THC,,CONV,GAS,,EX,PUBTRATHCROACAR___CONVGAS_EX,PublicTransportationToronto Housing CompanyRoadCarsConventionnalGasoline,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,MOR,___,THC,,CONV,GAS,,EX,PUBTRATHCROAMOR___CONVGAS_EX,PublicTransportationToronto Housing CompanyRoadMotorcyclesConventionnalGasoline,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,THC,,CONV,DSL,,EX,PUBTRATHCROATRUHETCONVDSL_EX,PublicTransportationToronto Housing CompanyRoadTruckHeavy TrucksConventionnalDiesel,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,THC,,CONV,RDSL,,EX,PUBTRATHCROATRUHETCONVRDSL_EX,PublicTransportationToronto Housing CompanyRoadTruckHeavy TrucksConventionnalRenewable Diesel,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,THC,,CONV,DSL,,EX,PUBTRATHCROATRULGTCONVDSL_EX,PublicTransportationToronto Housing CompanyRoadTruckPassenger Light TrucksConventionnalDiesel,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,THC,,CONV,RDSL,,EX,PUBTRATHCROATRULGTCONVRDSL_EX,PublicTransportationToronto Housing CompanyRoadTruckPassenger Light TrucksConventionnalRenewable Diesel,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,THC,,CONV,GAS,,EX,PUBTRATHCROATRULGTCONVGAS_EX,PublicTransportationToronto Housing CompanyRoadTruckPassenger Light TrucksConventionnalGasoline,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,THC,,CONV,DSL,,EX,PUBTRATHCROATRUMETCONVDSL_EX,PublicTransportationToronto Housing CompanyRoadTruckMedium TrucksConventionnalDiesel,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,THC,,CONV,RDSL,,EX,PUBTRATHCROATRUMETCONVRDSL_EX,PublicTransportationToronto Housing CompanyRoadTruckMedium TrucksConventionnalRenewable Diesel,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,THC,,CONV,GAS,,EX,PUBTRATHCROATRUMETCONVGAS_EX,PublicTransportationToronto Housing CompanyRoadTruckMedium TrucksConventionnalGasoline,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,BUS,URB,FLE,16,CONV,DSL,___,NEW,PUBTRAFLEROABUSURBCONVDSL____16,PublicTransportationFleet ServicesRoadInter-city BusesUrban Bus ConventionnalDiesel2016,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,FLE,23,BEV320,BELC,___,NEW,PUBTRAFLEROACAR___BEV320BELC____23,PublicTransportationFleet ServicesRoadCars320VElectricityBattery Electric Vehicle2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,FLE,23,BEV480,BELC,___,NEW,PUBTRAFLEROACAR___BEV480BELC____23,PublicTransportationFleet ServicesRoadCars480VElectricityBattery Electric Vehicle2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,FLE,23,BEV640,BELC,___,NEW,PUBTRAFLEROACAR___BEV640BELC____23,PublicTransportationFleet ServicesRoadCars640VElectricityBattery Electric Vehicle2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,FLE,23,CELL,HH2,___,NEW,PUBTRAFLEROACAR___CELLHH2____23,PublicTransportationFleet ServicesRoadCarsFuel Cell VehicleHydrogen2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,FLE,16,CONV,DSL,___,NEW,PUBTRAFLEROACAR___CONVDSL____16,PublicTransportationFleet ServicesRoadCarsConventionnalDiesel2016,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,FLE,23,CONV,DSL,___,NEW,PUBTRAFLEROACAR___CONVDSL____23,PublicTransportationFleet ServicesRoadCarsConventionnalDiesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,FLE,16,CONV,GAS,___,NEW,PUBTRAFLEROACAR___CONVGAS____16,PublicTransportationFleet ServicesRoadCarsConventionnalGasoline2016,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,FLE,23,CONV,GAS,___,NEW,PUBTRAFLEROACAR___CONVGAS____23,PublicTransportationFleet ServicesRoadCarsConventionnalGasoline2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,FLE,23,CONV,NGA,___,NEW,PUBTRAFLEROACAR___CONVNGA____23,PublicTransportationFleet ServicesRoadCarsConventionnalNatural Gas2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,FLE,23,CONV,NGA,BIF,NEW,PUBTRAFLEROACAR___CONVNGABIF_23,PublicTransportationFleet ServicesRoadCarsConventionnalNatural GasBi Fuel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,FLE,23,CONV,PRO,___,NEW,PUBTRAFLEROACAR___CONVPRO____23,PublicTransportationFleet ServicesRoadCarsConventionnalPropane2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,FLE,23,CONV,PRO,BIF,NEW,PUBTRAFLEROACAR___CONVPROBIF_23,PublicTransportationFleet ServicesRoadCarsConventionnalPropaneBi Fuel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,FLE,23,CONV,RDSL,___,NEW,PUBTRAFLEROACAR___CONVRDSL____23,PublicTransportationFleet ServicesRoadCarsConventionnalRenewable Diesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,FLE,23,HYB,DSL,___,NEW,PUBTRAFLEROACAR___HYBDSL____23,PublicTransportationFleet ServicesRoadCarsHybridDiesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,FLE,23,HYB,GAS,___,NEW,PUBTRAFLEROACAR___HYBGAS____23,PublicTransportationFleet ServicesRoadCarsHybridGasoline2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,FLE,23,HYB,RDSL,___,NEW,PUBTRAFLEROACAR___HYBRDSL____23,PublicTransportationFleet ServicesRoadCarsHybridRenewable Diesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,FLE,23,PHEV,GAS,BELC,NEW,PUBTRAFLEROACAR___PHEVGASBELC_23,PublicTransportationFleet ServicesRoadCarsPlug Hybrid VehicleGasolineBattery Electric Vehicle2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,MOR,___,FLE,23,BEV,BELC,___,NEW,PUBTRAFLEROAMOR___BEVBELC____23,PublicTransportationFleet ServicesRoadMotorcyclesBattery Electric VehicleBattery Electric Vehicle2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,MOR,___,FLE,16,CONV,GAS,___,NEW,PUBTRAFLEROAMOR___CONVGAS____16,PublicTransportationFleet ServicesRoadMotorcyclesConventionnalGasoline2016,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,MOR,___,FLE,23,CONV,GAS,___,NEW,PUBTRAFLEROAMOR___CONVGAS____23,PublicTransportationFleet ServicesRoadMotorcyclesConventionnalGasoline2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,FLE,25,BEV,BELCF,___,NEW,PUBTRAFLEROATRUHETBEVBELCF____25,PublicTransportationFleet ServicesRoadTruckHeavy TrucksBattery Electric VehicleBattery Electricity Freight2025,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,FLE,25,CATE,DSL,ELC,NEW,PUBTRAFLEROATRUHETCATEDSLELC_25,PublicTransportationFleet ServicesRoadTruckHeavy TrucksCatenaryDieselElectricity2025,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,FLE,25,CATE,ELC,___,NEW,PUBTRAFLEROATRUHETCATEELC____25,PublicTransportationFleet ServicesRoadTruckHeavy TrucksCatenaryElectricity2025,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,FLE,25,CATE,NGA,ELC,NEW,PUBTRAFLEROATRUHETCATENGAELC_25,PublicTransportationFleet ServicesRoadTruckHeavy TrucksCatenaryNatural GasElectricity2025,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,FLE,25,CATE,RDSL,ELC,NEW,PUBTRAFLEROATRUHETCATERDSLELC_25,PublicTransportationFleet ServicesRoadTruckHeavy TrucksCatenaryRenewable DieselElectricity2025,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,FLE,25,CELL,HH2,___,NEW,PUBTRAFLEROATRUHETCELLHH2____25,PublicTransportationFleet ServicesRoadTruckHeavy TrucksFuel Cell VehicleHydrogen2025,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,FLE,16,CONV,DSL,___,NEW,PUBTRAFLEROATRUHETCONVDSL____16,PublicTransportationFleet ServicesRoadTruckHeavy TrucksConventionnalDiesel2016,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,FLE,23,CONV,DSL,___,NEW,PUBTRAFLEROATRUHETCONVDSL____23,PublicTransportationFleet ServicesRoadTruckHeavy TrucksConventionnalDiesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,FLE,23,CONV,NGA,___,NEW,PUBTRAFLEROATRUHETCONVNGA____23,PublicTransportationFleet ServicesRoadTruckHeavy TrucksConventionnalNatural Gas2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,FLE,23,CONV,RDSL,___,NEW,PUBTRAFLEROATRUHETCONVRDSL____23,PublicTransportationFleet ServicesRoadTruckHeavy TrucksConventionnalRenewable Diesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,FLE,23,HYB,DSL,___,NEW,PUBTRAFLEROATRUHETHYBDSL____23,PublicTransportationFleet ServicesRoadTruckHeavy TrucksHybridDiesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,FLE,23,HYB,RDSL,___,NEW,PUBTRAFLEROATRUHETHYBRDSL____23,PublicTransportationFleet ServicesRoadTruckHeavy TrucksHybridRenewable Diesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,FLE,23,PHEV,DSL,BELCF,NEW,PUBTRAFLEROATRUHETPHEVDSLBELCF_23,PublicTransportationFleet ServicesRoadTruckHeavy TrucksPlug Hybrid VehicleDieselBattery Electricity Freight2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,FLE,23,PHEV,NGA,BELCF,NEW,PUBTRAFLEROATRUHETPHEVNGABELCF_23,PublicTransportationFleet ServicesRoadTruckHeavy TrucksPlug Hybrid VehicleNatural GasBattery Electricity Freight2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,FLE,23,PHEV,RDSL,BELCF,NEW,PUBTRAFLEROATRUHETPHEVRDSLBELCF_23,PublicTransportationFleet ServicesRoadTruckHeavy TrucksPlug Hybrid VehicleRenewable DieselBattery Electricity Freight2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,FLE,23,BEV,BELCF,___,NEW,PUBTRAFLEROATRULGTBEVBELCF____23,PublicTransportationFleet ServicesRoadTruckPassenger Light TrucksBattery Electric VehicleBattery Electricity Freight2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,FLE,23,CELL,HH2,___,NEW,PUBTRAFLEROATRULGTCELLHH2____23,PublicTransportationFleet ServicesRoadTruckPassenger Light TrucksFuel Cell VehicleHydrogen2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,FLE,16,CONV,DSL,___,NEW,PUBTRAFLEROATRULGTCONVDSL____16,PublicTransportationFleet ServicesRoadTruckPassenger Light TrucksConventionnalDiesel2016,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,FLE,23,CONV,DSL,___,NEW,PUBTRAFLEROATRULGTCONVDSL____23,PublicTransportationFleet ServicesRoadTruckPassenger Light TrucksConventionnalDiesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,FLE,16,CONV,GAS,___,NEW,PUBTRAFLEROATRULGTCONVGAS____16,PublicTransportationFleet ServicesRoadTruckPassenger Light TrucksConventionnalGasoline2016,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,FLE,23,CONV,GAS,___,NEW,PUBTRAFLEROATRULGTCONVGAS____23,PublicTransportationFleet ServicesRoadTruckPassenger Light TrucksConventionnalGasoline2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,FLE,23,CONV,NGA,___,NEW,PUBTRAFLEROATRULGTCONVNGA____23,PublicTransportationFleet ServicesRoadTruckPassenger Light TrucksConventionnalNatural Gas2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,FLE,23,CONV,PRO,___,NEW,PUBTRAFLEROATRULGTCONVPRO____23,PublicTransportationFleet ServicesRoadTruckPassenger Light TrucksConventionnalPropane2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,FLE,23,CONV,RDSL,___,NEW,PUBTRAFLEROATRULGTCONVRDSL____23,PublicTransportationFleet ServicesRoadTruckPassenger Light TrucksConventionnalRenewable Diesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,FLE,23,HYB,DSL,___,NEW,PUBTRAFLEROATRULGTHYBDSL____23,PublicTransportationFleet ServicesRoadTruckPassenger Light TrucksHybridDiesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,FLE,23,HYB,GAS,___,NEW,PUBTRAFLEROATRULGTHYBGAS____23,PublicTransportationFleet ServicesRoadTruckPassenger Light TrucksHybridGasoline2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,FLE,23,HYB,RDSL,___,NEW,PUBTRAFLEROATRULGTHYBRDSL____23,PublicTransportationFleet ServicesRoadTruckPassenger Light TrucksHybridRenewable Diesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,FLE,23,PHEV,GAS,BELCF,NEW,PUBTRAFLEROATRULGTPHEVGASBELCF_23,PublicTransportationFleet ServicesRoadTruckPassenger Light TrucksPlug Hybrid VehicleGasolineBattery Electricity Freight2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,FLE,23,BEV,BELCF,___,NEW,PUBTRAFLEROATRUMETBEVBELCF____23,PublicTransportationFleet ServicesRoadTruckMedium TrucksBattery Electric VehicleBattery Electricity Freight2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,FLE,23,CELL,HH2,___,NEW,PUBTRAFLEROATRUMETCELLHH2____23,PublicTransportationFleet ServicesRoadTruckMedium TrucksFuel Cell VehicleHydrogen2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,FLE,16,CONV,DSL,___,NEW,PUBTRAFLEROATRUMETCONVDSL____16,PublicTransportationFleet ServicesRoadTruckMedium TrucksConventionnalDiesel2016,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,FLE,23,CONV,DSL,___,NEW,PUBTRAFLEROATRUMETCONVDSL____23,PublicTransportationFleet ServicesRoadTruckMedium TrucksConventionnalDiesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,FLE,16,CONV,GAS,___,NEW,PUBTRAFLEROATRUMETCONVGAS____16,PublicTransportationFleet ServicesRoadTruckMedium TrucksConventionnalGasoline2016,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,FLE,23,CONV,GAS,___,NEW,PUBTRAFLEROATRUMETCONVGAS____23,PublicTransportationFleet ServicesRoadTruckMedium TrucksConventionnalGasoline2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,FLE,23,CONV,NGA,___,NEW,PUBTRAFLEROATRUMETCONVNGA____23,PublicTransportationFleet ServicesRoadTruckMedium TrucksConventionnalNatural Gas2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,FLE,23,CONV,PRO,___,NEW,PUBTRAFLEROATRUMETCONVPRO____23,PublicTransportationFleet ServicesRoadTruckMedium TrucksConventionnalPropane2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,FLE,23,CONV,RDSL,___,NEW,PUBTRAFLEROATRUMETCONVRDSL____23,PublicTransportationFleet ServicesRoadTruckMedium TrucksConventionnalRenewable Diesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,FLE,23,HYB,DSL,___,NEW,PUBTRAFLEROATRUMETHYBDSL____23,PublicTransportationFleet ServicesRoadTruckMedium TrucksHybridDiesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,FLE,23,HYB,RDSL,___,NEW,PUBTRAFLEROATRUMETHYBRDSL____23,PublicTransportationFleet ServicesRoadTruckMedium TrucksHybridRenewable Diesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,FLE,23,PHEV,DSL,BELCF,NEW,PUBTRAFLEROATRUMETPHEVDSLBELCF_23,PublicTransportationFleet ServicesRoadTruckMedium TrucksPlug Hybrid VehicleDieselBattery Electricity Freight2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,FLE,23,PHEV,RDSL,BELCF,NEW,PUBTRAFLEROATRUMETPHEVRDSLBELCF_23,PublicTransportationFleet ServicesRoadTruckMedium TrucksPlug Hybrid VehicleRenewable DieselBattery Electricity Freight2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,BUS,URB,POL,16,CONV,DSL,___,NEW,PUBTRAPOLROABUSURBCONVDSL____16,PublicTransportationPolice ServicesRoadInter-city BusesUrban Bus ConventionnalDiesel2016,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,POL,23,BEV320,BELC,___,NEW,PUBTRAPOLROACAR___BEV320BELC____23,PublicTransportationPolice ServicesRoadCars320VElectricityBattery Electric Vehicle2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,POL,23,BEV480,BELC,___,NEW,PUBTRAPOLROACAR___BEV480BELC____23,PublicTransportationPolice ServicesRoadCars480VElectricityBattery Electric Vehicle2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,POL,23,BEV640,BELC,___,NEW,PUBTRAPOLROACAR___BEV640BELC____23,PublicTransportationPolice ServicesRoadCars640VElectricityBattery Electric Vehicle2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,POL,23,CELL,HH2,___,NEW,PUBTRAPOLROACAR___CELLHH2____23,PublicTransportationPolice ServicesRoadCarsFuel Cell VehicleHydrogen2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,POL,16,CONV,DSL,___,NEW,PUBTRAPOLROACAR___CONVDSL____16,PublicTransportationPolice ServicesRoadCarsConventionnalDiesel2016,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,POL,23,CONV,DSL,___,NEW,PUBTRAPOLROACAR___CONVDSL____23,PublicTransportationPolice ServicesRoadCarsConventionnalDiesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,POL,16,CONV,GAS,___,NEW,PUBTRAPOLROACAR___CONVGAS____16,PublicTransportationPolice ServicesRoadCarsConventionnalGasoline2016,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,POL,23,CONV,GAS,___,NEW,PUBTRAPOLROACAR___CONVGAS____23,PublicTransportationPolice ServicesRoadCarsConventionnalGasoline2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,POL,23,CONV,NGA,___,NEW,PUBTRAPOLROACAR___CONVNGA____23,PublicTransportationPolice ServicesRoadCarsConventionnalNatural Gas2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,POL,23,CONV,NGA,BIF,NEW,PUBTRAPOLROACAR___CONVNGABIF_23,PublicTransportationPolice ServicesRoadCarsConventionnalNatural GasBi Fuel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,POL,23,CONV,PRO,___,NEW,PUBTRAPOLROACAR___CONVPRO____23,PublicTransportationPolice ServicesRoadCarsConventionnalPropane2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,POL,23,CONV,PRO,BIF,NEW,PUBTRAPOLROACAR___CONVPROBIF_23,PublicTransportationPolice ServicesRoadCarsConventionnalPropaneBi Fuel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,POL,23,CONV,RDSL,___,NEW,PUBTRAPOLROACAR___CONVRDSL____23,PublicTransportationPolice ServicesRoadCarsConventionnalRenewable Diesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,POL,23,HYB,DSL,___,NEW,PUBTRAPOLROACAR___HYBDSL____23,PublicTransportationPolice ServicesRoadCarsHybridDiesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,POL,23,HYB,GAS,___,NEW,PUBTRAPOLROACAR___HYBGAS____23,PublicTransportationPolice ServicesRoadCarsHybridGasoline2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,POL,23,HYB,RDSL,___,NEW,PUBTRAPOLROACAR___HYBRDSL____23,PublicTransportationPolice ServicesRoadCarsHybridRenewable Diesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,POL,23,PHEV,GAS,BELC,NEW,PUBTRAPOLROACAR___PHEVGASBELC_23,PublicTransportationPolice ServicesRoadCarsPlug Hybrid VehicleGasolineBattery Electric Vehicle2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,MOR,___,POL,23,BEV,BELC,___,NEW,PUBTRAPOLROAMOR___BEVBELC____23,PublicTransportationPolice ServicesRoadMotorcyclesBattery Electric VehicleBattery Electric Vehicle2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,MOR,___,POL,16,CONV,GAS,___,NEW,PUBTRAPOLROAMOR___CONVGAS____16,PublicTransportationPolice ServicesRoadMotorcyclesConventionnalGasoline2016,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,MOR,___,POL,23,CONV,GAS,___,NEW,PUBTRAPOLROAMOR___CONVGAS____23,PublicTransportationPolice ServicesRoadMotorcyclesConventionnalGasoline2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,POL,25,BEV,BELCF,___,NEW,PUBTRAPOLROATRUHETBEVBELCF____25,PublicTransportationPolice ServicesRoadTruckHeavy TrucksBattery Electric VehicleBattery Electricity Freight2025,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,POL,25,CATE,DSL,ELC,NEW,PUBTRAPOLROATRUHETCATEDSLELC_25,PublicTransportationPolice ServicesRoadTruckHeavy TrucksCatenaryDieselElectricity2025,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,POL,25,CATE,ELC,___,NEW,PUBTRAPOLROATRUHETCATEELC____25,PublicTransportationPolice ServicesRoadTruckHeavy TrucksCatenaryElectricity2025,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,POL,25,CATE,NGA,ELC,NEW,PUBTRAPOLROATRUHETCATENGAELC_25,PublicTransportationPolice ServicesRoadTruckHeavy TrucksCatenaryNatural GasElectricity2025,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,POL,25,CATE,RDSL,ELC,NEW,PUBTRAPOLROATRUHETCATERDSLELC_25,PublicTransportationPolice ServicesRoadTruckHeavy TrucksCatenaryRenewable DieselElectricity2025,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,POL,25,CELL,HH2,___,NEW,PUBTRAPOLROATRUHETCELLHH2____25,PublicTransportationPolice ServicesRoadTruckHeavy TrucksFuel Cell VehicleHydrogen2025,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,POL,16,CONV,DSL,___,NEW,PUBTRAPOLROATRUHETCONVDSL____16,PublicTransportationPolice ServicesRoadTruckHeavy TrucksConventionnalDiesel2016,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,POL,23,CONV,DSL,___,NEW,PUBTRAPOLROATRUHETCONVDSL____23,PublicTransportationPolice ServicesRoadTruckHeavy TrucksConventionnalDiesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,POL,23,CONV,NGA,___,NEW,PUBTRAPOLROATRUHETCONVNGA____23,PublicTransportationPolice ServicesRoadTruckHeavy TrucksConventionnalNatural Gas2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,POL,23,CONV,RDSL,___,NEW,PUBTRAPOLROATRUHETCONVRDSL____23,PublicTransportationPolice ServicesRoadTruckHeavy TrucksConventionnalRenewable Diesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,POL,23,HYB,DSL,___,NEW,PUBTRAPOLROATRUHETHYBDSL____23,PublicTransportationPolice ServicesRoadTruckHeavy TrucksHybridDiesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,POL,23,HYB,RDSL,___,NEW,PUBTRAPOLROATRUHETHYBRDSL____23,PublicTransportationPolice ServicesRoadTruckHeavy TrucksHybridRenewable Diesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,POL,23,PHEV,DSL,BELCF,NEW,PUBTRAPOLROATRUHETPHEVDSLBELCF_23,PublicTransportationPolice ServicesRoadTruckHeavy TrucksPlug Hybrid VehicleDieselBattery Electricity Freight2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,POL,23,PHEV,NGA,BELCF,NEW,PUBTRAPOLROATRUHETPHEVNGABELCF_23,PublicTransportationPolice ServicesRoadTruckHeavy TrucksPlug Hybrid VehicleNatural GasBattery Electricity Freight2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,POL,23,PHEV,RDSL,BELCF,NEW,PUBTRAPOLROATRUHETPHEVRDSLBELCF_23,PublicTransportationPolice ServicesRoadTruckHeavy TrucksPlug Hybrid VehicleRenewable DieselBattery Electricity Freight2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,POL,23,BEV,BELCF,___,NEW,PUBTRAPOLROATRULGTBEVBELCF____23,PublicTransportationPolice ServicesRoadTruckPassenger Light TrucksBattery Electric VehicleBattery Electricity Freight2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,POL,23,CELL,HH2,___,NEW,PUBTRAPOLROATRULGTCELLHH2____23,PublicTransportationPolice ServicesRoadTruckPassenger Light TrucksFuel Cell VehicleHydrogen2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,POL,16,CONV,DSL,___,NEW,PUBTRAPOLROATRULGTCONVDSL____16,PublicTransportationPolice ServicesRoadTruckPassenger Light TrucksConventionnalDiesel2016,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,POL,23,CONV,DSL,___,NEW,PUBTRAPOLROATRULGTCONVDSL____23,PublicTransportationPolice ServicesRoadTruckPassenger Light TrucksConventionnalDiesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,POL,16,CONV,GAS,___,NEW,PUBTRAPOLROATRULGTCONVGAS____16,PublicTransportationPolice ServicesRoadTruckPassenger Light TrucksConventionnalGasoline2016,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,POL,23,CONV,GAS,___,NEW,PUBTRAPOLROATRULGTCONVGAS____23,PublicTransportationPolice ServicesRoadTruckPassenger Light TrucksConventionnalGasoline2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,POL,23,CONV,NGA,___,NEW,PUBTRAPOLROATRULGTCONVNGA____23,PublicTransportationPolice ServicesRoadTruckPassenger Light TrucksConventionnalNatural Gas2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,POL,23,CONV,PRO,___,NEW,PUBTRAPOLROATRULGTCONVPRO____23,PublicTransportationPolice ServicesRoadTruckPassenger Light TrucksConventionnalPropane2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,POL,23,CONV,RDSL,___,NEW,PUBTRAPOLROATRULGTCONVRDSL____23,PublicTransportationPolice ServicesRoadTruckPassenger Light TrucksConventionnalRenewable Diesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,POL,23,HYB,DSL,___,NEW,PUBTRAPOLROATRULGTHYBDSL____23,PublicTransportationPolice ServicesRoadTruckPassenger Light TrucksHybridDiesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,POL,23,HYB,GAS,___,NEW,PUBTRAPOLROATRULGTHYBGAS____23,PublicTransportationPolice ServicesRoadTruckPassenger Light TrucksHybridGasoline2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,POL,23,HYB,RDSL,___,NEW,PUBTRAPOLROATRULGTHYBRDSL____23,PublicTransportationPolice ServicesRoadTruckPassenger Light TrucksHybridRenewable Diesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,POL,23,PHEV,GAS,BELCF,NEW,PUBTRAPOLROATRULGTPHEVGASBELCF_23,PublicTransportationPolice ServicesRoadTruckPassenger Light TrucksPlug Hybrid VehicleGasolineBattery Electricity Freight2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,POL,23,BEV,BELCF,___,NEW,PUBTRAPOLROATRUMETBEVBELCF____23,PublicTransportationPolice ServicesRoadTruckMedium TrucksBattery Electric VehicleBattery Electricity Freight2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,POL,23,CELL,HH2,___,NEW,PUBTRAPOLROATRUMETCELLHH2____23,PublicTransportationPolice ServicesRoadTruckMedium TrucksFuel Cell VehicleHydrogen2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,POL,16,CONV,DSL,___,NEW,PUBTRAPOLROATRUMETCONVDSL____16,PublicTransportationPolice ServicesRoadTruckMedium TrucksConventionnalDiesel2016,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,POL,23,CONV,DSL,___,NEW,PUBTRAPOLROATRUMETCONVDSL____23,PublicTransportationPolice ServicesRoadTruckMedium TrucksConventionnalDiesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,POL,16,CONV,GAS,___,NEW,PUBTRAPOLROATRUMETCONVGAS____16,PublicTransportationPolice ServicesRoadTruckMedium TrucksConventionnalGasoline2016,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,POL,23,CONV,GAS,___,NEW,PUBTRAPOLROATRUMETCONVGAS____23,PublicTransportationPolice ServicesRoadTruckMedium TrucksConventionnalGasoline2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,POL,23,CONV,NGA,___,NEW,PUBTRAPOLROATRUMETCONVNGA____23,PublicTransportationPolice ServicesRoadTruckMedium TrucksConventionnalNatural Gas2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,POL,23,CONV,PRO,___,NEW,PUBTRAPOLROATRUMETCONVPRO____23,PublicTransportationPolice ServicesRoadTruckMedium TrucksConventionnalPropane2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,POL,23,CONV,RDSL,___,NEW,PUBTRAPOLROATRUMETCONVRDSL____23,PublicTransportationPolice ServicesRoadTruckMedium TrucksConventionnalRenewable Diesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,POL,23,HYB,DSL,___,NEW,PUBTRAPOLROATRUMETHYBDSL____23,PublicTransportationPolice ServicesRoadTruckMedium TrucksHybridDiesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,POL,23,HYB,RDSL,___,NEW,PUBTRAPOLROATRUMETHYBRDSL____23,PublicTransportationPolice ServicesRoadTruckMedium TrucksHybridRenewable Diesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,POL,23,PHEV,DSL,BELCF,NEW,PUBTRAPOLROATRUMETPHEVDSLBELCF_23,PublicTransportationPolice ServicesRoadTruckMedium TrucksPlug Hybrid VehicleDieselBattery Electricity Freight2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,POL,23,PHEV,RDSL,BELCF,NEW,PUBTRAPOLROATRUMETPHEVRDSLBELCF_23,PublicTransportationPolice ServicesRoadTruckMedium TrucksPlug Hybrid VehicleRenewable DieselBattery Electricity Freight2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,BUS,URB,THC,16,CONV,DSL,___,NEW,PUBTRATHCROABUSURBCONVDSL____16,PublicTransportationToronto Housing CompanyRoadInter-city BusesUrban Bus ConventionnalDiesel2016,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,THC,23,BEV320,BELC,___,NEW,PUBTRATHCROACAR___BEV320BELC____23,PublicTransportationToronto Housing CompanyRoadCars320VElectricityBattery Electric Vehicle2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,THC,23,BEV480,BELC,___,NEW,PUBTRATHCROACAR___BEV480BELC____23,PublicTransportationToronto Housing CompanyRoadCars480VElectricityBattery Electric Vehicle2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,THC,23,BEV640,BELC,___,NEW,PUBTRATHCROACAR___BEV640BELC____23,PublicTransportationToronto Housing CompanyRoadCars640VElectricityBattery Electric Vehicle2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,THC,23,CELL,HH2,___,NEW,PUBTRATHCROACAR___CELLHH2____23,PublicTransportationToronto Housing CompanyRoadCarsFuel Cell VehicleHydrogen2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,THC,16,CONV,DSL,___,NEW,PUBTRATHCROACAR___CONVDSL____16,PublicTransportationToronto Housing CompanyRoadCarsConventionnalDiesel2016,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,THC,23,CONV,DSL,___,NEW,PUBTRATHCROACAR___CONVDSL____23,PublicTransportationToronto Housing CompanyRoadCarsConventionnalDiesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,THC,16,CONV,GAS,___,NEW,PUBTRATHCROACAR___CONVGAS____16,PublicTransportationToronto Housing CompanyRoadCarsConventionnalGasoline2016,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,THC,23,CONV,GAS,___,NEW,PUBTRATHCROACAR___CONVGAS____23,PublicTransportationToronto Housing CompanyRoadCarsConventionnalGasoline2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,THC,23,CONV,NGA,___,NEW,PUBTRATHCROACAR___CONVNGA____23,PublicTransportationToronto Housing CompanyRoadCarsConventionnalNatural Gas2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,THC,23,CONV,NGA,BIF,NEW,PUBTRATHCROACAR___CONVNGABIF_23,PublicTransportationToronto Housing CompanyRoadCarsConventionnalNatural GasBi Fuel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,THC,23,CONV,PRO,___,NEW,PUBTRATHCROACAR___CONVPRO____23,PublicTransportationToronto Housing CompanyRoadCarsConventionnalPropane2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,THC,23,CONV,PRO,BIF,NEW,PUBTRATHCROACAR___CONVPROBIF_23,PublicTransportationToronto Housing CompanyRoadCarsConventionnalPropaneBi Fuel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,THC,23,CONV,RDSL,___,NEW,PUBTRATHCROACAR___CONVRDSL____23,PublicTransportationToronto Housing CompanyRoadCarsConventionnalRenewable Diesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,THC,23,HYB,DSL,___,NEW,PUBTRATHCROACAR___HYBDSL____23,PublicTransportationToronto Housing CompanyRoadCarsHybridDiesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,THC,23,HYB,GAS,___,NEW,PUBTRATHCROACAR___HYBGAS____23,PublicTransportationToronto Housing CompanyRoadCarsHybridGasoline2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,THC,23,HYB,RDSL,___,NEW,PUBTRATHCROACAR___HYBRDSL____23,PublicTransportationToronto Housing CompanyRoadCarsHybridRenewable Diesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,CAR,___,THC,23,PHEV,GAS,BELC,NEW,PUBTRATHCROACAR___PHEVGASBELC_23,PublicTransportationToronto Housing CompanyRoadCarsPlug Hybrid VehicleGasolineBattery Electric Vehicle2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,MOR,___,THC,23,BEV,BELC,___,NEW,PUBTRATHCROAMOR___BEVBELC____23,PublicTransportationToronto Housing CompanyRoadMotorcyclesBattery Electric VehicleBattery Electric Vehicle2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,MOR,___,THC,16,CONV,GAS,___,NEW,PUBTRATHCROAMOR___CONVGAS____16,PublicTransportationToronto Housing CompanyRoadMotorcyclesConventionnalGasoline2016,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,MOR,___,THC,23,CONV,GAS,___,NEW,PUBTRATHCROAMOR___CONVGAS____23,PublicTransportationToronto Housing CompanyRoadMotorcyclesConventionnalGasoline2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,THC,25,BEV,BELCF,___,NEW,PUBTRATHCROATRUHETBEVBELCF____25,PublicTransportationToronto Housing CompanyRoadTruckHeavy TrucksBattery Electric VehicleBattery Electricity Freight2025,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,THC,25,CATE,DSL,ELC,NEW,PUBTRATHCROATRUHETCATEDSLELC_25,PublicTransportationToronto Housing CompanyRoadTruckHeavy TrucksCatenaryDieselElectricity2025,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,THC,25,CATE,ELC,___,NEW,PUBTRATHCROATRUHETCATEELC____25,PublicTransportationToronto Housing CompanyRoadTruckHeavy TrucksCatenaryElectricity2025,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,THC,25,CATE,NGA,ELC,NEW,PUBTRATHCROATRUHETCATENGAELC_25,PublicTransportationToronto Housing CompanyRoadTruckHeavy TrucksCatenaryNatural GasElectricity2025,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,THC,25,CATE,RDSL,ELC,NEW,PUBTRATHCROATRUHETCATERDSLELC_25,PublicTransportationToronto Housing CompanyRoadTruckHeavy TrucksCatenaryRenewable DieselElectricity2025,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,THC,25,CELL,HH2,___,NEW,PUBTRATHCROATRUHETCELLHH2____25,PublicTransportationToronto Housing CompanyRoadTruckHeavy TrucksFuel Cell VehicleHydrogen2025,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,THC,16,CONV,DSL,___,NEW,PUBTRATHCROATRUHETCONVDSL____16,PublicTransportationToronto Housing CompanyRoadTruckHeavy TrucksConventionnalDiesel2016,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,THC,23,CONV,DSL,___,NEW,PUBTRATHCROATRUHETCONVDSL____23,PublicTransportationToronto Housing CompanyRoadTruckHeavy TrucksConventionnalDiesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,THC,23,CONV,NGA,___,NEW,PUBTRATHCROATRUHETCONVNGA____23,PublicTransportationToronto Housing CompanyRoadTruckHeavy TrucksConventionnalNatural Gas2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,THC,23,CONV,RDSL,___,NEW,PUBTRATHCROATRUHETCONVRDSL____23,PublicTransportationToronto Housing CompanyRoadTruckHeavy TrucksConventionnalRenewable Diesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,THC,23,HYB,DSL,___,NEW,PUBTRATHCROATRUHETHYBDSL____23,PublicTransportationToronto Housing CompanyRoadTruckHeavy TrucksHybridDiesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,THC,23,HYB,RDSL,___,NEW,PUBTRATHCROATRUHETHYBRDSL____23,PublicTransportationToronto Housing CompanyRoadTruckHeavy TrucksHybridRenewable Diesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,THC,23,PHEV,DSL,BELCF,NEW,PUBTRATHCROATRUHETPHEVDSLBELCF_23,PublicTransportationToronto Housing CompanyRoadTruckHeavy TrucksPlug Hybrid VehicleDieselBattery Electricity Freight2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,THC,23,PHEV,NGA,BELCF,NEW,PUBTRATHCROATRUHETPHEVNGABELCF_23,PublicTransportationToronto Housing CompanyRoadTruckHeavy TrucksPlug Hybrid VehicleNatural GasBattery Electricity Freight2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,HET,THC,23,PHEV,RDSL,BELCF,NEW,PUBTRATHCROATRUHETPHEVRDSLBELCF_23,PublicTransportationToronto Housing CompanyRoadTruckHeavy TrucksPlug Hybrid VehicleRenewable DieselBattery Electricity Freight2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,THC,23,BEV,BELCF,___,NEW,PUBTRATHCROATRULGTBEVBELCF____23,PublicTransportationToronto Housing CompanyRoadTruckPassenger Light TrucksBattery Electric VehicleBattery Electricity Freight2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,THC,23,CELL,HH2,___,NEW,PUBTRATHCROATRULGTCELLHH2____23,PublicTransportationToronto Housing CompanyRoadTruckPassenger Light TrucksFuel Cell VehicleHydrogen2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,THC,16,CONV,DSL,___,NEW,PUBTRATHCROATRULGTCONVDSL____16,PublicTransportationToronto Housing CompanyRoadTruckPassenger Light TrucksConventionnalDiesel2016,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,THC,23,CONV,DSL,___,NEW,PUBTRATHCROATRULGTCONVDSL____23,PublicTransportationToronto Housing CompanyRoadTruckPassenger Light TrucksConventionnalDiesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,THC,16,CONV,GAS,___,NEW,PUBTRATHCROATRULGTCONVGAS____16,PublicTransportationToronto Housing CompanyRoadTruckPassenger Light TrucksConventionnalGasoline2016,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,THC,23,CONV,GAS,___,NEW,PUBTRATHCROATRULGTCONVGAS____23,PublicTransportationToronto Housing CompanyRoadTruckPassenger Light TrucksConventionnalGasoline2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,THC,23,CONV,NGA,___,NEW,PUBTRATHCROATRULGTCONVNGA____23,PublicTransportationToronto Housing CompanyRoadTruckPassenger Light TrucksConventionnalNatural Gas2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,THC,23,CONV,PRO,___,NEW,PUBTRATHCROATRULGTCONVPRO____23,PublicTransportationToronto Housing CompanyRoadTruckPassenger Light TrucksConventionnalPropane2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,THC,23,CONV,RDSL,___,NEW,PUBTRATHCROATRULGTCONVRDSL____23,PublicTransportationToronto Housing CompanyRoadTruckPassenger Light TrucksConventionnalRenewable Diesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,THC,23,HYB,DSL,___,NEW,PUBTRATHCROATRULGTHYBDSL____23,PublicTransportationToronto Housing CompanyRoadTruckPassenger Light TrucksHybridDiesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,THC,23,HYB,GAS,___,NEW,PUBTRATHCROATRULGTHYBGAS____23,PublicTransportationToronto Housing CompanyRoadTruckPassenger Light TrucksHybridGasoline2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,THC,23,HYB,RDSL,___,NEW,PUBTRATHCROATRULGTHYBRDSL____23,PublicTransportationToronto Housing CompanyRoadTruckPassenger Light TrucksHybridRenewable Diesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,LGT,THC,23,PHEV,GAS,BELCF,NEW,PUBTRATHCROATRULGTPHEVGASBELCF_23,PublicTransportationToronto Housing CompanyRoadTruckPassenger Light TrucksPlug Hybrid VehicleGasolineBattery Electricity Freight2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,THC,23,BEV,BELCF,___,NEW,PUBTRATHCROATRUMETBEVBELCF____23,PublicTransportationToronto Housing CompanyRoadTruckMedium TrucksBattery Electric VehicleBattery Electricity Freight2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,THC,23,CELL,HH2,___,NEW,PUBTRATHCROATRUMETCELLHH2____23,PublicTransportationToronto Housing CompanyRoadTruckMedium TrucksFuel Cell VehicleHydrogen2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,THC,16,CONV,DSL,___,NEW,PUBTRATHCROATRUMETCONVDSL____16,PublicTransportationToronto Housing CompanyRoadTruckMedium TrucksConventionnalDiesel2016,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,THC,23,CONV,DSL,___,NEW,PUBTRATHCROATRUMETCONVDSL____23,PublicTransportationToronto Housing CompanyRoadTruckMedium TrucksConventionnalDiesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,THC,16,CONV,GAS,___,NEW,PUBTRATHCROATRUMETCONVGAS____16,PublicTransportationToronto Housing CompanyRoadTruckMedium TrucksConventionnalGasoline2016,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,THC,23,CONV,GAS,___,NEW,PUBTRATHCROATRUMETCONVGAS____23,PublicTransportationToronto Housing CompanyRoadTruckMedium TrucksConventionnalGasoline2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,THC,23,CONV,NGA,___,NEW,PUBTRATHCROATRUMETCONVNGA____23,PublicTransportationToronto Housing CompanyRoadTruckMedium TrucksConventionnalNatural Gas2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,THC,23,CONV,PRO,___,NEW,PUBTRATHCROATRUMETCONVPRO____23,PublicTransportationToronto Housing CompanyRoadTruckMedium TrucksConventionnalPropane2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,THC,23,CONV,RDSL,___,NEW,PUBTRATHCROATRUMETCONVRDSL____23,PublicTransportationToronto Housing CompanyRoadTruckMedium TrucksConventionnalRenewable Diesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,THC,23,HYB,DSL,___,NEW,PUBTRATHCROATRUMETHYBDSL____23,PublicTransportationToronto Housing CompanyRoadTruckMedium TrucksHybridDiesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,THC,23,HYB,RDSL,___,NEW,PUBTRATHCROATRUMETHYBRDSL____23,PublicTransportationToronto Housing CompanyRoadTruckMedium TrucksHybridRenewable Diesel2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,THC,23,PHEV,DSL,BELCF,NEW,PUBTRATHCROATRUMETPHEVDSLBELCF_23,PublicTransportationToronto Housing CompanyRoadTruckMedium TrucksPlug Hybrid VehicleDieselBattery Electricity Freight2023,PUBTRA,kunits,Mvkt
+PUB,TRA,,,,ROA,TRU,MET,THC,23,PHEV,RDSL,BELCF,NEW,PUBTRATHCROATRUMETPHEVRDSLBELCF_23,PublicTransportationToronto Housing CompanyRoadTruckMedium TrucksPlug Hybrid VehicleRenewable DieselBattery Electricity Freight2023,PUBTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,DURT,,CONV,DSL,,EX,PASTRAROABUSIUBDURTCONVDSL_EX,PassengerTransportationRoadInter-city BusesInter Urban BusDurham RTConventionnalDiesel,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,DURT,,CONV,RDSL,,EX,PASTRAROABUSIUBDURTCONVRDSL_EX,PassengerTransportationRoadInter-city BusesInter Urban BusDurham RTConventionnalRenewable Diesel,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,GOB,,CONV,DSL,,EX,PASTRAROABUSIUBGOBCONVDSL_EX,PassengerTransportationRoadInter-city BusesInter Urban BusGo BusConventionnalDiesel,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,GOB,,CONV,RDSL,,EX,PASTRAROABUSIUBGOBCONVRDSL_EX,PassengerTransportationRoadInter-city BusesInter Urban BusGo BusConventionnalRenewable Diesel,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,SCB,___,,CONV,NGA,,EX,PASTRAROABUSSCB___CONVNGA_EX,PassengerTransportationRoadInter-city BusesSchool BusConventionnalNatural Gas,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,SCB,___,,CONV,GAS,,EX,PASTRAROABUSSCB___CONVGAS_EX,PassengerTransportationRoadInter-city BusesSchool BusConventionnalGasoline,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,SCB,___,,CONV,DSL,,EX,PASTRAROABUSSCB___CONVDSL_EX,PassengerTransportationRoadInter-city BusesSchool BusConventionnalDiesel,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,SCB,___,,CONV,RDSL,,EX,PASTRAROABUSSCB___CONVRDSL_EX,PassengerTransportationRoadInter-city BusesSchool BusConventionnalRenewable Diesel,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,SCB,___,,CONV,PRO,,EX,PASTRAROABUSSCB___CONVPRO_EX,PassengerTransportationRoadInter-city BusesSchool BusConventionnalPropane,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,RSH,,CONV,NGA,,EX,PASTRAROACAR___RSHCONVNGA_EX,PassengerTransportationRoadCarsPaid RidershareConventionnalNatural Gas,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,RSH,,CONV,GAS,,EX,PASTRAROACAR___RSHCONVGAS_EX,PassengerTransportationRoadCarsPaid RidershareConventionnalGasoline,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,RSH,,CONV,DSL,,EX,PASTRAROACAR___RSHCONVDSL_EX,PassengerTransportationRoadCarsPaid RidershareConventionnalDiesel,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,RSH,,CONV,RDSL,,EX,PASTRAROACAR___RSHCONVRDSL_EX,PassengerTransportationRoadCarsPaid RidershareConventionnalRenewable Diesel,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,RSH,,CONV,PRO,,EX,PASTRAROACAR___RSHCONVPRO_EX,PassengerTransportationRoadCarsPaid RidershareConventionnalPropane,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,TAX,,CONV,NGA,,EX,PASTRAROACAR___TAXCONVNGA_EX,PassengerTransportationRoadCarsTaxi passengerConventionnalNatural Gas,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,TAX,,CONV,GAS,,EX,PASTRAROACAR___TAXCONVGAS_EX,PassengerTransportationRoadCarsTaxi passengerConventionnalGasoline,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,TAX,,CONV,DSL,,EX,PASTRAROACAR___TAXCONVDSL_EX,PassengerTransportationRoadCarsTaxi passengerConventionnalDiesel,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,TAX,,CONV,RDSL,,EX,PASTRAROACAR___TAXCONVRDSL_EX,PassengerTransportationRoadCarsTaxi passengerConventionnalRenewable Diesel,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,TAX,,CONV,PRO,,EX,PASTRAROACAR___TAXCONVPRO_EX,PassengerTransportationRoadCarsTaxi passengerConventionnalPropane,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,ADR,,CONV,NGA,,EX,PASTRAROACAR___ADRCONVNGA_EX,PassengerTransportationRoadCarsAuto driverConventionnalNatural Gas,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,ADR,,CONV,GAS,,EX,PASTRAROACAR___ADRCONVGAS_EX,PassengerTransportationRoadCarsAuto driverConventionnalGasoline,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,ADR,,CONV,DSL,,EX,PASTRAROACAR___ADRCONVDSL_EX,PassengerTransportationRoadCarsAuto driverConventionnalDiesel,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,ADR,,CONV,RDSL,,EX,PASTRAROACAR___ADRCONVRDSL_EX,PassengerTransportationRoadCarsAuto driverConventionnalRenewable Diesel,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,ADR,,CONV,PRO,,EX,PASTRAROACAR___ADRCONVPRO_EX,PassengerTransportationRoadCarsAuto driverConventionnalPropane,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,APG,,CONV,NGA,,EX,PASTRAROACAR___APGCONVNGA_EX,PassengerTransportationRoadCarsAuto passengerConventionnalNatural Gas,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,APG,,CONV,GAS,,EX,PASTRAROACAR___APGCONVGAS_EX,PassengerTransportationRoadCarsAuto passengerConventionnalGasoline,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,APG,,CONV,DSL,,EX,PASTRAROACAR___APGCONVDSL_EX,PassengerTransportationRoadCarsAuto passengerConventionnalDiesel,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,APG,,CONV,RDSL,,EX,PASTRAROACAR___APGCONVRDSL_EX,PassengerTransportationRoadCarsAuto passengerConventionnalRenewable Diesel,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,APG,,CONV,PRO,,EX,PASTRAROACAR___APGCONVPRO_EX,PassengerTransportationRoadCarsAuto passengerConventionnalPropane,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,RSH,,CONV,NGA,,EX,PASTRAROATRULGTRSHCONVNGA_EX,PassengerTransportationRoadTruckPassenger Light TrucksPaid RidershareConventionnalNatural Gas,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,RSH,,CONV,GAS,,EX,PASTRAROATRULGTRSHCONVGAS_EX,PassengerTransportationRoadTruckPassenger Light TrucksPaid RidershareConventionnalGasoline,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,RSH,,CONV,DSL,,EX,PASTRAROATRULGTRSHCONVDSL_EX,PassengerTransportationRoadTruckPassenger Light TrucksPaid RidershareConventionnalDiesel,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,RSH,,CONV,RDSL,,EX,PASTRAROATRULGTRSHCONVRDSL_EX,PassengerTransportationRoadTruckPassenger Light TrucksPaid RidershareConventionnalRenewable Diesel,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,RSH,,CONV,PRO,,EX,PASTRAROATRULGTRSHCONVPRO_EX,PassengerTransportationRoadTruckPassenger Light TrucksPaid RidershareConventionnalPropane,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,TAX,,CONV,NGA,,EX,PASTRAROATRULGTTAXCONVNGA_EX,PassengerTransportationRoadTruckPassenger Light TrucksTaxi passengerConventionnalNatural Gas,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,TAX,,CONV,GAS,,EX,PASTRAROATRULGTTAXCONVGAS_EX,PassengerTransportationRoadTruckPassenger Light TrucksTaxi passengerConventionnalGasoline,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,TAX,,CONV,DSL,,EX,PASTRAROATRULGTTAXCONVDSL_EX,PassengerTransportationRoadTruckPassenger Light TrucksTaxi passengerConventionnalDiesel,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,TAX,,CONV,RDSL,,EX,PASTRAROATRULGTTAXCONVRDSL_EX,PassengerTransportationRoadTruckPassenger Light TrucksTaxi passengerConventionnalRenewable Diesel,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,TAX,,CONV,PRO,,EX,PASTRAROATRULGTTAXCONVPRO_EX,PassengerTransportationRoadTruckPassenger Light TrucksTaxi passengerConventionnalPropane,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,ADR,,CONV,NGA,,EX,PASTRAROATRULGTADRCONVNGA_EX,PassengerTransportationRoadTruckPassenger Light TrucksAuto driverConventionnalNatural Gas,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,ADR,,CONV,GAS,,EX,PASTRAROATRULGTADRCONVGAS_EX,PassengerTransportationRoadTruckPassenger Light TrucksAuto driverConventionnalGasoline,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,ADR,,CONV,DSL,,EX,PASTRAROATRULGTADRCONVDSL_EX,PassengerTransportationRoadTruckPassenger Light TrucksAuto driverConventionnalDiesel,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,ADR,,CONV,RDSL,,EX,PASTRAROATRULGTADRCONVRDSL_EX,PassengerTransportationRoadTruckPassenger Light TrucksAuto driverConventionnalRenewable Diesel,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,ADR,,CONV,PRO,,EX,PASTRAROATRULGTADRCONVPRO_EX,PassengerTransportationRoadTruckPassenger Light TrucksAuto driverConventionnalPropane,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,APG,,CONV,NGA,,EX,PASTRAROATRULGTAPGCONVNGA_EX,PassengerTransportationRoadTruckPassenger Light TrucksAuto passengerConventionnalNatural Gas,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,APG,,CONV,GAS,,EX,PASTRAROATRULGTAPGCONVGAS_EX,PassengerTransportationRoadTruckPassenger Light TrucksAuto passengerConventionnalGasoline,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,APG,,CONV,DSL,,EX,PASTRAROATRULGTAPGCONVDSL_EX,PassengerTransportationRoadTruckPassenger Light TrucksAuto passengerConventionnalDiesel,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,APG,,CONV,RDSL,,EX,PASTRAROATRULGTAPGCONVRDSL_EX,PassengerTransportationRoadTruckPassenger Light TrucksAuto passengerConventionnalRenewable Diesel,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,APG,,CONV,PRO,,EX,PASTRAROATRULGTAPGCONVPRO_EX,PassengerTransportationRoadTruckPassenger Light TrucksAuto passengerConventionnalPropane,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,MOR,___,___,,CONV,GAS,,EX,PASTRAROAMOR______CONVGAS_EX,PassengerTransportationRoadMotorcyclesConventionnalGasoline,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,WAL,___,___,,___,ETHOS,,EX,PASTRAROAWAL__________EX,PassengerTransportationRoadWalkDUMMY,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BIK,___,___,,___,BELC,,EX,PASTRAROABIK_________BELC_EX,PassengerTransportationRoadBicycleBattery Electric Vehicle,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BIK,___,___,,___,ETHOS,,EX,PASTRAROABIK__________EX,PassengerTransportationRoadBicycleDUMMY,PASTRA,kunits,Mvkt
+PAS,TRA,,,,RAI,REG,___,GOR,,,,,ARCH,PASTRARAIREG___GOR,PassengerTransportationRailRegionalGO rail,PASTRA,N/A,Mp.km
+PAS,TRA,,,,RAI,REG,___,UPX,,,,,ARCH,PASTRARAIREG___UPX,PassengerTransportationRailRegionalUp Express,PASTRA,N/A,Mp.km
+PAS,TRA,,,,RAI,SUB,___,TSU,,,,,ARCH,PASTRARAISUB___TSU,PassengerTransportationRailSubwaySubway,PASTRA,N/A,Mp.km
+PAS,TRA,,,,RAI,TRM,___,TST,,,,,ARCH,PASTRARAITRM___TST,PassengerTransportationRailTramwayStreetcar,PASTRA,N/A,Mp.km
+PAS,TRA,,,,ROA,BUS,IUB,GOB,,,,,ARCH,PASTRAROABUSIUBGOB,PassengerTransportationRoadInter-city BusesInter Urban BusGo Bus,PASTRA,N/A,Mp.km
+PAS,TRA,,,,ROA,BUS,URB,TBU,,,,,ARCH,PASTRAROABUSURBTBU,PassengerTransportationRoadInter-city BusesUrban Bus TTC Bus,PASTRA,N/A,Mp.km
+PAS,TRA,,,,ROA,BUS,URB,WTB,,,,,ARCH,PASTRAROABUSURBWTB,PassengerTransportationRoadInter-city BusesUrban Bus TTC Wheel trans para,PASTRA,N/A,Mp.km
+PAS,TRA,,,,ROA,BUS,IUB,MWAY,,,,,ARCH,PASTRAROABUSIUBMWAY,PassengerTransportationRoadInter-city BusesInter Urban BusMiway Bus,PASTRA,N/A,Mp.km
+PAS,TRA,,,,ROA,BUS,IUB,VIVA,,,,,ARCH,PASTRAROABUSIUBVIVA,PassengerTransportationRoadInter-city BusesInter Urban BusViva Bus,PASTRA,N/A,Mp.km
+PAS,TRA,,,,ROA,BUS,IUB,DURT,,,,,ARCH,PASTRAROABUSIUBDURT,PassengerTransportationRoadInter-city BusesInter Urban BusDurham RT,PASTRA,N/A,Mp.km
+PAS,TRA,,,,ROA,BUS,SCB,___,,,,,ARCH,PASTRAROABUSSCB___,PassengerTransportationRoadInter-city BusesSchool Bus,PASTRA,N/A,Mp.km
+PAS,TRA,,,,ROA,CAR,___,RSH,,,,,ARCH,PASTRAROACAR___RSH,PassengerTransportationRoadCarsPaid Ridershare,PASTRA,N/A,Mp.km
+PAS,TRA,,,,ROA,CAR,___,TAX,,,,,ARCH,PASTRAROACAR___TAX,PassengerTransportationRoadCarsTaxi passenger,PASTRA,N/A,Mp.km
+PAS,TRA,,,,ROA,CAR,___,ADR,,,,,ARCH,PASTRAROACAR___ADR,PassengerTransportationRoadCarsAuto driver,PASTRA,N/A,Mp.km
+PAS,TRA,,,,ROA,CAR,___,APG,,,,,ARCH,PASTRAROACAR___APG,PassengerTransportationRoadCarsAuto passenger,PASTRA,N/A,Mp.km
+PAS,TRA,,,,ROA,TRU,LGT,RSH,,,,,ARCH,PASTRAROATRULGTRSH,PassengerTransportationRoadTruckPassenger Light TrucksPaid Ridershare,PASTRA,N/A,Mp.km
+PAS,TRA,,,,ROA,TRU,LGT,TAX,,,,,ARCH,PASTRAROATRULGTTAX,PassengerTransportationRoadTruckPassenger Light TrucksTaxi passenger,PASTRA,N/A,Mp.km
+PAS,TRA,,,,ROA,TRU,LGT,ADR,,,,,ARCH,PASTRAROATRULGTADR,PassengerTransportationRoadTruckPassenger Light TrucksAuto driver,PASTRA,N/A,Mp.km
+PAS,TRA,,,,ROA,TRU,LGT,APG,,,,,ARCH,PASTRAROATRULGTAPG,PassengerTransportationRoadTruckPassenger Light TrucksAuto passenger,PASTRA,N/A,Mp.km
+PAS,TRA,,,,ROA,MOR,___,___,,,,,ARCH,PASTRAROAMOR______,PassengerTransportationRoadMotorcycles,PASTRA,N/A,Mp.km
+PAS,TRA,,,,ROA,WAL,___,___,,,,,ARCH,PASTRAROAWAL______,PassengerTransportationRoadWalk,PASTRA,N/A,Mp.km
+PAS,TRA,,,,ROA,BIK,___,___,,,,,ARCH,PASTRAROABIK______,PassengerTransportationRoadBicycle,PASTRA,N/A,Mp.km
+PAS,TRA,,IN,HW,RAI,REG,___,GOR,,,,,ARCH,PASTRAINHWRAIREG,PassengerTransportationIn BoundaryHome WorkRailRegionalGO rail,PASTRA,N/A,Mp.km
+PAS,TRA,,IN,HW,RAI,SUB,___,TSU,,,,,ARCH,PASTRAINHWRAISUB,PassengerTransportationIn BoundaryHome WorkRailSubwaySubway,PASTRA,N/A,Mp.km
+PAS,TRA,,IN,HW,RAI,TRM,___,TST,,,,,ARCH,PASTRAINHWRAITRM,PassengerTransportationIn BoundaryHome WorkRailTramwayStreetcar,PASTRA,N/A,Mp.km
+PAS,TRA,,IN,HW,ROA,BUS,IUB,GOB,,,,,ARCH,PASTRAINHWROABUS,PassengerTransportationIn BoundaryHome WorkRoadInter-city BusesInter Urban BusGo Bus,PASTRA,N/A,Mp.km
+PAS,TRA,,IN,HW,ROA,CAR,___,RSH,,,,,ARCH,PASTRAINHWROACAR,PassengerTransportationIn BoundaryHome WorkRoadCarsPaid Ridershare,PASTRA,N/A,Mp.km
+PAS,TRA,,IN,HW,ROA,TRU,LGT,RSH,,,,,ARCH,PASTRAINHWROATRU,PassengerTransportationIn BoundaryHome WorkRoadTruckPassenger Light TrucksPaid Ridershare,PASTRA,N/A,Mp.km
+PAS,TRA,,IN,HW,ROA,MOR,___,___,,,,,ARCH,PASTRAINHWROAMOR,PassengerTransportationIn BoundaryHome WorkRoadMotorcycles,PASTRA,N/A,Mp.km
+PAS,TRA,,IN,HW,ROA,WAL,___,___,,,,,ARCH,PASTRAINHWROAWAL,PassengerTransportationIn BoundaryHome WorkRoadWalk,PASTRA,N/A,Mp.km
+PAS,TRA,,IN,HW,ROA,BIK,___,___,,,,,ARCH,PASTRAINHWROABIK,PassengerTransportationIn BoundaryHome WorkRoadBicycle,PASTRA,N/A,Mp.km
+PAS,TRA,,IN,HS,RAI,REG,___,GOR,,,,,ARCH,PASTRAINHSRAIREG,PassengerTransportationIn BoundaryHome SchoolRailRegionalGO rail,PASTRA,N/A,Mp.km
+PAS,TRA,,IN,HS,RAI,SUB,___,TSU,,,,,ARCH,PASTRAINHSRAISUB,PassengerTransportationIn BoundaryHome SchoolRailSubwaySubway,PASTRA,N/A,Mp.km
+PAS,TRA,,IN,HS,RAI,TRM,___,TST,,,,,ARCH,PASTRAINHSRAITRM,PassengerTransportationIn BoundaryHome SchoolRailTramwayStreetcar,PASTRA,N/A,Mp.km
+PAS,TRA,,IN,HS,ROA,BUS,IUB,GOB,,,,,ARCH,PASTRAINHSROABUS,PassengerTransportationIn BoundaryHome SchoolRoadInter-city BusesInter Urban BusGo Bus,PASTRA,N/A,Mp.km
+PAS,TRA,,IN,HS,ROA,CAR,___,RSH,,,,,ARCH,PASTRAINHSROACAR,PassengerTransportationIn BoundaryHome SchoolRoadCarsPaid Ridershare,PASTRA,N/A,Mp.km
+PAS,TRA,,IN,HS,ROA,TRU,LGT,RSH,,,,,ARCH,PASTRAINHSROATRU,PassengerTransportationIn BoundaryHome SchoolRoadTruckPassenger Light TrucksPaid Ridershare,PASTRA,N/A,Mp.km
+PAS,TRA,,IN,HS,ROA,MOR,___,___,,,,,ARCH,PASTRAINHSROAMOR,PassengerTransportationIn BoundaryHome SchoolRoadMotorcycles,PASTRA,N/A,Mp.km
+PAS,TRA,,IN,HS,ROA,WAL,___,___,,,,,ARCH,PASTRAINHSROAWAL,PassengerTransportationIn BoundaryHome SchoolRoadWalk,PASTRA,N/A,Mp.km
+PAS,TRA,,IN,HS,ROA,BIK,___,___,,,,,ARCH,PASTRAINHSROABIK,PassengerTransportationIn BoundaryHome SchoolRoadBicycle,PASTRA,N/A,Mp.km
+PAS,TRA,,IN,HO,RAI,REG,___,GOR,,,,,ARCH,PASTRAINHORAIREG,PassengerTransportationIn BoundaryHome OtherRailRegionalGO rail,PASTRA,N/A,Mp.km
+PAS,TRA,,IN,HO,RAI,SUB,___,TSU,,,,,ARCH,PASTRAINHORAISUB,PassengerTransportationIn BoundaryHome OtherRailSubwaySubway,PASTRA,N/A,Mp.km
+PAS,TRA,,IN,HO,RAI,TRM,___,TST,,,,,ARCH,PASTRAINHORAITRM,PassengerTransportationIn BoundaryHome OtherRailTramwayStreetcar,PASTRA,N/A,Mp.km
+PAS,TRA,,IN,HO,ROA,BUS,IUB,GOB,,,,,ARCH,PASTRAINHOROABUS,PassengerTransportationIn BoundaryHome OtherRoadInter-city BusesInter Urban BusGo Bus,PASTRA,N/A,Mp.km
+PAS,TRA,,IN,HO,ROA,CAR,___,RSH,,,,,ARCH,PASTRAINHOROACAR,PassengerTransportationIn BoundaryHome OtherRoadCarsPaid Ridershare,PASTRA,N/A,Mp.km
+PAS,TRA,,IN,HO,ROA,TRU,LGT,RSH,,,,,ARCH,PASTRAINHOROATRU,PassengerTransportationIn BoundaryHome OtherRoadTruckPassenger Light TrucksPaid Ridershare,PASTRA,N/A,Mp.km
+PAS,TRA,,IN,HO,ROA,MOR,___,___,,,,,ARCH,PASTRAINHOROAMOR,PassengerTransportationIn BoundaryHome OtherRoadMotorcycles,PASTRA,N/A,Mp.km
+PAS,TRA,,IN,HO,ROA,WAL,___,___,,,,,ARCH,PASTRAINHOROAWAL,PassengerTransportationIn BoundaryHome OtherRoadWalk,PASTRA,N/A,Mp.km
+PAS,TRA,,IN,HO,ROA,BIK,___,___,,,,,ARCH,PASTRAINHOROABIK,PassengerTransportationIn BoundaryHome OtherRoadBicycle,PASTRA,N/A,Mp.km
+PAS,TRA,,IN,NH,RAI,REG,___,GOR,,,,,ARCH,PASTRAINNHRAIREG,PassengerTransportationIn BoundaryNon Home basedRailRegionalGO rail,PASTRA,N/A,Mp.km
+PAS,TRA,,IN,NH,RAI,SUB,___,TSU,,,,,ARCH,PASTRAINNHRAISUB,PassengerTransportationIn BoundaryNon Home basedRailSubwaySubway,PASTRA,N/A,Mp.km
+PAS,TRA,,IN,NH,RAI,TRM,___,TST,,,,,ARCH,PASTRAINNHRAITRM,PassengerTransportationIn BoundaryNon Home basedRailTramwayStreetcar,PASTRA,N/A,Mp.km
+PAS,TRA,,IN,NH,ROA,BUS,IUB,GOB,,,,,ARCH,PASTRAINNHROABUS,PassengerTransportationIn BoundaryNon Home basedRoadInter-city BusesInter Urban BusGo Bus,PASTRA,N/A,Mp.km
+PAS,TRA,,IN,NH,ROA,CAR,___,RSH,,,,,ARCH,PASTRAINNHROACAR,PassengerTransportationIn BoundaryNon Home basedRoadCarsPaid Ridershare,PASTRA,N/A,Mp.km
+PAS,TRA,,IN,NH,ROA,TRU,LGT,RSH,,,,,ARCH,PASTRAINNHROATRU,PassengerTransportationIn BoundaryNon Home basedRoadTruckPassenger Light TrucksPaid Ridershare,PASTRA,N/A,Mp.km
+PAS,TRA,,IN,NH,ROA,MOR,___,___,,,,,ARCH,PASTRAINNHROAMOR,PassengerTransportationIn BoundaryNon Home basedRoadMotorcycles,PASTRA,N/A,Mp.km
+PAS,TRA,,IN,NH,ROA,WAL,___,___,,,,,ARCH,PASTRAINNHROAWAL,PassengerTransportationIn BoundaryNon Home basedRoadWalk,PASTRA,N/A,Mp.km
+PAS,TRA,,IN,NH,ROA,BIK,___,___,,,,,ARCH,PASTRAINNHROABIK,PassengerTransportationIn BoundaryNon Home basedRoadBicycle,PASTRA,N/A,Mp.km
+PAS,TRA,,EXI,HW,RAI,REG,___,GOR,,,,,ARCH,PASTRAEXIHWRAIREG,PassengerTransportationExternal INHome WorkRailRegionalGO rail,PASTRA,N/A,Mp.km
+PAS,TRA,,EXI,HW,RAI,SUB,___,TSU,,,,,ARCH,PASTRAEXIHWRAISUB,PassengerTransportationExternal INHome WorkRailSubwaySubway,PASTRA,N/A,Mp.km
+PAS,TRA,,EXI,HW,RAI,TRM,___,TST,,,,,ARCH,PASTRAEXIHWRAITRM,PassengerTransportationExternal INHome WorkRailTramwayStreetcar,PASTRA,N/A,Mp.km
+PAS,TRA,,EXI,HW,ROA,BUS,IUB,GOB,,,,,ARCH,PASTRAEXIHWROABUS,PassengerTransportationExternal INHome WorkRoadInter-city BusesInter Urban BusGo Bus,PASTRA,N/A,Mp.km
+PAS,TRA,,EXI,HW,ROA,CAR,___,RSH,,,,,ARCH,PASTRAEXIHWROACAR,PassengerTransportationExternal INHome WorkRoadCarsPaid Ridershare,PASTRA,N/A,Mp.km
+PAS,TRA,,EXI,HW,ROA,TRU,LGT,RSH,,,,,ARCH,PASTRAEXIHWROATRU,PassengerTransportationExternal INHome WorkRoadTruckPassenger Light TrucksPaid Ridershare,PASTRA,N/A,Mp.km
+PAS,TRA,,EXI,HW,ROA,MOR,___,___,,,,,ARCH,PASTRAEXIHWROAMOR,PassengerTransportationExternal INHome WorkRoadMotorcycles,PASTRA,N/A,Mp.km
+PAS,TRA,,EXI,HW,ROA,WAL,___,___,,,,,ARCH,PASTRAEXIHWROAWAL,PassengerTransportationExternal INHome WorkRoadWalk,PASTRA,N/A,Mp.km
+PAS,TRA,,EXI,HW,ROA,BIK,___,___,,,,,ARCH,PASTRAEXIHWROABIK,PassengerTransportationExternal INHome WorkRoadBicycle,PASTRA,N/A,Mp.km
+PAS,TRA,,EXI,HS,RAI,REG,___,GOR,,,,,ARCH,PASTRAEXIHSRAIREG,PassengerTransportationExternal INHome SchoolRailRegionalGO rail,PASTRA,N/A,Mp.km
+PAS,TRA,,EXI,HS,RAI,SUB,___,TSU,,,,,ARCH,PASTRAEXIHSRAISUB,PassengerTransportationExternal INHome SchoolRailSubwaySubway,PASTRA,N/A,Mp.km
+PAS,TRA,,EXI,HS,RAI,TRM,___,TST,,,,,ARCH,PASTRAEXIHSRAITRM,PassengerTransportationExternal INHome SchoolRailTramwayStreetcar,PASTRA,N/A,Mp.km
+PAS,TRA,,EXI,HS,ROA,BUS,IUB,GOB,,,,,ARCH,PASTRAEXIHSROABUS,PassengerTransportationExternal INHome SchoolRoadInter-city BusesInter Urban BusGo Bus,PASTRA,N/A,Mp.km
+PAS,TRA,,EXI,HS,ROA,CAR,___,RSH,,,,,ARCH,PASTRAEXIHSROACAR,PassengerTransportationExternal INHome SchoolRoadCarsPaid Ridershare,PASTRA,N/A,Mp.km
+PAS,TRA,,EXI,HS,ROA,TRU,LGT,RSH,,,,,ARCH,PASTRAEXIHSROATRU,PassengerTransportationExternal INHome SchoolRoadTruckPassenger Light TrucksPaid Ridershare,PASTRA,N/A,Mp.km
+PAS,TRA,,EXI,HS,ROA,MOR,___,___,,,,,ARCH,PASTRAEXIHSROAMOR,PassengerTransportationExternal INHome SchoolRoadMotorcycles,PASTRA,N/A,Mp.km
+PAS,TRA,,EXI,HS,ROA,WAL,___,___,,,,,ARCH,PASTRAEXIHSROAWAL,PassengerTransportationExternal INHome SchoolRoadWalk,PASTRA,N/A,Mp.km
+PAS,TRA,,EXI,HS,ROA,BIK,___,___,,,,,ARCH,PASTRAEXIHSROABIK,PassengerTransportationExternal INHome SchoolRoadBicycle,PASTRA,N/A,Mp.km
+PAS,TRA,,EXI,HO,RAI,REG,___,GOR,,,,,ARCH,PASTRAEXIHORAIREG,PassengerTransportationExternal INHome OtherRailRegionalGO rail,PASTRA,N/A,Mp.km
+PAS,TRA,,EXI,HO,RAI,SUB,___,TSU,,,,,ARCH,PASTRAEXIHORAISUB,PassengerTransportationExternal INHome OtherRailSubwaySubway,PASTRA,N/A,Mp.km
+PAS,TRA,,EXI,HO,RAI,TRM,___,TST,,,,,ARCH,PASTRAEXIHORAITRM,PassengerTransportationExternal INHome OtherRailTramwayStreetcar,PASTRA,N/A,Mp.km
+PAS,TRA,,EXI,HO,ROA,BUS,IUB,GOB,,,,,ARCH,PASTRAEXIHOROABUS,PassengerTransportationExternal INHome OtherRoadInter-city BusesInter Urban BusGo Bus,PASTRA,N/A,Mp.km
+PAS,TRA,,EXI,HO,ROA,CAR,___,RSH,,,,,ARCH,PASTRAEXIHOROACAR,PassengerTransportationExternal INHome OtherRoadCarsPaid Ridershare,PASTRA,N/A,Mp.km
+PAS,TRA,,EXI,HO,ROA,TRU,LGT,RSH,,,,,ARCH,PASTRAEXIHOROATRU,PassengerTransportationExternal INHome OtherRoadTruckPassenger Light TrucksPaid Ridershare,PASTRA,N/A,Mp.km
+PAS,TRA,,EXI,HO,ROA,MOR,___,___,,,,,ARCH,PASTRAEXIHOROAMOR,PassengerTransportationExternal INHome OtherRoadMotorcycles,PASTRA,N/A,Mp.km
+PAS,TRA,,EXI,HO,ROA,WAL,___,___,,,,,ARCH,PASTRAEXIHOROAWAL,PassengerTransportationExternal INHome OtherRoadWalk,PASTRA,N/A,Mp.km
+PAS,TRA,,EXI,HO,ROA,BIK,___,___,,,,,ARCH,PASTRAEXIHOROABIK,PassengerTransportationExternal INHome OtherRoadBicycle,PASTRA,N/A,Mp.km
+PAS,TRA,,EXI,NH,RAI,REG,___,GOR,,,,,ARCH,PASTRAEXINHRAIREG,PassengerTransportationExternal INNon Home basedRailRegionalGO rail,PASTRA,N/A,Mp.km
+PAS,TRA,,EXI,NH,RAI,SUB,___,TSU,,,,,ARCH,PASTRAEXINHRAISUB,PassengerTransportationExternal INNon Home basedRailSubwaySubway,PASTRA,N/A,Mp.km
+PAS,TRA,,EXI,NH,RAI,TRM,___,TST,,,,,ARCH,PASTRAEXINHRAITRM,PassengerTransportationExternal INNon Home basedRailTramwayStreetcar,PASTRA,N/A,Mp.km
+PAS,TRA,,EXI,NH,ROA,BUS,IUB,GOB,,,,,ARCH,PASTRAEXINHROABUS,PassengerTransportationExternal INNon Home basedRoadInter-city BusesInter Urban BusGo Bus,PASTRA,N/A,Mp.km
+PAS,TRA,,EXI,NH,ROA,CAR,___,RSH,,,,,ARCH,PASTRAEXINHROACAR,PassengerTransportationExternal INNon Home basedRoadCarsPaid Ridershare,PASTRA,N/A,Mp.km
+PAS,TRA,,EXI,NH,ROA,TRU,LGT,RSH,,,,,ARCH,PASTRAEXINHROATRU,PassengerTransportationExternal INNon Home basedRoadTruckPassenger Light TrucksPaid Ridershare,PASTRA,N/A,Mp.km
+PAS,TRA,,EXI,NH,ROA,MOR,___,___,,,,,ARCH,PASTRAEXINHROAMOR,PassengerTransportationExternal INNon Home basedRoadMotorcycles,PASTRA,N/A,Mp.km
+PAS,TRA,,EXI,NH,ROA,WAL,___,___,,,,,ARCH,PASTRAEXINHROAWAL,PassengerTransportationExternal INNon Home basedRoadWalk,PASTRA,N/A,Mp.km
+PAS,TRA,,EXI,NH,ROA,BIK,___,___,,,,,ARCH,PASTRAEXINHROABIK,PassengerTransportationExternal INNon Home basedRoadBicycle,PASTRA,N/A,Mp.km
+PAS,TRA,,EXO,HW,RAI,REG,___,GOR,,,,,ARCH,PASTRAEXOHWRAIREG,PassengerTransportationExternal OUTHome WorkRailRegionalGO rail,PASTRA,N/A,Mp.km
+PAS,TRA,,EXO,HW,RAI,SUB,___,TSU,,,,,ARCH,PASTRAEXOHWRAISUB,PassengerTransportationExternal OUTHome WorkRailSubwaySubway,PASTRA,N/A,Mp.km
+PAS,TRA,,EXO,HW,RAI,TRM,___,TST,,,,,ARCH,PASTRAEXOHWRAITRM,PassengerTransportationExternal OUTHome WorkRailTramwayStreetcar,PASTRA,N/A,Mp.km
+PAS,TRA,,EXO,HW,ROA,BUS,IUB,GOB,,,,,ARCH,PASTRAEXOHWROABUS,PassengerTransportationExternal OUTHome WorkRoadInter-city BusesInter Urban BusGo Bus,PASTRA,N/A,Mp.km
+PAS,TRA,,EXO,HW,ROA,CAR,___,RSH,,,,,ARCH,PASTRAEXOHWROACAR,PassengerTransportationExternal OUTHome WorkRoadCarsPaid Ridershare,PASTRA,N/A,Mp.km
+PAS,TRA,,EXO,HW,ROA,TRU,LGT,RSH,,,,,ARCH,PASTRAEXOHWROATRU,PassengerTransportationExternal OUTHome WorkRoadTruckPassenger Light TrucksPaid Ridershare,PASTRA,N/A,Mp.km
+PAS,TRA,,EXO,HW,ROA,MOR,___,___,,,,,ARCH,PASTRAEXOHWROAMOR,PassengerTransportationExternal OUTHome WorkRoadMotorcycles,PASTRA,N/A,Mp.km
+PAS,TRA,,EXO,HW,ROA,WAL,___,___,,,,,ARCH,PASTRAEXOHWROAWAL,PassengerTransportationExternal OUTHome WorkRoadWalk,PASTRA,N/A,Mp.km
+PAS,TRA,,EXO,HW,ROA,BIK,___,___,,,,,ARCH,PASTRAEXOHWROABIK,PassengerTransportationExternal OUTHome WorkRoadBicycle,PASTRA,N/A,Mp.km
+PAS,TRA,,EXO,HS,RAI,REG,___,GOR,,,,,ARCH,PASTRAEXOHSRAIREG,PassengerTransportationExternal OUTHome SchoolRailRegionalGO rail,PASTRA,N/A,Mp.km
+PAS,TRA,,EXO,HS,RAI,SUB,___,TSU,,,,,ARCH,PASTRAEXOHSRAISUB,PassengerTransportationExternal OUTHome SchoolRailSubwaySubway,PASTRA,N/A,Mp.km
+PAS,TRA,,EXO,HS,RAI,TRM,___,TST,,,,,ARCH,PASTRAEXOHSRAITRM,PassengerTransportationExternal OUTHome SchoolRailTramwayStreetcar,PASTRA,N/A,Mp.km
+PAS,TRA,,EXO,HS,ROA,BUS,IUB,GOB,,,,,ARCH,PASTRAEXOHSROABUS,PassengerTransportationExternal OUTHome SchoolRoadInter-city BusesInter Urban BusGo Bus,PASTRA,N/A,Mp.km
+PAS,TRA,,EXO,HS,ROA,CAR,___,RSH,,,,,ARCH,PASTRAEXOHSROACAR,PassengerTransportationExternal OUTHome SchoolRoadCarsPaid Ridershare,PASTRA,N/A,Mp.km
+PAS,TRA,,EXO,HS,ROA,TRU,LGT,RSH,,,,,ARCH,PASTRAEXOHSROATRU,PassengerTransportationExternal OUTHome SchoolRoadTruckPassenger Light TrucksPaid Ridershare,PASTRA,N/A,Mp.km
+PAS,TRA,,EXO,HS,ROA,MOR,___,___,,,,,ARCH,PASTRAEXOHSROAMOR,PassengerTransportationExternal OUTHome SchoolRoadMotorcycles,PASTRA,N/A,Mp.km
+PAS,TRA,,EXO,HS,ROA,WAL,___,___,,,,,ARCH,PASTRAEXOHSROAWAL,PassengerTransportationExternal OUTHome SchoolRoadWalk,PASTRA,N/A,Mp.km
+PAS,TRA,,EXO,HS,ROA,BIK,___,___,,,,,ARCH,PASTRAEXOHSROABIK,PassengerTransportationExternal OUTHome SchoolRoadBicycle,PASTRA,N/A,Mp.km
+PAS,TRA,,EXO,HO,RAI,REG,___,GOR,,,,,ARCH,PASTRAEXOHORAIREG,PassengerTransportationExternal OUTHome OtherRailRegionalGO rail,PASTRA,N/A,Mp.km
+PAS,TRA,,EXO,HO,RAI,SUB,___,TSU,,,,,ARCH,PASTRAEXOHORAISUB,PassengerTransportationExternal OUTHome OtherRailSubwaySubway,PASTRA,N/A,Mp.km
+PAS,TRA,,EXO,HO,RAI,TRM,___,TST,,,,,ARCH,PASTRAEXOHORAITRM,PassengerTransportationExternal OUTHome OtherRailTramwayStreetcar,PASTRA,N/A,Mp.km
+PAS,TRA,,EXO,HO,ROA,BUS,IUB,GOB,,,,,ARCH,PASTRAEXOHOROABUS,PassengerTransportationExternal OUTHome OtherRoadInter-city BusesInter Urban BusGo Bus,PASTRA,N/A,Mp.km
+PAS,TRA,,EXO,HO,ROA,CAR,___,RSH,,,,,ARCH,PASTRAEXOHOROACAR,PassengerTransportationExternal OUTHome OtherRoadCarsPaid Ridershare,PASTRA,N/A,Mp.km
+PAS,TRA,,EXO,HO,ROA,TRU,LGT,RSH,,,,,ARCH,PASTRAEXOHOROATRU,PassengerTransportationExternal OUTHome OtherRoadTruckPassenger Light TrucksPaid Ridershare,PASTRA,N/A,Mp.km
+PAS,TRA,,EXO,HO,ROA,MOR,___,___,,,,,ARCH,PASTRAEXOHOROAMOR,PassengerTransportationExternal OUTHome OtherRoadMotorcycles,PASTRA,N/A,Mp.km
+PAS,TRA,,EXO,HO,ROA,WAL,___,___,,,,,ARCH,PASTRAEXOHOROAWAL,PassengerTransportationExternal OUTHome OtherRoadWalk,PASTRA,N/A,Mp.km
+PAS,TRA,,EXO,HO,ROA,BIK,___,___,,,,,ARCH,PASTRAEXOHOROABIK,PassengerTransportationExternal OUTHome OtherRoadBicycle,PASTRA,N/A,Mp.km
+PAS,TRA,,EXO,NH,RAI,REG,___,GOR,,,,,ARCH,PASTRAEXONHRAIREG,PassengerTransportationExternal OUTNon Home basedRailRegionalGO rail,PASTRA,N/A,Mp.km
+PAS,TRA,,EXO,NH,RAI,SUB,___,TSU,,,,,ARCH,PASTRAEXONHRAISUB,PassengerTransportationExternal OUTNon Home basedRailSubwaySubway,PASTRA,N/A,Mp.km
+PAS,TRA,,EXO,NH,RAI,TRM,___,TST,,,,,ARCH,PASTRAEXONHRAITRM,PassengerTransportationExternal OUTNon Home basedRailTramwayStreetcar,PASTRA,N/A,Mp.km
+PAS,TRA,,EXO,NH,ROA,BUS,IUB,GOB,,,,,ARCH,PASTRAEXONHROABUS,PassengerTransportationExternal OUTNon Home basedRoadInter-city BusesInter Urban BusGo Bus,PASTRA,N/A,Mp.km
+PAS,TRA,,EXO,NH,ROA,CAR,___,RSH,,,,,ARCH,PASTRAEXONHROACAR,PassengerTransportationExternal OUTNon Home basedRoadCarsPaid Ridershare,PASTRA,N/A,Mp.km
+PAS,TRA,,EXO,NH,ROA,TRU,LGT,RSH,,,,,ARCH,PASTRAEXONHROATRU,PassengerTransportationExternal OUTNon Home basedRoadTruckPassenger Light TrucksPaid Ridershare,PASTRA,N/A,Mp.km
+PAS,TRA,,EXO,NH,ROA,MOR,___,___,,,,,ARCH,PASTRAEXONHROAMOR,PassengerTransportationExternal OUTNon Home basedRoadMotorcycles,PASTRA,N/A,Mp.km
+PAS,TRA,,EXO,NH,ROA,WAL,___,___,,,,,ARCH,PASTRAEXONHROAWAL,PassengerTransportationExternal OUTNon Home basedRoadWalk,PASTRA,N/A,Mp.km
+PAS,TRA,,EXO,NH,ROA,BIK,___,___,,,,,ARCH,PASTRAEXONHROABIK,PassengerTransportationExternal OUTNon Home basedRoadBicycle,PASTRA,N/A,Mp.km
+PAS,TRA,,IN,HW,RAI,REG,,,,,,,ARCH,PASTRAINHW,PassengerTransportationIn BoundaryHome WorkRailRegional,PASTRA,N/A,Mp.km
+PAS,TRA,,IN,HS,RAI,REG,,,,,,,ARCH,PASTRAINHS,PassengerTransportationIn BoundaryHome SchoolRailRegional,PASTRA,N/A,Mp.km
+PAS,TRA,,IN,HO,RAI,REG,,,,,,,ARCH,PASTRAINHO,PassengerTransportationIn BoundaryHome OtherRailRegional,PASTRA,N/A,Mp.km
+PAS,TRA,,IN,NH,RAI,REG,,,,,,,ARCH,PASTRAINNH,PassengerTransportationIn BoundaryNon Home basedRailRegional,PASTRA,N/A,Mp.km
+PAS,TRA,,EXI,HW,RAI,REG,,,,,,,ARCH,PASTRAEXIHW,PassengerTransportationExternal INHome WorkRailRegional,PASTRA,N/A,Mp.km
+PAS,TRA,,EXI,HS,RAI,REG,,,,,,,ARCH,PASTRAEXIHS,PassengerTransportationExternal INHome SchoolRailRegional,PASTRA,N/A,Mp.km
+PAS,TRA,,EXI,HO,RAI,REG,,,,,,,ARCH,PASTRAEXIHO,PassengerTransportationExternal INHome OtherRailRegional,PASTRA,N/A,Mp.km
+PAS,TRA,,EXI,NH,RAI,REG,,,,,,,ARCH,PASTRAEXINH,PassengerTransportationExternal INNon Home basedRailRegional,PASTRA,N/A,Mp.km
+PAS,TRA,,EXO,HW,RAI,REG,,,,,,,ARCH,PASTRAEXOHW,PassengerTransportationExternal OUTHome WorkRailRegional,PASTRA,N/A,Mp.km
+PAS,TRA,,EXO,HS,RAI,REG,,,,,,,ARCH,PASTRAEXOHS,PassengerTransportationExternal OUTHome SchoolRailRegional,PASTRA,N/A,Mp.km
+PAS,TRA,,EXO,HO,RAI,REG,,,,,,,ARCH,PASTRAEXOHO,PassengerTransportationExternal OUTHome OtherRailRegional,PASTRA,N/A,Mp.km
+PAS,TRA,,EXO,NH,RAI,REG,,,,,,,ARCH,PASTRAEXONH,PassengerTransportationExternal OUTNon Home basedRailRegional,PASTRA,N/A,Mp.km
+PAS,TRA,,,,RAI,REG,___,GOR,,___,DSL,,EX,PASTRARAIREG___GOR___DSL_EX,PassengerTransportationRailRegionalGO railDiesel,PASTRA,kunits,Mvkt
+PAS,TRA,,,,RAI,REG,___,GOR,,___,RDSL,,EX,PASTRARAIREG___GOR___RDSL_EX,PassengerTransportationRailRegionalGO railRenewable Diesel,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,MWAY,,CONV,DSL,,EX,PASTRAROABUSIUBMWAYCONVDSL_EX,PassengerTransportationRoadInter-city BusesInter Urban BusMiway BusConventionnalDiesel,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,MWAY,,CONV,RDSL,,EX,PASTRAROABUSIUBMWAYCONVRDSL_EX,PassengerTransportationRoadInter-city BusesInter Urban BusMiway BusConventionnalRenewable Diesel,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,URB,TBU,,CONV,DSL,,EX,PASTRAROABUSURBTBUCONVDSL_EX,PassengerTransportationRoadInter-city BusesUrban Bus TTC BusConventionnalDiesel,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,URB,TBU,,CONV,RDSL,,EX,PASTRAROABUSURBTBUCONVRDSL_EX,PassengerTransportationRoadInter-city BusesUrban Bus TTC BusConventionnalRenewable Diesel,PASTRA,kunits,Mvkt
+PAS,TRA,,,,RAI,TRM,___,TST,,___,ELC,,EX,PASTRARAITRM___TST___ELC_EX,PassengerTransportationRailTramwayStreetcarElectricity,PASTRA,kunits,Mvkt
+PAS,TRA,,,,RAI,SUB,___,TSU,,___,ELC,,EX,PASTRARAISUB___TSU___ELC_EX,PassengerTransportationRailSubwaySubwayElectricity,PASTRA,kunits,Mvkt
+PAS,TRA,,,,RAI,REG,___,UPX,,___,DSL,,EX,PASTRARAIREG___UPX___DSL_EX,PassengerTransportationRailRegionalUp ExpressDiesel,PASTRA,kunits,Mvkt
+PAS,TRA,,,,RAI,REG,___,UPX,,___,RDSL,,EX,PASTRARAIREG___UPX___RDSL_EX,PassengerTransportationRailRegionalUp ExpressRenewable Diesel,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,VIVA,,CONV,DSL,,EX,PASTRAROABUSIUBVIVACONVDSL_EX,PassengerTransportationRoadInter-city BusesInter Urban BusViva BusConventionnalDiesel,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,VIVA,,CONV,RDSL,,EX,PASTRAROABUSIUBVIVACONVRDSL_EX,PassengerTransportationRoadInter-city BusesInter Urban BusViva BusConventionnalRenewable Diesel,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,URB,WTB,,CONV,DSL,,EX,PASTRAROABUSURBWTBCONVDSL_EX,PassengerTransportationRoadInter-city BusesUrban Bus TTC Wheel trans paraConventionnalDiesel,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,URB,WTB,,CONV,RDSL,,EX,PASTRAROABUSURBWTBCONVRDSL_EX,PassengerTransportationRoadInter-city BusesUrban Bus TTC Wheel trans paraConventionnalRenewable Diesel,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,DURT,25,BEV,BELC,___,NEW,PASTRAROABUSIUBDURTBEVBELC____25,PassengerTransportationRoadInter-city BusesInter Urban BusDurham RTBattery Electric VehicleBattery Electric Vehicle2025,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,DURT,25,CATE,DSL,ELC,NEW,PASTRAROABUSIUBDURTCATEDSLELC_25,PassengerTransportationRoadInter-city BusesInter Urban BusDurham RTCatenaryDieselElectricity2025,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,DURT,25,CATE,ELC,___,NEW,PASTRAROABUSIUBDURTCATEELC____25,PassengerTransportationRoadInter-city BusesInter Urban BusDurham RTCatenaryElectricity2025,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,DURT,25,CATE,NGA,ELC,NEW,PASTRAROABUSIUBDURTCATENGAELC_25,PassengerTransportationRoadInter-city BusesInter Urban BusDurham RTCatenaryNatural GasElectricity2025,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,DURT,25,CATE,RDSL,ELC,NEW,PASTRAROABUSIUBDURTCATERDSLELC_25,PassengerTransportationRoadInter-city BusesInter Urban BusDurham RTCatenaryRenewable DieselElectricity2025,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,DURT,23,CELL,HH2,___,NEW,PASTRAROABUSIUBDURTCELLHH2____23,PassengerTransportationRoadInter-city BusesInter Urban BusDurham RTFuel Cell VehicleHydrogen2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,DURT,16,CONV,DSL,___,NEW,PASTRAROABUSIUBDURTCONVDSL____16,PassengerTransportationRoadInter-city BusesInter Urban BusDurham RTConventionnalDiesel2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,DURT,23,CONV,DSL,___,NEW,PASTRAROABUSIUBDURTCONVDSL____23,PassengerTransportationRoadInter-city BusesInter Urban BusDurham RTConventionnalDiesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,DURT,16,CONV,GAS,___,NEW,PASTRAROABUSIUBDURTCONVGAS____16,PassengerTransportationRoadInter-city BusesInter Urban BusDurham RTConventionnalGasoline2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,DURT,23,CONV,GAS,___,NEW,PASTRAROABUSIUBDURTCONVGAS____23,PassengerTransportationRoadInter-city BusesInter Urban BusDurham RTConventionnalGasoline2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,DURT,23,CONV,NGA,___,NEW,PASTRAROABUSIUBDURTCONVNGA____23,PassengerTransportationRoadInter-city BusesInter Urban BusDurham RTConventionnalNatural Gas2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,DURT,23,CONV,RDSL,___,NEW,PASTRAROABUSIUBDURTCONVRDSL____23,PassengerTransportationRoadInter-city BusesInter Urban BusDurham RTConventionnalRenewable Diesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,DURT,23,HYB,DSL,___,NEW,PASTRAROABUSIUBDURTHYBDSL____23,PassengerTransportationRoadInter-city BusesInter Urban BusDurham RTHybridDiesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,DURT,23,HYB,RDSL,___,NEW,PASTRAROABUSIUBDURTHYBRDSL____23,PassengerTransportationRoadInter-city BusesInter Urban BusDurham RTHybridRenewable Diesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,DURT,23,PHEV,DSL,ELC,NEW,PASTRAROABUSIUBDURTPHEVDSLELC_23,PassengerTransportationRoadInter-city BusesInter Urban BusDurham RTPlug Hybrid VehicleDieselElectricity2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,DURT,23,PHEV,NGA,ELC,NEW,PASTRAROABUSIUBDURTPHEVNGAELC_23,PassengerTransportationRoadInter-city BusesInter Urban BusDurham RTPlug Hybrid VehicleNatural GasElectricity2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,DURT,23,PHEV,RDSL,ELC,NEW,PASTRAROABUSIUBDURTPHEVRDSLELC_23,PassengerTransportationRoadInter-city BusesInter Urban BusDurham RTPlug Hybrid VehicleRenewable DieselElectricity2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,GOB,25,BEV,BELC,___,NEW,PASTRAROABUSIUBGOBBEVBELC____25,PassengerTransportationRoadInter-city BusesInter Urban BusGo BusBattery Electric VehicleBattery Electric Vehicle2025,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,GOB,25,CATE,DSL,ELC,NEW,PASTRAROABUSIUBGOBCATEDSLELC_25,PassengerTransportationRoadInter-city BusesInter Urban BusGo BusCatenaryDieselElectricity2025,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,GOB,25,CATE,ELC,___,NEW,PASTRAROABUSIUBGOBCATEELC____25,PassengerTransportationRoadInter-city BusesInter Urban BusGo BusCatenaryElectricity2025,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,GOB,25,CATE,NGA,ELC,NEW,PASTRAROABUSIUBGOBCATENGAELC_25,PassengerTransportationRoadInter-city BusesInter Urban BusGo BusCatenaryNatural GasElectricity2025,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,GOB,25,CATE,RDSL,ELC,NEW,PASTRAROABUSIUBGOBCATERDSLELC_25,PassengerTransportationRoadInter-city BusesInter Urban BusGo BusCatenaryRenewable DieselElectricity2025,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,GOB,23,CELL,HH2,___,NEW,PASTRAROABUSIUBGOBCELLHH2____23,PassengerTransportationRoadInter-city BusesInter Urban BusGo BusFuel Cell VehicleHydrogen2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,GOB,16,CONV,DSL,___,NEW,PASTRAROABUSIUBGOBCONVDSL____16,PassengerTransportationRoadInter-city BusesInter Urban BusGo BusConventionnalDiesel2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,GOB,23,CONV,DSL,___,NEW,PASTRAROABUSIUBGOBCONVDSL____23,PassengerTransportationRoadInter-city BusesInter Urban BusGo BusConventionnalDiesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,GOB,16,CONV,GAS,___,NEW,PASTRAROABUSIUBGOBCONVGAS____16,PassengerTransportationRoadInter-city BusesInter Urban BusGo BusConventionnalGasoline2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,GOB,23,CONV,GAS,___,NEW,PASTRAROABUSIUBGOBCONVGAS____23,PassengerTransportationRoadInter-city BusesInter Urban BusGo BusConventionnalGasoline2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,GOB,23,CONV,NGA,___,NEW,PASTRAROABUSIUBGOBCONVNGA____23,PassengerTransportationRoadInter-city BusesInter Urban BusGo BusConventionnalNatural Gas2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,GOB,23,CONV,RDSL,___,NEW,PASTRAROABUSIUBGOBCONVRDSL____23,PassengerTransportationRoadInter-city BusesInter Urban BusGo BusConventionnalRenewable Diesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,GOB,23,HYB,DSL,___,NEW,PASTRAROABUSIUBGOBHYBDSL____23,PassengerTransportationRoadInter-city BusesInter Urban BusGo BusHybridDiesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,GOB,23,HYB,RDSL,___,NEW,PASTRAROABUSIUBGOBHYBRDSL____23,PassengerTransportationRoadInter-city BusesInter Urban BusGo BusHybridRenewable Diesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,GOB,23,PHEV,DSL,ELC,NEW,PASTRAROABUSIUBGOBPHEVDSLELC_23,PassengerTransportationRoadInter-city BusesInter Urban BusGo BusPlug Hybrid VehicleDieselElectricity2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,GOB,23,PHEV,NGA,ELC,NEW,PASTRAROABUSIUBGOBPHEVNGAELC_23,PassengerTransportationRoadInter-city BusesInter Urban BusGo BusPlug Hybrid VehicleNatural GasElectricity2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,GOB,23,PHEV,RDSL,ELC,NEW,PASTRAROABUSIUBGOBPHEVRDSLELC_23,PassengerTransportationRoadInter-city BusesInter Urban BusGo BusPlug Hybrid VehicleRenewable DieselElectricity2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,RAI,REG,___,GOR,16,___,DSL,___,NEW,PASTRARAIREG___GOR___DSL____16,PassengerTransportationRailRegionalGO railDiesel2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,RAI,REG,___,GOR,23,___,DSL,___,NEW,PASTRARAIREG___GOR___DSL____23,PassengerTransportationRailRegionalGO railDiesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,RAI,REG,___,GOR,16,___,ELC,___,NEW,PASTRARAIREG___GOR___ELC____16,PassengerTransportationRailRegionalGO railElectricity2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,RAI,REG,___,GOR,25,___,ELC,___,NEW,PASTRARAIREG___GOR___ELC____25,PassengerTransportationRailRegionalGO railElectricity2025,PASTRA,kunits,Mvkt
+PAS,TRA,,,,RAI,REG,___,GOR,25,___,HH2,___,NEW,PASTRARAIREG___GOR___HH2____25,PassengerTransportationRailRegionalGO railHydrogen2025,PASTRA,kunits,Mvkt
+PAS,TRA,,,,RAI,REG,___,GOR,23,___,RDSL,___,NEW,PASTRARAIREG___GOR___RDSL____23,PassengerTransportationRailRegionalGO railRenewable Diesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,MWAY,25,BEV,BELC,___,NEW,PASTRAROABUSIUBMWAYBEVBELC____25,PassengerTransportationRoadInter-city BusesInter Urban BusMiway BusBattery Electric VehicleBattery Electric Vehicle2025,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,MWAY,25,CATE,DSL,ELC,NEW,PASTRAROABUSIUBMWAYCATEDSLELC_25,PassengerTransportationRoadInter-city BusesInter Urban BusMiway BusCatenaryDieselElectricity2025,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,MWAY,25,CATE,ELC,___,NEW,PASTRAROABUSIUBMWAYCATEELC____25,PassengerTransportationRoadInter-city BusesInter Urban BusMiway BusCatenaryElectricity2025,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,MWAY,25,CATE,NGA,ELC,NEW,PASTRAROABUSIUBMWAYCATENGAELC_25,PassengerTransportationRoadInter-city BusesInter Urban BusMiway BusCatenaryNatural GasElectricity2025,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,MWAY,25,CATE,RDSL,ELC,NEW,PASTRAROABUSIUBMWAYCATERDSLELC_25,PassengerTransportationRoadInter-city BusesInter Urban BusMiway BusCatenaryRenewable DieselElectricity2025,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,MWAY,23,CELL,HH2,___,NEW,PASTRAROABUSIUBMWAYCELLHH2____23,PassengerTransportationRoadInter-city BusesInter Urban BusMiway BusFuel Cell VehicleHydrogen2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,MWAY,16,CONV,DSL,___,NEW,PASTRAROABUSIUBMWAYCONVDSL____16,PassengerTransportationRoadInter-city BusesInter Urban BusMiway BusConventionnalDiesel2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,MWAY,23,CONV,DSL,___,NEW,PASTRAROABUSIUBMWAYCONVDSL____23,PassengerTransportationRoadInter-city BusesInter Urban BusMiway BusConventionnalDiesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,MWAY,16,CONV,GAS,___,NEW,PASTRAROABUSIUBMWAYCONVGAS____16,PassengerTransportationRoadInter-city BusesInter Urban BusMiway BusConventionnalGasoline2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,MWAY,23,CONV,GAS,___,NEW,PASTRAROABUSIUBMWAYCONVGAS____23,PassengerTransportationRoadInter-city BusesInter Urban BusMiway BusConventionnalGasoline2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,MWAY,23,CONV,NGA,___,NEW,PASTRAROABUSIUBMWAYCONVNGA____23,PassengerTransportationRoadInter-city BusesInter Urban BusMiway BusConventionnalNatural Gas2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,MWAY,23,CONV,RDSL,___,NEW,PASTRAROABUSIUBMWAYCONVRDSL____23,PassengerTransportationRoadInter-city BusesInter Urban BusMiway BusConventionnalRenewable Diesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,MWAY,23,HYB,DSL,___,NEW,PASTRAROABUSIUBMWAYHYBDSL____23,PassengerTransportationRoadInter-city BusesInter Urban BusMiway BusHybridDiesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,MWAY,23,HYB,RDSL,___,NEW,PASTRAROABUSIUBMWAYHYBRDSL____23,PassengerTransportationRoadInter-city BusesInter Urban BusMiway BusHybridRenewable Diesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,MWAY,23,PHEV,DSL,ELC,NEW,PASTRAROABUSIUBMWAYPHEVDSLELC_23,PassengerTransportationRoadInter-city BusesInter Urban BusMiway BusPlug Hybrid VehicleDieselElectricity2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,MWAY,23,PHEV,NGA,ELC,NEW,PASTRAROABUSIUBMWAYPHEVNGAELC_23,PassengerTransportationRoadInter-city BusesInter Urban BusMiway BusPlug Hybrid VehicleNatural GasElectricity2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,MWAY,23,PHEV,RDSL,ELC,NEW,PASTRAROABUSIUBMWAYPHEVRDSLELC_23,PassengerTransportationRoadInter-city BusesInter Urban BusMiway BusPlug Hybrid VehicleRenewable DieselElectricity2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,URB,TBU,23,BEV,BELC,___,NEW,PASTRAROABUSURBTBUBEVBELC____23,PassengerTransportationRoadInter-city BusesUrban Bus TTC BusBattery Electric VehicleBattery Electric Vehicle2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,URB,TBU,23,CELL,HH2,___,NEW,PASTRAROABUSURBTBUCELLHH2____23,PassengerTransportationRoadInter-city BusesUrban Bus TTC BusFuel Cell VehicleHydrogen2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,URB,TBU,16,CONV,DSL,___,NEW,PASTRAROABUSURBTBUCONVDSL____16,PassengerTransportationRoadInter-city BusesUrban Bus TTC BusConventionnalDiesel2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,URB,TBU,23,CONV,DSL,___,NEW,PASTRAROABUSURBTBUCONVDSL____23,PassengerTransportationRoadInter-city BusesUrban Bus TTC BusConventionnalDiesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,URB,TBU,16,CONV,GAS,___,NEW,PASTRAROABUSURBTBUCONVGAS____16,PassengerTransportationRoadInter-city BusesUrban Bus TTC BusConventionnalGasoline2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,URB,TBU,23,CONV,GAS,___,NEW,PASTRAROABUSURBTBUCONVGAS____23,PassengerTransportationRoadInter-city BusesUrban Bus TTC BusConventionnalGasoline2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,URB,TBU,16,CONV,NGA,___,NEW,PASTRAROABUSURBTBUCONVNGA____16,PassengerTransportationRoadInter-city BusesUrban Bus TTC BusConventionnalNatural Gas2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,URB,TBU,23,CONV,NGA,___,NEW,PASTRAROABUSURBTBUCONVNGA____23,PassengerTransportationRoadInter-city BusesUrban Bus TTC BusConventionnalNatural Gas2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,URB,TBU,23,CONV,RDSL,___,NEW,PASTRAROABUSURBTBUCONVRDSL____23,PassengerTransportationRoadInter-city BusesUrban Bus TTC BusConventionnalRenewable Diesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,RAI,TRM,___,TST,16,___,DSL,___,NEW,PASTRARAITRM___TST___DSL____16,PassengerTransportationRailTramwayStreetcarDiesel2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,RAI,TRM,___,TST,23,___,DSL,___,NEW,PASTRARAITRM___TST___DSL____23,PassengerTransportationRailTramwayStreetcarDiesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,RAI,TRM,___,TST,16,___,ELC,___,NEW,PASTRARAITRM___TST___ELC____16,PassengerTransportationRailTramwayStreetcarElectricity2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,RAI,TRM,___,TST,25,___,ELC,___,NEW,PASTRARAITRM___TST___ELC____25,PassengerTransportationRailTramwayStreetcarElectricity2025,PASTRA,kunits,Mvkt
+PAS,TRA,,,,RAI,TRM,___,TST,25,___,HH2,___,NEW,PASTRARAITRM___TST___HH2____25,PassengerTransportationRailTramwayStreetcarHydrogen2025,PASTRA,kunits,Mvkt
+PAS,TRA,,,,RAI,TRM,___,TST,23,___,RDSL,___,NEW,PASTRARAITRM___TST___RDSL____23,PassengerTransportationRailTramwayStreetcarRenewable Diesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,RAI,SUB,___,TSU,16,___,DSL,___,NEW,PASTRARAISUB___TSU___DSL____16,PassengerTransportationRailSubwaySubwayDiesel2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,RAI,SUB,___,TSU,23,___,DSL,___,NEW,PASTRARAISUB___TSU___DSL____23,PassengerTransportationRailSubwaySubwayDiesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,RAI,SUB,___,TSU,16,___,ELC,___,NEW,PASTRARAISUB___TSU___ELC____16,PassengerTransportationRailSubwaySubwayElectricity2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,RAI,SUB,___,TSU,25,___,ELC,___,NEW,PASTRARAISUB___TSU___ELC____25,PassengerTransportationRailSubwaySubwayElectricity2025,PASTRA,kunits,Mvkt
+PAS,TRA,,,,RAI,SUB,___,TSU,25,___,HH2,___,NEW,PASTRARAISUB___TSU___HH2____25,PassengerTransportationRailSubwaySubwayHydrogen2025,PASTRA,kunits,Mvkt
+PAS,TRA,,,,RAI,SUB,___,TSU,23,___,RDSL,___,NEW,PASTRARAISUB___TSU___RDSL____23,PassengerTransportationRailSubwaySubwayRenewable Diesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,RAI,REG,___,UPX,16,___,DSL,___,NEW,PASTRARAIREG___UPX___DSL____16,PassengerTransportationRailRegionalUp ExpressDiesel2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,RAI,REG,___,UPX,23,___,DSL,___,NEW,PASTRARAIREG___UPX___DSL____23,PassengerTransportationRailRegionalUp ExpressDiesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,RAI,REG,___,UPX,16,___,ELC,___,NEW,PASTRARAIREG___UPX___ELC____16,PassengerTransportationRailRegionalUp ExpressElectricity2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,RAI,REG,___,UPX,25,___,ELC,___,NEW,PASTRARAIREG___UPX___ELC____25,PassengerTransportationRailRegionalUp ExpressElectricity2025,PASTRA,kunits,Mvkt
+PAS,TRA,,,,RAI,REG,___,UPX,25,___,HH2,___,NEW,PASTRARAIREG___UPX___HH2____25,PassengerTransportationRailRegionalUp ExpressHydrogen2025,PASTRA,kunits,Mvkt
+PAS,TRA,,,,RAI,REG,___,UPX,23,___,RDSL,___,NEW,PASTRARAIREG___UPX___RDSL____23,PassengerTransportationRailRegionalUp ExpressRenewable Diesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,VIVA,25,BEV,BELC,___,NEW,PASTRAROABUSIUBVIVABEVBELC____25,PassengerTransportationRoadInter-city BusesInter Urban BusViva BusBattery Electric VehicleBattery Electric Vehicle2025,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,VIVA,25,CATE,DSL,ELC,NEW,PASTRAROABUSIUBVIVACATEDSLELC_25,PassengerTransportationRoadInter-city BusesInter Urban BusViva BusCatenaryDieselElectricity2025,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,VIVA,25,CATE,ELC,___,NEW,PASTRAROABUSIUBVIVACATEELC____25,PassengerTransportationRoadInter-city BusesInter Urban BusViva BusCatenaryElectricity2025,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,VIVA,25,CATE,NGA,ELC,NEW,PASTRAROABUSIUBVIVACATENGAELC_25,PassengerTransportationRoadInter-city BusesInter Urban BusViva BusCatenaryNatural GasElectricity2025,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,VIVA,25,CATE,RDSL,ELC,NEW,PASTRAROABUSIUBVIVACATERDSLELC_25,PassengerTransportationRoadInter-city BusesInter Urban BusViva BusCatenaryRenewable DieselElectricity2025,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,VIVA,23,CELL,HH2,___,NEW,PASTRAROABUSIUBVIVACELLHH2____23,PassengerTransportationRoadInter-city BusesInter Urban BusViva BusFuel Cell VehicleHydrogen2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,VIVA,16,CONV,DSL,___,NEW,PASTRAROABUSIUBVIVACONVDSL____16,PassengerTransportationRoadInter-city BusesInter Urban BusViva BusConventionnalDiesel2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,VIVA,23,CONV,DSL,___,NEW,PASTRAROABUSIUBVIVACONVDSL____23,PassengerTransportationRoadInter-city BusesInter Urban BusViva BusConventionnalDiesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,VIVA,16,CONV,GAS,___,NEW,PASTRAROABUSIUBVIVACONVGAS____16,PassengerTransportationRoadInter-city BusesInter Urban BusViva BusConventionnalGasoline2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,VIVA,23,CONV,GAS,___,NEW,PASTRAROABUSIUBVIVACONVGAS____23,PassengerTransportationRoadInter-city BusesInter Urban BusViva BusConventionnalGasoline2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,VIVA,23,CONV,NGA,___,NEW,PASTRAROABUSIUBVIVACONVNGA____23,PassengerTransportationRoadInter-city BusesInter Urban BusViva BusConventionnalNatural Gas2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,SCB,___,23,BEV,BELC,___,NEW,PASTRAROABUSSCB___BEVBELC____23,PassengerTransportationRoadInter-city BusesSchool BusBattery Electric VehicleBattery Electric Vehicle2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,SCB,___,23,CELL,HH2,___,NEW,PASTRAROABUSSCB___CELLHH2____23,PassengerTransportationRoadInter-city BusesSchool BusFuel Cell VehicleHydrogen2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,SCB,___,16,CONV,DSL,___,NEW,PASTRAROABUSSCB___CONVDSL____16,PassengerTransportationRoadInter-city BusesSchool BusConventionnalDiesel2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,SCB,___,23,CONV,DSL,___,NEW,PASTRAROABUSSCB___CONVDSL____23,PassengerTransportationRoadInter-city BusesSchool BusConventionnalDiesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,SCB,___,16,CONV,GAS,___,NEW,PASTRAROABUSSCB___CONVGAS____16,PassengerTransportationRoadInter-city BusesSchool BusConventionnalGasoline2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,SCB,___,23,CONV,GAS,___,NEW,PASTRAROABUSSCB___CONVGAS____23,PassengerTransportationRoadInter-city BusesSchool BusConventionnalGasoline2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,SCB,___,16,CONV,NGA,___,NEW,PASTRAROABUSSCB___CONVNGA____16,PassengerTransportationRoadInter-city BusesSchool BusConventionnalNatural Gas2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,SCB,___,23,CONV,NGA,___,NEW,PASTRAROABUSSCB___CONVNGA____23,PassengerTransportationRoadInter-city BusesSchool BusConventionnalNatural Gas2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,SCB,___,23,CONV,RDSL,___,NEW,PASTRAROABUSSCB___CONVRDSL____23,PassengerTransportationRoadInter-city BusesSchool BusConventionnalRenewable Diesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,SCB,___,23,HYB,DSL,___,NEW,PASTRAROABUSSCB___HYBDSL____23,PassengerTransportationRoadInter-city BusesSchool BusHybridDiesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,SCB,___,23,HYB,RDSL,___,NEW,PASTRAROABUSSCB___HYBRDSL____23,PassengerTransportationRoadInter-city BusesSchool BusHybridRenewable Diesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,SCB,___,23,MHYB,DSL,___,NEW,PASTRAROABUSSCB___MHYBDSL____23,PassengerTransportationRoadInter-city BusesSchool BusHybridDiesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,SCB,___,23,MHYB,RDSL,___,NEW,PASTRAROABUSSCB___MHYBRDSL____23,PassengerTransportationRoadInter-city BusesSchool BusHybridRenewable Diesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,SCB,___,23,PHEV,DSL,ELC,NEW,PASTRAROABUSSCB___PHEVDSLELC_23,PassengerTransportationRoadInter-city BusesSchool BusPlug Hybrid VehicleDieselElectricity2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,SCB,___,23,PHEV,RDSL,ELC,NEW,PASTRAROABUSSCB___PHEVRDSLELC_23,PassengerTransportationRoadInter-city BusesSchool BusPlug Hybrid VehicleRenewable DieselElectricity2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,VIVA,23,CONV,RDSL,___,NEW,PASTRAROABUSIUBVIVACONVRDSL____23,PassengerTransportationRoadInter-city BusesInter Urban BusViva BusConventionnalRenewable Diesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,VIVA,23,HYB,DSL,___,NEW,PASTRAROABUSIUBVIVAHYBDSL____23,PassengerTransportationRoadInter-city BusesInter Urban BusViva BusHybridDiesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,VIVA,23,HYB,RDSL,___,NEW,PASTRAROABUSIUBVIVAHYBRDSL____23,PassengerTransportationRoadInter-city BusesInter Urban BusViva BusHybridRenewable Diesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,VIVA,23,PHEV,DSL,ELC,NEW,PASTRAROABUSIUBVIVAPHEVDSLELC_23,PassengerTransportationRoadInter-city BusesInter Urban BusViva BusPlug Hybrid VehicleDieselElectricity2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,VIVA,23,PHEV,NGA,ELC,NEW,PASTRAROABUSIUBVIVAPHEVNGAELC_23,PassengerTransportationRoadInter-city BusesInter Urban BusViva BusPlug Hybrid VehicleNatural GasElectricity2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,IUB,VIVA,23,PHEV,RDSL,ELC,NEW,PASTRAROABUSIUBVIVAPHEVRDSLELC_23,PassengerTransportationRoadInter-city BusesInter Urban BusViva BusPlug Hybrid VehicleRenewable DieselElectricity2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,URB,WTB,23,BEV,BELC,___,NEW,PASTRAROABUSURBWTBBEVBELC____23,PassengerTransportationRoadInter-city BusesUrban Bus TTC Wheel trans paraBattery Electric VehicleBattery Electric Vehicle2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,URB,WTB,23,CELL,HH2,___,NEW,PASTRAROABUSURBWTBCELLHH2____23,PassengerTransportationRoadInter-city BusesUrban Bus TTC Wheel trans paraFuel Cell VehicleHydrogen2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,URB,WTB,16,CONV,DSL,___,NEW,PASTRAROABUSURBWTBCONVDSL____16,PassengerTransportationRoadInter-city BusesUrban Bus TTC Wheel trans paraConventionnalDiesel2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,URB,WTB,23,CONV,DSL,___,NEW,PASTRAROABUSURBWTBCONVDSL____23,PassengerTransportationRoadInter-city BusesUrban Bus TTC Wheel trans paraConventionnalDiesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,URB,WTB,16,CONV,GAS,___,NEW,PASTRAROABUSURBWTBCONVGAS____16,PassengerTransportationRoadInter-city BusesUrban Bus TTC Wheel trans paraConventionnalGasoline2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,URB,WTB,23,CONV,GAS,___,NEW,PASTRAROABUSURBWTBCONVGAS____23,PassengerTransportationRoadInter-city BusesUrban Bus TTC Wheel trans paraConventionnalGasoline2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,URB,WTB,16,CONV,NGA,___,NEW,PASTRAROABUSURBWTBCONVNGA____16,PassengerTransportationRoadInter-city BusesUrban Bus TTC Wheel trans paraConventionnalNatural Gas2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,URB,WTB,23,CONV,NGA,___,NEW,PASTRAROABUSURBWTBCONVNGA____23,PassengerTransportationRoadInter-city BusesUrban Bus TTC Wheel trans paraConventionnalNatural Gas2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,BUS,URB,WTB,23,CONV,RDSL,___,NEW,PASTRAROABUSURBWTBCONVRDSL____23,PassengerTransportationRoadInter-city BusesUrban Bus TTC Wheel trans paraConventionnalRenewable Diesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,ADR,23,BEV320,BELC,___,NEW,PASTRAROACAR___ADRBEV320BELC____23,PassengerTransportationRoadCarsAuto driver320VElectricityBattery Electric Vehicle2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,ADR,23,BEV480,BELC,___,NEW,PASTRAROACAR___ADRBEV480BELC____23,PassengerTransportationRoadCarsAuto driver480VElectricityBattery Electric Vehicle2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,ADR,23,BEV640,BELC,___,NEW,PASTRAROACAR___ADRBEV640BELC____23,PassengerTransportationRoadCarsAuto driver640VElectricityBattery Electric Vehicle2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,ADR,23,CELL,HH2,___,NEW,PASTRAROACAR___ADRCELLHH2____23,PassengerTransportationRoadCarsAuto driverFuel Cell VehicleHydrogen2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,ADR,16,CONV,DSL,___,NEW,PASTRAROACAR___ADRCONVDSL____16,PassengerTransportationRoadCarsAuto driverConventionnalDiesel2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,ADR,23,CONV,DSL,___,NEW,PASTRAROACAR___ADRCONVDSL____23,PassengerTransportationRoadCarsAuto driverConventionnalDiesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,ADR,16,CONV,GAS,___,NEW,PASTRAROACAR___ADRCONVGAS____16,PassengerTransportationRoadCarsAuto driverConventionnalGasoline2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,ADR,23,CONV,GAS,___,NEW,PASTRAROACAR___ADRCONVGAS____23,PassengerTransportationRoadCarsAuto driverConventionnalGasoline2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,ADR,16,CONV,NGA,___,NEW,PASTRAROACAR___ADRCONVNGA____16,PassengerTransportationRoadCarsAuto driverConventionnalNatural Gas2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,ADR,23,CONV,NGA,___,NEW,PASTRAROACAR___ADRCONVNGA____23,PassengerTransportationRoadCarsAuto driverConventionnalNatural Gas2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,ADR,23,CONV,NGA,BIF,NEW,PASTRAROACAR___ADRCONVNGABIF_23,PassengerTransportationRoadCarsAuto driverConventionnalNatural GasBi Fuel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,ADR,16,CONV,PRO,___,NEW,PASTRAROACAR___ADRCONVPRO____16,PassengerTransportationRoadCarsAuto driverConventionnalPropane2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,ADR,23,CONV,PRO,___,NEW,PASTRAROACAR___ADRCONVPRO____23,PassengerTransportationRoadCarsAuto driverConventionnalPropane2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,ADR,23,CONV,PRO,BIF,NEW,PASTRAROACAR___ADRCONVPROBIF_23,PassengerTransportationRoadCarsAuto driverConventionnalPropaneBi Fuel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,ADR,23,CONV,RDSL,___,NEW,PASTRAROACAR___ADRCONVRDSL____23,PassengerTransportationRoadCarsAuto driverConventionnalRenewable Diesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,ADR,23,HYB,DSL,___,NEW,PASTRAROACAR___ADRHYBDSL____23,PassengerTransportationRoadCarsAuto driverHybridDiesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,ADR,23,HYB,GAS,___,NEW,PASTRAROACAR___ADRHYBGAS____23,PassengerTransportationRoadCarsAuto driverHybridGasoline2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,ADR,23,HYB,RDSL,___,NEW,PASTRAROACAR___ADRHYBRDSL____23,PassengerTransportationRoadCarsAuto driverHybridRenewable Diesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,ADR,23,PHEV,GAS,ELC,NEW,PASTRAROACAR___ADRPHEVGASELC_23,PassengerTransportationRoadCarsAuto driverPlug Hybrid VehicleGasolineElectricity2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,APG,23,BEV320,BELC,___,NEW,PASTRAROACAR___APGBEV320BELC____23,PassengerTransportationRoadCarsAuto passenger320VElectricityBattery Electric Vehicle2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,APG,23,BEV480,BELC,___,NEW,PASTRAROACAR___APGBEV480BELC____23,PassengerTransportationRoadCarsAuto passenger480VElectricityBattery Electric Vehicle2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,APG,23,BEV640,BELC,___,NEW,PASTRAROACAR___APGBEV640BELC____23,PassengerTransportationRoadCarsAuto passenger640VElectricityBattery Electric Vehicle2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,APG,23,CELL,HH2,___,NEW,PASTRAROACAR___APGCELLHH2____23,PassengerTransportationRoadCarsAuto passengerFuel Cell VehicleHydrogen2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,APG,16,CONV,DSL,___,NEW,PASTRAROACAR___APGCONVDSL____16,PassengerTransportationRoadCarsAuto passengerConventionnalDiesel2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,APG,23,CONV,DSL,___,NEW,PASTRAROACAR___APGCONVDSL____23,PassengerTransportationRoadCarsAuto passengerConventionnalDiesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,APG,16,CONV,GAS,___,NEW,PASTRAROACAR___APGCONVGAS____16,PassengerTransportationRoadCarsAuto passengerConventionnalGasoline2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,APG,23,CONV,GAS,___,NEW,PASTRAROACAR___APGCONVGAS____23,PassengerTransportationRoadCarsAuto passengerConventionnalGasoline2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,APG,16,CONV,NGA,___,NEW,PASTRAROACAR___APGCONVNGA____16,PassengerTransportationRoadCarsAuto passengerConventionnalNatural Gas2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,APG,23,CONV,NGA,___,NEW,PASTRAROACAR___APGCONVNGA____23,PassengerTransportationRoadCarsAuto passengerConventionnalNatural Gas2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,APG,23,CONV,NGA,BIF,NEW,PASTRAROACAR___APGCONVNGABIF_23,PassengerTransportationRoadCarsAuto passengerConventionnalNatural GasBi Fuel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,APG,16,CONV,PRO,___,NEW,PASTRAROACAR___APGCONVPRO____16,PassengerTransportationRoadCarsAuto passengerConventionnalPropane2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,APG,23,CONV,PRO,___,NEW,PASTRAROACAR___APGCONVPRO____23,PassengerTransportationRoadCarsAuto passengerConventionnalPropane2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,APG,23,CONV,PRO,BIF,NEW,PASTRAROACAR___APGCONVPROBIF_23,PassengerTransportationRoadCarsAuto passengerConventionnalPropaneBi Fuel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,APG,23,CONV,RDSL,___,NEW,PASTRAROACAR___APGCONVRDSL____23,PassengerTransportationRoadCarsAuto passengerConventionnalRenewable Diesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,APG,23,HYB,DSL,___,NEW,PASTRAROACAR___APGHYBDSL____23,PassengerTransportationRoadCarsAuto passengerHybridDiesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,APG,23,HYB,GAS,___,NEW,PASTRAROACAR___APGHYBGAS____23,PassengerTransportationRoadCarsAuto passengerHybridGasoline2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,APG,23,HYB,RDSL,___,NEW,PASTRAROACAR___APGHYBRDSL____23,PassengerTransportationRoadCarsAuto passengerHybridRenewable Diesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,APG,23,PHEV,GAS,ELC,NEW,PASTRAROACAR___APGPHEVGASELC_23,PassengerTransportationRoadCarsAuto passengerPlug Hybrid VehicleGasolineElectricity2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,RSH,23,BEV320,BELC,___,NEW,PASTRAROACAR___RSHBEV320BELC____23,PassengerTransportationRoadCarsPaid Ridershare320VElectricityBattery Electric Vehicle2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,RSH,23,BEV480,BELC,___,NEW,PASTRAROACAR___RSHBEV480BELC____23,PassengerTransportationRoadCarsPaid Ridershare480VElectricityBattery Electric Vehicle2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,RSH,23,BEV640,BELC,___,NEW,PASTRAROACAR___RSHBEV640BELC____23,PassengerTransportationRoadCarsPaid Ridershare640VElectricityBattery Electric Vehicle2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,RSH,23,CELL,HH2,___,NEW,PASTRAROACAR___RSHCELLHH2____23,PassengerTransportationRoadCarsPaid RidershareFuel Cell VehicleHydrogen2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,RSH,16,CONV,DSL,___,NEW,PASTRAROACAR___RSHCONVDSL____16,PassengerTransportationRoadCarsPaid RidershareConventionnalDiesel2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,RSH,23,CONV,DSL,___,NEW,PASTRAROACAR___RSHCONVDSL____23,PassengerTransportationRoadCarsPaid RidershareConventionnalDiesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,RSH,16,CONV,GAS,___,NEW,PASTRAROACAR___RSHCONVGAS____16,PassengerTransportationRoadCarsPaid RidershareConventionnalGasoline2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,RSH,23,CONV,GAS,___,NEW,PASTRAROACAR___RSHCONVGAS____23,PassengerTransportationRoadCarsPaid RidershareConventionnalGasoline2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,RSH,16,CONV,NGA,___,NEW,PASTRAROACAR___RSHCONVNGA____16,PassengerTransportationRoadCarsPaid RidershareConventionnalNatural Gas2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,RSH,23,CONV,NGA,___,NEW,PASTRAROACAR___RSHCONVNGA____23,PassengerTransportationRoadCarsPaid RidershareConventionnalNatural Gas2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,RSH,23,CONV,NGA,BIF,NEW,PASTRAROACAR___RSHCONVNGABIF_23,PassengerTransportationRoadCarsPaid RidershareConventionnalNatural GasBi Fuel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,RSH,16,CONV,PRO,___,NEW,PASTRAROACAR___RSHCONVPRO____16,PassengerTransportationRoadCarsPaid RidershareConventionnalPropane2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,RSH,23,CONV,PRO,___,NEW,PASTRAROACAR___RSHCONVPRO____23,PassengerTransportationRoadCarsPaid RidershareConventionnalPropane2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,RSH,23,CONV,PRO,BIF,NEW,PASTRAROACAR___RSHCONVPROBIF_23,PassengerTransportationRoadCarsPaid RidershareConventionnalPropaneBi Fuel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,RSH,23,CONV,RDSL,___,NEW,PASTRAROACAR___RSHCONVRDSL____23,PassengerTransportationRoadCarsPaid RidershareConventionnalRenewable Diesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,RSH,23,HYB,DSL,___,NEW,PASTRAROACAR___RSHHYBDSL____23,PassengerTransportationRoadCarsPaid RidershareHybridDiesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,RSH,23,HYB,GAS,___,NEW,PASTRAROACAR___RSHHYBGAS____23,PassengerTransportationRoadCarsPaid RidershareHybridGasoline2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,RSH,23,HYB,RDSL,___,NEW,PASTRAROACAR___RSHHYBRDSL____23,PassengerTransportationRoadCarsPaid RidershareHybridRenewable Diesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,RSH,23,PHEV,GAS,ELC,NEW,PASTRAROACAR___RSHPHEVGASELC_23,PassengerTransportationRoadCarsPaid RidersharePlug Hybrid VehicleGasolineElectricity2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,TAX,23,BEV320,BELC,___,NEW,PASTRAROACAR___TAXBEV320BELC____23,PassengerTransportationRoadCarsTaxi passenger320VElectricityBattery Electric Vehicle2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,TAX,23,BEV480,BELC,___,NEW,PASTRAROACAR___TAXBEV480BELC____23,PassengerTransportationRoadCarsTaxi passenger480VElectricityBattery Electric Vehicle2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,TAX,23,BEV640,BELC,___,NEW,PASTRAROACAR___TAXBEV640BELC____23,PassengerTransportationRoadCarsTaxi passenger640VElectricityBattery Electric Vehicle2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,TAX,23,CELL,HH2,___,NEW,PASTRAROACAR___TAXCELLHH2____23,PassengerTransportationRoadCarsTaxi passengerFuel Cell VehicleHydrogen2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,TAX,16,CONV,DSL,___,NEW,PASTRAROACAR___TAXCONVDSL____16,PassengerTransportationRoadCarsTaxi passengerConventionnalDiesel2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,TAX,23,CONV,DSL,___,NEW,PASTRAROACAR___TAXCONVDSL____23,PassengerTransportationRoadCarsTaxi passengerConventionnalDiesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,TAX,16,CONV,GAS,___,NEW,PASTRAROACAR___TAXCONVGAS____16,PassengerTransportationRoadCarsTaxi passengerConventionnalGasoline2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,TAX,23,CONV,GAS,___,NEW,PASTRAROACAR___TAXCONVGAS____23,PassengerTransportationRoadCarsTaxi passengerConventionnalGasoline2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,TAX,16,CONV,NGA,___,NEW,PASTRAROACAR___TAXCONVNGA____16,PassengerTransportationRoadCarsTaxi passengerConventionnalNatural Gas2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,TAX,23,CONV,NGA,___,NEW,PASTRAROACAR___TAXCONVNGA____23,PassengerTransportationRoadCarsTaxi passengerConventionnalNatural Gas2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,TAX,23,CONV,NGA,BIF,NEW,PASTRAROACAR___TAXCONVNGABIF_23,PassengerTransportationRoadCarsTaxi passengerConventionnalNatural GasBi Fuel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,TAX,16,CONV,PRO,___,NEW,PASTRAROACAR___TAXCONVPRO____16,PassengerTransportationRoadCarsTaxi passengerConventionnalPropane2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,TAX,23,CONV,PRO,___,NEW,PASTRAROACAR___TAXCONVPRO____23,PassengerTransportationRoadCarsTaxi passengerConventionnalPropane2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,TAX,23,CONV,PRO,BIF,NEW,PASTRAROACAR___TAXCONVPROBIF_23,PassengerTransportationRoadCarsTaxi passengerConventionnalPropaneBi Fuel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,TAX,23,CONV,RDSL,___,NEW,PASTRAROACAR___TAXCONVRDSL____23,PassengerTransportationRoadCarsTaxi passengerConventionnalRenewable Diesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,TAX,23,HYB,DSL,___,NEW,PASTRAROACAR___TAXHYBDSL____23,PassengerTransportationRoadCarsTaxi passengerHybridDiesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,TAX,23,HYB,GAS,___,NEW,PASTRAROACAR___TAXHYBGAS____23,PassengerTransportationRoadCarsTaxi passengerHybridGasoline2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,TAX,23,HYB,RDSL,___,NEW,PASTRAROACAR___TAXHYBRDSL____23,PassengerTransportationRoadCarsTaxi passengerHybridRenewable Diesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,CAR,___,TAX,23,PHEV,GAS,ELC,NEW,PASTRAROACAR___TAXPHEVGASELC_23,PassengerTransportationRoadCarsTaxi passengerPlug Hybrid VehicleGasolineElectricity2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,MOR,___,___,23,BEV,BELC,___,NEW,PASTRAROAMOR______BEVBELC____23,PassengerTransportationRoadMotorcyclesBattery Electric VehicleBattery Electric Vehicle2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,MOR,___,___,16,CONV,GAS,___,NEW,PASTRAROAMOR______CONVGAS____16,PassengerTransportationRoadMotorcyclesConventionnalGasoline2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,MOR,___,___,23,CONV,GAS,___,NEW,PASTRAROAMOR______CONVGAS____23,PassengerTransportationRoadMotorcyclesConventionnalGasoline2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,ADR,23,BEV320,BELC,___,NEW,PASTRAROATRULGTADRBEV320BELC____23,PassengerTransportationRoadTruckPassenger Light TrucksAuto driver320VElectricityBattery Electric Vehicle2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,ADR,23,BEV480,BELC,___,NEW,PASTRAROATRULGTADRBEV480BELC____23,PassengerTransportationRoadTruckPassenger Light TrucksAuto driver480VElectricityBattery Electric Vehicle2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,ADR,23,BEV640,BELC,___,NEW,PASTRAROATRULGTADRBEV640BELC____23,PassengerTransportationRoadTruckPassenger Light TrucksAuto driver640VElectricityBattery Electric Vehicle2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,ADR,23,CELL,HH2,___,NEW,PASTRAROATRULGTADRCELLHH2____23,PassengerTransportationRoadTruckPassenger Light TrucksAuto driverFuel Cell VehicleHydrogen2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,ADR,16,CONV,DSL,___,NEW,PASTRAROATRULGTADRCONVDSL____16,PassengerTransportationRoadTruckPassenger Light TrucksAuto driverConventionnalDiesel2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,ADR,23,CONV,DSL,___,NEW,PASTRAROATRULGTADRCONVDSL____23,PassengerTransportationRoadTruckPassenger Light TrucksAuto driverConventionnalDiesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,ADR,16,CONV,GAS,___,NEW,PASTRAROATRULGTADRCONVGAS____16,PassengerTransportationRoadTruckPassenger Light TrucksAuto driverConventionnalGasoline2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,ADR,23,CONV,GAS,___,NEW,PASTRAROATRULGTADRCONVGAS____23,PassengerTransportationRoadTruckPassenger Light TrucksAuto driverConventionnalGasoline2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,ADR,16,CONV,NGA,___,NEW,PASTRAROATRULGTADRCONVNGA____16,PassengerTransportationRoadTruckPassenger Light TrucksAuto driverConventionnalNatural Gas2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,ADR,23,CONV,NGA,___,NEW,PASTRAROATRULGTADRCONVNGA____23,PassengerTransportationRoadTruckPassenger Light TrucksAuto driverConventionnalNatural Gas2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,ADR,23,CONV,NGA,BIF,NEW,PASTRAROATRULGTADRCONVNGABIF_23,PassengerTransportationRoadTruckPassenger Light TrucksAuto driverConventionnalNatural GasBi Fuel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,ADR,16,CONV,PRO,___,NEW,PASTRAROATRULGTADRCONVPRO____16,PassengerTransportationRoadTruckPassenger Light TrucksAuto driverConventionnalPropane2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,ADR,23,CONV,PRO,___,NEW,PASTRAROATRULGTADRCONVPRO____23,PassengerTransportationRoadTruckPassenger Light TrucksAuto driverConventionnalPropane2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,ADR,23,CONV,PRO,BIF,NEW,PASTRAROATRULGTADRCONVPROBIF_23,PassengerTransportationRoadTruckPassenger Light TrucksAuto driverConventionnalPropaneBi Fuel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,ADR,23,CONV,RDSL,___,NEW,PASTRAROATRULGTADRCONVRDSL____23,PassengerTransportationRoadTruckPassenger Light TrucksAuto driverConventionnalRenewable Diesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,ADR,23,HYB,DSL,___,NEW,PASTRAROATRULGTADRHYBDSL____23,PassengerTransportationRoadTruckPassenger Light TrucksAuto driverHybridDiesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,ADR,23,HYB,GAS,___,NEW,PASTRAROATRULGTADRHYBGAS____23,PassengerTransportationRoadTruckPassenger Light TrucksAuto driverHybridGasoline2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,ADR,23,HYB,RDSL,___,NEW,PASTRAROATRULGTADRHYBRDSL____23,PassengerTransportationRoadTruckPassenger Light TrucksAuto driverHybridRenewable Diesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,ADR,23,PHEV,GAS,ELC,NEW,PASTRAROATRULGTADRPHEVGASELC_23,PassengerTransportationRoadTruckPassenger Light TrucksAuto driverPlug Hybrid VehicleGasolineElectricity2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,APG,23,BEV320,BELC,___,NEW,PASTRAROATRULGTAPGBEV320BELC____23,PassengerTransportationRoadTruckPassenger Light TrucksAuto passenger320VElectricityBattery Electric Vehicle2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,APG,23,BEV480,BELC,___,NEW,PASTRAROATRULGTAPGBEV480BELC____23,PassengerTransportationRoadTruckPassenger Light TrucksAuto passenger480VElectricityBattery Electric Vehicle2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,APG,23,BEV640,BELC,___,NEW,PASTRAROATRULGTAPGBEV640BELC____23,PassengerTransportationRoadTruckPassenger Light TrucksAuto passenger640VElectricityBattery Electric Vehicle2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,APG,23,CELL,HH2,___,NEW,PASTRAROATRULGTAPGCELLHH2____23,PassengerTransportationRoadTruckPassenger Light TrucksAuto passengerFuel Cell VehicleHydrogen2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,APG,16,CONV,DSL,___,NEW,PASTRAROATRULGTAPGCONVDSL____16,PassengerTransportationRoadTruckPassenger Light TrucksAuto passengerConventionnalDiesel2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,APG,23,CONV,DSL,___,NEW,PASTRAROATRULGTAPGCONVDSL____23,PassengerTransportationRoadTruckPassenger Light TrucksAuto passengerConventionnalDiesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,APG,16,CONV,GAS,___,NEW,PASTRAROATRULGTAPGCONVGAS____16,PassengerTransportationRoadTruckPassenger Light TrucksAuto passengerConventionnalGasoline2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,APG,23,CONV,GAS,___,NEW,PASTRAROATRULGTAPGCONVGAS____23,PassengerTransportationRoadTruckPassenger Light TrucksAuto passengerConventionnalGasoline2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,APG,16,CONV,NGA,___,NEW,PASTRAROATRULGTAPGCONVNGA____16,PassengerTransportationRoadTruckPassenger Light TrucksAuto passengerConventionnalNatural Gas2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,APG,23,CONV,NGA,___,NEW,PASTRAROATRULGTAPGCONVNGA____23,PassengerTransportationRoadTruckPassenger Light TrucksAuto passengerConventionnalNatural Gas2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,APG,23,CONV,NGA,BIF,NEW,PASTRAROATRULGTAPGCONVNGABIF_23,PassengerTransportationRoadTruckPassenger Light TrucksAuto passengerConventionnalNatural GasBi Fuel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,APG,16,CONV,PRO,___,NEW,PASTRAROATRULGTAPGCONVPRO____16,PassengerTransportationRoadTruckPassenger Light TrucksAuto passengerConventionnalPropane2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,APG,23,CONV,PRO,___,NEW,PASTRAROATRULGTAPGCONVPRO____23,PassengerTransportationRoadTruckPassenger Light TrucksAuto passengerConventionnalPropane2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,APG,23,CONV,PRO,BIF,NEW,PASTRAROATRULGTAPGCONVPROBIF_23,PassengerTransportationRoadTruckPassenger Light TrucksAuto passengerConventionnalPropaneBi Fuel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,APG,23,CONV,RDSL,___,NEW,PASTRAROATRULGTAPGCONVRDSL____23,PassengerTransportationRoadTruckPassenger Light TrucksAuto passengerConventionnalRenewable Diesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,APG,23,HYB,DSL,___,NEW,PASTRAROATRULGTAPGHYBDSL____23,PassengerTransportationRoadTruckPassenger Light TrucksAuto passengerHybridDiesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,APG,23,HYB,GAS,___,NEW,PASTRAROATRULGTAPGHYBGAS____23,PassengerTransportationRoadTruckPassenger Light TrucksAuto passengerHybridGasoline2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,APG,23,HYB,RDSL,___,NEW,PASTRAROATRULGTAPGHYBRDSL____23,PassengerTransportationRoadTruckPassenger Light TrucksAuto passengerHybridRenewable Diesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,APG,23,PHEV,GAS,ELC,NEW,PASTRAROATRULGTAPGPHEVGASELC_23,PassengerTransportationRoadTruckPassenger Light TrucksAuto passengerPlug Hybrid VehicleGasolineElectricity2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,RSH,23,BEV320,BELC,___,NEW,PASTRAROATRULGTRSHBEV320BELC____23,PassengerTransportationRoadTruckPassenger Light TrucksPaid Ridershare320VElectricityBattery Electric Vehicle2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,RSH,23,BEV480,BELC,___,NEW,PASTRAROATRULGTRSHBEV480BELC____23,PassengerTransportationRoadTruckPassenger Light TrucksPaid Ridershare480VElectricityBattery Electric Vehicle2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,RSH,23,BEV640,BELC,___,NEW,PASTRAROATRULGTRSHBEV640BELC____23,PassengerTransportationRoadTruckPassenger Light TrucksPaid Ridershare640VElectricityBattery Electric Vehicle2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,RSH,23,CELL,HH2,___,NEW,PASTRAROATRULGTRSHCELLHH2____23,PassengerTransportationRoadTruckPassenger Light TrucksPaid RidershareFuel Cell VehicleHydrogen2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,RSH,16,CONV,DSL,___,NEW,PASTRAROATRULGTRSHCONVDSL____16,PassengerTransportationRoadTruckPassenger Light TrucksPaid RidershareConventionnalDiesel2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,RSH,23,CONV,DSL,___,NEW,PASTRAROATRULGTRSHCONVDSL____23,PassengerTransportationRoadTruckPassenger Light TrucksPaid RidershareConventionnalDiesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,RSH,16,CONV,GAS,___,NEW,PASTRAROATRULGTRSHCONVGAS____16,PassengerTransportationRoadTruckPassenger Light TrucksPaid RidershareConventionnalGasoline2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,RSH,23,CONV,GAS,___,NEW,PASTRAROATRULGTRSHCONVGAS____23,PassengerTransportationRoadTruckPassenger Light TrucksPaid RidershareConventionnalGasoline2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,RSH,16,CONV,NGA,___,NEW,PASTRAROATRULGTRSHCONVNGA____16,PassengerTransportationRoadTruckPassenger Light TrucksPaid RidershareConventionnalNatural Gas2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,RSH,23,CONV,NGA,___,NEW,PASTRAROATRULGTRSHCONVNGA____23,PassengerTransportationRoadTruckPassenger Light TrucksPaid RidershareConventionnalNatural Gas2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,RSH,23,CONV,NGA,BIF,NEW,PASTRAROATRULGTRSHCONVNGABIF_23,PassengerTransportationRoadTruckPassenger Light TrucksPaid RidershareConventionnalNatural GasBi Fuel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,RSH,16,CONV,PRO,___,NEW,PASTRAROATRULGTRSHCONVPRO____16,PassengerTransportationRoadTruckPassenger Light TrucksPaid RidershareConventionnalPropane2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,RSH,23,CONV,PRO,___,NEW,PASTRAROATRULGTRSHCONVPRO____23,PassengerTransportationRoadTruckPassenger Light TrucksPaid RidershareConventionnalPropane2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,RSH,23,CONV,PRO,BIF,NEW,PASTRAROATRULGTRSHCONVPROBIF_23,PassengerTransportationRoadTruckPassenger Light TrucksPaid RidershareConventionnalPropaneBi Fuel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,RSH,23,CONV,RDSL,___,NEW,PASTRAROATRULGTRSHCONVRDSL____23,PassengerTransportationRoadTruckPassenger Light TrucksPaid RidershareConventionnalRenewable Diesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,RSH,23,HYB,DSL,___,NEW,PASTRAROATRULGTRSHHYBDSL____23,PassengerTransportationRoadTruckPassenger Light TrucksPaid RidershareHybridDiesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,RSH,23,HYB,GAS,___,NEW,PASTRAROATRULGTRSHHYBGAS____23,PassengerTransportationRoadTruckPassenger Light TrucksPaid RidershareHybridGasoline2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,RSH,23,HYB,RDSL,___,NEW,PASTRAROATRULGTRSHHYBRDSL____23,PassengerTransportationRoadTruckPassenger Light TrucksPaid RidershareHybridRenewable Diesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,RSH,23,PHEV,GAS,ELC,NEW,PASTRAROATRULGTRSHPHEVGASELC_23,PassengerTransportationRoadTruckPassenger Light TrucksPaid RidersharePlug Hybrid VehicleGasolineElectricity2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,TAX,23,BEV320,BELC,___,NEW,PASTRAROATRULGTTAXBEV320BELC____23,PassengerTransportationRoadTruckPassenger Light TrucksTaxi passenger320VElectricityBattery Electric Vehicle2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,TAX,23,BEV480,BELC,___,NEW,PASTRAROATRULGTTAXBEV480BELC____23,PassengerTransportationRoadTruckPassenger Light TrucksTaxi passenger480VElectricityBattery Electric Vehicle2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,TAX,23,BEV640,BELC,___,NEW,PASTRAROATRULGTTAXBEV640BELC____23,PassengerTransportationRoadTruckPassenger Light TrucksTaxi passenger640VElectricityBattery Electric Vehicle2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,TAX,23,CELL,HH2,___,NEW,PASTRAROATRULGTTAXCELLHH2____23,PassengerTransportationRoadTruckPassenger Light TrucksTaxi passengerFuel Cell VehicleHydrogen2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,TAX,16,CONV,DSL,___,NEW,PASTRAROATRULGTTAXCONVDSL____16,PassengerTransportationRoadTruckPassenger Light TrucksTaxi passengerConventionnalDiesel2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,TAX,23,CONV,DSL,___,NEW,PASTRAROATRULGTTAXCONVDSL____23,PassengerTransportationRoadTruckPassenger Light TrucksTaxi passengerConventionnalDiesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,TAX,16,CONV,GAS,___,NEW,PASTRAROATRULGTTAXCONVGAS____16,PassengerTransportationRoadTruckPassenger Light TrucksTaxi passengerConventionnalGasoline2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,TAX,23,CONV,GAS,___,NEW,PASTRAROATRULGTTAXCONVGAS____23,PassengerTransportationRoadTruckPassenger Light TrucksTaxi passengerConventionnalGasoline2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,TAX,16,CONV,NGA,___,NEW,PASTRAROATRULGTTAXCONVNGA____16,PassengerTransportationRoadTruckPassenger Light TrucksTaxi passengerConventionnalNatural Gas2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,TAX,23,CONV,NGA,___,NEW,PASTRAROATRULGTTAXCONVNGA____23,PassengerTransportationRoadTruckPassenger Light TrucksTaxi passengerConventionnalNatural Gas2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,TAX,23,CONV,NGA,BIF,NEW,PASTRAROATRULGTTAXCONVNGABIF_23,PassengerTransportationRoadTruckPassenger Light TrucksTaxi passengerConventionnalNatural GasBi Fuel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,TAX,16,CONV,PRO,___,NEW,PASTRAROATRULGTTAXCONVPRO____16,PassengerTransportationRoadTruckPassenger Light TrucksTaxi passengerConventionnalPropane2016,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,TAX,23,CONV,PRO,___,NEW,PASTRAROATRULGTTAXCONVPRO____23,PassengerTransportationRoadTruckPassenger Light TrucksTaxi passengerConventionnalPropane2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,TAX,23,CONV,PRO,BIF,NEW,PASTRAROATRULGTTAXCONVPROBIF_23,PassengerTransportationRoadTruckPassenger Light TrucksTaxi passengerConventionnalPropaneBi Fuel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,TAX,23,CONV,RDSL,___,NEW,PASTRAROATRULGTTAXCONVRDSL____23,PassengerTransportationRoadTruckPassenger Light TrucksTaxi passengerConventionnalRenewable Diesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,TAX,23,HYB,DSL,___,NEW,PASTRAROATRULGTTAXHYBDSL____23,PassengerTransportationRoadTruckPassenger Light TrucksTaxi passengerHybridDiesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,TAX,23,HYB,GAS,___,NEW,PASTRAROATRULGTTAXHYBGAS____23,PassengerTransportationRoadTruckPassenger Light TrucksTaxi passengerHybridGasoline2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,TAX,23,HYB,RDSL,___,NEW,PASTRAROATRULGTTAXHYBRDSL____23,PassengerTransportationRoadTruckPassenger Light TrucksTaxi passengerHybridRenewable Diesel2023,PASTRA,kunits,Mvkt
+PAS,TRA,,,,ROA,TRU,LGT,TAX,23,PHEV,GAS,ELC,NEW,PASTRAROATRULGTTAXPHEVGASELC_23,PassengerTransportationRoadTruckPassenger Light TrucksTaxi passengerPlug Hybrid VehicleGasolineElectricity2023,PASTRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,CAR,___,,,,,,ARCH,LDITRADOMROACAR___,Long DistanceTransportationDomesticRoadCars,LDITRA,N/A,Mp.km
+LDI,TRA,DOM,,,ROA,TRU,LGT,,,,,,ARCH,LDITRADOMROATRULGT,Long DistanceTransportationDomesticRoadTruckPassenger Light Trucks,LDITRA,N/A,Mp.km
+LDI,TRA,DOM,,,ROA,BUS,IUB,,,,,,ARCH,LDITRADOMROABUSIUB,Long DistanceTransportationDomesticRoadInter-city BusesInter Urban Bus,LDITRA,N/A,Mp.km
+LDI,TRA,DOM,,,AIR,___,___,,,,,,ARCH,LDITRADOMAIR______,Long DistanceTransportationDomesticAir,LDITRA,N/A,Mp.km
+LDI,TRA,DOM,,,RAI,___,___,,,,,,ARCH,LDITRADOMRAI______,Long DistanceTransportationDomesticRail,LDITRA,N/A,Mp.km
+LDI,TRA,INT,,,ROA,CAR,___,,,,,,ARCH,LDITRAINTROACAR___,Long DistanceTransportationInternationalRoadCars,LDITRA,N/A,Mp.km
+LDI,TRA,INT,,,ROA,TRU,LGT,,,,,,ARCH,LDITRAINTROATRULGT,Long DistanceTransportationInternationalRoadTruckPassenger Light Trucks,LDITRA,N/A,Mp.km
+LDI,TRA,INT,,,ROA,BUS,IUB,,,,,,ARCH,LDITRAINTROABUSIUB,Long DistanceTransportationInternationalRoadInter-city BusesInter Urban Bus,LDITRA,N/A,Mp.km
+LDI,TRA,INT,,,AIR,___,___,,,,,,ARCH,LDITRAINTAIR______,Long DistanceTransportationInternationalAir,LDITRA,N/A,Mp.km
+LDI,TRA,INT,,,RAI,___,___,,,,,,ARCH,LDITRAINTRAI______,Long DistanceTransportationInternationalRail,LDITRA,N/A,Mp.km
+LDI,TRA,DOM,,,ROA,CAR,___,,,CONV,NGA,,EX,LDITRADOMROACAR___CONVNGA_EX,Long DistanceTransportationDomesticRoadCarsConventionnalNatural Gas,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,CAR,___,,,CONV,GAS,,EX,LDITRADOMROACAR___CONVGAS_EX,Long DistanceTransportationDomesticRoadCarsConventionnalGasoline,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,CAR,___,,,CONV,DSL,,EX,LDITRADOMROACAR___CONVDSL_EX,Long DistanceTransportationDomesticRoadCarsConventionnalDiesel,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,CAR,___,,,CONV,RDSL,,EX,LDITRADOMROACAR___CONVRDSL_EX,Long DistanceTransportationDomesticRoadCarsConventionnalRenewable Diesel,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,CAR,___,,,CONV,PRO,,EX,LDITRADOMROACAR___CONVPRO_EX,Long DistanceTransportationDomesticRoadCarsConventionnalPropane,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,TRU,LGT,,,CONV,NGA,,EX,LDITRADOMROATRULGTCONVNGA_EX,Long DistanceTransportationDomesticRoadTruckPassenger Light TrucksConventionnalNatural Gas,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,TRU,LGT,,,CONV,GAS,,EX,LDITRADOMROATRULGTCONVGAS_EX,Long DistanceTransportationDomesticRoadTruckPassenger Light TrucksConventionnalGasoline,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,TRU,LGT,,,CONV,DSL,,EX,LDITRADOMROATRULGTCONVDSL_EX,Long DistanceTransportationDomesticRoadTruckPassenger Light TrucksConventionnalDiesel,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,TRU,LGT,,,CONV,RDSL,,EX,LDITRADOMROATRULGTCONVRDSL_EX,Long DistanceTransportationDomesticRoadTruckPassenger Light TrucksConventionnalRenewable Diesel,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,TRU,LGT,,,CONV,PRO,,EX,LDITRADOMROATRULGTCONVPRO_EX,Long DistanceTransportationDomesticRoadTruckPassenger Light TrucksConventionnalPropane,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,BUS,IUB,,,CONV,GAS,,EX,LDITRADOMROABUSIUBCONVGAS_EX,Long DistanceTransportationDomesticRoadInter-city BusesInter Urban BusConventionnalGasoline,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,BUS,IUB,,,CONV,DSL,,EX,LDITRADOMROABUSIUBCONVDSL_EX,Long DistanceTransportationDomesticRoadInter-city BusesInter Urban BusConventionnalDiesel,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,BUS,IUB,,,CONV,RDSL,,EX,LDITRADOMROABUSIUBCONVRDSL_EX,Long DistanceTransportationDomesticRoadInter-city BusesInter Urban BusConventionnalRenewable Diesel,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,AIR,___,___,,,___,AGA,,EX,LDITRADOMAIR_________AGA_EX,Long DistanceTransportationDomesticAirAviation Gasoline,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,AIR,___,___,,,___,ATF,,EX,LDITRADOMAIR_________ATF_EX,Long DistanceTransportationDomesticAirAviation Turbo Fuel,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,RAI,___,___,,,___,DSL,,EX,LDITRADOMRAI_________DSL_EX,Long DistanceTransportationDomesticRailDiesel,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,CAR,___,,,CONV,NGA,,EX,LDITRAINTROACAR___CONVNGA_EX,Long DistanceTransportationInternationalRoadCarsConventionnalNatural Gas,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,CAR,___,,,CONV,GAS,,EX,LDITRAINTROACAR___CONVGAS_EX,Long DistanceTransportationInternationalRoadCarsConventionnalGasoline,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,CAR,___,,,CONV,DSL,,EX,LDITRAINTROACAR___CONVDSL_EX,Long DistanceTransportationInternationalRoadCarsConventionnalDiesel,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,CAR,___,,,CONV,RDSL,,EX,LDITRAINTROACAR___CONVRDSL_EX,Long DistanceTransportationInternationalRoadCarsConventionnalRenewable Diesel,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,CAR,___,,,CONV,PRO,,EX,LDITRAINTROACAR___CONVPRO_EX,Long DistanceTransportationInternationalRoadCarsConventionnalPropane,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,TRU,LGT,,,CONV,NGA,,EX,LDITRAINTROATRULGTCONVNGA_EX,Long DistanceTransportationInternationalRoadTruckPassenger Light TrucksConventionnalNatural Gas,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,TRU,LGT,,,CONV,GAS,,EX,LDITRAINTROATRULGTCONVGAS_EX,Long DistanceTransportationInternationalRoadTruckPassenger Light TrucksConventionnalGasoline,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,TRU,LGT,,,CONV,DSL,,EX,LDITRAINTROATRULGTCONVDSL_EX,Long DistanceTransportationInternationalRoadTruckPassenger Light TrucksConventionnalDiesel,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,TRU,LGT,,,CONV,RDSL,,EX,LDITRAINTROATRULGTCONVRDSL_EX,Long DistanceTransportationInternationalRoadTruckPassenger Light TrucksConventionnalRenewable Diesel,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,TRU,LGT,,,CONV,PRO,,EX,LDITRAINTROATRULGTCONVPRO_EX,Long DistanceTransportationInternationalRoadTruckPassenger Light TrucksConventionnalPropane,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,BUS,IUB,,,CONV,GAS,,EX,LDITRAINTROABUSIUBCONVGAS_EX,Long DistanceTransportationInternationalRoadInter-city BusesInter Urban BusConventionnalGasoline,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,BUS,IUB,,,CONV,DSL,,EX,LDITRAINTROABUSIUBCONVDSL_EX,Long DistanceTransportationInternationalRoadInter-city BusesInter Urban BusConventionnalDiesel,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,BUS,IUB,,,CONV,RDSL,,EX,LDITRAINTROABUSIUBCONVRDSL_EX,Long DistanceTransportationInternationalRoadInter-city BusesInter Urban BusConventionnalRenewable Diesel,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,AIR,___,___,,,___,AGA,,EX,LDITRAINTAIR_________AGA_EX,Long DistanceTransportationInternationalAirAviation Gasoline,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,AIR,___,___,,,___,ATF,,EX,LDITRAINTAIR_________ATF_EX,Long DistanceTransportationInternationalAirAviation Turbo Fuel,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,RAI,___,___,,,___,DSL,,EX,LDITRAINTRAI_________DSL_EX,Long DistanceTransportationInternationalRailDiesel,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,AIR,___,___,,25,IMP,ATF,___,NEW,LDITRADOMAIR______IMPATF____25,Long DistanceTransportationDomesticAirImprovedAviation Turbo Fuel2025,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,AIR,___,___,,35,IMP,ATF,___,NEW,LDITRADOMAIR______IMPATF____35,Long DistanceTransportationDomesticAirImprovedAviation Turbo Fuel2035,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,AIR,___,___,,45,IMP,ATF,___,NEW,LDITRADOMAIR______IMPATF____45,Long DistanceTransportationDomesticAirImprovedAviation Turbo Fuel2045,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,AIR,___,___,,16,STD,AGA,___,NEW,LDITRADOMAIR______STDAGA____16,Long DistanceTransportationDomesticAirStandardAviation Gasoline2016,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,AIR,___,___,,23,STD,AGA,___,NEW,LDITRADOMAIR______STDAGA____23,Long DistanceTransportationDomesticAirStandardAviation Gasoline2023,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,AIR,___,___,,16,STD,ATF,___,NEW,LDITRADOMAIR______STDATF____16,Long DistanceTransportationDomesticAirStandardAviation Turbo Fuel2016,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,AIR,___,___,,23,STD,ATF,___,NEW,LDITRADOMAIR______STDATF____23,Long DistanceTransportationDomesticAirStandardAviation Turbo Fuel2023,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,RAI,___,___,,16,___,DSL,___,NEW,LDITRADOMRAI_________DSL____16,Long DistanceTransportationDomesticRailDiesel2016,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,RAI,___,___,,23,___,DSL,___,NEW,LDITRADOMRAI_________DSL____23,Long DistanceTransportationDomesticRailDiesel2023,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,RAI,___,___,,25,___,ELC,___,NEW,LDITRADOMRAI_________ELC____25,Long DistanceTransportationDomesticRailElectricity2025,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,RAI,___,___,,25,___,HH2,___,NEW,LDITRADOMRAI_________HH2____25,Long DistanceTransportationDomesticRailHydrogen2025,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,BUS,IUB,,25,BEV,BELC,___,NEW,LDITRADOMROABUSIUBBEVBELC____25,Long DistanceTransportationDomesticRoadInter-city BusesInter Urban BusBattery Electric VehicleBattery Electric Vehicle2025,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,BUS,IUB,,25,CATE,DSL,ELC,NEW,LDITRADOMROABUSIUBCATEDSLELC_25,Long DistanceTransportationDomesticRoadInter-city BusesInter Urban BusCatenaryDieselElectricity2025,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,BUS,IUB,,25,CATE,ELC,___,NEW,LDITRADOMROABUSIUBCATEELC____25,Long DistanceTransportationDomesticRoadInter-city BusesInter Urban BusCatenaryElectricity2025,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,BUS,IUB,,25,CATE,NGA,ELC,NEW,LDITRADOMROABUSIUBCATENGAELC_25,Long DistanceTransportationDomesticRoadInter-city BusesInter Urban BusCatenaryNatural GasElectricity2025,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,BUS,IUB,,25,CATE,RDSL,ELC,NEW,LDITRADOMROABUSIUBCATERDSLELC_25,Long DistanceTransportationDomesticRoadInter-city BusesInter Urban BusCatenaryRenewable DieselElectricity2025,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,BUS,IUB,,23,CELL,HH2,___,NEW,LDITRADOMROABUSIUBCELLHH2____23,Long DistanceTransportationDomesticRoadInter-city BusesInter Urban BusFuel Cell VehicleHydrogen2023,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,BUS,IUB,,16,CONV,DSL,___,NEW,LDITRADOMROABUSIUBCONVDSL____16,Long DistanceTransportationDomesticRoadInter-city BusesInter Urban BusConventionnalDiesel2016,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,BUS,IUB,,23,CONV,DSL,___,NEW,LDITRADOMROABUSIUBCONVDSL____23,Long DistanceTransportationDomesticRoadInter-city BusesInter Urban BusConventionnalDiesel2023,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,BUS,IUB,,16,CONV,GAS,___,NEW,LDITRADOMROABUSIUBCONVGAS____16,Long DistanceTransportationDomesticRoadInter-city BusesInter Urban BusConventionnalGasoline2016,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,BUS,IUB,,23,CONV,GAS,___,NEW,LDITRADOMROABUSIUBCONVGAS____23,Long DistanceTransportationDomesticRoadInter-city BusesInter Urban BusConventionnalGasoline2023,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,BUS,IUB,,23,CONV,NGA,___,NEW,LDITRADOMROABUSIUBCONVNGA____23,Long DistanceTransportationDomesticRoadInter-city BusesInter Urban BusConventionnalNatural Gas2023,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,BUS,IUB,,23,CONV,RDSL,___,NEW,LDITRADOMROABUSIUBCONVRDSL____23,Long DistanceTransportationDomesticRoadInter-city BusesInter Urban BusConventionnalRenewable Diesel2023,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,BUS,IUB,,23,HYB,DSL,___,NEW,LDITRADOMROABUSIUBHYBDSL____23,Long DistanceTransportationDomesticRoadInter-city BusesInter Urban BusHybridDiesel2023,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,BUS,IUB,,23,HYB,RDSL,___,NEW,LDITRADOMROABUSIUBHYBRDSL____23,Long DistanceTransportationDomesticRoadInter-city BusesInter Urban BusHybridRenewable Diesel2023,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,BUS,IUB,,23,PHEV,DSL,ELC,NEW,LDITRADOMROABUSIUBPHEVDSLELC_23,Long DistanceTransportationDomesticRoadInter-city BusesInter Urban BusPlug Hybrid VehicleDieselElectricity2023,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,BUS,IUB,,23,PHEV,NGA,ELC,NEW,LDITRADOMROABUSIUBPHEVNGAELC_23,Long DistanceTransportationDomesticRoadInter-city BusesInter Urban BusPlug Hybrid VehicleNatural GasElectricity2023,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,BUS,IUB,,23,PHEV,RDSL,ELC,NEW,LDITRADOMROABUSIUBPHEVRDSLELC_23,Long DistanceTransportationDomesticRoadInter-city BusesInter Urban BusPlug Hybrid VehicleRenewable DieselElectricity2023,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,CAR,___,,23,BEV320,BELC,___,NEW,LDITRADOMROACAR___BEV320BELC____23,Long DistanceTransportationDomesticRoadCars320VElectricityBattery Electric Vehicle2023,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,CAR,___,,23,BEV480,BELC,___,NEW,LDITRADOMROACAR___BEV480BELC____23,Long DistanceTransportationDomesticRoadCars480VElectricityBattery Electric Vehicle2023,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,CAR,___,,23,BEV640,BELC,___,NEW,LDITRADOMROACAR___BEV640BELC____23,Long DistanceTransportationDomesticRoadCars640VElectricityBattery Electric Vehicle2023,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,CAR,___,,23,CELL,HH2,___,NEW,LDITRADOMROACAR___CELLHH2____23,Long DistanceTransportationDomesticRoadCarsFuel Cell VehicleHydrogen2023,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,CAR,___,,16,CONV,DSL,___,NEW,LDITRADOMROACAR___CONVDSL____16,Long DistanceTransportationDomesticRoadCarsConventionnalDiesel2016,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,CAR,___,,23,CONV,DSL,___,NEW,LDITRADOMROACAR___CONVDSL____23,Long DistanceTransportationDomesticRoadCarsConventionnalDiesel2023,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,CAR,___,,16,CONV,GAS,___,NEW,LDITRADOMROACAR___CONVGAS____16,Long DistanceTransportationDomesticRoadCarsConventionnalGasoline2016,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,CAR,___,,23,CONV,GAS,___,NEW,LDITRADOMROACAR___CONVGAS____23,Long DistanceTransportationDomesticRoadCarsConventionnalGasoline2023,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,CAR,___,,16,CONV,NGA,___,NEW,LDITRADOMROACAR___CONVNGA____16,Long DistanceTransportationDomesticRoadCarsConventionnalNatural Gas2016,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,CAR,___,,23,CONV,NGA,___,NEW,LDITRADOMROACAR___CONVNGA____23,Long DistanceTransportationDomesticRoadCarsConventionnalNatural Gas2023,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,CAR,___,,23,CONV,NGA,BIF,NEW,LDITRADOMROACAR___CONVNGABIF_23,Long DistanceTransportationDomesticRoadCarsConventionnalNatural GasBi Fuel2023,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,CAR,___,,16,CONV,PRO,___,NEW,LDITRADOMROACAR___CONVPRO____16,Long DistanceTransportationDomesticRoadCarsConventionnalPropane2016,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,CAR,___,,23,CONV,PRO,___,NEW,LDITRADOMROACAR___CONVPRO____23,Long DistanceTransportationDomesticRoadCarsConventionnalPropane2023,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,CAR,___,,23,CONV,PRO,BIF,NEW,LDITRADOMROACAR___CONVPROBIF_23,Long DistanceTransportationDomesticRoadCarsConventionnalPropaneBi Fuel2023,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,CAR,___,,23,CONV,RDSL,___,NEW,LDITRADOMROACAR___CONVRDSL____23,Long DistanceTransportationDomesticRoadCarsConventionnalRenewable Diesel2023,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,CAR,___,,23,HYB,DSL,___,NEW,LDITRADOMROACAR___HYBDSL____23,Long DistanceTransportationDomesticRoadCarsHybridDiesel2023,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,CAR,___,,23,HYB,GAS,___,NEW,LDITRADOMROACAR___HYBGAS____23,Long DistanceTransportationDomesticRoadCarsHybridGasoline2023,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,CAR,___,,23,HYB,RDSL,___,NEW,LDITRADOMROACAR___HYBRDSL____23,Long DistanceTransportationDomesticRoadCarsHybridRenewable Diesel2023,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,CAR,___,,23,PHEV,GAS,ELC,NEW,LDITRADOMROACAR___PHEVGASELC_23,Long DistanceTransportationDomesticRoadCarsPlug Hybrid VehicleGasolineElectricity2023,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,TRU,LGT,,23,BEV320,BELC,___,NEW,LDITRADOMROATRULGTBEV320BELC____23,Long DistanceTransportationDomesticRoadTruckPassenger Light Trucks320VElectricityBattery Electric Vehicle2023,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,TRU,LGT,,23,BEV480,BELC,___,NEW,LDITRADOMROATRULGTBEV480BELC____23,Long DistanceTransportationDomesticRoadTruckPassenger Light Trucks480VElectricityBattery Electric Vehicle2023,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,TRU,LGT,,23,BEV640,BELC,___,NEW,LDITRADOMROATRULGTBEV640BELC____23,Long DistanceTransportationDomesticRoadTruckPassenger Light Trucks640VElectricityBattery Electric Vehicle2023,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,TRU,LGT,,23,CELL,HH2,___,NEW,LDITRADOMROATRULGTCELLHH2____23,Long DistanceTransportationDomesticRoadTruckPassenger Light TrucksFuel Cell VehicleHydrogen2023,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,TRU,LGT,,16,CONV,DSL,___,NEW,LDITRADOMROATRULGTCONVDSL____16,Long DistanceTransportationDomesticRoadTruckPassenger Light TrucksConventionnalDiesel2016,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,TRU,LGT,,23,CONV,DSL,___,NEW,LDITRADOMROATRULGTCONVDSL____23,Long DistanceTransportationDomesticRoadTruckPassenger Light TrucksConventionnalDiesel2023,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,TRU,LGT,,16,CONV,GAS,___,NEW,LDITRADOMROATRULGTCONVGAS____16,Long DistanceTransportationDomesticRoadTruckPassenger Light TrucksConventionnalGasoline2016,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,TRU,LGT,,23,CONV,GAS,___,NEW,LDITRADOMROATRULGTCONVGAS____23,Long DistanceTransportationDomesticRoadTruckPassenger Light TrucksConventionnalGasoline2023,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,TRU,LGT,,16,CONV,NGA,___,NEW,LDITRADOMROATRULGTCONVNGA____16,Long DistanceTransportationDomesticRoadTruckPassenger Light TrucksConventionnalNatural Gas2016,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,TRU,LGT,,23,CONV,NGA,___,NEW,LDITRADOMROATRULGTCONVNGA____23,Long DistanceTransportationDomesticRoadTruckPassenger Light TrucksConventionnalNatural Gas2023,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,TRU,LGT,,23,CONV,NGA,BIF,NEW,LDITRADOMROATRULGTCONVNGABIF_23,Long DistanceTransportationDomesticRoadTruckPassenger Light TrucksConventionnalNatural GasBi Fuel2023,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,TRU,LGT,,16,CONV,PRO,___,NEW,LDITRADOMROATRULGTCONVPRO____16,Long DistanceTransportationDomesticRoadTruckPassenger Light TrucksConventionnalPropane2016,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,TRU,LGT,,23,CONV,PRO,___,NEW,LDITRADOMROATRULGTCONVPRO____23,Long DistanceTransportationDomesticRoadTruckPassenger Light TrucksConventionnalPropane2023,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,TRU,LGT,,23,CONV,PRO,BIF,NEW,LDITRADOMROATRULGTCONVPROBIF_23,Long DistanceTransportationDomesticRoadTruckPassenger Light TrucksConventionnalPropaneBi Fuel2023,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,TRU,LGT,,23,CONV,RDSL,___,NEW,LDITRADOMROATRULGTCONVRDSL____23,Long DistanceTransportationDomesticRoadTruckPassenger Light TrucksConventionnalRenewable Diesel2023,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,TRU,LGT,,23,HYB,DSL,___,NEW,LDITRADOMROATRULGTHYBDSL____23,Long DistanceTransportationDomesticRoadTruckPassenger Light TrucksHybridDiesel2023,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,TRU,LGT,,23,HYB,GAS,___,NEW,LDITRADOMROATRULGTHYBGAS____23,Long DistanceTransportationDomesticRoadTruckPassenger Light TrucksHybridGasoline2023,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,TRU,LGT,,23,HYB,RDSL,___,NEW,LDITRADOMROATRULGTHYBRDSL____23,Long DistanceTransportationDomesticRoadTruckPassenger Light TrucksHybridRenewable Diesel2023,LDITRA,kunits,Mvkt
+LDI,TRA,DOM,,,ROA,TRU,LGT,,23,PHEV,GAS,ELC,NEW,LDITRADOMROATRULGTPHEVGASELC_23,Long DistanceTransportationDomesticRoadTruckPassenger Light TrucksPlug Hybrid VehicleGasolineElectricity2023,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,AIR,___,___,,25,IMP,ATF,___,NEW,LDITRAINTAIR______IMPATF____25,Long DistanceTransportationInternationalAirImprovedAviation Turbo Fuel2025,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,AIR,___,___,,35,IMP,ATF,___,NEW,LDITRAINTAIR______IMPATF____35,Long DistanceTransportationInternationalAirImprovedAviation Turbo Fuel2035,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,AIR,___,___,,45,IMP,ATF,___,NEW,LDITRAINTAIR______IMPATF____45,Long DistanceTransportationInternationalAirImprovedAviation Turbo Fuel2045,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,AIR,___,___,,16,STD,AGA,___,NEW,LDITRAINTAIR______STDAGA____16,Long DistanceTransportationInternationalAirStandardAviation Gasoline2016,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,AIR,___,___,,23,STD,AGA,___,NEW,LDITRAINTAIR______STDAGA____23,Long DistanceTransportationInternationalAirStandardAviation Gasoline2023,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,AIR,___,___,,16,STD,ATF,___,NEW,LDITRAINTAIR______STDATF____16,Long DistanceTransportationInternationalAirStandardAviation Turbo Fuel2016,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,AIR,___,___,,23,STD,ATF,___,NEW,LDITRAINTAIR______STDATF____23,Long DistanceTransportationInternationalAirStandardAviation Turbo Fuel2023,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,RAI,___,___,,16,___,DSL,___,NEW,LDITRAINTRAI_________DSL____16,Long DistanceTransportationInternationalRailDiesel2016,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,RAI,___,___,,23,___,DSL,___,NEW,LDITRAINTRAI_________DSL____23,Long DistanceTransportationInternationalRailDiesel2023,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,RAI,___,___,,25,___,ELC,___,NEW,LDITRAINTRAI_________ELC____25,Long DistanceTransportationInternationalRailElectricity2025,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,RAI,___,___,,25,___,HH2,___,NEW,LDITRAINTRAI_________HH2____25,Long DistanceTransportationInternationalRailHydrogen2025,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,BUS,IUB,,25,BEV,BELC,___,NEW,LDITRAINTROABUSIUBBEVBELC____25,Long DistanceTransportationInternationalRoadInter-city BusesInter Urban BusBattery Electric VehicleBattery Electric Vehicle2025,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,BUS,IUB,,25,CATE,DSL,ELC,NEW,LDITRAINTROABUSIUBCATEDSLELC_25,Long DistanceTransportationInternationalRoadInter-city BusesInter Urban BusCatenaryDieselElectricity2025,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,BUS,IUB,,25,CATE,ELC,___,NEW,LDITRAINTROABUSIUBCATEELC____25,Long DistanceTransportationInternationalRoadInter-city BusesInter Urban BusCatenaryElectricity2025,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,BUS,IUB,,25,CATE,NGA,ELC,NEW,LDITRAINTROABUSIUBCATENGAELC_25,Long DistanceTransportationInternationalRoadInter-city BusesInter Urban BusCatenaryNatural GasElectricity2025,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,BUS,IUB,,25,CATE,RDSL,ELC,NEW,LDITRAINTROABUSIUBCATERDSLELC_25,Long DistanceTransportationInternationalRoadInter-city BusesInter Urban BusCatenaryRenewable DieselElectricity2025,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,BUS,IUB,,23,CELL,HH2,___,NEW,LDITRAINTROABUSIUBCELLHH2____23,Long DistanceTransportationInternationalRoadInter-city BusesInter Urban BusFuel Cell VehicleHydrogen2023,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,BUS,IUB,,16,CONV,DSL,___,NEW,LDITRAINTROABUSIUBCONVDSL____16,Long DistanceTransportationInternationalRoadInter-city BusesInter Urban BusConventionnalDiesel2016,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,BUS,IUB,,23,CONV,DSL,___,NEW,LDITRAINTROABUSIUBCONVDSL____23,Long DistanceTransportationInternationalRoadInter-city BusesInter Urban BusConventionnalDiesel2023,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,BUS,IUB,,16,CONV,GAS,___,NEW,LDITRAINTROABUSIUBCONVGAS____16,Long DistanceTransportationInternationalRoadInter-city BusesInter Urban BusConventionnalGasoline2016,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,BUS,IUB,,23,CONV,GAS,___,NEW,LDITRAINTROABUSIUBCONVGAS____23,Long DistanceTransportationInternationalRoadInter-city BusesInter Urban BusConventionnalGasoline2023,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,BUS,IUB,,23,CONV,NGA,___,NEW,LDITRAINTROABUSIUBCONVNGA____23,Long DistanceTransportationInternationalRoadInter-city BusesInter Urban BusConventionnalNatural Gas2023,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,BUS,IUB,,23,CONV,RDSL,___,NEW,LDITRAINTROABUSIUBCONVRDSL____23,Long DistanceTransportationInternationalRoadInter-city BusesInter Urban BusConventionnalRenewable Diesel2023,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,BUS,IUB,,23,HYB,DSL,___,NEW,LDITRAINTROABUSIUBHYBDSL____23,Long DistanceTransportationInternationalRoadInter-city BusesInter Urban BusHybridDiesel2023,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,BUS,IUB,,23,HYB,RDSL,___,NEW,LDITRAINTROABUSIUBHYBRDSL____23,Long DistanceTransportationInternationalRoadInter-city BusesInter Urban BusHybridRenewable Diesel2023,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,BUS,IUB,,23,PHEV,DSL,ELC,NEW,LDITRAINTROABUSIUBPHEVDSLELC_23,Long DistanceTransportationInternationalRoadInter-city BusesInter Urban BusPlug Hybrid VehicleDieselElectricity2023,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,BUS,IUB,,23,PHEV,NGA,ELC,NEW,LDITRAINTROABUSIUBPHEVNGAELC_23,Long DistanceTransportationInternationalRoadInter-city BusesInter Urban BusPlug Hybrid VehicleNatural GasElectricity2023,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,BUS,IUB,,23,PHEV,RDSL,ELC,NEW,LDITRAINTROABUSIUBPHEVRDSLELC_23,Long DistanceTransportationInternationalRoadInter-city BusesInter Urban BusPlug Hybrid VehicleRenewable DieselElectricity2023,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,CAR,___,,23,BEV320,BELC,___,NEW,LDITRAINTROACAR___BEV320BELC____23,Long DistanceTransportationInternationalRoadCars320VElectricityBattery Electric Vehicle2023,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,CAR,___,,23,BEV480,BELC,___,NEW,LDITRAINTROACAR___BEV480BELC____23,Long DistanceTransportationInternationalRoadCars480VElectricityBattery Electric Vehicle2023,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,CAR,___,,23,BEV640,BELC,___,NEW,LDITRAINTROACAR___BEV640BELC____23,Long DistanceTransportationInternationalRoadCars640VElectricityBattery Electric Vehicle2023,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,CAR,___,,23,CELL,HH2,___,NEW,LDITRAINTROACAR___CELLHH2____23,Long DistanceTransportationInternationalRoadCarsFuel Cell VehicleHydrogen2023,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,CAR,___,,16,CONV,DSL,___,NEW,LDITRAINTROACAR___CONVDSL____16,Long DistanceTransportationInternationalRoadCarsConventionnalDiesel2016,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,CAR,___,,23,CONV,DSL,___,NEW,LDITRAINTROACAR___CONVDSL____23,Long DistanceTransportationInternationalRoadCarsConventionnalDiesel2023,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,CAR,___,,16,CONV,GAS,___,NEW,LDITRAINTROACAR___CONVGAS____16,Long DistanceTransportationInternationalRoadCarsConventionnalGasoline2016,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,CAR,___,,23,CONV,GAS,___,NEW,LDITRAINTROACAR___CONVGAS____23,Long DistanceTransportationInternationalRoadCarsConventionnalGasoline2023,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,CAR,___,,16,CONV,NGA,___,NEW,LDITRAINTROACAR___CONVNGA____16,Long DistanceTransportationInternationalRoadCarsConventionnalNatural Gas2016,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,CAR,___,,23,CONV,NGA,___,NEW,LDITRAINTROACAR___CONVNGA____23,Long DistanceTransportationInternationalRoadCarsConventionnalNatural Gas2023,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,CAR,___,,23,CONV,NGA,BIF,NEW,LDITRAINTROACAR___CONVNGABIF_23,Long DistanceTransportationInternationalRoadCarsConventionnalNatural GasBi Fuel2023,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,CAR,___,,16,CONV,PRO,___,NEW,LDITRAINTROACAR___CONVPRO____16,Long DistanceTransportationInternationalRoadCarsConventionnalPropane2016,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,CAR,___,,23,CONV,PRO,___,NEW,LDITRAINTROACAR___CONVPRO____23,Long DistanceTransportationInternationalRoadCarsConventionnalPropane2023,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,CAR,___,,23,CONV,PRO,BIF,NEW,LDITRAINTROACAR___CONVPROBIF_23,Long DistanceTransportationInternationalRoadCarsConventionnalPropaneBi Fuel2023,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,CAR,___,,23,CONV,RDSL,___,NEW,LDITRAINTROACAR___CONVRDSL____23,Long DistanceTransportationInternationalRoadCarsConventionnalRenewable Diesel2023,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,CAR,___,,23,HYB,DSL,___,NEW,LDITRAINTROACAR___HYBDSL____23,Long DistanceTransportationInternationalRoadCarsHybridDiesel2023,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,CAR,___,,23,HYB,GAS,___,NEW,LDITRAINTROACAR___HYBGAS____23,Long DistanceTransportationInternationalRoadCarsHybridGasoline2023,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,CAR,___,,23,HYB,RDSL,___,NEW,LDITRAINTROACAR___HYBRDSL____23,Long DistanceTransportationInternationalRoadCarsHybridRenewable Diesel2023,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,CAR,___,,23,PHEV,GAS,ELC,NEW,LDITRAINTROACAR___PHEVGASELC_23,Long DistanceTransportationInternationalRoadCarsPlug Hybrid VehicleGasolineElectricity2023,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,TRU,LGT,,23,BEV320,BELC,___,NEW,LDITRAINTROATRULGTBEV320BELC____23,Long DistanceTransportationInternationalRoadTruckPassenger Light Trucks320VElectricityBattery Electric Vehicle2023,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,TRU,LGT,,23,BEV480,BELC,___,NEW,LDITRAINTROATRULGTBEV480BELC____23,Long DistanceTransportationInternationalRoadTruckPassenger Light Trucks480VElectricityBattery Electric Vehicle2023,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,TRU,LGT,,23,BEV640,BELC,___,NEW,LDITRAINTROATRULGTBEV640BELC____23,Long DistanceTransportationInternationalRoadTruckPassenger Light Trucks640VElectricityBattery Electric Vehicle2023,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,TRU,LGT,,23,CELL,HH2,___,NEW,LDITRAINTROATRULGTCELLHH2____23,Long DistanceTransportationInternationalRoadTruckPassenger Light TrucksFuel Cell VehicleHydrogen2023,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,TRU,LGT,,16,CONV,DSL,___,NEW,LDITRAINTROATRULGTCONVDSL____16,Long DistanceTransportationInternationalRoadTruckPassenger Light TrucksConventionnalDiesel2016,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,TRU,LGT,,23,CONV,DSL,___,NEW,LDITRAINTROATRULGTCONVDSL____23,Long DistanceTransportationInternationalRoadTruckPassenger Light TrucksConventionnalDiesel2023,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,TRU,LGT,,16,CONV,GAS,___,NEW,LDITRAINTROATRULGTCONVGAS____16,Long DistanceTransportationInternationalRoadTruckPassenger Light TrucksConventionnalGasoline2016,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,TRU,LGT,,23,CONV,GAS,___,NEW,LDITRAINTROATRULGTCONVGAS____23,Long DistanceTransportationInternationalRoadTruckPassenger Light TrucksConventionnalGasoline2023,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,TRU,LGT,,16,CONV,NGA,___,NEW,LDITRAINTROATRULGTCONVNGA____16,Long DistanceTransportationInternationalRoadTruckPassenger Light TrucksConventionnalNatural Gas2016,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,TRU,LGT,,23,CONV,NGA,___,NEW,LDITRAINTROATRULGTCONVNGA____23,Long DistanceTransportationInternationalRoadTruckPassenger Light TrucksConventionnalNatural Gas2023,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,TRU,LGT,,23,CONV,NGA,BIF,NEW,LDITRAINTROATRULGTCONVNGABIF_23,Long DistanceTransportationInternationalRoadTruckPassenger Light TrucksConventionnalNatural GasBi Fuel2023,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,TRU,LGT,,16,CONV,PRO,___,NEW,LDITRAINTROATRULGTCONVPRO____16,Long DistanceTransportationInternationalRoadTruckPassenger Light TrucksConventionnalPropane2016,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,TRU,LGT,,23,CONV,PRO,___,NEW,LDITRAINTROATRULGTCONVPRO____23,Long DistanceTransportationInternationalRoadTruckPassenger Light TrucksConventionnalPropane2023,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,TRU,LGT,,23,CONV,PRO,BIF,NEW,LDITRAINTROATRULGTCONVPROBIF_23,Long DistanceTransportationInternationalRoadTruckPassenger Light TrucksConventionnalPropaneBi Fuel2023,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,TRU,LGT,,23,CONV,RDSL,___,NEW,LDITRAINTROATRULGTCONVRDSL____23,Long DistanceTransportationInternationalRoadTruckPassenger Light TrucksConventionnalRenewable Diesel2023,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,TRU,LGT,,23,HYB,DSL,___,NEW,LDITRAINTROATRULGTHYBDSL____23,Long DistanceTransportationInternationalRoadTruckPassenger Light TrucksHybridDiesel2023,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,TRU,LGT,,23,HYB,GAS,___,NEW,LDITRAINTROATRULGTHYBGAS____23,Long DistanceTransportationInternationalRoadTruckPassenger Light TrucksHybridGasoline2023,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,TRU,LGT,,23,HYB,RDSL,___,NEW,LDITRAINTROATRULGTHYBRDSL____23,Long DistanceTransportationInternationalRoadTruckPassenger Light TrucksHybridRenewable Diesel2023,LDITRA,kunits,Mvkt
+LDI,TRA,INT,,,ROA,TRU,LGT,,23,PHEV,GAS,ELC,NEW,LDITRAINTROATRULGTPHEVGASELC_23,Long DistanceTransportationInternationalRoadTruckPassenger Light TrucksPlug Hybrid VehicleGasolineElectricity2023,LDITRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,LGT,,,,,,ARCH,FRETRAROATRULGT,Freight TransportationTransportationRoadTruckPassenger Light Trucks,FRETRA,N/A,Mt.km
+FRE,TRA,,,,ROA,TRU,MET,,,,,,ARCH,FRETRAROATRUMET,Freight TransportationTransportationRoadTruckMedium Trucks,FRETRA,N/A,Mt.km
+FRE,TRA,,,,ROA,TRU,HET,,,,,,ARCH,FRETRAROATRUHET,Freight TransportationTransportationRoadTruckHeavy Trucks,FRETRA,N/A,Mt.km
+FRE,TRA,,,,AIR,___,___,,,,,,ARCH,FRETRAAIR______,Freight TransportationTransportationAir,FRETRA,N/A,Mt.km
+FRE,TRA,,,,RAI,___,___,,,,,,ARCH,FRETRARAI______,Freight TransportationTransportationRail,FRETRA,N/A,Mt.km
+FRE,TRA,,,,MAR,___,___,,,,,,ARCH,FRETRAMAR______,Freight TransportationTransportationMarine,FRETRA,N/A,Mt.km
+FRE,TRA,,,,ROA,TRU,LGT,,,CONV,GAS,,EX,FRETRAROATRULGTCONVGAS_EX,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,LGT,,,CONV,PRO,,EX,FRETRAROATRULGTCONVPRO_EX,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,LGT,,,CONV,DSL,,EX,FRETRAROATRULGTCONVDSL_EX,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,LGT,,,CONV,RDSL,,EX,FRETRAROATRULGTCONVRDSL_EX,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalRenewable Diesel,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,MET,,,CONV,GAS,,EX,FRETRAROATRUMETCONVGAS_EX,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,MET,,,CONV,DSL,,EX,FRETRAROATRUMETCONVDSL_EX,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,MET,,,CONV,RDSL,,EX,FRETRAROATRUMETCONVRDSL_EX,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalRenewable Diesel,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,HET,,,CONV,DSL,,EX,FRETRAROATRUHETCONVDSL_EX,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,HET,,,CONV,RDSL,,EX,FRETRAROATRUHETCONVRDSL_EX,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalRenewable Diesel,FRETRA,kunits,Mvkt
+FRE,TRA,,,,AIR,___,___,,,___,ATF,,EX,FRETRAAIR_________ATF_EX,Freight TransportationTransportationAirAviation Turbo Fuel,FRETRA,kunits,Mvkt
+FRE,TRA,,,,AIR,___,___,,,___,AGA,,EX,FRETRAAIR_________AGA_EX,Freight TransportationTransportationAirAviation Gasoline,FRETRA,kunits,Mvkt
+FRE,TRA,,,,RAI,___,___,,,___,DSL,,EX,FRETRARAI_________DSL_EX,Freight TransportationTransportationRailDiesel,FRETRA,kunits,Mvkt
+FRE,TRA,,,,MAR,___,___,,,___,ALL,,EX,FRETRAMAR_________ALL_EX,Freight TransportationTransportationMarineAll,FRETRA,kunits,Mvkt
+FRE,TRA,,,,AIR,___,___,,16,___,AGA,___,NEW,FRETRAAIR_________AGA____16,Freight TransportationTransportationAirAviation Gasoline2016,FRETRA,kunits,Mvkt
+FRE,TRA,,,,AIR,___,___,,23,___,AGA,___,NEW,FRETRAAIR_________AGA____23,Freight TransportationTransportationAirAviation Gasoline2023,FRETRA,kunits,Mvkt
+FRE,TRA,,,,AIR,___,___,,16,___,ATF,___,NEW,FRETRAAIR_________ATF____16,Freight TransportationTransportationAirAviation Turbo Fuel2016,FRETRA,kunits,Mvkt
+FRE,TRA,,,,AIR,___,___,,23,___,ATF,___,NEW,FRETRAAIR_________ATF____23,Freight TransportationTransportationAirAviation Turbo Fuel2023,FRETRA,kunits,Mvkt
+FRE,TRA,,,,RAI,___,___,,16,___,DSL,___,NEW,FRETRARAI_________DSL____16,Freight TransportationTransportationRailDiesel2016,FRETRA,kunits,Mvkt
+FRE,TRA,,,,RAI,___,___,,23,___,DSL,___,NEW,FRETRARAI_________DSL____23,Freight TransportationTransportationRailDiesel2023,FRETRA,kunits,Mvkt
+FRE,TRA,,,,RAI,___,___,,25,___,ELC,___,NEW,FRETRARAI_________ELC____25,Freight TransportationTransportationRailElectricity2025,FRETRA,kunits,Mvkt
+FRE,TRA,,,,RAI,___,___,,23,___,RDSL,___,NEW,FRETRARAI_________RDSL____23,Freight TransportationTransportationRailRenewable Diesel2023,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,HET,,25,BEV,BELCF,___,NEW,FRETRAROATRUHETBEVBELCF____25,Freight TransportationTransportationRoadTruckHeavy TrucksBattery Electric VehicleBattery Electricity Freight2025,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,HET,,25,CATE,DSL,ELC,NEW,FRETRAROATRUHETCATEDSLELC_25,Freight TransportationTransportationRoadTruckHeavy TrucksCatenaryDieselElectricity2025,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,HET,,25,CATE,ELC,___,NEW,FRETRAROATRUHETCATEELC____25,Freight TransportationTransportationRoadTruckHeavy TrucksCatenaryElectricity2025,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,HET,,25,CATE,NGA,ELC,NEW,FRETRAROATRUHETCATENGAELC_25,Freight TransportationTransportationRoadTruckHeavy TrucksCatenaryNatural GasElectricity2025,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,HET,,25,CATE,RDSL,ELC,NEW,FRETRAROATRUHETCATERDSLELC_25,Freight TransportationTransportationRoadTruckHeavy TrucksCatenaryRenewable DieselElectricity2025,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,HET,,25,CELL,HH2,___,NEW,FRETRAROATRUHETCELLHH2____25,Freight TransportationTransportationRoadTruckHeavy TrucksFuel Cell VehicleHydrogen2025,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,HET,,16,CONV,DSL,___,NEW,FRETRAROATRUHETCONVDSL____16,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel2016,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,HET,,23,CONV,DSL,___,NEW,FRETRAROATRUHETCONVDSL____23,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel2023,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,HET,,23,CONV,NGA,___,NEW,FRETRAROATRUHETCONVNGA____23,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalNatural Gas2023,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,HET,,23,CONV,RDSL,___,NEW,FRETRAROATRUHETCONVRDSL____23,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalRenewable Diesel2023,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,HET,,23,HYB,DSL,___,NEW,FRETRAROATRUHETHYBDSL____23,Freight TransportationTransportationRoadTruckHeavy TrucksHybridDiesel2023,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,HET,,23,HYB,RDSL,___,NEW,FRETRAROATRUHETHYBRDSL____23,Freight TransportationTransportationRoadTruckHeavy TrucksHybridRenewable Diesel2023,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,HET,,23,PHEV,DSL,BELCF,NEW,FRETRAROATRUHETPHEVDSLBELCF_23,Freight TransportationTransportationRoadTruckHeavy TrucksPlug Hybrid VehicleDieselBattery Electricity Freight2023,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,HET,,23,PHEV,NGA,BELCF,NEW,FRETRAROATRUHETPHEVNGABELCF_23,Freight TransportationTransportationRoadTruckHeavy TrucksPlug Hybrid VehicleNatural GasBattery Electricity Freight2023,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,HET,,23,PHEV,RDSL,BELCF,NEW,FRETRAROATRUHETPHEVRDSLBELCF_23,Freight TransportationTransportationRoadTruckHeavy TrucksPlug Hybrid VehicleRenewable DieselBattery Electricity Freight2023,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,LGT,,23,BEV,BELCF,___,NEW,FRETRAROATRULGTBEVBELCF____23,Freight TransportationTransportationRoadTruckPassenger Light TrucksBattery Electric VehicleBattery Electricity Freight2023,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,LGT,,23,CELL,HH2,___,NEW,FRETRAROATRULGTCELLHH2____23,Freight TransportationTransportationRoadTruckPassenger Light TrucksFuel Cell VehicleHydrogen2023,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,LGT,,16,CONV,DSL,___,NEW,FRETRAROATRULGTCONVDSL____16,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel2016,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,LGT,,23,CONV,DSL,___,NEW,FRETRAROATRULGTCONVDSL____23,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel2023,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,LGT,,16,CONV,GAS,___,NEW,FRETRAROATRULGTCONVGAS____16,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline2016,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,LGT,,23,CONV,GAS,___,NEW,FRETRAROATRULGTCONVGAS____23,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline2023,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,LGT,,23,CONV,NGA,___,NEW,FRETRAROATRULGTCONVNGA____23,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalNatural Gas2023,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,LGT,,16,CONV,PRO,___,NEW,FRETRAROATRULGTCONVPRO____16,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane2016,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,LGT,,23,CONV,PRO,___,NEW,FRETRAROATRULGTCONVPRO____23,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane2023,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,LGT,,23,CONV,RDSL,___,NEW,FRETRAROATRULGTCONVRDSL____23,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalRenewable Diesel2023,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,LGT,,23,HYB,DSL,___,NEW,FRETRAROATRULGTHYBDSL____23,Freight TransportationTransportationRoadTruckPassenger Light TrucksHybridDiesel2023,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,LGT,,23,HYB,GAS,___,NEW,FRETRAROATRULGTHYBGAS____23,Freight TransportationTransportationRoadTruckPassenger Light TrucksHybridGasoline2023,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,LGT,,23,HYB,RDSL,___,NEW,FRETRAROATRULGTHYBRDSL____23,Freight TransportationTransportationRoadTruckPassenger Light TrucksHybridRenewable Diesel2023,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,LGT,,23,PHEV,GAS,BELCF,NEW,FRETRAROATRULGTPHEVGASBELCF_23,Freight TransportationTransportationRoadTruckPassenger Light TrucksPlug Hybrid VehicleGasolineBattery Electricity Freight2023,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,MET,,23,BEV,BELCF,___,NEW,FRETRAROATRUMETBEVBELCF____23,Freight TransportationTransportationRoadTruckMedium TrucksBattery Electric VehicleBattery Electricity Freight2023,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,MET,,23,CELL,HH2,___,NEW,FRETRAROATRUMETCELLHH2____23,Freight TransportationTransportationRoadTruckMedium TrucksFuel Cell VehicleHydrogen2023,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,MET,,16,CONV,DSL,___,NEW,FRETRAROATRUMETCONVDSL____16,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel2016,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,MET,,23,CONV,DSL,___,NEW,FRETRAROATRUMETCONVDSL____23,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel2023,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,MET,,16,CONV,GAS,___,NEW,FRETRAROATRUMETCONVGAS____16,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline2016,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,MET,,23,CONV,GAS,___,NEW,FRETRAROATRUMETCONVGAS____23,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline2023,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,MET,,23,CONV,NGA,___,NEW,FRETRAROATRUMETCONVNGA____23,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalNatural Gas2023,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,MET,,23,CONV,PRO,___,NEW,FRETRAROATRUMETCONVPRO____23,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalPropane2023,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,MET,,23,CONV,RDSL,___,NEW,FRETRAROATRUMETCONVRDSL____23,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalRenewable Diesel2023,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,MET,,23,HYB,DSL,___,NEW,FRETRAROATRUMETHYBDSL____23,Freight TransportationTransportationRoadTruckMedium TrucksHybridDiesel2023,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,MET,,23,HYB,RDSL,___,NEW,FRETRAROATRUMETHYBRDSL____23,Freight TransportationTransportationRoadTruckMedium TrucksHybridRenewable Diesel2023,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,MET,,23,PHEV,DSL,BELCF,NEW,FRETRAROATRUMETPHEVDSLBELCF_23,Freight TransportationTransportationRoadTruckMedium TrucksPlug Hybrid VehicleDieselBattery Electricity Freight2023,FRETRA,kunits,Mvkt
+FRE,TRA,,,,ROA,TRU,MET,,23,PHEV,RDSL,BELCF,NEW,FRETRAROATRUMETPHEVRDSLBELCF_23,Freight TransportationTransportationRoadTruckMedium TrucksPlug Hybrid VehicleRenewable DieselBattery Electricity Freight2023,FRETRA,kunits,Mvkt

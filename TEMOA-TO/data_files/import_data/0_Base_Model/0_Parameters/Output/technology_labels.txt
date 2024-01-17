@@ -1,0 +1,4 @@
+INSERT INTO`technology_labels`VALUES('r','ressource technology');
+INSERT INTO`technology_labels`VALUES('p','production technology');
+INSERT INTO`technology_labels`VALUES('pb','baseload productrion technology');
+INSERT INTO`technology_labels`VALUES('ps','storage production technology');

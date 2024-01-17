@@ -1,0 +1,10 @@
+INSERT INTO`technologies`VALUES('WATWASFWSPL','p','WATWAS','WaterWasteSplitFresh water','nan');
+INSERT INTO`technologies`VALUES('WATWASCOLRW','p','WATWAS','WaterWasteRain collectionRain water','nan');
+INSERT INTO`technologies`VALUES('WATWASSEWWW','p','WATWAS','WaterWasteSewer CollectionFresh water','nan');
+INSERT INTO`technologies`VALUES('WATWASPUMWW','p','WATWAS','WaterWastePumpWaste water','nan');
+INSERT INTO`technologies`VALUES('WATWASGRIWW','p','WATWAS','WaterWasteGridWaste water','nan');
+INSERT INTO`technologies`VALUES('WATWASSTPWW','p','WATWAS','WaterWasteSplit Treatment PlantWaste water','nan');
+INSERT INTO`technologies`VALUES('WATWASPUMFW','p','WATWAS','WaterWastePumpFresh water','nan');
+INSERT INTO`technologies`VALUES('WATWASGRIFW','p','WATWAS','WaterWasteGridFresh water','nan');
+INSERT INTO`technologies`VALUES('WATWASSTPFW','p','WATWAS','WaterWasteSplit Treatment PlantFresh water','nan');
+INSERT INTO`technologies`VALUES('TOWATWASETHOS','p','WATWAS',0,'nan');

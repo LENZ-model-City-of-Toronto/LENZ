@@ -1,0 +1,36 @@
+comm_name,flag,comm_desc
+IMPELC,p,ImportElectricity
+IMPDSL,p,ImportDiesel
+IMPBDSL,p,ImportBio Diesel
+IMPETH,p,ImportEthanol
+IMPGAS,p,ImportGasoline
+IMPRDSL,p,ImportRenewable Diesel
+IMPNGA,p,ImportNatural Gas
+IMPBMTN,p,ImportBio Methane
+IMPSGA,p,ImportSynthetic Gas
+IMPSMTN,p,ImportSynthetic Methane
+IMPCETH,p,ImportCellulosic Ethanol
+IMPPRO,p,ImportPropane
+IMPHH2,p,ImportHydrogen
+IMPETHOS,p,ImportDummy
+EXPBMTN,p,ExportBio Methane
+EXPCETH,p,ExportCellulosic Ethanol
+EXPHH2,p,ExportHydrogen
+IMPATF,p,ImportAviation Turbo Fuel
+IMPBJE,p,ImportBio Jet
+IMPSJE,p,ImportSynthetic Jet
+IMPAGA,p,ImportAviation Gasoline
+IMPHFO,p,ImportHeavy Fuel Oil
+IMPKER,p,ImportKerosene
+IMPLFO,p,ImportLight Fuel Oil
+IMPBMA,p,ImportBiomass
+IMPBWP,p,ImportWood Pellet
+IMPGEO,p,ImportGeothermal Energy
+IMPSOL,p,ImportSolar
+IMPPCOK,p,ImportPetcoke
+IMPCOA,p,ImportCoal
+IMPCOK,p,ImportCoke
+IMPFW,p,ImportWater
+IMPFTDSL,p,ImportFT Diesel
+ETHOS,p,Dummy
+EXPETHOS,p,Dummy

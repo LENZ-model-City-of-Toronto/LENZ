@@ -1,0 +1,16 @@
+INSERT INTO`curtailment`VALUES('RESBDGELCPRDPVDCEBEP_23','ResidentialBuildingElectricityProductionPV pannelDecentralizedBest potential');
+INSERT INTO`curtailment`VALUES('RESBDGELCPRDPVDCEMEP_23','ResidentialBuildingElectricityProductionPV pannelDecentralizedMedium potential');
+INSERT INTO`curtailment`VALUES('RESBDGELCPRDPVDCEPOP_23','ResidentialBuildingElectricityProductionPV pannelDecentralizedPoor potential');
+INSERT INTO`curtailment`VALUES('COMBDGELCPRDPVDCEBEP_23','CommercialBuildingElectricityProductionPV pannelDecentralizedBest potential');
+INSERT INTO`curtailment`VALUES('COMBDGELCPRDPVDCEMEP_23','CommercialBuildingElectricityProductionPV pannelDecentralizedMedium potential');
+INSERT INTO`curtailment`VALUES('COMBDGELCPRDPVDCEPOP_23','CommercialBuildingElectricityProductionPV pannelDecentralizedPoor potential');
+INSERT INTO`curtailment`VALUES('PUBBDGELCPRDPVDCEBEP_23','PublicBuildingElectricityProductionPV pannelDecentralizedBest potential');
+INSERT INTO`curtailment`VALUES('PUBBDGELCPRDPVDCEMEP_23','PublicBuildingElectricityProductionPV pannelDecentralizedMedium potential');
+INSERT INTO`curtailment`VALUES('PUBBDGELCPRDPVDCEPOP_23','PublicBuildingElectricityProductionPV pannelDecentralizedPoor potential');
+INSERT INTO`curtailment`VALUES('INDBDGELCPRDPVDCEBEP_23','IndustrialBuildingElectricityProductionPV pannelDecentralizedBest potential');
+INSERT INTO`curtailment`VALUES('INDBDGELCPRDPVDCEMEP_23','IndustrialBuildingElectricityProductionPV pannelDecentralizedMedium potential');
+INSERT INTO`curtailment`VALUES('INDBDGELCPRDPVDCEPOP_23','IndustrialBuildingElectricityProductionPV pannelDecentralizedPoor potential');
+INSERT INTO`curtailment`VALUES('RESBDGELCPRDWTDCESTD_23','ResidentialBuildingElectricityProductionWind TurbineDecentralizedStandard');
+INSERT INTO`curtailment`VALUES('COMBDGELCPRDWTDCESTD_23','CommercialBuildingElectricityProductionWind TurbineDecentralizedStandard');
+INSERT INTO`curtailment`VALUES('PUBBDGELCPRDWTDCESTD_23','PublicBuildingElectricityProductionWind TurbineDecentralizedStandard');
+INSERT INTO`curtailment`VALUES('INDBDGELCPRDWTDCESTD_23','IndustrialBuildingElectricityProductionWind TurbineDecentralizedStandard');

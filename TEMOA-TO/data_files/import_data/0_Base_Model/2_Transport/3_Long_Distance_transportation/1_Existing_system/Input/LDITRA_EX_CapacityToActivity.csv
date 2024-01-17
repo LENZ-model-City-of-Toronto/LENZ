@@ -1,0 +1,7 @@
+regions,tech,c2a,c2a_notes
+TO,LDITRADOMAIR_________AGA_EX,7708.8,Long DistanceTransportationDomesticAirAviation Gasoline
+TO,LDITRADOMAIR_________ATF_EX,7708.8,Long DistanceTransportationDomesticAirAviation Turbo Fuel
+TO,LDITRADOMRAI_________DSL_EX,1314.0,Long DistanceTransportationDomesticRailDiesel
+TO,LDITRAINTAIR_________AGA_EX,7708.8,Long DistanceTransportationInternationalAirAviation Gasoline
+TO,LDITRAINTAIR_________ATF_EX,7708.8,Long DistanceTransportationInternationalAirAviation Turbo Fuel
+TO,LDITRAINTRAI_________DSL_EX,1314.0,Long DistanceTransportationInternationalRailDiesel

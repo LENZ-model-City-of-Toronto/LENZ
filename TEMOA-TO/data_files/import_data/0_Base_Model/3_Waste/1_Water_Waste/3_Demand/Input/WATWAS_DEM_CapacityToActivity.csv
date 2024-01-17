@@ -1,0 +1,11 @@
+regions,tech,c2a,c2a_notes
+TO,WATWASFWSPL,1,WaterWasteSplitFresh water
+TO,WATWASCOLRW,1,WaterWasteRain collectionRain water
+TO,WATWASSEWWW,1,WaterWasteSewer CollectionFresh water
+TO,WATWASPUMWW,1,WaterWastePumpWaste water
+TO,WATWASGRIWW,1,WaterWasteGridWaste water
+TO,WATWASSTPWW,1,WaterWasteSplit Treatment PlantWaste water
+TO,WATWASPUMFW,1,WaterWastePumpFresh water
+TO,WATWASGRIFW,1,WaterWasteGridFresh water
+TO,WATWASSTPFW,1,WaterWasteSplit Treatment PlantFresh water
+TO,TOWATWASETHOS,1,0

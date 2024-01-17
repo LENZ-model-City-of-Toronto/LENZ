@@ -1,0 +1,169 @@
+regions,tech,vintage,cost_invest,cost_invest_units,cost_invest_notes
+TO,INDBDGIPSEP___WAH_23,2023,0,k$ / MW,IndustryBuildingIndustrial Processes
+TO,INDBDGLIRET_23,2023,0,k$ / MW,IndustryBuildingLightingRetrofit
+TO,INDBDGIPRET_23,2023,10000,k$ / MW,IndustryBuildingIndustrial ProcessesRetrofit
+TO,INDBDGSCRET_23,2023,10000,k$ / MW,IndustryBuildingSpace CoolingRetrofit
+TO,INDBDGSHRET_23,2023,10000,k$ / MW,IndustryBuildingSpace HeatingRetrofit
+TO,INDBDGWHRET_23,2023,10000,k$ / MW,IndustryBuildingWater HeatingRetrofit
+TO,INDBDGIPSEP___WAH_23,2024,0,k$ / MW,IndustryBuildingIndustrial Processes
+TO,INDBDGLIRET_23,2024,0,k$ / MW,IndustryBuildingLightingRetrofit
+TO,INDBDGIPRET_23,2024,10000,k$ / MW,IndustryBuildingIndustrial ProcessesRetrofit
+TO,INDBDGSCRET_23,2024,10000,k$ / MW,IndustryBuildingSpace CoolingRetrofit
+TO,INDBDGSHRET_23,2024,10000,k$ / MW,IndustryBuildingSpace HeatingRetrofit
+TO,INDBDGWHRET_23,2024,10000,k$ / MW,IndustryBuildingWater HeatingRetrofit
+TO,INDBDGIPSEP___WAH_23,2025,0,k$ / MW,IndustryBuildingIndustrial Processes
+TO,INDBDGLIRET_23,2025,0,k$ / MW,IndustryBuildingLightingRetrofit
+TO,INDBDGIPRET_23,2025,10000,k$ / MW,IndustryBuildingIndustrial ProcessesRetrofit
+TO,INDBDGSCRET_23,2025,10000,k$ / MW,IndustryBuildingSpace CoolingRetrofit
+TO,INDBDGSHRET_23,2025,10000,k$ / MW,IndustryBuildingSpace HeatingRetrofit
+TO,INDBDGWHRET_23,2025,10000,k$ / MW,IndustryBuildingWater HeatingRetrofit
+TO,INDBDGIPSEP___WAH_23,2026,0,k$ / MW,IndustryBuildingIndustrial Processes
+TO,INDBDGLIRET_23,2026,0,k$ / MW,IndustryBuildingLightingRetrofit
+TO,INDBDGIPRET_23,2026,10000,k$ / MW,IndustryBuildingIndustrial ProcessesRetrofit
+TO,INDBDGSCRET_23,2026,10000,k$ / MW,IndustryBuildingSpace CoolingRetrofit
+TO,INDBDGSHRET_23,2026,10000,k$ / MW,IndustryBuildingSpace HeatingRetrofit
+TO,INDBDGWHRET_23,2026,10000,k$ / MW,IndustryBuildingWater HeatingRetrofit
+TO,INDBDGIPSEP___WAH_23,2027,0,k$ / MW,IndustryBuildingIndustrial Processes
+TO,INDBDGLIRET_23,2027,0,k$ / MW,IndustryBuildingLightingRetrofit
+TO,INDBDGIPRET_23,2027,10000,k$ / MW,IndustryBuildingIndustrial ProcessesRetrofit
+TO,INDBDGSCRET_23,2027,10000,k$ / MW,IndustryBuildingSpace CoolingRetrofit
+TO,INDBDGSHRET_23,2027,10000,k$ / MW,IndustryBuildingSpace HeatingRetrofit
+TO,INDBDGWHRET_23,2027,10000,k$ / MW,IndustryBuildingWater HeatingRetrofit
+TO,INDBDGIPSEP___WAH_23,2028,0,k$ / MW,IndustryBuildingIndustrial Processes
+TO,INDBDGLIRET_23,2028,0,k$ / MW,IndustryBuildingLightingRetrofit
+TO,INDBDGIPRET_23,2028,10000,k$ / MW,IndustryBuildingIndustrial ProcessesRetrofit
+TO,INDBDGSCRET_23,2028,10000,k$ / MW,IndustryBuildingSpace CoolingRetrofit
+TO,INDBDGSHRET_23,2028,10000,k$ / MW,IndustryBuildingSpace HeatingRetrofit
+TO,INDBDGWHRET_23,2028,10000,k$ / MW,IndustryBuildingWater HeatingRetrofit
+TO,INDBDGIPSEP___WAH_23,2029,0,k$ / MW,IndustryBuildingIndustrial Processes
+TO,INDBDGLIRET_23,2029,0,k$ / MW,IndustryBuildingLightingRetrofit
+TO,INDBDGIPRET_23,2029,10000,k$ / MW,IndustryBuildingIndustrial ProcessesRetrofit
+TO,INDBDGSCRET_23,2029,10000,k$ / MW,IndustryBuildingSpace CoolingRetrofit
+TO,INDBDGSHRET_23,2029,10000,k$ / MW,IndustryBuildingSpace HeatingRetrofit
+TO,INDBDGWHRET_23,2029,10000,k$ / MW,IndustryBuildingWater HeatingRetrofit
+TO,INDBDGIPSEP___WAH_23,2030,0,k$ / MW,IndustryBuildingIndustrial Processes
+TO,INDBDGLIRET_23,2030,0,k$ / MW,IndustryBuildingLightingRetrofit
+TO,INDBDGIPRET_23,2030,10000,k$ / MW,IndustryBuildingIndustrial ProcessesRetrofit
+TO,INDBDGSCRET_23,2030,10000,k$ / MW,IndustryBuildingSpace CoolingRetrofit
+TO,INDBDGSHRET_23,2030,10000,k$ / MW,IndustryBuildingSpace HeatingRetrofit
+TO,INDBDGWHRET_23,2030,10000,k$ / MW,IndustryBuildingWater HeatingRetrofit
+TO,INDBDGIPSEP___WAH_23,2031,0,k$ / MW,IndustryBuildingIndustrial Processes
+TO,INDBDGLIRET_23,2031,0,k$ / MW,IndustryBuildingLightingRetrofit
+TO,INDBDGIPRET_23,2031,10000,k$ / MW,IndustryBuildingIndustrial ProcessesRetrofit
+TO,INDBDGSCRET_23,2031,10000,k$ / MW,IndustryBuildingSpace CoolingRetrofit
+TO,INDBDGSHRET_23,2031,10000,k$ / MW,IndustryBuildingSpace HeatingRetrofit
+TO,INDBDGWHRET_23,2031,10000,k$ / MW,IndustryBuildingWater HeatingRetrofit
+TO,INDBDGIPSEP___WAH_23,2032,0,k$ / MW,IndustryBuildingIndustrial Processes
+TO,INDBDGLIRET_23,2032,0,k$ / MW,IndustryBuildingLightingRetrofit
+TO,INDBDGIPRET_23,2032,10000,k$ / MW,IndustryBuildingIndustrial ProcessesRetrofit
+TO,INDBDGSCRET_23,2032,10000,k$ / MW,IndustryBuildingSpace CoolingRetrofit
+TO,INDBDGSHRET_23,2032,10000,k$ / MW,IndustryBuildingSpace HeatingRetrofit
+TO,INDBDGWHRET_23,2032,10000,k$ / MW,IndustryBuildingWater HeatingRetrofit
+TO,INDBDGIPSEP___WAH_23,2033,0,k$ / MW,IndustryBuildingIndustrial Processes
+TO,INDBDGLIRET_23,2033,0,k$ / MW,IndustryBuildingLightingRetrofit
+TO,INDBDGIPRET_23,2033,10000,k$ / MW,IndustryBuildingIndustrial ProcessesRetrofit
+TO,INDBDGSCRET_23,2033,10000,k$ / MW,IndustryBuildingSpace CoolingRetrofit
+TO,INDBDGSHRET_23,2033,10000,k$ / MW,IndustryBuildingSpace HeatingRetrofit
+TO,INDBDGWHRET_23,2033,10000,k$ / MW,IndustryBuildingWater HeatingRetrofit
+TO,INDBDGIPSEP___WAH_23,2034,0,k$ / MW,IndustryBuildingIndustrial Processes
+TO,INDBDGLIRET_23,2034,0,k$ / MW,IndustryBuildingLightingRetrofit
+TO,INDBDGIPRET_23,2034,10000,k$ / MW,IndustryBuildingIndustrial ProcessesRetrofit
+TO,INDBDGSCRET_23,2034,10000,k$ / MW,IndustryBuildingSpace CoolingRetrofit
+TO,INDBDGSHRET_23,2034,10000,k$ / MW,IndustryBuildingSpace HeatingRetrofit
+TO,INDBDGWHRET_23,2034,10000,k$ / MW,IndustryBuildingWater HeatingRetrofit
+TO,INDBDGIPSEP___WAH_23,2035,0,k$ / MW,IndustryBuildingIndustrial Processes
+TO,INDBDGLIRET_23,2035,0,k$ / MW,IndustryBuildingLightingRetrofit
+TO,INDBDGIPRET_23,2035,10000,k$ / MW,IndustryBuildingIndustrial ProcessesRetrofit
+TO,INDBDGSCRET_23,2035,10000,k$ / MW,IndustryBuildingSpace CoolingRetrofit
+TO,INDBDGSHRET_23,2035,10000,k$ / MW,IndustryBuildingSpace HeatingRetrofit
+TO,INDBDGWHRET_23,2035,10000,k$ / MW,IndustryBuildingWater HeatingRetrofit
+TO,INDBDGIPSEP___WAH_23,2036,0,k$ / MW,IndustryBuildingIndustrial Processes
+TO,INDBDGLIRET_23,2036,0,k$ / MW,IndustryBuildingLightingRetrofit
+TO,INDBDGIPRET_23,2036,10000,k$ / MW,IndustryBuildingIndustrial ProcessesRetrofit
+TO,INDBDGSCRET_23,2036,10000,k$ / MW,IndustryBuildingSpace CoolingRetrofit
+TO,INDBDGSHRET_23,2036,10000,k$ / MW,IndustryBuildingSpace HeatingRetrofit
+TO,INDBDGWHRET_23,2036,10000,k$ / MW,IndustryBuildingWater HeatingRetrofit
+TO,INDBDGIPSEP___WAH_23,2037,0,k$ / MW,IndustryBuildingIndustrial Processes
+TO,INDBDGLIRET_23,2037,0,k$ / MW,IndustryBuildingLightingRetrofit
+TO,INDBDGIPRET_23,2037,10000,k$ / MW,IndustryBuildingIndustrial ProcessesRetrofit
+TO,INDBDGSCRET_23,2037,10000,k$ / MW,IndustryBuildingSpace CoolingRetrofit
+TO,INDBDGSHRET_23,2037,10000,k$ / MW,IndustryBuildingSpace HeatingRetrofit
+TO,INDBDGWHRET_23,2037,10000,k$ / MW,IndustryBuildingWater HeatingRetrofit
+TO,INDBDGIPSEP___WAH_23,2038,0,k$ / MW,IndustryBuildingIndustrial Processes
+TO,INDBDGLIRET_23,2038,0,k$ / MW,IndustryBuildingLightingRetrofit
+TO,INDBDGIPRET_23,2038,10000,k$ / MW,IndustryBuildingIndustrial ProcessesRetrofit
+TO,INDBDGSCRET_23,2038,10000,k$ / MW,IndustryBuildingSpace CoolingRetrofit
+TO,INDBDGSHRET_23,2038,10000,k$ / MW,IndustryBuildingSpace HeatingRetrofit
+TO,INDBDGWHRET_23,2038,10000,k$ / MW,IndustryBuildingWater HeatingRetrofit
+TO,INDBDGIPSEP___WAH_23,2039,0,k$ / MW,IndustryBuildingIndustrial Processes
+TO,INDBDGLIRET_23,2039,0,k$ / MW,IndustryBuildingLightingRetrofit
+TO,INDBDGIPRET_23,2039,10000,k$ / MW,IndustryBuildingIndustrial ProcessesRetrofit
+TO,INDBDGSCRET_23,2039,10000,k$ / MW,IndustryBuildingSpace CoolingRetrofit
+TO,INDBDGSHRET_23,2039,10000,k$ / MW,IndustryBuildingSpace HeatingRetrofit
+TO,INDBDGWHRET_23,2039,10000,k$ / MW,IndustryBuildingWater HeatingRetrofit
+TO,INDBDGIPSEP___WAH_23,2040,0,k$ / MW,IndustryBuildingIndustrial Processes
+TO,INDBDGLIRET_23,2040,0,k$ / MW,IndustryBuildingLightingRetrofit
+TO,INDBDGIPRET_23,2040,10000,k$ / MW,IndustryBuildingIndustrial ProcessesRetrofit
+TO,INDBDGSCRET_23,2040,10000,k$ / MW,IndustryBuildingSpace CoolingRetrofit
+TO,INDBDGSHRET_23,2040,10000,k$ / MW,IndustryBuildingSpace HeatingRetrofit
+TO,INDBDGWHRET_23,2040,10000,k$ / MW,IndustryBuildingWater HeatingRetrofit
+TO,INDBDGIPSEP___WAH_23,2041,0,k$ / MW,IndustryBuildingIndustrial Processes
+TO,INDBDGLIRET_23,2041,0,k$ / MW,IndustryBuildingLightingRetrofit
+TO,INDBDGIPRET_23,2041,10000,k$ / MW,IndustryBuildingIndustrial ProcessesRetrofit
+TO,INDBDGSCRET_23,2041,10000,k$ / MW,IndustryBuildingSpace CoolingRetrofit
+TO,INDBDGSHRET_23,2041,10000,k$ / MW,IndustryBuildingSpace HeatingRetrofit
+TO,INDBDGWHRET_23,2041,10000,k$ / MW,IndustryBuildingWater HeatingRetrofit
+TO,INDBDGIPSEP___WAH_23,2042,0,k$ / MW,IndustryBuildingIndustrial Processes
+TO,INDBDGLIRET_23,2042,0,k$ / MW,IndustryBuildingLightingRetrofit
+TO,INDBDGIPRET_23,2042,10000,k$ / MW,IndustryBuildingIndustrial ProcessesRetrofit
+TO,INDBDGSCRET_23,2042,10000,k$ / MW,IndustryBuildingSpace CoolingRetrofit
+TO,INDBDGSHRET_23,2042,10000,k$ / MW,IndustryBuildingSpace HeatingRetrofit
+TO,INDBDGWHRET_23,2042,10000,k$ / MW,IndustryBuildingWater HeatingRetrofit
+TO,INDBDGIPSEP___WAH_23,2043,0,k$ / MW,IndustryBuildingIndustrial Processes
+TO,INDBDGLIRET_23,2043,0,k$ / MW,IndustryBuildingLightingRetrofit
+TO,INDBDGIPRET_23,2043,10000,k$ / MW,IndustryBuildingIndustrial ProcessesRetrofit
+TO,INDBDGSCRET_23,2043,10000,k$ / MW,IndustryBuildingSpace CoolingRetrofit
+TO,INDBDGSHRET_23,2043,10000,k$ / MW,IndustryBuildingSpace HeatingRetrofit
+TO,INDBDGWHRET_23,2043,10000,k$ / MW,IndustryBuildingWater HeatingRetrofit
+TO,INDBDGIPSEP___WAH_23,2044,0,k$ / MW,IndustryBuildingIndustrial Processes
+TO,INDBDGLIRET_23,2044,0,k$ / MW,IndustryBuildingLightingRetrofit
+TO,INDBDGIPRET_23,2044,10000,k$ / MW,IndustryBuildingIndustrial ProcessesRetrofit
+TO,INDBDGSCRET_23,2044,10000,k$ / MW,IndustryBuildingSpace CoolingRetrofit
+TO,INDBDGSHRET_23,2044,10000,k$ / MW,IndustryBuildingSpace HeatingRetrofit
+TO,INDBDGWHRET_23,2044,10000,k$ / MW,IndustryBuildingWater HeatingRetrofit
+TO,INDBDGIPSEP___WAH_23,2045,0,k$ / MW,IndustryBuildingIndustrial Processes
+TO,INDBDGLIRET_23,2045,0,k$ / MW,IndustryBuildingLightingRetrofit
+TO,INDBDGIPRET_23,2045,10000,k$ / MW,IndustryBuildingIndustrial ProcessesRetrofit
+TO,INDBDGSCRET_23,2045,10000,k$ / MW,IndustryBuildingSpace CoolingRetrofit
+TO,INDBDGSHRET_23,2045,10000,k$ / MW,IndustryBuildingSpace HeatingRetrofit
+TO,INDBDGWHRET_23,2045,10000,k$ / MW,IndustryBuildingWater HeatingRetrofit
+TO,INDBDGIPSEP___WAH_23,2046,0,k$ / MW,IndustryBuildingIndustrial Processes
+TO,INDBDGLIRET_23,2046,0,k$ / MW,IndustryBuildingLightingRetrofit
+TO,INDBDGIPRET_23,2046,10000,k$ / MW,IndustryBuildingIndustrial ProcessesRetrofit
+TO,INDBDGSCRET_23,2046,10000,k$ / MW,IndustryBuildingSpace CoolingRetrofit
+TO,INDBDGSHRET_23,2046,10000,k$ / MW,IndustryBuildingSpace HeatingRetrofit
+TO,INDBDGWHRET_23,2046,10000,k$ / MW,IndustryBuildingWater HeatingRetrofit
+TO,INDBDGIPSEP___WAH_23,2047,0,k$ / MW,IndustryBuildingIndustrial Processes
+TO,INDBDGLIRET_23,2047,0,k$ / MW,IndustryBuildingLightingRetrofit
+TO,INDBDGIPRET_23,2047,10000,k$ / MW,IndustryBuildingIndustrial ProcessesRetrofit
+TO,INDBDGSCRET_23,2047,10000,k$ / MW,IndustryBuildingSpace CoolingRetrofit
+TO,INDBDGSHRET_23,2047,10000,k$ / MW,IndustryBuildingSpace HeatingRetrofit
+TO,INDBDGWHRET_23,2047,10000,k$ / MW,IndustryBuildingWater HeatingRetrofit
+TO,INDBDGIPSEP___WAH_23,2048,0,k$ / MW,IndustryBuildingIndustrial Processes
+TO,INDBDGLIRET_23,2048,0,k$ / MW,IndustryBuildingLightingRetrofit
+TO,INDBDGIPRET_23,2048,10000,k$ / MW,IndustryBuildingIndustrial ProcessesRetrofit
+TO,INDBDGSCRET_23,2048,10000,k$ / MW,IndustryBuildingSpace CoolingRetrofit
+TO,INDBDGSHRET_23,2048,10000,k$ / MW,IndustryBuildingSpace HeatingRetrofit
+TO,INDBDGWHRET_23,2048,10000,k$ / MW,IndustryBuildingWater HeatingRetrofit
+TO,INDBDGIPSEP___WAH_23,2049,0,k$ / MW,IndustryBuildingIndustrial Processes
+TO,INDBDGLIRET_23,2049,0,k$ / MW,IndustryBuildingLightingRetrofit
+TO,INDBDGIPRET_23,2049,10000,k$ / MW,IndustryBuildingIndustrial ProcessesRetrofit
+TO,INDBDGSCRET_23,2049,10000,k$ / MW,IndustryBuildingSpace CoolingRetrofit
+TO,INDBDGSHRET_23,2049,10000,k$ / MW,IndustryBuildingSpace HeatingRetrofit
+TO,INDBDGWHRET_23,2049,10000,k$ / MW,IndustryBuildingWater HeatingRetrofit
+TO,INDBDGIPSEP___WAH_23,2050,0,k$ / MW,IndustryBuildingIndustrial Processes
+TO,INDBDGLIRET_23,2050,0,k$ / MW,IndustryBuildingLightingRetrofit
+TO,INDBDGIPRET_23,2050,10000,k$ / MW,IndustryBuildingIndustrial ProcessesRetrofit
+TO,INDBDGSCRET_23,2050,10000,k$ / MW,IndustryBuildingSpace CoolingRetrofit
+TO,INDBDGSHRET_23,2050,10000,k$ / MW,IndustryBuildingSpace HeatingRetrofit
+TO,INDBDGWHRET_23,2050,10000,k$ / MW,IndustryBuildingWater HeatingRetrofit

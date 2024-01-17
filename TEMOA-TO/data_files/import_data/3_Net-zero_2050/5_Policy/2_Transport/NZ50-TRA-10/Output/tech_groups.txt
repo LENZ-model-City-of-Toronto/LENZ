@@ -1,0 +1,4 @@
+INSERT INTO`tech_groups`VALUES('PUBTRABDSLIMP','nan','nan');
+INSERT INTO`tech_groups`VALUES('PUBTRADSLIMP','nan','nan');
+INSERT INTO`tech_groups`VALUES('PUBTRAFTDSLIMP','nan','nan');
+INSERT INTO`tech_groups`VALUES('PUBTRARDSLIMP','nan','nan');

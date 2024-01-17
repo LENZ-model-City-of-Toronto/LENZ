@@ -1,0 +1,4 @@
+INSERT INTO`technologies`VALUES('SLDWASGRB','p','SLDWAS','SolidWasteGreen BinDisco Road','nan');
+INSERT INTO`technologies`VALUES('SLDWASLDFGL','p','SLDWAS','SolidWasteLandfillGreen Lane','nan');
+INSERT INTO`technologies`VALUES('TOSLDWASETHOS','p','SLDWAS','nan','nan');
+INSERT INTO`technologies`VALUES('TORECSLDASETHOS','p','SLDWAS','nan','nan');

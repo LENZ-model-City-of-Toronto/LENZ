@@ -1,0 +1,401 @@
+regions,season_name,time_of_day_name,tech,cf_tech,cf_tech_notes
+TO,W,D,WATWASWWABPRC_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,W,D,WATWASWWABTTE_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,W,D,WATWASWWABADI_EX,0.91324200913242,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,W,D,WATWASWWABADIMNGA_EX,0.91324200913242,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,W,D,WATWASWWABUSE_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,W,D,WATWASWWABFLR_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,W,D,WATWASWWHCPRC_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,W,D,WATWASWWHCINC_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,W,D,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,W,D,WATWASWWHCTTE_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,W,D,WATWASWWHCADI_EX,0.91324200913242,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,W,D,WATWASWWHCADIMNGA_EX,0.91324200913242,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,W,D,WATWASWWHCUSE_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,W,D,WATWASWWHCFLR_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,W,D,WATWASWWHBPRC_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,W,D,WATWASWWHBTTE_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,W,D,WATWASWWHBADI_EX,0.91324200913242,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,W,D,WATWASWWHBADIMNGA_EX,0.91324200913242,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,W,D,WATWASWWHBUSE_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,W,D,WATWASWWHBFLR_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,W,D,WATWASWWNTPRC_EX,1.0,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,W,D,WATWASFWRCHPRC_EX,1.0,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,W,D,WATWASFWFJHPRC_EX,1.0,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,W,D,WATWASFWRLCPRC_EX,1.0,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,W,D,WATWASFWISDPRC_EX,1.0,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,W,N,WATWASWWABPRC_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,W,N,WATWASWWABTTE_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,W,N,WATWASWWABADI_EX,0.91324200913242,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,W,N,WATWASWWABADIMNGA_EX,0.91324200913242,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,W,N,WATWASWWABUSE_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,W,N,WATWASWWABFLR_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,W,N,WATWASWWHCPRC_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,W,N,WATWASWWHCINC_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,W,N,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,W,N,WATWASWWHCTTE_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,W,N,WATWASWWHCADI_EX,0.91324200913242,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,W,N,WATWASWWHCADIMNGA_EX,0.91324200913242,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,W,N,WATWASWWHCUSE_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,W,N,WATWASWWHCFLR_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,W,N,WATWASWWHBPRC_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,W,N,WATWASWWHBTTE_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,W,N,WATWASWWHBADI_EX,0.91324200913242,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,W,N,WATWASWWHBADIMNGA_EX,0.91324200913242,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,W,N,WATWASWWHBUSE_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,W,N,WATWASWWHBFLR_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,W,N,WATWASWWNTPRC_EX,1.0,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,W,N,WATWASFWRCHPRC_EX,1.0,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,W,N,WATWASFWFJHPRC_EX,1.0,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,W,N,WATWASFWRLCPRC_EX,1.0,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,W,N,WATWASFWISDPRC_EX,1.0,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,W,P1,WATWASWWABPRC_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,W,P1,WATWASWWABTTE_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,W,P1,WATWASWWABADI_EX,0.91324200913242,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,W,P1,WATWASWWABADIMNGA_EX,0.91324200913242,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,W,P1,WATWASWWABUSE_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,W,P1,WATWASWWABFLR_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,W,P1,WATWASWWHCPRC_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,W,P1,WATWASWWHCINC_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,W,P1,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,W,P1,WATWASWWHCTTE_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,W,P1,WATWASWWHCADI_EX,0.91324200913242,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,W,P1,WATWASWWHCADIMNGA_EX,0.91324200913242,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,W,P1,WATWASWWHCUSE_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,W,P1,WATWASWWHCFLR_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,W,P1,WATWASWWHBPRC_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,W,P1,WATWASWWHBTTE_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,W,P1,WATWASWWHBADI_EX,0.91324200913242,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,W,P1,WATWASWWHBADIMNGA_EX,0.91324200913242,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,W,P1,WATWASWWHBUSE_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,W,P1,WATWASWWHBFLR_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,W,P1,WATWASWWNTPRC_EX,1.0,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,W,P1,WATWASFWRCHPRC_EX,1.0,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,W,P1,WATWASFWFJHPRC_EX,1.0,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,W,P1,WATWASFWRLCPRC_EX,1.0,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,W,P1,WATWASFWISDPRC_EX,1.0,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,W,P2,WATWASWWABPRC_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,W,P2,WATWASWWABTTE_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,W,P2,WATWASWWABADI_EX,0.91324200913242,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,W,P2,WATWASWWABADIMNGA_EX,0.91324200913242,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,W,P2,WATWASWWABUSE_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,W,P2,WATWASWWABFLR_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,W,P2,WATWASWWHCPRC_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,W,P2,WATWASWWHCINC_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,W,P2,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,W,P2,WATWASWWHCTTE_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,W,P2,WATWASWWHCADI_EX,0.91324200913242,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,W,P2,WATWASWWHCADIMNGA_EX,0.91324200913242,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,W,P2,WATWASWWHCUSE_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,W,P2,WATWASWWHCFLR_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,W,P2,WATWASWWHBPRC_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,W,P2,WATWASWWHBTTE_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,W,P2,WATWASWWHBADI_EX,0.91324200913242,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,W,P2,WATWASWWHBADIMNGA_EX,0.91324200913242,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,W,P2,WATWASWWHBUSE_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,W,P2,WATWASWWHBFLR_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,W,P2,WATWASWWNTPRC_EX,1.0,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,W,P2,WATWASFWRCHPRC_EX,1.0,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,W,P2,WATWASFWFJHPRC_EX,1.0,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,W,P2,WATWASFWRLCPRC_EX,1.0,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,W,P2,WATWASFWISDPRC_EX,1.0,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,S,D,WATWASWWABPRC_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,S,D,WATWASWWABTTE_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,S,D,WATWASWWABADI_EX,0.91324200913242,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,S,D,WATWASWWABADIMNGA_EX,0.91324200913242,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,S,D,WATWASWWABUSE_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,S,D,WATWASWWABFLR_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,S,D,WATWASWWHCPRC_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,S,D,WATWASWWHCINC_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,S,D,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,S,D,WATWASWWHCTTE_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,S,D,WATWASWWHCADI_EX,0.91324200913242,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,S,D,WATWASWWHCADIMNGA_EX,0.91324200913242,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,S,D,WATWASWWHCUSE_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,S,D,WATWASWWHCFLR_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,S,D,WATWASWWHBPRC_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,S,D,WATWASWWHBTTE_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,S,D,WATWASWWHBADI_EX,0.91324200913242,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,S,D,WATWASWWHBADIMNGA_EX,0.91324200913242,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,S,D,WATWASWWHBUSE_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,S,D,WATWASWWHBFLR_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,S,D,WATWASWWNTPRC_EX,1.0,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,S,D,WATWASFWRCHPRC_EX,1.0,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,S,D,WATWASFWFJHPRC_EX,1.0,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,S,D,WATWASFWRLCPRC_EX,1.0,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,S,D,WATWASFWISDPRC_EX,1.0,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,S,N,WATWASWWABPRC_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,S,N,WATWASWWABTTE_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,S,N,WATWASWWABADI_EX,0.91324200913242,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,S,N,WATWASWWABADIMNGA_EX,0.91324200913242,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,S,N,WATWASWWABUSE_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,S,N,WATWASWWABFLR_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,S,N,WATWASWWHCPRC_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,S,N,WATWASWWHCINC_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,S,N,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,S,N,WATWASWWHCTTE_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,S,N,WATWASWWHCADI_EX,0.91324200913242,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,S,N,WATWASWWHCADIMNGA_EX,0.91324200913242,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,S,N,WATWASWWHCUSE_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,S,N,WATWASWWHCFLR_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,S,N,WATWASWWHBPRC_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,S,N,WATWASWWHBTTE_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,S,N,WATWASWWHBADI_EX,0.91324200913242,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,S,N,WATWASWWHBADIMNGA_EX,0.91324200913242,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,S,N,WATWASWWHBUSE_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,S,N,WATWASWWHBFLR_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,S,N,WATWASWWNTPRC_EX,1.0,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,S,N,WATWASFWRCHPRC_EX,1.0,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,S,N,WATWASFWFJHPRC_EX,1.0,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,S,N,WATWASFWRLCPRC_EX,1.0,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,S,N,WATWASFWISDPRC_EX,1.0,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,S,P1,WATWASWWABPRC_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,S,P1,WATWASWWABTTE_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,S,P1,WATWASWWABADI_EX,0.91324200913242,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,S,P1,WATWASWWABADIMNGA_EX,0.91324200913242,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,S,P1,WATWASWWABUSE_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,S,P1,WATWASWWABFLR_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,S,P1,WATWASWWHCPRC_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,S,P1,WATWASWWHCINC_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,S,P1,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,S,P1,WATWASWWHCTTE_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,S,P1,WATWASWWHCADI_EX,0.91324200913242,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,S,P1,WATWASWWHCADIMNGA_EX,0.91324200913242,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,S,P1,WATWASWWHCUSE_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,S,P1,WATWASWWHCFLR_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,S,P1,WATWASWWHBPRC_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,S,P1,WATWASWWHBTTE_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,S,P1,WATWASWWHBADI_EX,0.91324200913242,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,S,P1,WATWASWWHBADIMNGA_EX,0.91324200913242,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,S,P1,WATWASWWHBUSE_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,S,P1,WATWASWWHBFLR_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,S,P1,WATWASWWNTPRC_EX,1.0,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,S,P1,WATWASFWRCHPRC_EX,1.0,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,S,P1,WATWASFWFJHPRC_EX,1.0,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,S,P1,WATWASFWRLCPRC_EX,1.0,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,S,P1,WATWASFWISDPRC_EX,1.0,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,S,P2,WATWASWWABPRC_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,S,P2,WATWASWWABTTE_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,S,P2,WATWASWWABADI_EX,0.91324200913242,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,S,P2,WATWASWWABADIMNGA_EX,0.91324200913242,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,S,P2,WATWASWWABUSE_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,S,P2,WATWASWWABFLR_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,S,P2,WATWASWWHCPRC_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,S,P2,WATWASWWHCINC_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,S,P2,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,S,P2,WATWASWWHCTTE_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,S,P2,WATWASWWHCADI_EX,0.91324200913242,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,S,P2,WATWASWWHCADIMNGA_EX,0.91324200913242,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,S,P2,WATWASWWHCUSE_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,S,P2,WATWASWWHCFLR_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,S,P2,WATWASWWHBPRC_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,S,P2,WATWASWWHBTTE_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,S,P2,WATWASWWHBADI_EX,0.91324200913242,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,S,P2,WATWASWWHBADIMNGA_EX,0.91324200913242,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,S,P2,WATWASWWHBUSE_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,S,P2,WATWASWWHBFLR_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,S,P2,WATWASWWNTPRC_EX,1.0,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,S,P2,WATWASFWRCHPRC_EX,1.0,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,S,P2,WATWASFWFJHPRC_EX,1.0,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,S,P2,WATWASFWRLCPRC_EX,1.0,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,S,P2,WATWASFWISDPRC_EX,1.0,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,R,D,WATWASWWABPRC_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,R,D,WATWASWWABTTE_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,R,D,WATWASWWABADI_EX,0.91324200913242,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,R,D,WATWASWWABADIMNGA_EX,0.91324200913242,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,R,D,WATWASWWABUSE_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,R,D,WATWASWWABFLR_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,R,D,WATWASWWHCPRC_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,R,D,WATWASWWHCINC_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,R,D,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,R,D,WATWASWWHCTTE_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,R,D,WATWASWWHCADI_EX,0.91324200913242,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,R,D,WATWASWWHCADIMNGA_EX,0.91324200913242,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,R,D,WATWASWWHCUSE_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,R,D,WATWASWWHCFLR_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,R,D,WATWASWWHBPRC_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,R,D,WATWASWWHBTTE_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,R,D,WATWASWWHBADI_EX,0.91324200913242,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,R,D,WATWASWWHBADIMNGA_EX,0.91324200913242,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,R,D,WATWASWWHBUSE_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,R,D,WATWASWWHBFLR_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,R,D,WATWASWWNTPRC_EX,1.0,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,R,D,WATWASFWRCHPRC_EX,1.0,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,R,D,WATWASFWFJHPRC_EX,1.0,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,R,D,WATWASFWRLCPRC_EX,1.0,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,R,D,WATWASFWISDPRC_EX,1.0,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,R,N,WATWASWWABPRC_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,R,N,WATWASWWABTTE_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,R,N,WATWASWWABADI_EX,0.91324200913242,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,R,N,WATWASWWABADIMNGA_EX,0.91324200913242,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,R,N,WATWASWWABUSE_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,R,N,WATWASWWABFLR_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,R,N,WATWASWWHCPRC_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,R,N,WATWASWWHCINC_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,R,N,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,R,N,WATWASWWHCTTE_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,R,N,WATWASWWHCADI_EX,0.91324200913242,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,R,N,WATWASWWHCADIMNGA_EX,0.91324200913242,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,R,N,WATWASWWHCUSE_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,R,N,WATWASWWHCFLR_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,R,N,WATWASWWHBPRC_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,R,N,WATWASWWHBTTE_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,R,N,WATWASWWHBADI_EX,0.91324200913242,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,R,N,WATWASWWHBADIMNGA_EX,0.91324200913242,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,R,N,WATWASWWHBUSE_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,R,N,WATWASWWHBFLR_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,R,N,WATWASWWNTPRC_EX,1.0,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,R,N,WATWASFWRCHPRC_EX,1.0,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,R,N,WATWASFWFJHPRC_EX,1.0,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,R,N,WATWASFWRLCPRC_EX,1.0,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,R,N,WATWASFWISDPRC_EX,1.0,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,R,P1,WATWASWWABPRC_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,R,P1,WATWASWWABTTE_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,R,P1,WATWASWWABADI_EX,0.91324200913242,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,R,P1,WATWASWWABADIMNGA_EX,0.91324200913242,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,R,P1,WATWASWWABUSE_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,R,P1,WATWASWWABFLR_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,R,P1,WATWASWWHCPRC_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,R,P1,WATWASWWHCINC_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,R,P1,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,R,P1,WATWASWWHCTTE_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,R,P1,WATWASWWHCADI_EX,0.91324200913242,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,R,P1,WATWASWWHCADIMNGA_EX,0.91324200913242,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,R,P1,WATWASWWHCUSE_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,R,P1,WATWASWWHCFLR_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,R,P1,WATWASWWHBPRC_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,R,P1,WATWASWWHBTTE_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,R,P1,WATWASWWHBADI_EX,0.91324200913242,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,R,P1,WATWASWWHBADIMNGA_EX,0.91324200913242,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,R,P1,WATWASWWHBUSE_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,R,P1,WATWASWWHBFLR_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,R,P1,WATWASWWNTPRC_EX,1.0,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,R,P1,WATWASFWRCHPRC_EX,1.0,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,R,P1,WATWASFWFJHPRC_EX,1.0,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,R,P1,WATWASFWRLCPRC_EX,1.0,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,R,P1,WATWASFWISDPRC_EX,1.0,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,R,P2,WATWASWWABPRC_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,R,P2,WATWASWWABTTE_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,R,P2,WATWASWWABADI_EX,0.91324200913242,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,R,P2,WATWASWWABADIMNGA_EX,0.91324200913242,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,R,P2,WATWASWWABUSE_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,R,P2,WATWASWWABFLR_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,R,P2,WATWASWWHCPRC_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,R,P2,WATWASWWHCINC_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,R,P2,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,R,P2,WATWASWWHCTTE_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,R,P2,WATWASWWHCADI_EX,0.91324200913242,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,R,P2,WATWASWWHCADIMNGA_EX,0.91324200913242,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,R,P2,WATWASWWHCUSE_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,R,P2,WATWASWWHCFLR_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,R,P2,WATWASWWHBPRC_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,R,P2,WATWASWWHBTTE_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,R,P2,WATWASWWHBADI_EX,0.91324200913242,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,R,P2,WATWASWWHBADIMNGA_EX,0.91324200913242,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,R,P2,WATWASWWHBUSE_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,R,P2,WATWASWWHBFLR_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,R,P2,WATWASWWNTPRC_EX,1.0,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,R,P2,WATWASFWRCHPRC_EX,1.0,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,R,P2,WATWASFWFJHPRC_EX,1.0,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,R,P2,WATWASFWRLCPRC_EX,1.0,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,R,P2,WATWASFWISDPRC_EX,1.0,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,F,D,WATWASWWABPRC_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,F,D,WATWASWWABTTE_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,F,D,WATWASWWABADI_EX,0.91324200913242,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,F,D,WATWASWWABADIMNGA_EX,0.91324200913242,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,F,D,WATWASWWABUSE_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,F,D,WATWASWWABFLR_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,F,D,WATWASWWHCPRC_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,F,D,WATWASWWHCINC_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,F,D,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,F,D,WATWASWWHCTTE_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,F,D,WATWASWWHCADI_EX,0.91324200913242,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,F,D,WATWASWWHCADIMNGA_EX,0.91324200913242,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,F,D,WATWASWWHCUSE_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,F,D,WATWASWWHCFLR_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,F,D,WATWASWWHBPRC_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,F,D,WATWASWWHBTTE_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,F,D,WATWASWWHBADI_EX,0.91324200913242,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,F,D,WATWASWWHBADIMNGA_EX,0.91324200913242,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,F,D,WATWASWWHBUSE_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,F,D,WATWASWWHBFLR_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,F,D,WATWASWWNTPRC_EX,1.0,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,F,D,WATWASFWRCHPRC_EX,1.0,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,F,D,WATWASFWFJHPRC_EX,1.0,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,F,D,WATWASFWRLCPRC_EX,1.0,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,F,D,WATWASFWISDPRC_EX,1.0,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,F,N,WATWASWWABPRC_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,F,N,WATWASWWABTTE_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,F,N,WATWASWWABADI_EX,0.91324200913242,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,F,N,WATWASWWABADIMNGA_EX,0.91324200913242,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,F,N,WATWASWWABUSE_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,F,N,WATWASWWABFLR_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,F,N,WATWASWWHCPRC_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,F,N,WATWASWWHCINC_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,F,N,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,F,N,WATWASWWHCTTE_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,F,N,WATWASWWHCADI_EX,0.91324200913242,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,F,N,WATWASWWHCADIMNGA_EX,0.91324200913242,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,F,N,WATWASWWHCUSE_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,F,N,WATWASWWHCFLR_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,F,N,WATWASWWHBPRC_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,F,N,WATWASWWHBTTE_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,F,N,WATWASWWHBADI_EX,0.91324200913242,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,F,N,WATWASWWHBADIMNGA_EX,0.91324200913242,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,F,N,WATWASWWHBUSE_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,F,N,WATWASWWHBFLR_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,F,N,WATWASWWNTPRC_EX,1.0,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,F,N,WATWASFWRCHPRC_EX,1.0,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,F,N,WATWASFWFJHPRC_EX,1.0,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,F,N,WATWASFWRLCPRC_EX,1.0,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,F,N,WATWASFWISDPRC_EX,1.0,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,F,P1,WATWASWWABPRC_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,F,P1,WATWASWWABTTE_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,F,P1,WATWASWWABADI_EX,0.91324200913242,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,F,P1,WATWASWWABADIMNGA_EX,0.91324200913242,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,F,P1,WATWASWWABUSE_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,F,P1,WATWASWWABFLR_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,F,P1,WATWASWWHCPRC_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,F,P1,WATWASWWHCINC_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,F,P1,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,F,P1,WATWASWWHCTTE_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,F,P1,WATWASWWHCADI_EX,0.91324200913242,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,F,P1,WATWASWWHCADIMNGA_EX,0.91324200913242,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,F,P1,WATWASWWHCUSE_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,F,P1,WATWASWWHCFLR_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,F,P1,WATWASWWHBPRC_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,F,P1,WATWASWWHBTTE_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,F,P1,WATWASWWHBADI_EX,0.91324200913242,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,F,P1,WATWASWWHBADIMNGA_EX,0.91324200913242,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,F,P1,WATWASWWHBUSE_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,F,P1,WATWASWWHBFLR_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,F,P1,WATWASWWNTPRC_EX,1.0,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,F,P1,WATWASFWRCHPRC_EX,1.0,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,F,P1,WATWASFWFJHPRC_EX,1.0,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,F,P1,WATWASFWRLCPRC_EX,1.0,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,F,P1,WATWASFWISDPRC_EX,1.0,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,F,P2,WATWASWWABPRC_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,F,P2,WATWASWWABTTE_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,F,P2,WATWASWWABADI_EX,0.91324200913242,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,F,P2,WATWASWWABADIMNGA_EX,0.91324200913242,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,F,P2,WATWASWWABUSE_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,F,P2,WATWASWWABFLR_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,F,P2,WATWASWWHCPRC_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,F,P2,WATWASWWHCINC_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,F,P2,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,F,P2,WATWASWWHCTTE_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,F,P2,WATWASWWHCADI_EX,0.91324200913242,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,F,P2,WATWASWWHCADIMNGA_EX,0.91324200913242,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,F,P2,WATWASWWHCUSE_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,F,P2,WATWASWWHCFLR_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,F,P2,WATWASWWHBPRC_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,F,P2,WATWASWWHBTTE_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,F,P2,WATWASWWHBADI_EX,0.91324200913242,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,F,P2,WATWASWWHBADIMNGA_EX,0.91324200913242,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,F,P2,WATWASWWHBUSE_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,F,P2,WATWASWWHBFLR_EX,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,F,P2,WATWASWWNTPRC_EX,1.0,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,F,P2,WATWASFWRCHPRC_EX,1.0,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,F,P2,WATWASFWFJHPRC_EX,1.0,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,F,P2,WATWASFWRLCPRC_EX,1.0,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,F,P2,WATWASFWISDPRC_EX,1.0,WaterWasteFresh waterIsland Water Treatment PlantProcess

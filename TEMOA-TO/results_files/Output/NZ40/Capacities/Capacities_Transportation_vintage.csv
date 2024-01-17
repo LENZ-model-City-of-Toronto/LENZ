@@ -1,0 +1,1495 @@
+"Thousands of vehicle per subsector, per efficiency, per fuel, per end use, and per vintage"
+vintage,Sub,Mode,Tech_type_1,Tech_type_2,Efficiency,Energy_cat,Capacity_units,Capacities
+1970,Freight Transportation,Rail,___,___,___,Diesel,kunits,0.00019613463036247808
+1970,Long Distance,Rail,___,___,___,Diesel,kunits,0.004655880031893511
+1970,Passenger,Rail,Regional,___,___,Diesel,kunits,0.004632526332874767
+1975,Freight Transportation,Rail,___,___,___,Diesel,kunits,0.00019613463036247808
+1975,Long Distance,Rail,___,___,___,Diesel,kunits,0.004655880031893511
+1975,Passenger,Rail,Regional,___,___,Diesel,kunits,0.004632526332874767
+1980,Freight Transportation,Rail,___,___,___,Diesel,kunits,0.00019613463036247808
+1980,Long Distance,Rail,___,___,___,Diesel,kunits,0.004655880031893511
+1980,Passenger,Rail,Regional,___,___,Diesel,kunits,0.004632526332874767
+1985,Freight Transportation,Rail,___,___,___,Diesel,kunits,0.00019613463036247808
+1985,Long Distance,Rail,___,___,___,Diesel,kunits,0.004655880031893511
+1985,Passenger,Rail,Regional,___,___,Diesel,kunits,0.004632526332874767
+1990,Freight Transportation,Rail,___,___,___,Diesel,kunits,0.00019613463036247808
+1990,Long Distance,Rail,___,___,___,Diesel,kunits,0.004655880031893511
+1990,Passenger,Rail,Regional,___,___,Diesel,kunits,0.004632526332874767
+1990,Passenger,Rail,Subway,___,___,Electricity,kunits,0.061127901339772896
+1990,Passenger,Rail,Tramway,___,___,Electricity,kunits,0.009286136659465484
+1995,Freight Transportation,Air,___,___,___,Aviation Gasoline,kunits,0.0002673094838585204
+1995,Freight Transportation,Air,___,___,___,Aviation Turbo Fuel,kunits,0.02508465049590692
+1995,Freight Transportation,Rail,___,___,___,Diesel,kunits,0.00019613463036247808
+1995,Long Distance,Air,___,___,___,Aviation Gasoline,kunits,0.002778279203669691
+1995,Long Distance,Air,___,___,___,Aviation Turbo Fuel,kunits,0.2701697868524786
+1995,Long Distance,Rail,___,___,___,Diesel,kunits,0.004655880031893511
+1995,Passenger,Rail,Regional,___,___,Diesel,kunits,0.004632526332874767
+1995,Passenger,Rail,Subway,___,___,Electricity,kunits,0.061127901339772896
+1995,Passenger,Rail,Tramway,___,___,Electricity,kunits,0.009286136659465484
+2000,Freight Transportation,Air,___,___,___,Aviation Gasoline,kunits,0.0002673094838585204
+2000,Freight Transportation,Air,___,___,___,Aviation Turbo Fuel,kunits,0.02508465049590692
+2000,Freight Transportation,Rail,___,___,___,Diesel,kunits,0.00019613463036247808
+2000,Freight Transportation,Road,Truck,Heavy Trucks,Conventionnal,Diesel,kunits,0.6004547025933678
+2000,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,13.595447709191046
+2000,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,37.411971430241664
+2000,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Propane,kunits,2.418038902238962
+2000,Freight Transportation,Road,Truck,Medium Trucks,Conventionnal,Diesel,kunits,7.190180363842807
+2000,Freight Transportation,Road,Truck,Medium Trucks,Conventionnal,Gasoline,kunits,0.3784305454654109
+2000,Long Distance,Air,___,___,___,Aviation Gasoline,kunits,0.002778279203669691
+2000,Long Distance,Air,___,___,___,Aviation Turbo Fuel,kunits,0.2701697868524786
+2000,Long Distance,Rail,___,___,___,Diesel,kunits,0.004655880031893511
+2000,Passenger,Rail,Regional,___,___,Diesel,kunits,0.004632526332874767
+2000,Passenger,Rail,Subway,___,___,Electricity,kunits,0.061127901339772896
+2000,Passenger,Rail,Tramway,___,___,Electricity,kunits,0.009286136659465484
+2000,Passenger,Road,Inter-city Buses,Inter Urban Bus,Conventionnal,Diesel,kunits,0.07029430312566465
+2000,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Diesel,kunits,0.09826511588427732
+2000,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Gasoline,kunits,0.011821644805551802
+2000,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Natural Gas,kunits,0.005205304141248604
+2000,Passenger,Road,Inter-city Buses,Urban Bus ,Conventionnal,Diesel,kunits,1.1213858206473366
+2000,Passenger,Road,Cars,___,Conventionnal,Diesel,kunits,1.5717339109427242
+2000,Passenger,Road,Cars,___,Conventionnal,Gasoline,kunits,109.62573637055415
+2000,Passenger,Road,Cars,___,Conventionnal,Natural Gas,kunits,0.08711692750022382
+2000,Passenger,Road,Cars,___,Conventionnal,Propane,kunits,1.1794951800760016
+2000,Passenger,Road,Motorcycles,___,Conventionnal,Gasoline,kunits,1.722992185282597
+2000,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,1.2381368153893588
+2000,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,110.01528340161498
+2000,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Natural Gas,kunits,0.00044499309374047944
+2000,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Propane,kunits,0.3653050037070047
+2000,Public,Road,Inter-city Buses,Urban Bus ,Conventionnal,Diesel,kunits,0.0005000000000000001
+2000,Public,Road,Cars,___,Conventionnal,Diesel,kunits,0.00010846306951789984
+2000,Public,Road,Cars,___,Conventionnal,Gasoline,kunits,0.4413915369304822
+2000,Public,Road,Motorcycles,___,Conventionnal,Gasoline,kunits,0.0105
+2000,Public,Road,Truck,Heavy Trucks,Conventionnal,Diesel,kunits,0.2455
+2000,Public,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,0.17390394871209588
+2000,Public,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,0.4425960512879041
+2000,Public,Road,Truck,Medium Trucks,Conventionnal,Diesel,kunits,0.2035867133421311
+2000,Public,Road,Truck,Medium Trucks,Conventionnal,Gasoline,kunits,0.06516328665786894
+2005,Freight Transportation,Air,___,___,___,Aviation Gasoline,kunits,0.0002673094838585204
+2005,Freight Transportation,Air,___,___,___,Aviation Turbo Fuel,kunits,0.02508465049590692
+2005,Freight Transportation,Rail,___,___,___,Diesel,kunits,0.00019613463036247808
+2005,Freight Transportation,Road,Truck,Heavy Trucks,Conventionnal,Diesel,kunits,0.6004547025933678
+2005,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,13.595447709191046
+2005,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,37.411971430241664
+2005,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Propane,kunits,2.418038902238962
+2005,Freight Transportation,Road,Truck,Medium Trucks,Conventionnal,Diesel,kunits,7.190180363842807
+2005,Freight Transportation,Road,Truck,Medium Trucks,Conventionnal,Gasoline,kunits,0.3784305454654109
+2005,Long Distance,Air,___,___,___,Aviation Gasoline,kunits,0.002778279203669691
+2005,Long Distance,Air,___,___,___,Aviation Turbo Fuel,kunits,0.2701697868524786
+2005,Long Distance,Rail,___,___,___,Diesel,kunits,0.004655880031893511
+2005,Passenger,Rail,Regional,___,___,Diesel,kunits,0.004632526332874767
+2005,Passenger,Rail,Subway,___,___,Electricity,kunits,0.061127901339772896
+2005,Passenger,Rail,Tramway,___,___,Electricity,kunits,0.009286136659465484
+2005,Passenger,Road,Inter-city Buses,Inter Urban Bus,Conventionnal,Diesel,kunits,0.07029430312566465
+2005,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Diesel,kunits,0.09826511588427732
+2005,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Gasoline,kunits,0.011821644805551802
+2005,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Natural Gas,kunits,0.005205304141248604
+2005,Passenger,Road,Inter-city Buses,Urban Bus ,Conventionnal,Diesel,kunits,1.1213858206473366
+2005,Passenger,Road,Cars,___,Conventionnal,Diesel,kunits,1.5717339109427242
+2005,Passenger,Road,Cars,___,Conventionnal,Gasoline,kunits,109.62573637055415
+2005,Passenger,Road,Cars,___,Conventionnal,Natural Gas,kunits,0.08711692750022382
+2005,Passenger,Road,Cars,___,Conventionnal,Propane,kunits,1.1794951800760014
+2005,Passenger,Road,Motorcycles,___,Conventionnal,Gasoline,kunits,1.722992185282597
+2005,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,1.2381368153893588
+2005,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,110.01528340161497
+2005,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Natural Gas,kunits,0.00044499309374047944
+2005,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Propane,kunits,0.3653050037070047
+2005,Public,Road,Inter-city Buses,Urban Bus ,Conventionnal,Diesel,kunits,0.0005000000000000001
+2005,Public,Road,Cars,___,Conventionnal,Diesel,kunits,0.00010846306951789984
+2005,Public,Road,Cars,___,Conventionnal,Gasoline,kunits,0.4413915369304822
+2005,Public,Road,Motorcycles,___,Conventionnal,Gasoline,kunits,0.0105
+2005,Public,Road,Truck,Heavy Trucks,Conventionnal,Diesel,kunits,0.2455
+2005,Public,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,0.17390394871209588
+2005,Public,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,0.4425960512879041
+2005,Public,Road,Truck,Medium Trucks,Conventionnal,Diesel,kunits,0.2035867133421311
+2005,Public,Road,Truck,Medium Trucks,Conventionnal,Gasoline,kunits,0.06516328665786894
+2010,Freight Transportation,Air,___,___,___,Aviation Gasoline,kunits,0.0002673094838585204
+2010,Freight Transportation,Air,___,___,___,Aviation Turbo Fuel,kunits,0.02508465049590692
+2010,Freight Transportation,Rail,___,___,___,Diesel,kunits,0.00019613463036247808
+2010,Freight Transportation,Road,Truck,Heavy Trucks,Conventionnal,Diesel,kunits,0.6004547025933678
+2010,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,13.595447709191046
+2010,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,37.411971430241664
+2010,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Propane,kunits,2.418038902238962
+2010,Freight Transportation,Road,Truck,Medium Trucks,Conventionnal,Diesel,kunits,7.190180363842807
+2010,Freight Transportation,Road,Truck,Medium Trucks,Conventionnal,Gasoline,kunits,0.3784305454654109
+2010,Long Distance,Air,___,___,___,Aviation Gasoline,kunits,0.002778279203669691
+2010,Long Distance,Air,___,___,___,Aviation Turbo Fuel,kunits,0.2701697868524786
+2010,Long Distance,Rail,___,___,___,Diesel,kunits,0.004655880031893511
+2010,Passenger,Rail,Regional,___,___,Diesel,kunits,0.004632526332874767
+2010,Passenger,Rail,Subway,___,___,Electricity,kunits,0.061127901339772896
+2010,Passenger,Rail,Tramway,___,___,Electricity,kunits,0.009286136659465484
+2010,Passenger,Road,Inter-city Buses,Inter Urban Bus,Conventionnal,Diesel,kunits,0.07029430312566465
+2010,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Diesel,kunits,0.09826511588427732
+2010,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Gasoline,kunits,0.011821644805551802
+2010,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Natural Gas,kunits,0.005205304141248604
+2010,Passenger,Road,Inter-city Buses,Urban Bus ,Conventionnal,Diesel,kunits,1.1213858206473366
+2010,Passenger,Road,Cars,___,Conventionnal,Diesel,kunits,1.571733910942724
+2010,Passenger,Road,Cars,___,Conventionnal,Gasoline,kunits,109.62573637055415
+2010,Passenger,Road,Cars,___,Conventionnal,Natural Gas,kunits,0.08711692750022382
+2010,Passenger,Road,Cars,___,Conventionnal,Propane,kunits,1.1794951800760014
+2010,Passenger,Road,Motorcycles,___,Conventionnal,Gasoline,kunits,1.722992185282597
+2010,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,1.238136815389359
+2010,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,110.01528340161498
+2010,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Natural Gas,kunits,0.00044499309374047944
+2010,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Propane,kunits,0.36530500370700464
+2010,Public,Road,Inter-city Buses,Urban Bus ,Conventionnal,Diesel,kunits,0.0005000000000000001
+2010,Public,Road,Cars,___,Conventionnal,Diesel,kunits,0.00010846306951789984
+2010,Public,Road,Cars,___,Conventionnal,Gasoline,kunits,0.4413915369304822
+2010,Public,Road,Motorcycles,___,Conventionnal,Gasoline,kunits,0.0105
+2010,Public,Road,Truck,Heavy Trucks,Conventionnal,Diesel,kunits,0.2455
+2010,Public,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,0.17390394871209588
+2010,Public,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,0.4425960512879041
+2010,Public,Road,Truck,Medium Trucks,Conventionnal,Diesel,kunits,0.2035867133421311
+2010,Public,Road,Truck,Medium Trucks,Conventionnal,Gasoline,kunits,0.06516328665786894
+2015,Freight Transportation,Air,___,___,___,Aviation Gasoline,kunits,0.0002673094838585204
+2015,Freight Transportation,Air,___,___,___,Aviation Turbo Fuel,kunits,0.02508465049590692
+2015,Freight Transportation,Rail,___,___,___,Diesel,kunits,0.00019613463036247808
+2015,Freight Transportation,Road,Truck,Heavy Trucks,Conventionnal,Diesel,kunits,0.6004547025933678
+2015,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,13.595447709191046
+2015,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,37.411971430241664
+2015,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Propane,kunits,2.418038902238962
+2015,Freight Transportation,Road,Truck,Medium Trucks,Conventionnal,Diesel,kunits,7.190180363842807
+2015,Freight Transportation,Road,Truck,Medium Trucks,Conventionnal,Gasoline,kunits,0.3784305454654109
+2015,Long Distance,Air,___,___,___,Aviation Gasoline,kunits,0.002778279203669691
+2015,Long Distance,Air,___,___,___,Aviation Turbo Fuel,kunits,0.2701697868524786
+2015,Long Distance,Rail,___,___,___,Diesel,kunits,0.004655880031893511
+2015,Passenger,Rail,Regional,___,___,Diesel,kunits,0.004632526332874767
+2015,Passenger,Rail,Subway,___,___,Electricity,kunits,0.061127901339772896
+2015,Passenger,Rail,Tramway,___,___,Electricity,kunits,0.009286136659465484
+2015,Passenger,Road,Inter-city Buses,Inter Urban Bus,Conventionnal,Diesel,kunits,0.07029430312566465
+2015,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Diesel,kunits,0.09826511588427732
+2015,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Gasoline,kunits,0.011821644805551802
+2015,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Natural Gas,kunits,0.005205304141248604
+2015,Passenger,Road,Inter-city Buses,Urban Bus ,Conventionnal,Diesel,kunits,1.1213858206473366
+2015,Passenger,Road,Cars,___,Conventionnal,Diesel,kunits,1.5717339109427242
+2015,Passenger,Road,Cars,___,Conventionnal,Gasoline,kunits,109.62573637055415
+2015,Passenger,Road,Cars,___,Conventionnal,Natural Gas,kunits,0.08711692750022382
+2015,Passenger,Road,Cars,___,Conventionnal,Propane,kunits,1.1794951800760016
+2015,Passenger,Road,Motorcycles,___,Conventionnal,Gasoline,kunits,1.722992185282597
+2015,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,1.2381368153893588
+2015,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,110.01528340161497
+2015,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Natural Gas,kunits,0.00044499309374047944
+2015,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Propane,kunits,0.36530500370700464
+2015,Public,Road,Inter-city Buses,Urban Bus ,Conventionnal,Diesel,kunits,0.0005000000000000001
+2015,Public,Road,Cars,___,Conventionnal,Diesel,kunits,0.00010846306951789984
+2015,Public,Road,Cars,___,Conventionnal,Gasoline,kunits,0.4413915369304822
+2015,Public,Road,Motorcycles,___,Conventionnal,Gasoline,kunits,0.0105
+2015,Public,Road,Truck,Heavy Trucks,Conventionnal,Diesel,kunits,0.2455
+2015,Public,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,0.17390394871209588
+2015,Public,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,0.4425960512879041
+2015,Public,Road,Truck,Medium Trucks,Conventionnal,Diesel,kunits,0.2035867133421311
+2015,Public,Road,Truck,Medium Trucks,Conventionnal,Gasoline,kunits,0.06516328665786894
+2016,Long Distance,Air,___,___,Standard,Aviation Gasoline,kunits,0.0011607910023522933
+2016,Long Distance,Air,___,___,Standard,Aviation Turbo Fuel,kunits,0.014903610908772161
+2016,Long Distance,Rail,___,___,___,Diesel,kunits,0.029822759880385893
+2016,Passenger,Rail,Regional,___,___,Diesel,kunits,0.00027139138436970165
+2016,Passenger,Rail,Regional,___,___,Electricity,kunits,4.7385195570326976e-05
+2016,Passenger,Rail,Subway,___,___,Diesel,kunits,3.699096196440467e-05
+2016,Passenger,Rail,Subway,___,___,Electricity,kunits,0.00022155413375830597
+2016,Passenger,Rail,Tramway,___,___,Diesel,kunits,4.2174790994638366e-05
+2016,Passenger,Rail,Tramway,___,___,Electricity,kunits,0.00018576737476967733
+2016,Passenger,Road,Inter-city Buses,Inter Urban Bus,Conventionnal,Diesel,kunits,0.0003341965910523554
+2016,Passenger,Road,Inter-city Buses,Inter Urban Bus,Conventionnal,Gasoline,kunits,0.00022525207937575698
+2016,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Diesel,kunits,6.743917228491998e-05
+2016,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Gasoline,kunits,0.00011839019058346666
+2016,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Natural Gas,kunits,0.00011937380021404212
+2016,Passenger,Road,Inter-city Buses,Urban Bus ,Conventionnal,Diesel,kunits,0.0002558594054741022
+2016,Passenger,Road,Inter-city Buses,Urban Bus ,Conventionnal,Gasoline,kunits,8.68749587434952e-05
+2016,Passenger,Road,Inter-city Buses,Urban Bus ,Conventionnal,Natural Gas,kunits,4.836966254194268e-05
+2016,Passenger,Road,Cars,___,Conventionnal,Diesel,kunits,0.0004856659778312288
+2016,Passenger,Road,Cars,___,Conventionnal,Gasoline,kunits,0.001222727415254146
+2016,Passenger,Road,Cars,___,Conventionnal,Natural Gas,kunits,0.0003246141655221688
+2016,Passenger,Road,Cars,___,Conventionnal,Propane,kunits,0.0002888928348785924
+2016,Passenger,Road,Motorcycles,___,Conventionnal,Gasoline,kunits,0.00029852078800460686
+2016,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,0.0006884839440623976
+2016,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,0.0011972799357490998
+2016,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Natural Gas,kunits,9.442306173385746e-05
+2016,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Propane,kunits,0.0001859068910621795
+2016,Public,Road,Inter-city Buses,Urban Bus ,Conventionnal,Diesel,kunits,3.824012442000197e-05
+2016,Public,Road,Cars,___,Conventionnal,Diesel,kunits,0.00018463302839511215
+2016,Public,Road,Cars,___,Conventionnal,Gasoline,kunits,0.0006082174071810691
+2016,Public,Road,Motorcycles,___,Conventionnal,Gasoline,kunits,4.471456108366199e-05
+2016,Public,Road,Truck,Heavy Trucks,Conventionnal,Diesel,kunits,0.0001490048455476378
+2016,Public,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,0.0003516408599987674
+2016,Public,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,0.0006008854950885164
+2016,Public,Road,Truck,Medium Trucks,Conventionnal,Diesel,kunits,0.00035295202947690005
+2016,Public,Road,Truck,Medium Trucks,Conventionnal,Gasoline,kunits,0.0003829279911259885
+2017,Freight Transportation,Air,___,___,___,Aviation Gasoline,kunits,0.000936626169060711
+2017,Freight Transportation,Air,___,___,___,Aviation Turbo Fuel,kunits,0.002359058937187991
+2017,Freight Transportation,Rail,___,___,___,Diesel,kunits,0.0017270768113218584
+2017,Freight Transportation,Road,Truck,Heavy Trucks,Conventionnal,Diesel,kunits,0.013351271878444274
+2017,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,0.2870976179461356
+2017,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,0.7831874043932239
+2017,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Propane,kunits,0.05553403628113893
+2017,Freight Transportation,Road,Truck,Medium Trucks,Conventionnal,Diesel,kunits,0.14709685010033552
+2017,Freight Transportation,Road,Truck,Medium Trucks,Conventionnal,Gasoline,kunits,0.009135064980701397
+2017,Long Distance,Air,___,___,Standard,Aviation Gasoline,kunits,0.0011732843881815396
+2017,Long Distance,Air,___,___,Standard,Aviation Turbo Fuel,kunits,0.021070253597714528
+2017,Long Distance,Rail,___,___,___,Diesel,kunits,0.030630843130717126
+2017,Passenger,Rail,Regional,___,___,Diesel,kunits,0.0004224304757607254
+2017,Passenger,Rail,Regional,___,___,Electricity,kunits,4.73731172502955e-05
+2017,Passenger,Rail,Subway,___,___,Diesel,kunits,3.7488683889208214e-05
+2017,Passenger,Rail,Subway,___,___,Electricity,kunits,0.0004238138633249743
+2017,Passenger,Rail,Tramway,___,___,Diesel,kunits,4.315749378885555e-05
+2017,Passenger,Rail,Tramway,___,___,Electricity,kunits,0.0002939065157237995
+2017,Passenger,Road,Inter-city Buses,Inter Urban Bus,Conventionnal,Diesel,kunits,0.002281629625316825
+2017,Passenger,Road,Inter-city Buses,Inter Urban Bus,Conventionnal,Gasoline,kunits,0.00040722103756929136
+2017,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Diesel,kunits,0.0001056000415725594
+2017,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Gasoline,kunits,0.00018637007804615577
+2017,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Natural Gas,kunits,0.0006610130175318766
+2017,Passenger,Road,Inter-city Buses,Urban Bus ,Conventionnal,Diesel,kunits,0.011248175880424347
+2017,Passenger,Road,Inter-city Buses,Urban Bus ,Conventionnal,Gasoline,kunits,9.64763033597284e-05
+2017,Passenger,Road,Inter-city Buses,Urban Bus ,Conventionnal,Natural Gas,kunits,5.2080258868209376e-05
+2017,Passenger,Road,Cars,___,Conventionnal,Diesel,kunits,0.04021272966489343
+2017,Passenger,Road,Cars,___,Conventionnal,Gasoline,kunits,2.8161309104636825
+2017,Passenger,Road,Cars,___,Conventionnal,Natural Gas,kunits,0.0034946072570220333
+2017,Passenger,Road,Cars,___,Conventionnal,Propane,kunits,0.027718909437105713
+2017,Passenger,Road,Motorcycles,___,Conventionnal,Gasoline,kunits,0.049861680485881174
+2017,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,0.03055122451187184
+2017,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,2.799744085449489
+2017,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Natural Gas,kunits,0.00010378971775692065
+2017,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Propane,kunits,0.009040115763380572
+2017,Public,Road,Inter-city Buses,Urban Bus ,Conventionnal,Diesel,kunits,4.614092345000128e-05
+2017,Public,Road,Cars,___,Conventionnal,Diesel,kunits,0.0004716727195924086
+2017,Public,Road,Cars,___,Conventionnal,Gasoline,kunits,0.05629555248415426
+2017,Public,Road,Motorcycles,___,Conventionnal,Gasoline,kunits,5.461376614348526e-05
+2017,Public,Road,Truck,Heavy Trucks,Conventionnal,Diesel,kunits,0.031040715884883385
+2017,Public,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,0.021852619181246164
+2017,Public,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,0.05272857623057023
+2017,Public,Road,Truck,Medium Trucks,Conventionnal,Diesel,kunits,0.021864422295463495
+2017,Public,Road,Truck,Medium Trucks,Conventionnal,Gasoline,kunits,0.011233265197694338
+2018,Freight Transportation,Air,___,___,___,Aviation Gasoline,kunits,0.0008901814000316061
+2018,Freight Transportation,Air,___,___,___,Aviation Turbo Fuel,kunits,0.004055596460149666
+2018,Freight Transportation,Rail,___,___,___,Diesel,kunits,0.000864461611229973
+2018,Freight Transportation,Road,Truck,Heavy Trucks,Conventionnal,Diesel,kunits,0.012278539992715278
+2018,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,0.2869799006027379
+2018,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,0.783039859254944
+2018,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Propane,kunits,0.04452515946782016
+2018,Freight Transportation,Road,Truck,Medium Trucks,Conventionnal,Diesel,kunits,0.1513871954446487
+2018,Freight Transportation,Road,Truck,Medium Trucks,Conventionnal,Gasoline,kunits,0.007938368193792077
+2018,Long Distance,Air,___,___,Standard,Aviation Gasoline,kunits,0.0011550406720200871
+2018,Long Distance,Air,___,___,Standard,Aviation Turbo Fuel,kunits,0.02079267438184124
+2018,Long Distance,Rail,___,___,___,Diesel,kunits,0.030796380917042822
+2018,Passenger,Rail,Regional,___,___,Diesel,kunits,0.00038912377874623255
+2018,Passenger,Rail,Regional,___,___,Electricity,kunits,4.6524412045369264e-05
+2018,Passenger,Rail,Subway,___,___,Diesel,kunits,3.623596581598026e-05
+2018,Passenger,Rail,Subway,___,___,Electricity,kunits,0.0007393264521304891
+2018,Passenger,Rail,Tramway,___,___,Diesel,kunits,4.366277508293595e-05
+2018,Passenger,Rail,Tramway,___,___,Electricity,kunits,0.0005249458296596503
+2018,Passenger,Road,Inter-city Buses,Inter Urban Bus,Conventionnal,Diesel,kunits,0.004888641219902807
+2018,Passenger,Road,Inter-city Buses,Inter Urban Bus,Conventionnal,Gasoline,kunits,0.0005146960393316818
+2018,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Diesel,kunits,0.0001468521440253707
+2018,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Gasoline,kunits,0.00025649072976343973
+2018,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Natural Gas,kunits,0.0008295058315106766
+2018,Passenger,Road,Inter-city Buses,Urban Bus ,Conventionnal,Diesel,kunits,0.012595366787257978
+2018,Passenger,Road,Inter-city Buses,Urban Bus ,Conventionnal,Gasoline,kunits,9.206721605117102e-05
+2018,Passenger,Road,Inter-city Buses,Urban Bus ,Conventionnal,Natural Gas,kunits,4.9715323616536286e-05
+2018,Passenger,Road,Cars,___,Conventionnal,Diesel,kunits,0.041481349926235124
+2018,Passenger,Road,Cars,___,Conventionnal,Gasoline,kunits,2.792315626587207
+2018,Passenger,Road,Cars,___,Conventionnal,Natural Gas,kunits,0.004260419445288003
+2018,Passenger,Road,Cars,___,Conventionnal,Propane,kunits,0.03003973468510482
+2018,Passenger,Road,Motorcycles,___,Conventionnal,Gasoline,kunits,0.035437586242502706
+2018,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,0.033244225213249046
+2018,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,2.776168470601291
+2018,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Natural Gas,kunits,0.00010544448790156499
+2018,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Propane,kunits,0.01011464518571571
+2018,Public,Road,Inter-city Buses,Urban Bus ,Conventionnal,Diesel,kunits,5.890309124121619e-05
+2018,Public,Road,Cars,___,Conventionnal,Diesel,kunits,0.0006625030827396388
+2018,Public,Road,Cars,___,Conventionnal,Gasoline,kunits,0.05287087738390888
+2018,Public,Road,Motorcycles,___,Conventionnal,Gasoline,kunits,7.5582983520006e-05
+2018,Public,Road,Truck,Heavy Trucks,Conventionnal,Diesel,kunits,0.03117463545665284
+2018,Public,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,0.021955837489380483
+2018,Public,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,0.05805897368456939
+2018,Public,Road,Truck,Medium Trucks,Conventionnal,Diesel,kunits,0.0337026745462695
+2018,Public,Road,Truck,Medium Trucks,Conventionnal,Gasoline,kunits,0.00174286768558805
+2019,Freight Transportation,Air,___,___,___,Aviation Gasoline,kunits,0.0008420802919693033
+2019,Freight Transportation,Air,___,___,___,Aviation Turbo Fuel,kunits,0.005606152099797938
+2019,Freight Transportation,Rail,___,___,___,Diesel,kunits,0.0007964323259837004
+2019,Freight Transportation,Road,Truck,Heavy Trucks,Conventionnal,Diesel,kunits,0.012428675406498156
+2019,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,0.276123273399621
+2019,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,0.7831131088420078
+2019,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Propane,kunits,0.055830145705516435
+2019,Freight Transportation,Road,Truck,Medium Trucks,Conventionnal,Diesel,kunits,0.1454181845245048
+2019,Freight Transportation,Road,Truck,Medium Trucks,Conventionnal,Gasoline,kunits,0.008903469211831161
+2019,Long Distance,Air,___,___,Standard,Aviation Gasoline,kunits,0.0011278264443328383
+2019,Long Distance,Air,___,___,Standard,Aviation Turbo Fuel,kunits,0.02131927302203598
+2019,Long Distance,Rail,___,___,___,Diesel,kunits,0.030740433329709924
+2019,Passenger,Rail,Regional,___,___,Diesel,kunits,0.00031277772388511264
+2019,Passenger,Rail,Regional,___,___,Electricity,kunits,4.507186512279279e-05
+2019,Passenger,Rail,Subway,___,___,Diesel,kunits,3.653704960919176e-05
+2019,Passenger,Rail,Subway,___,___,Electricity,kunits,0.0005345715607028843
+2019,Passenger,Rail,Tramway,___,___,Diesel,kunits,4.4536534508334595e-05
+2019,Passenger,Rail,Tramway,___,___,Electricity,kunits,0.0004483097404478396
+2019,Passenger,Road,Inter-city Buses,Inter Urban Bus,Conventionnal,Diesel,kunits,0.0009556722151464613
+2019,Passenger,Road,Inter-city Buses,Inter Urban Bus,Conventionnal,Gasoline,kunits,0.0005487527491023099
+2019,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Diesel,kunits,0.00026051959507232076
+2019,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Gasoline,kunits,0.0004442966680279147
+2019,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Natural Gas,kunits,0.0008574113164446963
+2019,Passenger,Road,Inter-city Buses,Urban Bus ,Conventionnal,Diesel,kunits,0.014317349801818573
+2019,Passenger,Road,Inter-city Buses,Urban Bus ,Conventionnal,Gasoline,kunits,0.00010132907624797711
+2019,Passenger,Road,Inter-city Buses,Urban Bus ,Conventionnal,Natural Gas,kunits,5.282810118267997e-05
+2019,Passenger,Road,Cars,___,Conventionnal,Diesel,kunits,0.04046267341463223
+2019,Passenger,Road,Cars,___,Conventionnal,Gasoline,kunits,2.895784752490878
+2019,Passenger,Road,Cars,___,Conventionnal,Natural Gas,kunits,0.0029866565195967904
+2019,Passenger,Road,Cars,___,Conventionnal,Propane,kunits,0.02803894794099599
+2019,Passenger,Road,Motorcycles,___,Conventionnal,Gasoline,kunits,0.04830970845801489
+2019,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,0.029769725166036345
+2019,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,2.878629827454132
+2019,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Natural Gas,kunits,0.00010162282884555532
+2019,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Propane,kunits,0.007752805129027487
+2019,Public,Road,Inter-city Buses,Urban Bus ,Conventionnal,Diesel,kunits,8.541324007142321e-05
+2019,Public,Road,Cars,___,Conventionnal,Diesel,kunits,0.0006190544496228147
+2019,Public,Road,Cars,___,Conventionnal,Gasoline,kunits,0.06727572471855796
+2019,Public,Road,Motorcycles,___,Conventionnal,Gasoline,kunits,0.00013123335007357597
+2019,Public,Road,Truck,Heavy Trucks,Conventionnal,Diesel,kunits,0.03643916606441391
+2019,Public,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,0.02905770501681222
+2019,Public,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,0.06576878157543055
+2019,Public,Road,Truck,Medium Trucks,Conventionnal,Diesel,kunits,0.022337054867175875
+2019,Public,Road,Truck,Medium Trucks,Conventionnal,Gasoline,kunits,0.017519953605066217
+2020,Freight Transportation,Air,___,___,___,Aviation Gasoline,kunits,0.0007895894030717188
+2020,Freight Transportation,Air,___,___,___,Aviation Turbo Fuel,kunits,0.015627447313915185
+2020,Freight Transportation,Rail,___,___,___,Diesel,kunits,0.0007612407997537527
+2020,Freight Transportation,Road,Truck,Heavy Trucks,Conventionnal,Diesel,kunits,0.6281539555434891
+2020,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,14.671912046867783
+2020,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,40.37259466848569
+2020,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Propane,kunits,2.6119927735996735
+2020,Freight Transportation,Road,Truck,Medium Trucks,Conventionnal,Diesel,kunits,7.582932971281833
+2020,Freight Transportation,Road,Truck,Medium Trucks,Conventionnal,Gasoline,kunits,0.394895032415407
+2020,Long Distance,Air,___,___,Standard,Aviation Gasoline,kunits,0.0011004508990431225
+2020,Long Distance,Air,___,___,Standard,Aviation Turbo Fuel,kunits,0.2861619455707821
+2020,Long Distance,Rail,___,___,___,Diesel,kunits,0.030596114665100052
+2020,Passenger,Rail,Regional,___,___,Diesel,kunits,0.0024930758616249398
+2020,Passenger,Rail,Regional,___,___,Electricity,kunits,4.407368421467512e-05
+2020,Passenger,Rail,Subway,___,___,Diesel,kunits,3.607196529764827e-05
+2020,Passenger,Rail,Subway,___,___,Electricity,kunits,0.06184687036523306
+2020,Passenger,Rail,Tramway,___,___,Diesel,kunits,4.254356152323562e-05
+2020,Passenger,Rail,Tramway,___,___,Electricity,kunits,0.007956722925881352
+2020,Passenger,Road,Inter-city Buses,Inter Urban Bus,Conventionnal,Diesel,kunits,0.10458377357997711
+2020,Passenger,Road,Inter-city Buses,Inter Urban Bus,Conventionnal,Gasoline,kunits,0.0012259082793768484
+2020,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Diesel,kunits,0.1605982697164479
+2020,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Gasoline,kunits,0.017959343219770357
+2020,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Natural Gas,kunits,0.0036569473199239183
+2020,Passenger,Road,Inter-city Buses,Urban Bus ,Conventionnal,Diesel,kunits,1.0675559724095882
+2020,Passenger,Road,Inter-city Buses,Urban Bus ,Conventionnal,Gasoline,kunits,0.00012109104820335336
+2020,Passenger,Road,Inter-city Buses,Urban Bus ,Conventionnal,Natural Gas,kunits,5.915502544259715e-05
+2020,Passenger,Road,Cars,___,Conventionnal,Diesel,kunits,1.694430379072435
+2020,Passenger,Road,Cars,___,Conventionnal,Gasoline,kunits,118.12641766262814
+2020,Passenger,Road,Cars,___,Conventionnal,Natural Gas,kunits,0.08678027712776452
+2020,Passenger,Road,Cars,___,Conventionnal,Propane,kunits,1.2188801701100151
+2020,Passenger,Road,Motorcycles,___,Conventionnal,Gasoline,kunits,1.8000291838543048
+2020,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,1.2852613117472413
+2020,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,117.4536911577092
+2020,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Natural Gas,kunits,0.00011296490651010376
+2020,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Propane,kunits,0.3718312740860502
+2020,Public,Road,Inter-city Buses,Urban Bus ,Conventionnal,Diesel,kunits,0.0005604821930803538
+2020,Public,Road,Cars,___,Conventionnal,Diesel,kunits,0.0023856142612281228
+2020,Public,Road,Cars,___,Conventionnal,Gasoline,kunits,0.5014153187487267
+2020,Public,Road,Motorcycles,___,Conventionnal,Gasoline,kunits,0.0001162303034862161
+2020,Public,Road,Truck,Heavy Trucks,Conventionnal,Diesel,kunits,0.27904236317265596
+2020,Public,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,0.19450492165292244
+2020,Public,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,0.5060210270278521
+2020,Public,Road,Truck,Medium Trucks,Conventionnal,Diesel,kunits,0.24377408796916142
+2020,Public,Road,Truck,Medium Trucks,Conventionnal,Gasoline,kunits,0.06372322764845187
+2021,Freight Transportation,Air,___,___,___,Aviation Gasoline,kunits,0.0008132714010380983
+2021,Freight Transportation,Air,___,___,___,Aviation Turbo Fuel,kunits,0.0031871354259952016
+2021,Freight Transportation,Rail,___,___,___,Diesel,kunits,0.0007362142249846142
+2021,Freight Transportation,Road,Truck,Heavy Trucks,Conventionnal,Diesel,kunits,0.013438404544535416
+2021,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,0.2891492894473132
+2021,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,0.7842848600374354
+2021,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Propane,kunits,0.045053462795886776
+2021,Freight Transportation,Road,Truck,Medium Trucks,Conventionnal,Diesel,kunits,0.14868399712722088
+2021,Freight Transportation,Road,Truck,Medium Trucks,Conventionnal,Gasoline,kunits,0.009457871560056725
+2021,Long Distance,Air,___,___,Standard,Aviation Gasoline,kunits,0.001027912206138697
+2021,Long Distance,Air,___,___,Standard,Aviation Turbo Fuel,kunits,0.023924175790747793
+2021,Long Distance,Rail,___,___,___,Diesel,kunits,0.030462743275859197
+2021,Passenger,Rail,Regional,___,___,Diesel,kunits,7.572659464930384e-05
+2021,Passenger,Rail,Regional,___,___,Electricity,kunits,4.482267259975636e-05
+2021,Passenger,Rail,Subway,___,___,Diesel,kunits,3.495551320315531e-05
+2021,Passenger,Rail,Subway,___,___,Electricity,kunits,0.0007840212139201004
+2021,Passenger,Rail,Tramway,___,___,Diesel,kunits,2.9831063264868353e-05
+2021,Passenger,Rail,Tramway,___,___,Electricity,kunits,0.000373983665206035
+2021,Passenger,Road,Inter-city Buses,Inter Urban Bus,Conventionnal,Diesel,kunits,0.005069921934781624
+2021,Passenger,Road,Inter-city Buses,Inter Urban Bus,Conventionnal,Gasoline,kunits,0.0006402743922616978
+2021,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Diesel,kunits,0.0006935009091042266
+2021,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Gasoline,kunits,0.00011211479956766768
+2021,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Natural Gas,kunits,4.336814989389247e-05
+2021,Passenger,Road,Inter-city Buses,Urban Bus ,Conventionnal,Diesel,kunits,0.013491343530263648
+2021,Passenger,Road,Inter-city Buses,Urban Bus ,Conventionnal,Gasoline,kunits,0.00014756280964945009
+2021,Passenger,Road,Inter-city Buses,Urban Bus ,Conventionnal,Natural Gas,kunits,7.042908690383934e-05
+2021,Passenger,Road,Cars,___,Conventionnal,Diesel,kunits,0.04314249280646664
+2021,Passenger,Road,Cars,___,Conventionnal,Gasoline,kunits,2.878717704983571
+2021,Passenger,Road,Cars,___,Conventionnal,Natural Gas,kunits,0.007155520395510486
+2021,Passenger,Road,Cars,___,Conventionnal,Propane,kunits,0.03357908669005034
+2021,Passenger,Road,Motorcycles,___,Conventionnal,Gasoline,kunits,0.04665722152842416
+2021,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,0.03147499210711299
+2021,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,2.8617603768023168
+2021,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Natural Gas,kunits,0.00017556020341628166
+2021,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Propane,kunits,0.01158756331844184
+2021,Public,Road,Inter-city Buses,Urban Bus ,Conventionnal,Diesel,kunits,9.68075694154506e-05
+2021,Public,Road,Cars,___,Conventionnal,Diesel,kunits,0.00265797441570617
+2021,Public,Road,Cars,___,Conventionnal,Gasoline,kunits,0.06633708676698855
+2021,Public,Road,Motorcycles,___,Conventionnal,Gasoline,kunits,0.00015229542643599043
+2021,Public,Road,Truck,Heavy Trucks,Conventionnal,Diesel,kunits,0.037760710799060085
+2021,Public,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,0.03267408093818993
+2021,Public,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,0.0629938026085946
+2021,Public,Road,Truck,Medium Trucks,Conventionnal,Diesel,kunits,0.024910218510242586
+2021,Public,Road,Truck,Medium Trucks,Conventionnal,Gasoline,kunits,0.015567673739401093
+2022,Freight Transportation,Air,___,___,___,Aviation Gasoline,kunits,0.0007542920012230668
+2022,Freight Transportation,Air,___,___,___,Aviation Turbo Fuel,kunits,0.0018320669424955797
+2022,Freight Transportation,Rail,___,___,___,Diesel,kunits,0.0007257632776466284
+2022,Freight Transportation,Road,Truck,Heavy Trucks,Conventionnal,Diesel,kunits,0.0062926757419973535
+2022,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,0.3633769306501268
+2022,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,0.9983190926434984
+2022,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Propane,kunits,0.059544484357178434
+2022,Freight Transportation,Road,Truck,Medium Trucks,Conventionnal,Diesel,kunits,0.17453772902857445
+2022,Freight Transportation,Road,Truck,Medium Trucks,Conventionnal,Gasoline,kunits,0.013504968711597048
+2022,Long Distance,Air,___,___,Standard,Aviation Gasoline,kunits,0.0009323170990111667
+2022,Long Distance,Air,___,___,Standard,Aviation Turbo Fuel,kunits,0.021389331313486974
+2022,Long Distance,Rail,___,___,___,Diesel,kunits,0.030848796304876566
+2022,Passenger,Rail,Regional,___,___,Diesel,kunits,5.3819047289671407e-05
+2022,Passenger,Rail,Regional,___,___,Electricity,kunits,4.44868128727388e-05
+2022,Passenger,Rail,Subway,___,___,Diesel,kunits,2.736959095779508e-05
+2022,Passenger,Rail,Subway,___,___,Electricity,kunits,0.0005640013532507853
+2022,Passenger,Rail,Tramway,___,___,Diesel,kunits,2.6582444390919697e-05
+2022,Passenger,Rail,Tramway,___,___,Electricity,kunits,9.59748112095922e-05
+2022,Passenger,Road,Inter-city Buses,Inter Urban Bus,Conventionnal,Diesel,kunits,0.0006466210146161534
+2022,Passenger,Road,Inter-city Buses,Inter Urban Bus,Conventionnal,Gasoline,kunits,0.0003611510065003925
+2022,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Diesel,kunits,0.0008273915189623844
+2022,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Gasoline,kunits,9.211300425452131e-05
+2022,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Natural Gas,kunits,3.335477792415468e-05
+2022,Passenger,Road,Inter-city Buses,Urban Bus ,Conventionnal,Diesel,kunits,0.017839915516345884
+2022,Passenger,Road,Inter-city Buses,Urban Bus ,Conventionnal,Gasoline,kunits,0.00014816359972737934
+2022,Passenger,Road,Inter-city Buses,Urban Bus ,Conventionnal,Natural Gas,kunits,6.852709471999356e-05
+2022,Passenger,Road,Cars,___,Conventionnal,Diesel,kunits,0.038708412638468005
+2022,Passenger,Road,Cars,___,Conventionnal,Gasoline,kunits,3.217961730441897
+2022,Passenger,Road,Cars,___,Conventionnal,Natural Gas,kunits,0.0017555607254484706
+2022,Passenger,Road,Cars,___,Conventionnal,Propane,kunits,0.02186601063249603
+2022,Passenger,Road,Motorcycles,___,Conventionnal,Gasoline,kunits,0.04503477354750923
+2022,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,0.02145454991760954
+2022,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,3.2066440722793295
+2022,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Natural Gas,kunits,0.002429564647154478
+2022,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Propane,kunits,0.0032138730146985314
+2022,Public,Road,Inter-city Buses,Urban Bus ,Conventionnal,Diesel,kunits,7.402930332943064e-05
+2022,Public,Road,Cars,___,Conventionnal,Diesel,kunits,0.00244499200576292
+2022,Public,Road,Cars,___,Conventionnal,Gasoline,kunits,0.06289072694032503
+2022,Public,Road,Motorcycles,___,Conventionnal,Gasoline,kunits,1.69167825702671e-05
+2022,Public,Road,Truck,Heavy Trucks,Conventionnal,Diesel,kunits,0.038759604114325184
+2022,Public,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,0.030684159657064357
+2022,Public,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,0.06375615441334619
+2022,Public,Road,Truck,Medium Trucks,Conventionnal,Diesel,kunits,0.021855506438944777
+2022,Public,Road,Truck,Medium Trucks,Conventionnal,Gasoline,kunits,0.01924548243787072
+2023,Freight Transportation,Air,___,___,___,Aviation Gasoline,kunits,0.0007353890152295808
+2023,Freight Transportation,Air,___,___,___,Aviation Turbo Fuel,kunits,0.0021389881406632177
+2023,Freight Transportation,Rail,___,___,___,Diesel,kunits,0.006709591702832797
+2023,Freight Transportation,Rail,___,___,___,Renewable Diesel,kunits,0.006613319733129584
+2023,Freight Transportation,Road,Truck,Heavy Trucks,Conventionnal,Diesel,kunits,0.0008969605944096787
+2023,Freight Transportation,Road,Truck,Heavy Trucks,Conventionnal,Natural Gas,kunits,0.0024047426289243237
+2023,Freight Transportation,Road,Truck,Heavy Trucks,Conventionnal,Renewable Diesel,kunits,0.00011482546075264653
+2023,Freight Transportation,Road,Truck,Heavy Trucks,Hybrid,Diesel,kunits,0.0005824418204931881
+2023,Freight Transportation,Road,Truck,Heavy Trucks,Hybrid,Renewable Diesel,kunits,0.00010758372407387802
+2023,Freight Transportation,Road,Truck,Heavy Trucks,Plug Hybrid Vehicle,Diesel,kunits,0.0001698420984282868
+2023,Freight Transportation,Road,Truck,Heavy Trucks,Plug Hybrid Vehicle,Natural Gas,kunits,0.0004053009883627385
+2023,Freight Transportation,Road,Truck,Heavy Trucks,Plug Hybrid Vehicle,Renewable Diesel,kunits,6.537988096682667e-05
+2023,Freight Transportation,Road,Truck,Passenger Light Trucks,Battery Electric Vehicle,Battery Electricity Freight,kunits,0.0008134929729658368
+2023,Freight Transportation,Road,Truck,Passenger Light Trucks,Fuel Cell Vehicle,Hydrogen,kunits,0.00044077593360177534
+2023,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,0.15958664701090364
+2023,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,0.024455783326157495
+2023,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Natural Gas,kunits,0.0016202759499039038
+2023,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Propane,kunits,0.002306773531210221
+2023,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Renewable Diesel,kunits,0.0003914151520100348
+2023,Freight Transportation,Road,Truck,Passenger Light Trucks,Hybrid,Diesel,kunits,0.0034189754786270597
+2023,Freight Transportation,Road,Truck,Passenger Light Trucks,Hybrid,Gasoline,kunits,0.00486307834187789
+2023,Freight Transportation,Road,Truck,Passenger Light Trucks,Hybrid,Renewable Diesel,kunits,0.0003323756043258615
+2023,Freight Transportation,Road,Truck,Passenger Light Trucks,Plug Hybrid Vehicle,Gasoline,kunits,0.0012291118507785925
+2023,Freight Transportation,Road,Truck,Medium Trucks,Battery Electric Vehicle,Battery Electricity Freight,kunits,0.0002405791180881528
+2023,Freight Transportation,Road,Truck,Medium Trucks,Fuel Cell Vehicle,Hydrogen,kunits,0.00026698668710919493
+2023,Freight Transportation,Road,Truck,Medium Trucks,Conventionnal,Diesel,kunits,0.0029021025951533035
+2023,Freight Transportation,Road,Truck,Medium Trucks,Conventionnal,Gasoline,kunits,0.003444477556890336
+2023,Freight Transportation,Road,Truck,Medium Trucks,Conventionnal,Natural Gas,kunits,0.0008170156438260181
+2023,Freight Transportation,Road,Truck,Medium Trucks,Conventionnal,Propane,kunits,0.00107158654745519
+2023,Freight Transportation,Road,Truck,Medium Trucks,Conventionnal,Renewable Diesel,kunits,0.0002464399246874116
+2023,Freight Transportation,Road,Truck,Medium Trucks,Hybrid,Diesel,kunits,0.02447879489160374
+2023,Freight Transportation,Road,Truck,Medium Trucks,Hybrid,Renewable Diesel,kunits,0.00025114397610902944
+2023,Freight Transportation,Road,Truck,Medium Trucks,Plug Hybrid Vehicle,Diesel,kunits,0.0007568875274072354
+2023,Freight Transportation,Road,Truck,Medium Trucks,Plug Hybrid Vehicle,Renewable Diesel,kunits,0.0002635968309071388
+2023,Long Distance,Air,___,___,Standard,Aviation Gasoline,kunits,0.0016319326714334384
+2023,Long Distance,Air,___,___,Standard,Aviation Turbo Fuel,kunits,0.019047285322250827
+2023,Long Distance,Rail,___,___,___,Diesel,kunits,0.01386829451784192
+2023,Passenger,Rail,Regional,___,___,Diesel,kunits,0.00751997457815478
+2023,Passenger,Rail,Regional,___,___,Renewable Diesel,kunits,0.006003345755527238
+2023,Passenger,Rail,Subway,___,___,Diesel,kunits,0.02103479529462631
+2023,Passenger,Rail,Subway,___,___,Renewable Diesel,kunits,0.004266216224650163
+2023,Passenger,Rail,Tramway,___,___,Diesel,kunits,0.007634388448482406
+2023,Passenger,Rail,Tramway,___,___,Renewable Diesel,kunits,0.004266212336482603
+2023,Passenger,Road,Inter-city Buses,Inter Urban Bus,Fuel Cell Vehicle,Hydrogen,kunits,0.0003623328897336384
+2023,Passenger,Road,Inter-city Buses,Inter Urban Bus,Conventionnal,Diesel,kunits,0.0020597539963787786
+2023,Passenger,Road,Inter-city Buses,Inter Urban Bus,Conventionnal,Gasoline,kunits,0.002021537717669484
+2023,Passenger,Road,Inter-city Buses,Inter Urban Bus,Conventionnal,Natural Gas,kunits,0.0020192597615661485
+2023,Passenger,Road,Inter-city Buses,Inter Urban Bus,Conventionnal,Renewable Diesel,kunits,0.0007484507532675845
+2023,Passenger,Road,Inter-city Buses,Inter Urban Bus,Hybrid,Diesel,kunits,0.005734464368033175
+2023,Passenger,Road,Inter-city Buses,Inter Urban Bus,Hybrid,Renewable Diesel,kunits,0.0009515015459820694
+2023,Passenger,Road,Inter-city Buses,Inter Urban Bus,Plug Hybrid Vehicle,Diesel,kunits,0.0020762046445723698
+2023,Passenger,Road,Inter-city Buses,Inter Urban Bus,Plug Hybrid Vehicle,Natural Gas,kunits,0.0018268857173484119
+2023,Passenger,Road,Inter-city Buses,Inter Urban Bus,Plug Hybrid Vehicle,Renewable Diesel,kunits,0.0008363014613592575
+2023,Passenger,Road,Inter-city Buses,School Bus,Battery Electric Vehicle,Battery Electric Vehicle,kunits,0.0002977958951437059
+2023,Passenger,Road,Inter-city Buses,School Bus,Fuel Cell Vehicle,Hydrogen,kunits,0.0001677888857872631
+2023,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Diesel,kunits,0.001591559787981634
+2023,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Gasoline,kunits,0.002573024054165941
+2023,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Natural Gas,kunits,0.001036182679408405
+2023,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Renewable Diesel,kunits,0.0002662176644129709
+2023,Passenger,Road,Inter-city Buses,School Bus,Hybrid,Diesel,kunits,0.0009580630563439598
+2023,Passenger,Road,Inter-city Buses,School Bus,Hybrid,Renewable Diesel,kunits,0.00022757517772224408
+2023,Passenger,Road,Inter-city Buses,School Bus,Hybrid,Diesel,kunits,0.001367931370189381
+2023,Passenger,Road,Inter-city Buses,School Bus,Hybrid,Renewable Diesel,kunits,0.0002622919553805028
+2023,Passenger,Road,Inter-city Buses,School Bus,Plug Hybrid Vehicle,Diesel,kunits,0.0006129642737428016
+2023,Passenger,Road,Inter-city Buses,School Bus,Plug Hybrid Vehicle,Renewable Diesel,kunits,0.00023344549056339737
+2023,Passenger,Road,Inter-city Buses,Urban Bus ,Battery Electric Vehicle,Battery Electric Vehicle,kunits,0.00047761843942723675
+2023,Passenger,Road,Inter-city Buses,Urban Bus ,Fuel Cell Vehicle,Hydrogen,kunits,0.00011261941147237386
+2023,Passenger,Road,Inter-city Buses,Urban Bus ,Conventionnal,Diesel,kunits,0.00055505866664824
+2023,Passenger,Road,Inter-city Buses,Urban Bus ,Conventionnal,Gasoline,kunits,0.0013257808996965006
+2023,Passenger,Road,Inter-city Buses,Urban Bus ,Conventionnal,Natural Gas,kunits,0.00024600862933795754
+2023,Passenger,Road,Inter-city Buses,Urban Bus ,Conventionnal,Renewable Diesel,kunits,6.34019761498463e-05
+2023,Passenger,Road,Cars,___,320VElectricity,Battery Electric Vehicle,kunits,0.006168798601560987
+2023,Passenger,Road,Cars,___,480VElectricity,Battery Electric Vehicle,kunits,0.004323259999262082
+2023,Passenger,Road,Cars,___,640VElectricity,Battery Electric Vehicle,kunits,0.003044641201203668
+2023,Passenger,Road,Cars,___,Fuel Cell Vehicle,Hydrogen,kunits,0.0015094763821310044
+2023,Passenger,Road,Cars,___,Conventionnal,Diesel,kunits,0.014660094524462501
+2023,Passenger,Road,Cars,___,Conventionnal,Gasoline,kunits,0.08851693020948441
+2023,Passenger,Road,Cars,___,Conventionnal,Natural Gas,kunits,0.6062071329673374
+2023,Passenger,Road,Cars,___,Conventionnal,Propane,kunits,0.06701578585996645
+2023,Passenger,Road,Cars,___,Conventionnal,Renewable Diesel,kunits,0.0035503760574499507
+2023,Passenger,Road,Cars,___,Hybrid,Diesel,kunits,0.014116010390609265
+2023,Passenger,Road,Cars,___,Hybrid,Gasoline,kunits,0.05504694010986931
+2023,Passenger,Road,Cars,___,Hybrid,Renewable Diesel,kunits,0.003100249104210667
+2023,Passenger,Road,Cars,___,Plug Hybrid Vehicle,Gasoline,kunits,0.012816731597534997
+2023,Passenger,Road,Motorcycles,___,Battery Electric Vehicle,Battery Electric Vehicle,kunits,0.003085829525234291
+2023,Passenger,Road,Motorcycles,___,Conventionnal,Gasoline,kunits,0.030718460113059214
+2023,Passenger,Road,Truck,Passenger Light Trucks,320VElectricity,Battery Electric Vehicle,kunits,0.0037662541180105485
+2023,Passenger,Road,Truck,Passenger Light Trucks,480VElectricity,Battery Electric Vehicle,kunits,0.0028133030143196085
+2023,Passenger,Road,Truck,Passenger Light Trucks,640VElectricity,Battery Electric Vehicle,kunits,0.0020660902780610243
+2023,Passenger,Road,Truck,Passenger Light Trucks,Fuel Cell Vehicle,Hydrogen,kunits,0.0014612725400320286
+2023,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,0.645339651845639
+2023,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,0.034498475221502754
+2023,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Natural Gas,kunits,0.060047837313516726
+2023,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Propane,kunits,0.02278838856772173
+2023,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Renewable Diesel,kunits,0.00383139517951899
+2023,Passenger,Road,Truck,Passenger Light Trucks,Hybrid,Diesel,kunits,0.009765382011489167
+2023,Passenger,Road,Truck,Passenger Light Trucks,Hybrid,Gasoline,kunits,0.02989699407952488
+2023,Passenger,Road,Truck,Passenger Light Trucks,Hybrid,Renewable Diesel,kunits,0.002368775101529755
+2023,Passenger,Road,Truck,Passenger Light Trucks,Plug Hybrid Vehicle,Gasoline,kunits,0.008757287870524584
+2023,Public,Road,Inter-city Buses,Urban Bus ,Conventionnal,Diesel,kunits,0.013614118138662305
+2023,Public,Road,Cars,___,320VElectricity,Battery Electric Vehicle,kunits,0.0034047648357955857
+2023,Public,Road,Cars,___,480VElectricity,Battery Electric Vehicle,kunits,0.002435444186241663
+2023,Public,Road,Cars,___,640VElectricity,Battery Electric Vehicle,kunits,0.0017467279983365202
+2023,Public,Road,Cars,___,Fuel Cell Vehicle,Hydrogen,kunits,0.0009149908398843384
+2023,Public,Road,Cars,___,Conventionnal,Diesel,kunits,0.006909580360473861
+2023,Public,Road,Cars,___,Conventionnal,Gasoline,kunits,0.011441331442197984
+2023,Public,Road,Cars,___,Conventionnal,Natural Gas,kunits,0.13443335527703618
+2023,Public,Road,Cars,___,Hybrid,Diesel,kunits,0.0066337683769249825
+2023,Public,Road,Cars,___,Hybrid,Gasoline,kunits,0.009781921541927302
+2023,Public,Road,Cars,___,Plug Hybrid Vehicle,Gasoline,kunits,0.005956998046780548
+2023,Public,Road,Motorcycles,___,Battery Electric Vehicle,Battery Electric Vehicle,kunits,0.0046410731820000035
+2023,Public,Road,Motorcycles,___,Conventionnal,Gasoline,kunits,0.005334547080482361
+2023,Public,Road,Truck,Heavy Trucks,Conventionnal,Diesel,kunits,0.031739657420401426
+2023,Public,Road,Truck,Heavy Trucks,Conventionnal,Natural Gas,kunits,0.0011514978885801067
+2023,Public,Road,Truck,Heavy Trucks,Hybrid,Diesel,kunits,0.0015467824254278139
+2023,Public,Road,Truck,Heavy Trucks,Plug Hybrid Vehicle,Diesel,kunits,0.00027828392143364216
+2023,Public,Road,Truck,Heavy Trucks,Plug Hybrid Vehicle,Natural Gas,kunits,0.0006636466281650208
+2023,Public,Road,Truck,Heavy Trucks,Plug Hybrid Vehicle,Renewable Diesel,kunits,0.00014848715703479523
+2023,Public,Road,Truck,Passenger Light Trucks,Battery Electric Vehicle,Battery Electricity Freight,kunits,0.001597383283153773
+2023,Public,Road,Truck,Passenger Light Trucks,Fuel Cell Vehicle,Hydrogen,kunits,0.0009969643209887548
+2023,Public,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,0.08244782387036056
+2023,Public,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,0.007108706929863566
+2023,Public,Road,Truck,Passenger Light Trucks,Conventionnal,Natural Gas,kunits,0.0036142682753696385
+2023,Public,Road,Truck,Passenger Light Trucks,Hybrid,Diesel,kunits,0.005114699179469692
+2023,Public,Road,Truck,Passenger Light Trucks,Hybrid,Gasoline,kunits,0.008474478192661818
+2023,Public,Road,Truck,Passenger Light Trucks,Plug Hybrid Vehicle,Gasoline,kunits,0.002315773438838183
+2023,Public,Road,Truck,Medium Trucks,Battery Electric Vehicle,Battery Electricity Freight,kunits,0.0005232023512496069
+2023,Public,Road,Truck,Medium Trucks,Fuel Cell Vehicle,Hydrogen,kunits,0.0005410051514338446
+2023,Public,Road,Truck,Medium Trucks,Conventionnal,Diesel,kunits,0.004341062075450684
+2023,Public,Road,Truck,Medium Trucks,Conventionnal,Gasoline,kunits,0.0036014242499426696
+2023,Public,Road,Truck,Medium Trucks,Conventionnal,Natural Gas,kunits,0.0012422445299399003
+2023,Public,Road,Truck,Medium Trucks,Hybrid,Diesel,kunits,0.036402663599325924
+2023,Public,Road,Truck,Medium Trucks,Plug Hybrid Vehicle,Diesel,kunits,0.001320056883100278
+2023,Public,Road,Truck,Medium Trucks,Plug Hybrid Vehicle,Renewable Diesel,kunits,0.0005639050314225427
+2024,Freight Transportation,Air,___,___,___,Aviation Gasoline,kunits,0.0006463683869334348
+2024,Freight Transportation,Air,___,___,___,Aviation Turbo Fuel,kunits,0.0024254346986366335
+2024,Freight Transportation,Rail,___,___,___,Diesel,kunits,0.006181715510003638
+2024,Freight Transportation,Rail,___,___,___,Renewable Diesel,kunits,0.006109406973362317
+2024,Freight Transportation,Road,Truck,Heavy Trucks,Conventionnal,Diesel,kunits,0.0005909945414466978
+2024,Freight Transportation,Road,Truck,Heavy Trucks,Conventionnal,Natural Gas,kunits,0.006649906188447977
+2024,Freight Transportation,Road,Truck,Heavy Trucks,Conventionnal,Renewable Diesel,kunits,8.926686989248176e-05
+2024,Freight Transportation,Road,Truck,Heavy Trucks,Hybrid,Diesel,kunits,0.0004209235146281302
+2024,Freight Transportation,Road,Truck,Heavy Trucks,Hybrid,Renewable Diesel,kunits,8.370863320899912e-05
+2024,Freight Transportation,Road,Truck,Heavy Trucks,Plug Hybrid Vehicle,Diesel,kunits,0.00013913837312734502
+2024,Freight Transportation,Road,Truck,Heavy Trucks,Plug Hybrid Vehicle,Natural Gas,kunits,0.00029659445879483433
+2024,Freight Transportation,Road,Truck,Heavy Trucks,Plug Hybrid Vehicle,Renewable Diesel,kunits,5.341287028854344e-05
+2024,Freight Transportation,Road,Truck,Passenger Light Trucks,Battery Electric Vehicle,Battery Electricity Freight,kunits,0.0007936531853153252
+2024,Freight Transportation,Road,Truck,Passenger Light Trucks,Fuel Cell Vehicle,Hydrogen,kunits,0.0004098986454695308
+2024,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,0.7569477023675315
+2024,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,0.04190146755574063
+2024,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Natural Gas,kunits,0.0015272542446457004
+2024,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Propane,kunits,0.0033923157065262567
+2024,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Renewable Diesel,kunits,0.0003196682077178354
+2024,Freight Transportation,Road,Truck,Passenger Light Trucks,Hybrid,Diesel,kunits,0.0029712774366273684
+2024,Freight Transportation,Road,Truck,Passenger Light Trucks,Hybrid,Gasoline,kunits,0.0047759952246861775
+2024,Freight Transportation,Road,Truck,Passenger Light Trucks,Hybrid,Renewable Diesel,kunits,0.0002725588699940112
+2024,Freight Transportation,Road,Truck,Passenger Light Trucks,Plug Hybrid Vehicle,Gasoline,kunits,0.0011259743433882016
+2024,Freight Transportation,Road,Truck,Medium Trucks,Battery Electric Vehicle,Battery Electricity Freight,kunits,0.0002172335577516453
+2024,Freight Transportation,Road,Truck,Medium Trucks,Fuel Cell Vehicle,Hydrogen,kunits,0.00024194553018502812
+2024,Freight Transportation,Road,Truck,Medium Trucks,Conventionnal,Diesel,kunits,0.002309077491031643
+2024,Freight Transportation,Road,Truck,Medium Trucks,Conventionnal,Gasoline,kunits,0.002903853855289757
+2024,Freight Transportation,Road,Truck,Medium Trucks,Conventionnal,Natural Gas,kunits,0.0007048425894378515
+2024,Freight Transportation,Road,Truck,Medium Trucks,Conventionnal,Propane,kunits,0.001113807163610298
+2024,Freight Transportation,Road,Truck,Medium Trucks,Conventionnal,Renewable Diesel,kunits,0.00020268667805732436
+2024,Freight Transportation,Road,Truck,Medium Trucks,Hybrid,Diesel,kunits,0.10786334935194317
+2024,Freight Transportation,Road,Truck,Medium Trucks,Hybrid,Renewable Diesel,kunits,0.0002087718061919726
+2024,Freight Transportation,Road,Truck,Medium Trucks,Plug Hybrid Vehicle,Diesel,kunits,0.0006681777482597178
+2024,Freight Transportation,Road,Truck,Medium Trucks,Plug Hybrid Vehicle,Renewable Diesel,kunits,0.00023057860056390937
+2024,Long Distance,Air,___,___,Standard,Aviation Gasoline,kunits,0.0013890649446649354
+2024,Long Distance,Air,___,___,Standard,Aviation Turbo Fuel,kunits,0.006416382506433702
+2024,Long Distance,Rail,___,___,___,Diesel,kunits,0.01277842417288818
+2024,Passenger,Rail,Regional,___,___,Diesel,kunits,0.005388859104928753
+2024,Passenger,Rail,Regional,___,___,Renewable Diesel,kunits,0.004554070936361792
+2024,Passenger,Rail,Subway,___,___,Diesel,kunits,0.025136934430391288
+2024,Passenger,Rail,Subway,___,___,Renewable Diesel,kunits,0.003610132057121451
+2024,Passenger,Rail,Tramway,___,___,Diesel,kunits,0.005952472262396287
+2024,Passenger,Rail,Tramway,___,___,Renewable Diesel,kunits,0.0036101283665213534
+2024,Passenger,Road,Inter-city Buses,Inter Urban Bus,Fuel Cell Vehicle,Hydrogen,kunits,0.0003093366438140599
+2024,Passenger,Road,Inter-city Buses,Inter Urban Bus,Conventionnal,Diesel,kunits,0.0019136867314334222
+2024,Passenger,Road,Inter-city Buses,Inter Urban Bus,Conventionnal,Gasoline,kunits,0.0015330390579496526
+2024,Passenger,Road,Inter-city Buses,Inter Urban Bus,Conventionnal,Natural Gas,kunits,0.002647064201633864
+2024,Passenger,Road,Inter-city Buses,Inter Urban Bus,Conventionnal,Renewable Diesel,kunits,0.0005376585639470702
+2024,Passenger,Road,Inter-city Buses,Inter Urban Bus,Hybrid,Diesel,kunits,0.006924068718856956
+2024,Passenger,Road,Inter-city Buses,Inter Urban Bus,Hybrid,Renewable Diesel,kunits,0.0006081627763901832
+2024,Passenger,Road,Inter-city Buses,Inter Urban Bus,Plug Hybrid Vehicle,Diesel,kunits,0.0015411364757684787
+2024,Passenger,Road,Inter-city Buses,Inter Urban Bus,Plug Hybrid Vehicle,Natural Gas,kunits,0.0013457722209812737
+2024,Passenger,Road,Inter-city Buses,Inter Urban Bus,Plug Hybrid Vehicle,Renewable Diesel,kunits,0.0006044531584521191
+2024,Passenger,Road,Inter-city Buses,School Bus,Battery Electric Vehicle,Battery Electric Vehicle,kunits,0.0002967782690787405
+2024,Passenger,Road,Inter-city Buses,School Bus,Fuel Cell Vehicle,Hydrogen,kunits,0.0001440740486955821
+2024,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Diesel,kunits,0.003997498348260145
+2024,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Gasoline,kunits,0.011268660567467509
+2024,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Natural Gas,kunits,0.0009960894421059917
+2024,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Renewable Diesel,kunits,0.00021789367275440577
+2024,Passenger,Road,Inter-city Buses,School Bus,Hybrid,Diesel,kunits,0.000990398608921138
+2024,Passenger,Road,Inter-city Buses,School Bus,Hybrid,Renewable Diesel,kunits,0.0001864963676203764
+2024,Passenger,Road,Inter-city Buses,School Bus,Hybrid,Diesel,kunits,0.001745095360285525
+2024,Passenger,Road,Inter-city Buses,School Bus,Hybrid,Renewable Diesel,kunits,0.00021500298715555757
+2024,Passenger,Road,Inter-city Buses,School Bus,Plug Hybrid Vehicle,Diesel,kunits,0.0005350348220072467
+2024,Passenger,Road,Inter-city Buses,School Bus,Plug Hybrid Vehicle,Renewable Diesel,kunits,0.00019812489755620505
+2024,Passenger,Road,Inter-city Buses,Urban Bus ,Battery Electric Vehicle,Battery Electric Vehicle,kunits,0.11862588776168156
+2024,Passenger,Road,Inter-city Buses,Urban Bus ,Fuel Cell Vehicle,Hydrogen,kunits,9.660410907087948e-05
+2024,Passenger,Road,Inter-city Buses,Urban Bus ,Conventionnal,Diesel,kunits,0.0007097192407267841
+2024,Passenger,Road,Inter-city Buses,Urban Bus ,Conventionnal,Gasoline,kunits,0.01176039159353915
+2024,Passenger,Road,Inter-city Buses,Urban Bus ,Conventionnal,Natural Gas,kunits,0.00021271997838453354
+2024,Passenger,Road,Inter-city Buses,Urban Bus ,Conventionnal,Renewable Diesel,kunits,5.176011483720003e-05
+2024,Passenger,Road,Cars,___,320VElectricity,Battery Electric Vehicle,kunits,0.005580611742946497
+2024,Passenger,Road,Cars,___,480VElectricity,Battery Electric Vehicle,kunits,0.00388097019577172
+2024,Passenger,Road,Cars,___,640VElectricity,Battery Electric Vehicle,kunits,0.0027231644262675856
+2024,Passenger,Road,Cars,___,Fuel Cell Vehicle,Hydrogen,kunits,0.0012762153910708535
+2024,Passenger,Road,Cars,___,Conventionnal,Diesel,kunits,0.011538400688696887
+2024,Passenger,Road,Cars,___,Conventionnal,Gasoline,kunits,0.06211794586966281
+2024,Passenger,Road,Cars,___,Conventionnal,Natural Gas,kunits,0.05947813492152434
+2024,Passenger,Road,Cars,___,Conventionnal,Propane,kunits,0.029189490554872265
+2024,Passenger,Road,Cars,___,Conventionnal,Renewable Diesel,kunits,0.0027310777962830327
+2024,Passenger,Road,Cars,___,Hybrid,Diesel,kunits,0.011676359026699506
+2024,Passenger,Road,Cars,___,Hybrid,Gasoline,kunits,0.046677149779688974
+2024,Passenger,Road,Cars,___,Hybrid,Renewable Diesel,kunits,0.002489592391429557
+2024,Passenger,Road,Cars,___,Plug Hybrid Vehicle,Gasoline,kunits,0.011272522767899348
+2024,Passenger,Road,Motorcycles,___,Battery Electric Vehicle,Battery Electric Vehicle,kunits,0.0027407764797867068
+2024,Passenger,Road,Motorcycles,___,Conventionnal,Gasoline,kunits,0.033381436688532225
+2024,Passenger,Road,Truck,Passenger Light Trucks,320VElectricity,Battery Electric Vehicle,kunits,0.0033426727761938077
+2024,Passenger,Road,Truck,Passenger Light Trucks,480VElectricity,Battery Electric Vehicle,kunits,0.0024988344843377497
+2024,Passenger,Road,Truck,Passenger Light Trucks,640VElectricity,Battery Electric Vehicle,kunits,0.0018391578669745181
+2024,Passenger,Road,Truck,Passenger Light Trucks,Fuel Cell Vehicle,Hydrogen,kunits,0.0012514528913288008
+2024,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,0.031019001397056108
+2024,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,0.031240997624515127
+2024,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Natural Gas,kunits,0.04625904545523849
+2024,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Propane,kunits,0.019579871515866296
+2024,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Renewable Diesel,kunits,0.0028383001968487883
+2024,Passenger,Road,Truck,Passenger Light Trucks,Hybrid,Diesel,kunits,0.008204502969942089
+2024,Passenger,Road,Truck,Passenger Light Trucks,Hybrid,Gasoline,kunits,0.02715116932426049
+2024,Passenger,Road,Truck,Passenger Light Trucks,Hybrid,Renewable Diesel,kunits,0.0018974651497778738
+2024,Passenger,Road,Truck,Passenger Light Trucks,Plug Hybrid Vehicle,Gasoline,kunits,0.007676502331421211
+2024,Public,Road,Inter-city Buses,Urban Bus ,Conventionnal,Diesel,kunits,0.011710873933728343
+2024,Public,Road,Cars,___,320VElectricity,Battery Electric Vehicle,kunits,0.003263228560460953
+2024,Public,Road,Cars,___,480VElectricity,Battery Electric Vehicle,kunits,0.002226542956272871
+2024,Public,Road,Cars,___,640VElectricity,Battery Electric Vehicle,kunits,0.0015701101059063785
+2024,Public,Road,Cars,___,Fuel Cell Vehicle,Hydrogen,kunits,0.000768320695909737
+2024,Public,Road,Cars,___,Conventionnal,Diesel,kunits,0.005619567409204073
+2024,Public,Road,Cars,___,Conventionnal,Gasoline,kunits,0.01118528092814816
+2024,Public,Road,Cars,___,Conventionnal,Natural Gas,kunits,0.04220333951863166
+2024,Public,Road,Cars,___,Hybrid,Diesel,kunits,0.005667846695848318
+2024,Public,Road,Cars,___,Hybrid,Gasoline,kunits,0.008904650744175784
+2024,Public,Road,Cars,___,Plug Hybrid Vehicle,Gasoline,kunits,0.0054048623806007955
+2024,Public,Road,Motorcycles,___,Battery Electric Vehicle,Battery Electric Vehicle,kunits,0.003952163730612944
+2024,Public,Road,Motorcycles,___,Conventionnal,Gasoline,kunits,0.004410265064166358
+2024,Public,Road,Truck,Heavy Trucks,Conventionnal,Diesel,kunits,0.032994451398612255
+2024,Public,Road,Truck,Heavy Trucks,Conventionnal,Natural Gas,kunits,0.0006325790453966253
+2024,Public,Road,Truck,Heavy Trucks,Hybrid,Diesel,kunits,0.0013115455183899658
+2024,Public,Road,Truck,Heavy Trucks,Plug Hybrid Vehicle,Diesel,kunits,0.00023320321688892324
+2024,Public,Road,Truck,Heavy Trucks,Plug Hybrid Vehicle,Natural Gas,kunits,0.0005345226855266911
+2024,Public,Road,Truck,Heavy Trucks,Plug Hybrid Vehicle,Renewable Diesel,kunits,0.00012262229111822332
+2024,Public,Road,Truck,Passenger Light Trucks,Battery Electric Vehicle,Battery Electricity Freight,kunits,0.0015938072220279412
+2024,Public,Road,Truck,Passenger Light Trucks,Fuel Cell Vehicle,Hydrogen,kunits,0.0009167337815004002
+2024,Public,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,0.07347941149433292
+2024,Public,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,0.007083014510013543
+2024,Public,Road,Truck,Passenger Light Trucks,Conventionnal,Natural Gas,kunits,0.00260060223430038
+2024,Public,Road,Truck,Passenger Light Trucks,Hybrid,Diesel,kunits,0.004175979473481342
+2024,Public,Road,Truck,Passenger Light Trucks,Hybrid,Gasoline,kunits,0.011107025668528713
+2024,Public,Road,Truck,Passenger Light Trucks,Plug Hybrid Vehicle,Gasoline,kunits,0.0021356981977850575
+2024,Public,Road,Truck,Medium Trucks,Battery Electric Vehicle,Battery Electricity Freight,kunits,0.00046987687846331623
+2024,Public,Road,Truck,Medium Trucks,Fuel Cell Vehicle,Hydrogen,kunits,0.00047622158374952027
+2024,Public,Road,Truck,Medium Trucks,Conventionnal,Diesel,kunits,0.0032027369437796958
+2024,Public,Road,Truck,Medium Trucks,Conventionnal,Gasoline,kunits,0.002964681638831476
+2024,Public,Road,Truck,Medium Trucks,Conventionnal,Natural Gas,kunits,0.0010142371590432745
+2024,Public,Road,Truck,Medium Trucks,Hybrid,Diesel,kunits,0.03657720560108387
+2024,Public,Road,Truck,Medium Trucks,Plug Hybrid Vehicle,Diesel,kunits,0.0011440545164414747
+2024,Public,Road,Truck,Medium Trucks,Plug Hybrid Vehicle,Renewable Diesel,kunits,0.00048727068223821345
+2025,Freight Transportation,Air,___,___,___,Aviation Gasoline,kunits,0.0005485961127276643
+2025,Freight Transportation,Air,___,___,___,Aviation Turbo Fuel,kunits,0.01932737950885515
+2025,Freight Transportation,Rail,___,___,___,Diesel,kunits,0.005584156584899158
+2025,Freight Transportation,Rail,___,___,___,Electricity,kunits,0.0026488400216489083
+2025,Freight Transportation,Rail,___,___,___,Renewable Diesel,kunits,0.005537997200879176
+2025,Freight Transportation,Road,Truck,Heavy Trucks,Battery Electric Vehicle,Battery Electricity Freight,kunits,4.399465226665515e-05
+2025,Freight Transportation,Road,Truck,Heavy Trucks,Catenary,Diesel,kunits,0.6196379961266325
+2025,Freight Transportation,Road,Truck,Heavy Trucks,Catenary,Electricity,kunits,8.964406127421758e-05
+2025,Freight Transportation,Road,Truck,Heavy Trucks,Catenary,Natural Gas,kunits,0.001174512935925581
+2025,Freight Transportation,Road,Truck,Heavy Trucks,Catenary,Renewable Diesel,kunits,0.0004306094331949311
+2025,Freight Transportation,Road,Truck,Heavy Trucks,Fuel Cell Vehicle,Hydrogen,kunits,4.2061675428461454e-05
+2025,Freight Transportation,Road,Truck,Heavy Trucks,Conventionnal,Diesel,kunits,0.00029267494585801294
+2025,Freight Transportation,Road,Truck,Heavy Trucks,Conventionnal,Natural Gas,kunits,0.008731078355499359
+2025,Freight Transportation,Road,Truck,Heavy Trucks,Conventionnal,Renewable Diesel,kunits,6.208035436602523e-05
+2025,Freight Transportation,Road,Truck,Heavy Trucks,Hybrid,Diesel,kunits,0.0002383760748018896
+2025,Freight Transportation,Road,Truck,Heavy Trucks,Hybrid,Renewable Diesel,kunits,5.826956305483498e-05
+2025,Freight Transportation,Road,Truck,Heavy Trucks,Plug Hybrid Vehicle,Diesel,kunits,0.00010169933532302173
+2025,Freight Transportation,Road,Truck,Heavy Trucks,Plug Hybrid Vehicle,Natural Gas,kunits,0.00019375877876738569
+2025,Freight Transportation,Road,Truck,Heavy Trucks,Plug Hybrid Vehicle,Renewable Diesel,kunits,3.898284938641964e-05
+2025,Freight Transportation,Road,Truck,Passenger Light Trucks,Battery Electric Vehicle,Battery Electricity Freight,kunits,0.0007213485719467324
+2025,Freight Transportation,Road,Truck,Passenger Light Trucks,Fuel Cell Vehicle,Hydrogen,kunits,0.0003645854743811049
+2025,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,30.900785612816065
+2025,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,24.888263142287094
+2025,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Natural Gas,kunits,0.001447361332699115
+2025,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Propane,kunits,1.518625775096865
+2025,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Renewable Diesel,kunits,0.00024592331899845644
+2025,Freight Transportation,Road,Truck,Passenger Light Trucks,Hybrid,Diesel,kunits,0.002442990807735778
+2025,Freight Transportation,Road,Truck,Passenger Light Trucks,Hybrid,Gasoline,kunits,0.004648724394354047
+2025,Freight Transportation,Road,Truck,Passenger Light Trucks,Hybrid,Renewable Diesel,kunits,0.0002105488706060488
+2025,Freight Transportation,Road,Truck,Passenger Light Trucks,Plug Hybrid Vehicle,Gasoline,kunits,0.0009536323488978612
+2025,Freight Transportation,Road,Truck,Medium Trucks,Battery Electric Vehicle,Battery Electricity Freight,kunits,0.000220715157577617
+2025,Freight Transportation,Road,Truck,Medium Trucks,Fuel Cell Vehicle,Hydrogen,kunits,0.00020805944630848412
+2025,Freight Transportation,Road,Truck,Medium Trucks,Conventionnal,Diesel,kunits,0.001744960578897296
+2025,Freight Transportation,Road,Truck,Medium Trucks,Conventionnal,Gasoline,kunits,0.0023115195625535803
+2025,Freight Transportation,Road,Truck,Medium Trucks,Conventionnal,Natural Gas,kunits,0.0005844288909403951
+2025,Freight Transportation,Road,Truck,Medium Trucks,Conventionnal,Propane,kunits,0.0012262203792598768
+2025,Freight Transportation,Road,Truck,Medium Trucks,Conventionnal,Renewable Diesel,kunits,0.00015701632090811858
+2025,Freight Transportation,Road,Truck,Medium Trucks,Hybrid,Diesel,kunits,7.916020900106677
+2025,Freight Transportation,Road,Truck,Medium Trucks,Hybrid,Renewable Diesel,kunits,0.00016335077802866993
+2025,Freight Transportation,Road,Truck,Medium Trucks,Plug Hybrid Vehicle,Diesel,kunits,0.0006994315951605936
+2025,Freight Transportation,Road,Truck,Medium Trucks,Plug Hybrid Vehicle,Renewable Diesel,kunits,0.00023300328269842204
+2025,Long Distance,Air,___,___,Improved,Aviation Turbo Fuel,kunits,0.9045161753563293
+2025,Long Distance,Air,___,___,Standard,Aviation Gasoline,kunits,0.0011036527554329932
+2025,Long Distance,Air,___,___,Standard,Aviation Turbo Fuel,kunits,0.003288982572181646
+2025,Long Distance,Rail,___,___,___,Diesel,kunits,0.011534969339362641
+2025,Long Distance,Rail,___,___,___,Electricity,kunits,0.004550237487660197
+2025,Long Distance,Rail,___,___,___,Hydrogen,kunits,0.0036047213454129578
+2025,Passenger,Rail,Regional,___,___,Diesel,kunits,0.0029439265465263163
+2025,Passenger,Rail,Regional,___,___,Electricity,kunits,0.029033981765194436
+2025,Passenger,Rail,Regional,___,___,Hydrogen,kunits,0.0009363846937560932
+2025,Passenger,Rail,Regional,___,___,Renewable Diesel,kunits,0.0028733282757075875
+2025,Passenger,Rail,Subway,___,___,Diesel,kunits,0.002888742254664
+2025,Passenger,Rail,Subway,___,___,Electricity,kunits,0.08085003317530928
+2025,Passenger,Rail,Subway,___,___,Hydrogen,kunits,0.0026355039711793995
+2025,Passenger,Rail,Subway,___,___,Renewable Diesel,kunits,0.002873702286673804
+2025,Passenger,Rail,Tramway,___,___,Diesel,kunits,0.0028855772850651935
+2025,Passenger,Rail,Tramway,___,___,Electricity,kunits,0.013422133867530222
+2025,Passenger,Rail,Tramway,___,___,Hydrogen,kunits,0.0018861416354830009
+2025,Passenger,Rail,Tramway,___,___,Renewable Diesel,kunits,0.0028737017402543394
+2025,Passenger,Road,Inter-city Buses,Inter Urban Bus,Battery Electric Vehicle,Battery Electric Vehicle,kunits,0.21165406670285483
+2025,Passenger,Road,Inter-city Buses,Inter Urban Bus,Catenary,Diesel,kunits,0.0024411569230792353
+2025,Passenger,Road,Inter-city Buses,Inter Urban Bus,Catenary,Electricity,kunits,0.00018246799017097835
+2025,Passenger,Road,Inter-city Buses,Inter Urban Bus,Catenary,Natural Gas,kunits,0.00175995387647608
+2025,Passenger,Road,Inter-city Buses,Inter Urban Bus,Catenary,Renewable Diesel,kunits,0.0006734273234499087
+2025,Passenger,Road,Inter-city Buses,Inter Urban Bus,Fuel Cell Vehicle,Hydrogen,kunits,0.00023040063755671187
+2025,Passenger,Road,Inter-city Buses,Inter Urban Bus,Conventionnal,Diesel,kunits,0.0011942276872641414
+2025,Passenger,Road,Inter-city Buses,Inter Urban Bus,Conventionnal,Gasoline,kunits,0.0009215535887418211
+2025,Passenger,Road,Inter-city Buses,Inter Urban Bus,Conventionnal,Natural Gas,kunits,0.05147833601883356
+2025,Passenger,Road,Inter-city Buses,Inter Urban Bus,Conventionnal,Renewable Diesel,kunits,0.00030738009293874156
+2025,Passenger,Road,Inter-city Buses,Inter Urban Bus,Hybrid,Diesel,kunits,0.0013611512258934894
+2025,Passenger,Road,Inter-city Buses,Inter Urban Bus,Hybrid,Renewable Diesel,kunits,0.00031527902552458046
+2025,Passenger,Road,Inter-city Buses,Inter Urban Bus,Plug Hybrid Vehicle,Diesel,kunits,0.0009087197371357678
+2025,Passenger,Road,Inter-city Buses,Inter Urban Bus,Plug Hybrid Vehicle,Natural Gas,kunits,0.0008119197468855995
+2025,Passenger,Road,Inter-city Buses,Inter Urban Bus,Plug Hybrid Vehicle,Renewable Diesel,kunits,0.0003559484950083912
+2025,Passenger,Road,Inter-city Buses,School Bus,Battery Electric Vehicle,Battery Electric Vehicle,kunits,0.0002882630091935851
+2025,Passenger,Road,Inter-city Buses,School Bus,Fuel Cell Vehicle,Hydrogen,kunits,0.0001172959263710374
+2025,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Diesel,kunits,0.0033802474522741563
+2025,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Gasoline,kunits,0.183701742629122
+2025,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Natural Gas,kunits,0.0008330198813300843
+2025,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Renewable Diesel,kunits,0.00016145248890721338
+2025,Passenger,Road,Inter-city Buses,School Bus,Hybrid,Diesel,kunits,0.0008891654688189832
+2025,Passenger,Road,Inter-city Buses,School Bus,Hybrid,Renewable Diesel,kunits,0.0001399246301009424
+2025,Passenger,Road,Inter-city Buses,School Bus,Hybrid,Diesel,kunits,0.0016144747572527634
+2025,Passenger,Road,Inter-city Buses,School Bus,Hybrid,Renewable Diesel,kunits,0.00016004873270451824
+2025,Passenger,Road,Inter-city Buses,School Bus,Plug Hybrid Vehicle,Diesel,kunits,0.00043235823585659194
+2025,Passenger,Road,Inter-city Buses,School Bus,Plug Hybrid Vehicle,Renewable Diesel,kunits,0.0001554905002027895
+2025,Passenger,Road,Inter-city Buses,Urban Bus ,Battery Electric Vehicle,Battery Electric Vehicle,kunits,1.1336981327344158
+2025,Passenger,Road,Inter-city Buses,Urban Bus ,Fuel Cell Vehicle,Hydrogen,kunits,7.450542678590591e-05
+2025,Passenger,Road,Inter-city Buses,Urban Bus ,Conventionnal,Diesel,kunits,0.0004656751086974455
+2025,Passenger,Road,Inter-city Buses,Urban Bus ,Conventionnal,Gasoline,kunits,0.056191784571665786
+2025,Passenger,Road,Inter-city Buses,Urban Bus ,Conventionnal,Natural Gas,kunits,0.0001551158643579063
+2025,Passenger,Road,Inter-city Buses,Urban Bus ,Conventionnal,Renewable Diesel,kunits,3.8987788363371585e-05
+2025,Passenger,Road,Cars,___,320VElectricity,Battery Electric Vehicle,kunits,0.005224975575015693
+2025,Passenger,Road,Cars,___,480VElectricity,Battery Electric Vehicle,kunits,0.003436685397382892
+2025,Passenger,Road,Cars,___,640VElectricity,Battery Electric Vehicle,kunits,0.0023557101553092342
+2025,Passenger,Road,Cars,___,Fuel Cell Vehicle,Hydrogen,kunits,0.0010300734420963429
+2025,Passenger,Road,Cars,___,Conventionnal,Diesel,kunits,0.009689922428086334
+2025,Passenger,Road,Cars,___,Conventionnal,Gasoline,kunits,109.61440964311514
+2025,Passenger,Road,Cars,___,Conventionnal,Natural Gas,kunits,0.37935463330651586
+2025,Passenger,Road,Cars,___,Conventionnal,Propane,kunits,2.378399700888767
+2025,Passenger,Road,Cars,___,Conventionnal,Renewable Diesel,kunits,0.002035804727185027
+2025,Passenger,Road,Cars,___,Hybrid,Diesel,kunits,0.0104852363298773
+2025,Passenger,Road,Cars,___,Hybrid,Gasoline,kunits,0.10544577462494596
+2025,Passenger,Road,Cars,___,Hybrid,Renewable Diesel,kunits,0.0019209922058621317
+2025,Passenger,Road,Cars,___,Plug Hybrid Vehicle,Gasoline,kunits,0.009921544397153096
+2025,Passenger,Road,Motorcycles,___,Battery Electric Vehicle,Battery Electric Vehicle,kunits,0.002356426519648735
+2025,Passenger,Road,Motorcycles,___,Conventionnal,Gasoline,kunits,1.6822986448505544
+2025,Passenger,Road,Truck,Passenger Light Trucks,320VElectricity,Battery Electric Vehicle,kunits,0.002932720737981163
+2025,Passenger,Road,Truck,Passenger Light Trucks,480VElectricity,Battery Electric Vehicle,kunits,0.0021551782559251064
+2025,Passenger,Road,Truck,Passenger Light Trucks,640VElectricity,Battery Electric Vehicle,kunits,0.0015743815269155586
+2025,Passenger,Road,Truck,Passenger Light Trucks,Fuel Cell Vehicle,Hydrogen,kunits,0.0009452351100523197
+2025,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,96.99502507343081
+2025,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,0.052323900299250874
+2025,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Natural Gas,kunits,13.657977721427535
+2025,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Propane,kunits,0.02816883768679168
+2025,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Renewable Diesel,kunits,0.0020962680933573406
+2025,Passenger,Road,Truck,Passenger Light Trucks,Hybrid,Diesel,kunits,0.0072593985358052286
+2025,Passenger,Road,Truck,Passenger Light Trucks,Hybrid,Gasoline,kunits,0.03837665583987614
+2025,Passenger,Road,Truck,Passenger Light Trucks,Hybrid,Renewable Diesel,kunits,0.0014565086152497507
+2025,Passenger,Road,Truck,Passenger Light Trucks,Plug Hybrid Vehicle,Gasoline,kunits,0.006657603855890884
+2025,Public,Road,Inter-city Buses,Urban Bus ,Conventionnal,Diesel,kunits,0.009730036261866078
+2025,Public,Road,Cars,___,320VElectricity,Battery Electric Vehicle,kunits,0.003088054979772462
+2025,Public,Road,Cars,___,480VElectricity,Battery Electric Vehicle,kunits,0.0019483906217072347
+2025,Public,Road,Cars,___,640VElectricity,Battery Electric Vehicle,kunits,0.0013416400502020654
+2025,Public,Road,Cars,___,Fuel Cell Vehicle,Hydrogen,kunits,0.0006155037004351879
+2025,Public,Road,Cars,___,Conventionnal,Diesel,kunits,0.00441809795523575
+2025,Public,Road,Cars,___,Conventionnal,Gasoline,kunits,0.062225803333329104
+2025,Public,Road,Cars,___,Conventionnal,Natural Gas,kunits,0.3800135938222799
+2025,Public,Road,Cars,___,Hybrid,Diesel,kunits,0.004764100116870581
+2025,Public,Road,Cars,___,Hybrid,Gasoline,kunits,0.010009880719476215
+2025,Public,Road,Cars,___,Plug Hybrid Vehicle,Gasoline,kunits,0.004699366346954781
+2025,Public,Road,Motorcycles,___,Battery Electric Vehicle,Battery Electric Vehicle,kunits,0.0031469099935693854
+2025,Public,Road,Motorcycles,___,Conventionnal,Gasoline,kunits,0.003442653205934839
+2025,Public,Road,Truck,Heavy Trucks,Battery Electric Vehicle,Battery Electricity Freight,kunits,5.934265555490793e-05
+2025,Public,Road,Truck,Heavy Trucks,Catenary,Diesel,kunits,0.0019757856955237847
+2025,Public,Road,Truck,Heavy Trucks,Catenary,Electricity,kunits,0.00015669605702616144
+2025,Public,Road,Truck,Heavy Trucks,Catenary,Natural Gas,kunits,0.0008183639682052894
+2025,Public,Road,Truck,Heavy Trucks,Catenary,Renewable Diesel,kunits,0.0004814844028368476
+2025,Public,Road,Truck,Heavy Trucks,Fuel Cell Vehicle,Hydrogen,kunits,9.078006880113538e-05
+2025,Public,Road,Truck,Heavy Trucks,Conventionnal,Diesel,kunits,0.30781446396681034
+2025,Public,Road,Truck,Heavy Trucks,Conventionnal,Natural Gas,kunits,0.0004278870360165351
+2025,Public,Road,Truck,Heavy Trucks,Hybrid,Diesel,kunits,0.00112636478795593
+2025,Public,Road,Truck,Heavy Trucks,Plug Hybrid Vehicle,Diesel,kunits,0.00017564830834047897
+2025,Public,Road,Truck,Heavy Trucks,Plug Hybrid Vehicle,Natural Gas,kunits,0.000391460446820922
+2025,Public,Road,Truck,Heavy Trucks,Plug Hybrid Vehicle,Renewable Diesel,kunits,9.075202387431041e-05
+2025,Public,Road,Truck,Passenger Light Trucks,Battery Electric Vehicle,Battery Electricity Freight,kunits,0.001721160482830497
+2025,Public,Road,Truck,Passenger Light Trucks,Fuel Cell Vehicle,Hydrogen,kunits,0.0008327371776663033
+2025,Public,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,0.0988070683407317
+2025,Public,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,0.008122399858052843
+2025,Public,Road,Truck,Passenger Light Trucks,Conventionnal,Natural Gas,kunits,0.0021220710135790247
+2025,Public,Road,Truck,Passenger Light Trucks,Hybrid,Diesel,kunits,0.0032927885019102977
+2025,Public,Road,Truck,Passenger Light Trucks,Hybrid,Gasoline,kunits,0.5486604740297896
+2025,Public,Road,Truck,Passenger Light Trucks,Plug Hybrid Vehicle,Gasoline,kunits,0.0018918564995925777
+2025,Public,Road,Truck,Medium Trucks,Battery Electric Vehicle,Battery Electricity Freight,kunits,0.00046861134789052863
+2025,Public,Road,Truck,Medium Trucks,Fuel Cell Vehicle,Hydrogen,kunits,0.00040318059089215254
+2025,Public,Road,Truck,Medium Trucks,Conventionnal,Diesel,kunits,0.002483074818609309
+2025,Public,Road,Truck,Medium Trucks,Conventionnal,Gasoline,kunits,0.0024153718123174042
+2025,Public,Road,Truck,Medium Trucks,Conventionnal,Natural Gas,kunits,0.0008128710014658883
+2025,Public,Road,Truck,Medium Trucks,Hybrid,Diesel,kunits,0.28423313060668476
+2025,Public,Road,Truck,Medium Trucks,Plug Hybrid Vehicle,Diesel,kunits,0.0011472722791172072
+2025,Public,Road,Truck,Medium Trucks,Plug Hybrid Vehicle,Renewable Diesel,kunits,0.00047226475171231774
+2030,Freight Transportation,Air,___,___,___,Aviation Gasoline,kunits,0.0007247649622241723
+2030,Freight Transportation,Air,___,___,___,Aviation Turbo Fuel,kunits,0.027877366653996167
+2030,Freight Transportation,Rail,___,___,___,Diesel,kunits,0.0062306466057637155
+2030,Freight Transportation,Rail,___,___,___,Electricity,kunits,0.003042738236281285
+2030,Freight Transportation,Rail,___,___,___,Renewable Diesel,kunits,0.0062168827479897075
+2030,Freight Transportation,Road,Truck,Heavy Trucks,Battery Electric Vehicle,Battery Electricity Freight,kunits,0.35308707972080794
+2030,Freight Transportation,Road,Truck,Heavy Trucks,Catenary,Diesel,kunits,1.5961285455981948
+2030,Freight Transportation,Road,Truck,Heavy Trucks,Catenary,Electricity,kunits,0.0001760068710882837
+2030,Freight Transportation,Road,Truck,Heavy Trucks,Catenary,Natural Gas,kunits,0.0015531542538407964
+2030,Freight Transportation,Road,Truck,Heavy Trucks,Catenary,Renewable Diesel,kunits,0.0012521943221857662
+2030,Freight Transportation,Road,Truck,Heavy Trucks,Fuel Cell Vehicle,Hydrogen,kunits,7.478767751973233e-05
+2030,Freight Transportation,Road,Truck,Heavy Trucks,Conventionnal,Diesel,kunits,0.0005367774694207626
+2030,Freight Transportation,Road,Truck,Heavy Trucks,Conventionnal,Natural Gas,kunits,0.0001911092969421883
+2030,Freight Transportation,Road,Truck,Heavy Trucks,Conventionnal,Renewable Diesel,kunits,8.690469702926796e-05
+2030,Freight Transportation,Road,Truck,Heavy Trucks,Hybrid,Diesel,kunits,0.00046783461722570553
+2030,Freight Transportation,Road,Truck,Heavy Trucks,Hybrid,Renewable Diesel,kunits,8.37851016427404e-05
+2030,Freight Transportation,Road,Truck,Heavy Trucks,Plug Hybrid Vehicle,Diesel,kunits,0.00012444150173485878
+2030,Freight Transportation,Road,Truck,Heavy Trucks,Plug Hybrid Vehicle,Natural Gas,kunits,0.00017894531334282233
+2030,Freight Transportation,Road,Truck,Heavy Trucks,Plug Hybrid Vehicle,Renewable Diesel,kunits,5.033973767433096e-05
+2030,Freight Transportation,Road,Truck,Passenger Light Trucks,Battery Electric Vehicle,Battery Electricity Freight,kunits,61.888846887977266
+2030,Freight Transportation,Road,Truck,Passenger Light Trucks,Fuel Cell Vehicle,Hydrogen,kunits,0.0006307515675137367
+2030,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,0.0023136440455021148
+2030,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,0.003774508635736544
+2030,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Natural Gas,kunits,0.0008907038409861402
+2030,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Propane,kunits,0.0018374588245034383
+2030,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Renewable Diesel,kunits,0.00018407010499180593
+2030,Freight Transportation,Road,Truck,Passenger Light Trucks,Hybrid,Diesel,kunits,0.0011687437846293158
+2030,Freight Transportation,Road,Truck,Passenger Light Trucks,Hybrid,Gasoline,kunits,0.0022147419487289813
+2030,Freight Transportation,Road,Truck,Passenger Light Trucks,Hybrid,Renewable Diesel,kunits,0.00015922551734641466
+2030,Freight Transportation,Road,Truck,Passenger Light Trucks,Plug Hybrid Vehicle,Gasoline,kunits,0.0008308043063784367
+2030,Freight Transportation,Road,Truck,Medium Trucks,Battery Electric Vehicle,Battery Electricity Freight,kunits,8.473561137910433
+2030,Freight Transportation,Road,Truck,Medium Trucks,Fuel Cell Vehicle,Hydrogen,kunits,0.00026790797000506093
+2030,Freight Transportation,Road,Truck,Medium Trucks,Conventionnal,Diesel,kunits,0.0012292237541564584
+2030,Freight Transportation,Road,Truck,Medium Trucks,Conventionnal,Gasoline,kunits,0.0016574825560100783
+2030,Freight Transportation,Road,Truck,Medium Trucks,Conventionnal,Natural Gas,kunits,0.0006110510884116693
+2030,Freight Transportation,Road,Truck,Medium Trucks,Conventionnal,Propane,kunits,0.002150357929553172
+2030,Freight Transportation,Road,Truck,Medium Trucks,Conventionnal,Renewable Diesel,kunits,0.00012103199869050528
+2030,Freight Transportation,Road,Truck,Medium Trucks,Hybrid,Diesel,kunits,0.08131014888431713
+2030,Freight Transportation,Road,Truck,Medium Trucks,Hybrid,Renewable Diesel,kunits,0.00013103606694435255
+2030,Freight Transportation,Road,Truck,Medium Trucks,Plug Hybrid Vehicle,Diesel,kunits,0.0007292171318605939
+2030,Freight Transportation,Road,Truck,Medium Trucks,Plug Hybrid Vehicle,Renewable Diesel,kunits,0.00023434652521498055
+2030,Long Distance,Air,___,___,Improved,Aviation Turbo Fuel,kunits,0.300030064270764
+2030,Long Distance,Air,___,___,Standard,Aviation Gasoline,kunits,0.0011511778533938998
+2030,Long Distance,Air,___,___,Standard,Aviation Turbo Fuel,kunits,0.003943140979501809
+2030,Long Distance,Rail,___,___,___,Diesel,kunits,0.012794559958931383
+2030,Long Distance,Rail,___,___,___,Electricity,kunits,0.00510489960742541
+2030,Long Distance,Rail,___,___,___,Hydrogen,kunits,0.004046664479033502
+2030,Passenger,Rail,Regional,___,___,Diesel,kunits,0.002603661896208153
+2030,Passenger,Rail,Regional,___,___,Electricity,kunits,0.009401497856482558
+2030,Passenger,Rail,Regional,___,___,Hydrogen,kunits,0.0008476470659385571
+2030,Passenger,Rail,Regional,___,___,Renewable Diesel,kunits,0.002601669847255885
+2030,Passenger,Rail,Subway,___,___,Diesel,kunits,0.002606283972034143
+2030,Passenger,Rail,Subway,___,___,Electricity,kunits,0.21653732925047792
+2030,Passenger,Rail,Subway,___,___,Hydrogen,kunits,0.015234283268528591
+2030,Passenger,Rail,Subway,___,___,Renewable Diesel,kunits,0.0026019125317221026
+2030,Passenger,Rail,Tramway,___,___,Diesel,kunits,0.002606236319957413
+2030,Passenger,Rail,Tramway,___,___,Electricity,kunits,0.023951366781228632
+2030,Passenger,Rail,Tramway,___,___,Hydrogen,kunits,0.007136208869111356
+2030,Passenger,Rail,Tramway,___,___,Renewable Diesel,kunits,0.002601912384625396
+2030,Passenger,Road,Inter-city Buses,Inter Urban Bus,Battery Electric Vehicle,Battery Electric Vehicle,kunits,0.20189217740974594
+2030,Passenger,Road,Inter-city Buses,Inter Urban Bus,Catenary,Diesel,kunits,0.034899086834310485
+2030,Passenger,Road,Inter-city Buses,Inter Urban Bus,Catenary,Electricity,kunits,0.00026770753689777223
+2030,Passenger,Road,Inter-city Buses,Inter Urban Bus,Catenary,Natural Gas,kunits,0.003821237249188839
+2030,Passenger,Road,Inter-city Buses,Inter Urban Bus,Catenary,Renewable Diesel,kunits,0.003518277242860609
+2030,Passenger,Road,Inter-city Buses,Inter Urban Bus,Fuel Cell Vehicle,Hydrogen,kunits,0.00028056990261897115
+2030,Passenger,Road,Inter-city Buses,Inter Urban Bus,Conventionnal,Diesel,kunits,0.0007667693872700467
+2030,Passenger,Road,Inter-city Buses,Inter Urban Bus,Conventionnal,Gasoline,kunits,0.00114702357746994
+2030,Passenger,Road,Inter-city Buses,Inter Urban Bus,Conventionnal,Natural Gas,kunits,0.00046241609557735
+2030,Passenger,Road,Inter-city Buses,Inter Urban Bus,Conventionnal,Renewable Diesel,kunits,0.00026088073997092433
+2030,Passenger,Road,Inter-city Buses,Inter Urban Bus,Hybrid,Diesel,kunits,0.000799838161840336
+2030,Passenger,Road,Inter-city Buses,Inter Urban Bus,Hybrid,Renewable Diesel,kunits,0.0002601707081972775
+2030,Passenger,Road,Inter-city Buses,Inter Urban Bus,Plug Hybrid Vehicle,Diesel,kunits,0.0010534066520680604
+2030,Passenger,Road,Inter-city Buses,Inter Urban Bus,Plug Hybrid Vehicle,Natural Gas,kunits,0.0009224969392944017
+2030,Passenger,Road,Inter-city Buses,Inter Urban Bus,Plug Hybrid Vehicle,Renewable Diesel,kunits,0.00039828756937725215
+2030,Passenger,Road,Inter-city Buses,School Bus,Battery Electric Vehicle,Battery Electric Vehicle,kunits,0.4443235940311616
+2030,Passenger,Road,Inter-city Buses,School Bus,Fuel Cell Vehicle,Hydrogen,kunits,0.00010877831785571864
+2030,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Diesel,kunits,0.00030046598214280293
+2030,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Gasoline,kunits,0.0005166077184021534
+2030,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Natural Gas,kunits,0.000260709235491271
+2030,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Renewable Diesel,kunits,0.0001020635024331739
+2030,Passenger,Road,Inter-city Buses,School Bus,Hybrid,Diesel,kunits,0.0002505399690648435
+2030,Passenger,Road,Inter-city Buses,School Bus,Hybrid,Renewable Diesel,kunits,9.436634432315728e-05
+2030,Passenger,Road,Inter-city Buses,School Bus,Hybrid,Diesel,kunits,0.00028584731461838743
+2030,Passenger,Road,Inter-city Buses,School Bus,Hybrid,Renewable Diesel,kunits,0.00010571077655866023
+2030,Passenger,Road,Inter-city Buses,School Bus,Plug Hybrid Vehicle,Diesel,kunits,0.0002285386494955244
+2030,Passenger,Road,Inter-city Buses,School Bus,Plug Hybrid Vehicle,Renewable Diesel,kunits,9.382996291303177e-05
+2030,Passenger,Road,Inter-city Buses,Urban Bus ,Battery Electric Vehicle,Battery Electric Vehicle,kunits,1.7907213162912967
+2030,Passenger,Road,Inter-city Buses,Urban Bus ,Fuel Cell Vehicle,Hydrogen,kunits,4.356923597762446e-05
+2030,Passenger,Road,Inter-city Buses,Urban Bus ,Conventionnal,Diesel,kunits,0.00011188455920493366
+2030,Passenger,Road,Inter-city Buses,Urban Bus ,Conventionnal,Gasoline,kunits,0.0002550465687783046
+2030,Passenger,Road,Inter-city Buses,Urban Bus ,Conventionnal,Natural Gas,kunits,7.767368542128506e-05
+2030,Passenger,Road,Inter-city Buses,Urban Bus ,Conventionnal,Renewable Diesel,kunits,2.8230924643400616e-05
+2030,Passenger,Road,Cars,___,320VElectricity,Battery Electric Vehicle,kunits,49.72779666634837
+2030,Passenger,Road,Cars,___,480VElectricity,Battery Electric Vehicle,kunits,5.916056823301697
+2030,Passenger,Road,Cars,___,640VElectricity,Battery Electric Vehicle,kunits,1.7830437725611397
+2030,Passenger,Road,Cars,___,Fuel Cell Vehicle,Hydrogen,kunits,0.0012328058797529777
+2030,Passenger,Road,Cars,___,Conventionnal,Diesel,kunits,0.008695545226087759
+2030,Passenger,Road,Cars,___,Conventionnal,Gasoline,kunits,49.82451071874545
+2030,Passenger,Road,Cars,___,Conventionnal,Natural Gas,kunits,0.1523359396540503
+2030,Passenger,Road,Cars,___,Conventionnal,Propane,kunits,0.03356667676860376
+2030,Passenger,Road,Cars,___,Conventionnal,Renewable Diesel,kunits,0.002095203025165287
+2030,Passenger,Road,Cars,___,Hybrid,Diesel,kunits,0.011937148784485842
+2030,Passenger,Road,Cars,___,Hybrid,Gasoline,kunits,0.078309308631705
+2030,Passenger,Road,Cars,___,Hybrid,Renewable Diesel,kunits,0.002249747771185354
+2030,Passenger,Road,Cars,___,Plug Hybrid Vehicle,Gasoline,kunits,0.01204115976442722
+2030,Passenger,Road,Motorcycles,___,Battery Electric Vehicle,Battery Electric Vehicle,kunits,0.12965213206274778
+2030,Passenger,Road,Motorcycles,___,Conventionnal,Gasoline,kunits,1.5918693031507762
+2030,Passenger,Road,Truck,Passenger Light Trucks,320VElectricity,Battery Electric Vehicle,kunits,10.09948807240481
+2030,Passenger,Road,Truck,Passenger Light Trucks,480VElectricity,Battery Electric Vehicle,kunits,5.808523214479637
+2030,Passenger,Road,Truck,Passenger Light Trucks,640VElectricity,Battery Electric Vehicle,kunits,1.7087188964122613
+2030,Passenger,Road,Truck,Passenger Light Trucks,Fuel Cell Vehicle,Hydrogen,kunits,0.0011482709408319727
+2030,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,0.06221328433317666
+2030,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,5.82891325223302
+2030,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Natural Gas,kunits,82.06522807556786
+2030,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Propane,kunits,0.032775588957334977
+2030,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Renewable Diesel,kunits,0.002124156899414427
+2030,Passenger,Road,Truck,Passenger Light Trucks,Hybrid,Diesel,kunits,0.008547548525842847
+2030,Passenger,Road,Truck,Passenger Light Trucks,Hybrid,Gasoline,kunits,0.06939855390833559
+2030,Passenger,Road,Truck,Passenger Light Trucks,Hybrid,Renewable Diesel,kunits,0.0016959938409714576
+2030,Passenger,Road,Truck,Passenger Light Trucks,Plug Hybrid Vehicle,Gasoline,kunits,0.007938178085678168
+2030,Public,Road,Inter-city Buses,Urban Bus ,Conventionnal,Diesel,kunits,0.011303623990011369
+2030,Public,Road,Cars,___,320VElectricity,Battery Electric Vehicle,kunits,0.07280624061479023
+2030,Public,Road,Cars,___,480VElectricity,Battery Electric Vehicle,kunits,0.004178406332828141
+2030,Public,Road,Cars,___,640VElectricity,Battery Electric Vehicle,kunits,0.0024164201257065804
+2030,Public,Road,Cars,___,Fuel Cell Vehicle,Hydrogen,kunits,0.0007881413794665194
+2030,Public,Road,Cars,___,Conventionnal,Diesel,kunits,0.00629067131078446
+2030,Public,Road,Cars,___,Conventionnal,Gasoline,kunits,0.02690672895833053
+2030,Public,Road,Cars,___,Conventionnal,Natural Gas,kunits,1.438964572440566
+2030,Public,Road,Cars,___,Hybrid,Diesel,kunits,0.011742296542146435
+2030,Public,Road,Cars,___,Hybrid,Gasoline,kunits,0.011476253528707897
+2030,Public,Road,Cars,___,Plug Hybrid Vehicle,Gasoline,kunits,0.009314164689762199
+2030,Public,Road,Motorcycles,___,Battery Electric Vehicle,Battery Electric Vehicle,kunits,0.003963486703950493
+2030,Public,Road,Motorcycles,___,Conventionnal,Gasoline,kunits,0.003984262900389216
+2030,Public,Road,Truck,Heavy Trucks,Battery Electric Vehicle,Battery Electricity Freight,kunits,9.172463906868041e-05
+2030,Public,Road,Truck,Heavy Trucks,Catenary,Diesel,kunits,0.7621698361636047
+2030,Public,Road,Truck,Heavy Trucks,Catenary,Electricity,kunits,0.000237558297829865
+2030,Public,Road,Truck,Heavy Trucks,Catenary,Natural Gas,kunits,0.00193607262249142
+2030,Public,Road,Truck,Heavy Trucks,Catenary,Renewable Diesel,kunits,0.0038996576310261124
+2030,Public,Road,Truck,Heavy Trucks,Fuel Cell Vehicle,Hydrogen,kunits,0.00013087639762715276
+2030,Public,Road,Truck,Heavy Trucks,Conventionnal,Diesel,kunits,0.0006687884527123789
+2030,Public,Road,Truck,Heavy Trucks,Conventionnal,Natural Gas,kunits,0.000397541234328582
+2030,Public,Road,Truck,Heavy Trucks,Hybrid,Diesel,kunits,0.000645592876964578
+2030,Public,Road,Truck,Heavy Trucks,Plug Hybrid Vehicle,Diesel,kunits,0.0002686100154227418
+2030,Public,Road,Truck,Heavy Trucks,Plug Hybrid Vehicle,Natural Gas,kunits,0.0005201501891110405
+2030,Public,Road,Truck,Heavy Trucks,Plug Hybrid Vehicle,Renewable Diesel,kunits,0.00013459518029557697
+2030,Public,Road,Truck,Passenger Light Trucks,Battery Electric Vehicle,Battery Electricity Freight,kunits,0.0048212164386146165
+2030,Public,Road,Truck,Passenger Light Trucks,Fuel Cell Vehicle,Hydrogen,kunits,0.40106254266226143
+2030,Public,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,0.7892028141397783
+2030,Public,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,0.0038226259612669233
+2030,Public,Road,Truck,Passenger Light Trucks,Conventionnal,Natural Gas,kunits,0.001976322980315343
+2030,Public,Road,Truck,Passenger Light Trucks,Hybrid,Diesel,kunits,0.003842646976908554
+2030,Public,Road,Truck,Passenger Light Trucks,Hybrid,Gasoline,kunits,0.006208460319191515
+2030,Public,Road,Truck,Passenger Light Trucks,Plug Hybrid Vehicle,Gasoline,kunits,0.002856004798916154
+2030,Public,Road,Truck,Medium Trucks,Battery Electric Vehicle,Battery Electricity Freight,kunits,0.0011067991742181866
+2030,Public,Road,Truck,Medium Trucks,Fuel Cell Vehicle,Hydrogen,kunits,0.0006502706177069737
+2030,Public,Road,Truck,Medium Trucks,Conventionnal,Diesel,kunits,0.0023525957471214856
+2030,Public,Road,Truck,Medium Trucks,Conventionnal,Gasoline,kunits,0.002036153117733623
+2030,Public,Road,Truck,Medium Trucks,Conventionnal,Natural Gas,kunits,0.0009744983639461343
+2030,Public,Road,Truck,Medium Trucks,Hybrid,Diesel,kunits,0.4416399853068673
+2030,Public,Road,Truck,Medium Trucks,Plug Hybrid Vehicle,Diesel,kunits,0.001579372426870638
+2030,Public,Road,Truck,Medium Trucks,Plug Hybrid Vehicle,Renewable Diesel,kunits,0.000644311395061002
+2035,Freight Transportation,Air,___,___,___,Aviation Gasoline,kunits,0.0008269260853097406
+2035,Freight Transportation,Air,___,___,___,Aviation Turbo Fuel,kunits,0.028201010573571737
+2035,Freight Transportation,Rail,___,___,___,Diesel,kunits,0.007112532255303942
+2035,Freight Transportation,Rail,___,___,___,Electricity,kunits,0.003232916213738789
+2035,Freight Transportation,Rail,___,___,___,Renewable Diesel,kunits,0.007096976312418196
+2035,Freight Transportation,Road,Truck,Heavy Trucks,Battery Electric Vehicle,Battery Electricity Freight,kunits,0.3240506008470326
+2035,Freight Transportation,Road,Truck,Heavy Trucks,Catenary,Diesel,kunits,0.2244001153304309
+2035,Freight Transportation,Road,Truck,Heavy Trucks,Catenary,Electricity,kunits,0.00015494050636179503
+2035,Freight Transportation,Road,Truck,Heavy Trucks,Catenary,Natural Gas,kunits,0.0008548525210809991
+2035,Freight Transportation,Road,Truck,Heavy Trucks,Catenary,Renewable Diesel,kunits,0.11519424770238676
+2035,Freight Transportation,Road,Truck,Heavy Trucks,Fuel Cell Vehicle,Hydrogen,kunits,6.417229235979248e-05
+2035,Freight Transportation,Road,Truck,Heavy Trucks,Conventionnal,Diesel,kunits,0.33366578931210367
+2035,Freight Transportation,Road,Truck,Heavy Trucks,Conventionnal,Natural Gas,kunits,0.00015628906589818816
+2035,Freight Transportation,Road,Truck,Heavy Trucks,Conventionnal,Renewable Diesel,kunits,6.036950804266737e-05
+2035,Freight Transportation,Road,Truck,Heavy Trucks,Hybrid,Diesel,kunits,0.0008021675344528999
+2035,Freight Transportation,Road,Truck,Heavy Trucks,Hybrid,Renewable Diesel,kunits,5.699800300640299e-05
+2035,Freight Transportation,Road,Truck,Heavy Trucks,Plug Hybrid Vehicle,Diesel,kunits,0.00010163680042736205
+2035,Freight Transportation,Road,Truck,Heavy Trucks,Plug Hybrid Vehicle,Natural Gas,kunits,0.00012096517848883673
+2035,Freight Transportation,Road,Truck,Heavy Trucks,Plug Hybrid Vehicle,Renewable Diesel,kunits,3.761655592920598e-05
+2035,Freight Transportation,Road,Truck,Passenger Light Trucks,Battery Electric Vehicle,Battery Electricity Freight,kunits,122.0493432015984
+2035,Freight Transportation,Road,Truck,Passenger Light Trucks,Fuel Cell Vehicle,Hydrogen,kunits,0.00020084213955540327
+2035,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,0.00039806995407489653
+2035,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,0.0005701470004798796
+2035,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Natural Gas,kunits,0.0002150918881440943
+2035,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Propane,kunits,0.00023039620755241705
+2035,Freight Transportation,Road,Truck,Passenger Light Trucks,Conventionnal,Renewable Diesel,kunits,0.00010597854904910363
+2035,Freight Transportation,Road,Truck,Passenger Light Trucks,Hybrid,Diesel,kunits,0.0003260833814455128
+2035,Freight Transportation,Road,Truck,Passenger Light Trucks,Hybrid,Gasoline,kunits,0.0005086132499114241
+2035,Freight Transportation,Road,Truck,Passenger Light Trucks,Hybrid,Renewable Diesel,kunits,9.176643731208393e-05
+2035,Freight Transportation,Road,Truck,Passenger Light Trucks,Plug Hybrid Vehicle,Gasoline,kunits,0.0003877332843481862
+2035,Freight Transportation,Road,Truck,Medium Trucks,Battery Electric Vehicle,Battery Electricity Freight,kunits,16.991197970028775
+2035,Freight Transportation,Road,Truck,Medium Trucks,Fuel Cell Vehicle,Hydrogen,kunits,0.00010070024162622804
+2035,Freight Transportation,Road,Truck,Medium Trucks,Conventionnal,Diesel,kunits,0.00021042126069260495
+2035,Freight Transportation,Road,Truck,Medium Trucks,Conventionnal,Gasoline,kunits,0.00028436558147257454
+2035,Freight Transportation,Road,Truck,Medium Trucks,Conventionnal,Natural Gas,kunits,0.00012305458107690333
+2035,Freight Transportation,Road,Truck,Medium Trucks,Conventionnal,Propane,kunits,0.00013253343645080632
+2035,Freight Transportation,Road,Truck,Medium Trucks,Conventionnal,Renewable Diesel,kunits,6.819547856193271e-05
+2035,Freight Transportation,Road,Truck,Medium Trucks,Hybrid,Diesel,kunits,0.0002467316500769057
+2035,Freight Transportation,Road,Truck,Medium Trucks,Hybrid,Renewable Diesel,kunits,7.24193545204769e-05
+2035,Freight Transportation,Road,Truck,Medium Trucks,Plug Hybrid Vehicle,Diesel,kunits,0.0002946975318595976
+2035,Freight Transportation,Road,Truck,Medium Trucks,Plug Hybrid Vehicle,Renewable Diesel,kunits,0.0001129307188231047
+2035,Long Distance,Air,___,___,Improved,Aviation Turbo Fuel,kunits,0.10808372227409707
+2035,Long Distance,Air,___,___,Standard,Aviation Gasoline,kunits,0.0012300482592621925
+2035,Long Distance,Air,___,___,Standard,Aviation Turbo Fuel,kunits,0.002743891301016506
+2035,Long Distance,Rail,___,___,___,Diesel,kunits,0.014602478003752164
+2035,Long Distance,Rail,___,___,___,Electricity,kunits,0.00582028611200658
+2035,Long Distance,Rail,___,___,___,Hydrogen,kunits,0.004619598547942491
+2035,Passenger,Rail,Regional,___,___,Diesel,kunits,0.0019082350488359172
+2035,Passenger,Rail,Regional,___,___,Electricity,kunits,0.010344126535920555
+2035,Passenger,Rail,Regional,___,___,Hydrogen,kunits,0.0006213754704755422
+2035,Passenger,Rail,Regional,___,___,Renewable Diesel,kunits,0.001906973170782101
+2035,Passenger,Rail,Subway,___,___,Diesel,kunits,0.0019092774012129088
+2035,Passenger,Rail,Subway,___,___,Electricity,kunits,0.06995527370909758
+2035,Passenger,Rail,Subway,___,___,Hydrogen,kunits,0.10339799034875834
+2035,Passenger,Rail,Subway,___,___,Renewable Diesel,kunits,0.0019071062139068755
+2035,Passenger,Rail,Tramway,___,___,Diesel,kunits,0.0019092656191010077
+2035,Passenger,Rail,Tramway,___,___,Electricity,kunits,0.018428235035647555
+2035,Passenger,Rail,Tramway,___,___,Hydrogen,kunits,0.008884389757521337
+2035,Passenger,Rail,Tramway,___,___,Renewable Diesel,kunits,0.0019071061425965903
+2035,Passenger,Road,Inter-city Buses,Inter Urban Bus,Battery Electric Vehicle,Battery Electric Vehicle,kunits,0.3973678814904763
+2035,Passenger,Road,Inter-city Buses,Inter Urban Bus,Catenary,Diesel,kunits,0.0011561050657062403
+2035,Passenger,Road,Inter-city Buses,Inter Urban Bus,Catenary,Electricity,kunits,0.0001622363055241214
+2035,Passenger,Road,Inter-city Buses,Inter Urban Bus,Catenary,Natural Gas,kunits,0.0010335901969794252
+2035,Passenger,Road,Inter-city Buses,Inter Urban Bus,Catenary,Renewable Diesel,kunits,0.0003914160069120573
+2035,Passenger,Road,Inter-city Buses,Inter Urban Bus,Fuel Cell Vehicle,Hydrogen,kunits,0.00015751785371881475
+2035,Passenger,Road,Inter-city Buses,Inter Urban Bus,Conventionnal,Diesel,kunits,0.00039967331900485803
+2035,Passenger,Road,Inter-city Buses,Inter Urban Bus,Conventionnal,Gasoline,kunits,0.0006815377679732899
+2035,Passenger,Road,Inter-city Buses,Inter Urban Bus,Conventionnal,Natural Gas,kunits,0.0002668465828982164
+2035,Passenger,Road,Inter-city Buses,Inter Urban Bus,Conventionnal,Renewable Diesel,kunits,0.00015401427917143665
+2035,Passenger,Road,Inter-city Buses,Inter Urban Bus,Hybrid,Diesel,kunits,0.0004116077874515701
+2035,Passenger,Road,Inter-city Buses,Inter Urban Bus,Hybrid,Renewable Diesel,kunits,0.0001552835890199905
+2035,Passenger,Road,Inter-city Buses,Inter Urban Bus,Plug Hybrid Vehicle,Diesel,kunits,0.0006731780405834078
+2035,Passenger,Road,Inter-city Buses,Inter Urban Bus,Plug Hybrid Vehicle,Natural Gas,kunits,0.0005519112139090389
+2035,Passenger,Road,Inter-city Buses,Inter Urban Bus,Plug Hybrid Vehicle,Renewable Diesel,kunits,0.00024610942248500347
+2035,Passenger,Road,Inter-city Buses,School Bus,Battery Electric Vehicle,Battery Electric Vehicle,kunits,0.3296955078447362
+2035,Passenger,Road,Inter-city Buses,School Bus,Fuel Cell Vehicle,Hydrogen,kunits,6.605934881707482e-05
+2035,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Diesel,kunits,0.00015616802143198405
+2035,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Gasoline,kunits,0.00026580937007917525
+2035,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Natural Gas,kunits,0.00014075758028435866
+2035,Passenger,Road,Inter-city Buses,School Bus,Conventionnal,Renewable Diesel,kunits,6.005583329854095e-05
+2035,Passenger,Road,Inter-city Buses,School Bus,Hybrid,Diesel,kunits,0.0001357578713946424
+2035,Passenger,Road,Inter-city Buses,School Bus,Hybrid,Renewable Diesel,kunits,5.583055859770128e-05
+2035,Passenger,Road,Inter-city Buses,School Bus,Hybrid,Diesel,kunits,0.00015477091419519582
+2035,Passenger,Road,Inter-city Buses,School Bus,Hybrid,Renewable Diesel,kunits,6.246819174704618e-05
+2035,Passenger,Road,Inter-city Buses,School Bus,Plug Hybrid Vehicle,Diesel,kunits,0.00013229647035088997
+2035,Passenger,Road,Inter-city Buses,School Bus,Plug Hybrid Vehicle,Renewable Diesel,kunits,5.523899530258377e-05
+2035,Passenger,Road,Inter-city Buses,Urban Bus ,Battery Electric Vehicle,Battery Electric Vehicle,kunits,2.9744487622856113
+2035,Passenger,Road,Inter-city Buses,Urban Bus ,Fuel Cell Vehicle,Hydrogen,kunits,2.05232483718134e-05
+2035,Passenger,Road,Inter-city Buses,Urban Bus ,Conventionnal,Diesel,kunits,4.2705296897726665e-05
+2035,Passenger,Road,Inter-city Buses,Urban Bus ,Conventionnal,Gasoline,kunits,7.959337204933148e-05
+2035,Passenger,Road,Inter-city Buses,Urban Bus ,Conventionnal,Natural Gas,kunits,3.456171618533261e-05
+2035,Passenger,Road,Cars,___,320VElectricity,Battery Electric Vehicle,kunits,99.98115163814401
+2035,Passenger,Road,Cars,___,480VElectricity,Battery Electric Vehicle,kunits,133.0389846870043
+2035,Passenger,Road,Cars,___,640VElectricity,Battery Electric Vehicle,kunits,0.28575068010360377
+2035,Passenger,Road,Cars,___,Fuel Cell Vehicle,Hydrogen,kunits,0.0013435602937595101
+2035,Passenger,Road,Cars,___,Conventionnal,Diesel,kunits,0.005165164632560722
+2035,Passenger,Road,Cars,___,Conventionnal,Gasoline,kunits,0.012506407130840917
+2035,Passenger,Road,Cars,___,Conventionnal,Natural Gas,kunits,0.015729695637003202
+2035,Passenger,Road,Cars,___,Conventionnal,Propane,kunits,0.008484345573930236
+2035,Passenger,Road,Cars,___,Conventionnal,Renewable Diesel,kunits,0.002133393288793417
+2035,Passenger,Road,Cars,___,Hybrid,Diesel,kunits,0.0062925639550239065
+2035,Passenger,Road,Cars,___,Hybrid,Gasoline,kunits,0.011568655870897199
+2035,Passenger,Road,Cars,___,Hybrid,Renewable Diesel,kunits,0.002434954560214281
+2035,Passenger,Road,Cars,___,Plug Hybrid Vehicle,Gasoline,kunits,0.009070568557891293
+2035,Passenger,Road,Motorcycles,___,Battery Electric Vehicle,Battery Electric Vehicle,kunits,3.632024322217099
+2035,Passenger,Road,Motorcycles,___,Conventionnal,Gasoline,kunits,0.009131063673688293
+2035,Passenger,Road,Truck,Passenger Light Trucks,320VElectricity,Battery Electric Vehicle,kunits,137.29093461074012
+2035,Passenger,Road,Truck,Passenger Light Trucks,480VElectricity,Battery Electric Vehicle,kunits,91.30406399152703
+2035,Passenger,Road,Truck,Passenger Light Trucks,640VElectricity,Battery Electric Vehicle,kunits,0.4303225790142938
+2035,Passenger,Road,Truck,Passenger Light Trucks,Fuel Cell Vehicle,Hydrogen,kunits,0.001237679127765502
+2035,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,0.005488764625926521
+2035,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,0.008868165795973085
+2035,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Natural Gas,kunits,0.012228573203511561
+2035,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Propane,kunits,0.006771387906183496
+2035,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Renewable Diesel,kunits,0.001994531238170842
+2035,Passenger,Road,Truck,Passenger Light Trucks,Hybrid,Diesel,kunits,0.004539552833037798
+2035,Passenger,Road,Truck,Passenger Light Trucks,Hybrid,Gasoline,kunits,0.008336802213034044
+2035,Passenger,Road,Truck,Passenger Light Trucks,Hybrid,Renewable Diesel,kunits,0.001815054279406923
+2035,Passenger,Road,Truck,Passenger Light Trucks,Plug Hybrid Vehicle,Gasoline,kunits,0.006009387526431348
+2035,Public,Road,Inter-city Buses,Urban Bus ,Conventionnal,Diesel,kunits,0.015423284093505941
+2035,Public,Road,Cars,___,320VElectricity,Battery Electric Vehicle,kunits,0.22150982912768913
+2035,Public,Road,Cars,___,480VElectricity,Battery Electric Vehicle,kunits,0.006216988830665772
+2035,Public,Road,Cars,___,640VElectricity,Battery Electric Vehicle,kunits,0.0040056390034579285
+2035,Public,Road,Cars,___,Fuel Cell Vehicle,Hydrogen,kunits,0.0009663971656010558
+2035,Public,Road,Cars,___,Conventionnal,Diesel,kunits,0.006015380329885073
+2035,Public,Road,Cars,___,Conventionnal,Gasoline,kunits,0.22701810072067458
+2035,Public,Road,Cars,___,Conventionnal,Natural Gas,kunits,0.01171206770631069
+2035,Public,Road,Cars,___,Hybrid,Diesel,kunits,0.015111152526217846
+2035,Public,Road,Cars,___,Hybrid,Gasoline,kunits,0.025805048509112312
+2035,Public,Road,Cars,___,Plug Hybrid Vehicle,Gasoline,kunits,0.021332264816716427
+2035,Public,Road,Motorcycles,___,Battery Electric Vehicle,Battery Electric Vehicle,kunits,0.0049578394622210465
+2035,Public,Road,Motorcycles,___,Conventionnal,Gasoline,kunits,0.004615589904592642
+2035,Public,Road,Truck,Heavy Trucks,Battery Electric Vehicle,Battery Electricity Freight,kunits,0.0001426569968171545
+2035,Public,Road,Truck,Heavy Trucks,Catenary,Diesel,kunits,0.7170931204160176
+2035,Public,Road,Truck,Heavy Trucks,Catenary,Electricity,kunits,0.00032126493585311227
+2035,Public,Road,Truck,Heavy Trucks,Catenary,Natural Gas,kunits,0.0017376026361886321
+2035,Public,Road,Truck,Heavy Trucks,Catenary,Renewable Diesel,kunits,0.0019285989420761735
+2035,Public,Road,Truck,Heavy Trucks,Fuel Cell Vehicle,Hydrogen,kunits,0.00017724447033417873
+2035,Public,Road,Truck,Heavy Trucks,Conventionnal,Diesel,kunits,0.0006828069654861086
+2035,Public,Road,Truck,Heavy Trucks,Conventionnal,Natural Gas,kunits,0.00039866239683811715
+2035,Public,Road,Truck,Heavy Trucks,Hybrid,Diesel,kunits,0.0006299952186390848
+2035,Public,Road,Truck,Heavy Trucks,Plug Hybrid Vehicle,Diesel,kunits,0.00039735176355053725
+2035,Public,Road,Truck,Heavy Trucks,Plug Hybrid Vehicle,Natural Gas,kunits,0.0005777697749766077
+2035,Public,Road,Truck,Heavy Trucks,Plug Hybrid Vehicle,Renewable Diesel,kunits,0.00019256681244643378
+2035,Public,Road,Truck,Passenger Light Trucks,Battery Electric Vehicle,Battery Electricity Freight,kunits,0.01156405316777654
+2035,Public,Road,Truck,Passenger Light Trucks,Fuel Cell Vehicle,Hydrogen,kunits,1.6555288126852168
+2035,Public,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,0.008347162465552957
+2035,Public,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,0.00431726325056956
+2035,Public,Road,Truck,Passenger Light Trucks,Conventionnal,Natural Gas,kunits,0.0015592556111873666
+2035,Public,Road,Truck,Passenger Light Trucks,Hybrid,Diesel,kunits,0.0030647243603971444
+2035,Public,Road,Truck,Passenger Light Trucks,Hybrid,Gasoline,kunits,0.008133405409324723
+2035,Public,Road,Truck,Passenger Light Trucks,Plug Hybrid Vehicle,Gasoline,kunits,0.004221660617924188
+2035,Public,Road,Truck,Medium Trucks,Battery Electric Vehicle,Battery Electricity Freight,kunits,0.0029320584479701943
+2035,Public,Road,Truck,Medium Trucks,Fuel Cell Vehicle,Hydrogen,kunits,0.000867868764113838
+2035,Public,Road,Truck,Medium Trucks,Conventionnal,Diesel,kunits,0.00228442581915899
+2035,Public,Road,Truck,Medium Trucks,Conventionnal,Gasoline,kunits,0.002402636333163917
+2035,Public,Road,Truck,Medium Trucks,Conventionnal,Natural Gas,kunits,0.001051858518115992
+2035,Public,Road,Truck,Medium Trucks,Hybrid,Diesel,kunits,0.8041349838025906
+2035,Public,Road,Truck,Medium Trucks,Plug Hybrid Vehicle,Diesel,kunits,0.002021731341271177
+2035,Public,Road,Truck,Medium Trucks,Plug Hybrid Vehicle,Renewable Diesel,kunits,0.0008264947885939833
+2040,Freight Transportation,Air,___,___,___,Aviation Gasoline,kunits,0.0009820837766665589
+2040,Freight Transportation,Air,___,___,___,Aviation Turbo Fuel,kunits,0.032303615398688465
+2040,Freight Transportation,Rail,___,___,___,Diesel,kunits,0.008439352701320627
+2040,Freight Transportation,Rail,___,___,___,Electricity,kunits,0.0036816154747225088
+2040,Freight Transportation,Rail,___,___,___,Renewable Diesel,kunits,0.008419091247075298
+2040,Freight Transportation,Road,Truck,Heavy Trucks,Battery Electric Vehicle,Battery Electricity Freight,kunits,2.3326174993790247
+2040,Freight Transportation,Road,Truck,Passenger Light Trucks,Battery Electric Vehicle,Battery Electricity Freight,kunits,62.702083162500415
+2040,Freight Transportation,Road,Truck,Medium Trucks,Battery Electric Vehicle,Battery Electricity Freight,kunits,8.655110399769484
+2040,Long Distance,Air,___,___,Improved,Aviation Turbo Fuel,kunits,0.13625053366509965
+2040,Long Distance,Air,___,___,Standard,Aviation Gasoline,kunits,0.0013034742969834515
+2040,Long Distance,Air,___,___,Standard,Aviation Turbo Fuel,kunits,0.0030571465621349516
+2040,Long Distance,Rail,___,___,___,Diesel,kunits,0.01732482128784981
+2040,Long Distance,Rail,___,___,___,Electricity,kunits,0.006901373517952369
+2040,Long Distance,Rail,___,___,___,Hydrogen,kunits,0.005480295794142252
+2040,Passenger,Rail,Regional,___,___,Electricity,kunits,0.011775832233080194
+2040,Passenger,Rail,Subway,___,___,Electricity,kunits,0.17199831296694656
+2040,Passenger,Rail,Tramway,___,___,Electricity,kunits,0.022715952483385277
+2040,Passenger,Road,Inter-city Buses,Inter Urban Bus,Battery Electric Vehicle,Battery Electric Vehicle,kunits,0.4427316223754152
+2040,Passenger,Road,Inter-city Buses,School Bus,Battery Electric Vehicle,Battery Electric Vehicle,kunits,0.3452760909843758
+2040,Passenger,Road,Inter-city Buses,Urban Bus ,Battery Electric Vehicle,Battery Electric Vehicle,kunits,2.1335947358514935
+2040,Passenger,Road,Cars,___,320VElectricity,Battery Electric Vehicle,kunits,0.03136106449893754
+2040,Passenger,Road,Cars,___,480VElectricity,Battery Electric Vehicle,kunits,6.5991408924973705
+2040,Passenger,Road,Cars,___,640VElectricity,Battery Electric Vehicle,kunits,143.48369263414762
+2040,Passenger,Road,Cars,___,Fuel Cell Vehicle,Hydrogen,kunits,0.0017921025156268564
+2040,Passenger,Road,Cars,___,Conventionnal,Diesel,kunits,0.005492053907493655
+2040,Passenger,Road,Cars,___,Conventionnal,Gasoline,kunits,0.00858325370988842
+2040,Passenger,Road,Cars,___,Conventionnal,Natural Gas,kunits,0.014380296674790393
+2040,Passenger,Road,Cars,___,Conventionnal,Propane,kunits,0.009279704024812567
+2040,Passenger,Road,Cars,___,Conventionnal,Renewable Diesel,kunits,0.003001089227714069
+2040,Passenger,Road,Cars,___,Hybrid,Diesel,kunits,0.0060949689297677915
+2040,Passenger,Road,Cars,___,Hybrid,Gasoline,kunits,0.008284165395781407
+2040,Passenger,Road,Cars,___,Hybrid,Renewable Diesel,kunits,0.003570590824818756
+2040,Passenger,Road,Cars,___,Plug Hybrid Vehicle,Gasoline,kunits,0.0080624925066036
+2040,Passenger,Road,Motorcycles,___,Battery Electric Vehicle,Battery Electric Vehicle,kunits,3.253166560741124
+2040,Passenger,Road,Motorcycles,___,Conventionnal,Gasoline,kunits,0.005907432176580617
+2040,Passenger,Road,Truck,Passenger Light Trucks,320VElectricity,Battery Electric Vehicle,kunits,0.02598310028749781
+2040,Passenger,Road,Truck,Passenger Light Trucks,480VElectricity,Battery Electric Vehicle,kunits,46.024418923345635
+2040,Passenger,Road,Truck,Passenger Light Trucks,640VElectricity,Battery Electric Vehicle,kunits,140.99680317375928
+2040,Passenger,Road,Truck,Passenger Light Trucks,Fuel Cell Vehicle,Hydrogen,kunits,0.0015844649267812562
+2040,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,0.004597432806007638
+2040,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,0.005873675367468188
+2040,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Natural Gas,kunits,0.010467232520301238
+2040,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Propane,kunits,0.007167692189902493
+2040,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Renewable Diesel,kunits,0.0027381316160037
+2040,Passenger,Road,Truck,Passenger Light Trucks,Hybrid,Diesel,kunits,0.004138993122836172
+2040,Passenger,Road,Truck,Passenger Light Trucks,Hybrid,Gasoline,kunits,0.00571751324204209
+2040,Passenger,Road,Truck,Passenger Light Trucks,Hybrid,Renewable Diesel,kunits,0.00261623406767884
+2040,Passenger,Road,Truck,Passenger Light Trucks,Plug Hybrid Vehicle,Gasoline,kunits,0.005231070754736613
+2040,Public,Road,Inter-city Buses,Urban Bus ,Conventionnal,Diesel,kunits,0.018252919742238933
+2040,Public,Road,Cars,___,320VElectricity,Battery Electric Vehicle,kunits,0.11597058295529225
+2040,Public,Road,Cars,___,480VElectricity,Battery Electric Vehicle,kunits,0.00860821648653342
+2040,Public,Road,Cars,___,640VElectricity,Battery Electric Vehicle,kunits,0.00619087734062318
+2040,Public,Road,Cars,___,Fuel Cell Vehicle,Hydrogen,kunits,0.0014870130434292339
+2040,Public,Road,Cars,___,Conventionnal,Diesel,kunits,0.007845465100453444
+2040,Public,Road,Cars,___,Conventionnal,Gasoline,kunits,0.011098782510421545
+2040,Public,Road,Cars,___,Conventionnal,Natural Gas,kunits,0.01430013279250487
+2040,Public,Road,Cars,___,Hybrid,Diesel,kunits,0.6113291465038688
+2040,Public,Road,Cars,___,Hybrid,Gasoline,kunits,0.009981493844421443
+2040,Public,Road,Cars,___,Plug Hybrid Vehicle,Gasoline,kunits,0.016952443634350146
+2040,Public,Road,Motorcycles,___,Battery Electric Vehicle,Battery Electric Vehicle,kunits,0.00804490265985515
+2040,Public,Road,Motorcycles,___,Conventionnal,Gasoline,kunits,0.006802246522211077
+2040,Public,Road,Truck,Heavy Trucks,Battery Electric Vehicle,Battery Electricity Freight,kunits,0.00017227415399115613
+2040,Public,Road,Truck,Heavy Trucks,Catenary,Diesel,kunits,0.007370138585113883
+2040,Public,Road,Truck,Heavy Trucks,Catenary,Electricity,kunits,0.00039532635615282846
+2040,Public,Road,Truck,Heavy Trucks,Catenary,Natural Gas,kunits,0.0014022848052050265
+2040,Public,Road,Truck,Heavy Trucks,Catenary,Renewable Diesel,kunits,0.0008847654622282721
+2040,Public,Road,Truck,Heavy Trucks,Fuel Cell Vehicle,Hydrogen,kunits,0.0002034295648869287
+2040,Public,Road,Truck,Heavy Trucks,Conventionnal,Diesel,kunits,0.8432037976888862
+2040,Public,Road,Truck,Heavy Trucks,Conventionnal,Natural Gas,kunits,0.000622353101820998
+2040,Public,Road,Truck,Heavy Trucks,Hybrid,Diesel,kunits,0.0027428850730594648
+2040,Public,Road,Truck,Heavy Trucks,Plug Hybrid Vehicle,Diesel,kunits,0.000480636275167707
+2040,Public,Road,Truck,Heavy Trucks,Plug Hybrid Vehicle,Natural Gas,kunits,0.0006544208570186394
+2040,Public,Road,Truck,Heavy Trucks,Plug Hybrid Vehicle,Renewable Diesel,kunits,0.00022757222148901834
+2040,Public,Road,Truck,Passenger Light Trucks,Battery Electric Vehicle,Battery Electricity Freight,kunits,0.004371314762825415
+2040,Public,Road,Truck,Passenger Light Trucks,Fuel Cell Vehicle,Hydrogen,kunits,0.004512430695783273
+2040,Public,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,1.0478316565335435
+2040,Public,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,0.002968400441361089
+2040,Public,Road,Truck,Passenger Light Trucks,Conventionnal,Natural Gas,kunits,0.002381013357566563
+2040,Public,Road,Truck,Passenger Light Trucks,Hybrid,Diesel,kunits,0.005035914587710888
+2040,Public,Road,Truck,Passenger Light Trucks,Hybrid,Gasoline,kunits,0.003726791270495503
+2040,Public,Road,Truck,Passenger Light Trucks,Plug Hybrid Vehicle,Gasoline,kunits,0.0051492224428081835
+2040,Public,Road,Truck,Medium Trucks,Battery Electric Vehicle,Battery Electricity Freight,kunits,0.0017255420037538688
+2040,Public,Road,Truck,Medium Trucks,Fuel Cell Vehicle,Hydrogen,kunits,0.0012703059127083462
+2040,Public,Road,Truck,Medium Trucks,Conventionnal,Diesel,kunits,0.0034416771897793977
+2040,Public,Road,Truck,Medium Trucks,Conventionnal,Gasoline,kunits,0.002203850588495028
+2040,Public,Road,Truck,Medium Trucks,Conventionnal,Natural Gas,kunits,0.001816389340612858
+2040,Public,Road,Truck,Medium Trucks,Hybrid,Diesel,kunits,0.4600131552703831
+2040,Public,Road,Truck,Medium Trucks,Plug Hybrid Vehicle,Diesel,kunits,0.002402548742582226
+2040,Public,Road,Truck,Medium Trucks,Plug Hybrid Vehicle,Renewable Diesel,kunits,0.0010856912399675347
+2045,Freight Transportation,Air,___,___,___,Aviation Gasoline,kunits,0.0013104318374102598
+2045,Freight Transportation,Air,___,___,___,Aviation Turbo Fuel,kunits,0.03075570759483344
+2045,Freight Transportation,Rail,___,___,___,Diesel,kunits,0.011254593386791386
+2045,Freight Transportation,Rail,___,___,___,Electricity,kunits,0.0047320200302020995
+2045,Freight Transportation,Rail,___,___,___,Renewable Diesel,kunits,0.011225112330036402
+2045,Freight Transportation,Road,Truck,Heavy Trucks,Battery Electric Vehicle,Battery Electricity Freight,kunits,0.3651484132304263
+2045,Freight Transportation,Road,Truck,Passenger Light Trucks,Battery Electric Vehicle,Battery Electricity Freight,kunits,65.70180744043269
+2045,Freight Transportation,Road,Truck,Medium Trucks,Battery Electric Vehicle,Battery Electricity Freight,kunits,9.001141251152061
+2045,Long Distance,Air,___,___,Improved,Aviation Turbo Fuel,kunits,0.4718210419798602
+2045,Long Distance,Air,___,___,Standard,Aviation Gasoline,kunits,0.0013294866395724804
+2045,Long Distance,Air,___,___,Standard,Aviation Turbo Fuel,kunits,0.0033191337770415684
+2045,Long Distance,Rail,___,___,___,Diesel,kunits,0.023101449792967785
+2045,Long Distance,Rail,___,___,___,Electricity,kunits,0.009197431635071227
+2045,Long Distance,Rail,___,___,___,Hydrogen,kunits,0.007307041409297585
+2045,Passenger,Rail,Regional,___,___,Electricity,kunits,0.014507177079512762
+2045,Passenger,Rail,Subway,___,___,Electricity,kunits,0.06249450105902043
+2045,Passenger,Rail,Tramway,___,___,Electricity,kunits,0.010613713315883124
+2045,Passenger,Road,Inter-city Buses,Inter Urban Bus,Battery Electric Vehicle,Battery Electric Vehicle,kunits,0.545704215385912
+2045,Passenger,Road,Inter-city Buses,School Bus,Battery Electric Vehicle,Battery Electric Vehicle,kunits,0.577628133781552
+2045,Passenger,Road,Inter-city Buses,Urban Bus ,Battery Electric Vehicle,Battery Electric Vehicle,kunits,2.6807705401127566
+2045,Passenger,Road,Cars,___,320VElectricity,Battery Electric Vehicle,kunits,39.64309035790486
+2045,Passenger,Road,Cars,___,480VElectricity,Battery Electric Vehicle,kunits,0.018688813354976547
+2045,Passenger,Road,Cars,___,640VElectricity,Battery Electric Vehicle,kunits,0.008843711287932689
+2045,Passenger,Road,Cars,___,Fuel Cell Vehicle,Hydrogen,kunits,0.0024043784949946832
+2045,Passenger,Road,Cars,___,Conventionnal,Diesel,kunits,0.007845428179490377
+2045,Passenger,Road,Cars,___,Conventionnal,Gasoline,kunits,0.012521826004475465
+2045,Passenger,Road,Cars,___,Conventionnal,Natural Gas,kunits,0.020708942909058548
+2045,Passenger,Road,Cars,___,Conventionnal,Propane,kunits,0.013070885528093875
+2045,Passenger,Road,Cars,___,Conventionnal,Renewable Diesel,kunits,0.0038173443187234936
+2045,Passenger,Road,Cars,___,Hybrid,Diesel,kunits,0.009157053865702324
+2045,Passenger,Road,Cars,___,Hybrid,Gasoline,kunits,0.012070741000055214
+2045,Passenger,Road,Cars,___,Hybrid,Renewable Diesel,kunits,0.004764013903561656
+2045,Passenger,Road,Cars,___,Plug Hybrid Vehicle,Gasoline,kunits,0.012029326841799864
+2045,Passenger,Road,Motorcycles,___,Battery Electric Vehicle,Battery Electric Vehicle,kunits,0.016574546430060066
+2045,Passenger,Road,Motorcycles,___,Conventionnal,Gasoline,kunits,0.012799197707434392
+2045,Passenger,Road,Truck,Passenger Light Trucks,320VElectricity,Battery Electric Vehicle,kunits,0.01947465049595253
+2045,Passenger,Road,Truck,Passenger Light Trucks,480VElectricity,Battery Electric Vehicle,kunits,0.009172889955417226
+2045,Passenger,Road,Truck,Passenger Light Trucks,640VElectricity,Battery Electric Vehicle,kunits,0.005726984286712894
+2045,Passenger,Road,Truck,Passenger Light Trucks,Fuel Cell Vehicle,Hydrogen,kunits,0.0022845753096069014
+2045,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,0.006996174152996692
+2045,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,0.00889813398389673
+2045,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Natural Gas,kunits,0.015753438912868692
+2045,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Propane,kunits,0.010325802567314966
+2045,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Renewable Diesel,kunits,0.0035299094223678407
+2045,Passenger,Road,Truck,Passenger Light Trucks,Hybrid,Diesel,kunits,0.006309110986929774
+2045,Passenger,Road,Truck,Passenger Light Trucks,Hybrid,Gasoline,kunits,0.008653976269437197
+2045,Passenger,Road,Truck,Passenger Light Trucks,Hybrid,Renewable Diesel,kunits,0.0035306298078534434
+2045,Passenger,Road,Truck,Passenger Light Trucks,Plug Hybrid Vehicle,Gasoline,kunits,0.008046568310952355
+2045,Public,Road,Inter-city Buses,Urban Bus ,Conventionnal,Diesel,kunits,0.024219454984971085
+2045,Public,Road,Cars,___,320VElectricity,Battery Electric Vehicle,kunits,0.49905038481388403
+2045,Public,Road,Cars,___,480VElectricity,Battery Electric Vehicle,kunits,0.01443976806009205
+2045,Public,Road,Cars,___,640VElectricity,Battery Electric Vehicle,kunits,0.009876807275303611
+2045,Public,Road,Cars,___,Fuel Cell Vehicle,Hydrogen,kunits,0.0019595891960856983
+2045,Public,Road,Cars,___,Conventionnal,Diesel,kunits,0.008323009622793422
+2045,Public,Road,Cars,___,Conventionnal,Gasoline,kunits,0.0115594629195357
+2045,Public,Road,Cars,___,Conventionnal,Natural Gas,kunits,0.018130317326997755
+2045,Public,Road,Cars,___,Hybrid,Diesel,kunits,1.1684963981349632
+2045,Public,Road,Cars,___,Hybrid,Gasoline,kunits,0.010768584601920792
+2045,Public,Road,Cars,___,Plug Hybrid Vehicle,Gasoline,kunits,0.021940424891759118
+2045,Public,Road,Motorcycles,___,Battery Electric Vehicle,Battery Electric Vehicle,kunits,0.011378828049780854
+2045,Public,Road,Motorcycles,___,Conventionnal,Gasoline,kunits,0.008994749817964522
+2045,Public,Road,Truck,Heavy Trucks,Battery Electric Vehicle,Battery Electricity Freight,kunits,0.0003357862579955127
+2045,Public,Road,Truck,Heavy Trucks,Catenary,Diesel,kunits,0.7897754231412496
+2045,Public,Road,Truck,Heavy Trucks,Catenary,Electricity,kunits,0.0009709928847016408
+2045,Public,Road,Truck,Heavy Trucks,Catenary,Natural Gas,kunits,0.003132117869656583
+2045,Public,Road,Truck,Heavy Trucks,Catenary,Renewable Diesel,kunits,0.002378240490396567
+2045,Public,Road,Truck,Heavy Trucks,Fuel Cell Vehicle,Hydrogen,kunits,0.00037558686583659705
+2045,Public,Road,Truck,Heavy Trucks,Conventionnal,Diesel,kunits,0.0013458587355330547
+2045,Public,Road,Truck,Heavy Trucks,Conventionnal,Natural Gas,kunits,0.000819270434261031
+2045,Public,Road,Truck,Heavy Trucks,Hybrid,Diesel,kunits,0.001224371543143732
+2045,Public,Road,Truck,Heavy Trucks,Plug Hybrid Vehicle,Diesel,kunits,0.0008442445115417364
+2045,Public,Road,Truck,Heavy Trucks,Plug Hybrid Vehicle,Natural Gas,kunits,0.001315668904612352
+2045,Public,Road,Truck,Heavy Trucks,Plug Hybrid Vehicle,Renewable Diesel,kunits,0.0004479403485065425
+2045,Public,Road,Truck,Passenger Light Trucks,Battery Electric Vehicle,Battery Electricity Freight,kunits,0.009653376824995903
+2045,Public,Road,Truck,Passenger Light Trucks,Fuel Cell Vehicle,Hydrogen,kunits,0.014735171829528049
+2045,Public,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,1.3598771182950045
+2045,Public,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,0.003493495507320171
+2045,Public,Road,Truck,Passenger Light Trucks,Conventionnal,Natural Gas,kunits,0.0033348521707958117
+2045,Public,Road,Truck,Passenger Light Trucks,Hybrid,Diesel,kunits,0.005821291522269735
+2045,Public,Road,Truck,Passenger Light Trucks,Hybrid,Gasoline,kunits,0.004347481279563636
+2045,Public,Road,Truck,Passenger Light Trucks,Plug Hybrid Vehicle,Gasoline,kunits,0.0071786594850446455
+2045,Public,Road,Truck,Medium Trucks,Battery Electric Vehicle,Battery Electricity Freight,kunits,0.002861910071962067
+2045,Public,Road,Truck,Medium Trucks,Fuel Cell Vehicle,Hydrogen,kunits,0.001874176475345391
+2045,Public,Road,Truck,Medium Trucks,Conventionnal,Diesel,kunits,0.00414496446136543
+2045,Public,Road,Truck,Medium Trucks,Conventionnal,Gasoline,kunits,0.0026155508301301212
+2045,Public,Road,Truck,Medium Trucks,Conventionnal,Natural Gas,kunits,0.0029687310542779776
+2045,Public,Road,Truck,Medium Trucks,Hybrid,Diesel,kunits,0.519199189718331
+2045,Public,Road,Truck,Medium Trucks,Plug Hybrid Vehicle,Diesel,kunits,0.003312109221041511
+2045,Public,Road,Truck,Medium Trucks,Plug Hybrid Vehicle,Renewable Diesel,kunits,0.0015444619275887348
+2050,Freight Transportation,Air,___,___,___,Aviation Gasoline,kunits,0.004315224134771149
+2050,Freight Transportation,Air,___,___,___,Aviation Turbo Fuel,kunits,0.030695858021977697
+2050,Freight Transportation,Rail,___,___,___,Diesel,kunits,0.037432142078215346
+2050,Freight Transportation,Rail,___,___,___,Electricity,kunits,0.014974011411877389
+2050,Freight Transportation,Rail,___,___,___,Renewable Diesel,kunits,0.037376169806330184
+2050,Freight Transportation,Road,Truck,Heavy Trucks,Battery Electric Vehicle,Battery Electricity Freight,kunits,2.374079125388202
+2050,Freight Transportation,Road,Truck,Passenger Light Trucks,Battery Electric Vehicle,Battery Electricity Freight,kunits,125.86544481224936
+2050,Freight Transportation,Road,Truck,Medium Trucks,Battery Electric Vehicle,Battery Electricity Freight,kunits,17.521495016129247
+2050,Long Distance,Air,___,___,Improved,Aviation Turbo Fuel,kunits,1.0605767905516705
+2050,Long Distance,Air,___,___,Standard,Aviation Turbo Fuel,kunits,0.00825329115810532
+2050,Long Distance,Rail,___,___,___,Diesel,kunits,0.07684338762093834
+2050,Long Distance,Rail,___,___,___,Electricity,kunits,0.030513217536382795
+2050,Long Distance,Rail,___,___,___,Hydrogen,kunits,0.024333001941831377
+2050,Passenger,Rail,Regional,___,___,Electricity,kunits,0.04140115283609814
+2050,Passenger,Rail,Subway,___,___,Electricity,kunits,0.09508734444191697
+2050,Passenger,Rail,Tramway,___,___,Electricity,kunits,0.029383340877564317
+2050,Passenger,Road,Inter-city Buses,Inter Urban Bus,Battery Electric Vehicle,Battery Electric Vehicle,kunits,0.6018880475148568
+2050,Passenger,Road,Inter-city Buses,School Bus,Battery Electric Vehicle,Battery Electric Vehicle,kunits,0.471835521734781
+2050,Passenger,Road,Inter-city Buses,Urban Bus ,Battery Electric Vehicle,Battery Electric Vehicle,kunits,3.914941411273676
+2050,Passenger,Road,Cars,___,320VElectricity,Battery Electric Vehicle,kunits,93.10487782733017
+2050,Passenger,Road,Cars,___,480VElectricity,Battery Electric Vehicle,kunits,126.15954717580027
+2050,Passenger,Road,Cars,___,640VElectricity,Battery Electric Vehicle,kunits,0.04245256910019164
+2050,Passenger,Road,Cars,___,Fuel Cell Vehicle,Hydrogen,kunits,0.007601978104905794
+2050,Passenger,Road,Cars,___,Conventionnal,Diesel,kunits,0.023479867426629483
+2050,Passenger,Road,Cars,___,Conventionnal,Gasoline,kunits,0.0422665233599489
+2050,Passenger,Road,Cars,___,Conventionnal,Natural Gas,kunits,0.05693043698544609
+2050,Passenger,Road,Cars,___,Conventionnal,Propane,kunits,0.04243180355634635
+2050,Passenger,Road,Cars,___,Conventionnal,Renewable Diesel,kunits,0.011427854741443989
+2050,Passenger,Road,Cars,___,Hybrid,Diesel,kunits,0.026862822895933586
+2050,Passenger,Road,Cars,___,Hybrid,Gasoline,kunits,0.04051857966491905
+2050,Passenger,Road,Cars,___,Hybrid,Renewable Diesel,kunits,0.014725272941908661
+2050,Passenger,Road,Cars,___,Plug Hybrid Vehicle,Gasoline,kunits,0.03439401410825934
+2050,Passenger,Road,Motorcycles,___,Battery Electric Vehicle,Battery Electric Vehicle,kunits,3.4625148658776386
+2050,Passenger,Road,Motorcycles,___,Conventionnal,Gasoline,kunits,0.0644341611211562
+2050,Passenger,Road,Truck,Passenger Light Trucks,320VElectricity,Battery Electric Vehicle,kunits,130.5188572814722
+2050,Passenger,Road,Truck,Passenger Light Trucks,480VElectricity,Battery Electric Vehicle,kunits,84.53092219917619
+2050,Passenger,Road,Truck,Passenger Light Trucks,640VElectricity,Battery Electric Vehicle,kunits,0.024399990958293996
+2050,Passenger,Road,Truck,Passenger Light Trucks,Fuel Cell Vehicle,Hydrogen,kunits,0.007752415500733138
+2050,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,0.021633888996734504
+2050,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,0.030980040544876637
+2050,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Natural Gas,kunits,0.046468318989717816
+2050,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Propane,kunits,0.03495752429470129
+2050,Passenger,Road,Truck,Passenger Light Trucks,Conventionnal,Renewable Diesel,kunits,0.010497669828947453
+2050,Passenger,Road,Truck,Passenger Light Trucks,Hybrid,Diesel,kunits,0.019720603774275515
+2050,Passenger,Road,Truck,Passenger Light Trucks,Hybrid,Gasoline,kunits,0.03000743375965691
+2050,Passenger,Road,Truck,Passenger Light Trucks,Hybrid,Renewable Diesel,kunits,0.010916248682256963
+2050,Passenger,Road,Truck,Passenger Light Trucks,Plug Hybrid Vehicle,Gasoline,kunits,0.024493005676307182
+2050,Public,Road,Inter-city Buses,Urban Bus ,Conventionnal,Diesel,kunits,0.07867401758182606
+2050,Public,Road,Cars,___,320VElectricity,Battery Electric Vehicle,kunits,2.2135351327841555
+2050,Public,Road,Cars,___,480VElectricity,Battery Electric Vehicle,kunits,0.06894124894097767
+2050,Public,Road,Cars,___,640VElectricity,Battery Electric Vehicle,kunits,0.04789811879452691
+2050,Public,Road,Cars,___,Fuel Cell Vehicle,Hydrogen,kunits,0.006301341208064459
+2050,Public,Road,Cars,___,Conventionnal,Diesel,kunits,0.011822758771188522
+2050,Public,Road,Cars,___,Conventionnal,Gasoline,kunits,0.01704068015770666
+2050,Public,Road,Cars,___,Conventionnal,Natural Gas,kunits,0.04338854281182568
+2050,Public,Road,Cars,___,Hybrid,Diesel,kunits,0.013479491894877463
+2050,Public,Road,Cars,___,Hybrid,Gasoline,kunits,0.016545598742474868
+2050,Public,Road,Cars,___,Plug Hybrid Vehicle,Gasoline,kunits,0.0686389823361996
+2050,Public,Road,Motorcycles,___,Battery Electric Vehicle,Battery Electric Vehicle,kunits,0.04027112882948462
+2050,Public,Road,Motorcycles,___,Conventionnal,Gasoline,kunits,0.02948775025203514
+2050,Public,Road,Truck,Heavy Trucks,Battery Electric Vehicle,Battery Electricity Freight,kunits,0.0011619272791976026
+2050,Public,Road,Truck,Heavy Trucks,Catenary,Diesel,kunits,0.5932945405453608
+2050,Public,Road,Truck,Heavy Trucks,Catenary,Electricity,kunits,0.00886536733171502
+2050,Public,Road,Truck,Heavy Trucks,Catenary,Natural Gas,kunits,0.016180281222782585
+2050,Public,Road,Truck,Heavy Trucks,Catenary,Renewable Diesel,kunits,0.3067840868273184
+2050,Public,Road,Truck,Heavy Trucks,Fuel Cell Vehicle,Hydrogen,kunits,0.0012055265894176416
+2050,Public,Road,Truck,Heavy Trucks,Conventionnal,Diesel,kunits,0.0017041371446069697
+2050,Public,Road,Truck,Heavy Trucks,Conventionnal,Natural Gas,kunits,0.0025168306130387884
+2050,Public,Road,Truck,Heavy Trucks,Hybrid,Diesel,kunits,0.0016586703762582686
+2050,Public,Road,Truck,Heavy Trucks,Plug Hybrid Vehicle,Diesel,kunits,0.00253529578422773
+2050,Public,Road,Truck,Heavy Trucks,Plug Hybrid Vehicle,Natural Gas,kunits,0.005716946957062653
+2050,Public,Road,Truck,Heavy Trucks,Plug Hybrid Vehicle,Renewable Diesel,kunits,0.0017008121645567752
+2050,Public,Road,Truck,Passenger Light Trucks,Battery Electric Vehicle,Battery Electricity Freight,kunits,0.16943153709056402
+2050,Public,Road,Truck,Passenger Light Trucks,Fuel Cell Vehicle,Hydrogen,kunits,4.079915192946528
+2050,Public,Road,Truck,Passenger Light Trucks,Conventionnal,Diesel,kunits,0.005927062811852818
+2050,Public,Road,Truck,Passenger Light Trucks,Conventionnal,Gasoline,kunits,0.006183562390212512
+2050,Public,Road,Truck,Passenger Light Trucks,Conventionnal,Natural Gas,kunits,0.010191822065654992
+2050,Public,Road,Truck,Passenger Light Trucks,Hybrid,Diesel,kunits,0.005094331219537623
+2050,Public,Road,Truck,Passenger Light Trucks,Hybrid,Gasoline,kunits,0.006075790215796861
+2050,Public,Road,Truck,Passenger Light Trucks,Plug Hybrid Vehicle,Gasoline,kunits,0.04408400223212702
+2050,Public,Road,Truck,Medium Trucks,Battery Electric Vehicle,Battery Electricity Freight,kunits,1.7539378083983113
+2050,Public,Road,Truck,Medium Trucks,Fuel Cell Vehicle,Hydrogen,kunits,0.0067705410032858696
+2050,Public,Road,Truck,Medium Trucks,Conventionnal,Diesel,kunits,0.00413287896693541
+2050,Public,Road,Truck,Medium Trucks,Conventionnal,Gasoline,kunits,0.004316574444899447
+2050,Public,Road,Truck,Medium Trucks,Conventionnal,Natural Gas,kunits,0.007985519760929628
+2050,Public,Road,Truck,Medium Trucks,Hybrid,Diesel,kunits,0.0046977627974017335
+2050,Public,Road,Truck,Medium Trucks,Plug Hybrid Vehicle,Diesel,kunits,0.01814403782544882
+2050,Public,Road,Truck,Medium Trucks,Plug Hybrid Vehicle,Renewable Diesel,kunits,0.010789007094031106

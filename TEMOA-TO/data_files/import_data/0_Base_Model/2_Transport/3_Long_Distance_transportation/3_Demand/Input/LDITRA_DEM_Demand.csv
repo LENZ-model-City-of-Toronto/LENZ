@@ -1,0 +1,351 @@
+regions,periods,demand_comm,demand,demand_units,demand_notes
+TO,2016,ADEMLDITRADOMROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadCars
+TO,2016,ADEMLDITRADOMROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadTruckPassenger Light Trucks
+TO,2016,ADEMLDITRADOMROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadInter-city BusesInter Urban Bus
+TO,2016,ADEMLDITRADOMAIR______,616.0335816184825,M pkm,Aggregated DemandLong DistanceTransportationDomesticAir
+TO,2016,ADEMLDITRADOMRAI______,472.91337688010424,M pkm,Aggregated DemandLong DistanceTransportationDomesticRail
+TO,2016,ADEMLDITRAINTROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadCars
+TO,2016,ADEMLDITRAINTROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadTruckPassenger Light Trucks
+TO,2016,ADEMLDITRAINTROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadInter-city BusesInter Urban Bus
+TO,2016,ADEMLDITRAINTAIR______,389.9873037155273,M pkm,Aggregated DemandLong DistanceTransportationInternationalAir
+TO,2016,ADEMLDITRAINTRAI______,299.3833749386358,M pkm,Aggregated DemandLong DistanceTransportationInternationalRail
+TO,2017,ADEMLDITRADOMROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadCars
+TO,2017,ADEMLDITRADOMROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadTruckPassenger Light Trucks
+TO,2017,ADEMLDITRADOMROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadInter-city BusesInter Urban Bus
+TO,2017,ADEMLDITRADOMAIR______,625.0928989952248,M pkm,Aggregated DemandLong DistanceTransportationDomesticAir
+TO,2017,ADEMLDITRADOMRAI______,479.86798536363517,M pkm,Aggregated DemandLong DistanceTransportationDomesticRail
+TO,2017,ADEMLDITRAINTROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadCars
+TO,2017,ADEMLDITRAINTROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadTruckPassenger Light Trucks
+TO,2017,ADEMLDITRAINTROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadInter-city BusesInter Urban Bus
+TO,2017,ADEMLDITRAINTAIR______,395.72241112310854,M pkm,Aggregated DemandLong DistanceTransportationInternationalAir
+TO,2017,ADEMLDITRAINTRAI______,303.7860716289099,M pkm,Aggregated DemandLong DistanceTransportationInternationalRail
+TO,2018,ADEMLDITRADOMROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadCars
+TO,2018,ADEMLDITRADOMROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadTruckPassenger Light Trucks
+TO,2018,ADEMLDITRADOMROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadInter-city BusesInter Urban Bus
+TO,2018,ADEMLDITRADOMAIR______,634.1522163719673,M pkm,Aggregated DemandLong DistanceTransportationDomesticAir
+TO,2018,ADEMLDITRADOMRAI______,486.8225938471661,M pkm,Aggregated DemandLong DistanceTransportationDomesticRail
+TO,2018,ADEMLDITRAINTROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadCars
+TO,2018,ADEMLDITRAINTROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadTruckPassenger Light Trucks
+TO,2018,ADEMLDITRAINTROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadInter-city BusesInter Urban Bus
+TO,2018,ADEMLDITRAINTAIR______,401.45751853068987,M pkm,Aggregated DemandLong DistanceTransportationInternationalAir
+TO,2018,ADEMLDITRAINTRAI______,308.18876831918396,M pkm,Aggregated DemandLong DistanceTransportationInternationalRail
+TO,2019,ADEMLDITRADOMROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadCars
+TO,2019,ADEMLDITRADOMROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadTruckPassenger Light Trucks
+TO,2019,ADEMLDITRADOMROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadInter-city BusesInter Urban Bus
+TO,2019,ADEMLDITRADOMAIR______,643.2115337487096,M pkm,Aggregated DemandLong DistanceTransportationDomesticAir
+TO,2019,ADEMLDITRADOMRAI______,493.77720233069704,M pkm,Aggregated DemandLong DistanceTransportationDomesticRail
+TO,2019,ADEMLDITRAINTROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadCars
+TO,2019,ADEMLDITRAINTROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadTruckPassenger Light Trucks
+TO,2019,ADEMLDITRAINTROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadInter-city BusesInter Urban Bus
+TO,2019,ADEMLDITRAINTAIR______,407.19262593827114,M pkm,Aggregated DemandLong DistanceTransportationInternationalAir
+TO,2019,ADEMLDITRAINTRAI______,312.591465009458,M pkm,Aggregated DemandLong DistanceTransportationInternationalRail
+TO,2020,ADEMLDITRADOMROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadCars
+TO,2020,ADEMLDITRADOMROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadTruckPassenger Light Trucks
+TO,2020,ADEMLDITRADOMROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadInter-city BusesInter Urban Bus
+TO,2020,ADEMLDITRADOMAIR______,652.270851125452,M pkm,Aggregated DemandLong DistanceTransportationDomesticAir
+TO,2020,ADEMLDITRADOMRAI______,500.731810814228,M pkm,Aggregated DemandLong DistanceTransportationDomesticRail
+TO,2020,ADEMLDITRAINTROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadCars
+TO,2020,ADEMLDITRAINTROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadTruckPassenger Light Trucks
+TO,2020,ADEMLDITRAINTROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadInter-city BusesInter Urban Bus
+TO,2020,ADEMLDITRAINTAIR______,412.9277333458524,M pkm,Aggregated DemandLong DistanceTransportationInternationalAir
+TO,2020,ADEMLDITRAINTRAI______,316.99416169973205,M pkm,Aggregated DemandLong DistanceTransportationInternationalRail
+TO,2021,ADEMLDITRADOMROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadCars
+TO,2021,ADEMLDITRADOMROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadTruckPassenger Light Trucks
+TO,2021,ADEMLDITRADOMROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadInter-city BusesInter Urban Bus
+TO,2021,ADEMLDITRADOMAIR______,661.3301685021944,M pkm,Aggregated DemandLong DistanceTransportationDomesticAir
+TO,2021,ADEMLDITRADOMRAI______,507.68641929775896,M pkm,Aggregated DemandLong DistanceTransportationDomesticRail
+TO,2021,ADEMLDITRAINTROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadCars
+TO,2021,ADEMLDITRAINTROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadTruckPassenger Light Trucks
+TO,2021,ADEMLDITRAINTROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadInter-city BusesInter Urban Bus
+TO,2021,ADEMLDITRAINTAIR______,418.66284075343367,M pkm,Aggregated DemandLong DistanceTransportationInternationalAir
+TO,2021,ADEMLDITRAINTRAI______,321.3968583900061,M pkm,Aggregated DemandLong DistanceTransportationInternationalRail
+TO,2022,ADEMLDITRADOMROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadCars
+TO,2022,ADEMLDITRADOMROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadTruckPassenger Light Trucks
+TO,2022,ADEMLDITRADOMROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadInter-city BusesInter Urban Bus
+TO,2022,ADEMLDITRADOMAIR______,670.3894858789367,M pkm,Aggregated DemandLong DistanceTransportationDomesticAir
+TO,2022,ADEMLDITRADOMRAI______,514.64102778129,M pkm,Aggregated DemandLong DistanceTransportationDomesticRail
+TO,2022,ADEMLDITRAINTROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadCars
+TO,2022,ADEMLDITRAINTROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadTruckPassenger Light Trucks
+TO,2022,ADEMLDITRAINTROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadInter-city BusesInter Urban Bus
+TO,2022,ADEMLDITRAINTAIR______,424.397948161015,M pkm,Aggregated DemandLong DistanceTransportationInternationalAir
+TO,2022,ADEMLDITRAINTRAI______,325.7995550802802,M pkm,Aggregated DemandLong DistanceTransportationInternationalRail
+TO,2023,ADEMLDITRADOMROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadCars
+TO,2023,ADEMLDITRADOMROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadTruckPassenger Light Trucks
+TO,2023,ADEMLDITRADOMROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadInter-city BusesInter Urban Bus
+TO,2023,ADEMLDITRADOMAIR______,679.4488032556792,M pkm,Aggregated DemandLong DistanceTransportationDomesticAir
+TO,2023,ADEMLDITRADOMRAI______,521.5956362648209,M pkm,Aggregated DemandLong DistanceTransportationDomesticRail
+TO,2023,ADEMLDITRAINTROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadCars
+TO,2023,ADEMLDITRAINTROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadTruckPassenger Light Trucks
+TO,2023,ADEMLDITRAINTROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadInter-city BusesInter Urban Bus
+TO,2023,ADEMLDITRAINTAIR______,430.13305556859626,M pkm,Aggregated DemandLong DistanceTransportationInternationalAir
+TO,2023,ADEMLDITRAINTRAI______,330.2022517705542,M pkm,Aggregated DemandLong DistanceTransportationInternationalRail
+TO,2024,ADEMLDITRADOMROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadCars
+TO,2024,ADEMLDITRADOMROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadTruckPassenger Light Trucks
+TO,2024,ADEMLDITRADOMROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadInter-city BusesInter Urban Bus
+TO,2024,ADEMLDITRADOMAIR______,688.5081206324215,M pkm,Aggregated DemandLong DistanceTransportationDomesticAir
+TO,2024,ADEMLDITRADOMRAI______,528.5502447483518,M pkm,Aggregated DemandLong DistanceTransportationDomesticRail
+TO,2024,ADEMLDITRAINTROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadCars
+TO,2024,ADEMLDITRAINTROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadTruckPassenger Light Trucks
+TO,2024,ADEMLDITRAINTROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadInter-city BusesInter Urban Bus
+TO,2024,ADEMLDITRAINTAIR______,435.86816297617753,M pkm,Aggregated DemandLong DistanceTransportationInternationalAir
+TO,2024,ADEMLDITRAINTRAI______,334.60494846082827,M pkm,Aggregated DemandLong DistanceTransportationInternationalRail
+TO,2025,ADEMLDITRADOMROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadCars
+TO,2025,ADEMLDITRADOMROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadTruckPassenger Light Trucks
+TO,2025,ADEMLDITRADOMROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadInter-city BusesInter Urban Bus
+TO,2025,ADEMLDITRADOMAIR______,697.567438009164,M pkm,Aggregated DemandLong DistanceTransportationDomesticAir
+TO,2025,ADEMLDITRADOMRAI______,535.5048532318827,M pkm,Aggregated DemandLong DistanceTransportationDomesticRail
+TO,2025,ADEMLDITRAINTROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadCars
+TO,2025,ADEMLDITRAINTROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadTruckPassenger Light Trucks
+TO,2025,ADEMLDITRAINTROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadInter-city BusesInter Urban Bus
+TO,2025,ADEMLDITRAINTAIR______,441.6032703837588,M pkm,Aggregated DemandLong DistanceTransportationInternationalAir
+TO,2025,ADEMLDITRAINTRAI______,339.00764515110234,M pkm,Aggregated DemandLong DistanceTransportationInternationalRail
+TO,2026,ADEMLDITRADOMROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadCars
+TO,2026,ADEMLDITRADOMROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadTruckPassenger Light Trucks
+TO,2026,ADEMLDITRADOMROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadInter-city BusesInter Urban Bus
+TO,2026,ADEMLDITRADOMAIR______,706.6267553859063,M pkm,Aggregated DemandLong DistanceTransportationDomesticAir
+TO,2026,ADEMLDITRADOMRAI______,542.4594617154137,M pkm,Aggregated DemandLong DistanceTransportationDomesticRail
+TO,2026,ADEMLDITRAINTROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadCars
+TO,2026,ADEMLDITRAINTROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadTruckPassenger Light Trucks
+TO,2026,ADEMLDITRAINTROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadInter-city BusesInter Urban Bus
+TO,2026,ADEMLDITRAINTAIR______,447.3383777913401,M pkm,Aggregated DemandLong DistanceTransportationInternationalAir
+TO,2026,ADEMLDITRAINTRAI______,343.4103418413764,M pkm,Aggregated DemandLong DistanceTransportationInternationalRail
+TO,2027,ADEMLDITRADOMROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadCars
+TO,2027,ADEMLDITRADOMROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadTruckPassenger Light Trucks
+TO,2027,ADEMLDITRADOMROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadInter-city BusesInter Urban Bus
+TO,2027,ADEMLDITRADOMAIR______,715.6860727626488,M pkm,Aggregated DemandLong DistanceTransportationDomesticAir
+TO,2027,ADEMLDITRADOMRAI______,549.4140701989446,M pkm,Aggregated DemandLong DistanceTransportationDomesticRail
+TO,2027,ADEMLDITRAINTROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadCars
+TO,2027,ADEMLDITRAINTROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadTruckPassenger Light Trucks
+TO,2027,ADEMLDITRAINTROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadInter-city BusesInter Urban Bus
+TO,2027,ADEMLDITRAINTAIR______,453.0734851989214,M pkm,Aggregated DemandLong DistanceTransportationInternationalAir
+TO,2027,ADEMLDITRAINTRAI______,347.8130385316504,M pkm,Aggregated DemandLong DistanceTransportationInternationalRail
+TO,2028,ADEMLDITRADOMROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadCars
+TO,2028,ADEMLDITRADOMROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadTruckPassenger Light Trucks
+TO,2028,ADEMLDITRADOMROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadInter-city BusesInter Urban Bus
+TO,2028,ADEMLDITRADOMAIR______,724.7453901393911,M pkm,Aggregated DemandLong DistanceTransportationDomesticAir
+TO,2028,ADEMLDITRADOMRAI______,556.3686786824755,M pkm,Aggregated DemandLong DistanceTransportationDomesticRail
+TO,2028,ADEMLDITRAINTROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadCars
+TO,2028,ADEMLDITRAINTROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadTruckPassenger Light Trucks
+TO,2028,ADEMLDITRAINTROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadInter-city BusesInter Urban Bus
+TO,2028,ADEMLDITRAINTAIR______,458.80859260650266,M pkm,Aggregated DemandLong DistanceTransportationInternationalAir
+TO,2028,ADEMLDITRAINTRAI______,352.2157352219245,M pkm,Aggregated DemandLong DistanceTransportationInternationalRail
+TO,2029,ADEMLDITRADOMROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadCars
+TO,2029,ADEMLDITRADOMROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadTruckPassenger Light Trucks
+TO,2029,ADEMLDITRADOMROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadInter-city BusesInter Urban Bus
+TO,2029,ADEMLDITRADOMAIR______,733.8047075161335,M pkm,Aggregated DemandLong DistanceTransportationDomesticAir
+TO,2029,ADEMLDITRADOMRAI______,563.3232871660065,M pkm,Aggregated DemandLong DistanceTransportationDomesticRail
+TO,2029,ADEMLDITRAINTROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadCars
+TO,2029,ADEMLDITRAINTROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadTruckPassenger Light Trucks
+TO,2029,ADEMLDITRAINTROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadInter-city BusesInter Urban Bus
+TO,2029,ADEMLDITRAINTAIR______,464.5437000140839,M pkm,Aggregated DemandLong DistanceTransportationInternationalAir
+TO,2029,ADEMLDITRAINTRAI______,356.61843191219856,M pkm,Aggregated DemandLong DistanceTransportationInternationalRail
+TO,2030,ADEMLDITRADOMROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadCars
+TO,2030,ADEMLDITRADOMROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadTruckPassenger Light Trucks
+TO,2030,ADEMLDITRADOMROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadInter-city BusesInter Urban Bus
+TO,2030,ADEMLDITRADOMAIR______,742.8640248928759,M pkm,Aggregated DemandLong DistanceTransportationDomesticAir
+TO,2030,ADEMLDITRADOMRAI______,570.2778956495374,M pkm,Aggregated DemandLong DistanceTransportationDomesticRail
+TO,2030,ADEMLDITRAINTROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadCars
+TO,2030,ADEMLDITRAINTROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadTruckPassenger Light Trucks
+TO,2030,ADEMLDITRAINTROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadInter-city BusesInter Urban Bus
+TO,2030,ADEMLDITRAINTAIR______,470.27880742166525,M pkm,Aggregated DemandLong DistanceTransportationInternationalAir
+TO,2030,ADEMLDITRAINTRAI______,361.02112860247263,M pkm,Aggregated DemandLong DistanceTransportationInternationalRail
+TO,2031,ADEMLDITRADOMROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadCars
+TO,2031,ADEMLDITRADOMROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadTruckPassenger Light Trucks
+TO,2031,ADEMLDITRADOMROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadInter-city BusesInter Urban Bus
+TO,2031,ADEMLDITRADOMAIR______,751.9233422696183,M pkm,Aggregated DemandLong DistanceTransportationDomesticAir
+TO,2031,ADEMLDITRADOMRAI______,577.2325041330683,M pkm,Aggregated DemandLong DistanceTransportationDomesticRail
+TO,2031,ADEMLDITRAINTROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadCars
+TO,2031,ADEMLDITRAINTROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadTruckPassenger Light Trucks
+TO,2031,ADEMLDITRAINTROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadInter-city BusesInter Urban Bus
+TO,2031,ADEMLDITRAINTAIR______,476.0139148292465,M pkm,Aggregated DemandLong DistanceTransportationInternationalAir
+TO,2031,ADEMLDITRAINTRAI______,365.42382529274664,M pkm,Aggregated DemandLong DistanceTransportationInternationalRail
+TO,2032,ADEMLDITRADOMROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadCars
+TO,2032,ADEMLDITRADOMROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadTruckPassenger Light Trucks
+TO,2032,ADEMLDITRADOMROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadInter-city BusesInter Urban Bus
+TO,2032,ADEMLDITRADOMAIR______,760.9826596463606,M pkm,Aggregated DemandLong DistanceTransportationDomesticAir
+TO,2032,ADEMLDITRADOMRAI______,584.1871126165993,M pkm,Aggregated DemandLong DistanceTransportationDomesticRail
+TO,2032,ADEMLDITRAINTROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadCars
+TO,2032,ADEMLDITRAINTROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadTruckPassenger Light Trucks
+TO,2032,ADEMLDITRAINTROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadInter-city BusesInter Urban Bus
+TO,2032,ADEMLDITRAINTAIR______,481.7490222368278,M pkm,Aggregated DemandLong DistanceTransportationInternationalAir
+TO,2032,ADEMLDITRAINTRAI______,369.8265219830207,M pkm,Aggregated DemandLong DistanceTransportationInternationalRail
+TO,2033,ADEMLDITRADOMROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadCars
+TO,2033,ADEMLDITRADOMROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadTruckPassenger Light Trucks
+TO,2033,ADEMLDITRADOMROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadInter-city BusesInter Urban Bus
+TO,2033,ADEMLDITRADOMAIR______,770.0419770231031,M pkm,Aggregated DemandLong DistanceTransportationDomesticAir
+TO,2033,ADEMLDITRADOMRAI______,591.1417211001303,M pkm,Aggregated DemandLong DistanceTransportationDomesticRail
+TO,2033,ADEMLDITRAINTROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadCars
+TO,2033,ADEMLDITRAINTROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadTruckPassenger Light Trucks
+TO,2033,ADEMLDITRAINTROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadInter-city BusesInter Urban Bus
+TO,2033,ADEMLDITRAINTAIR______,487.4841296444091,M pkm,Aggregated DemandLong DistanceTransportationInternationalAir
+TO,2033,ADEMLDITRAINTRAI______,374.2292186732948,M pkm,Aggregated DemandLong DistanceTransportationInternationalRail
+TO,2034,ADEMLDITRADOMROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadCars
+TO,2034,ADEMLDITRADOMROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadTruckPassenger Light Trucks
+TO,2034,ADEMLDITRADOMROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadInter-city BusesInter Urban Bus
+TO,2034,ADEMLDITRADOMAIR______,779.1012943998454,M pkm,Aggregated DemandLong DistanceTransportationDomesticAir
+TO,2034,ADEMLDITRADOMRAI______,598.0963295836611,M pkm,Aggregated DemandLong DistanceTransportationDomesticRail
+TO,2034,ADEMLDITRAINTROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadCars
+TO,2034,ADEMLDITRAINTROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadTruckPassenger Light Trucks
+TO,2034,ADEMLDITRAINTROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadInter-city BusesInter Urban Bus
+TO,2034,ADEMLDITRAINTAIR______,493.2192370519904,M pkm,Aggregated DemandLong DistanceTransportationInternationalAir
+TO,2034,ADEMLDITRAINTRAI______,378.63191536356885,M pkm,Aggregated DemandLong DistanceTransportationInternationalRail
+TO,2035,ADEMLDITRADOMROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadCars
+TO,2035,ADEMLDITRADOMROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadTruckPassenger Light Trucks
+TO,2035,ADEMLDITRADOMROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadInter-city BusesInter Urban Bus
+TO,2035,ADEMLDITRADOMAIR______,788.1606117765879,M pkm,Aggregated DemandLong DistanceTransportationDomesticAir
+TO,2035,ADEMLDITRADOMRAI______,605.0509380671922,M pkm,Aggregated DemandLong DistanceTransportationDomesticRail
+TO,2035,ADEMLDITRAINTROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadCars
+TO,2035,ADEMLDITRAINTROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadTruckPassenger Light Trucks
+TO,2035,ADEMLDITRAINTROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadInter-city BusesInter Urban Bus
+TO,2035,ADEMLDITRAINTAIR______,498.95434445957164,M pkm,Aggregated DemandLong DistanceTransportationInternationalAir
+TO,2035,ADEMLDITRAINTRAI______,383.0346120538429,M pkm,Aggregated DemandLong DistanceTransportationInternationalRail
+TO,2036,ADEMLDITRADOMROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadCars
+TO,2036,ADEMLDITRADOMROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadTruckPassenger Light Trucks
+TO,2036,ADEMLDITRADOMROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadInter-city BusesInter Urban Bus
+TO,2036,ADEMLDITRADOMAIR______,797.2199291533302,M pkm,Aggregated DemandLong DistanceTransportationDomesticAir
+TO,2036,ADEMLDITRADOMRAI______,612.0055465507231,M pkm,Aggregated DemandLong DistanceTransportationDomesticRail
+TO,2036,ADEMLDITRAINTROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadCars
+TO,2036,ADEMLDITRAINTROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadTruckPassenger Light Trucks
+TO,2036,ADEMLDITRAINTROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadInter-city BusesInter Urban Bus
+TO,2036,ADEMLDITRAINTAIR______,504.6894518671529,M pkm,Aggregated DemandLong DistanceTransportationInternationalAir
+TO,2036,ADEMLDITRAINTRAI______,387.43730874411693,M pkm,Aggregated DemandLong DistanceTransportationInternationalRail
+TO,2037,ADEMLDITRADOMROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadCars
+TO,2037,ADEMLDITRADOMROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadTruckPassenger Light Trucks
+TO,2037,ADEMLDITRADOMROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadInter-city BusesInter Urban Bus
+TO,2037,ADEMLDITRADOMAIR______,806.2792465300727,M pkm,Aggregated DemandLong DistanceTransportationDomesticAir
+TO,2037,ADEMLDITRADOMRAI______,618.9601550342541,M pkm,Aggregated DemandLong DistanceTransportationDomesticRail
+TO,2037,ADEMLDITRAINTROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadCars
+TO,2037,ADEMLDITRAINTROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadTruckPassenger Light Trucks
+TO,2037,ADEMLDITRAINTROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadInter-city BusesInter Urban Bus
+TO,2037,ADEMLDITRAINTAIR______,510.4245592747342,M pkm,Aggregated DemandLong DistanceTransportationInternationalAir
+TO,2037,ADEMLDITRAINTRAI______,391.840005434391,M pkm,Aggregated DemandLong DistanceTransportationInternationalRail
+TO,2038,ADEMLDITRADOMROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadCars
+TO,2038,ADEMLDITRADOMROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadTruckPassenger Light Trucks
+TO,2038,ADEMLDITRADOMROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadInter-city BusesInter Urban Bus
+TO,2038,ADEMLDITRADOMAIR______,815.338563906815,M pkm,Aggregated DemandLong DistanceTransportationDomesticAir
+TO,2038,ADEMLDITRADOMRAI______,625.914763517785,M pkm,Aggregated DemandLong DistanceTransportationDomesticRail
+TO,2038,ADEMLDITRAINTROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadCars
+TO,2038,ADEMLDITRAINTROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadTruckPassenger Light Trucks
+TO,2038,ADEMLDITRAINTROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadInter-city BusesInter Urban Bus
+TO,2038,ADEMLDITRAINTAIR______,516.1596666823154,M pkm,Aggregated DemandLong DistanceTransportationInternationalAir
+TO,2038,ADEMLDITRAINTRAI______,396.2427021246651,M pkm,Aggregated DemandLong DistanceTransportationInternationalRail
+TO,2039,ADEMLDITRADOMROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadCars
+TO,2039,ADEMLDITRADOMROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadTruckPassenger Light Trucks
+TO,2039,ADEMLDITRADOMROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadInter-city BusesInter Urban Bus
+TO,2039,ADEMLDITRADOMAIR______,824.3978812835574,M pkm,Aggregated DemandLong DistanceTransportationDomesticAir
+TO,2039,ADEMLDITRADOMRAI______,632.8693720013159,M pkm,Aggregated DemandLong DistanceTransportationDomesticRail
+TO,2039,ADEMLDITRAINTROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadCars
+TO,2039,ADEMLDITRAINTROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadTruckPassenger Light Trucks
+TO,2039,ADEMLDITRAINTROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadInter-city BusesInter Urban Bus
+TO,2039,ADEMLDITRAINTAIR______,521.8947740898968,M pkm,Aggregated DemandLong DistanceTransportationInternationalAir
+TO,2039,ADEMLDITRAINTRAI______,400.6453988149391,M pkm,Aggregated DemandLong DistanceTransportationInternationalRail
+TO,2040,ADEMLDITRADOMROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadCars
+TO,2040,ADEMLDITRADOMROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadTruckPassenger Light Trucks
+TO,2040,ADEMLDITRADOMROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadInter-city BusesInter Urban Bus
+TO,2040,ADEMLDITRADOMAIR______,833.4571986602998,M pkm,Aggregated DemandLong DistanceTransportationDomesticAir
+TO,2040,ADEMLDITRADOMRAI______,639.8239804848469,M pkm,Aggregated DemandLong DistanceTransportationDomesticRail
+TO,2040,ADEMLDITRAINTROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadCars
+TO,2040,ADEMLDITRAINTROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadTruckPassenger Light Trucks
+TO,2040,ADEMLDITRAINTROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadInter-city BusesInter Urban Bus
+TO,2040,ADEMLDITRAINTAIR______,527.6298814974781,M pkm,Aggregated DemandLong DistanceTransportationInternationalAir
+TO,2040,ADEMLDITRAINTRAI______,405.04809550521315,M pkm,Aggregated DemandLong DistanceTransportationInternationalRail
+TO,2041,ADEMLDITRADOMROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadCars
+TO,2041,ADEMLDITRADOMROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadTruckPassenger Light Trucks
+TO,2041,ADEMLDITRADOMROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadInter-city BusesInter Urban Bus
+TO,2041,ADEMLDITRADOMAIR______,842.5165160370422,M pkm,Aggregated DemandLong DistanceTransportationDomesticAir
+TO,2041,ADEMLDITRADOMRAI______,646.7785889683778,M pkm,Aggregated DemandLong DistanceTransportationDomesticRail
+TO,2041,ADEMLDITRAINTROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadCars
+TO,2041,ADEMLDITRAINTROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadTruckPassenger Light Trucks
+TO,2041,ADEMLDITRAINTROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadInter-city BusesInter Urban Bus
+TO,2041,ADEMLDITRAINTAIR______,533.3649889050594,M pkm,Aggregated DemandLong DistanceTransportationInternationalAir
+TO,2041,ADEMLDITRAINTRAI______,409.4507921954872,M pkm,Aggregated DemandLong DistanceTransportationInternationalRail
+TO,2042,ADEMLDITRADOMROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadCars
+TO,2042,ADEMLDITRADOMROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadTruckPassenger Light Trucks
+TO,2042,ADEMLDITRADOMROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadInter-city BusesInter Urban Bus
+TO,2042,ADEMLDITRADOMAIR______,851.5758334137845,M pkm,Aggregated DemandLong DistanceTransportationDomesticAir
+TO,2042,ADEMLDITRADOMRAI______,653.7331974519087,M pkm,Aggregated DemandLong DistanceTransportationDomesticRail
+TO,2042,ADEMLDITRAINTROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadCars
+TO,2042,ADEMLDITRAINTROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadTruckPassenger Light Trucks
+TO,2042,ADEMLDITRAINTROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadInter-city BusesInter Urban Bus
+TO,2042,ADEMLDITRAINTAIR______,539.1000963126406,M pkm,Aggregated DemandLong DistanceTransportationInternationalAir
+TO,2042,ADEMLDITRAINTRAI______,413.8534888857613,M pkm,Aggregated DemandLong DistanceTransportationInternationalRail
+TO,2043,ADEMLDITRADOMROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadCars
+TO,2043,ADEMLDITRADOMROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadTruckPassenger Light Trucks
+TO,2043,ADEMLDITRADOMROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadInter-city BusesInter Urban Bus
+TO,2043,ADEMLDITRADOMAIR______,860.635150790527,M pkm,Aggregated DemandLong DistanceTransportationDomesticAir
+TO,2043,ADEMLDITRADOMRAI______,660.6878059354397,M pkm,Aggregated DemandLong DistanceTransportationDomesticRail
+TO,2043,ADEMLDITRAINTROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadCars
+TO,2043,ADEMLDITRAINTROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadTruckPassenger Light Trucks
+TO,2043,ADEMLDITRAINTROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadInter-city BusesInter Urban Bus
+TO,2043,ADEMLDITRAINTAIR______,544.8352037202219,M pkm,Aggregated DemandLong DistanceTransportationInternationalAir
+TO,2043,ADEMLDITRAINTRAI______,418.25618557603536,M pkm,Aggregated DemandLong DistanceTransportationInternationalRail
+TO,2044,ADEMLDITRADOMROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadCars
+TO,2044,ADEMLDITRADOMROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadTruckPassenger Light Trucks
+TO,2044,ADEMLDITRADOMROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadInter-city BusesInter Urban Bus
+TO,2044,ADEMLDITRADOMAIR______,869.6944681672694,M pkm,Aggregated DemandLong DistanceTransportationDomesticAir
+TO,2044,ADEMLDITRADOMRAI______,667.6424144189707,M pkm,Aggregated DemandLong DistanceTransportationDomesticRail
+TO,2044,ADEMLDITRAINTROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadCars
+TO,2044,ADEMLDITRAINTROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadTruckPassenger Light Trucks
+TO,2044,ADEMLDITRAINTROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadInter-city BusesInter Urban Bus
+TO,2044,ADEMLDITRAINTAIR______,550.5703111278032,M pkm,Aggregated DemandLong DistanceTransportationInternationalAir
+TO,2044,ADEMLDITRAINTRAI______,422.65888226630943,M pkm,Aggregated DemandLong DistanceTransportationInternationalRail
+TO,2045,ADEMLDITRADOMROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadCars
+TO,2045,ADEMLDITRADOMROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadTruckPassenger Light Trucks
+TO,2045,ADEMLDITRADOMROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadInter-city BusesInter Urban Bus
+TO,2045,ADEMLDITRADOMAIR______,878.7537855440117,M pkm,Aggregated DemandLong DistanceTransportationDomesticAir
+TO,2045,ADEMLDITRADOMRAI______,674.5970229025015,M pkm,Aggregated DemandLong DistanceTransportationDomesticRail
+TO,2045,ADEMLDITRAINTROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadCars
+TO,2045,ADEMLDITRAINTROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadTruckPassenger Light Trucks
+TO,2045,ADEMLDITRAINTROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadInter-city BusesInter Urban Bus
+TO,2045,ADEMLDITRAINTAIR______,556.3054185353844,M pkm,Aggregated DemandLong DistanceTransportationInternationalAir
+TO,2045,ADEMLDITRAINTRAI______,427.06157895658345,M pkm,Aggregated DemandLong DistanceTransportationInternationalRail
+TO,2046,ADEMLDITRADOMROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadCars
+TO,2046,ADEMLDITRADOMROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadTruckPassenger Light Trucks
+TO,2046,ADEMLDITRADOMROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadInter-city BusesInter Urban Bus
+TO,2046,ADEMLDITRADOMAIR______,887.8131029207541,M pkm,Aggregated DemandLong DistanceTransportationDomesticAir
+TO,2046,ADEMLDITRADOMRAI______,681.5516313860326,M pkm,Aggregated DemandLong DistanceTransportationDomesticRail
+TO,2046,ADEMLDITRAINTROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadCars
+TO,2046,ADEMLDITRAINTROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadTruckPassenger Light Trucks
+TO,2046,ADEMLDITRAINTROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadInter-city BusesInter Urban Bus
+TO,2046,ADEMLDITRAINTAIR______,562.0405259429658,M pkm,Aggregated DemandLong DistanceTransportationInternationalAir
+TO,2046,ADEMLDITRAINTRAI______,431.4642756468575,M pkm,Aggregated DemandLong DistanceTransportationInternationalRail
+TO,2047,ADEMLDITRADOMROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadCars
+TO,2047,ADEMLDITRADOMROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadTruckPassenger Light Trucks
+TO,2047,ADEMLDITRADOMROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadInter-city BusesInter Urban Bus
+TO,2047,ADEMLDITRADOMAIR______,896.8724202974965,M pkm,Aggregated DemandLong DistanceTransportationDomesticAir
+TO,2047,ADEMLDITRADOMRAI______,688.5062398695635,M pkm,Aggregated DemandLong DistanceTransportationDomesticRail
+TO,2047,ADEMLDITRAINTROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadCars
+TO,2047,ADEMLDITRAINTROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadTruckPassenger Light Trucks
+TO,2047,ADEMLDITRAINTROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadInter-city BusesInter Urban Bus
+TO,2047,ADEMLDITRAINTAIR______,567.775633350547,M pkm,Aggregated DemandLong DistanceTransportationInternationalAir
+TO,2047,ADEMLDITRAINTRAI______,435.86697233713153,M pkm,Aggregated DemandLong DistanceTransportationInternationalRail
+TO,2048,ADEMLDITRADOMROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadCars
+TO,2048,ADEMLDITRADOMROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadTruckPassenger Light Trucks
+TO,2048,ADEMLDITRADOMROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadInter-city BusesInter Urban Bus
+TO,2048,ADEMLDITRADOMAIR______,905.9317376742389,M pkm,Aggregated DemandLong DistanceTransportationDomesticAir
+TO,2048,ADEMLDITRADOMRAI______,695.4608483530944,M pkm,Aggregated DemandLong DistanceTransportationDomesticRail
+TO,2048,ADEMLDITRAINTROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadCars
+TO,2048,ADEMLDITRAINTROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadTruckPassenger Light Trucks
+TO,2048,ADEMLDITRAINTROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadInter-city BusesInter Urban Bus
+TO,2048,ADEMLDITRAINTAIR______,573.5107407581283,M pkm,Aggregated DemandLong DistanceTransportationInternationalAir
+TO,2048,ADEMLDITRAINTRAI______,440.2696690274056,M pkm,Aggregated DemandLong DistanceTransportationInternationalRail
+TO,2049,ADEMLDITRADOMROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadCars
+TO,2049,ADEMLDITRADOMROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadTruckPassenger Light Trucks
+TO,2049,ADEMLDITRADOMROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadInter-city BusesInter Urban Bus
+TO,2049,ADEMLDITRADOMAIR______,914.9910550509812,M pkm,Aggregated DemandLong DistanceTransportationDomesticAir
+TO,2049,ADEMLDITRADOMRAI______,702.4154568366254,M pkm,Aggregated DemandLong DistanceTransportationDomesticRail
+TO,2049,ADEMLDITRAINTROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadCars
+TO,2049,ADEMLDITRAINTROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadTruckPassenger Light Trucks
+TO,2049,ADEMLDITRAINTROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadInter-city BusesInter Urban Bus
+TO,2049,ADEMLDITRAINTAIR______,579.2458481657096,M pkm,Aggregated DemandLong DistanceTransportationInternationalAir
+TO,2049,ADEMLDITRAINTRAI______,444.67236571767967,M pkm,Aggregated DemandLong DistanceTransportationInternationalRail
+TO,2050,ADEMLDITRADOMROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadCars
+TO,2050,ADEMLDITRADOMROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadTruckPassenger Light Trucks
+TO,2050,ADEMLDITRADOMROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationDomesticRoadInter-city BusesInter Urban Bus
+TO,2050,ADEMLDITRADOMAIR______,924.0503724277237,M pkm,Aggregated DemandLong DistanceTransportationDomesticAir
+TO,2050,ADEMLDITRADOMRAI______,709.3700653201563,M pkm,Aggregated DemandLong DistanceTransportationDomesticRail
+TO,2050,ADEMLDITRAINTROACAR___,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadCars
+TO,2050,ADEMLDITRAINTROATRULGT,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadTruckPassenger Light Trucks
+TO,2050,ADEMLDITRAINTROABUSIUB,0.0,M pkm,Aggregated DemandLong DistanceTransportationInternationalRoadInter-city BusesInter Urban Bus
+TO,2050,ADEMLDITRAINTAIR______,584.9809555732909,M pkm,Aggregated DemandLong DistanceTransportationInternationalAir
+TO,2050,ADEMLDITRAINTRAI______,449.07506240795374,M pkm,Aggregated DemandLong DistanceTransportationInternationalRail

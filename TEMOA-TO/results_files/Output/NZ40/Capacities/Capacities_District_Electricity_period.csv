@@ -1,0 +1,218 @@
+Capacity of district electricity generation per period (MW)
+t_periods,Sub,Sector,Tech_cat,Tech_type_1,Tech_type_2,Tech_type_3,Capacity_units,Capacities
+2023,Commercial,Building,Production,PV pannel,Decentralized,Best potential,MW,150.35961625520216
+2023,Commercial,Building,Production,PV pannel,Decentralized,Medium potential,MW,150.35769897059703
+2023,Commercial,Building,Production,PV pannel,Decentralized,Poor potential,MW,89.8239915000031
+2023,Commercial,Building,Production,Wind Turbine,Decentralized,Standard,MW,73.71227247940453
+2023,Commercial,Building,Storage,Battery,Decentralized,1 Hour Autonomy,MW,0.17983091951943692
+2023,Commercial,Building,Storage,Battery,Decentralized,4 Hour Autonomy,MW,0.11732469645712976
+2023,Commercial,Building,Storage,Battery,Decentralized,8 Hour Autonomy,MW,0.08284488942048658
+2023,Industrial,Building,Production,PV pannel,Decentralized,Best potential,MW,32.857529214403066
+2023,Industrial,Building,Production,PV pannel,Decentralized,Medium potential,MW,32.81488719890788
+2023,Industrial,Building,Production,PV pannel,Decentralized,Poor potential,MW,32.796240421549626
+2023,Industrial,Building,Production,Wind Turbine,Decentralized,Standard,MW,0.2883159400692593
+2023,Industrial,Building,Storage,Battery,Decentralized,1 Hour Autonomy,MW,0.1905164096203826
+2023,Industrial,Building,Storage,Battery,Decentralized,4 Hour Autonomy,MW,0.1919828774893085
+2023,Industrial,Building,Storage,Battery,Decentralized,8 Hour Autonomy,MW,6.961961422704457
+2023,Public,Building,Production,PV pannel,Decentralized,Best potential,MW,32.18646104137802
+2023,Public,Building,Production,PV pannel,Decentralized,Medium potential,MW,13.46015366288325
+2023,Public,Building,Production,PV pannel,Decentralized,Poor potential,MW,13.142176948657715
+2023,Public,Building,Production,Wind Turbine,Decentralized,Standard,MW,10.65772057976428
+2023,Public,Building,Storage,Battery,Decentralized,1 Hour Autonomy,MW,0.17636974121457624
+2023,Public,Building,Storage,Battery,Decentralized,4 Hour Autonomy,MW,0.11611877637543117
+2023,Public,Building,Storage,Battery,Decentralized,8 Hour Autonomy,MW,0.08185357945178018
+2023,Residential,Building,Production,PV pannel,Decentralized,Best potential,MW,85.72682933875573
+2023,Residential,Building,Production,PV pannel,Decentralized,Medium potential,MW,55.242778784116815
+2023,Residential,Building,Production,PV pannel,Decentralized,Poor potential,MW,55.24132058433116
+2023,Residential,Building,Production,Wind Turbine,Decentralized,Standard,MW,91.38836073040603
+2023,Residential,Building,Storage,Battery,Decentralized,4 Hour Autonomy,MW,0.06365851214756885
+2023,Residential,Building,Storage,Battery,Decentralized,8 Hour Autonomy,MW,23.678630447208736
+2024,Commercial,Building,Production,PV pannel,Decentralized,Best potential,MW,180.4312178526056
+2024,Commercial,Building,Production,PV pannel,Decentralized,Medium potential,MW,180.42856225477576
+2024,Commercial,Building,Production,PV pannel,Decentralized,Poor potential,MW,107.7878231051983
+2024,Commercial,Building,Production,Wind Turbine,Decentralized,Standard,MW,88.4540208537612
+2024,Commercial,Building,Storage,Battery,Decentralized,1 Hour Autonomy,MW,0.21568906898382917
+2024,Commercial,Building,Storage,Battery,Decentralized,4 Hour Autonomy,MW,0.14072726316770767
+2024,Commercial,Building,Storage,Battery,Decentralized,8 Hour Autonomy,MW,0.09936727403992208
+2024,Industrial,Building,Production,PV pannel,Decentralized,Best potential,MW,39.428065150440005
+2024,Industrial,Building,Production,PV pannel,Decentralized,Medium potential,MW,39.37693743277538
+2024,Industrial,Building,Production,PV pannel,Decentralized,Poor potential,MW,39.354570991354066
+2024,Industrial,Building,Production,Wind Turbine,Decentralized,Standard,MW,0.34576287030693986
+2024,Industrial,Building,Storage,Battery,Decentralized,1 Hour Autonomy,MW,0.22851085815090075
+2024,Industrial,Building,Storage,Battery,Decentralized,4 Hour Autonomy,MW,0.23028121862105624
+2024,Industrial,Building,Storage,Battery,Decentralized,8 Hour Autonomy,MW,8.354090478201071
+2024,Public,Building,Production,PV pannel,Decentralized,Best potential,MW,38.62285936231935
+2024,Public,Building,Production,PV pannel,Decentralized,Medium potential,MW,16.15131382897352
+2024,Public,Building,Production,PV pannel,Decentralized,Poor potential,MW,15.76978507373742
+2024,Public,Building,Production,Wind Turbine,Decentralized,Standard,MW,12.78869086625996
+2024,Public,Building,Storage,Battery,Decentralized,1 Hour Autonomy,MW,0.21153796710085895
+2024,Public,Building,Storage,Battery,Decentralized,4 Hour Autonomy,MW,0.13927619218198875
+2024,Public,Building,Storage,Battery,Decentralized,8 Hour Autonomy,MW,0.098175477593094
+2024,Residential,Building,Production,PV pannel,Decentralized,Best potential,MW,102.87150356605522
+2024,Residential,Building,Production,PV pannel,Decentralized,Medium potential,MW,66.29067797053021
+2024,Residential,Building,Production,PV pannel,Decentralized,Poor potential,MW,66.2889402485284
+2024,Residential,Building,Production,Wind Turbine,Decentralized,Standard,MW,109.66520956617056
+2024,Residential,Building,Storage,Battery,Decentralized,4 Hour Autonomy,MW,0.07634957523634146
+2024,Residential,Building,Storage,Battery,Decentralized,8 Hour Autonomy,MW,28.414008420025027
+2025,Commercial,Building,Production,PV pannel,Decentralized,Best potential,MW,216.51716468222693
+2025,Commercial,Building,Production,PV pannel,Decentralized,Medium potential,MW,216.51379593986303
+2025,Commercial,Building,Production,PV pannel,Decentralized,Poor potential,MW,129.34480209682573
+2025,Commercial,Building,Production,Wind Turbine,Decentralized,Standard,MW,106.1443693046021
+2025,Commercial,Building,Storage,Battery,Decentralized,1 Hour Autonomy,MW,0.25857632373049944
+2025,Commercial,Building,Storage,Battery,Decentralized,4 Hour Autonomy,MW,0.16875006616985863
+2025,Commercial,Building,Storage,Battery,Decentralized,8 Hour Autonomy,MW,0.11914223308358483
+2025,Industrial,Building,Production,PV pannel,Decentralized,Best potential,MW,47.312878068151285
+2025,Industrial,Building,Production,PV pannel,Decentralized,Medium potential,MW,47.2515797425919
+2025,Industrial,Building,Production,PV pannel,Decentralized,Poor potential,MW,47.224769979998285
+2025,Industrial,Building,Production,Wind Turbine,Decentralized,Standard,MW,0.4146487655302475
+2025,Industrial,Building,Storage,Battery,Decentralized,1 Hour Autonomy,MW,0.2739775522480867
+2025,Industrial,Building,Storage,Battery,Decentralized,4 Hour Autonomy,MW,0.2761690826634487
+2025,Industrial,Building,Storage,Battery,Decentralized,8 Hour Autonomy,MW,10.024689853609477
+2025,Public,Building,Production,PV pannel,Decentralized,Best potential,MW,46.346770582691626
+2025,Public,Building,Production,PV pannel,Decentralized,Medium potential,MW,19.38093404233837
+2025,Public,Building,Production,PV pannel,Decentralized,Poor potential,MW,18.92311888717341
+2025,Public,Building,Production,Wind Turbine,Decentralized,Standard,MW,15.345905607164315
+2025,Public,Building,Storage,Battery,Decentralized,1 Hour Autonomy,MW,0.2536036269904005
+2025,Public,Building,Storage,Battery,Decentralized,4 Hour Autonomy,MW,0.1669908892332297
+2025,Public,Building,Storage,Battery,Decentralized,8 Hour Autonomy,MW,0.11770467095194792
+2025,Residential,Building,Production,PV pannel,Decentralized,Best potential,MW,123.44536487640792
+2025,Residential,Building,Production,PV pannel,Decentralized,Medium potential,MW,79.54837783005337
+2025,Residential,Building,Production,PV pannel,Decentralized,Poor potential,MW,79.54629778766748
+2025,Residential,Building,Production,Wind Turbine,Decentralized,Standard,MW,131.59763157292343
+2025,Residential,Building,Storage,Battery,Decentralized,4 Hour Autonomy,MW,0.09152628210540124
+2025,Residential,Building,Storage,Battery,Decentralized,8 Hour Autonomy,MW,34.09654864835527
+2030,Commercial,Building,Production,PV pannel,Decentralized,Best potential,MW,538.7635074166765
+2030,Commercial,Building,Production,PV pannel,Decentralized,Medium potential,MW,538.7550056421334
+2030,Commercial,Building,Production,PV pannel,Decentralized,Poor potential,MW,321.85062332790847
+2030,Commercial,Building,Production,Wind Turbine,Decentralized,Standard,MW,264.11855206738954
+2030,Commercial,Building,Storage,Battery,Decentralized,1 Hour Autonomy,MW,0.4010844959690142
+2030,Commercial,Building,Storage,Battery,Decentralized,4 Hour Autonomy,MW,0.26557647579215077
+2030,Commercial,Building,Storage,Battery,Decentralized,8 Hour Autonomy,MW,0.18832213961050043
+2030,Industrial,Building,Production,PV pannel,Decentralized,Best potential,MW,117.7235069786414
+2030,Industrial,Building,Production,PV pannel,Decentralized,Medium potential,MW,117.57163410234008
+2030,Industrial,Building,Production,PV pannel,Decentralized,Poor potential,MW,117.50546317771492
+2030,Industrial,Building,Production,Wind Turbine,Decentralized,Standard,MW,1.0056049227449602
+2030,Industrial,Building,Storage,Battery,Decentralized,1 Hour Autonomy,MW,0.44539759217051633
+2030,Industrial,Building,Storage,Battery,Decentralized,4 Hour Autonomy,MW,0.6496842073066496
+2030,Industrial,Building,Storage,Battery,Decentralized,8 Hour Autonomy,MW,24.92675847982111
+2030,Public,Building,Production,PV pannel,Decentralized,Best potential,MW,115.32064576988093
+2030,Public,Building,Production,PV pannel,Decentralized,Medium potential,MW,48.22145390672581
+2030,Public,Building,Production,PV pannel,Decentralized,Poor potential,MW,47.08266266471863
+2030,Public,Building,Production,Wind Turbine,Decentralized,Standard,MW,38.18086279568506
+2030,Public,Building,Storage,Battery,Decentralized,1 Hour Autonomy,MW,0.3901657134532426
+2030,Public,Building,Storage,Battery,Decentralized,4 Hour Autonomy,MW,0.2543251364805186
+2030,Public,Building,Storage,Battery,Decentralized,8 Hour Autonomy,MW,0.18026657936087223
+2030,Residential,Building,Production,PV pannel,Decentralized,Best potential,MW,307.1712114464402
+2030,Residential,Building,Production,PV pannel,Decentralized,Medium potential,MW,197.94144558330265
+2030,Residential,Building,Production,PV pannel,Decentralized,Poor potential,MW,197.93626320744687
+2030,Residential,Building,Production,Wind Turbine,Decentralized,Standard,MW,327.45644750568675
+2030,Residential,Building,Storage,Battery,Decentralized,4 Hour Autonomy,MW,0.1524571870138749
+2030,Residential,Building,Storage,Battery,Decentralized,8 Hour Autonomy,MW,84.8338706005547
+2035,Commercial,Building,Production,PV pannel,Decentralized,Best potential,MW,799.6037651231312
+2035,Commercial,Building,Production,PV pannel,Decentralized,Medium potential,MW,799.5995591236585
+2035,Commercial,Building,Production,PV pannel,Decentralized,Poor potential,MW,799.5929931477965
+2035,Commercial,Building,Production,Wind Turbine,Decentralized,Standard,MW,657.2026995645939
+2035,Commercial,Building,Storage,Battery,Decentralized,1 Hour Autonomy,MW,0.6119248820593376
+2035,Commercial,Building,Storage,Battery,Decentralized,4 Hour Autonomy,MW,0.41932428944270805
+2035,Commercial,Building,Storage,Battery,Decentralized,8 Hour Autonomy,MW,0.29183078334736423
+2035,Industrial,Building,Production,PV pannel,Decentralized,Best potential,MW,292.56684114787936
+2035,Industrial,Building,Production,PV pannel,Decentralized,Medium potential,MW,292.51897484701766
+2035,Industrial,Building,Production,PV pannel,Decentralized,Poor potential,MW,292.3713847841317
+2035,Industrial,Building,Production,Wind Turbine,Decentralized,Standard,MW,2.4743459558883236
+2035,Industrial,Building,Storage,Battery,Decentralized,1 Hour Autonomy,MW,0.7200722993337656
+2035,Industrial,Building,Storage,Battery,Decentralized,4 Hour Autonomy,MW,1.601342527309066
+2035,Industrial,Building,Storage,Battery,Decentralized,8 Hour Autonomy,MW,62.00727773056851
+2035,Public,Building,Production,PV pannel,Decentralized,Best potential,MW,115.45350014621874
+2035,Public,Building,Production,PV pannel,Decentralized,Medium potential,MW,115.449330614349
+2035,Public,Building,Production,PV pannel,Decentralized,Poor potential,MW,115.4441621034789
+2035,Public,Building,Production,Wind Turbine,Decentralized,Standard,MW,94.88562654952064
+2035,Public,Building,Storage,Battery,Decentralized,1 Hour Autonomy,MW,0.5887245540212944
+2035,Public,Building,Storage,Battery,Decentralized,4 Hour Autonomy,MW,0.3844401019986149
+2035,Public,Building,Storage,Battery,Decentralized,8 Hour Autonomy,MW,0.2679513267940073
+2035,Residential,Building,Production,PV pannel,Decentralized,Best potential,MW,764.3325925830416
+2035,Residential,Building,Production,PV pannel,Decentralized,Medium potential,MW,492.5376479994076
+2035,Residential,Building,Production,PV pannel,Decentralized,Poor potential,MW,492.5234407639223
+2035,Residential,Building,Production,Wind Turbine,Decentralized,Standard,MW,814.8105263064253
+2035,Residential,Building,Storage,Battery,Decentralized,4 Hour Autonomy,MW,0.288003044476717
+2035,Residential,Building,Storage,Battery,Decentralized,8 Hour Autonomy,MW,211.0833408738557
+2040,Commercial,Building,Production,PV pannel,Decentralized,Best potential,MW,799.6187991576794
+2040,Commercial,Building,Production,PV pannel,Decentralized,Medium potential,MW,799.617346021989
+2040,Commercial,Building,Production,PV pannel,Decentralized,Poor potential,MW,799.615233666669
+2040,Commercial,Building,Production,Wind Turbine,Decentralized,Standard,MW,657.2188469992185
+2040,Commercial,Building,Storage,Battery,Decentralized,1 Hour Autonomy,MW,0.7971691502106795
+2040,Commercial,Building,Storage,Battery,Decentralized,4 Hour Autonomy,MW,0.555747244306946
+2040,Commercial,Building,Storage,Battery,Decentralized,8 Hour Autonomy,MW,0.3859699239203974
+2040,Industrial,Building,Production,PV pannel,Decentralized,Best potential,MW,292.62349100526035
+2040,Industrial,Building,Production,PV pannel,Decentralized,Medium potential,MW,292.60610612614596
+2040,Industrial,Building,Production,PV pannel,Decentralized,Poor potential,MW,292.5626459396698
+2040,Industrial,Building,Production,Wind Turbine,Decentralized,Standard,MW,6.147728296469895
+2040,Industrial,Building,Storage,Battery,Decentralized,1 Hour Autonomy,MW,1.1038196483131006
+2040,Industrial,Building,Storage,Battery,Decentralized,4 Hour Autonomy,MW,3.966778025567022
+2040,Industrial,Building,Storage,Battery,Decentralized,8 Hour Autonomy,MW,154.2641985409651
+2040,Public,Building,Production,PV pannel,Decentralized,Best potential,MW,115.4646075210078
+2040,Public,Building,Production,PV pannel,Decentralized,Medium potential,MW,115.46321031012104
+2040,Public,Building,Production,PV pannel,Decentralized,Poor potential,MW,115.46145731668084
+2040,Public,Building,Production,Wind Turbine,Decentralized,Standard,MW,94.89996887760348
+2040,Public,Building,Storage,Battery,Decentralized,1 Hour Autonomy,MW,0.7668188606684736
+2040,Public,Building,Storage,Battery,Decentralized,4 Hour Autonomy,MW,0.5039867530641544
+2040,Public,Building,Storage,Battery,Decentralized,8 Hour Autonomy,MW,0.35034573743962943
+2040,Residential,Building,Production,PV pannel,Decentralized,Best potential,MW,1225.547361520366
+2040,Residential,Building,Production,PV pannel,Decentralized,Medium potential,MW,1225.541199777462
+2040,Residential,Building,Production,PV pannel,Decentralized,Poor potential,MW,1225.5310753374329
+2040,Residential,Building,Production,Wind Turbine,Decentralized,Standard,MW,1007.3035573035446
+2040,Residential,Building,Storage,Battery,Decentralized,4 Hour Autonomy,MW,0.434190752430065
+2040,Residential,Building,Storage,Battery,Decentralized,8 Hour Autonomy,MW,525.2039087657921
+2045,Commercial,Building,Production,PV pannel,Decentralized,Best potential,MW,799.6245170878813
+2045,Commercial,Building,Production,PV pannel,Decentralized,Medium potential,MW,799.6240915377188
+2045,Commercial,Building,Production,PV pannel,Decentralized,Poor potential,MW,799.6234849659618
+2045,Commercial,Building,Production,Wind Turbine,Decentralized,Standard,MW,657.2249581839327
+2045,Commercial,Building,Storage,Battery,Decentralized,1 Hour Autonomy,MW,1.0103494377990487
+2045,Commercial,Building,Storage,Battery,Decentralized,4 Hour Autonomy,MW,0.7201713330440722
+2045,Commercial,Building,Storage,Battery,Decentralized,8 Hour Autonomy,MW,0.4981127993397494
+2045,Industrial,Building,Production,PV pannel,Decentralized,Best potential,MW,292.6505339449776
+2045,Industrial,Building,Production,PV pannel,Decentralized,Medium potential,MW,292.64528527458657
+2045,Industrial,Building,Production,PV pannel,Decentralized,Poor potential,MW,292.6330562029745
+2045,Industrial,Building,Production,Wind Turbine,Decentralized,Standard,MW,15.275424291870282
+2045,Industrial,Building,Storage,Battery,Decentralized,1 Hour Autonomy,MW,1.42125950917064
+2045,Industrial,Building,Storage,Battery,Decentralized,4 Hour Autonomy,MW,4.568568912332392
+2045,Industrial,Building,Storage,Battery,Decentralized,8 Hour Autonomy,MW,238.05937258672049
+2045,Public,Building,Production,PV pannel,Decentralized,Best potential,MW,115.46928626932647
+2045,Public,Building,Production,PV pannel,Decentralized,Medium potential,MW,115.46888217336988
+2045,Public,Building,Production,PV pannel,Decentralized,Poor potential,MW,115.46837169647324
+2045,Public,Building,Production,Wind Turbine,Decentralized,Standard,MW,94.90550448619744
+2045,Public,Building,Storage,Battery,Decentralized,1 Hour Autonomy,MW,0.9647312144949682
+2045,Public,Building,Storage,Battery,Decentralized,4 Hour Autonomy,MW,0.6313244683700298
+2045,Public,Building,Storage,Battery,Decentralized,8 Hour Autonomy,MW,0.43675228085953066
+2045,Residential,Building,Production,PV pannel,Decentralized,Best potential,MW,1225.5664106055024
+2045,Residential,Building,Production,PV pannel,Decentralized,Medium potential,MW,1225.565170798417
+2045,Residential,Building,Production,PV pannel,Decentralized,Poor potential,MW,1225.563296991774
+2045,Residential,Building,Production,Wind Turbine,Decentralized,Standard,MW,1007.3154197557848
+2045,Residential,Building,Storage,Battery,Decentralized,4 Hour Autonomy,MW,0.5429884259351451
+2045,Residential,Building,Storage,Battery,Decentralized,8 Hour Autonomy,MW,516.5397540251342
+2050,Commercial,Building,Production,PV pannel,Decentralized,Best potential,MW,799.6268231310543
+2050,Commercial,Building,Production,PV pannel,Decentralized,Medium potential,MW,799.6268102116431
+2050,Commercial,Building,Production,PV pannel,Decentralized,Poor potential,MW,799.6267918217106
+2050,Commercial,Building,Production,Wind Turbine,Decentralized,Standard,MW,657.227508862951
+2050,Commercial,Building,Storage,Battery,Decentralized,1 Hour Autonomy,MW,2.0322353362324863
+2050,Commercial,Building,Storage,Battery,Decentralized,4 Hour Autonomy,MW,1.40542948657643
+2050,Commercial,Building,Storage,Battery,Decentralized,8 Hour Autonomy,MW,0.9703973098167484
+2050,Industrial,Building,Production,PV pannel,Decentralized,Best potential,MW,292.66264344606327
+2050,Industrial,Building,Production,PV pannel,Decentralized,Medium potential,MW,292.6625085267625
+2050,Industrial,Building,Production,PV pannel,Decentralized,Poor potential,MW,292.66222692279797
+2050,Industrial,Building,Production,Wind Turbine,Decentralized,Standard,MW,37.99813008545405
+2050,Industrial,Building,Storage,Battery,Decentralized,1 Hour Autonomy,MW,2.891870462556791
+2050,Industrial,Building,Storage,Battery,Decentralized,4 Hour Autonomy,MW,8.95265320987735
+2050,Industrial,Building,Storage,Battery,Decentralized,8 Hour Autonomy,MW,274.8629419170561
+2050,Public,Building,Production,PV pannel,Decentralized,Best potential,MW,115.47123160170266
+2050,Public,Building,Production,PV pannel,Decentralized,Medium potential,MW,115.47121929257536
+2050,Public,Building,Production,PV pannel,Decentralized,Poor potential,MW,115.4712037139639
+2050,Public,Building,Production,Wind Turbine,Decentralized,Standard,MW,94.90784164099664
+2050,Public,Building,Storage,Battery,Decentralized,1 Hour Autonomy,MW,1.9859245316261431
+2050,Public,Building,Storage,Battery,Decentralized,4 Hour Autonomy,MW,1.318323018252462
+2050,Public,Building,Storage,Battery,Decentralized,8 Hour Autonomy,MW,0.9104900884580258
+2050,Residential,Building,Production,PV pannel,Decentralized,Best potential,MW,1225.5719812486775
+2050,Residential,Building,Production,PV pannel,Decentralized,Medium potential,MW,1225.5719444947267
+2050,Residential,Building,Production,PV pannel,Decentralized,Poor potential,MW,1225.5718890117273
+2050,Residential,Building,Production,Wind Turbine,Decentralized,Standard,MW,1007.3194561331892
+2050,Residential,Building,Storage,Battery,Decentralized,4 Hour Autonomy,MW,1.0044674027569476
+2050,Residential,Building,Storage,Battery,Decentralized,8 Hour Autonomy,MW,468.057977669089

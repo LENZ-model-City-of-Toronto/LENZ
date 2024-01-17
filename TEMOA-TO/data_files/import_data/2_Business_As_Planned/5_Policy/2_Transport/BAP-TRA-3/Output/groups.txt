@@ -1,0 +1,1 @@
+INSERT INTO`groups`VALUES('BAP-3-PUBTRA','nan');

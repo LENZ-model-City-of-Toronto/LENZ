@@ -1,0 +1,17 @@
+INSERT INTO`tech_groups`VALUES('LDITRADOMRAI_________DSL_EX','nan','nan');
+INSERT INTO`tech_groups`VALUES('LDITRAINTRAI_________DSL_EX','nan','nan');
+INSERT INTO`tech_groups`VALUES('LDITRADOMRAI_________DSL____16','nan','nan');
+INSERT INTO`tech_groups`VALUES('LDITRADOMRAI_________DSL____23','nan','nan');
+INSERT INTO`tech_groups`VALUES('LDITRADOMRAI_________RDSL____23','nan','nan');
+INSERT INTO`tech_groups`VALUES('LDITRADOMRAI_________ELC____25','nan','nan');
+INSERT INTO`tech_groups`VALUES('LDITRADOMRAI_________HH2____25','nan','nan');
+INSERT INTO`tech_groups`VALUES('LDITRAINTRAI_________DSL____16','nan','nan');
+INSERT INTO`tech_groups`VALUES('LDITRAINTRAI_________RDSL____23','nan','nan');
+INSERT INTO`tech_groups`VALUES('LDITRAINTRAI_________DSL____23','nan','nan');
+INSERT INTO`tech_groups`VALUES('LDITRAINTRAI_________ELC____25','nan','nan');
+INSERT INTO`tech_groups`VALUES('LDITRAINTRAI_________HH2____25','nan','nan');
+INSERT INTO`tech_groups`VALUES('FRETRARAI_________DSL_EX','nan','nan');
+INSERT INTO`tech_groups`VALUES('FRETRARAI_________DSL____16','nan','nan');
+INSERT INTO`tech_groups`VALUES('FRETRARAI_________DSL____23','nan','nan');
+INSERT INTO`tech_groups`VALUES('FRETRARAI_________ELC____25','nan','nan');
+INSERT INTO`tech_groups`VALUES('FRETRARAI_________RDSL____23','nan','nan');

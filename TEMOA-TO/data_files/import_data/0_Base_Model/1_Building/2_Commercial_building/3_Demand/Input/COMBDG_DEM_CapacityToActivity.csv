@@ -1,0 +1,141 @@
+regions,tech,c2a,c2a_notes
+TO,COMBDGWSTNewLI,1,CommercialBuildingWholesale TradeNewLighting
+TO,COMBDGRTTNewLI,1,CommercialBuildingRetail TradeNewLighting
+TO,COMBDGTAWNewLI,1,CommercialBuildingTransportation and WarehousingNewLighting
+TO,COMBDGICINewLI,1,CommercialBuildingInformation and Cultural IndustriesNewLighting
+TO,COMBDGOFFNewLI,1,CommercialBuildingOfficesNewLighting
+TO,COMBDGEDSNewLI,1,CommercialBuildingEducational ServicesNewLighting
+TO,COMBDGHLCNewLI,1,CommercialBuildingHealth Care and Social AssistanceNewLighting
+TO,COMBDGAERNewLI,1,"CommercialBuildingArts, Entertainment and RecreationNewLighting"
+TO,COMBDGAFSNewLI,1,CommercialBuildingAccommodation and Food ServicesNewLighting
+TO,COMBDGOTSNewLI,1,CommercialBuildingOther ServicesNewLighting
+TO,COMBDGWSTNewSC,1,CommercialBuildingWholesale TradeNewSpace Cooling
+TO,COMBDGRTTNewSC,1,CommercialBuildingRetail TradeNewSpace Cooling
+TO,COMBDGTAWNewSC,1,CommercialBuildingTransportation and WarehousingNewSpace Cooling
+TO,COMBDGICINewSC,1,CommercialBuildingInformation and Cultural IndustriesNewSpace Cooling
+TO,COMBDGOFFNewSC,1,CommercialBuildingOfficesNewSpace Cooling
+TO,COMBDGEDSNewSC,1,CommercialBuildingEducational ServicesNewSpace Cooling
+TO,COMBDGHLCNewSC,1,CommercialBuildingHealth Care and Social AssistanceNewSpace Cooling
+TO,COMBDGAERNewSC,1,"CommercialBuildingArts, Entertainment and RecreationNewSpace Cooling"
+TO,COMBDGAFSNewSC,1,CommercialBuildingAccommodation and Food ServicesNewSpace Cooling
+TO,COMBDGOTSNewSC,1,CommercialBuildingOther ServicesNewSpace Cooling
+TO,COMBDGWSTNewAM,1,CommercialBuildingWholesale TradeNewAuxiliary Motors
+TO,COMBDGRTTNewAM,1,CommercialBuildingRetail TradeNewAuxiliary Motors
+TO,COMBDGTAWNewAM,1,CommercialBuildingTransportation and WarehousingNewAuxiliary Motors
+TO,COMBDGICINewAM,1,CommercialBuildingInformation and Cultural IndustriesNewAuxiliary Motors
+TO,COMBDGOFFNewAM,1,CommercialBuildingOfficesNewAuxiliary Motors
+TO,COMBDGEDSNewAM,1,CommercialBuildingEducational ServicesNewAuxiliary Motors
+TO,COMBDGHLCNewAM,1,CommercialBuildingHealth Care and Social AssistanceNewAuxiliary Motors
+TO,COMBDGAERNewAM,1,"CommercialBuildingArts, Entertainment and RecreationNewAuxiliary Motors"
+TO,COMBDGAFSNewAM,1,CommercialBuildingAccommodation and Food ServicesNewAuxiliary Motors
+TO,COMBDGOTSNewAM,1,CommercialBuildingOther ServicesNewAuxiliary Motors
+TO,COMBDGWSTNewAE,1,CommercialBuildingWholesale TradeNewAuxiliary Equipment
+TO,COMBDGRTTNewAE,1,CommercialBuildingRetail TradeNewAuxiliary Equipment
+TO,COMBDGTAWNewAE,1,CommercialBuildingTransportation and WarehousingNewAuxiliary Equipment
+TO,COMBDGICINewAE,1,CommercialBuildingInformation and Cultural IndustriesNewAuxiliary Equipment
+TO,COMBDGOFFNewAE,1,CommercialBuildingOfficesNewAuxiliary Equipment
+TO,COMBDGEDSNewAE,1,CommercialBuildingEducational ServicesNewAuxiliary Equipment
+TO,COMBDGHLCNewAE,1,CommercialBuildingHealth Care and Social AssistanceNewAuxiliary Equipment
+TO,COMBDGAERNewAE,1,"CommercialBuildingArts, Entertainment and RecreationNewAuxiliary Equipment"
+TO,COMBDGAFSNewAE,1,CommercialBuildingAccommodation and Food ServicesNewAuxiliary Equipment
+TO,COMBDGOTSNewAE,1,CommercialBuildingOther ServicesNewAuxiliary Equipment
+TO,COMBDGWSTNewSH,1,CommercialBuildingWholesale TradeNewSpace Heating
+TO,COMBDGRTTNewSH,1,CommercialBuildingRetail TradeNewSpace Heating
+TO,COMBDGTAWNewSH,1,CommercialBuildingTransportation and WarehousingNewSpace Heating
+TO,COMBDGICINewSH,1,CommercialBuildingInformation and Cultural IndustriesNewSpace Heating
+TO,COMBDGOFFNewSH,1,CommercialBuildingOfficesNewSpace Heating
+TO,COMBDGEDSNewSH,1,CommercialBuildingEducational ServicesNewSpace Heating
+TO,COMBDGHLCNewSH,1,CommercialBuildingHealth Care and Social AssistanceNewSpace Heating
+TO,COMBDGAERNewSH,1,"CommercialBuildingArts, Entertainment and RecreationNewSpace Heating"
+TO,COMBDGAFSNewSH,1,CommercialBuildingAccommodation and Food ServicesNewSpace Heating
+TO,COMBDGOTSNewSH,1,CommercialBuildingOther ServicesNewSpace Heating
+TO,COMBDGWSTNewWH,1,CommercialBuildingWholesale TradeNewWater Heating
+TO,COMBDGRTTNewWH,1,CommercialBuildingRetail TradeNewWater Heating
+TO,COMBDGTAWNewWH,1,CommercialBuildingTransportation and WarehousingNewWater Heating
+TO,COMBDGICINewWH,1,CommercialBuildingInformation and Cultural IndustriesNewWater Heating
+TO,COMBDGOFFNewWH,1,CommercialBuildingOfficesNewWater Heating
+TO,COMBDGEDSNewWH,1,CommercialBuildingEducational ServicesNewWater Heating
+TO,COMBDGHLCNewWH,1,CommercialBuildingHealth Care and Social AssistanceNewWater Heating
+TO,COMBDGAERNewWH,1,"CommercialBuildingArts, Entertainment and RecreationNewWater Heating"
+TO,COMBDGAFSNewWH,1,CommercialBuildingAccommodation and Food ServicesNewWater Heating
+TO,COMBDGOTSNewWH,1,CommercialBuildingOther ServicesNewWater Heating
+TO,COMBDGWSTNewSL,1,CommercialBuildingWholesale TradeNewStreet Lighting
+TO,COMBDGRTTNewSL,1,CommercialBuildingRetail TradeNewStreet Lighting
+TO,COMBDGTAWNewSL,1,CommercialBuildingTransportation and WarehousingNewStreet Lighting
+TO,COMBDGICINewSL,1,CommercialBuildingInformation and Cultural IndustriesNewStreet Lighting
+TO,COMBDGOFFNewSL,1,CommercialBuildingOfficesNewStreet Lighting
+TO,COMBDGEDSNewSL,1,CommercialBuildingEducational ServicesNewStreet Lighting
+TO,COMBDGHLCNewSL,1,CommercialBuildingHealth Care and Social AssistanceNewStreet Lighting
+TO,COMBDGAERNewSL,1,"CommercialBuildingArts, Entertainment and RecreationNewStreet Lighting"
+TO,COMBDGAFSNewSL,1,CommercialBuildingAccommodation and Food ServicesNewStreet Lighting
+TO,COMBDGOTSNewSL,1,CommercialBuildingOther ServicesNewStreet Lighting
+TO,COMBDGWSTOldLI,1,CommercialBuildingWholesale TradeOldLighting
+TO,COMBDGRTTOldLI,1,CommercialBuildingRetail TradeOldLighting
+TO,COMBDGTAWOldLI,1,CommercialBuildingTransportation and WarehousingOldLighting
+TO,COMBDGICIOldLI,1,CommercialBuildingInformation and Cultural IndustriesOldLighting
+TO,COMBDGOFFOldLI,1,CommercialBuildingOfficesOldLighting
+TO,COMBDGEDSOldLI,1,CommercialBuildingEducational ServicesOldLighting
+TO,COMBDGHLCOldLI,1,CommercialBuildingHealth Care and Social AssistanceOldLighting
+TO,COMBDGAEROldLI,1,"CommercialBuildingArts, Entertainment and RecreationOldLighting"
+TO,COMBDGAFSOldLI,1,CommercialBuildingAccommodation and Food ServicesOldLighting
+TO,COMBDGOTSOldLI,1,CommercialBuildingOther ServicesOldLighting
+TO,COMBDGWSTOldSC,1,CommercialBuildingWholesale TradeOldSpace Cooling
+TO,COMBDGRTTOldSC,1,CommercialBuildingRetail TradeOldSpace Cooling
+TO,COMBDGTAWOldSC,1,CommercialBuildingTransportation and WarehousingOldSpace Cooling
+TO,COMBDGICIOldSC,1,CommercialBuildingInformation and Cultural IndustriesOldSpace Cooling
+TO,COMBDGOFFOldSC,1,CommercialBuildingOfficesOldSpace Cooling
+TO,COMBDGEDSOldSC,1,CommercialBuildingEducational ServicesOldSpace Cooling
+TO,COMBDGHLCOldSC,1,CommercialBuildingHealth Care and Social AssistanceOldSpace Cooling
+TO,COMBDGAEROldSC,1,"CommercialBuildingArts, Entertainment and RecreationOldSpace Cooling"
+TO,COMBDGAFSOldSC,1,CommercialBuildingAccommodation and Food ServicesOldSpace Cooling
+TO,COMBDGOTSOldSC,1,CommercialBuildingOther ServicesOldSpace Cooling
+TO,COMBDGWSTOldAM,1,CommercialBuildingWholesale TradeOldAuxiliary Motors
+TO,COMBDGRTTOldAM,1,CommercialBuildingRetail TradeOldAuxiliary Motors
+TO,COMBDGTAWOldAM,1,CommercialBuildingTransportation and WarehousingOldAuxiliary Motors
+TO,COMBDGICIOldAM,1,CommercialBuildingInformation and Cultural IndustriesOldAuxiliary Motors
+TO,COMBDGOFFOldAM,1,CommercialBuildingOfficesOldAuxiliary Motors
+TO,COMBDGEDSOldAM,1,CommercialBuildingEducational ServicesOldAuxiliary Motors
+TO,COMBDGHLCOldAM,1,CommercialBuildingHealth Care and Social AssistanceOldAuxiliary Motors
+TO,COMBDGAEROldAM,1,"CommercialBuildingArts, Entertainment and RecreationOldAuxiliary Motors"
+TO,COMBDGAFSOldAM,1,CommercialBuildingAccommodation and Food ServicesOldAuxiliary Motors
+TO,COMBDGOTSOldAM,1,CommercialBuildingOther ServicesOldAuxiliary Motors
+TO,COMBDGWSTOldAE,1,CommercialBuildingWholesale TradeOldAuxiliary Equipment
+TO,COMBDGRTTOldAE,1,CommercialBuildingRetail TradeOldAuxiliary Equipment
+TO,COMBDGTAWOldAE,1,CommercialBuildingTransportation and WarehousingOldAuxiliary Equipment
+TO,COMBDGICIOldAE,1,CommercialBuildingInformation and Cultural IndustriesOldAuxiliary Equipment
+TO,COMBDGOFFOldAE,1,CommercialBuildingOfficesOldAuxiliary Equipment
+TO,COMBDGEDSOldAE,1,CommercialBuildingEducational ServicesOldAuxiliary Equipment
+TO,COMBDGHLCOldAE,1,CommercialBuildingHealth Care and Social AssistanceOldAuxiliary Equipment
+TO,COMBDGAEROldAE,1,"CommercialBuildingArts, Entertainment and RecreationOldAuxiliary Equipment"
+TO,COMBDGAFSOldAE,1,CommercialBuildingAccommodation and Food ServicesOldAuxiliary Equipment
+TO,COMBDGOTSOldAE,1,CommercialBuildingOther ServicesOldAuxiliary Equipment
+TO,COMBDGWSTOldSH,1,CommercialBuildingWholesale TradeOldSpace Heating
+TO,COMBDGRTTOldSH,1,CommercialBuildingRetail TradeOldSpace Heating
+TO,COMBDGTAWOldSH,1,CommercialBuildingTransportation and WarehousingOldSpace Heating
+TO,COMBDGICIOldSH,1,CommercialBuildingInformation and Cultural IndustriesOldSpace Heating
+TO,COMBDGOFFOldSH,1,CommercialBuildingOfficesOldSpace Heating
+TO,COMBDGEDSOldSH,1,CommercialBuildingEducational ServicesOldSpace Heating
+TO,COMBDGHLCOldSH,1,CommercialBuildingHealth Care and Social AssistanceOldSpace Heating
+TO,COMBDGAEROldSH,1,"CommercialBuildingArts, Entertainment and RecreationOldSpace Heating"
+TO,COMBDGAFSOldSH,1,CommercialBuildingAccommodation and Food ServicesOldSpace Heating
+TO,COMBDGOTSOldSH,1,CommercialBuildingOther ServicesOldSpace Heating
+TO,COMBDGWSTOldWH,1,CommercialBuildingWholesale TradeOldWater Heating
+TO,COMBDGRTTOldWH,1,CommercialBuildingRetail TradeOldWater Heating
+TO,COMBDGTAWOldWH,1,CommercialBuildingTransportation and WarehousingOldWater Heating
+TO,COMBDGICIOldWH,1,CommercialBuildingInformation and Cultural IndustriesOldWater Heating
+TO,COMBDGOFFOldWH,1,CommercialBuildingOfficesOldWater Heating
+TO,COMBDGEDSOldWH,1,CommercialBuildingEducational ServicesOldWater Heating
+TO,COMBDGHLCOldWH,1,CommercialBuildingHealth Care and Social AssistanceOldWater Heating
+TO,COMBDGAEROldWH,1,"CommercialBuildingArts, Entertainment and RecreationOldWater Heating"
+TO,COMBDGAFSOldWH,1,CommercialBuildingAccommodation and Food ServicesOldWater Heating
+TO,COMBDGOTSOldWH,1,CommercialBuildingOther ServicesOldWater Heating
+TO,COMBDGWSTOldSL,1,CommercialBuildingWholesale TradeOldStreet Lighting
+TO,COMBDGRTTOldSL,1,CommercialBuildingRetail TradeOldStreet Lighting
+TO,COMBDGTAWOldSL,1,CommercialBuildingTransportation and WarehousingOldStreet Lighting
+TO,COMBDGICIOldSL,1,CommercialBuildingInformation and Cultural IndustriesOldStreet Lighting
+TO,COMBDGOFFOldSL,1,CommercialBuildingOfficesOldStreet Lighting
+TO,COMBDGEDSOldSL,1,CommercialBuildingEducational ServicesOldStreet Lighting
+TO,COMBDGHLCOldSL,1,CommercialBuildingHealth Care and Social AssistanceOldStreet Lighting
+TO,COMBDGAEROldSL,1,"CommercialBuildingArts, Entertainment and RecreationOldStreet Lighting"
+TO,COMBDGAFSOldSL,1,CommercialBuildingAccommodation and Food ServicesOldStreet Lighting
+TO,COMBDGOTSOldSL,1,CommercialBuildingOther ServicesOldStreet Lighting

@@ -1,0 +1,654 @@
+"Discounted and undiscounted Energy Cost breakdown, per periods. (k CAD 2016)"
+vintage,sector,Cost,Cost_type,Tech_cat,Tech_type_1,Tech_type_2,Costs
+2015,Distric Thermal Energy,Discounted,FixedCosts,Toronto Average,Pipe,___,327527.3518511579
+2015,Distric Thermal Energy,Discounted,FixedCosts,Toronto Average,Substation,___,22340.616816811067
+2015,Distric Thermal Energy,Discounted,FixedCosts,Production,Boiler,Large,30592.698628073736
+2015,Distric Thermal Energy,Discounted,FixedCosts,Production,Deep Lake Cooling,Enwave,21595.722043843216
+2015,Distric Thermal Energy,Discounted,FixedCosts,Production,Heat Pump,Large,2530.410723108979
+2015,Distric Thermal Energy,Discounted,FixedCosts,Production,Heat Pump,Medium,3767.5476435486325
+2015,Distric Thermal Energy,Discounted,FixedCosts,Storage,Hot Tank Storage,Medium,284.8369505673895
+2015,Distric Thermal Energy,Discounted,FixedSubsidies,Toronto Average,Pipe,___,0.0
+2015,Distric Thermal Energy,Discounted,FixedSubsidies,Toronto Average,Substation,___,0.0
+2015,Distric Thermal Energy,Discounted,FixedSubsidies,Production,Boiler,Large,0.0
+2015,Distric Thermal Energy,Discounted,FixedSubsidies,Production,Deep Lake Cooling,Enwave,0.0
+2015,Distric Thermal Energy,Discounted,FixedSubsidies,Production,Heat Pump,Large,0.0
+2015,Distric Thermal Energy,Discounted,FixedSubsidies,Production,Heat Pump,Medium,0.0
+2015,Distric Thermal Energy,Discounted,FixedSubsidies,Storage,Hot Tank Storage,Medium,0.0
+2015,Distric Thermal Energy,Discounted,VariableCosts,Toronto Average,Pipe,___,0.0
+2015,Distric Thermal Energy,Discounted,VariableCosts,Toronto Average,Substation,___,0.0
+2015,Distric Thermal Energy,Discounted,VariableCosts,Production,Boiler,Large,25415.420573661584
+2015,Distric Thermal Energy,Discounted,VariableCosts,Production,Deep Lake Cooling,Enwave,0.0
+2015,Distric Thermal Energy,Discounted,VariableCosts,Production,Heat Pump,Large,980.7122772068192
+2015,Distric Thermal Energy,Discounted,VariableCosts,Production,Heat Pump,Medium,16.407563402776823
+2015,Distric Thermal Energy,Discounted,VariableCosts,Storage,Hot Tank Storage,Medium,0.0
+2015,Distric Thermal Energy,Discounted,VariableSubsidies,Toronto Average,Pipe,___,0.0
+2015,Distric Thermal Energy,Discounted,VariableSubsidies,Toronto Average,Substation,___,0.0
+2015,Distric Thermal Energy,Discounted,VariableSubsidies,Production,Boiler,Large,0.0
+2015,Distric Thermal Energy,Discounted,VariableSubsidies,Production,Deep Lake Cooling,Enwave,0.0
+2015,Distric Thermal Energy,Discounted,VariableSubsidies,Production,Heat Pump,Large,0.0
+2015,Distric Thermal Energy,Discounted,VariableSubsidies,Production,Heat Pump,Medium,0.0
+2015,Distric Thermal Energy,Discounted,VariableSubsidies,Storage,Hot Tank Storage,Medium,0.0
+2015,Distric Thermal Energy,Undiscounted,FixedCosts,Toronto Average,Pipe,___,480582.93823721644
+2015,Distric Thermal Energy,Undiscounted,FixedCosts,Toronto Average,Substation,___,32746.97613555844
+2015,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Boiler,Large,41912.263300238366
+2015,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Deep Lake Cooling,Enwave,27811.594202898545
+2015,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Heat Pump,Large,3481.4962599413475
+2015,Distric Thermal Energy,Undiscounted,FixedCosts,Production,Heat Pump,Medium,4875.856363636362
+2015,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Hot Tank Storage,Medium,388.5043988269797
+2015,Distric Thermal Energy,Undiscounted,FixedSubsidies,Toronto Average,Pipe,___,0.0
+2015,Distric Thermal Energy,Undiscounted,FixedSubsidies,Toronto Average,Substation,___,0.0
+2015,Distric Thermal Energy,Undiscounted,FixedSubsidies,Production,Boiler,Large,0.0
+2015,Distric Thermal Energy,Undiscounted,FixedSubsidies,Production,Deep Lake Cooling,Enwave,0.0
+2015,Distric Thermal Energy,Undiscounted,FixedSubsidies,Production,Heat Pump,Large,0.0
+2015,Distric Thermal Energy,Undiscounted,FixedSubsidies,Production,Heat Pump,Medium,0.0
+2015,Distric Thermal Energy,Undiscounted,FixedSubsidies,Storage,Hot Tank Storage,Medium,0.0
+2015,Distric Thermal Energy,Undiscounted,VariableCosts,Toronto Average,Pipe,___,0.0
+2015,Distric Thermal Energy,Undiscounted,VariableCosts,Toronto Average,Substation,___,0.0
+2015,Distric Thermal Energy,Undiscounted,VariableCosts,Production,Boiler,Large,34004.07237214371
+2015,Distric Thermal Energy,Undiscounted,VariableCosts,Production,Deep Lake Cooling,Enwave,0.0
+2015,Distric Thermal Energy,Undiscounted,VariableCosts,Production,Heat Pump,Large,1256.3085914284957
+2015,Distric Thermal Energy,Undiscounted,VariableCosts,Production,Heat Pump,Medium,20.181523154177697
+2015,Distric Thermal Energy,Undiscounted,VariableCosts,Storage,Hot Tank Storage,Medium,0.0
+2015,Distric Thermal Energy,Undiscounted,VariableSubsidies,Toronto Average,Pipe,___,0.0
+2015,Distric Thermal Energy,Undiscounted,VariableSubsidies,Toronto Average,Substation,___,0.0
+2015,Distric Thermal Energy,Undiscounted,VariableSubsidies,Production,Boiler,Large,0.0
+2015,Distric Thermal Energy,Undiscounted,VariableSubsidies,Production,Deep Lake Cooling,Enwave,0.0
+2015,Distric Thermal Energy,Undiscounted,VariableSubsidies,Production,Heat Pump,Large,0.0
+2015,Distric Thermal Energy,Undiscounted,VariableSubsidies,Production,Heat Pump,Medium,0.0
+2015,Distric Thermal Energy,Undiscounted,VariableSubsidies,Storage,Hot Tank Storage,Medium,0.0
+2015,Trade Energy,Discounted,VariableCosts,Export,,,31899.992009517548
+2015,Trade Energy,Discounted,VariableCosts,Import,,,152071955.06401068
+2015,Trade Energy,Discounted,VariableSubsidies,Export,,,0.0
+2015,Trade Energy,Discounted,VariableSubsidies,Import,,,0.0
+2015,Trade Energy,Undiscounted,VariableCosts,Export,,,49652.88779632828
+2015,Trade Energy,Undiscounted,VariableCosts,Import,,,242192553.22194317
+2015,Trade Energy,Undiscounted,VariableSubsidies,Export,,,0.0
+2015,Trade Energy,Undiscounted,VariableSubsidies,Import,,,0.0
+2023,Distric Thermal Energy,Discounted,FixedCosts,Storage,Hot Tank Storage,Large,5.03607120648792
+2023,Distric Thermal Energy,Discounted,FixedCosts,Storage,Hot Tank Storage,Medium,4.866569684433875
+2023,Distric Thermal Energy,Discounted,FixedCosts,Storage,Hot Tank Storage,Small,4.7902694126744425
+2023,Distric Thermal Energy,Discounted,FixedCosts,Storage,Pit Storage,Large,13.95963912207625
+2023,Distric Thermal Energy,Discounted,FixedCosts,Storage,Pit Storage,Medium,11.912026403134332
+2023,Distric Thermal Energy,Discounted,FixedCosts,Storage,Pit Storage,Small,8.770533163481229
+2023,Distric Thermal Energy,Discounted,FixedSubsidies,Storage,Hot Tank Storage,Large,0.0
+2023,Distric Thermal Energy,Discounted,FixedSubsidies,Storage,Hot Tank Storage,Medium,0.0
+2023,Distric Thermal Energy,Discounted,FixedSubsidies,Storage,Hot Tank Storage,Small,0.0
+2023,Distric Thermal Energy,Discounted,FixedSubsidies,Storage,Pit Storage,Large,0.0
+2023,Distric Thermal Energy,Discounted,FixedSubsidies,Storage,Pit Storage,Medium,0.0
+2023,Distric Thermal Energy,Discounted,FixedSubsidies,Storage,Pit Storage,Small,0.0
+2023,Distric Thermal Energy,Discounted,Investment,Production,Gas Turbine,Large,0.0
+2023,Distric Thermal Energy,Discounted,Investment,Production,Gas Turbine,Medium,0.0
+2023,Distric Thermal Energy,Discounted,Investment,Production,Gas Turbine,Small,0.0
+2023,Distric Thermal Energy,Discounted,Investment,Production,Internal Combustion Engine,Large,0.0
+2023,Distric Thermal Energy,Discounted,Investment,Production,Internal Combustion Engine,Medium,0.0
+2023,Distric Thermal Energy,Discounted,Investment,Production,Internal Combustion Engine,Small,0.0
+2023,Distric Thermal Energy,Discounted,Investment,Storage,Hot Tank Storage,Large,148.85799137135996
+2023,Distric Thermal Energy,Discounted,Investment,Storage,Hot Tank Storage,Medium,149.12662337084188
+2023,Distric Thermal Energy,Discounted,Investment,Storage,Hot Tank Storage,Small,149.33461585994468
+2023,Distric Thermal Energy,Discounted,Investment,Storage,Pit Storage,Large,70.66048501265375
+2023,Distric Thermal Energy,Discounted,Investment,Storage,Pit Storage,Medium,75.79280302761335
+2023,Distric Thermal Energy,Discounted,Investment,Storage,Pit Storage,Small,82.48984524461866
+2023,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Hot Tank Storage,Large,8.561552600840564
+2023,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Hot Tank Storage,Medium,8.273392219962972
+2023,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Hot Tank Storage,Small,8.143678249817903
+2023,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Pit Storage,Large,22.201280301282623
+2023,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Pit Storage,Medium,18.94477606616887
+2023,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Pit Storage,Small,13.948574418819291
+2023,Distric Thermal Energy,Undiscounted,FixedSubsidies,Storage,Hot Tank Storage,Large,0.0
+2023,Distric Thermal Energy,Undiscounted,FixedSubsidies,Storage,Hot Tank Storage,Medium,0.0
+2023,Distric Thermal Energy,Undiscounted,FixedSubsidies,Storage,Hot Tank Storage,Small,0.0
+2023,Distric Thermal Energy,Undiscounted,FixedSubsidies,Storage,Pit Storage,Large,0.0
+2023,Distric Thermal Energy,Undiscounted,FixedSubsidies,Storage,Pit Storage,Medium,0.0
+2023,Distric Thermal Energy,Undiscounted,FixedSubsidies,Storage,Pit Storage,Small,0.0
+2023,Distric Thermal Energy,Undiscounted,Investment,Production,Gas Turbine,Large,0.0
+2023,Distric Thermal Energy,Undiscounted,Investment,Production,Gas Turbine,Medium,0.0
+2023,Distric Thermal Energy,Undiscounted,Investment,Production,Gas Turbine,Small,0.0
+2023,Distric Thermal Energy,Undiscounted,Investment,Production,Internal Combustion Engine,Large,0.0
+2023,Distric Thermal Energy,Undiscounted,Investment,Production,Internal Combustion Engine,Medium,0.0
+2023,Distric Thermal Energy,Undiscounted,Investment,Production,Internal Combustion Engine,Small,0.0
+2023,Distric Thermal Energy,Undiscounted,Investment,Storage,Hot Tank Storage,Large,160.898143705452
+2023,Distric Thermal Energy,Undiscounted,Investment,Storage,Hot Tank Storage,Medium,161.1885035958303
+2023,Distric Thermal Energy,Undiscounted,Investment,Storage,Hot Tank Storage,Small,161.4133192412183
+2023,Distric Thermal Energy,Undiscounted,Investment,Storage,Pit Storage,Large,76.37575092290479
+2023,Distric Thermal Energy,Undiscounted,Investment,Storage,Pit Storage,Medium,81.92318867821447
+2023,Distric Thermal Energy,Undiscounted,Investment,Storage,Pit Storage,Small,89.16191097391595
+2023,Charging Station Energy,Discounted,FixedCosts,Charging Station,Commercial,240V,40.53640043128712
+2023,Charging Station Energy,Discounted,FixedCosts,Charging Station,Freight,Fast,63.056491949123554
+2023,Charging Station Energy,Discounted,FixedCosts,Charging Station,Freight,Slow,94.88692077299646
+2023,Charging Station Energy,Discounted,FixedCosts,Charging Station,Public,240V,32.60529537369941
+2023,Charging Station Energy,Discounted,FixedCosts,Charging Station,Residential,120V,14.381555506508324
+2023,Charging Station Energy,Discounted,FixedCosts,Charging Station,Residential,240V,32.60529537369943
+2023,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Commercial,240V,0.0
+2023,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Freight,Fast,0.0
+2023,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Freight,Slow,0.0
+2023,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Public,240V,0.0
+2023,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Residential,120V,0.0
+2023,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Residential,240V,0.0
+2023,Charging Station Energy,Discounted,Investment,Charging Station,Commercial,240V,82.6783020858835
+2023,Charging Station Energy,Discounted,Investment,Charging Station,Freight,Fast,33.802399014819095
+2023,Charging Station Energy,Discounted,Investment,Charging Station,Freight,Slow,45.22517627273965
+2023,Charging Station Energy,Discounted,Investment,Charging Station,Public,240V,73.04875286249067
+2023,Charging Station Energy,Discounted,Investment,Charging Station,Residential,120V,45.558749934407615
+2023,Charging Station Energy,Discounted,Investment,Charging Station,Residential,240V,73.04875286249069
+2023,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Commercial,240V,60.279696860606066
+2023,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Freight,Fast,93.49000102152988
+2023,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Freight,Slow,140.41559232921625
+2023,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Public,240V,48.48573875000857
+2023,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Residential,120V,21.38610722937284
+2023,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Residential,240V,48.48573875000859
+2023,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Commercial,240V,0.0
+2023,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Freight,Fast,0.0
+2023,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Freight,Slow,0.0
+2023,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Public,240V,0.0
+2023,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Residential,120V,0.0
+2023,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Residential,240V,0.0
+2023,Charging Station Energy,Undiscounted,Investment,Charging Station,Commercial,240V,89.36561086028927
+2023,Charging Station Energy,Undiscounted,Investment,Charging Station,Freight,Fast,36.53645467180337
+2023,Charging Station Energy,Undiscounted,Investment,Charging Station,Freight,Slow,48.883145903013144
+2023,Charging Station Energy,Undiscounted,Investment,Charging Station,Public,240V,78.9571901870658
+2023,Charging Station Energy,Undiscounted,Investment,Charging Station,Residential,120V,49.243700163197346
+2023,Charging Station Energy,Undiscounted,Investment,Charging Station,Residential,240V,78.95719018706583
+2024,Distric Thermal Energy,Discounted,FixedCosts,Storage,Hot Tank Storage,Large,0.9614541000898797
+2024,Distric Thermal Energy,Discounted,FixedCosts,Storage,Hot Tank Storage,Medium,0.9291131366106156
+2024,Distric Thermal Energy,Discounted,FixedCosts,Storage,Hot Tank Storage,Small,0.914554659993214
+2024,Distric Thermal Energy,Discounted,FixedCosts,Storage,Pit Storage,Large,2.6583899090315084
+2024,Distric Thermal Energy,Discounted,FixedCosts,Storage,Pit Storage,Medium,2.2676051458459114
+2024,Distric Thermal Energy,Discounted,FixedCosts,Storage,Pit Storage,Small,1.669333404215383
+2024,Distric Thermal Energy,Discounted,FixedSubsidies,Storage,Hot Tank Storage,Large,0.0
+2024,Distric Thermal Energy,Discounted,FixedSubsidies,Storage,Hot Tank Storage,Medium,0.0
+2024,Distric Thermal Energy,Discounted,FixedSubsidies,Storage,Hot Tank Storage,Small,0.0
+2024,Distric Thermal Energy,Discounted,FixedSubsidies,Storage,Pit Storage,Large,0.0
+2024,Distric Thermal Energy,Discounted,FixedSubsidies,Storage,Pit Storage,Medium,0.0
+2024,Distric Thermal Energy,Discounted,FixedSubsidies,Storage,Pit Storage,Small,0.0
+2024,Distric Thermal Energy,Discounted,Investment,Production,Gas Turbine,Large,0.0
+2024,Distric Thermal Energy,Discounted,Investment,Production,Gas Turbine,Medium,0.0
+2024,Distric Thermal Energy,Discounted,Investment,Production,Gas Turbine,Small,0.0
+2024,Distric Thermal Energy,Discounted,Investment,Production,Internal Combustion Engine,Large,0.0
+2024,Distric Thermal Energy,Discounted,Investment,Production,Internal Combustion Engine,Medium,0.0
+2024,Distric Thermal Energy,Discounted,Investment,Production,Internal Combustion Engine,Small,0.0
+2024,Distric Thermal Energy,Discounted,Investment,Storage,Hot Tank Storage,Large,28.561521803603338
+2024,Distric Thermal Energy,Discounted,Investment,Storage,Hot Tank Storage,Medium,28.613654830698742
+2024,Distric Thermal Energy,Discounted,Investment,Storage,Hot Tank Storage,Small,28.653832113625214
+2024,Distric Thermal Energy,Discounted,Investment,Storage,Pit Storage,Large,13.56481605685531
+2024,Distric Thermal Energy,Discounted,Investment,Storage,Pit Storage,Medium,14.544626112700787
+2024,Distric Thermal Energy,Discounted,Investment,Storage,Pit Storage,Small,15.827429367593458
+2024,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Hot Tank Storage,Large,1.6847014051328717
+2024,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Hot Tank Storage,Medium,1.628032171924782
+2024,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Hot Tank Storage,Small,1.602522180328056
+2024,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Pit Storage,Large,4.354381224121034
+2024,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Pit Storage,Medium,3.7142848147467324
+2024,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Pit Storage,Small,2.7343295305998536
+2024,Distric Thermal Energy,Undiscounted,FixedSubsidies,Storage,Hot Tank Storage,Large,0.0
+2024,Distric Thermal Energy,Undiscounted,FixedSubsidies,Storage,Hot Tank Storage,Medium,0.0
+2024,Distric Thermal Energy,Undiscounted,FixedSubsidies,Storage,Hot Tank Storage,Small,0.0
+2024,Distric Thermal Energy,Undiscounted,FixedSubsidies,Storage,Pit Storage,Large,0.0
+2024,Distric Thermal Energy,Undiscounted,FixedSubsidies,Storage,Pit Storage,Medium,0.0
+2024,Distric Thermal Energy,Undiscounted,FixedSubsidies,Storage,Pit Storage,Small,0.0
+2024,Distric Thermal Energy,Undiscounted,Investment,Production,Gas Turbine,Large,0.0
+2024,Distric Thermal Energy,Undiscounted,Investment,Production,Gas Turbine,Medium,0.0
+2024,Distric Thermal Energy,Undiscounted,Investment,Production,Gas Turbine,Small,0.0
+2024,Distric Thermal Energy,Undiscounted,Investment,Production,Internal Combustion Engine,Large,0.0
+2024,Distric Thermal Energy,Undiscounted,Investment,Production,Internal Combustion Engine,Medium,0.0
+2024,Distric Thermal Energy,Undiscounted,Investment,Production,Internal Combustion Engine,Small,0.0
+2024,Distric Thermal Energy,Undiscounted,Investment,Storage,Hot Tank Storage,Large,31.797827386923462
+2024,Distric Thermal Energy,Undiscounted,Investment,Storage,Hot Tank Storage,Medium,31.85586760649357
+2024,Distric Thermal Energy,Undiscounted,Investment,Storage,Hot Tank Storage,Small,31.900597376712273
+2024,Distric Thermal Energy,Undiscounted,Investment,Storage,Pit Storage,Large,15.10184514947085
+2024,Distric Thermal Energy,Undiscounted,Investment,Storage,Pit Storage,Medium,16.192677467229757
+2024,Distric Thermal Energy,Undiscounted,Investment,Storage,Pit Storage,Small,17.62083513862228
+2024,Charging Station Energy,Discounted,FixedCosts,Charging Station,Commercial,240V,29.231121972771778
+2024,Charging Station Energy,Discounted,FixedCosts,Charging Station,Freight,Fast,45.57976470478113
+2024,Charging Station Energy,Discounted,FixedCosts,Charging Station,Freight,Slow,68.10353281710104
+2024,Charging Station Energy,Discounted,FixedCosts,Charging Station,Public,240V,23.777809729340735
+2024,Charging Station Energy,Discounted,FixedCosts,Charging Station,Residential,120V,11.453651295059505
+2024,Charging Station Energy,Discounted,FixedCosts,Charging Station,Residential,240V,23.777809729340728
+2024,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Commercial,240V,0.0
+2024,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Freight,Fast,0.0
+2024,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Freight,Slow,0.0
+2024,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Public,240V,0.0
+2024,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Residential,120V,0.0
+2024,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Residential,240V,0.0
+2024,Charging Station Energy,Discounted,Investment,Charging Station,Commercial,240V,60.3944262369179
+2024,Charging Station Energy,Discounted,Investment,Charging Station,Freight,Fast,24.14405338227329
+2024,Charging Station Energy,Discounted,Investment,Charging Station,Freight,Slow,30.21213090511675
+2024,Charging Station Energy,Discounted,Investment,Charging Station,Public,240V,51.4368786104701
+2024,Charging Station Energy,Discounted,Investment,Charging Station,Residential,120V,35.0338596616876
+2024,Charging Station Energy,Discounted,Investment,Charging Station,Residential,240V,51.436878610470075
+2024,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Commercial,240V,44.76185702371805
+2024,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Freight,Fast,69.57998640037484
+2024,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Freight,Slow,103.75526663538368
+2024,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Public,240V,36.41115522125128
+2024,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Residential,120V,17.53907024665472
+2024,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Residential,240V,36.41115522125126
+2024,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Commercial,240V,0.0
+2024,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Freight,Fast,0.0
+2024,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Freight,Slow,0.0
+2024,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Public,240V,0.0
+2024,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Residential,120V,0.0
+2024,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Residential,240V,0.0
+2024,Charging Station Energy,Undiscounted,Investment,Charging Station,Commercial,240V,67.23771771753132
+2024,Charging Station Energy,Undiscounted,Investment,Charging Station,Freight,Fast,26.879815688719177
+2024,Charging Station Energy,Undiscounted,Investment,Charging Station,Freight,Slow,33.635466979593446
+2024,Charging Station Energy,Undiscounted,Investment,Charging Station,Public,240V,57.265190511365475
+2024,Charging Station Energy,Undiscounted,Investment,Charging Station,Residential,120V,39.003545745223576
+2024,Charging Station Energy,Undiscounted,Investment,Charging Station,Residential,240V,57.265190511365454
+2025,Distric Thermal Energy,Discounted,FixedCosts,Storage,Hot Tank Storage,Large,1.0911764663967232
+2025,Distric Thermal Energy,Discounted,FixedCosts,Storage,Hot Tank Storage,Medium,1.0544981231115957
+2025,Distric Thermal Energy,Discounted,FixedCosts,Storage,Hot Tank Storage,Small,1.0379721343509538
+2025,Distric Thermal Energy,Discounted,FixedCosts,Storage,Pit Storage,Large,3.023303872652893
+2025,Distric Thermal Energy,Discounted,FixedCosts,Storage,Pit Storage,Medium,2.574102580348672
+2025,Distric Thermal Energy,Discounted,FixedCosts,Storage,Pit Storage,Small,1.8939735568565612
+2025,Distric Thermal Energy,Discounted,FixedSubsidies,Storage,Hot Tank Storage,Large,0.0
+2025,Distric Thermal Energy,Discounted,FixedSubsidies,Storage,Hot Tank Storage,Medium,0.0
+2025,Distric Thermal Energy,Discounted,FixedSubsidies,Storage,Hot Tank Storage,Small,0.0
+2025,Distric Thermal Energy,Discounted,FixedSubsidies,Storage,Pit Storage,Large,0.0
+2025,Distric Thermal Energy,Discounted,FixedSubsidies,Storage,Pit Storage,Medium,0.0
+2025,Distric Thermal Energy,Discounted,FixedSubsidies,Storage,Pit Storage,Small,0.0
+2025,Distric Thermal Energy,Discounted,Investment,Production,Gas Turbine,Large,0.0
+2025,Distric Thermal Energy,Discounted,Investment,Production,Gas Turbine,Medium,0.0
+2025,Distric Thermal Energy,Discounted,Investment,Production,Gas Turbine,Small,0.0
+2025,Distric Thermal Energy,Discounted,Investment,Production,Internal Combustion Engine,Large,0.0
+2025,Distric Thermal Energy,Discounted,Investment,Production,Internal Combustion Engine,Medium,0.0
+2025,Distric Thermal Energy,Discounted,Investment,Production,Internal Combustion Engine,Small,0.0
+2025,Distric Thermal Energy,Discounted,Investment,Storage,Hot Tank Storage,Large,32.58343517845454
+2025,Distric Thermal Energy,Discounted,Investment,Storage,Hot Tank Storage,Medium,32.643719283849954
+2025,Distric Thermal Energy,Discounted,Investment,Storage,Hot Tank Storage,Small,32.689466254706204
+2025,Distric Thermal Energy,Discounted,Investment,Storage,Pit Storage,Large,15.55622553052223
+2025,Distric Thermal Energy,Discounted,Investment,Storage,Pit Storage,Medium,16.649000983912785
+2025,Distric Thermal Energy,Discounted,Investment,Storage,Pit Storage,Small,18.107913556728487
+2025,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Hot Tank Storage,Large,1.9710223282442454
+2025,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Hot Tank Storage,Medium,1.9047692190503474
+2025,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Hot Tank Storage,Small,1.8749178670035962
+2025,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Pit Storage,Large,5.101513508751486
+2025,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Pit Storage,Medium,4.343532651594787
+2025,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Pit Storage,Small,3.195885062338608
+2025,Distric Thermal Energy,Undiscounted,FixedSubsidies,Storage,Hot Tank Storage,Large,0.0
+2025,Distric Thermal Energy,Undiscounted,FixedSubsidies,Storage,Hot Tank Storage,Medium,0.0
+2025,Distric Thermal Energy,Undiscounted,FixedSubsidies,Storage,Hot Tank Storage,Small,0.0
+2025,Distric Thermal Energy,Undiscounted,FixedSubsidies,Storage,Pit Storage,Large,0.0
+2025,Distric Thermal Energy,Undiscounted,FixedSubsidies,Storage,Pit Storage,Medium,0.0
+2025,Distric Thermal Energy,Undiscounted,FixedSubsidies,Storage,Pit Storage,Small,0.0
+2025,Distric Thermal Energy,Undiscounted,Investment,Production,Gas Turbine,Large,0.0
+2025,Distric Thermal Energy,Undiscounted,Investment,Production,Gas Turbine,Medium,0.0
+2025,Distric Thermal Energy,Undiscounted,Investment,Production,Gas Turbine,Small,0.0
+2025,Distric Thermal Energy,Undiscounted,Investment,Production,Internal Combustion Engine,Large,0.0
+2025,Distric Thermal Energy,Undiscounted,Investment,Production,Internal Combustion Engine,Medium,0.0
+2025,Distric Thermal Energy,Undiscounted,Investment,Production,Internal Combustion Engine,Small,0.0
+2025,Distric Thermal Energy,Undiscounted,Investment,Storage,Hot Tank Storage,Large,37.363727613673525
+2025,Distric Thermal Energy,Undiscounted,Investment,Storage,Hot Tank Storage,Medium,37.432855956989435
+2025,Distric Thermal Energy,Undiscounted,Investment,Storage,Hot Tank Storage,Small,37.485314433171034
+2025,Distric Thermal Energy,Undiscounted,Investment,Storage,Pit Storage,Large,17.838468235038782
+2025,Distric Thermal Energy,Undiscounted,Investment,Storage,Pit Storage,Medium,19.091563992431226
+2025,Distric Thermal Energy,Undiscounted,Investment,Storage,Pit Storage,Small,20.764512583772326
+2025,Charging Station Energy,Discounted,FixedCosts,Charging Station,Commercial,240V,19.759997591039912
+2025,Charging Station Energy,Discounted,FixedCosts,Charging Station,Freight,Fast,29.843242898282185
+2025,Charging Station Energy,Discounted,FixedCosts,Charging Station,Freight,Slow,42.22756829922153
+2025,Charging Station Energy,Discounted,FixedCosts,Charging Station,Public,240V,16.153599244269532
+2025,Charging Station Energy,Discounted,FixedCosts,Charging Station,Residential,120V,8.536599889726867
+2025,Charging Station Energy,Discounted,FixedCosts,Charging Station,Residential,240V,16.153599244269532
+2025,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Commercial,240V,0.0
+2025,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Freight,Fast,0.0
+2025,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Freight,Slow,0.0
+2025,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Public,240V,0.0
+2025,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Residential,120V,0.0
+2025,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Residential,240V,0.0
+2025,Charging Station Energy,Discounted,Investment,Charging Station,Commercial,240V,41.12916176937475
+2025,Charging Station Energy,Discounted,Investment,Charging Station,Freight,Fast,15.587477288597508
+2025,Charging Station Energy,Discounted,Investment,Charging Station,Freight,Slow,17.24400954210677
+2025,Charging Station Energy,Discounted,Investment,Charging Station,Public,240V,33.62267598536923
+2025,Charging Station Energy,Discounted,Investment,Charging Station,Residential,120V,25.12402218166899
+2025,Charging Station Energy,Discounted,Investment,Charging Station,Residential,240V,33.62267598536923
+2025,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Commercial,240V,31.16326887071115
+2025,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Freight,Fast,46.91497812783893
+2025,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Freight,Slow,66.24556880939181
+2025,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Public,240V,25.47565879801281
+2025,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Residential,120V,13.4629752043022
+2025,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Residential,240V,25.47565879801281
+2025,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Commercial,240V,0.0
+2025,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Freight,Fast,0.0
+2025,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Freight,Slow,0.0
+2025,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Public,240V,0.0
+2025,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Residential,120V,0.0
+2025,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Residential,240V,0.0
+2025,Charging Station Energy,Undiscounted,Investment,Charging Station,Commercial,240V,47.16319163136566
+2025,Charging Station Energy,Undiscounted,Investment,Charging Station,Freight,Fast,17.87430491615536
+2025,Charging Station Energy,Undiscounted,Investment,Charging Station,Freight,Slow,19.77386582998779
+2025,Charging Station Energy,Undiscounted,Investment,Charging Station,Public,240V,38.55543469495298
+2025,Charging Station Energy,Undiscounted,Investment,Charging Station,Residential,120V,28.80994947937519
+2025,Charging Station Energy,Undiscounted,Investment,Charging Station,Residential,240V,38.55543469495298
+2030,Distric Thermal Energy,Discounted,FixedCosts,Storage,Hot Tank Storage,Large,1.36427987220052
+2030,Distric Thermal Energy,Discounted,FixedCosts,Storage,Hot Tank Storage,Medium,1.3232962717046306
+2030,Distric Thermal Energy,Discounted,FixedCosts,Storage,Hot Tank Storage,Small,1.3043684882237443
+2030,Distric Thermal Energy,Discounted,FixedCosts,Storage,Pit Storage,Large,3.8679723951196046
+2030,Distric Thermal Energy,Discounted,FixedCosts,Storage,Pit Storage,Medium,3.218822968046471
+2030,Distric Thermal Energy,Discounted,FixedCosts,Storage,Pit Storage,Small,2.325506059936545
+2030,Distric Thermal Energy,Discounted,FixedSubsidies,Storage,Hot Tank Storage,Large,0.0
+2030,Distric Thermal Energy,Discounted,FixedSubsidies,Storage,Hot Tank Storage,Medium,0.0
+2030,Distric Thermal Energy,Discounted,FixedSubsidies,Storage,Hot Tank Storage,Small,0.0
+2030,Distric Thermal Energy,Discounted,FixedSubsidies,Storage,Pit Storage,Large,0.0
+2030,Distric Thermal Energy,Discounted,FixedSubsidies,Storage,Pit Storage,Medium,0.0
+2030,Distric Thermal Energy,Discounted,FixedSubsidies,Storage,Pit Storage,Small,0.0
+2030,Distric Thermal Energy,Discounted,Investment,Production,Gas Turbine,Large,0.0
+2030,Distric Thermal Energy,Discounted,Investment,Production,Gas Turbine,Medium,0.0
+2030,Distric Thermal Energy,Discounted,Investment,Production,Gas Turbine,Small,0.0
+2030,Distric Thermal Energy,Discounted,Investment,Production,Internal Combustion Engine,Large,0.0
+2030,Distric Thermal Energy,Discounted,Investment,Production,Internal Combustion Engine,Medium,0.0
+2030,Distric Thermal Energy,Discounted,Investment,Production,Internal Combustion Engine,Small,0.0
+2030,Distric Thermal Energy,Discounted,Investment,Storage,Hot Tank Storage,Large,41.92901279757508
+2030,Distric Thermal Energy,Discounted,Investment,Storage,Hot Tank Storage,Medium,42.16190252113195
+2030,Distric Thermal Energy,Discounted,Investment,Storage,Hot Tank Storage,Small,42.27968284592789
+2030,Distric Thermal Energy,Discounted,Investment,Storage,Pit Storage,Large,19.81612361455848
+2030,Distric Thermal Energy,Discounted,Investment,Storage,Pit Storage,Medium,20.728712446769332
+2030,Distric Thermal Energy,Discounted,Investment,Storage,Pit Storage,Small,22.137311862239656
+2030,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Hot Tank Storage,Large,2.7293704085648867
+2030,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Hot Tank Storage,Medium,2.6473788548454125
+2030,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Hot Tank Storage,Small,2.609512040868947
+2030,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Pit Storage,Large,7.604159382400587
+2030,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Pit Storage,Medium,6.327977651453799
+2030,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Pit Storage,Small,4.571779971027714
+2030,Distric Thermal Energy,Undiscounted,FixedSubsidies,Storage,Hot Tank Storage,Large,0.0
+2030,Distric Thermal Energy,Undiscounted,FixedSubsidies,Storage,Hot Tank Storage,Medium,0.0
+2030,Distric Thermal Energy,Undiscounted,FixedSubsidies,Storage,Hot Tank Storage,Small,0.0
+2030,Distric Thermal Energy,Undiscounted,FixedSubsidies,Storage,Pit Storage,Large,0.0
+2030,Distric Thermal Energy,Undiscounted,FixedSubsidies,Storage,Pit Storage,Medium,0.0
+2030,Distric Thermal Energy,Undiscounted,FixedSubsidies,Storage,Pit Storage,Small,0.0
+2030,Distric Thermal Energy,Undiscounted,Investment,Production,Gas Turbine,Large,0.0
+2030,Distric Thermal Energy,Undiscounted,Investment,Production,Gas Turbine,Medium,0.0
+2030,Distric Thermal Energy,Undiscounted,Investment,Production,Gas Turbine,Small,0.0
+2030,Distric Thermal Energy,Undiscounted,Investment,Production,Internal Combustion Engine,Large,0.0
+2030,Distric Thermal Energy,Undiscounted,Investment,Production,Internal Combustion Engine,Medium,0.0
+2030,Distric Thermal Energy,Undiscounted,Investment,Production,Internal Combustion Engine,Small,0.0
+2030,Distric Thermal Energy,Undiscounted,Investment,Storage,Hot Tank Storage,Large,55.73834755844548
+2030,Distric Thermal Energy,Undiscounted,Investment,Storage,Hot Tank Storage,Medium,56.0479395924166
+2030,Distric Thermal Energy,Undiscounted,Investment,Storage,Hot Tank Storage,Small,56.204510907623
+2030,Distric Thermal Energy,Undiscounted,Investment,Storage,Pit Storage,Large,26.34257073071985
+2030,Distric Thermal Energy,Undiscounted,Investment,Storage,Pit Storage,Medium,27.555721008149376
+2030,Distric Thermal Energy,Undiscounted,Investment,Storage,Pit Storage,Small,29.42824312473612
+2030,Charging Station Energy,Discounted,FixedCosts,Charging Station,Commercial,240V,26.936271538395594
+2030,Charging Station Energy,Discounted,FixedCosts,Charging Station,Freight,Fast,33.95150506081905
+2030,Charging Station Energy,Discounted,FixedCosts,Charging Station,Freight,Slow,54.221460769740716
+2030,Charging Station Energy,Discounted,FixedCosts,Charging Station,Public,240V,17.57581197888284
+2030,Charging Station Energy,Discounted,FixedCosts,Charging Station,Residential,120V,8.523055807896778
+2030,Charging Station Energy,Discounted,FixedCosts,Charging Station,Residential,240V,17.57581197888284
+2030,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Commercial,240V,0.0
+2030,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Freight,Fast,0.0
+2030,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Freight,Slow,0.0
+2030,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Public,240V,0.0
+2030,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Residential,120V,0.0
+2030,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Residential,240V,0.0
+2030,Charging Station Energy,Discounted,Investment,Charging Station,Commercial,240V,36.89606031175245
+2030,Charging Station Energy,Discounted,Investment,Charging Station,Freight,Fast,17.418297736249052
+2030,Charging Station Energy,Discounted,Investment,Charging Station,Freight,Slow,23.4549153356708
+2030,Charging Station Energy,Discounted,Investment,Charging Station,Public,240V,36.89606031175245
+2030,Charging Station Energy,Discounted,Investment,Charging Station,Residential,120V,25.29887447225528
+2030,Charging Station Energy,Discounted,Investment,Charging Station,Residential,240V,36.89606031175245
+2030,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Commercial,240V,49.199963947791254
+2030,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Freight,Fast,61.763128526425135
+2030,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Freight,Slow,98.36171732333125
+2030,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Public,240V,32.102784324905095
+2030,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Residential,120V,15.567634810771997
+2030,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Residential,240V,32.102784324905095
+2030,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Commercial,240V,0.0
+2030,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Freight,Fast,0.0
+2030,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Freight,Slow,0.0
+2030,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Public,240V,0.0
+2030,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Residential,120V,0.0
+2030,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Residential,240V,0.0
+2030,Charging Station Energy,Undiscounted,Investment,Charging Station,Commercial,240V,49.047790443393424
+2030,Charging Station Energy,Undiscounted,Investment,Charging Station,Freight,Fast,23.155020076114994
+2030,Charging Station Energy,Undiscounted,Investment,Charging Station,Freight,Slow,31.179799754530357
+2030,Charging Station Energy,Undiscounted,Investment,Charging Station,Public,240V,49.047790443393424
+2030,Charging Station Energy,Undiscounted,Investment,Charging Station,Residential,120V,33.63106746585747
+2030,Charging Station Energy,Undiscounted,Investment,Charging Station,Residential,240V,49.047790443393424
+2035,Distric Thermal Energy,Discounted,FixedCosts,Storage,Hot Tank Storage,Large,0.7968177898124796
+2035,Distric Thermal Energy,Discounted,FixedCosts,Storage,Hot Tank Storage,Medium,0.7710005026898411
+2035,Distric Thermal Energy,Discounted,FixedCosts,Storage,Hot Tank Storage,Small,0.7590457670448256
+2035,Distric Thermal Energy,Discounted,FixedCosts,Storage,Pit Storage,Large,2.167500828055049
+2035,Distric Thermal Energy,Discounted,FixedCosts,Storage,Pit Storage,Medium,1.8019847552596422
+2035,Distric Thermal Energy,Discounted,FixedCosts,Storage,Pit Storage,Small,1.302841480576038
+2035,Distric Thermal Energy,Discounted,FixedSubsidies,Storage,Hot Tank Storage,Large,0.0
+2035,Distric Thermal Energy,Discounted,FixedSubsidies,Storage,Hot Tank Storage,Medium,0.0
+2035,Distric Thermal Energy,Discounted,FixedSubsidies,Storage,Hot Tank Storage,Small,0.0
+2035,Distric Thermal Energy,Discounted,FixedSubsidies,Storage,Pit Storage,Large,0.0
+2035,Distric Thermal Energy,Discounted,FixedSubsidies,Storage,Pit Storage,Medium,0.0
+2035,Distric Thermal Energy,Discounted,FixedSubsidies,Storage,Pit Storage,Small,0.0
+2035,Distric Thermal Energy,Discounted,Investment,Production,Gas Turbine,Large,0.0
+2035,Distric Thermal Energy,Discounted,Investment,Production,Gas Turbine,Medium,0.0
+2035,Distric Thermal Energy,Discounted,Investment,Production,Gas Turbine,Small,0.0
+2035,Distric Thermal Energy,Discounted,Investment,Production,Internal Combustion Engine,Large,0.0
+2035,Distric Thermal Energy,Discounted,Investment,Production,Internal Combustion Engine,Medium,0.0
+2035,Distric Thermal Energy,Discounted,Investment,Production,Internal Combustion Engine,Small,0.0
+2035,Distric Thermal Energy,Discounted,Investment,Storage,Hot Tank Storage,Large,24.488951268110792
+2035,Distric Thermal Energy,Discounted,Investment,Storage,Hot Tank Storage,Medium,24.56505677015055
+2035,Distric Thermal Energy,Discounted,Investment,Storage,Hot Tank Storage,Small,24.603641214839254
+2035,Distric Thermal Energy,Discounted,Investment,Storage,Pit Storage,Large,11.2700909654823
+2035,Distric Thermal Energy,Discounted,Investment,Storage,Pit Storage,Medium,11.777664003164405
+2035,Distric Thermal Energy,Discounted,Investment,Storage,Pit Storage,Small,12.587277237071987
+2035,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Hot Tank Storage,Large,1.7279107471346764
+2035,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Hot Tank Storage,Medium,1.6719255916180464
+2035,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Hot Tank Storage,Small,1.646001576787708
+2035,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Pit Storage,Large,4.682616303995891
+2035,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Pit Storage,Medium,3.8929642311151826
+2035,Distric Thermal Energy,Undiscounted,FixedCosts,Storage,Pit Storage,Small,2.8146271869901955
+2035,Distric Thermal Energy,Undiscounted,FixedSubsidies,Storage,Hot Tank Storage,Large,0.0
+2035,Distric Thermal Energy,Undiscounted,FixedSubsidies,Storage,Hot Tank Storage,Medium,0.0
+2035,Distric Thermal Energy,Undiscounted,FixedSubsidies,Storage,Hot Tank Storage,Small,0.0
+2035,Distric Thermal Energy,Undiscounted,FixedSubsidies,Storage,Pit Storage,Large,0.0
+2035,Distric Thermal Energy,Undiscounted,FixedSubsidies,Storage,Pit Storage,Medium,0.0
+2035,Distric Thermal Energy,Undiscounted,FixedSubsidies,Storage,Pit Storage,Small,0.0
+2035,Distric Thermal Energy,Undiscounted,Investment,Production,Gas Turbine,Large,0.0
+2035,Distric Thermal Energy,Undiscounted,Investment,Production,Gas Turbine,Medium,0.0
+2035,Distric Thermal Energy,Undiscounted,Investment,Production,Gas Turbine,Small,0.0
+2035,Distric Thermal Energy,Undiscounted,Investment,Production,Internal Combustion Engine,Large,0.0
+2035,Distric Thermal Energy,Undiscounted,Investment,Production,Internal Combustion Engine,Medium,0.0
+2035,Distric Thermal Energy,Undiscounted,Investment,Production,Internal Combustion Engine,Small,0.0
+2035,Distric Thermal Energy,Undiscounted,Investment,Storage,Hot Tank Storage,Large,37.73946702802094
+2035,Distric Thermal Energy,Undiscounted,Investment,Storage,Hot Tank Storage,Medium,37.85675180079194
+2035,Distric Thermal Energy,Undiscounted,Investment,Storage,Hot Tank Storage,Small,37.91621357039495
+2035,Distric Thermal Energy,Undiscounted,Investment,Storage,Pit Storage,Large,17.368127435839675
+2035,Distric Thermal Energy,Undiscounted,Investment,Storage,Pit Storage,Medium,18.150338797616545
+2035,Distric Thermal Energy,Undiscounted,Investment,Storage,Pit Storage,Small,19.398018684435222
+2035,Charging Station Energy,Discounted,FixedCosts,Charging Station,Commercial,120V,434.6656413325111
+2035,Charging Station Energy,Discounted,FixedCosts,Charging Station,Commercial,240V,25.190416643751135
+2035,Charging Station Energy,Discounted,FixedCosts,Charging Station,Freight,Fast,30.38279151252059
+2035,Charging Station Energy,Discounted,FixedCosts,Charging Station,Freight,Slow,52.04692678132969
+2035,Charging Station Energy,Discounted,FixedCosts,Charging Station,Public,240V,18.431882785625014
+2035,Charging Station Energy,Discounted,FixedCosts,Charging Station,Residential,120V,8.203983885477863
+2035,Charging Station Energy,Discounted,FixedCosts,Charging Station,Residential,240V,18.431882785625014
+2035,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Commercial,120V,0.0
+2035,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Commercial,240V,0.0
+2035,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Freight,Fast,0.0
+2035,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Freight,Slow,0.0
+2035,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Public,240V,0.0
+2035,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Residential,120V,0.0
+2035,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Residential,240V,0.0
+2035,Charging Station Energy,Discounted,Investment,Charging Station,Commercial,120V,910.3503206582317
+2035,Charging Station Energy,Discounted,Investment,Charging Station,Commercial,240V,41.56878798813787
+2035,Charging Station Energy,Discounted,Investment,Charging Station,Freight,Fast,18.20585057293044
+2035,Charging Station Energy,Discounted,Investment,Charging Station,Freight,Slow,27.187442850825743
+2035,Charging Station Energy,Discounted,Investment,Charging Station,Public,240V,39.09706949696273
+2035,Charging Station Energy,Discounted,Investment,Charging Station,Residential,120V,24.605974831264966
+2035,Charging Station Energy,Discounted,Investment,Charging Station,Residential,240V,39.09706949696273
+2035,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Commercial,120V,919.3012407294599
+2035,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Commercial,240V,53.276769712233445
+2035,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Freight,Fast,63.92017657557794
+2035,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Freight,Slow,109.06516998847309
+2035,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Public,240V,38.98272856777942
+2035,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Residential,120V,17.351112781133892
+2035,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Residential,240V,38.98272856777942
+2035,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Commercial,120V,0.0
+2035,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Commercial,240V,0.0
+2035,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Freight,Fast,0.0
+2035,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Freight,Slow,0.0
+2035,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Public,240V,0.0
+2035,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Residential,120V,0.0
+2035,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Residential,240V,0.0
+2035,Charging Station Energy,Undiscounted,Investment,Charging Station,Commercial,120V,1402.9239363617728
+2035,Charging Station Energy,Undiscounted,Investment,Charging Station,Commercial,240V,64.06088551925754
+2035,Charging Station Energy,Undiscounted,Investment,Charging Station,Freight,Fast,28.056697483362235
+2035,Charging Station Energy,Undiscounted,Investment,Charging Station,Freight,Slow,41.8980621837015
+2035,Charging Station Energy,Undiscounted,Investment,Charging Station,Public,240V,60.251766154406496
+2035,Charging Station Energy,Undiscounted,Investment,Charging Station,Residential,120V,37.91980986323698
+2035,Charging Station Energy,Undiscounted,Investment,Charging Station,Residential,240V,60.251766154406496
+2040,Distric Thermal Energy,Discounted,Investment,Production,Gas Turbine,Large,0.0
+2040,Distric Thermal Energy,Discounted,Investment,Production,Gas Turbine,Medium,0.0
+2040,Distric Thermal Energy,Discounted,Investment,Production,Gas Turbine,Small,0.0
+2040,Distric Thermal Energy,Discounted,Investment,Production,Internal Combustion Engine,Large,0.0
+2040,Distric Thermal Energy,Discounted,Investment,Production,Internal Combustion Engine,Medium,0.0
+2040,Distric Thermal Energy,Discounted,Investment,Production,Internal Combustion Engine,Small,0.0
+2040,Distric Thermal Energy,Undiscounted,Investment,Production,Gas Turbine,Large,0.0
+2040,Distric Thermal Energy,Undiscounted,Investment,Production,Gas Turbine,Medium,0.0
+2040,Distric Thermal Energy,Undiscounted,Investment,Production,Gas Turbine,Small,0.0
+2040,Distric Thermal Energy,Undiscounted,Investment,Production,Internal Combustion Engine,Large,0.0
+2040,Distric Thermal Energy,Undiscounted,Investment,Production,Internal Combustion Engine,Medium,0.0
+2040,Distric Thermal Energy,Undiscounted,Investment,Production,Internal Combustion Engine,Small,0.0
+2040,Charging Station Energy,Discounted,FixedCosts,Charging Station,Commercial,120V,25.152501758512535
+2040,Charging Station Energy,Discounted,FixedCosts,Charging Station,Commercial,240V,19.73874046058342
+2040,Charging Station Energy,Discounted,FixedCosts,Charging Station,Freight,Fast,29.39097486507595
+2040,Charging Station Energy,Discounted,FixedCosts,Charging Station,Freight,Slow,49.11864746008479
+2040,Charging Station Energy,Discounted,FixedCosts,Charging Station,Public,240V,14.381668705939973
+2040,Charging Station Energy,Discounted,FixedCosts,Charging Station,Residential,120V,8.043480389210114
+2040,Charging Station Energy,Discounted,FixedCosts,Charging Station,Residential,240V,14.381668705939973
+2040,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Commercial,120V,0.0
+2040,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Commercial,240V,0.0
+2040,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Freight,Fast,0.0
+2040,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Freight,Slow,0.0
+2040,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Public,240V,0.0
+2040,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Residential,120V,0.0
+2040,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Residential,240V,0.0
+2040,Charging Station Energy,Discounted,Investment,Charging Station,Commercial,120V,45.21661260035388
+2040,Charging Station Energy,Discounted,Investment,Charging Station,Commercial,240V,33.92571101135569
+2040,Charging Station Energy,Discounted,Investment,Charging Station,Freight,Fast,19.887566248595764
+2040,Charging Station Energy,Discounted,Investment,Charging Station,Freight,Slow,29.883714853439766
+2040,Charging Station Energy,Discounted,Investment,Charging Station,Public,240V,29.674366570421093
+2040,Charging Station Energy,Discounted,Investment,Charging Station,Residential,120V,23.46699359742659
+2040,Charging Station Energy,Discounted,Investment,Charging Station,Residential,240V,29.674366570421093
+2040,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Commercial,120V,58.62338016825176
+2040,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Commercial,240V,46.0054310769151
+2040,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Freight,Fast,68.26354151287362
+2040,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Freight,Slow,113.76359842374401
+2040,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Public,240V,33.519609305536825
+2040,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Residential,120V,18.747081831450693
+2040,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Residential,240V,33.519609305536825
+2040,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Commercial,120V,0.0
+2040,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Commercial,240V,0.0
+2040,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Freight,Fast,0.0
+2040,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Freight,Slow,0.0
+2040,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Public,240V,0.0
+2040,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Residential,120V,0.0
+2040,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Residential,240V,0.0
+2040,Charging Station Energy,Undiscounted,Investment,Charging Station,Commercial,120V,80.78109265734696
+2040,Charging Station Energy,Undiscounted,Investment,Charging Station,Commercial,240V,60.60949387998278
+2040,Charging Station Energy,Undiscounted,Investment,Charging Station,Freight,Fast,35.52984709527682
+2040,Charging Station Energy,Undiscounted,Investment,Charging Station,Freight,Slow,53.38832344337445
+2040,Charging Station Energy,Undiscounted,Investment,Charging Station,Public,240V,53.014315261964256
+2040,Charging Station Energy,Undiscounted,Investment,Charging Station,Residential,120V,41.924621840607514
+2040,Charging Station Energy,Undiscounted,Investment,Charging Station,Residential,240V,53.014315261964256
+2045,Distric Thermal Energy,Discounted,Investment,Production,Gas Turbine,Large,0.0
+2045,Distric Thermal Energy,Discounted,Investment,Production,Gas Turbine,Medium,0.0
+2045,Distric Thermal Energy,Discounted,Investment,Production,Gas Turbine,Small,0.0
+2045,Distric Thermal Energy,Discounted,Investment,Production,Internal Combustion Engine,Large,0.0
+2045,Distric Thermal Energy,Discounted,Investment,Production,Internal Combustion Engine,Medium,0.0
+2045,Distric Thermal Energy,Discounted,Investment,Production,Internal Combustion Engine,Small,0.0
+2045,Distric Thermal Energy,Undiscounted,Investment,Production,Gas Turbine,Large,0.0
+2045,Distric Thermal Energy,Undiscounted,Investment,Production,Gas Turbine,Medium,0.0
+2045,Distric Thermal Energy,Undiscounted,Investment,Production,Gas Turbine,Small,0.0
+2045,Distric Thermal Energy,Undiscounted,Investment,Production,Internal Combustion Engine,Large,0.0
+2045,Distric Thermal Energy,Undiscounted,Investment,Production,Internal Combustion Engine,Medium,0.0
+2045,Distric Thermal Energy,Undiscounted,Investment,Production,Internal Combustion Engine,Small,0.0
+2045,Charging Station Energy,Discounted,FixedCosts,Charging Station,Commercial,120V,11.82960783493154
+2045,Charging Station Energy,Discounted,FixedCosts,Charging Station,Commercial,240V,10.535332876042851
+2045,Charging Station Energy,Discounted,FixedCosts,Charging Station,Freight,Fast,17.753993193094715
+2045,Charging Station Energy,Discounted,FixedCosts,Charging Station,Freight,Slow,29.294167108371877
+2045,Charging Station Energy,Discounted,FixedCosts,Charging Station,Public,240V,7.641001252609114
+2045,Charging Station Energy,Discounted,FixedCosts,Charging Station,Residential,120V,5.012981284747941
+2045,Charging Station Energy,Discounted,FixedCosts,Charging Station,Residential,240V,7.641001252609114
+2045,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Commercial,120V,0.0
+2045,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Commercial,240V,0.0
+2045,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Freight,Fast,0.0
+2045,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Freight,Slow,0.0
+2045,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Public,240V,0.0
+2045,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Residential,120V,0.0
+2045,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Residential,240V,0.0
+2045,Charging Station Energy,Discounted,Investment,Charging Station,Commercial,120V,21.30527099725187
+2045,Charging Station Energy,Discounted,Investment,Charging Station,Commercial,240V,18.727235432690453
+2045,Charging Station Energy,Discounted,Investment,Charging Station,Freight,Fast,13.474002262535738
+2045,Charging Station Energy,Discounted,Investment,Charging Station,Freight,Slow,20.679555477164307
+2045,Charging Station Energy,Discounted,Investment,Charging Station,Public,240V,15.017389411755168
+2045,Charging Station Energy,Discounted,Investment,Charging Station,Residential,120V,13.930975399308377
+2045,Charging Station Energy,Discounted,Investment,Charging Station,Residential,240V,15.017389411755168
+2045,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Commercial,120V,29.928512582167002
+2045,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Commercial,240V,26.65404017932864
+2045,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Freight,Fast,44.87441431105568
+2045,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Freight,Slow,73.98228289545938
+2045,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Public,240V,19.33147787484446
+2045,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Residential,120V,12.682675161193519
+2045,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Residential,240V,19.33147787484446
+2045,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Commercial,120V,0.0
+2045,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Commercial,240V,0.0
+2045,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Freight,Fast,0.0
+2045,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Freight,Slow,0.0
+2045,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Public,240V,0.0
+2045,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Residential,120V,0.0
+2045,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Residential,240V,0.0
+2045,Charging Station Energy,Undiscounted,Investment,Charging Station,Commercial,120V,44.12501696051614
+2045,Charging Station Energy,Undiscounted,Investment,Charging Station,Commercial,240V,38.785687410295466
+2045,Charging Station Energy,Undiscounted,Investment,Charging Station,Freight,Fast,27.905797510724504
+2045,Charging Station Energy,Undiscounted,Investment,Charging Station,Freight,Slow,42.82910723283029
+2045,Charging Station Energy,Undiscounted,Investment,Charging Station,Public,240V,31.102282744108035
+2045,Charging Station Energy,Undiscounted,Investment,Charging Station,Residential,120V,28.852227500429578
+2045,Charging Station Energy,Undiscounted,Investment,Charging Station,Residential,240V,31.102282744108035
+2050,Distric Thermal Energy,Discounted,Investment,Production,Gas Turbine,Large,0.0
+2050,Distric Thermal Energy,Discounted,Investment,Production,Gas Turbine,Medium,0.0
+2050,Distric Thermal Energy,Discounted,Investment,Production,Gas Turbine,Small,0.0
+2050,Distric Thermal Energy,Discounted,Investment,Production,Internal Combustion Engine,Large,0.0
+2050,Distric Thermal Energy,Discounted,Investment,Production,Internal Combustion Engine,Medium,0.0
+2050,Distric Thermal Energy,Discounted,Investment,Production,Internal Combustion Engine,Small,0.0
+2050,Distric Thermal Energy,Undiscounted,Investment,Production,Gas Turbine,Large,0.0
+2050,Distric Thermal Energy,Undiscounted,Investment,Production,Gas Turbine,Medium,0.0
+2050,Distric Thermal Energy,Undiscounted,Investment,Production,Gas Turbine,Small,0.0
+2050,Distric Thermal Energy,Undiscounted,Investment,Production,Internal Combustion Engine,Large,0.0
+2050,Distric Thermal Energy,Undiscounted,Investment,Production,Internal Combustion Engine,Medium,0.0
+2050,Distric Thermal Energy,Undiscounted,Investment,Production,Internal Combustion Engine,Small,0.0
+2050,Charging Station Energy,Discounted,FixedCosts,Charging Station,Commercial,120V,7.6112728038299196
+2050,Charging Station Energy,Discounted,FixedCosts,Charging Station,Commercial,240V,5.915026936609246
+2050,Charging Station Energy,Discounted,FixedCosts,Charging Station,Freight,Fast,8.225713240006485
+2050,Charging Station Energy,Discounted,FixedCosts,Charging Station,Freight,Slow,17.344290204959268
+2050,Charging Station Energy,Discounted,FixedCosts,Charging Station,Public,240V,4.786300273832914
+2050,Charging Station Energy,Discounted,FixedCosts,Charging Station,Residential,120V,2.744790795445515
+2050,Charging Station Energy,Discounted,FixedCosts,Charging Station,Residential,240V,4.786300273832914
+2050,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Commercial,120V,0.0
+2050,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Commercial,240V,0.0
+2050,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Freight,Fast,0.0
+2050,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Freight,Slow,0.0
+2050,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Public,240V,0.0
+2050,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Residential,120V,0.0
+2050,Charging Station Energy,Discounted,FixedSubsidies,Charging Station,Residential,240V,0.0
+2050,Charging Station Energy,Discounted,Investment,Charging Station,Commercial,120V,14.673978036093763
+2050,Charging Station Energy,Discounted,Investment,Charging Station,Commercial,240V,11.403739898408542
+2050,Charging Station Energy,Discounted,Investment,Charging Station,Freight,Fast,7.611825460790009
+2050,Charging Station Energy,Discounted,Investment,Charging Station,Freight,Slow,16.049879922793863
+2050,Charging Station Energy,Discounted,Investment,Charging Station,Public,240V,9.227637335115972
+2050,Charging Station Energy,Discounted,Investment,Charging Station,Residential,120V,7.482403001931689
+2050,Charging Station Energy,Discounted,Investment,Charging Station,Residential,240V,9.227637335115972
+2050,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Commercial,120V,20.793276478326327
+2050,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Commercial,240V,16.15929341118543
+2050,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Freight,Fast,22.471869559690308
+2050,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Freight,Slow,47.382958257726926
+2050,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Public,240V,13.075719063967572
+2050,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Residential,120V,7.498508509134655
+2050,Charging Station Energy,Undiscounted,FixedCosts,Charging Station,Residential,240V,13.075719063967572
+2050,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Commercial,120V,0.0
+2050,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Commercial,240V,0.0
+2050,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Freight,Fast,0.0
+2050,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Freight,Slow,0.0
+2050,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Public,240V,0.0
+2050,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Residential,120V,0.0
+2050,Charging Station Energy,Undiscounted,FixedSubsidies,Charging Station,Residential,240V,0.0
+2050,Charging Station Energy,Undiscounted,Investment,Charging Station,Commercial,120V,35.231554918167184
+2050,Charging Station Energy,Undiscounted,Investment,Charging Station,Commercial,240V,27.37986165135539
+2050,Charging Station Energy,Undiscounted,Investment,Charging Station,Freight,Fast,18.275647277765415
+2050,Charging Station Energy,Undiscounted,Investment,Charging Station,Freight,Slow,38.5350328683215
+2050,Charging Station Energy,Undiscounted,Investment,Charging Station,Public,240V,22.155138213878065
+2050,Charging Station Energy,Undiscounted,Investment,Charging Station,Residential,120V,17.9649098311306
+2050,Charging Station Energy,Undiscounted,Investment,Charging Station,Residential,240V,22.155138213878065

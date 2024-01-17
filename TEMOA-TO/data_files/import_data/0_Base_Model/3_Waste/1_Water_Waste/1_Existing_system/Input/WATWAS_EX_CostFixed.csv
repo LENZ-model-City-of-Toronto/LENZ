@@ -1,0 +1,813 @@
+regions,periods,tech,vintage,cost_fixed,cost_fixed_units,cost_fixed_notes
+TO,2016,WATWASWWABPRC_EX,1950,139.94060783642507,k$/Mm3a,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2016,WATWASWWABTTE_EX,1950,5.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,2016,WATWASWWABADI_EX,2000,7.011,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2016,WATWASWWABADIMNGA_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2016,WATWASWWABUSE_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,2016,WATWASWWABFLR_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,2016,WATWASWWHCPRC_EX,1955,156.15594930510107,k$/Mm3a,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2016,WATWASWWHCINC_EX,1955,0.0,k$/kta,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2016,WATWASWWHCINCMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2016,WATWASWWHCTTE_EX,1955,5.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,2016,WATWASWWHCADI_EX,2000,7.011,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2016,WATWASWWHCADIMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2016,WATWASWWHCUSE_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,2016,WATWASWWHCFLR_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,2016,WATWASWWHBPRC_EX,1960,59.30243203536672,k$/Mm3a,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2016,WATWASWWHBTTE_EX,1960,5.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,2016,WATWASWWHBADI_EX,2000,7.011,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2016,WATWASWWHBADIMNGA_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2016,WATWASWWHBUSE_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,2016,WATWASWWHBFLR_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,2016,WATWASWWNTPRC_EX,1950,76.12123400552622,k$/Mm3a,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2016,WATWASFWRCHPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2016,WATWASFWFJHPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2016,WATWASFWRLCPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2016,WATWASFWISDPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2017,WATWASWWABPRC_EX,1950,139.94060783642507,k$/Mm3a,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2017,WATWASWWABTTE_EX,1950,5.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,2017,WATWASWWABADI_EX,2000,7.011,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2017,WATWASWWABADIMNGA_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2017,WATWASWWABUSE_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,2017,WATWASWWABFLR_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,2017,WATWASWWHCPRC_EX,1955,156.15594930510107,k$/Mm3a,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2017,WATWASWWHCINC_EX,1955,0.0,k$/kta,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2017,WATWASWWHCINCMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2017,WATWASWWHCTTE_EX,1955,5.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,2017,WATWASWWHCADI_EX,2000,7.011,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2017,WATWASWWHCADIMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2017,WATWASWWHCUSE_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,2017,WATWASWWHCFLR_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,2017,WATWASWWHBPRC_EX,1960,59.30243203536672,k$/Mm3a,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2017,WATWASWWHBTTE_EX,1960,5.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,2017,WATWASWWHBADI_EX,2000,7.011,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2017,WATWASWWHBADIMNGA_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2017,WATWASWWHBUSE_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,2017,WATWASWWHBFLR_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,2017,WATWASWWNTPRC_EX,1950,76.12123400552622,k$/Mm3a,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2017,WATWASFWRCHPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2017,WATWASFWFJHPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2017,WATWASFWRLCPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2017,WATWASFWISDPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2018,WATWASWWABPRC_EX,1950,139.94060783642507,k$/Mm3a,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2018,WATWASWWABTTE_EX,1950,5.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,2018,WATWASWWABADI_EX,2000,7.011,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2018,WATWASWWABADIMNGA_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2018,WATWASWWABUSE_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,2018,WATWASWWABFLR_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,2018,WATWASWWHCPRC_EX,1955,156.15594930510107,k$/Mm3a,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2018,WATWASWWHCINC_EX,1955,0.0,k$/kta,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2018,WATWASWWHCINCMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2018,WATWASWWHCTTE_EX,1955,5.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,2018,WATWASWWHCADI_EX,2000,7.011,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2018,WATWASWWHCADIMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2018,WATWASWWHCUSE_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,2018,WATWASWWHCFLR_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,2018,WATWASWWHBPRC_EX,1960,59.30243203536672,k$/Mm3a,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2018,WATWASWWHBTTE_EX,1960,5.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,2018,WATWASWWHBADI_EX,2000,7.011,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2018,WATWASWWHBADIMNGA_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2018,WATWASWWHBUSE_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,2018,WATWASWWHBFLR_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,2018,WATWASWWNTPRC_EX,1950,76.12123400552622,k$/Mm3a,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2018,WATWASFWRCHPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2018,WATWASFWFJHPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2018,WATWASFWRLCPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2018,WATWASFWISDPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2019,WATWASWWABPRC_EX,1950,139.94060783642507,k$/Mm3a,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2019,WATWASWWABTTE_EX,1950,5.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,2019,WATWASWWABADI_EX,2000,7.011,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2019,WATWASWWABADIMNGA_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2019,WATWASWWABUSE_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,2019,WATWASWWABFLR_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,2019,WATWASWWHCPRC_EX,1955,156.15594930510107,k$/Mm3a,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2019,WATWASWWHCINC_EX,1955,0.0,k$/kta,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2019,WATWASWWHCINCMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2019,WATWASWWHCTTE_EX,1955,5.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,2019,WATWASWWHCADI_EX,2000,7.011,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2019,WATWASWWHCADIMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2019,WATWASWWHCUSE_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,2019,WATWASWWHCFLR_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,2019,WATWASWWHBPRC_EX,1960,59.30243203536672,k$/Mm3a,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2019,WATWASWWHBTTE_EX,1960,5.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,2019,WATWASWWHBADI_EX,2000,7.011,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2019,WATWASWWHBADIMNGA_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2019,WATWASWWHBUSE_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,2019,WATWASWWHBFLR_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,2019,WATWASWWNTPRC_EX,1950,76.12123400552622,k$/Mm3a,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2019,WATWASFWRCHPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2019,WATWASFWFJHPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2019,WATWASFWRLCPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2019,WATWASFWISDPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2020,WATWASWWABPRC_EX,1950,139.94060783642507,k$/Mm3a,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2020,WATWASWWABTTE_EX,1950,5.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,2020,WATWASWWABADI_EX,2000,7.011,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2020,WATWASWWABADIMNGA_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2020,WATWASWWABUSE_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,2020,WATWASWWABFLR_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,2020,WATWASWWHCPRC_EX,1955,156.15594930510107,k$/Mm3a,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2020,WATWASWWHCINC_EX,1955,0.0,k$/kta,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2020,WATWASWWHCINCMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2020,WATWASWWHCTTE_EX,1955,5.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,2020,WATWASWWHCADI_EX,2000,7.011,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2020,WATWASWWHCADIMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2020,WATWASWWHCUSE_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,2020,WATWASWWHCFLR_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,2020,WATWASWWHBPRC_EX,1960,59.30243203536672,k$/Mm3a,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2020,WATWASWWHBTTE_EX,1960,5.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,2020,WATWASWWHBADI_EX,2000,7.011,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2020,WATWASWWHBADIMNGA_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2020,WATWASWWHBUSE_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,2020,WATWASWWHBFLR_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,2020,WATWASWWNTPRC_EX,1950,76.12123400552622,k$/Mm3a,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2020,WATWASFWRCHPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2020,WATWASFWFJHPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2020,WATWASFWRLCPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2020,WATWASFWISDPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2021,WATWASWWABPRC_EX,1950,139.94060783642507,k$/Mm3a,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2021,WATWASWWABTTE_EX,1950,5.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,2021,WATWASWWABADI_EX,2000,7.011,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2021,WATWASWWABADIMNGA_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2021,WATWASWWABUSE_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,2021,WATWASWWABFLR_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,2021,WATWASWWHCPRC_EX,1955,156.15594930510107,k$/Mm3a,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2021,WATWASWWHCINC_EX,1955,0.0,k$/kta,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2021,WATWASWWHCINCMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2021,WATWASWWHCTTE_EX,1955,5.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,2021,WATWASWWHCADI_EX,2000,7.011,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2021,WATWASWWHCADIMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2021,WATWASWWHCUSE_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,2021,WATWASWWHCFLR_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,2021,WATWASWWHBPRC_EX,1960,59.30243203536672,k$/Mm3a,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2021,WATWASWWHBTTE_EX,1960,5.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,2021,WATWASWWHBADI_EX,2000,7.011,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2021,WATWASWWHBADIMNGA_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2021,WATWASWWHBUSE_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,2021,WATWASWWHBFLR_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,2021,WATWASWWNTPRC_EX,1950,76.12123400552622,k$/Mm3a,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2021,WATWASFWRCHPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2021,WATWASFWFJHPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2021,WATWASFWRLCPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2021,WATWASFWISDPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2022,WATWASWWABPRC_EX,1950,139.94060783642507,k$/Mm3a,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2022,WATWASWWABTTE_EX,1950,5.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,2022,WATWASWWABADI_EX,2000,7.011,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2022,WATWASWWABADIMNGA_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2022,WATWASWWABUSE_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,2022,WATWASWWABFLR_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,2022,WATWASWWHCPRC_EX,1955,156.15594930510107,k$/Mm3a,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2022,WATWASWWHCINC_EX,1955,0.0,k$/kta,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2022,WATWASWWHCINCMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2022,WATWASWWHCTTE_EX,1955,5.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,2022,WATWASWWHCADI_EX,2000,7.011,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2022,WATWASWWHCADIMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2022,WATWASWWHCUSE_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,2022,WATWASWWHCFLR_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,2022,WATWASWWHBPRC_EX,1960,59.30243203536672,k$/Mm3a,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2022,WATWASWWHBTTE_EX,1960,5.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,2022,WATWASWWHBADI_EX,2000,7.011,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2022,WATWASWWHBADIMNGA_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2022,WATWASWWHBUSE_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,2022,WATWASWWHBFLR_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,2022,WATWASWWNTPRC_EX,1950,76.12123400552622,k$/Mm3a,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2022,WATWASFWRCHPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2022,WATWASFWFJHPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2022,WATWASFWRLCPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2022,WATWASFWISDPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2023,WATWASWWABPRC_EX,1950,139.94060783642507,k$/Mm3a,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2023,WATWASWWABTTE_EX,1950,5.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,2023,WATWASWWABADI_EX,2000,7.011,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2023,WATWASWWABADIMNGA_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2023,WATWASWWABUSE_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,2023,WATWASWWABFLR_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,2023,WATWASWWHCPRC_EX,1955,156.15594930510107,k$/Mm3a,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2023,WATWASWWHCINC_EX,1955,0.0,k$/kta,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2023,WATWASWWHCINCMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2023,WATWASWWHCTTE_EX,1955,5.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,2023,WATWASWWHCADI_EX,2000,7.011,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2023,WATWASWWHCADIMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2023,WATWASWWHCUSE_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,2023,WATWASWWHCFLR_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,2023,WATWASWWHBPRC_EX,1960,59.30243203536672,k$/Mm3a,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2023,WATWASWWHBTTE_EX,1960,5.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,2023,WATWASWWHBADI_EX,2000,7.011,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2023,WATWASWWHBADIMNGA_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2023,WATWASWWHBUSE_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,2023,WATWASWWHBFLR_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,2023,WATWASWWNTPRC_EX,1950,76.12123400552622,k$/Mm3a,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2023,WATWASFWRCHPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2023,WATWASFWFJHPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2023,WATWASFWRLCPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2023,WATWASFWISDPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2024,WATWASWWABPRC_EX,1950,139.94060783642507,k$/Mm3a,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2024,WATWASWWABTTE_EX,1950,5.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,2024,WATWASWWABADI_EX,2000,7.011,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2024,WATWASWWABADIMNGA_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2024,WATWASWWABUSE_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,2024,WATWASWWABFLR_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,2024,WATWASWWHCPRC_EX,1955,156.15594930510107,k$/Mm3a,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2024,WATWASWWHCINC_EX,1955,0.0,k$/kta,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2024,WATWASWWHCINCMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2024,WATWASWWHCTTE_EX,1955,5.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,2024,WATWASWWHCADI_EX,2000,7.011,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2024,WATWASWWHCADIMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2024,WATWASWWHCUSE_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,2024,WATWASWWHCFLR_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,2024,WATWASWWHBPRC_EX,1960,59.30243203536672,k$/Mm3a,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2024,WATWASWWHBTTE_EX,1960,5.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,2024,WATWASWWHBADI_EX,2000,7.011,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2024,WATWASWWHBADIMNGA_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2024,WATWASWWHBUSE_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,2024,WATWASWWHBFLR_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,2024,WATWASWWNTPRC_EX,1950,76.12123400552622,k$/Mm3a,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2024,WATWASFWRCHPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2024,WATWASFWFJHPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2024,WATWASFWRLCPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2024,WATWASFWISDPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2025,WATWASWWABPRC_EX,1950,139.94060783642507,k$/Mm3a,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2025,WATWASWWABTTE_EX,1950,5.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,2025,WATWASWWABADI_EX,2000,7.011,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2025,WATWASWWABADIMNGA_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2025,WATWASWWABUSE_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,2025,WATWASWWABFLR_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,2025,WATWASWWHCPRC_EX,1955,156.15594930510107,k$/Mm3a,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2025,WATWASWWHCINC_EX,1955,0.0,k$/kta,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2025,WATWASWWHCINCMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2025,WATWASWWHCTTE_EX,1955,5.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,2025,WATWASWWHCADI_EX,2000,7.011,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2025,WATWASWWHCADIMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2025,WATWASWWHCUSE_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,2025,WATWASWWHCFLR_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,2025,WATWASWWHBPRC_EX,1960,59.30243203536672,k$/Mm3a,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2025,WATWASWWHBTTE_EX,1960,5.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,2025,WATWASWWHBADI_EX,2000,7.011,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2025,WATWASWWHBADIMNGA_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2025,WATWASWWHBUSE_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,2025,WATWASWWHBFLR_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,2025,WATWASWWNTPRC_EX,1950,76.12123400552622,k$/Mm3a,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2025,WATWASFWRCHPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2025,WATWASFWFJHPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2025,WATWASFWRLCPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2025,WATWASFWISDPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2026,WATWASWWABPRC_EX,1950,139.94060783642507,k$/Mm3a,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2026,WATWASWWABTTE_EX,1950,5.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,2026,WATWASWWABADI_EX,2000,7.011,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2026,WATWASWWABADIMNGA_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2026,WATWASWWABUSE_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,2026,WATWASWWABFLR_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,2026,WATWASWWHCPRC_EX,1955,156.15594930510107,k$/Mm3a,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2026,WATWASWWHCINC_EX,1955,0.0,k$/kta,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2026,WATWASWWHCINCMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2026,WATWASWWHCTTE_EX,1955,5.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,2026,WATWASWWHCADI_EX,2000,7.011,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2026,WATWASWWHCADIMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2026,WATWASWWHCUSE_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,2026,WATWASWWHCFLR_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,2026,WATWASWWHBPRC_EX,1960,59.30243203536672,k$/Mm3a,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2026,WATWASWWHBTTE_EX,1960,5.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,2026,WATWASWWHBADI_EX,2000,7.011,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2026,WATWASWWHBADIMNGA_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2026,WATWASWWHBUSE_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,2026,WATWASWWHBFLR_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,2026,WATWASWWNTPRC_EX,1950,76.12123400552622,k$/Mm3a,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2026,WATWASFWRCHPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2026,WATWASFWFJHPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2026,WATWASFWRLCPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2026,WATWASFWISDPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2027,WATWASWWABPRC_EX,1950,139.94060783642507,k$/Mm3a,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2027,WATWASWWABTTE_EX,1950,5.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,2027,WATWASWWABADI_EX,2000,7.011,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2027,WATWASWWABADIMNGA_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2027,WATWASWWABUSE_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,2027,WATWASWWABFLR_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,2027,WATWASWWHCPRC_EX,1955,156.15594930510107,k$/Mm3a,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2027,WATWASWWHCINC_EX,1955,0.0,k$/kta,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2027,WATWASWWHCINCMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2027,WATWASWWHCTTE_EX,1955,5.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,2027,WATWASWWHCADI_EX,2000,7.011,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2027,WATWASWWHCADIMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2027,WATWASWWHCUSE_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,2027,WATWASWWHCFLR_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,2027,WATWASWWHBPRC_EX,1960,59.30243203536672,k$/Mm3a,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2027,WATWASWWHBTTE_EX,1960,5.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,2027,WATWASWWHBADI_EX,2000,7.011,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2027,WATWASWWHBADIMNGA_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2027,WATWASWWHBUSE_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,2027,WATWASWWHBFLR_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,2027,WATWASWWNTPRC_EX,1950,76.12123400552622,k$/Mm3a,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2027,WATWASFWRCHPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2027,WATWASFWFJHPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2027,WATWASFWRLCPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2027,WATWASFWISDPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2028,WATWASWWABPRC_EX,1950,139.94060783642507,k$/Mm3a,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2028,WATWASWWABTTE_EX,1950,5.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,2028,WATWASWWABADI_EX,2000,7.011,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2028,WATWASWWABADIMNGA_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2028,WATWASWWABUSE_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,2028,WATWASWWABFLR_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,2028,WATWASWWHCPRC_EX,1955,156.15594930510107,k$/Mm3a,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2028,WATWASWWHCINC_EX,1955,0.0,k$/kta,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2028,WATWASWWHCINCMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2028,WATWASWWHCTTE_EX,1955,5.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,2028,WATWASWWHCADI_EX,2000,7.011,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2028,WATWASWWHCADIMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2028,WATWASWWHCUSE_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,2028,WATWASWWHCFLR_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,2028,WATWASWWHBPRC_EX,1960,59.30243203536672,k$/Mm3a,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2028,WATWASWWHBTTE_EX,1960,5.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,2028,WATWASWWHBADI_EX,2000,7.011,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2028,WATWASWWHBADIMNGA_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2028,WATWASWWHBUSE_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,2028,WATWASWWHBFLR_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,2028,WATWASWWNTPRC_EX,1950,76.12123400552622,k$/Mm3a,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2028,WATWASFWRCHPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2028,WATWASFWFJHPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2028,WATWASFWRLCPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2028,WATWASFWISDPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2029,WATWASWWABPRC_EX,1950,139.94060783642507,k$/Mm3a,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2029,WATWASWWABTTE_EX,1950,5.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,2029,WATWASWWABADI_EX,2000,7.011,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2029,WATWASWWABADIMNGA_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2029,WATWASWWABUSE_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,2029,WATWASWWABFLR_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,2029,WATWASWWHCPRC_EX,1955,156.15594930510107,k$/Mm3a,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2029,WATWASWWHCINC_EX,1955,0.0,k$/kta,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2029,WATWASWWHCINCMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2029,WATWASWWHCTTE_EX,1955,5.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,2029,WATWASWWHCADI_EX,2000,7.011,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2029,WATWASWWHCADIMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2029,WATWASWWHCUSE_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,2029,WATWASWWHCFLR_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,2029,WATWASWWHBPRC_EX,1960,59.30243203536672,k$/Mm3a,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2029,WATWASWWHBTTE_EX,1960,5.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,2029,WATWASWWHBADI_EX,2000,7.011,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2029,WATWASWWHBADIMNGA_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2029,WATWASWWHBUSE_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,2029,WATWASWWHBFLR_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,2029,WATWASWWNTPRC_EX,1950,76.12123400552622,k$/Mm3a,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2029,WATWASFWRCHPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2029,WATWASFWFJHPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2029,WATWASFWRLCPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2029,WATWASFWISDPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2030,WATWASWWABPRC_EX,1950,139.94060783642507,k$/Mm3a,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2030,WATWASWWABTTE_EX,1950,5.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,2030,WATWASWWABADIMNGA_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2030,WATWASWWABUSE_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,2030,WATWASWWABFLR_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,2030,WATWASWWHCPRC_EX,1955,156.15594930510107,k$/Mm3a,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2030,WATWASWWHCINC_EX,1955,0.0,k$/kta,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2030,WATWASWWHCINCMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2030,WATWASWWHCTTE_EX,1955,5.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,2030,WATWASWWHCADIMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2030,WATWASWWHCUSE_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,2030,WATWASWWHCFLR_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,2030,WATWASWWHBPRC_EX,1960,59.30243203536672,k$/Mm3a,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2030,WATWASWWHBTTE_EX,1960,5.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,2030,WATWASWWHBADIMNGA_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2030,WATWASWWHBUSE_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,2030,WATWASWWHBFLR_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,2030,WATWASWWNTPRC_EX,1950,76.12123400552622,k$/Mm3a,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2030,WATWASFWRCHPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2030,WATWASFWFJHPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2030,WATWASFWRLCPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2030,WATWASFWISDPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2031,WATWASWWABPRC_EX,1950,139.94060783642507,k$/Mm3a,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2031,WATWASWWABTTE_EX,1950,5.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,2031,WATWASWWABADIMNGA_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2031,WATWASWWABUSE_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,2031,WATWASWWABFLR_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,2031,WATWASWWHCPRC_EX,1955,156.15594930510107,k$/Mm3a,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2031,WATWASWWHCINC_EX,1955,0.0,k$/kta,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2031,WATWASWWHCINCMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2031,WATWASWWHCTTE_EX,1955,5.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,2031,WATWASWWHCADIMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2031,WATWASWWHCUSE_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,2031,WATWASWWHCFLR_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,2031,WATWASWWHBPRC_EX,1960,59.30243203536672,k$/Mm3a,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2031,WATWASWWHBTTE_EX,1960,5.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,2031,WATWASWWHBADIMNGA_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2031,WATWASWWHBUSE_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,2031,WATWASWWHBFLR_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,2031,WATWASWWNTPRC_EX,1950,76.12123400552622,k$/Mm3a,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2031,WATWASFWRCHPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2031,WATWASFWFJHPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2031,WATWASFWRLCPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2031,WATWASFWISDPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2032,WATWASWWABPRC_EX,1950,139.94060783642507,k$/Mm3a,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2032,WATWASWWABTTE_EX,1950,5.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,2032,WATWASWWABADIMNGA_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2032,WATWASWWABUSE_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,2032,WATWASWWABFLR_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,2032,WATWASWWHCPRC_EX,1955,156.15594930510107,k$/Mm3a,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2032,WATWASWWHCINC_EX,1955,0.0,k$/kta,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2032,WATWASWWHCINCMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2032,WATWASWWHCTTE_EX,1955,5.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,2032,WATWASWWHCADIMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2032,WATWASWWHCUSE_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,2032,WATWASWWHCFLR_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,2032,WATWASWWHBPRC_EX,1960,59.30243203536672,k$/Mm3a,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2032,WATWASWWHBTTE_EX,1960,5.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,2032,WATWASWWHBADIMNGA_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2032,WATWASWWHBUSE_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,2032,WATWASWWHBFLR_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,2032,WATWASWWNTPRC_EX,1950,76.12123400552622,k$/Mm3a,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2032,WATWASFWRCHPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2032,WATWASFWFJHPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2032,WATWASFWRLCPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2032,WATWASFWISDPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2033,WATWASWWABPRC_EX,1950,139.94060783642507,k$/Mm3a,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2033,WATWASWWABTTE_EX,1950,5.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,2033,WATWASWWABADIMNGA_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2033,WATWASWWABUSE_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,2033,WATWASWWABFLR_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,2033,WATWASWWHCPRC_EX,1955,156.15594930510107,k$/Mm3a,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2033,WATWASWWHCINC_EX,1955,0.0,k$/kta,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2033,WATWASWWHCINCMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2033,WATWASWWHCTTE_EX,1955,5.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,2033,WATWASWWHCADIMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2033,WATWASWWHCUSE_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,2033,WATWASWWHCFLR_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,2033,WATWASWWHBPRC_EX,1960,59.30243203536672,k$/Mm3a,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2033,WATWASWWHBTTE_EX,1960,5.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,2033,WATWASWWHBADIMNGA_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2033,WATWASWWHBUSE_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,2033,WATWASWWHBFLR_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,2033,WATWASWWNTPRC_EX,1950,76.12123400552622,k$/Mm3a,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2033,WATWASFWRCHPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2033,WATWASFWFJHPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2033,WATWASFWRLCPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2033,WATWASFWISDPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2034,WATWASWWABPRC_EX,1950,139.94060783642507,k$/Mm3a,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2034,WATWASWWABTTE_EX,1950,5.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,2034,WATWASWWABADIMNGA_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2034,WATWASWWABUSE_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,2034,WATWASWWABFLR_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,2034,WATWASWWHCPRC_EX,1955,156.15594930510107,k$/Mm3a,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2034,WATWASWWHCINC_EX,1955,0.0,k$/kta,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2034,WATWASWWHCINCMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2034,WATWASWWHCTTE_EX,1955,5.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,2034,WATWASWWHCADIMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2034,WATWASWWHCUSE_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,2034,WATWASWWHCFLR_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,2034,WATWASWWHBPRC_EX,1960,59.30243203536672,k$/Mm3a,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2034,WATWASWWHBTTE_EX,1960,5.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,2034,WATWASWWHBADIMNGA_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2034,WATWASWWHBUSE_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,2034,WATWASWWHBFLR_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,2034,WATWASWWNTPRC_EX,1950,76.12123400552622,k$/Mm3a,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2034,WATWASFWRCHPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2034,WATWASFWFJHPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2034,WATWASFWRLCPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2034,WATWASFWISDPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2035,WATWASWWABPRC_EX,1950,139.94060783642507,k$/Mm3a,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2035,WATWASWWABTTE_EX,1950,5.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,2035,WATWASWWABADIMNGA_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2035,WATWASWWABUSE_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,2035,WATWASWWABFLR_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,2035,WATWASWWHCPRC_EX,1955,156.15594930510107,k$/Mm3a,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2035,WATWASWWHCINC_EX,1955,0.0,k$/kta,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2035,WATWASWWHCINCMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2035,WATWASWWHCTTE_EX,1955,5.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,2035,WATWASWWHCADIMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2035,WATWASWWHCUSE_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,2035,WATWASWWHCFLR_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,2035,WATWASWWHBPRC_EX,1960,59.30243203536672,k$/Mm3a,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2035,WATWASWWHBTTE_EX,1960,5.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,2035,WATWASWWHBADIMNGA_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2035,WATWASWWHBUSE_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,2035,WATWASWWHBFLR_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,2035,WATWASWWNTPRC_EX,1950,76.12123400552622,k$/Mm3a,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2035,WATWASFWRCHPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2035,WATWASFWFJHPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2035,WATWASFWRLCPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2035,WATWASFWISDPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2036,WATWASWWABPRC_EX,1950,139.94060783642507,k$/Mm3a,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2036,WATWASWWABTTE_EX,1950,5.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,2036,WATWASWWABADIMNGA_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2036,WATWASWWABUSE_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,2036,WATWASWWABFLR_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,2036,WATWASWWHCPRC_EX,1955,156.15594930510107,k$/Mm3a,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2036,WATWASWWHCINC_EX,1955,0.0,k$/kta,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2036,WATWASWWHCINCMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2036,WATWASWWHCTTE_EX,1955,5.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,2036,WATWASWWHCADIMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2036,WATWASWWHCUSE_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,2036,WATWASWWHCFLR_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,2036,WATWASWWHBPRC_EX,1960,59.30243203536672,k$/Mm3a,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2036,WATWASWWHBTTE_EX,1960,5.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,2036,WATWASWWHBADIMNGA_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2036,WATWASWWHBUSE_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,2036,WATWASWWHBFLR_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,2036,WATWASWWNTPRC_EX,1950,76.12123400552622,k$/Mm3a,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2036,WATWASFWRCHPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2036,WATWASFWFJHPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2036,WATWASFWRLCPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2036,WATWASFWISDPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2037,WATWASWWABPRC_EX,1950,139.94060783642507,k$/Mm3a,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2037,WATWASWWABTTE_EX,1950,5.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,2037,WATWASWWABADIMNGA_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2037,WATWASWWABUSE_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,2037,WATWASWWABFLR_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,2037,WATWASWWHCPRC_EX,1955,156.15594930510107,k$/Mm3a,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2037,WATWASWWHCINC_EX,1955,0.0,k$/kta,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2037,WATWASWWHCINCMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2037,WATWASWWHCTTE_EX,1955,5.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,2037,WATWASWWHCADIMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2037,WATWASWWHCUSE_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,2037,WATWASWWHCFLR_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,2037,WATWASWWHBPRC_EX,1960,59.30243203536672,k$/Mm3a,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2037,WATWASWWHBTTE_EX,1960,5.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,2037,WATWASWWHBADIMNGA_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2037,WATWASWWHBUSE_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,2037,WATWASWWHBFLR_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,2037,WATWASWWNTPRC_EX,1950,76.12123400552622,k$/Mm3a,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2037,WATWASFWRCHPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2037,WATWASFWFJHPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2037,WATWASFWRLCPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2037,WATWASFWISDPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2038,WATWASWWABPRC_EX,1950,139.94060783642507,k$/Mm3a,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2038,WATWASWWABTTE_EX,1950,5.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,2038,WATWASWWABADIMNGA_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2038,WATWASWWABUSE_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,2038,WATWASWWABFLR_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,2038,WATWASWWHCPRC_EX,1955,156.15594930510107,k$/Mm3a,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2038,WATWASWWHCINC_EX,1955,0.0,k$/kta,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2038,WATWASWWHCINCMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2038,WATWASWWHCTTE_EX,1955,5.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,2038,WATWASWWHCADIMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2038,WATWASWWHCUSE_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,2038,WATWASWWHCFLR_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,2038,WATWASWWHBPRC_EX,1960,59.30243203536672,k$/Mm3a,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2038,WATWASWWHBTTE_EX,1960,5.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,2038,WATWASWWHBADIMNGA_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2038,WATWASWWHBUSE_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,2038,WATWASWWHBFLR_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,2038,WATWASWWNTPRC_EX,1950,76.12123400552622,k$/Mm3a,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2038,WATWASFWRCHPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2038,WATWASFWFJHPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2038,WATWASFWRLCPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2038,WATWASFWISDPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2039,WATWASWWABPRC_EX,1950,139.94060783642507,k$/Mm3a,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2039,WATWASWWABTTE_EX,1950,5.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,2039,WATWASWWABADIMNGA_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2039,WATWASWWABUSE_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,2039,WATWASWWABFLR_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,2039,WATWASWWHCPRC_EX,1955,156.15594930510107,k$/Mm3a,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2039,WATWASWWHCINC_EX,1955,0.0,k$/kta,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2039,WATWASWWHCINCMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2039,WATWASWWHCTTE_EX,1955,5.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,2039,WATWASWWHCADIMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2039,WATWASWWHCUSE_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,2039,WATWASWWHCFLR_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,2039,WATWASWWHBPRC_EX,1960,59.30243203536672,k$/Mm3a,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2039,WATWASWWHBTTE_EX,1960,5.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,2039,WATWASWWHBADIMNGA_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2039,WATWASWWHBUSE_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,2039,WATWASWWHBFLR_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,2039,WATWASWWNTPRC_EX,1950,76.12123400552622,k$/Mm3a,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2039,WATWASFWRCHPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2039,WATWASFWFJHPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2039,WATWASFWRLCPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2039,WATWASFWISDPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2040,WATWASWWABPRC_EX,1950,139.94060783642507,k$/Mm3a,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2040,WATWASWWABTTE_EX,1950,5.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,2040,WATWASWWABADIMNGA_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2040,WATWASWWABUSE_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,2040,WATWASWWABFLR_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,2040,WATWASWWHCPRC_EX,1955,156.15594930510107,k$/Mm3a,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2040,WATWASWWHCINC_EX,1955,0.0,k$/kta,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2040,WATWASWWHCINCMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2040,WATWASWWHCTTE_EX,1955,5.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,2040,WATWASWWHCADIMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2040,WATWASWWHCUSE_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,2040,WATWASWWHCFLR_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,2040,WATWASWWHBPRC_EX,1960,59.30243203536672,k$/Mm3a,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2040,WATWASWWHBTTE_EX,1960,5.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,2040,WATWASWWHBADIMNGA_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2040,WATWASWWHBUSE_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,2040,WATWASWWHBFLR_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,2040,WATWASWWNTPRC_EX,1950,76.12123400552622,k$/Mm3a,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2040,WATWASFWRCHPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2040,WATWASFWFJHPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2040,WATWASFWRLCPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2040,WATWASFWISDPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2041,WATWASWWABPRC_EX,1950,139.94060783642507,k$/Mm3a,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2041,WATWASWWABTTE_EX,1950,5.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,2041,WATWASWWABADIMNGA_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2041,WATWASWWABUSE_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,2041,WATWASWWABFLR_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,2041,WATWASWWHCPRC_EX,1955,156.15594930510107,k$/Mm3a,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2041,WATWASWWHCINC_EX,1955,0.0,k$/kta,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2041,WATWASWWHCINCMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2041,WATWASWWHCTTE_EX,1955,5.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,2041,WATWASWWHCADIMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2041,WATWASWWHCUSE_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,2041,WATWASWWHCFLR_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,2041,WATWASWWHBPRC_EX,1960,59.30243203536672,k$/Mm3a,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2041,WATWASWWHBTTE_EX,1960,5.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,2041,WATWASWWHBADIMNGA_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2041,WATWASWWHBUSE_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,2041,WATWASWWHBFLR_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,2041,WATWASWWNTPRC_EX,1950,76.12123400552622,k$/Mm3a,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2041,WATWASFWRCHPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2041,WATWASFWFJHPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2041,WATWASFWRLCPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2041,WATWASFWISDPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2042,WATWASWWABPRC_EX,1950,139.94060783642507,k$/Mm3a,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2042,WATWASWWABTTE_EX,1950,5.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,2042,WATWASWWABADIMNGA_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2042,WATWASWWABUSE_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,2042,WATWASWWABFLR_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,2042,WATWASWWHCPRC_EX,1955,156.15594930510107,k$/Mm3a,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2042,WATWASWWHCINC_EX,1955,0.0,k$/kta,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2042,WATWASWWHCINCMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2042,WATWASWWHCTTE_EX,1955,5.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,2042,WATWASWWHCADIMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2042,WATWASWWHCUSE_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,2042,WATWASWWHCFLR_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,2042,WATWASWWHBPRC_EX,1960,59.30243203536672,k$/Mm3a,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2042,WATWASWWHBTTE_EX,1960,5.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,2042,WATWASWWHBADIMNGA_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2042,WATWASWWHBUSE_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,2042,WATWASWWHBFLR_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,2042,WATWASWWNTPRC_EX,1950,76.12123400552622,k$/Mm3a,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2042,WATWASFWRCHPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2042,WATWASFWFJHPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2042,WATWASFWRLCPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2042,WATWASFWISDPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2043,WATWASWWABPRC_EX,1950,139.94060783642507,k$/Mm3a,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2043,WATWASWWABTTE_EX,1950,5.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,2043,WATWASWWABADIMNGA_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2043,WATWASWWABUSE_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,2043,WATWASWWABFLR_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,2043,WATWASWWHCPRC_EX,1955,156.15594930510107,k$/Mm3a,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2043,WATWASWWHCINC_EX,1955,0.0,k$/kta,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2043,WATWASWWHCINCMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2043,WATWASWWHCTTE_EX,1955,5.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,2043,WATWASWWHCADIMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2043,WATWASWWHCUSE_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,2043,WATWASWWHCFLR_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,2043,WATWASWWHBPRC_EX,1960,59.30243203536672,k$/Mm3a,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2043,WATWASWWHBTTE_EX,1960,5.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,2043,WATWASWWHBADIMNGA_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2043,WATWASWWHBUSE_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,2043,WATWASWWHBFLR_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,2043,WATWASWWNTPRC_EX,1950,76.12123400552622,k$/Mm3a,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2043,WATWASFWRCHPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2043,WATWASFWFJHPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2043,WATWASFWRLCPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2043,WATWASFWISDPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2044,WATWASWWABPRC_EX,1950,139.94060783642507,k$/Mm3a,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2044,WATWASWWABTTE_EX,1950,5.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,2044,WATWASWWABADIMNGA_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2044,WATWASWWABUSE_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,2044,WATWASWWABFLR_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,2044,WATWASWWHCPRC_EX,1955,156.15594930510107,k$/Mm3a,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2044,WATWASWWHCINC_EX,1955,0.0,k$/kta,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2044,WATWASWWHCINCMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2044,WATWASWWHCTTE_EX,1955,5.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,2044,WATWASWWHCADIMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2044,WATWASWWHCUSE_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,2044,WATWASWWHCFLR_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,2044,WATWASWWHBPRC_EX,1960,59.30243203536672,k$/Mm3a,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2044,WATWASWWHBTTE_EX,1960,5.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,2044,WATWASWWHBADIMNGA_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2044,WATWASWWHBUSE_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,2044,WATWASWWHBFLR_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,2044,WATWASWWNTPRC_EX,1950,76.12123400552622,k$/Mm3a,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2044,WATWASFWRCHPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2044,WATWASFWFJHPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2044,WATWASFWRLCPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2044,WATWASFWISDPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2045,WATWASWWABPRC_EX,1950,139.94060783642507,k$/Mm3a,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2045,WATWASWWABTTE_EX,1950,5.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,2045,WATWASWWABADIMNGA_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2045,WATWASWWABUSE_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,2045,WATWASWWABFLR_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,2045,WATWASWWHCPRC_EX,1955,156.15594930510107,k$/Mm3a,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2045,WATWASWWHCINC_EX,1955,0.0,k$/kta,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2045,WATWASWWHCINCMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2045,WATWASWWHCTTE_EX,1955,5.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,2045,WATWASWWHCADIMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2045,WATWASWWHCUSE_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,2045,WATWASWWHCFLR_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,2045,WATWASWWHBPRC_EX,1960,59.30243203536672,k$/Mm3a,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2045,WATWASWWHBTTE_EX,1960,5.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,2045,WATWASWWHBADIMNGA_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2045,WATWASWWHBUSE_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,2045,WATWASWWHBFLR_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,2045,WATWASWWNTPRC_EX,1950,76.12123400552622,k$/Mm3a,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2045,WATWASFWRCHPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2045,WATWASFWFJHPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2045,WATWASFWRLCPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2045,WATWASFWISDPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2046,WATWASWWABPRC_EX,1950,139.94060783642507,k$/Mm3a,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2046,WATWASWWABTTE_EX,1950,5.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,2046,WATWASWWABADIMNGA_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2046,WATWASWWABUSE_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,2046,WATWASWWABFLR_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,2046,WATWASWWHCPRC_EX,1955,156.15594930510107,k$/Mm3a,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2046,WATWASWWHCINC_EX,1955,0.0,k$/kta,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2046,WATWASWWHCINCMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2046,WATWASWWHCTTE_EX,1955,5.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,2046,WATWASWWHCADIMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2046,WATWASWWHCUSE_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,2046,WATWASWWHCFLR_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,2046,WATWASWWHBPRC_EX,1960,59.30243203536672,k$/Mm3a,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2046,WATWASWWHBTTE_EX,1960,5.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,2046,WATWASWWHBADIMNGA_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2046,WATWASWWHBUSE_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,2046,WATWASWWHBFLR_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,2046,WATWASWWNTPRC_EX,1950,76.12123400552622,k$/Mm3a,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2046,WATWASFWRCHPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2046,WATWASFWFJHPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2046,WATWASFWRLCPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2046,WATWASFWISDPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2047,WATWASWWABPRC_EX,1950,139.94060783642507,k$/Mm3a,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2047,WATWASWWABTTE_EX,1950,5.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,2047,WATWASWWABADIMNGA_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2047,WATWASWWABUSE_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,2047,WATWASWWABFLR_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,2047,WATWASWWHCPRC_EX,1955,156.15594930510107,k$/Mm3a,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2047,WATWASWWHCINC_EX,1955,0.0,k$/kta,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2047,WATWASWWHCINCMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2047,WATWASWWHCTTE_EX,1955,5.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,2047,WATWASWWHCADIMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2047,WATWASWWHCUSE_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,2047,WATWASWWHCFLR_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,2047,WATWASWWHBPRC_EX,1960,59.30243203536672,k$/Mm3a,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2047,WATWASWWHBTTE_EX,1960,5.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,2047,WATWASWWHBADIMNGA_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2047,WATWASWWHBUSE_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,2047,WATWASWWHBFLR_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,2047,WATWASWWNTPRC_EX,1950,76.12123400552622,k$/Mm3a,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2047,WATWASFWRCHPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2047,WATWASFWFJHPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2047,WATWASFWRLCPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2047,WATWASFWISDPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2048,WATWASWWABPRC_EX,1950,139.94060783642507,k$/Mm3a,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2048,WATWASWWABTTE_EX,1950,5.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,2048,WATWASWWABADIMNGA_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2048,WATWASWWABUSE_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,2048,WATWASWWABFLR_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,2048,WATWASWWHCPRC_EX,1955,156.15594930510107,k$/Mm3a,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2048,WATWASWWHCINC_EX,1955,0.0,k$/kta,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2048,WATWASWWHCINCMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2048,WATWASWWHCTTE_EX,1955,5.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,2048,WATWASWWHCADIMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2048,WATWASWWHCUSE_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,2048,WATWASWWHCFLR_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,2048,WATWASWWHBPRC_EX,1960,59.30243203536672,k$/Mm3a,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2048,WATWASWWHBTTE_EX,1960,5.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,2048,WATWASWWHBADIMNGA_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2048,WATWASWWHBUSE_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,2048,WATWASWWHBFLR_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,2048,WATWASWWNTPRC_EX,1950,76.12123400552622,k$/Mm3a,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2048,WATWASFWRCHPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2048,WATWASFWFJHPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2048,WATWASFWRLCPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2048,WATWASFWISDPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2049,WATWASWWABPRC_EX,1950,139.94060783642507,k$/Mm3a,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2049,WATWASWWABTTE_EX,1950,5.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,2049,WATWASWWABADIMNGA_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2049,WATWASWWABUSE_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,2049,WATWASWWABFLR_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,2049,WATWASWWHCPRC_EX,1955,156.15594930510107,k$/Mm3a,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2049,WATWASWWHCINC_EX,1955,0.0,k$/kta,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2049,WATWASWWHCINCMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2049,WATWASWWHCTTE_EX,1955,5.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,2049,WATWASWWHCADIMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2049,WATWASWWHCUSE_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,2049,WATWASWWHCFLR_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,2049,WATWASWWHBPRC_EX,1960,59.30243203536672,k$/Mm3a,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2049,WATWASWWHBTTE_EX,1960,5.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,2049,WATWASWWHBADIMNGA_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2049,WATWASWWHBUSE_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,2049,WATWASWWHBFLR_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,2049,WATWASWWNTPRC_EX,1950,76.12123400552622,k$/Mm3a,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2049,WATWASFWRCHPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2049,WATWASFWFJHPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2049,WATWASFWRLCPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2049,WATWASFWISDPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2050,WATWASWWABPRC_EX,1950,139.94060783642507,k$/Mm3a,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2050,WATWASWWABTTE_EX,1950,5.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,2050,WATWASWWABADIMNGA_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2050,WATWASWWABUSE_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,2050,WATWASWWABFLR_EX,1950,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,2050,WATWASWWHCPRC_EX,1955,156.15594930510107,k$/Mm3a,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2050,WATWASWWHCINC_EX,1955,0.0,k$/kta,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2050,WATWASWWHCINCMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2050,WATWASWWHCTTE_EX,1955,5.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,2050,WATWASWWHCADIMNGA_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2050,WATWASWWHCUSE_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,2050,WATWASWWHCFLR_EX,1955,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,2050,WATWASWWHBPRC_EX,1960,59.30243203536672,k$/Mm3a,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2050,WATWASWWHBTTE_EX,1960,5.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,2050,WATWASWWHBADIMNGA_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2050,WATWASWWHBUSE_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,2050,WATWASWWHBFLR_EX,1960,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,2050,WATWASWWNTPRC_EX,1950,76.12123400552622,k$/Mm3a,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2050,WATWASFWRCHPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2050,WATWASFWFJHPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2050,WATWASFWRLCPRC_EX,1950,226.05060485584724,k$/Mm3a,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2050,WATWASFWISDPRC_EX,1980,226.05060485584724,k$/Mm3a,WaterWasteFresh waterIsland Water Treatment PlantProcess

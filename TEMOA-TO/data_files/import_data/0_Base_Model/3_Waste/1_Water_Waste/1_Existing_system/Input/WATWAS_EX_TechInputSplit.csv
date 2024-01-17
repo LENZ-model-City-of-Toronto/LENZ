@@ -1,0 +1,911 @@
+regions,periods,input_comm,tech,TIS,ti_split_notes
+TO,2016,WATWASELC,WATWASWWABPRC_EX,0.920367682102541,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2016,ADEMWATWASWWABTTE,WATWASWWABPRC_EX,0.07963231789745902,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2016,WATWASNGA,WATWASWWABADIMNGA_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2016,WATWASELC,WATWASWWHCPRC_EX,0.8173590092263603,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2016,ADEMWATWASWWHCTTE,WATWASWWHCPRC_EX,0.14249681975698558,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2016,ADEMWATWASWWINC,WATWASWWHCPRC_EX,0.04014417101665424,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2016,WATWASNGA,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2016,WATWASNGA,WATWASWWHCADIMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2016,WATWASELC,WATWASWWHBPRC_EX,0.8344201871278707,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2016,ADEMWATWASWWHBTTE,WATWASWWHBPRC_EX,0.16557981287212928,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2016,WATWASNGA,WATWASWWHBADIMNGA_EX,0.5078912201809637,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2016,WATWASBMTN,WATWASWWHBADIMNGA_EX,0.4921087798190363,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2016,WATWASELC,WATWASWWNTPRC_EX,0.6064690026954178,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2016,ADEMWATWASNTWWPRC,WATWASWWNTPRC_EX,0.39353099730458224,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2016,WATWASNGA,WATWASFWRCHPRC_EX,0.004683101506740105,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2016,WATWASELC,WATWASFWRCHPRC_EX,0.5529410296185185,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2016,WATWASFW,WATWASFWRCHPRC_EX,0.4423758688747414,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2016,WATWASNGA,WATWASFWFJHPRC_EX,0.01083621497839885,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2016,WATWASELC,WATWASFWFJHPRC_EX,0.6114372288347742,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2016,WATWASFW,WATWASFWFJHPRC_EX,0.3777265561868269,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2016,WATWASNGA,WATWASFWRLCPRC_EX,0.012352346135197161,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2016,WATWASELC,WATWASFWRLCPRC_EX,0.5939289102816177,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2016,WATWASFW,WATWASFWRLCPRC_EX,0.3937187435831853,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2016,WATWASNGA,WATWASFWISDPRC_EX,0.013858860787190874,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2016,WATWASELC,WATWASFWISDPRC_EX,0.22403619392462484,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2016,WATWASFW,WATWASFWISDPRC_EX,0.7621049452881843,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2017,WATWASELC,WATWASWWABPRC_EX,0.920367682102541,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2017,ADEMWATWASWWABTTE,WATWASWWABPRC_EX,0.07963231789745902,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2017,WATWASNGA,WATWASWWABADIMNGA_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2017,WATWASELC,WATWASWWHCPRC_EX,0.8173590092263603,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2017,ADEMWATWASWWHCTTE,WATWASWWHCPRC_EX,0.14249681975698558,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2017,ADEMWATWASWWINC,WATWASWWHCPRC_EX,0.04014417101665424,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2017,WATWASNGA,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2017,WATWASNGA,WATWASWWHCADIMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2017,WATWASELC,WATWASWWHBPRC_EX,0.8344201871278707,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2017,ADEMWATWASWWHBTTE,WATWASWWHBPRC_EX,0.16557981287212928,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2017,WATWASNGA,WATWASWWHBADIMNGA_EX,0.5078912201809637,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2017,WATWASBMTN,WATWASWWHBADIMNGA_EX,0.4921087798190363,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2017,WATWASELC,WATWASWWNTPRC_EX,0.6064690026954178,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2017,ADEMWATWASNTWWPRC,WATWASWWNTPRC_EX,0.39353099730458224,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2017,WATWASNGA,WATWASFWRCHPRC_EX,0.004683101506740105,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2017,WATWASELC,WATWASFWRCHPRC_EX,0.5529410296185185,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2017,WATWASFW,WATWASFWRCHPRC_EX,0.4423758688747414,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2017,WATWASNGA,WATWASFWFJHPRC_EX,0.01083621497839885,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2017,WATWASELC,WATWASFWFJHPRC_EX,0.6114372288347742,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2017,WATWASFW,WATWASFWFJHPRC_EX,0.3777265561868269,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2017,WATWASNGA,WATWASFWRLCPRC_EX,0.012352346135197161,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2017,WATWASELC,WATWASFWRLCPRC_EX,0.5939289102816177,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2017,WATWASFW,WATWASFWRLCPRC_EX,0.3937187435831853,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2017,WATWASNGA,WATWASFWISDPRC_EX,0.013858860787190874,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2017,WATWASELC,WATWASFWISDPRC_EX,0.22403619392462484,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2017,WATWASFW,WATWASFWISDPRC_EX,0.7621049452881843,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2018,WATWASELC,WATWASWWABPRC_EX,0.920367682102541,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2018,ADEMWATWASWWABTTE,WATWASWWABPRC_EX,0.07963231789745902,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2018,WATWASNGA,WATWASWWABADIMNGA_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2018,WATWASELC,WATWASWWHCPRC_EX,0.8173590092263603,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2018,ADEMWATWASWWHCTTE,WATWASWWHCPRC_EX,0.14249681975698558,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2018,ADEMWATWASWWINC,WATWASWWHCPRC_EX,0.04014417101665424,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2018,WATWASNGA,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2018,WATWASNGA,WATWASWWHCADIMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2018,WATWASELC,WATWASWWHBPRC_EX,0.8344201871278707,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2018,ADEMWATWASWWHBTTE,WATWASWWHBPRC_EX,0.16557981287212928,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2018,WATWASNGA,WATWASWWHBADIMNGA_EX,0.5078912201809637,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2018,WATWASBMTN,WATWASWWHBADIMNGA_EX,0.4921087798190363,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2018,WATWASELC,WATWASWWNTPRC_EX,0.6064690026954178,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2018,ADEMWATWASNTWWPRC,WATWASWWNTPRC_EX,0.39353099730458224,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2018,WATWASNGA,WATWASFWRCHPRC_EX,0.004683101506740105,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2018,WATWASELC,WATWASFWRCHPRC_EX,0.5529410296185185,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2018,WATWASFW,WATWASFWRCHPRC_EX,0.4423758688747414,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2018,WATWASNGA,WATWASFWFJHPRC_EX,0.01083621497839885,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2018,WATWASELC,WATWASFWFJHPRC_EX,0.6114372288347742,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2018,WATWASFW,WATWASFWFJHPRC_EX,0.3777265561868269,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2018,WATWASNGA,WATWASFWRLCPRC_EX,0.012352346135197161,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2018,WATWASELC,WATWASFWRLCPRC_EX,0.5939289102816177,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2018,WATWASFW,WATWASFWRLCPRC_EX,0.3937187435831853,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2018,WATWASNGA,WATWASFWISDPRC_EX,0.013858860787190874,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2018,WATWASELC,WATWASFWISDPRC_EX,0.22403619392462484,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2018,WATWASFW,WATWASFWISDPRC_EX,0.7621049452881843,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2019,WATWASELC,WATWASWWABPRC_EX,0.920367682102541,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2019,ADEMWATWASWWABTTE,WATWASWWABPRC_EX,0.07963231789745902,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2019,WATWASNGA,WATWASWWABADIMNGA_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2019,WATWASELC,WATWASWWHCPRC_EX,0.8173590092263603,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2019,ADEMWATWASWWHCTTE,WATWASWWHCPRC_EX,0.14249681975698558,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2019,ADEMWATWASWWINC,WATWASWWHCPRC_EX,0.04014417101665424,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2019,WATWASNGA,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2019,WATWASNGA,WATWASWWHCADIMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2019,WATWASELC,WATWASWWHBPRC_EX,0.8344201871278707,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2019,ADEMWATWASWWHBTTE,WATWASWWHBPRC_EX,0.16557981287212928,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2019,WATWASNGA,WATWASWWHBADIMNGA_EX,0.5078912201809637,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2019,WATWASBMTN,WATWASWWHBADIMNGA_EX,0.4921087798190363,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2019,WATWASELC,WATWASWWNTPRC_EX,0.6064690026954178,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2019,ADEMWATWASNTWWPRC,WATWASWWNTPRC_EX,0.39353099730458224,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2019,WATWASNGA,WATWASFWRCHPRC_EX,0.004683101506740105,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2019,WATWASELC,WATWASFWRCHPRC_EX,0.5529410296185185,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2019,WATWASFW,WATWASFWRCHPRC_EX,0.4423758688747414,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2019,WATWASNGA,WATWASFWFJHPRC_EX,0.01083621497839885,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2019,WATWASELC,WATWASFWFJHPRC_EX,0.6114372288347742,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2019,WATWASFW,WATWASFWFJHPRC_EX,0.3777265561868269,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2019,WATWASNGA,WATWASFWRLCPRC_EX,0.012352346135197161,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2019,WATWASELC,WATWASFWRLCPRC_EX,0.5939289102816177,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2019,WATWASFW,WATWASFWRLCPRC_EX,0.3937187435831853,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2019,WATWASNGA,WATWASFWISDPRC_EX,0.013858860787190874,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2019,WATWASELC,WATWASFWISDPRC_EX,0.22403619392462484,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2019,WATWASFW,WATWASFWISDPRC_EX,0.7621049452881843,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2020,WATWASELC,WATWASWWABPRC_EX,0.920367682102541,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2020,ADEMWATWASWWABTTE,WATWASWWABPRC_EX,0.07963231789745902,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2020,WATWASNGA,WATWASWWABADIMNGA_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2020,WATWASELC,WATWASWWHCPRC_EX,0.8173590092263603,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2020,ADEMWATWASWWHCTTE,WATWASWWHCPRC_EX,0.14249681975698558,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2020,ADEMWATWASWWINC,WATWASWWHCPRC_EX,0.04014417101665424,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2020,WATWASNGA,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2020,WATWASNGA,WATWASWWHCADIMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2020,WATWASELC,WATWASWWHBPRC_EX,0.8344201871278707,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2020,ADEMWATWASWWHBTTE,WATWASWWHBPRC_EX,0.16557981287212928,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2020,WATWASNGA,WATWASWWHBADIMNGA_EX,0.5078912201809637,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2020,WATWASBMTN,WATWASWWHBADIMNGA_EX,0.4921087798190363,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2020,WATWASELC,WATWASWWNTPRC_EX,0.6064690026954178,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2020,ADEMWATWASNTWWPRC,WATWASWWNTPRC_EX,0.39353099730458224,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2020,WATWASNGA,WATWASFWRCHPRC_EX,0.004683101506740105,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2020,WATWASELC,WATWASFWRCHPRC_EX,0.5529410296185185,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2020,WATWASFW,WATWASFWRCHPRC_EX,0.4423758688747414,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2020,WATWASNGA,WATWASFWFJHPRC_EX,0.01083621497839885,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2020,WATWASELC,WATWASFWFJHPRC_EX,0.6114372288347742,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2020,WATWASFW,WATWASFWFJHPRC_EX,0.3777265561868269,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2020,WATWASNGA,WATWASFWRLCPRC_EX,0.012352346135197161,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2020,WATWASELC,WATWASFWRLCPRC_EX,0.5939289102816177,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2020,WATWASFW,WATWASFWRLCPRC_EX,0.3937187435831853,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2020,WATWASNGA,WATWASFWISDPRC_EX,0.013858860787190874,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2020,WATWASELC,WATWASFWISDPRC_EX,0.22403619392462484,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2020,WATWASFW,WATWASFWISDPRC_EX,0.7621049452881843,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2021,WATWASELC,WATWASWWABPRC_EX,0.920367682102541,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2021,ADEMWATWASWWABTTE,WATWASWWABPRC_EX,0.07963231789745902,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2021,WATWASNGA,WATWASWWABADIMNGA_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2021,WATWASELC,WATWASWWHCPRC_EX,0.8173590092263603,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2021,ADEMWATWASWWHCTTE,WATWASWWHCPRC_EX,0.14249681975698558,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2021,ADEMWATWASWWINC,WATWASWWHCPRC_EX,0.04014417101665424,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2021,WATWASNGA,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2021,WATWASNGA,WATWASWWHCADIMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2021,WATWASELC,WATWASWWHBPRC_EX,0.8344201871278707,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2021,ADEMWATWASWWHBTTE,WATWASWWHBPRC_EX,0.16557981287212928,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2021,WATWASNGA,WATWASWWHBADIMNGA_EX,0.5078912201809637,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2021,WATWASBMTN,WATWASWWHBADIMNGA_EX,0.4921087798190363,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2021,WATWASELC,WATWASWWNTPRC_EX,0.6064690026954178,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2021,ADEMWATWASNTWWPRC,WATWASWWNTPRC_EX,0.39353099730458224,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2021,WATWASNGA,WATWASFWRCHPRC_EX,0.004683101506740105,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2021,WATWASELC,WATWASFWRCHPRC_EX,0.5529410296185185,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2021,WATWASFW,WATWASFWRCHPRC_EX,0.4423758688747414,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2021,WATWASNGA,WATWASFWFJHPRC_EX,0.01083621497839885,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2021,WATWASELC,WATWASFWFJHPRC_EX,0.6114372288347742,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2021,WATWASFW,WATWASFWFJHPRC_EX,0.3777265561868269,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2021,WATWASNGA,WATWASFWRLCPRC_EX,0.012352346135197161,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2021,WATWASELC,WATWASFWRLCPRC_EX,0.5939289102816177,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2021,WATWASFW,WATWASFWRLCPRC_EX,0.3937187435831853,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2021,WATWASNGA,WATWASFWISDPRC_EX,0.013858860787190874,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2021,WATWASELC,WATWASFWISDPRC_EX,0.22403619392462484,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2021,WATWASFW,WATWASFWISDPRC_EX,0.7621049452881843,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2022,WATWASELC,WATWASWWABPRC_EX,0.920367682102541,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2022,ADEMWATWASWWABTTE,WATWASWWABPRC_EX,0.07963231789745902,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2022,WATWASNGA,WATWASWWABADIMNGA_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2022,WATWASELC,WATWASWWHCPRC_EX,0.8173590092263603,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2022,ADEMWATWASWWHCTTE,WATWASWWHCPRC_EX,0.14249681975698558,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2022,ADEMWATWASWWINC,WATWASWWHCPRC_EX,0.04014417101665424,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2022,WATWASNGA,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2022,WATWASNGA,WATWASWWHCADIMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2022,WATWASELC,WATWASWWHBPRC_EX,0.8344201871278707,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2022,ADEMWATWASWWHBTTE,WATWASWWHBPRC_EX,0.16557981287212928,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2022,WATWASNGA,WATWASWWHBADIMNGA_EX,0.5078912201809637,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2022,WATWASBMTN,WATWASWWHBADIMNGA_EX,0.4921087798190363,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2022,WATWASELC,WATWASWWNTPRC_EX,0.6064690026954178,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2022,ADEMWATWASNTWWPRC,WATWASWWNTPRC_EX,0.39353099730458224,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2022,WATWASNGA,WATWASFWRCHPRC_EX,0.004683101506740105,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2022,WATWASELC,WATWASFWRCHPRC_EX,0.5529410296185185,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2022,WATWASFW,WATWASFWRCHPRC_EX,0.4423758688747414,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2022,WATWASNGA,WATWASFWFJHPRC_EX,0.01083621497839885,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2022,WATWASELC,WATWASFWFJHPRC_EX,0.6114372288347742,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2022,WATWASFW,WATWASFWFJHPRC_EX,0.3777265561868269,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2022,WATWASNGA,WATWASFWRLCPRC_EX,0.012352346135197161,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2022,WATWASELC,WATWASFWRLCPRC_EX,0.5939289102816177,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2022,WATWASFW,WATWASFWRLCPRC_EX,0.3937187435831853,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2022,WATWASNGA,WATWASFWISDPRC_EX,0.013858860787190874,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2022,WATWASELC,WATWASFWISDPRC_EX,0.22403619392462484,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2022,WATWASFW,WATWASFWISDPRC_EX,0.7621049452881843,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2023,WATWASELC,WATWASWWABPRC_EX,0.920367682102541,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2023,ADEMWATWASWWABTTE,WATWASWWABPRC_EX,0.07963231789745902,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2023,WATWASNGA,WATWASWWABADIMNGA_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2023,WATWASELC,WATWASWWHCPRC_EX,0.8173590092263603,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2023,ADEMWATWASWWHCTTE,WATWASWWHCPRC_EX,0.14249681975698558,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2023,ADEMWATWASWWINC,WATWASWWHCPRC_EX,0.04014417101665424,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2023,WATWASNGA,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2023,WATWASNGA,WATWASWWHCADIMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2023,WATWASELC,WATWASWWHBPRC_EX,0.8344201871278707,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2023,ADEMWATWASWWHBTTE,WATWASWWHBPRC_EX,0.16557981287212928,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2023,WATWASNGA,WATWASWWHBADIMNGA_EX,0.5078912201809637,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2023,WATWASBMTN,WATWASWWHBADIMNGA_EX,0.4921087798190363,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2023,WATWASELC,WATWASWWNTPRC_EX,0.6064690026954178,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2023,ADEMWATWASNTWWPRC,WATWASWWNTPRC_EX,0.39353099730458224,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2023,WATWASNGA,WATWASFWRCHPRC_EX,0.004683101506740105,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2023,WATWASELC,WATWASFWRCHPRC_EX,0.5529410296185185,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2023,WATWASFW,WATWASFWRCHPRC_EX,0.4423758688747414,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2023,WATWASNGA,WATWASFWFJHPRC_EX,0.01083621497839885,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2023,WATWASELC,WATWASFWFJHPRC_EX,0.6114372288347742,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2023,WATWASFW,WATWASFWFJHPRC_EX,0.3777265561868269,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2023,WATWASNGA,WATWASFWRLCPRC_EX,0.012352346135197161,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2023,WATWASELC,WATWASFWRLCPRC_EX,0.5939289102816177,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2023,WATWASFW,WATWASFWRLCPRC_EX,0.3937187435831853,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2023,WATWASNGA,WATWASFWISDPRC_EX,0.013858860787190874,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2023,WATWASELC,WATWASFWISDPRC_EX,0.22403619392462484,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2023,WATWASFW,WATWASFWISDPRC_EX,0.7621049452881843,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2024,WATWASELC,WATWASWWABPRC_EX,0.920367682102541,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2024,ADEMWATWASWWABTTE,WATWASWWABPRC_EX,0.07963231789745902,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2024,WATWASNGA,WATWASWWABADIMNGA_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2024,WATWASELC,WATWASWWHCPRC_EX,0.8173590092263603,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2024,ADEMWATWASWWHCTTE,WATWASWWHCPRC_EX,0.14249681975698558,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2024,ADEMWATWASWWINC,WATWASWWHCPRC_EX,0.04014417101665424,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2024,WATWASNGA,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2024,WATWASNGA,WATWASWWHCADIMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2024,WATWASELC,WATWASWWHBPRC_EX,0.8344201871278707,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2024,ADEMWATWASWWHBTTE,WATWASWWHBPRC_EX,0.16557981287212928,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2024,WATWASNGA,WATWASWWHBADIMNGA_EX,0.5078912201809637,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2024,WATWASBMTN,WATWASWWHBADIMNGA_EX,0.4921087798190363,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2024,WATWASELC,WATWASWWNTPRC_EX,0.6064690026954178,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2024,ADEMWATWASNTWWPRC,WATWASWWNTPRC_EX,0.39353099730458224,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2024,WATWASNGA,WATWASFWRCHPRC_EX,0.004683101506740105,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2024,WATWASELC,WATWASFWRCHPRC_EX,0.5529410296185185,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2024,WATWASFW,WATWASFWRCHPRC_EX,0.4423758688747414,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2024,WATWASNGA,WATWASFWFJHPRC_EX,0.01083621497839885,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2024,WATWASELC,WATWASFWFJHPRC_EX,0.6114372288347742,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2024,WATWASFW,WATWASFWFJHPRC_EX,0.3777265561868269,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2024,WATWASNGA,WATWASFWRLCPRC_EX,0.012352346135197161,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2024,WATWASELC,WATWASFWRLCPRC_EX,0.5939289102816177,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2024,WATWASFW,WATWASFWRLCPRC_EX,0.3937187435831853,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2024,WATWASNGA,WATWASFWISDPRC_EX,0.013858860787190874,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2024,WATWASELC,WATWASFWISDPRC_EX,0.22403619392462484,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2024,WATWASFW,WATWASFWISDPRC_EX,0.7621049452881843,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2025,WATWASELC,WATWASWWABPRC_EX,0.920367682102541,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2025,ADEMWATWASWWABTTE,WATWASWWABPRC_EX,0.07963231789745902,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2025,WATWASNGA,WATWASWWABADIMNGA_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2025,WATWASELC,WATWASWWHCPRC_EX,0.8173590092263603,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2025,ADEMWATWASWWHCTTE,WATWASWWHCPRC_EX,0.14249681975698558,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2025,ADEMWATWASWWINC,WATWASWWHCPRC_EX,0.04014417101665424,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2025,WATWASNGA,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2025,WATWASNGA,WATWASWWHCADIMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2025,WATWASELC,WATWASWWHBPRC_EX,0.8344201871278707,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2025,ADEMWATWASWWHBTTE,WATWASWWHBPRC_EX,0.16557981287212928,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2025,WATWASNGA,WATWASWWHBADIMNGA_EX,0.5078912201809637,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2025,WATWASBMTN,WATWASWWHBADIMNGA_EX,0.4921087798190363,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2025,WATWASELC,WATWASWWNTPRC_EX,0.6064690026954178,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2025,ADEMWATWASNTWWPRC,WATWASWWNTPRC_EX,0.39353099730458224,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2025,WATWASNGA,WATWASFWRCHPRC_EX,0.004683101506740105,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2025,WATWASELC,WATWASFWRCHPRC_EX,0.5529410296185185,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2025,WATWASFW,WATWASFWRCHPRC_EX,0.4423758688747414,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2025,WATWASNGA,WATWASFWFJHPRC_EX,0.01083621497839885,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2025,WATWASELC,WATWASFWFJHPRC_EX,0.6114372288347742,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2025,WATWASFW,WATWASFWFJHPRC_EX,0.3777265561868269,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2025,WATWASNGA,WATWASFWRLCPRC_EX,0.012352346135197161,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2025,WATWASELC,WATWASFWRLCPRC_EX,0.5939289102816177,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2025,WATWASFW,WATWASFWRLCPRC_EX,0.3937187435831853,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2025,WATWASNGA,WATWASFWISDPRC_EX,0.013858860787190874,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2025,WATWASELC,WATWASFWISDPRC_EX,0.22403619392462484,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2025,WATWASFW,WATWASFWISDPRC_EX,0.7621049452881843,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2026,WATWASELC,WATWASWWABPRC_EX,0.920367682102541,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2026,ADEMWATWASWWABTTE,WATWASWWABPRC_EX,0.07963231789745902,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2026,WATWASNGA,WATWASWWABADIMNGA_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2026,WATWASELC,WATWASWWHCPRC_EX,0.8173590092263603,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2026,ADEMWATWASWWHCTTE,WATWASWWHCPRC_EX,0.14249681975698558,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2026,ADEMWATWASWWINC,WATWASWWHCPRC_EX,0.04014417101665424,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2026,WATWASNGA,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2026,WATWASNGA,WATWASWWHCADIMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2026,WATWASELC,WATWASWWHBPRC_EX,0.8344201871278707,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2026,ADEMWATWASWWHBTTE,WATWASWWHBPRC_EX,0.16557981287212928,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2026,WATWASNGA,WATWASWWHBADIMNGA_EX,0.5078912201809637,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2026,WATWASBMTN,WATWASWWHBADIMNGA_EX,0.4921087798190363,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2026,WATWASELC,WATWASWWNTPRC_EX,0.6064690026954178,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2026,ADEMWATWASNTWWPRC,WATWASWWNTPRC_EX,0.39353099730458224,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2026,WATWASNGA,WATWASFWRCHPRC_EX,0.004683101506740105,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2026,WATWASELC,WATWASFWRCHPRC_EX,0.5529410296185185,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2026,WATWASFW,WATWASFWRCHPRC_EX,0.4423758688747414,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2026,WATWASNGA,WATWASFWFJHPRC_EX,0.01083621497839885,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2026,WATWASELC,WATWASFWFJHPRC_EX,0.6114372288347742,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2026,WATWASFW,WATWASFWFJHPRC_EX,0.3777265561868269,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2026,WATWASNGA,WATWASFWRLCPRC_EX,0.012352346135197161,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2026,WATWASELC,WATWASFWRLCPRC_EX,0.5939289102816177,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2026,WATWASFW,WATWASFWRLCPRC_EX,0.3937187435831853,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2026,WATWASNGA,WATWASFWISDPRC_EX,0.013858860787190874,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2026,WATWASELC,WATWASFWISDPRC_EX,0.22403619392462484,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2026,WATWASFW,WATWASFWISDPRC_EX,0.7621049452881843,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2027,WATWASELC,WATWASWWABPRC_EX,0.920367682102541,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2027,ADEMWATWASWWABTTE,WATWASWWABPRC_EX,0.07963231789745902,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2027,WATWASNGA,WATWASWWABADIMNGA_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2027,WATWASELC,WATWASWWHCPRC_EX,0.8173590092263603,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2027,ADEMWATWASWWHCTTE,WATWASWWHCPRC_EX,0.14249681975698558,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2027,ADEMWATWASWWINC,WATWASWWHCPRC_EX,0.04014417101665424,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2027,WATWASNGA,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2027,WATWASNGA,WATWASWWHCADIMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2027,WATWASELC,WATWASWWHBPRC_EX,0.8344201871278707,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2027,ADEMWATWASWWHBTTE,WATWASWWHBPRC_EX,0.16557981287212928,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2027,WATWASNGA,WATWASWWHBADIMNGA_EX,0.5078912201809637,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2027,WATWASBMTN,WATWASWWHBADIMNGA_EX,0.4921087798190363,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2027,WATWASELC,WATWASWWNTPRC_EX,0.6064690026954178,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2027,ADEMWATWASNTWWPRC,WATWASWWNTPRC_EX,0.39353099730458224,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2027,WATWASNGA,WATWASFWRCHPRC_EX,0.004683101506740105,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2027,WATWASELC,WATWASFWRCHPRC_EX,0.5529410296185185,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2027,WATWASFW,WATWASFWRCHPRC_EX,0.4423758688747414,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2027,WATWASNGA,WATWASFWFJHPRC_EX,0.01083621497839885,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2027,WATWASELC,WATWASFWFJHPRC_EX,0.6114372288347742,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2027,WATWASFW,WATWASFWFJHPRC_EX,0.3777265561868269,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2027,WATWASNGA,WATWASFWRLCPRC_EX,0.012352346135197161,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2027,WATWASELC,WATWASFWRLCPRC_EX,0.5939289102816177,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2027,WATWASFW,WATWASFWRLCPRC_EX,0.3937187435831853,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2027,WATWASNGA,WATWASFWISDPRC_EX,0.013858860787190874,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2027,WATWASELC,WATWASFWISDPRC_EX,0.22403619392462484,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2027,WATWASFW,WATWASFWISDPRC_EX,0.7621049452881843,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2028,WATWASELC,WATWASWWABPRC_EX,0.920367682102541,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2028,ADEMWATWASWWABTTE,WATWASWWABPRC_EX,0.07963231789745902,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2028,WATWASNGA,WATWASWWABADIMNGA_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2028,WATWASELC,WATWASWWHCPRC_EX,0.8173590092263603,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2028,ADEMWATWASWWHCTTE,WATWASWWHCPRC_EX,0.14249681975698558,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2028,ADEMWATWASWWINC,WATWASWWHCPRC_EX,0.04014417101665424,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2028,WATWASNGA,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2028,WATWASNGA,WATWASWWHCADIMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2028,WATWASELC,WATWASWWHBPRC_EX,0.8344201871278707,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2028,ADEMWATWASWWHBTTE,WATWASWWHBPRC_EX,0.16557981287212928,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2028,WATWASNGA,WATWASWWHBADIMNGA_EX,0.5078912201809637,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2028,WATWASBMTN,WATWASWWHBADIMNGA_EX,0.4921087798190363,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2028,WATWASELC,WATWASWWNTPRC_EX,0.6064690026954178,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2028,ADEMWATWASNTWWPRC,WATWASWWNTPRC_EX,0.39353099730458224,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2028,WATWASNGA,WATWASFWRCHPRC_EX,0.004683101506740105,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2028,WATWASELC,WATWASFWRCHPRC_EX,0.5529410296185185,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2028,WATWASFW,WATWASFWRCHPRC_EX,0.4423758688747414,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2028,WATWASNGA,WATWASFWFJHPRC_EX,0.01083621497839885,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2028,WATWASELC,WATWASFWFJHPRC_EX,0.6114372288347742,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2028,WATWASFW,WATWASFWFJHPRC_EX,0.3777265561868269,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2028,WATWASNGA,WATWASFWRLCPRC_EX,0.012352346135197161,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2028,WATWASELC,WATWASFWRLCPRC_EX,0.5939289102816177,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2028,WATWASFW,WATWASFWRLCPRC_EX,0.3937187435831853,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2028,WATWASNGA,WATWASFWISDPRC_EX,0.013858860787190874,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2028,WATWASELC,WATWASFWISDPRC_EX,0.22403619392462484,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2028,WATWASFW,WATWASFWISDPRC_EX,0.7621049452881843,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2029,WATWASELC,WATWASWWABPRC_EX,0.920367682102541,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2029,ADEMWATWASWWABTTE,WATWASWWABPRC_EX,0.07963231789745902,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2029,WATWASNGA,WATWASWWABADIMNGA_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2029,WATWASELC,WATWASWWHCPRC_EX,0.8173590092263603,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2029,ADEMWATWASWWHCTTE,WATWASWWHCPRC_EX,0.14249681975698558,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2029,ADEMWATWASWWINC,WATWASWWHCPRC_EX,0.04014417101665424,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2029,WATWASNGA,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2029,WATWASNGA,WATWASWWHCADIMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2029,WATWASELC,WATWASWWHBPRC_EX,0.8344201871278707,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2029,ADEMWATWASWWHBTTE,WATWASWWHBPRC_EX,0.16557981287212928,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2029,WATWASNGA,WATWASWWHBADIMNGA_EX,0.5078912201809637,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2029,WATWASBMTN,WATWASWWHBADIMNGA_EX,0.4921087798190363,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2029,WATWASELC,WATWASWWNTPRC_EX,0.6064690026954178,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2029,ADEMWATWASNTWWPRC,WATWASWWNTPRC_EX,0.39353099730458224,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2029,WATWASNGA,WATWASFWRCHPRC_EX,0.004683101506740105,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2029,WATWASELC,WATWASFWRCHPRC_EX,0.5529410296185185,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2029,WATWASFW,WATWASFWRCHPRC_EX,0.4423758688747414,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2029,WATWASNGA,WATWASFWFJHPRC_EX,0.01083621497839885,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2029,WATWASELC,WATWASFWFJHPRC_EX,0.6114372288347742,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2029,WATWASFW,WATWASFWFJHPRC_EX,0.3777265561868269,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2029,WATWASNGA,WATWASFWRLCPRC_EX,0.012352346135197161,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2029,WATWASELC,WATWASFWRLCPRC_EX,0.5939289102816177,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2029,WATWASFW,WATWASFWRLCPRC_EX,0.3937187435831853,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2029,WATWASNGA,WATWASFWISDPRC_EX,0.013858860787190874,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2029,WATWASELC,WATWASFWISDPRC_EX,0.22403619392462484,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2029,WATWASFW,WATWASFWISDPRC_EX,0.7621049452881843,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2030,WATWASELC,WATWASWWABPRC_EX,0.920367682102541,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2030,ADEMWATWASWWABTTE,WATWASWWABPRC_EX,0.07963231789745902,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2030,WATWASNGA,WATWASWWABADIMNGA_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2030,WATWASELC,WATWASWWHCPRC_EX,0.8173590092263603,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2030,ADEMWATWASWWHCTTE,WATWASWWHCPRC_EX,0.14249681975698558,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2030,ADEMWATWASWWINC,WATWASWWHCPRC_EX,0.04014417101665424,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2030,WATWASNGA,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2030,WATWASNGA,WATWASWWHCADIMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2030,WATWASELC,WATWASWWHBPRC_EX,0.8344201871278707,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2030,ADEMWATWASWWHBTTE,WATWASWWHBPRC_EX,0.16557981287212928,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2030,WATWASNGA,WATWASWWHBADIMNGA_EX,0.5078912201809637,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2030,WATWASBMTN,WATWASWWHBADIMNGA_EX,0.4921087798190363,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2030,WATWASELC,WATWASWWNTPRC_EX,0.6064690026954178,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2030,ADEMWATWASNTWWPRC,WATWASWWNTPRC_EX,0.39353099730458224,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2030,WATWASNGA,WATWASFWRCHPRC_EX,0.004683101506740105,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2030,WATWASELC,WATWASFWRCHPRC_EX,0.5529410296185185,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2030,WATWASFW,WATWASFWRCHPRC_EX,0.4423758688747414,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2030,WATWASNGA,WATWASFWFJHPRC_EX,0.01083621497839885,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2030,WATWASELC,WATWASFWFJHPRC_EX,0.6114372288347742,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2030,WATWASFW,WATWASFWFJHPRC_EX,0.3777265561868269,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2030,WATWASNGA,WATWASFWRLCPRC_EX,0.012352346135197161,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2030,WATWASELC,WATWASFWRLCPRC_EX,0.5939289102816177,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2030,WATWASFW,WATWASFWRLCPRC_EX,0.3937187435831853,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2030,WATWASNGA,WATWASFWISDPRC_EX,0.013858860787190874,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2030,WATWASELC,WATWASFWISDPRC_EX,0.22403619392462484,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2030,WATWASFW,WATWASFWISDPRC_EX,0.7621049452881843,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2031,WATWASELC,WATWASWWABPRC_EX,0.920367682102541,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2031,ADEMWATWASWWABTTE,WATWASWWABPRC_EX,0.07963231789745902,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2031,WATWASNGA,WATWASWWABADIMNGA_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2031,WATWASELC,WATWASWWHCPRC_EX,0.8173590092263603,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2031,ADEMWATWASWWHCTTE,WATWASWWHCPRC_EX,0.14249681975698558,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2031,ADEMWATWASWWINC,WATWASWWHCPRC_EX,0.04014417101665424,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2031,WATWASNGA,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2031,WATWASNGA,WATWASWWHCADIMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2031,WATWASELC,WATWASWWHBPRC_EX,0.8344201871278707,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2031,ADEMWATWASWWHBTTE,WATWASWWHBPRC_EX,0.16557981287212928,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2031,WATWASNGA,WATWASWWHBADIMNGA_EX,0.5078912201809637,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2031,WATWASBMTN,WATWASWWHBADIMNGA_EX,0.4921087798190363,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2031,WATWASELC,WATWASWWNTPRC_EX,0.6064690026954178,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2031,ADEMWATWASNTWWPRC,WATWASWWNTPRC_EX,0.39353099730458224,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2031,WATWASNGA,WATWASFWRCHPRC_EX,0.004683101506740105,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2031,WATWASELC,WATWASFWRCHPRC_EX,0.5529410296185185,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2031,WATWASFW,WATWASFWRCHPRC_EX,0.4423758688747414,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2031,WATWASNGA,WATWASFWFJHPRC_EX,0.01083621497839885,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2031,WATWASELC,WATWASFWFJHPRC_EX,0.6114372288347742,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2031,WATWASFW,WATWASFWFJHPRC_EX,0.3777265561868269,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2031,WATWASNGA,WATWASFWRLCPRC_EX,0.012352346135197161,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2031,WATWASELC,WATWASFWRLCPRC_EX,0.5939289102816177,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2031,WATWASFW,WATWASFWRLCPRC_EX,0.3937187435831853,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2031,WATWASNGA,WATWASFWISDPRC_EX,0.013858860787190874,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2031,WATWASELC,WATWASFWISDPRC_EX,0.22403619392462484,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2031,WATWASFW,WATWASFWISDPRC_EX,0.7621049452881843,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2032,WATWASELC,WATWASWWABPRC_EX,0.920367682102541,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2032,ADEMWATWASWWABTTE,WATWASWWABPRC_EX,0.07963231789745902,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2032,WATWASNGA,WATWASWWABADIMNGA_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2032,WATWASELC,WATWASWWHCPRC_EX,0.8173590092263603,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2032,ADEMWATWASWWHCTTE,WATWASWWHCPRC_EX,0.14249681975698558,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2032,ADEMWATWASWWINC,WATWASWWHCPRC_EX,0.04014417101665424,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2032,WATWASNGA,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2032,WATWASNGA,WATWASWWHCADIMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2032,WATWASELC,WATWASWWHBPRC_EX,0.8344201871278707,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2032,ADEMWATWASWWHBTTE,WATWASWWHBPRC_EX,0.16557981287212928,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2032,WATWASNGA,WATWASWWHBADIMNGA_EX,0.5078912201809637,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2032,WATWASBMTN,WATWASWWHBADIMNGA_EX,0.4921087798190363,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2032,WATWASELC,WATWASWWNTPRC_EX,0.6064690026954178,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2032,ADEMWATWASNTWWPRC,WATWASWWNTPRC_EX,0.39353099730458224,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2032,WATWASNGA,WATWASFWRCHPRC_EX,0.004683101506740105,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2032,WATWASELC,WATWASFWRCHPRC_EX,0.5529410296185185,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2032,WATWASFW,WATWASFWRCHPRC_EX,0.4423758688747414,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2032,WATWASNGA,WATWASFWFJHPRC_EX,0.01083621497839885,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2032,WATWASELC,WATWASFWFJHPRC_EX,0.6114372288347742,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2032,WATWASFW,WATWASFWFJHPRC_EX,0.3777265561868269,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2032,WATWASNGA,WATWASFWRLCPRC_EX,0.012352346135197161,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2032,WATWASELC,WATWASFWRLCPRC_EX,0.5939289102816177,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2032,WATWASFW,WATWASFWRLCPRC_EX,0.3937187435831853,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2032,WATWASNGA,WATWASFWISDPRC_EX,0.013858860787190874,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2032,WATWASELC,WATWASFWISDPRC_EX,0.22403619392462484,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2032,WATWASFW,WATWASFWISDPRC_EX,0.7621049452881843,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2033,WATWASELC,WATWASWWABPRC_EX,0.920367682102541,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2033,ADEMWATWASWWABTTE,WATWASWWABPRC_EX,0.07963231789745902,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2033,WATWASNGA,WATWASWWABADIMNGA_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2033,WATWASELC,WATWASWWHCPRC_EX,0.8173590092263603,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2033,ADEMWATWASWWHCTTE,WATWASWWHCPRC_EX,0.14249681975698558,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2033,ADEMWATWASWWINC,WATWASWWHCPRC_EX,0.04014417101665424,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2033,WATWASNGA,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2033,WATWASNGA,WATWASWWHCADIMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2033,WATWASELC,WATWASWWHBPRC_EX,0.8344201871278707,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2033,ADEMWATWASWWHBTTE,WATWASWWHBPRC_EX,0.16557981287212928,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2033,WATWASNGA,WATWASWWHBADIMNGA_EX,0.5078912201809637,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2033,WATWASBMTN,WATWASWWHBADIMNGA_EX,0.4921087798190363,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2033,WATWASELC,WATWASWWNTPRC_EX,0.6064690026954178,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2033,ADEMWATWASNTWWPRC,WATWASWWNTPRC_EX,0.39353099730458224,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2033,WATWASNGA,WATWASFWRCHPRC_EX,0.004683101506740105,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2033,WATWASELC,WATWASFWRCHPRC_EX,0.5529410296185185,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2033,WATWASFW,WATWASFWRCHPRC_EX,0.4423758688747414,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2033,WATWASNGA,WATWASFWFJHPRC_EX,0.01083621497839885,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2033,WATWASELC,WATWASFWFJHPRC_EX,0.6114372288347742,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2033,WATWASFW,WATWASFWFJHPRC_EX,0.3777265561868269,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2033,WATWASNGA,WATWASFWRLCPRC_EX,0.012352346135197161,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2033,WATWASELC,WATWASFWRLCPRC_EX,0.5939289102816177,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2033,WATWASFW,WATWASFWRLCPRC_EX,0.3937187435831853,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2033,WATWASNGA,WATWASFWISDPRC_EX,0.013858860787190874,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2033,WATWASELC,WATWASFWISDPRC_EX,0.22403619392462484,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2033,WATWASFW,WATWASFWISDPRC_EX,0.7621049452881843,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2034,WATWASELC,WATWASWWABPRC_EX,0.920367682102541,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2034,ADEMWATWASWWABTTE,WATWASWWABPRC_EX,0.07963231789745902,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2034,WATWASNGA,WATWASWWABADIMNGA_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2034,WATWASELC,WATWASWWHCPRC_EX,0.8173590092263603,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2034,ADEMWATWASWWHCTTE,WATWASWWHCPRC_EX,0.14249681975698558,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2034,ADEMWATWASWWINC,WATWASWWHCPRC_EX,0.04014417101665424,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2034,WATWASNGA,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2034,WATWASNGA,WATWASWWHCADIMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2034,WATWASELC,WATWASWWHBPRC_EX,0.8344201871278707,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2034,ADEMWATWASWWHBTTE,WATWASWWHBPRC_EX,0.16557981287212928,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2034,WATWASNGA,WATWASWWHBADIMNGA_EX,0.5078912201809637,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2034,WATWASBMTN,WATWASWWHBADIMNGA_EX,0.4921087798190363,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2034,WATWASELC,WATWASWWNTPRC_EX,0.6064690026954178,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2034,ADEMWATWASNTWWPRC,WATWASWWNTPRC_EX,0.39353099730458224,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2034,WATWASNGA,WATWASFWRCHPRC_EX,0.004683101506740105,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2034,WATWASELC,WATWASFWRCHPRC_EX,0.5529410296185185,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2034,WATWASFW,WATWASFWRCHPRC_EX,0.4423758688747414,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2034,WATWASNGA,WATWASFWFJHPRC_EX,0.01083621497839885,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2034,WATWASELC,WATWASFWFJHPRC_EX,0.6114372288347742,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2034,WATWASFW,WATWASFWFJHPRC_EX,0.3777265561868269,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2034,WATWASNGA,WATWASFWRLCPRC_EX,0.012352346135197161,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2034,WATWASELC,WATWASFWRLCPRC_EX,0.5939289102816177,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2034,WATWASFW,WATWASFWRLCPRC_EX,0.3937187435831853,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2034,WATWASNGA,WATWASFWISDPRC_EX,0.013858860787190874,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2034,WATWASELC,WATWASFWISDPRC_EX,0.22403619392462484,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2034,WATWASFW,WATWASFWISDPRC_EX,0.7621049452881843,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2035,WATWASELC,WATWASWWABPRC_EX,0.920367682102541,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2035,ADEMWATWASWWABTTE,WATWASWWABPRC_EX,0.07963231789745902,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2035,WATWASNGA,WATWASWWABADIMNGA_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2035,WATWASELC,WATWASWWHCPRC_EX,0.8173590092263603,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2035,ADEMWATWASWWHCTTE,WATWASWWHCPRC_EX,0.14249681975698558,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2035,ADEMWATWASWWINC,WATWASWWHCPRC_EX,0.04014417101665424,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2035,WATWASNGA,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2035,WATWASNGA,WATWASWWHCADIMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2035,WATWASELC,WATWASWWHBPRC_EX,0.8344201871278707,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2035,ADEMWATWASWWHBTTE,WATWASWWHBPRC_EX,0.16557981287212928,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2035,WATWASNGA,WATWASWWHBADIMNGA_EX,0.5078912201809637,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2035,WATWASBMTN,WATWASWWHBADIMNGA_EX,0.4921087798190363,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2035,WATWASELC,WATWASWWNTPRC_EX,0.6064690026954178,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2035,ADEMWATWASNTWWPRC,WATWASWWNTPRC_EX,0.39353099730458224,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2035,WATWASNGA,WATWASFWRCHPRC_EX,0.004683101506740105,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2035,WATWASELC,WATWASFWRCHPRC_EX,0.5529410296185185,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2035,WATWASFW,WATWASFWRCHPRC_EX,0.4423758688747414,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2035,WATWASNGA,WATWASFWFJHPRC_EX,0.01083621497839885,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2035,WATWASELC,WATWASFWFJHPRC_EX,0.6114372288347742,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2035,WATWASFW,WATWASFWFJHPRC_EX,0.3777265561868269,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2035,WATWASNGA,WATWASFWRLCPRC_EX,0.012352346135197161,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2035,WATWASELC,WATWASFWRLCPRC_EX,0.5939289102816177,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2035,WATWASFW,WATWASFWRLCPRC_EX,0.3937187435831853,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2035,WATWASNGA,WATWASFWISDPRC_EX,0.013858860787190874,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2035,WATWASELC,WATWASFWISDPRC_EX,0.22403619392462484,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2035,WATWASFW,WATWASFWISDPRC_EX,0.7621049452881843,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2036,WATWASELC,WATWASWWABPRC_EX,0.920367682102541,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2036,ADEMWATWASWWABTTE,WATWASWWABPRC_EX,0.07963231789745902,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2036,WATWASNGA,WATWASWWABADIMNGA_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2036,WATWASELC,WATWASWWHCPRC_EX,0.8173590092263603,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2036,ADEMWATWASWWHCTTE,WATWASWWHCPRC_EX,0.14249681975698558,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2036,ADEMWATWASWWINC,WATWASWWHCPRC_EX,0.04014417101665424,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2036,WATWASNGA,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2036,WATWASNGA,WATWASWWHCADIMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2036,WATWASELC,WATWASWWHBPRC_EX,0.8344201871278707,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2036,ADEMWATWASWWHBTTE,WATWASWWHBPRC_EX,0.16557981287212928,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2036,WATWASNGA,WATWASWWHBADIMNGA_EX,0.5078912201809637,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2036,WATWASBMTN,WATWASWWHBADIMNGA_EX,0.4921087798190363,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2036,WATWASELC,WATWASWWNTPRC_EX,0.6064690026954178,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2036,ADEMWATWASNTWWPRC,WATWASWWNTPRC_EX,0.39353099730458224,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2036,WATWASNGA,WATWASFWRCHPRC_EX,0.004683101506740105,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2036,WATWASELC,WATWASFWRCHPRC_EX,0.5529410296185185,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2036,WATWASFW,WATWASFWRCHPRC_EX,0.4423758688747414,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2036,WATWASNGA,WATWASFWFJHPRC_EX,0.01083621497839885,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2036,WATWASELC,WATWASFWFJHPRC_EX,0.6114372288347742,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2036,WATWASFW,WATWASFWFJHPRC_EX,0.3777265561868269,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2036,WATWASNGA,WATWASFWRLCPRC_EX,0.012352346135197161,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2036,WATWASELC,WATWASFWRLCPRC_EX,0.5939289102816177,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2036,WATWASFW,WATWASFWRLCPRC_EX,0.3937187435831853,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2036,WATWASNGA,WATWASFWISDPRC_EX,0.013858860787190874,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2036,WATWASELC,WATWASFWISDPRC_EX,0.22403619392462484,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2036,WATWASFW,WATWASFWISDPRC_EX,0.7621049452881843,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2037,WATWASELC,WATWASWWABPRC_EX,0.920367682102541,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2037,ADEMWATWASWWABTTE,WATWASWWABPRC_EX,0.07963231789745902,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2037,WATWASNGA,WATWASWWABADIMNGA_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2037,WATWASELC,WATWASWWHCPRC_EX,0.8173590092263603,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2037,ADEMWATWASWWHCTTE,WATWASWWHCPRC_EX,0.14249681975698558,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2037,ADEMWATWASWWINC,WATWASWWHCPRC_EX,0.04014417101665424,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2037,WATWASNGA,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2037,WATWASNGA,WATWASWWHCADIMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2037,WATWASELC,WATWASWWHBPRC_EX,0.8344201871278707,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2037,ADEMWATWASWWHBTTE,WATWASWWHBPRC_EX,0.16557981287212928,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2037,WATWASNGA,WATWASWWHBADIMNGA_EX,0.5078912201809637,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2037,WATWASBMTN,WATWASWWHBADIMNGA_EX,0.4921087798190363,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2037,WATWASELC,WATWASWWNTPRC_EX,0.6064690026954178,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2037,ADEMWATWASNTWWPRC,WATWASWWNTPRC_EX,0.39353099730458224,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2037,WATWASNGA,WATWASFWRCHPRC_EX,0.004683101506740105,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2037,WATWASELC,WATWASFWRCHPRC_EX,0.5529410296185185,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2037,WATWASFW,WATWASFWRCHPRC_EX,0.4423758688747414,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2037,WATWASNGA,WATWASFWFJHPRC_EX,0.01083621497839885,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2037,WATWASELC,WATWASFWFJHPRC_EX,0.6114372288347742,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2037,WATWASFW,WATWASFWFJHPRC_EX,0.3777265561868269,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2037,WATWASNGA,WATWASFWRLCPRC_EX,0.012352346135197161,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2037,WATWASELC,WATWASFWRLCPRC_EX,0.5939289102816177,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2037,WATWASFW,WATWASFWRLCPRC_EX,0.3937187435831853,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2037,WATWASNGA,WATWASFWISDPRC_EX,0.013858860787190874,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2037,WATWASELC,WATWASFWISDPRC_EX,0.22403619392462484,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2037,WATWASFW,WATWASFWISDPRC_EX,0.7621049452881843,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2038,WATWASELC,WATWASWWABPRC_EX,0.920367682102541,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2038,ADEMWATWASWWABTTE,WATWASWWABPRC_EX,0.07963231789745902,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2038,WATWASNGA,WATWASWWABADIMNGA_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2038,WATWASELC,WATWASWWHCPRC_EX,0.8173590092263603,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2038,ADEMWATWASWWHCTTE,WATWASWWHCPRC_EX,0.14249681975698558,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2038,ADEMWATWASWWINC,WATWASWWHCPRC_EX,0.04014417101665424,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2038,WATWASNGA,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2038,WATWASNGA,WATWASWWHCADIMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2038,WATWASELC,WATWASWWHBPRC_EX,0.8344201871278707,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2038,ADEMWATWASWWHBTTE,WATWASWWHBPRC_EX,0.16557981287212928,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2038,WATWASNGA,WATWASWWHBADIMNGA_EX,0.5078912201809637,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2038,WATWASBMTN,WATWASWWHBADIMNGA_EX,0.4921087798190363,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2038,WATWASELC,WATWASWWNTPRC_EX,0.6064690026954178,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2038,ADEMWATWASNTWWPRC,WATWASWWNTPRC_EX,0.39353099730458224,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2038,WATWASNGA,WATWASFWRCHPRC_EX,0.004683101506740105,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2038,WATWASELC,WATWASFWRCHPRC_EX,0.5529410296185185,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2038,WATWASFW,WATWASFWRCHPRC_EX,0.4423758688747414,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2038,WATWASNGA,WATWASFWFJHPRC_EX,0.01083621497839885,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2038,WATWASELC,WATWASFWFJHPRC_EX,0.6114372288347742,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2038,WATWASFW,WATWASFWFJHPRC_EX,0.3777265561868269,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2038,WATWASNGA,WATWASFWRLCPRC_EX,0.012352346135197161,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2038,WATWASELC,WATWASFWRLCPRC_EX,0.5939289102816177,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2038,WATWASFW,WATWASFWRLCPRC_EX,0.3937187435831853,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2038,WATWASNGA,WATWASFWISDPRC_EX,0.013858860787190874,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2038,WATWASELC,WATWASFWISDPRC_EX,0.22403619392462484,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2038,WATWASFW,WATWASFWISDPRC_EX,0.7621049452881843,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2039,WATWASELC,WATWASWWABPRC_EX,0.920367682102541,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2039,ADEMWATWASWWABTTE,WATWASWWABPRC_EX,0.07963231789745902,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2039,WATWASNGA,WATWASWWABADIMNGA_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2039,WATWASELC,WATWASWWHCPRC_EX,0.8173590092263603,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2039,ADEMWATWASWWHCTTE,WATWASWWHCPRC_EX,0.14249681975698558,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2039,ADEMWATWASWWINC,WATWASWWHCPRC_EX,0.04014417101665424,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2039,WATWASNGA,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2039,WATWASNGA,WATWASWWHCADIMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2039,WATWASELC,WATWASWWHBPRC_EX,0.8344201871278707,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2039,ADEMWATWASWWHBTTE,WATWASWWHBPRC_EX,0.16557981287212928,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2039,WATWASNGA,WATWASWWHBADIMNGA_EX,0.5078912201809637,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2039,WATWASBMTN,WATWASWWHBADIMNGA_EX,0.4921087798190363,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2039,WATWASELC,WATWASWWNTPRC_EX,0.6064690026954178,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2039,ADEMWATWASNTWWPRC,WATWASWWNTPRC_EX,0.39353099730458224,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2039,WATWASNGA,WATWASFWRCHPRC_EX,0.004683101506740105,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2039,WATWASELC,WATWASFWRCHPRC_EX,0.5529410296185185,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2039,WATWASFW,WATWASFWRCHPRC_EX,0.4423758688747414,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2039,WATWASNGA,WATWASFWFJHPRC_EX,0.01083621497839885,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2039,WATWASELC,WATWASFWFJHPRC_EX,0.6114372288347742,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2039,WATWASFW,WATWASFWFJHPRC_EX,0.3777265561868269,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2039,WATWASNGA,WATWASFWRLCPRC_EX,0.012352346135197161,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2039,WATWASELC,WATWASFWRLCPRC_EX,0.5939289102816177,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2039,WATWASFW,WATWASFWRLCPRC_EX,0.3937187435831853,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2039,WATWASNGA,WATWASFWISDPRC_EX,0.013858860787190874,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2039,WATWASELC,WATWASFWISDPRC_EX,0.22403619392462484,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2039,WATWASFW,WATWASFWISDPRC_EX,0.7621049452881843,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2040,WATWASELC,WATWASWWABPRC_EX,0.920367682102541,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2040,ADEMWATWASWWABTTE,WATWASWWABPRC_EX,0.07963231789745902,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2040,WATWASNGA,WATWASWWABADIMNGA_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2040,WATWASELC,WATWASWWHCPRC_EX,0.8173590092263603,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2040,ADEMWATWASWWHCTTE,WATWASWWHCPRC_EX,0.14249681975698558,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2040,ADEMWATWASWWINC,WATWASWWHCPRC_EX,0.04014417101665424,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2040,WATWASNGA,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2040,WATWASNGA,WATWASWWHCADIMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2040,WATWASELC,WATWASWWHBPRC_EX,0.8344201871278707,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2040,ADEMWATWASWWHBTTE,WATWASWWHBPRC_EX,0.16557981287212928,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2040,WATWASNGA,WATWASWWHBADIMNGA_EX,0.5078912201809637,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2040,WATWASBMTN,WATWASWWHBADIMNGA_EX,0.4921087798190363,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2040,WATWASELC,WATWASWWNTPRC_EX,0.6064690026954178,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2040,ADEMWATWASNTWWPRC,WATWASWWNTPRC_EX,0.39353099730458224,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2040,WATWASNGA,WATWASFWRCHPRC_EX,0.004683101506740105,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2040,WATWASELC,WATWASFWRCHPRC_EX,0.5529410296185185,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2040,WATWASFW,WATWASFWRCHPRC_EX,0.4423758688747414,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2040,WATWASNGA,WATWASFWFJHPRC_EX,0.01083621497839885,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2040,WATWASELC,WATWASFWFJHPRC_EX,0.6114372288347742,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2040,WATWASFW,WATWASFWFJHPRC_EX,0.3777265561868269,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2040,WATWASNGA,WATWASFWRLCPRC_EX,0.012352346135197161,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2040,WATWASELC,WATWASFWRLCPRC_EX,0.5939289102816177,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2040,WATWASFW,WATWASFWRLCPRC_EX,0.3937187435831853,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2040,WATWASNGA,WATWASFWISDPRC_EX,0.013858860787190874,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2040,WATWASELC,WATWASFWISDPRC_EX,0.22403619392462484,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2040,WATWASFW,WATWASFWISDPRC_EX,0.7621049452881843,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2041,WATWASELC,WATWASWWABPRC_EX,0.920367682102541,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2041,ADEMWATWASWWABTTE,WATWASWWABPRC_EX,0.07963231789745902,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2041,WATWASNGA,WATWASWWABADIMNGA_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2041,WATWASELC,WATWASWWHCPRC_EX,0.8173590092263603,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2041,ADEMWATWASWWHCTTE,WATWASWWHCPRC_EX,0.14249681975698558,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2041,ADEMWATWASWWINC,WATWASWWHCPRC_EX,0.04014417101665424,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2041,WATWASNGA,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2041,WATWASNGA,WATWASWWHCADIMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2041,WATWASELC,WATWASWWHBPRC_EX,0.8344201871278707,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2041,ADEMWATWASWWHBTTE,WATWASWWHBPRC_EX,0.16557981287212928,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2041,WATWASNGA,WATWASWWHBADIMNGA_EX,0.5078912201809637,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2041,WATWASBMTN,WATWASWWHBADIMNGA_EX,0.4921087798190363,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2041,WATWASELC,WATWASWWNTPRC_EX,0.6064690026954178,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2041,ADEMWATWASNTWWPRC,WATWASWWNTPRC_EX,0.39353099730458224,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2041,WATWASNGA,WATWASFWRCHPRC_EX,0.004683101506740105,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2041,WATWASELC,WATWASFWRCHPRC_EX,0.5529410296185185,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2041,WATWASFW,WATWASFWRCHPRC_EX,0.4423758688747414,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2041,WATWASNGA,WATWASFWFJHPRC_EX,0.01083621497839885,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2041,WATWASELC,WATWASFWFJHPRC_EX,0.6114372288347742,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2041,WATWASFW,WATWASFWFJHPRC_EX,0.3777265561868269,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2041,WATWASNGA,WATWASFWRLCPRC_EX,0.012352346135197161,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2041,WATWASELC,WATWASFWRLCPRC_EX,0.5939289102816177,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2041,WATWASFW,WATWASFWRLCPRC_EX,0.3937187435831853,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2041,WATWASNGA,WATWASFWISDPRC_EX,0.013858860787190874,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2041,WATWASELC,WATWASFWISDPRC_EX,0.22403619392462484,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2041,WATWASFW,WATWASFWISDPRC_EX,0.7621049452881843,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2042,WATWASELC,WATWASWWABPRC_EX,0.920367682102541,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2042,ADEMWATWASWWABTTE,WATWASWWABPRC_EX,0.07963231789745902,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2042,WATWASNGA,WATWASWWABADIMNGA_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2042,WATWASELC,WATWASWWHCPRC_EX,0.8173590092263603,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2042,ADEMWATWASWWHCTTE,WATWASWWHCPRC_EX,0.14249681975698558,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2042,ADEMWATWASWWINC,WATWASWWHCPRC_EX,0.04014417101665424,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2042,WATWASNGA,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2042,WATWASNGA,WATWASWWHCADIMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2042,WATWASELC,WATWASWWHBPRC_EX,0.8344201871278707,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2042,ADEMWATWASWWHBTTE,WATWASWWHBPRC_EX,0.16557981287212928,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2042,WATWASNGA,WATWASWWHBADIMNGA_EX,0.5078912201809637,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2042,WATWASBMTN,WATWASWWHBADIMNGA_EX,0.4921087798190363,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2042,WATWASELC,WATWASWWNTPRC_EX,0.6064690026954178,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2042,ADEMWATWASNTWWPRC,WATWASWWNTPRC_EX,0.39353099730458224,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2042,WATWASNGA,WATWASFWRCHPRC_EX,0.004683101506740105,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2042,WATWASELC,WATWASFWRCHPRC_EX,0.5529410296185185,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2042,WATWASFW,WATWASFWRCHPRC_EX,0.4423758688747414,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2042,WATWASNGA,WATWASFWFJHPRC_EX,0.01083621497839885,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2042,WATWASELC,WATWASFWFJHPRC_EX,0.6114372288347742,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2042,WATWASFW,WATWASFWFJHPRC_EX,0.3777265561868269,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2042,WATWASNGA,WATWASFWRLCPRC_EX,0.012352346135197161,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2042,WATWASELC,WATWASFWRLCPRC_EX,0.5939289102816177,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2042,WATWASFW,WATWASFWRLCPRC_EX,0.3937187435831853,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2042,WATWASNGA,WATWASFWISDPRC_EX,0.013858860787190874,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2042,WATWASELC,WATWASFWISDPRC_EX,0.22403619392462484,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2042,WATWASFW,WATWASFWISDPRC_EX,0.7621049452881843,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2043,WATWASELC,WATWASWWABPRC_EX,0.920367682102541,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2043,ADEMWATWASWWABTTE,WATWASWWABPRC_EX,0.07963231789745902,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2043,WATWASNGA,WATWASWWABADIMNGA_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2043,WATWASELC,WATWASWWHCPRC_EX,0.8173590092263603,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2043,ADEMWATWASWWHCTTE,WATWASWWHCPRC_EX,0.14249681975698558,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2043,ADEMWATWASWWINC,WATWASWWHCPRC_EX,0.04014417101665424,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2043,WATWASNGA,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2043,WATWASNGA,WATWASWWHCADIMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2043,WATWASELC,WATWASWWHBPRC_EX,0.8344201871278707,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2043,ADEMWATWASWWHBTTE,WATWASWWHBPRC_EX,0.16557981287212928,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2043,WATWASNGA,WATWASWWHBADIMNGA_EX,0.5078912201809637,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2043,WATWASBMTN,WATWASWWHBADIMNGA_EX,0.4921087798190363,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2043,WATWASELC,WATWASWWNTPRC_EX,0.6064690026954178,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2043,ADEMWATWASNTWWPRC,WATWASWWNTPRC_EX,0.39353099730458224,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2043,WATWASNGA,WATWASFWRCHPRC_EX,0.004683101506740105,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2043,WATWASELC,WATWASFWRCHPRC_EX,0.5529410296185185,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2043,WATWASFW,WATWASFWRCHPRC_EX,0.4423758688747414,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2043,WATWASNGA,WATWASFWFJHPRC_EX,0.01083621497839885,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2043,WATWASELC,WATWASFWFJHPRC_EX,0.6114372288347742,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2043,WATWASFW,WATWASFWFJHPRC_EX,0.3777265561868269,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2043,WATWASNGA,WATWASFWRLCPRC_EX,0.012352346135197161,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2043,WATWASELC,WATWASFWRLCPRC_EX,0.5939289102816177,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2043,WATWASFW,WATWASFWRLCPRC_EX,0.3937187435831853,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2043,WATWASNGA,WATWASFWISDPRC_EX,0.013858860787190874,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2043,WATWASELC,WATWASFWISDPRC_EX,0.22403619392462484,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2043,WATWASFW,WATWASFWISDPRC_EX,0.7621049452881843,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2044,WATWASELC,WATWASWWABPRC_EX,0.920367682102541,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2044,ADEMWATWASWWABTTE,WATWASWWABPRC_EX,0.07963231789745902,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2044,WATWASNGA,WATWASWWABADIMNGA_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2044,WATWASELC,WATWASWWHCPRC_EX,0.8173590092263603,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2044,ADEMWATWASWWHCTTE,WATWASWWHCPRC_EX,0.14249681975698558,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2044,ADEMWATWASWWINC,WATWASWWHCPRC_EX,0.04014417101665424,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2044,WATWASNGA,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2044,WATWASNGA,WATWASWWHCADIMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2044,WATWASELC,WATWASWWHBPRC_EX,0.8344201871278707,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2044,ADEMWATWASWWHBTTE,WATWASWWHBPRC_EX,0.16557981287212928,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2044,WATWASNGA,WATWASWWHBADIMNGA_EX,0.5078912201809637,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2044,WATWASBMTN,WATWASWWHBADIMNGA_EX,0.4921087798190363,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2044,WATWASELC,WATWASWWNTPRC_EX,0.6064690026954178,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2044,ADEMWATWASNTWWPRC,WATWASWWNTPRC_EX,0.39353099730458224,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2044,WATWASNGA,WATWASFWRCHPRC_EX,0.004683101506740105,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2044,WATWASELC,WATWASFWRCHPRC_EX,0.5529410296185185,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2044,WATWASFW,WATWASFWRCHPRC_EX,0.4423758688747414,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2044,WATWASNGA,WATWASFWFJHPRC_EX,0.01083621497839885,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2044,WATWASELC,WATWASFWFJHPRC_EX,0.6114372288347742,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2044,WATWASFW,WATWASFWFJHPRC_EX,0.3777265561868269,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2044,WATWASNGA,WATWASFWRLCPRC_EX,0.012352346135197161,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2044,WATWASELC,WATWASFWRLCPRC_EX,0.5939289102816177,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2044,WATWASFW,WATWASFWRLCPRC_EX,0.3937187435831853,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2044,WATWASNGA,WATWASFWISDPRC_EX,0.013858860787190874,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2044,WATWASELC,WATWASFWISDPRC_EX,0.22403619392462484,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2044,WATWASFW,WATWASFWISDPRC_EX,0.7621049452881843,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2045,WATWASELC,WATWASWWABPRC_EX,0.920367682102541,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2045,ADEMWATWASWWABTTE,WATWASWWABPRC_EX,0.07963231789745902,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2045,WATWASNGA,WATWASWWABADIMNGA_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2045,WATWASELC,WATWASWWHCPRC_EX,0.8173590092263603,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2045,ADEMWATWASWWHCTTE,WATWASWWHCPRC_EX,0.14249681975698558,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2045,ADEMWATWASWWINC,WATWASWWHCPRC_EX,0.04014417101665424,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2045,WATWASNGA,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2045,WATWASNGA,WATWASWWHCADIMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2045,WATWASELC,WATWASWWHBPRC_EX,0.8344201871278707,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2045,ADEMWATWASWWHBTTE,WATWASWWHBPRC_EX,0.16557981287212928,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2045,WATWASNGA,WATWASWWHBADIMNGA_EX,0.5078912201809637,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2045,WATWASBMTN,WATWASWWHBADIMNGA_EX,0.4921087798190363,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2045,WATWASELC,WATWASWWNTPRC_EX,0.6064690026954178,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2045,ADEMWATWASNTWWPRC,WATWASWWNTPRC_EX,0.39353099730458224,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2045,WATWASNGA,WATWASFWRCHPRC_EX,0.004683101506740105,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2045,WATWASELC,WATWASFWRCHPRC_EX,0.5529410296185185,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2045,WATWASFW,WATWASFWRCHPRC_EX,0.4423758688747414,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2045,WATWASNGA,WATWASFWFJHPRC_EX,0.01083621497839885,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2045,WATWASELC,WATWASFWFJHPRC_EX,0.6114372288347742,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2045,WATWASFW,WATWASFWFJHPRC_EX,0.3777265561868269,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2045,WATWASNGA,WATWASFWRLCPRC_EX,0.012352346135197161,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2045,WATWASELC,WATWASFWRLCPRC_EX,0.5939289102816177,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2045,WATWASFW,WATWASFWRLCPRC_EX,0.3937187435831853,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2045,WATWASNGA,WATWASFWISDPRC_EX,0.013858860787190874,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2045,WATWASELC,WATWASFWISDPRC_EX,0.22403619392462484,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2045,WATWASFW,WATWASFWISDPRC_EX,0.7621049452881843,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2046,WATWASELC,WATWASWWABPRC_EX,0.920367682102541,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2046,ADEMWATWASWWABTTE,WATWASWWABPRC_EX,0.07963231789745902,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2046,WATWASNGA,WATWASWWABADIMNGA_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2046,WATWASELC,WATWASWWHCPRC_EX,0.8173590092263603,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2046,ADEMWATWASWWHCTTE,WATWASWWHCPRC_EX,0.14249681975698558,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2046,ADEMWATWASWWINC,WATWASWWHCPRC_EX,0.04014417101665424,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2046,WATWASNGA,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2046,WATWASNGA,WATWASWWHCADIMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2046,WATWASELC,WATWASWWHBPRC_EX,0.8344201871278707,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2046,ADEMWATWASWWHBTTE,WATWASWWHBPRC_EX,0.16557981287212928,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2046,WATWASNGA,WATWASWWHBADIMNGA_EX,0.5078912201809637,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2046,WATWASBMTN,WATWASWWHBADIMNGA_EX,0.4921087798190363,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2046,WATWASELC,WATWASWWNTPRC_EX,0.6064690026954178,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2046,ADEMWATWASNTWWPRC,WATWASWWNTPRC_EX,0.39353099730458224,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2046,WATWASNGA,WATWASFWRCHPRC_EX,0.004683101506740105,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2046,WATWASELC,WATWASFWRCHPRC_EX,0.5529410296185185,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2046,WATWASFW,WATWASFWRCHPRC_EX,0.4423758688747414,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2046,WATWASNGA,WATWASFWFJHPRC_EX,0.01083621497839885,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2046,WATWASELC,WATWASFWFJHPRC_EX,0.6114372288347742,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2046,WATWASFW,WATWASFWFJHPRC_EX,0.3777265561868269,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2046,WATWASNGA,WATWASFWRLCPRC_EX,0.012352346135197161,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2046,WATWASELC,WATWASFWRLCPRC_EX,0.5939289102816177,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2046,WATWASFW,WATWASFWRLCPRC_EX,0.3937187435831853,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2046,WATWASNGA,WATWASFWISDPRC_EX,0.013858860787190874,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2046,WATWASELC,WATWASFWISDPRC_EX,0.22403619392462484,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2046,WATWASFW,WATWASFWISDPRC_EX,0.7621049452881843,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2047,WATWASELC,WATWASWWABPRC_EX,0.920367682102541,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2047,ADEMWATWASWWABTTE,WATWASWWABPRC_EX,0.07963231789745902,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2047,WATWASNGA,WATWASWWABADIMNGA_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2047,WATWASELC,WATWASWWHCPRC_EX,0.8173590092263603,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2047,ADEMWATWASWWHCTTE,WATWASWWHCPRC_EX,0.14249681975698558,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2047,ADEMWATWASWWINC,WATWASWWHCPRC_EX,0.04014417101665424,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2047,WATWASNGA,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2047,WATWASNGA,WATWASWWHCADIMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2047,WATWASELC,WATWASWWHBPRC_EX,0.8344201871278707,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2047,ADEMWATWASWWHBTTE,WATWASWWHBPRC_EX,0.16557981287212928,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2047,WATWASNGA,WATWASWWHBADIMNGA_EX,0.5078912201809637,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2047,WATWASBMTN,WATWASWWHBADIMNGA_EX,0.4921087798190363,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2047,WATWASELC,WATWASWWNTPRC_EX,0.6064690026954178,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2047,ADEMWATWASNTWWPRC,WATWASWWNTPRC_EX,0.39353099730458224,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2047,WATWASNGA,WATWASFWRCHPRC_EX,0.004683101506740105,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2047,WATWASELC,WATWASFWRCHPRC_EX,0.5529410296185185,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2047,WATWASFW,WATWASFWRCHPRC_EX,0.4423758688747414,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2047,WATWASNGA,WATWASFWFJHPRC_EX,0.01083621497839885,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2047,WATWASELC,WATWASFWFJHPRC_EX,0.6114372288347742,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2047,WATWASFW,WATWASFWFJHPRC_EX,0.3777265561868269,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2047,WATWASNGA,WATWASFWRLCPRC_EX,0.012352346135197161,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2047,WATWASELC,WATWASFWRLCPRC_EX,0.5939289102816177,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2047,WATWASFW,WATWASFWRLCPRC_EX,0.3937187435831853,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2047,WATWASNGA,WATWASFWISDPRC_EX,0.013858860787190874,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2047,WATWASELC,WATWASFWISDPRC_EX,0.22403619392462484,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2047,WATWASFW,WATWASFWISDPRC_EX,0.7621049452881843,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2048,WATWASELC,WATWASWWABPRC_EX,0.920367682102541,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2048,ADEMWATWASWWABTTE,WATWASWWABPRC_EX,0.07963231789745902,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2048,WATWASNGA,WATWASWWABADIMNGA_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2048,WATWASELC,WATWASWWHCPRC_EX,0.8173590092263603,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2048,ADEMWATWASWWHCTTE,WATWASWWHCPRC_EX,0.14249681975698558,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2048,ADEMWATWASWWINC,WATWASWWHCPRC_EX,0.04014417101665424,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2048,WATWASNGA,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2048,WATWASNGA,WATWASWWHCADIMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2048,WATWASELC,WATWASWWHBPRC_EX,0.8344201871278707,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2048,ADEMWATWASWWHBTTE,WATWASWWHBPRC_EX,0.16557981287212928,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2048,WATWASNGA,WATWASWWHBADIMNGA_EX,0.5078912201809637,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2048,WATWASBMTN,WATWASWWHBADIMNGA_EX,0.4921087798190363,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2048,WATWASELC,WATWASWWNTPRC_EX,0.6064690026954178,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2048,ADEMWATWASNTWWPRC,WATWASWWNTPRC_EX,0.39353099730458224,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2048,WATWASNGA,WATWASFWRCHPRC_EX,0.004683101506740105,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2048,WATWASELC,WATWASFWRCHPRC_EX,0.5529410296185185,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2048,WATWASFW,WATWASFWRCHPRC_EX,0.4423758688747414,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2048,WATWASNGA,WATWASFWFJHPRC_EX,0.01083621497839885,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2048,WATWASELC,WATWASFWFJHPRC_EX,0.6114372288347742,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2048,WATWASFW,WATWASFWFJHPRC_EX,0.3777265561868269,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2048,WATWASNGA,WATWASFWRLCPRC_EX,0.012352346135197161,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2048,WATWASELC,WATWASFWRLCPRC_EX,0.5939289102816177,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2048,WATWASFW,WATWASFWRLCPRC_EX,0.3937187435831853,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2048,WATWASNGA,WATWASFWISDPRC_EX,0.013858860787190874,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2048,WATWASELC,WATWASFWISDPRC_EX,0.22403619392462484,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2048,WATWASFW,WATWASFWISDPRC_EX,0.7621049452881843,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2049,WATWASELC,WATWASWWABPRC_EX,0.920367682102541,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2049,ADEMWATWASWWABTTE,WATWASWWABPRC_EX,0.07963231789745902,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2049,WATWASNGA,WATWASWWABADIMNGA_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2049,WATWASELC,WATWASWWHCPRC_EX,0.8173590092263603,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2049,ADEMWATWASWWHCTTE,WATWASWWHCPRC_EX,0.14249681975698558,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2049,ADEMWATWASWWINC,WATWASWWHCPRC_EX,0.04014417101665424,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2049,WATWASNGA,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2049,WATWASNGA,WATWASWWHCADIMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2049,WATWASELC,WATWASWWHBPRC_EX,0.8344201871278707,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2049,ADEMWATWASWWHBTTE,WATWASWWHBPRC_EX,0.16557981287212928,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2049,WATWASNGA,WATWASWWHBADIMNGA_EX,0.5078912201809637,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2049,WATWASBMTN,WATWASWWHBADIMNGA_EX,0.4921087798190363,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2049,WATWASELC,WATWASWWNTPRC_EX,0.6064690026954178,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2049,ADEMWATWASNTWWPRC,WATWASWWNTPRC_EX,0.39353099730458224,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2049,WATWASNGA,WATWASFWRCHPRC_EX,0.004683101506740105,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2049,WATWASELC,WATWASFWRCHPRC_EX,0.5529410296185185,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2049,WATWASFW,WATWASFWRCHPRC_EX,0.4423758688747414,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2049,WATWASNGA,WATWASFWFJHPRC_EX,0.01083621497839885,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2049,WATWASELC,WATWASFWFJHPRC_EX,0.6114372288347742,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2049,WATWASFW,WATWASFWFJHPRC_EX,0.3777265561868269,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2049,WATWASNGA,WATWASFWRLCPRC_EX,0.012352346135197161,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2049,WATWASELC,WATWASFWRLCPRC_EX,0.5939289102816177,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2049,WATWASFW,WATWASFWRLCPRC_EX,0.3937187435831853,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2049,WATWASNGA,WATWASFWISDPRC_EX,0.013858860787190874,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2049,WATWASELC,WATWASFWISDPRC_EX,0.22403619392462484,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2049,WATWASFW,WATWASFWISDPRC_EX,0.7621049452881843,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2050,WATWASELC,WATWASWWABPRC_EX,0.920367682102541,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2050,ADEMWATWASWWABTTE,WATWASWWABPRC_EX,0.07963231789745902,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,2050,WATWASNGA,WATWASWWABADIMNGA_EX,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,2050,WATWASELC,WATWASWWHCPRC_EX,0.8173590092263603,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2050,ADEMWATWASWWHCTTE,WATWASWWHCPRC_EX,0.14249681975698558,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2050,ADEMWATWASWWINC,WATWASWWHCPRC_EX,0.04014417101665424,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,2050,WATWASNGA,WATWASWWHCINCMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,2050,WATWASNGA,WATWASWWHCADIMNGA_EX,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,2050,WATWASELC,WATWASWWHBPRC_EX,0.8344201871278707,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2050,ADEMWATWASWWHBTTE,WATWASWWHBPRC_EX,0.16557981287212928,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,2050,WATWASNGA,WATWASWWHBADIMNGA_EX,0.5078912201809637,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2050,WATWASBMTN,WATWASWWHBADIMNGA_EX,0.4921087798190363,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,2050,WATWASELC,WATWASWWNTPRC_EX,0.6064690026954178,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2050,ADEMWATWASNTWWPRC,WATWASWWNTPRC_EX,0.39353099730458224,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,2050,WATWASNGA,WATWASFWRCHPRC_EX,0.004683101506740105,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2050,WATWASELC,WATWASFWRCHPRC_EX,0.5529410296185185,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2050,WATWASFW,WATWASFWRCHPRC_EX,0.4423758688747414,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,2050,WATWASNGA,WATWASFWFJHPRC_EX,0.01083621497839885,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2050,WATWASELC,WATWASFWFJHPRC_EX,0.6114372288347742,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2050,WATWASFW,WATWASFWFJHPRC_EX,0.3777265561868269,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,2050,WATWASNGA,WATWASFWRLCPRC_EX,0.012352346135197161,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2050,WATWASELC,WATWASFWRLCPRC_EX,0.5939289102816177,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2050,WATWASFW,WATWASFWRLCPRC_EX,0.3937187435831853,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,2050,WATWASNGA,WATWASFWISDPRC_EX,0.013858860787190874,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2050,WATWASELC,WATWASFWISDPRC_EX,0.22403619392462484,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,2050,WATWASFW,WATWASFWISDPRC_EX,0.7621049452881843,WaterWasteFresh waterIsland Water Treatment PlantProcess

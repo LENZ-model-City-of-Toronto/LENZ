@@ -1,0 +1,6 @@
+INSERT INTO`technologies`VALUES('INDBDGIPSEP___WAH_23','p','INDBDG','IndustryBuildingIndustrial Processes','nan');
+INSERT INTO`technologies`VALUES('INDBDGLIRET_23','p','INDBDG','IndustryBuildingLightingRetrofit','nan');
+INSERT INTO`technologies`VALUES('INDBDGIPRET_23','p','INDBDG','IndustryBuildingIndustrial ProcessesRetrofit','nan');
+INSERT INTO`technologies`VALUES('INDBDGSCRET_23','p','INDBDG','IndustryBuildingSpace CoolingRetrofit','nan');
+INSERT INTO`technologies`VALUES('INDBDGSHRET_23','p','INDBDG','IndustryBuildingSpace HeatingRetrofit','nan');
+INSERT INTO`technologies`VALUES('INDBDGWHRET_23','p','INDBDG','IndustryBuildingWater HeatingRetrofit','nan');

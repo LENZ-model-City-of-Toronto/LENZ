@@ -1,0 +1,6 @@
+INSERT INTO`LifetimeTech`VALUES('TO','LDITRADOMAIR_________AGA_EX',25,'Long DistanceTransportationDomesticAirAviation Gasoline');
+INSERT INTO`LifetimeTech`VALUES('TO','LDITRADOMAIR_________ATF_EX',25,'Long DistanceTransportationDomesticAirAviation Turbo Fuel');
+INSERT INTO`LifetimeTech`VALUES('TO','LDITRADOMRAI_________DSL_EX',50,'Long DistanceTransportationDomesticRailDiesel');
+INSERT INTO`LifetimeTech`VALUES('TO','LDITRAINTAIR_________AGA_EX',25,'Long DistanceTransportationInternationalAirAviation Gasoline');
+INSERT INTO`LifetimeTech`VALUES('TO','LDITRAINTAIR_________ATF_EX',25,'Long DistanceTransportationInternationalAirAviation Turbo Fuel');
+INSERT INTO`LifetimeTech`VALUES('TO','LDITRAINTRAI_________DSL_EX',50,'Long DistanceTransportationInternationalRailDiesel');

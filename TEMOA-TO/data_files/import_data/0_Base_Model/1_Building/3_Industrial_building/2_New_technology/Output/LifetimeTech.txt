@@ -1,0 +1,6 @@
+INSERT INTO`LifetimeTech`VALUES('TO','INDBDGIPSEP___WAH_23',200,'IndustryBuildingIndustrial Processes');
+INSERT INTO`LifetimeTech`VALUES('TO','INDBDGLIRET_23',200,'IndustryBuildingLightingRetrofit');
+INSERT INTO`LifetimeTech`VALUES('TO','INDBDGIPRET_23',200,'IndustryBuildingIndustrial ProcessesRetrofit');
+INSERT INTO`LifetimeTech`VALUES('TO','INDBDGSCRET_23',200,'IndustryBuildingSpace CoolingRetrofit');
+INSERT INTO`LifetimeTech`VALUES('TO','INDBDGSHRET_23',200,'IndustryBuildingSpace HeatingRetrofit');
+INSERT INTO`LifetimeTech`VALUES('TO','INDBDGWHRET_23',200,'IndustryBuildingWater HeatingRetrofit');

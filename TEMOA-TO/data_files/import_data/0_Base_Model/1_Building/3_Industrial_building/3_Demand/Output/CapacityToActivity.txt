@@ -1,0 +1,5 @@
+INSERT INTO`CapacityToActivity`VALUES('TO','INDBDGLI',1,'IndustryBuildingLighting');
+INSERT INTO`CapacityToActivity`VALUES('TO','INDBDGSC',1,'IndustryBuildingSpace Cooling');
+INSERT INTO`CapacityToActivity`VALUES('TO','INDBDGIP',1,'IndustryBuildingIndustrial Processes');
+INSERT INTO`CapacityToActivity`VALUES('TO','INDBDGSH',1,'IndustryBuildingSpace Heating');
+INSERT INTO`CapacityToActivity`VALUES('TO','INDBDGWH',1,'IndustryBuildingWater Heating');

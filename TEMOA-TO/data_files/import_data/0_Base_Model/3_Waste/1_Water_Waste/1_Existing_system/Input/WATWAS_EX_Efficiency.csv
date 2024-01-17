@@ -1,0 +1,46 @@
+regions,input_comm,tech,vintage,output_comm,efficiency,eff_notes
+TO,WATWASELC,WATWASWWABPRC_EX,1950,ADEMWATWASWWAB,0.3811635820977621,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,ADEMWATWASWWABTTE,WATWASWWABPRC_EX,1950,ADEMWATWASWWAB,0.3811635820977621,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,EUEWATWASWWABTTE,WATWASWWABTTE_EX,1950,ADEMWATWASWWABTTE,0.06189963080864288,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,SEEWATWASWWABADIMNGA,WATWASWWABADI_EX,2000,EUEWATWASWWABTTE,5.986960526315789,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,SEEWATWASWWABADIMNGA,WATWASWWABADI_EX,2000,BMTNWATWASWWAB,5.986960526315789,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,WATWASNGA,WATWASWWABADIMNGA_EX,1950,SEEWATWASWWABADIMNGA,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,WATWASBMTN,WATWASWWABADIMNGA_EX,1950,SEEWATWASWWABADIMNGA,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,BMTNWATWASWWAB,WATWASWWABUSE_EX,1950,WATWASBMTN,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,BMTNWATWASWWAB,WATWASWWABFLR_EX,1950,WATWASETHOS,1.0,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,WATWASELC,WATWASWWHCPRC_EX,1955,ADEMWATWASWWHC,0.9238276966267492,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,ADEMWATWASWWHCTTE,WATWASWWHCPRC_EX,1955,ADEMWATWASWWHC,0.9238276966267492,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,ADEMWATWASWWINC,WATWASWWHCPRC_EX,1955,ADEMWATWASWWHC,0.92,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,SEEWATWASWWHCINCMNGA,WATWASWWHCINC_EX,1955,ADEMWATWASWWINC,0.008095338347170333,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,WATWASNGA,WATWASWWHCINCMNGA_EX,1955,SEEWATWASWWHCINCMNGA,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,WATWASBMTN,WATWASWWHCINCMNGA_EX,1955,SEEWATWASWWHCINCMNGA,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,EUEWATWASWWHCTTE,WATWASWWHCTTE_EX,1955,ADEMWATWASWWHCTTE,0.0631308946231353,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,SEEWATWASWWHCADIMNGA,WATWASWWHCADI_EX,2000,EUEWATWASWWHCTTE,6.092304966438915,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,SEEWATWASWWHCADIMNGA,WATWASWWHCADI_EX,2000,BMTNWATWASWWHC,6.092304966438915,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,WATWASNGA,WATWASWWHCADIMNGA_EX,1955,SEEWATWASWWHCADIMNGA,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,WATWASBMTN,WATWASWWHCADIMNGA_EX,1955,SEEWATWASWWHCADIMNGA,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,BMTNWATWASWWHC,WATWASWWHCUSE_EX,1955,WATWASBMTN,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,BMTNWATWASWWHC,WATWASWWHCFLR_EX,1955,WATWASETHOS,1.0,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,WATWASELC,WATWASWWHBPRC_EX,1960,ADEMWATWASWWHB,0.6656825914374822,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,ADEMWATWASWWHBTTE,WATWASWWHBPRC_EX,1960,ADEMWATWASWWHB,0.6656825914374822,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,EUEWATWASWWHBTTE,WATWASWWHBTTE_EX,1960,ADEMWATWASWWHBTTE,0.0765216537968135,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,SEEWATWASWWHBADIMNGA,WATWASWWHBADI_EX,2000,EUEWATWASWWHBTTE,6.009102274290568,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,SEEWATWASWWHBADIMNGA,WATWASWWHBADI_EX,2000,BMTNWATWASWWHB,6.009102274290568,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,WATWASNGA,WATWASWWHBADIMNGA_EX,1960,SEEWATWASWWHBADIMNGA,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,WATWASBMTN,WATWASWWHBADIMNGA_EX,1960,SEEWATWASWWHBADIMNGA,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,BMTNWATWASWWHB,WATWASWWHBUSE_EX,1960,WATWASBMTN,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,BMTNWATWASWWHB,WATWASWWHBFLR_EX,1960,WATWASETHOS,1.0,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,WATWASELC,WATWASWWNTPRC_EX,1950,ADEMWATWASWWNT,0.1030335702033815,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,ADEMWATWASNTWWPRC,WATWASWWNTPRC_EX,1950,ADEMWATWASWWNT,0.1030335702033815,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,WATWASNGA,WATWASFWRCHPRC_EX,1950,ADEMWATWASFWRCH,0.4423758688747414,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,WATWASELC,WATWASFWRCHPRC_EX,1950,ADEMWATWASFWRCH,0.4423758688747414,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,WATWASFW,WATWASFWRCHPRC_EX,1950,ADEMWATWASFWRCH,0.4423758688747414,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,WATWASNGA,WATWASFWFJHPRC_EX,1980,ADEMWATWASFWFJH,0.3777265561868269,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,WATWASELC,WATWASFWFJHPRC_EX,1980,ADEMWATWASFWFJH,0.3777265561868269,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,WATWASFW,WATWASFWFJHPRC_EX,1980,ADEMWATWASFWFJH,0.3777265561868269,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,WATWASNGA,WATWASFWRLCPRC_EX,1950,ADEMWATWASFWRLC,0.3937187435831853,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,WATWASELC,WATWASFWRLCPRC_EX,1950,ADEMWATWASFWRLC,0.3937187435831853,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,WATWASFW,WATWASFWRLCPRC_EX,1950,ADEMWATWASFWRLC,0.3937187435831853,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,WATWASNGA,WATWASFWISDPRC_EX,1980,ADEMWATWASFWISD,0.7621049452881843,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,WATWASELC,WATWASFWISDPRC_EX,1980,ADEMWATWASFWISD,0.7621049452881843,WaterWasteFresh waterIsland Water Treatment PlantProcess
+TO,WATWASFW,WATWASFWISDPRC_EX,1980,ADEMWATWASFWISD,0.7621049452881843,WaterWasteFresh waterIsland Water Treatment PlantProcess

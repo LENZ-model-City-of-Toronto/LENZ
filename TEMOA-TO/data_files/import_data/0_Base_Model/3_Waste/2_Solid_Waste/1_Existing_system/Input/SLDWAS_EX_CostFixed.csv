@@ -1,0 +1,1109 @@
+regions,periods,tech,vintage,cost_fixed,cost_fixed_units,cost_fixed_notes
+TO,2016,SLDWASLDFGLAGG_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneAggregate demand
+TO,2016,SLDWASLDFGLGEN_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneBiogas generation
+TO,2016,SLDWASLDFGLCAP_EX,2015,0.4810004810004811,k$/Tja,SolidWasteLandfillGreen LaneBiogas capture
+TO,2016,SLDWASLDFGLFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillGreen LaneFlaring
+TO,2016,SLDWASLDFBWGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBrock WestBiogas generation
+TO,2016,SLDWASLDFBWLEK_EX,2015,0.0,k$/kta,SolidWasteLandfillBrock WestLeaking
+TO,2016,SLDWASLDFKVGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteKeele ValleyBiogas generation
+TO,2016,SLDWASLDFKVCAP_EX,2015,0.8293111741387603,k$/Tja,SolidWasteLandfillKeele ValleyBiogas capture
+TO,2016,SLDWASLDFKVFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillKeele ValleyFlaring
+TO,2016,SLDWASLDFBRGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBeare RdBiogas generation
+TO,2016,SLDWASLDFBRCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillBeare RdBiogas capture
+TO,2016,SLDWASLDFBRFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillBeare RdFlaring
+TO,2016,SLDWASLDFTKGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteThackerayBiogas generation
+TO,2016,SLDWASLDFTKLEK_EX,2015,0.0,k$/Tja,SolidWasteLandfillThackerayLeaking
+TO,2016,SLDWASLDFAHGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Arbor HillsBiogas generation
+TO,2016,SLDWASLDFAHCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,2016,SLDWASLDFAHFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Arbor HillsFlaring
+TO,2016,SLDWASLDFCFGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Carleton farmsBiogas generation
+TO,2016,SLDWASLDFCFCAP_EX,2015,0.6012506012506014,k$/Tja,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,2016,SLDWASLDFCFFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Carleton farmsFlaring
+TO,2016,SLDWASGRBDRTTE_EX,2015,2.5,k$/Tja,SolidWasteGreen BinDisco RoadTons to Energy
+TO,2016,SLDWASGRBDRADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2016,SLDWASGRBDRADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2016,SLDWASGRBDRUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadExport of energy
+TO,2016,SLDWASGRBDRFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadFlaring
+TO,2016,SLDWASGRBDFTTE_EX,2015,2.5,k$/kta,SolidWasteGreen BinDufferinTons to Energy
+TO,2016,SLDWASGRBDFADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2016,SLDWASGRBDFADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2016,SLDWASGRBDFUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinExport of energy
+TO,2016,SLDWASGRBDFFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinFlaring
+TO,2016,SLDWASGRBCPGEN_EX,2015,2.0,k$/kta,SolidWasteGreen BinCompostBiogas generation
+TO,2016,SLDWASGRBCPLEK_EX,2015,0.0,k$/kta,SolidWasteGreen BinCompostLeaking
+TO,2017,SLDWASLDFGLAGG_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneAggregate demand
+TO,2017,SLDWASLDFGLGEN_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneBiogas generation
+TO,2017,SLDWASLDFGLCAP_EX,2015,0.4810004810004811,k$/Tja,SolidWasteLandfillGreen LaneBiogas capture
+TO,2017,SLDWASLDFGLFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillGreen LaneFlaring
+TO,2017,SLDWASLDFBWGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBrock WestBiogas generation
+TO,2017,SLDWASLDFBWLEK_EX,2015,0.0,k$/kta,SolidWasteLandfillBrock WestLeaking
+TO,2017,SLDWASLDFKVGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteKeele ValleyBiogas generation
+TO,2017,SLDWASLDFKVCAP_EX,2015,0.8293111741387603,k$/Tja,SolidWasteLandfillKeele ValleyBiogas capture
+TO,2017,SLDWASLDFKVFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillKeele ValleyFlaring
+TO,2017,SLDWASLDFBRGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBeare RdBiogas generation
+TO,2017,SLDWASLDFBRCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillBeare RdBiogas capture
+TO,2017,SLDWASLDFBRFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillBeare RdFlaring
+TO,2017,SLDWASLDFTKGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteThackerayBiogas generation
+TO,2017,SLDWASLDFTKLEK_EX,2015,0.0,k$/Tja,SolidWasteLandfillThackerayLeaking
+TO,2017,SLDWASLDFAHGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Arbor HillsBiogas generation
+TO,2017,SLDWASLDFAHCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,2017,SLDWASLDFAHFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Arbor HillsFlaring
+TO,2017,SLDWASLDFCFGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Carleton farmsBiogas generation
+TO,2017,SLDWASLDFCFCAP_EX,2015,0.6012506012506014,k$/Tja,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,2017,SLDWASLDFCFFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Carleton farmsFlaring
+TO,2017,SLDWASGRBDRTTE_EX,2015,2.5,k$/Tja,SolidWasteGreen BinDisco RoadTons to Energy
+TO,2017,SLDWASGRBDRADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2017,SLDWASGRBDRADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2017,SLDWASGRBDRUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadExport of energy
+TO,2017,SLDWASGRBDRFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadFlaring
+TO,2017,SLDWASGRBDFTTE_EX,2015,2.5,k$/kta,SolidWasteGreen BinDufferinTons to Energy
+TO,2017,SLDWASGRBDFADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2017,SLDWASGRBDFADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2017,SLDWASGRBDFUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinExport of energy
+TO,2017,SLDWASGRBDFFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinFlaring
+TO,2017,SLDWASGRBCPGEN_EX,2015,2.0,k$/kta,SolidWasteGreen BinCompostBiogas generation
+TO,2017,SLDWASGRBCPLEK_EX,2015,0.0,k$/kta,SolidWasteGreen BinCompostLeaking
+TO,2018,SLDWASLDFGLAGG_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneAggregate demand
+TO,2018,SLDWASLDFGLGEN_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneBiogas generation
+TO,2018,SLDWASLDFGLCAP_EX,2015,0.4810004810004811,k$/Tja,SolidWasteLandfillGreen LaneBiogas capture
+TO,2018,SLDWASLDFGLFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillGreen LaneFlaring
+TO,2018,SLDWASLDFBWGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBrock WestBiogas generation
+TO,2018,SLDWASLDFBWLEK_EX,2015,0.0,k$/kta,SolidWasteLandfillBrock WestLeaking
+TO,2018,SLDWASLDFKVGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteKeele ValleyBiogas generation
+TO,2018,SLDWASLDFKVCAP_EX,2015,0.8293111741387603,k$/Tja,SolidWasteLandfillKeele ValleyBiogas capture
+TO,2018,SLDWASLDFKVFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillKeele ValleyFlaring
+TO,2018,SLDWASLDFBRGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBeare RdBiogas generation
+TO,2018,SLDWASLDFBRCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillBeare RdBiogas capture
+TO,2018,SLDWASLDFBRFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillBeare RdFlaring
+TO,2018,SLDWASLDFTKGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteThackerayBiogas generation
+TO,2018,SLDWASLDFTKLEK_EX,2015,0.0,k$/Tja,SolidWasteLandfillThackerayLeaking
+TO,2018,SLDWASLDFAHGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Arbor HillsBiogas generation
+TO,2018,SLDWASLDFAHCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,2018,SLDWASLDFAHFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Arbor HillsFlaring
+TO,2018,SLDWASLDFCFGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Carleton farmsBiogas generation
+TO,2018,SLDWASLDFCFCAP_EX,2015,0.6012506012506014,k$/Tja,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,2018,SLDWASLDFCFFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Carleton farmsFlaring
+TO,2018,SLDWASGRBDRTTE_EX,2015,2.5,k$/Tja,SolidWasteGreen BinDisco RoadTons to Energy
+TO,2018,SLDWASGRBDRADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2018,SLDWASGRBDRADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2018,SLDWASGRBDRUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadExport of energy
+TO,2018,SLDWASGRBDRFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadFlaring
+TO,2018,SLDWASGRBDFTTE_EX,2015,2.5,k$/kta,SolidWasteGreen BinDufferinTons to Energy
+TO,2018,SLDWASGRBDFADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2018,SLDWASGRBDFADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2018,SLDWASGRBDFUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinExport of energy
+TO,2018,SLDWASGRBDFFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinFlaring
+TO,2018,SLDWASGRBCPGEN_EX,2015,2.0,k$/kta,SolidWasteGreen BinCompostBiogas generation
+TO,2018,SLDWASGRBCPLEK_EX,2015,0.0,k$/kta,SolidWasteGreen BinCompostLeaking
+TO,2019,SLDWASLDFGLAGG_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneAggregate demand
+TO,2019,SLDWASLDFGLGEN_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneBiogas generation
+TO,2019,SLDWASLDFGLCAP_EX,2015,0.4810004810004811,k$/Tja,SolidWasteLandfillGreen LaneBiogas capture
+TO,2019,SLDWASLDFGLFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillGreen LaneFlaring
+TO,2019,SLDWASLDFBWGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBrock WestBiogas generation
+TO,2019,SLDWASLDFBWLEK_EX,2015,0.0,k$/kta,SolidWasteLandfillBrock WestLeaking
+TO,2019,SLDWASLDFKVGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteKeele ValleyBiogas generation
+TO,2019,SLDWASLDFKVCAP_EX,2015,0.8293111741387603,k$/Tja,SolidWasteLandfillKeele ValleyBiogas capture
+TO,2019,SLDWASLDFKVFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillKeele ValleyFlaring
+TO,2019,SLDWASLDFBRGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBeare RdBiogas generation
+TO,2019,SLDWASLDFBRCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillBeare RdBiogas capture
+TO,2019,SLDWASLDFBRFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillBeare RdFlaring
+TO,2019,SLDWASLDFTKGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteThackerayBiogas generation
+TO,2019,SLDWASLDFTKLEK_EX,2015,0.0,k$/Tja,SolidWasteLandfillThackerayLeaking
+TO,2019,SLDWASLDFAHGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Arbor HillsBiogas generation
+TO,2019,SLDWASLDFAHCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,2019,SLDWASLDFAHFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Arbor HillsFlaring
+TO,2019,SLDWASLDFCFGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Carleton farmsBiogas generation
+TO,2019,SLDWASLDFCFCAP_EX,2015,0.6012506012506014,k$/Tja,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,2019,SLDWASLDFCFFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Carleton farmsFlaring
+TO,2019,SLDWASGRBDRTTE_EX,2015,2.5,k$/Tja,SolidWasteGreen BinDisco RoadTons to Energy
+TO,2019,SLDWASGRBDRADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2019,SLDWASGRBDRADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2019,SLDWASGRBDRUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadExport of energy
+TO,2019,SLDWASGRBDRFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadFlaring
+TO,2019,SLDWASGRBDFTTE_EX,2015,2.5,k$/kta,SolidWasteGreen BinDufferinTons to Energy
+TO,2019,SLDWASGRBDFADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2019,SLDWASGRBDFADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2019,SLDWASGRBDFUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinExport of energy
+TO,2019,SLDWASGRBDFFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinFlaring
+TO,2019,SLDWASGRBCPGEN_EX,2015,2.0,k$/kta,SolidWasteGreen BinCompostBiogas generation
+TO,2019,SLDWASGRBCPLEK_EX,2015,0.0,k$/kta,SolidWasteGreen BinCompostLeaking
+TO,2020,SLDWASLDFGLAGG_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneAggregate demand
+TO,2020,SLDWASLDFGLGEN_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneBiogas generation
+TO,2020,SLDWASLDFGLCAP_EX,2015,0.4810004810004811,k$/Tja,SolidWasteLandfillGreen LaneBiogas capture
+TO,2020,SLDWASLDFGLFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillGreen LaneFlaring
+TO,2020,SLDWASLDFBWGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBrock WestBiogas generation
+TO,2020,SLDWASLDFBWLEK_EX,2015,0.0,k$/kta,SolidWasteLandfillBrock WestLeaking
+TO,2020,SLDWASLDFKVGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteKeele ValleyBiogas generation
+TO,2020,SLDWASLDFKVCAP_EX,2015,0.8293111741387603,k$/Tja,SolidWasteLandfillKeele ValleyBiogas capture
+TO,2020,SLDWASLDFKVFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillKeele ValleyFlaring
+TO,2020,SLDWASLDFBRGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBeare RdBiogas generation
+TO,2020,SLDWASLDFBRCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillBeare RdBiogas capture
+TO,2020,SLDWASLDFBRFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillBeare RdFlaring
+TO,2020,SLDWASLDFTKGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteThackerayBiogas generation
+TO,2020,SLDWASLDFTKLEK_EX,2015,0.0,k$/Tja,SolidWasteLandfillThackerayLeaking
+TO,2020,SLDWASLDFAHGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Arbor HillsBiogas generation
+TO,2020,SLDWASLDFAHCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,2020,SLDWASLDFAHFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Arbor HillsFlaring
+TO,2020,SLDWASLDFCFGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Carleton farmsBiogas generation
+TO,2020,SLDWASLDFCFCAP_EX,2015,0.6012506012506014,k$/Tja,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,2020,SLDWASLDFCFFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Carleton farmsFlaring
+TO,2020,SLDWASGRBDRTTE_EX,2015,2.5,k$/Tja,SolidWasteGreen BinDisco RoadTons to Energy
+TO,2020,SLDWASGRBDRADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2020,SLDWASGRBDRADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2020,SLDWASGRBDRUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadExport of energy
+TO,2020,SLDWASGRBDRFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadFlaring
+TO,2020,SLDWASGRBDFTTE_EX,2015,2.5,k$/kta,SolidWasteGreen BinDufferinTons to Energy
+TO,2020,SLDWASGRBDFADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2020,SLDWASGRBDFADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2020,SLDWASGRBDFUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinExport of energy
+TO,2020,SLDWASGRBDFFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinFlaring
+TO,2020,SLDWASGRBCPGEN_EX,2015,2.0,k$/kta,SolidWasteGreen BinCompostBiogas generation
+TO,2020,SLDWASGRBCPLEK_EX,2015,0.0,k$/kta,SolidWasteGreen BinCompostLeaking
+TO,2021,SLDWASLDFGLAGG_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneAggregate demand
+TO,2021,SLDWASLDFGLGEN_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneBiogas generation
+TO,2021,SLDWASLDFGLCAP_EX,2015,0.4810004810004811,k$/Tja,SolidWasteLandfillGreen LaneBiogas capture
+TO,2021,SLDWASLDFGLFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillGreen LaneFlaring
+TO,2021,SLDWASLDFBWGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBrock WestBiogas generation
+TO,2021,SLDWASLDFBWLEK_EX,2015,0.0,k$/kta,SolidWasteLandfillBrock WestLeaking
+TO,2021,SLDWASLDFKVGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteKeele ValleyBiogas generation
+TO,2021,SLDWASLDFKVCAP_EX,2015,0.8293111741387603,k$/Tja,SolidWasteLandfillKeele ValleyBiogas capture
+TO,2021,SLDWASLDFKVFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillKeele ValleyFlaring
+TO,2021,SLDWASLDFBRGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBeare RdBiogas generation
+TO,2021,SLDWASLDFBRCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillBeare RdBiogas capture
+TO,2021,SLDWASLDFBRFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillBeare RdFlaring
+TO,2021,SLDWASLDFTKGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteThackerayBiogas generation
+TO,2021,SLDWASLDFTKLEK_EX,2015,0.0,k$/Tja,SolidWasteLandfillThackerayLeaking
+TO,2021,SLDWASLDFAHGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Arbor HillsBiogas generation
+TO,2021,SLDWASLDFAHCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,2021,SLDWASLDFAHFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Arbor HillsFlaring
+TO,2021,SLDWASLDFCFGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Carleton farmsBiogas generation
+TO,2021,SLDWASLDFCFCAP_EX,2015,0.6012506012506014,k$/Tja,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,2021,SLDWASLDFCFFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Carleton farmsFlaring
+TO,2021,SLDWASGRBDRTTE_EX,2015,2.5,k$/Tja,SolidWasteGreen BinDisco RoadTons to Energy
+TO,2021,SLDWASGRBDRADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2021,SLDWASGRBDRADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2021,SLDWASGRBDRUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadExport of energy
+TO,2021,SLDWASGRBDRFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadFlaring
+TO,2021,SLDWASGRBDFTTE_EX,2015,2.5,k$/kta,SolidWasteGreen BinDufferinTons to Energy
+TO,2021,SLDWASGRBDFADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2021,SLDWASGRBDFADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2021,SLDWASGRBDFUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinExport of energy
+TO,2021,SLDWASGRBDFFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinFlaring
+TO,2021,SLDWASGRBCPGEN_EX,2015,2.0,k$/kta,SolidWasteGreen BinCompostBiogas generation
+TO,2021,SLDWASGRBCPLEK_EX,2015,0.0,k$/kta,SolidWasteGreen BinCompostLeaking
+TO,2022,SLDWASLDFGLAGG_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneAggregate demand
+TO,2022,SLDWASLDFGLGEN_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneBiogas generation
+TO,2022,SLDWASLDFGLCAP_EX,2015,0.4810004810004811,k$/Tja,SolidWasteLandfillGreen LaneBiogas capture
+TO,2022,SLDWASLDFGLFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillGreen LaneFlaring
+TO,2022,SLDWASLDFBWGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBrock WestBiogas generation
+TO,2022,SLDWASLDFBWLEK_EX,2015,0.0,k$/kta,SolidWasteLandfillBrock WestLeaking
+TO,2022,SLDWASLDFKVGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteKeele ValleyBiogas generation
+TO,2022,SLDWASLDFKVCAP_EX,2015,0.8293111741387603,k$/Tja,SolidWasteLandfillKeele ValleyBiogas capture
+TO,2022,SLDWASLDFKVFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillKeele ValleyFlaring
+TO,2022,SLDWASLDFBRGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBeare RdBiogas generation
+TO,2022,SLDWASLDFBRCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillBeare RdBiogas capture
+TO,2022,SLDWASLDFBRFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillBeare RdFlaring
+TO,2022,SLDWASLDFTKGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteThackerayBiogas generation
+TO,2022,SLDWASLDFTKLEK_EX,2015,0.0,k$/Tja,SolidWasteLandfillThackerayLeaking
+TO,2022,SLDWASLDFAHGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Arbor HillsBiogas generation
+TO,2022,SLDWASLDFAHCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,2022,SLDWASLDFAHFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Arbor HillsFlaring
+TO,2022,SLDWASLDFCFGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Carleton farmsBiogas generation
+TO,2022,SLDWASLDFCFCAP_EX,2015,0.6012506012506014,k$/Tja,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,2022,SLDWASLDFCFFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Carleton farmsFlaring
+TO,2022,SLDWASGRBDRTTE_EX,2015,2.5,k$/Tja,SolidWasteGreen BinDisco RoadTons to Energy
+TO,2022,SLDWASGRBDRADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2022,SLDWASGRBDRADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2022,SLDWASGRBDRUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadExport of energy
+TO,2022,SLDWASGRBDRFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadFlaring
+TO,2022,SLDWASGRBDFTTE_EX,2015,2.5,k$/kta,SolidWasteGreen BinDufferinTons to Energy
+TO,2022,SLDWASGRBDFADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2022,SLDWASGRBDFADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2022,SLDWASGRBDFUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinExport of energy
+TO,2022,SLDWASGRBDFFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinFlaring
+TO,2022,SLDWASGRBCPGEN_EX,2015,2.0,k$/kta,SolidWasteGreen BinCompostBiogas generation
+TO,2022,SLDWASGRBCPLEK_EX,2015,0.0,k$/kta,SolidWasteGreen BinCompostLeaking
+TO,2023,SLDWASLDFGLAGG_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneAggregate demand
+TO,2023,SLDWASLDFGLGEN_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneBiogas generation
+TO,2023,SLDWASLDFGLCAP_EX,2015,0.4810004810004811,k$/Tja,SolidWasteLandfillGreen LaneBiogas capture
+TO,2023,SLDWASLDFGLFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillGreen LaneFlaring
+TO,2023,SLDWASLDFBWGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBrock WestBiogas generation
+TO,2023,SLDWASLDFBWLEK_EX,2015,0.0,k$/kta,SolidWasteLandfillBrock WestLeaking
+TO,2023,SLDWASLDFKVGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteKeele ValleyBiogas generation
+TO,2023,SLDWASLDFKVCAP_EX,2015,0.8293111741387603,k$/Tja,SolidWasteLandfillKeele ValleyBiogas capture
+TO,2023,SLDWASLDFKVFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillKeele ValleyFlaring
+TO,2023,SLDWASLDFBRGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBeare RdBiogas generation
+TO,2023,SLDWASLDFBRCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillBeare RdBiogas capture
+TO,2023,SLDWASLDFBRFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillBeare RdFlaring
+TO,2023,SLDWASLDFTKGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteThackerayBiogas generation
+TO,2023,SLDWASLDFTKLEK_EX,2015,0.0,k$/Tja,SolidWasteLandfillThackerayLeaking
+TO,2023,SLDWASLDFAHGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Arbor HillsBiogas generation
+TO,2023,SLDWASLDFAHCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,2023,SLDWASLDFAHFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Arbor HillsFlaring
+TO,2023,SLDWASLDFCFGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Carleton farmsBiogas generation
+TO,2023,SLDWASLDFCFCAP_EX,2015,0.6012506012506014,k$/Tja,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,2023,SLDWASLDFCFFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Carleton farmsFlaring
+TO,2023,SLDWASGRBDRTTE_EX,2015,2.5,k$/Tja,SolidWasteGreen BinDisco RoadTons to Energy
+TO,2023,SLDWASGRBDRADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2023,SLDWASGRBDRADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2023,SLDWASGRBDRUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadExport of energy
+TO,2023,SLDWASGRBDRFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadFlaring
+TO,2023,SLDWASGRBDFTTE_EX,2015,2.5,k$/kta,SolidWasteGreen BinDufferinTons to Energy
+TO,2023,SLDWASGRBDFADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2023,SLDWASGRBDFADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2023,SLDWASGRBDFUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinExport of energy
+TO,2023,SLDWASGRBDFFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinFlaring
+TO,2023,SLDWASGRBCPGEN_EX,2015,2.0,k$/kta,SolidWasteGreen BinCompostBiogas generation
+TO,2023,SLDWASGRBCPLEK_EX,2015,0.0,k$/kta,SolidWasteGreen BinCompostLeaking
+TO,2024,SLDWASLDFGLAGG_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneAggregate demand
+TO,2024,SLDWASLDFGLGEN_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneBiogas generation
+TO,2024,SLDWASLDFGLCAP_EX,2015,0.4810004810004811,k$/Tja,SolidWasteLandfillGreen LaneBiogas capture
+TO,2024,SLDWASLDFGLFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillGreen LaneFlaring
+TO,2024,SLDWASLDFBWGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBrock WestBiogas generation
+TO,2024,SLDWASLDFBWLEK_EX,2015,0.0,k$/kta,SolidWasteLandfillBrock WestLeaking
+TO,2024,SLDWASLDFKVGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteKeele ValleyBiogas generation
+TO,2024,SLDWASLDFKVCAP_EX,2015,0.8293111741387603,k$/Tja,SolidWasteLandfillKeele ValleyBiogas capture
+TO,2024,SLDWASLDFKVFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillKeele ValleyFlaring
+TO,2024,SLDWASLDFBRGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBeare RdBiogas generation
+TO,2024,SLDWASLDFBRCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillBeare RdBiogas capture
+TO,2024,SLDWASLDFBRFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillBeare RdFlaring
+TO,2024,SLDWASLDFTKGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteThackerayBiogas generation
+TO,2024,SLDWASLDFTKLEK_EX,2015,0.0,k$/Tja,SolidWasteLandfillThackerayLeaking
+TO,2024,SLDWASLDFAHGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Arbor HillsBiogas generation
+TO,2024,SLDWASLDFAHCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,2024,SLDWASLDFAHFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Arbor HillsFlaring
+TO,2024,SLDWASLDFCFGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Carleton farmsBiogas generation
+TO,2024,SLDWASLDFCFCAP_EX,2015,0.6012506012506014,k$/Tja,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,2024,SLDWASLDFCFFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Carleton farmsFlaring
+TO,2024,SLDWASGRBDRTTE_EX,2015,2.5,k$/Tja,SolidWasteGreen BinDisco RoadTons to Energy
+TO,2024,SLDWASGRBDRADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2024,SLDWASGRBDRADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2024,SLDWASGRBDRUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadExport of energy
+TO,2024,SLDWASGRBDRFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadFlaring
+TO,2024,SLDWASGRBDFTTE_EX,2015,2.5,k$/kta,SolidWasteGreen BinDufferinTons to Energy
+TO,2024,SLDWASGRBDFADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2024,SLDWASGRBDFADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2024,SLDWASGRBDFUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinExport of energy
+TO,2024,SLDWASGRBDFFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinFlaring
+TO,2024,SLDWASGRBCPGEN_EX,2015,2.0,k$/kta,SolidWasteGreen BinCompostBiogas generation
+TO,2024,SLDWASGRBCPLEK_EX,2015,0.0,k$/kta,SolidWasteGreen BinCompostLeaking
+TO,2025,SLDWASLDFGLAGG_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneAggregate demand
+TO,2025,SLDWASLDFGLGEN_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneBiogas generation
+TO,2025,SLDWASLDFGLCAP_EX,2015,0.4810004810004811,k$/Tja,SolidWasteLandfillGreen LaneBiogas capture
+TO,2025,SLDWASLDFGLFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillGreen LaneFlaring
+TO,2025,SLDWASLDFBWGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBrock WestBiogas generation
+TO,2025,SLDWASLDFBWLEK_EX,2015,0.0,k$/kta,SolidWasteLandfillBrock WestLeaking
+TO,2025,SLDWASLDFKVGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteKeele ValleyBiogas generation
+TO,2025,SLDWASLDFKVCAP_EX,2015,0.8293111741387603,k$/Tja,SolidWasteLandfillKeele ValleyBiogas capture
+TO,2025,SLDWASLDFKVFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillKeele ValleyFlaring
+TO,2025,SLDWASLDFBRGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBeare RdBiogas generation
+TO,2025,SLDWASLDFBRCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillBeare RdBiogas capture
+TO,2025,SLDWASLDFBRFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillBeare RdFlaring
+TO,2025,SLDWASLDFTKGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteThackerayBiogas generation
+TO,2025,SLDWASLDFTKLEK_EX,2015,0.0,k$/Tja,SolidWasteLandfillThackerayLeaking
+TO,2025,SLDWASLDFAHGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Arbor HillsBiogas generation
+TO,2025,SLDWASLDFAHCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,2025,SLDWASLDFAHFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Arbor HillsFlaring
+TO,2025,SLDWASLDFCFGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Carleton farmsBiogas generation
+TO,2025,SLDWASLDFCFCAP_EX,2015,0.6012506012506014,k$/Tja,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,2025,SLDWASLDFCFFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Carleton farmsFlaring
+TO,2025,SLDWASGRBDRTTE_EX,2015,2.5,k$/Tja,SolidWasteGreen BinDisco RoadTons to Energy
+TO,2025,SLDWASGRBDRADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2025,SLDWASGRBDRADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2025,SLDWASGRBDRUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadExport of energy
+TO,2025,SLDWASGRBDRFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadFlaring
+TO,2025,SLDWASGRBDFTTE_EX,2015,2.5,k$/kta,SolidWasteGreen BinDufferinTons to Energy
+TO,2025,SLDWASGRBDFADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2025,SLDWASGRBDFADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2025,SLDWASGRBDFUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinExport of energy
+TO,2025,SLDWASGRBDFFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinFlaring
+TO,2025,SLDWASGRBCPGEN_EX,2015,2.0,k$/kta,SolidWasteGreen BinCompostBiogas generation
+TO,2025,SLDWASGRBCPLEK_EX,2015,0.0,k$/kta,SolidWasteGreen BinCompostLeaking
+TO,2026,SLDWASLDFGLAGG_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneAggregate demand
+TO,2026,SLDWASLDFGLGEN_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneBiogas generation
+TO,2026,SLDWASLDFGLCAP_EX,2015,0.4810004810004811,k$/Tja,SolidWasteLandfillGreen LaneBiogas capture
+TO,2026,SLDWASLDFGLFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillGreen LaneFlaring
+TO,2026,SLDWASLDFBWGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBrock WestBiogas generation
+TO,2026,SLDWASLDFBWLEK_EX,2015,0.0,k$/kta,SolidWasteLandfillBrock WestLeaking
+TO,2026,SLDWASLDFKVGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteKeele ValleyBiogas generation
+TO,2026,SLDWASLDFKVCAP_EX,2015,0.8293111741387603,k$/Tja,SolidWasteLandfillKeele ValleyBiogas capture
+TO,2026,SLDWASLDFKVFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillKeele ValleyFlaring
+TO,2026,SLDWASLDFBRGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBeare RdBiogas generation
+TO,2026,SLDWASLDFBRCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillBeare RdBiogas capture
+TO,2026,SLDWASLDFBRFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillBeare RdFlaring
+TO,2026,SLDWASLDFTKGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteThackerayBiogas generation
+TO,2026,SLDWASLDFTKLEK_EX,2015,0.0,k$/Tja,SolidWasteLandfillThackerayLeaking
+TO,2026,SLDWASLDFAHGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Arbor HillsBiogas generation
+TO,2026,SLDWASLDFAHCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,2026,SLDWASLDFAHFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Arbor HillsFlaring
+TO,2026,SLDWASLDFCFGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Carleton farmsBiogas generation
+TO,2026,SLDWASLDFCFCAP_EX,2015,0.6012506012506014,k$/Tja,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,2026,SLDWASLDFCFFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Carleton farmsFlaring
+TO,2026,SLDWASGRBDRTTE_EX,2015,2.5,k$/Tja,SolidWasteGreen BinDisco RoadTons to Energy
+TO,2026,SLDWASGRBDRADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2026,SLDWASGRBDRADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2026,SLDWASGRBDRUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadExport of energy
+TO,2026,SLDWASGRBDRFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadFlaring
+TO,2026,SLDWASGRBDFTTE_EX,2015,2.5,k$/kta,SolidWasteGreen BinDufferinTons to Energy
+TO,2026,SLDWASGRBDFADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2026,SLDWASGRBDFADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2026,SLDWASGRBDFUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinExport of energy
+TO,2026,SLDWASGRBDFFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinFlaring
+TO,2026,SLDWASGRBCPGEN_EX,2015,2.0,k$/kta,SolidWasteGreen BinCompostBiogas generation
+TO,2026,SLDWASGRBCPLEK_EX,2015,0.0,k$/kta,SolidWasteGreen BinCompostLeaking
+TO,2027,SLDWASLDFGLAGG_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneAggregate demand
+TO,2027,SLDWASLDFGLGEN_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneBiogas generation
+TO,2027,SLDWASLDFGLCAP_EX,2015,0.4810004810004811,k$/Tja,SolidWasteLandfillGreen LaneBiogas capture
+TO,2027,SLDWASLDFGLFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillGreen LaneFlaring
+TO,2027,SLDWASLDFBWGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBrock WestBiogas generation
+TO,2027,SLDWASLDFBWLEK_EX,2015,0.0,k$/kta,SolidWasteLandfillBrock WestLeaking
+TO,2027,SLDWASLDFKVGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteKeele ValleyBiogas generation
+TO,2027,SLDWASLDFKVCAP_EX,2015,0.8293111741387603,k$/Tja,SolidWasteLandfillKeele ValleyBiogas capture
+TO,2027,SLDWASLDFKVFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillKeele ValleyFlaring
+TO,2027,SLDWASLDFBRGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBeare RdBiogas generation
+TO,2027,SLDWASLDFBRCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillBeare RdBiogas capture
+TO,2027,SLDWASLDFBRFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillBeare RdFlaring
+TO,2027,SLDWASLDFTKGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteThackerayBiogas generation
+TO,2027,SLDWASLDFTKLEK_EX,2015,0.0,k$/Tja,SolidWasteLandfillThackerayLeaking
+TO,2027,SLDWASLDFAHGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Arbor HillsBiogas generation
+TO,2027,SLDWASLDFAHCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,2027,SLDWASLDFAHFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Arbor HillsFlaring
+TO,2027,SLDWASLDFCFGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Carleton farmsBiogas generation
+TO,2027,SLDWASLDFCFCAP_EX,2015,0.6012506012506014,k$/Tja,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,2027,SLDWASLDFCFFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Carleton farmsFlaring
+TO,2027,SLDWASGRBDRTTE_EX,2015,2.5,k$/Tja,SolidWasteGreen BinDisco RoadTons to Energy
+TO,2027,SLDWASGRBDRADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2027,SLDWASGRBDRADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2027,SLDWASGRBDRUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadExport of energy
+TO,2027,SLDWASGRBDRFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadFlaring
+TO,2027,SLDWASGRBDFTTE_EX,2015,2.5,k$/kta,SolidWasteGreen BinDufferinTons to Energy
+TO,2027,SLDWASGRBDFADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2027,SLDWASGRBDFADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2027,SLDWASGRBDFUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinExport of energy
+TO,2027,SLDWASGRBDFFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinFlaring
+TO,2027,SLDWASGRBCPGEN_EX,2015,2.0,k$/kta,SolidWasteGreen BinCompostBiogas generation
+TO,2027,SLDWASGRBCPLEK_EX,2015,0.0,k$/kta,SolidWasteGreen BinCompostLeaking
+TO,2028,SLDWASLDFGLAGG_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneAggregate demand
+TO,2028,SLDWASLDFGLGEN_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneBiogas generation
+TO,2028,SLDWASLDFGLCAP_EX,2015,0.4810004810004811,k$/Tja,SolidWasteLandfillGreen LaneBiogas capture
+TO,2028,SLDWASLDFGLFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillGreen LaneFlaring
+TO,2028,SLDWASLDFBWGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBrock WestBiogas generation
+TO,2028,SLDWASLDFBWLEK_EX,2015,0.0,k$/kta,SolidWasteLandfillBrock WestLeaking
+TO,2028,SLDWASLDFKVGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteKeele ValleyBiogas generation
+TO,2028,SLDWASLDFKVCAP_EX,2015,0.8293111741387603,k$/Tja,SolidWasteLandfillKeele ValleyBiogas capture
+TO,2028,SLDWASLDFKVFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillKeele ValleyFlaring
+TO,2028,SLDWASLDFBRGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBeare RdBiogas generation
+TO,2028,SLDWASLDFBRCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillBeare RdBiogas capture
+TO,2028,SLDWASLDFBRFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillBeare RdFlaring
+TO,2028,SLDWASLDFTKGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteThackerayBiogas generation
+TO,2028,SLDWASLDFTKLEK_EX,2015,0.0,k$/Tja,SolidWasteLandfillThackerayLeaking
+TO,2028,SLDWASLDFAHGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Arbor HillsBiogas generation
+TO,2028,SLDWASLDFAHCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,2028,SLDWASLDFAHFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Arbor HillsFlaring
+TO,2028,SLDWASLDFCFGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Carleton farmsBiogas generation
+TO,2028,SLDWASLDFCFCAP_EX,2015,0.6012506012506014,k$/Tja,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,2028,SLDWASLDFCFFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Carleton farmsFlaring
+TO,2028,SLDWASGRBDRTTE_EX,2015,2.5,k$/Tja,SolidWasteGreen BinDisco RoadTons to Energy
+TO,2028,SLDWASGRBDRADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2028,SLDWASGRBDRADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2028,SLDWASGRBDRUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadExport of energy
+TO,2028,SLDWASGRBDRFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadFlaring
+TO,2028,SLDWASGRBDFTTE_EX,2015,2.5,k$/kta,SolidWasteGreen BinDufferinTons to Energy
+TO,2028,SLDWASGRBDFADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2028,SLDWASGRBDFADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2028,SLDWASGRBDFUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinExport of energy
+TO,2028,SLDWASGRBDFFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinFlaring
+TO,2028,SLDWASGRBCPGEN_EX,2015,2.0,k$/kta,SolidWasteGreen BinCompostBiogas generation
+TO,2028,SLDWASGRBCPLEK_EX,2015,0.0,k$/kta,SolidWasteGreen BinCompostLeaking
+TO,2029,SLDWASLDFGLAGG_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneAggregate demand
+TO,2029,SLDWASLDFGLGEN_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneBiogas generation
+TO,2029,SLDWASLDFGLCAP_EX,2015,0.4810004810004811,k$/Tja,SolidWasteLandfillGreen LaneBiogas capture
+TO,2029,SLDWASLDFGLFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillGreen LaneFlaring
+TO,2029,SLDWASLDFBWGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBrock WestBiogas generation
+TO,2029,SLDWASLDFBWLEK_EX,2015,0.0,k$/kta,SolidWasteLandfillBrock WestLeaking
+TO,2029,SLDWASLDFKVGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteKeele ValleyBiogas generation
+TO,2029,SLDWASLDFKVCAP_EX,2015,0.8293111741387603,k$/Tja,SolidWasteLandfillKeele ValleyBiogas capture
+TO,2029,SLDWASLDFKVFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillKeele ValleyFlaring
+TO,2029,SLDWASLDFBRGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBeare RdBiogas generation
+TO,2029,SLDWASLDFBRCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillBeare RdBiogas capture
+TO,2029,SLDWASLDFBRFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillBeare RdFlaring
+TO,2029,SLDWASLDFTKGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteThackerayBiogas generation
+TO,2029,SLDWASLDFTKLEK_EX,2015,0.0,k$/Tja,SolidWasteLandfillThackerayLeaking
+TO,2029,SLDWASLDFAHGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Arbor HillsBiogas generation
+TO,2029,SLDWASLDFAHCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,2029,SLDWASLDFAHFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Arbor HillsFlaring
+TO,2029,SLDWASLDFCFGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Carleton farmsBiogas generation
+TO,2029,SLDWASLDFCFCAP_EX,2015,0.6012506012506014,k$/Tja,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,2029,SLDWASLDFCFFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Carleton farmsFlaring
+TO,2029,SLDWASGRBDRTTE_EX,2015,2.5,k$/Tja,SolidWasteGreen BinDisco RoadTons to Energy
+TO,2029,SLDWASGRBDRADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2029,SLDWASGRBDRADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2029,SLDWASGRBDRUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadExport of energy
+TO,2029,SLDWASGRBDRFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadFlaring
+TO,2029,SLDWASGRBDFTTE_EX,2015,2.5,k$/kta,SolidWasteGreen BinDufferinTons to Energy
+TO,2029,SLDWASGRBDFADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2029,SLDWASGRBDFADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2029,SLDWASGRBDFUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinExport of energy
+TO,2029,SLDWASGRBDFFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinFlaring
+TO,2029,SLDWASGRBCPGEN_EX,2015,2.0,k$/kta,SolidWasteGreen BinCompostBiogas generation
+TO,2029,SLDWASGRBCPLEK_EX,2015,0.0,k$/kta,SolidWasteGreen BinCompostLeaking
+TO,2030,SLDWASLDFGLAGG_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneAggregate demand
+TO,2030,SLDWASLDFGLGEN_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneBiogas generation
+TO,2030,SLDWASLDFGLCAP_EX,2015,0.4810004810004811,k$/Tja,SolidWasteLandfillGreen LaneBiogas capture
+TO,2030,SLDWASLDFGLFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillGreen LaneFlaring
+TO,2030,SLDWASLDFBWGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBrock WestBiogas generation
+TO,2030,SLDWASLDFBWLEK_EX,2015,0.0,k$/kta,SolidWasteLandfillBrock WestLeaking
+TO,2030,SLDWASLDFKVGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteKeele ValleyBiogas generation
+TO,2030,SLDWASLDFKVCAP_EX,2015,0.8293111741387603,k$/Tja,SolidWasteLandfillKeele ValleyBiogas capture
+TO,2030,SLDWASLDFKVFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillKeele ValleyFlaring
+TO,2030,SLDWASLDFBRGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBeare RdBiogas generation
+TO,2030,SLDWASLDFBRCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillBeare RdBiogas capture
+TO,2030,SLDWASLDFBRFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillBeare RdFlaring
+TO,2030,SLDWASLDFTKGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteThackerayBiogas generation
+TO,2030,SLDWASLDFTKLEK_EX,2015,0.0,k$/Tja,SolidWasteLandfillThackerayLeaking
+TO,2030,SLDWASLDFAHGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Arbor HillsBiogas generation
+TO,2030,SLDWASLDFAHCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,2030,SLDWASLDFAHFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Arbor HillsFlaring
+TO,2030,SLDWASLDFCFGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Carleton farmsBiogas generation
+TO,2030,SLDWASLDFCFCAP_EX,2015,0.6012506012506014,k$/Tja,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,2030,SLDWASLDFCFFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Carleton farmsFlaring
+TO,2030,SLDWASGRBDRTTE_EX,2015,2.5,k$/Tja,SolidWasteGreen BinDisco RoadTons to Energy
+TO,2030,SLDWASGRBDRADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2030,SLDWASGRBDRADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2030,SLDWASGRBDRUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadExport of energy
+TO,2030,SLDWASGRBDRFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadFlaring
+TO,2030,SLDWASGRBDFTTE_EX,2015,2.5,k$/kta,SolidWasteGreen BinDufferinTons to Energy
+TO,2030,SLDWASGRBDFADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2030,SLDWASGRBDFADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2030,SLDWASGRBDFUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinExport of energy
+TO,2030,SLDWASGRBDFFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinFlaring
+TO,2030,SLDWASGRBCPGEN_EX,2015,2.0,k$/kta,SolidWasteGreen BinCompostBiogas generation
+TO,2030,SLDWASGRBCPLEK_EX,2015,0.0,k$/kta,SolidWasteGreen BinCompostLeaking
+TO,2031,SLDWASLDFGLAGG_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneAggregate demand
+TO,2031,SLDWASLDFGLGEN_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneBiogas generation
+TO,2031,SLDWASLDFGLCAP_EX,2015,0.4810004810004811,k$/Tja,SolidWasteLandfillGreen LaneBiogas capture
+TO,2031,SLDWASLDFGLFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillGreen LaneFlaring
+TO,2031,SLDWASLDFBWGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBrock WestBiogas generation
+TO,2031,SLDWASLDFBWLEK_EX,2015,0.0,k$/kta,SolidWasteLandfillBrock WestLeaking
+TO,2031,SLDWASLDFKVGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteKeele ValleyBiogas generation
+TO,2031,SLDWASLDFKVCAP_EX,2015,0.8293111741387603,k$/Tja,SolidWasteLandfillKeele ValleyBiogas capture
+TO,2031,SLDWASLDFKVFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillKeele ValleyFlaring
+TO,2031,SLDWASLDFBRGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBeare RdBiogas generation
+TO,2031,SLDWASLDFBRCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillBeare RdBiogas capture
+TO,2031,SLDWASLDFBRFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillBeare RdFlaring
+TO,2031,SLDWASLDFTKGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteThackerayBiogas generation
+TO,2031,SLDWASLDFTKLEK_EX,2015,0.0,k$/Tja,SolidWasteLandfillThackerayLeaking
+TO,2031,SLDWASLDFAHGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Arbor HillsBiogas generation
+TO,2031,SLDWASLDFAHCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,2031,SLDWASLDFAHFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Arbor HillsFlaring
+TO,2031,SLDWASLDFCFGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Carleton farmsBiogas generation
+TO,2031,SLDWASLDFCFCAP_EX,2015,0.6012506012506014,k$/Tja,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,2031,SLDWASLDFCFFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Carleton farmsFlaring
+TO,2031,SLDWASGRBDRTTE_EX,2015,2.5,k$/Tja,SolidWasteGreen BinDisco RoadTons to Energy
+TO,2031,SLDWASGRBDRADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2031,SLDWASGRBDRADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2031,SLDWASGRBDRUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadExport of energy
+TO,2031,SLDWASGRBDRFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadFlaring
+TO,2031,SLDWASGRBDFTTE_EX,2015,2.5,k$/kta,SolidWasteGreen BinDufferinTons to Energy
+TO,2031,SLDWASGRBDFADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2031,SLDWASGRBDFADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2031,SLDWASGRBDFUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinExport of energy
+TO,2031,SLDWASGRBDFFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinFlaring
+TO,2031,SLDWASGRBCPGEN_EX,2015,2.0,k$/kta,SolidWasteGreen BinCompostBiogas generation
+TO,2031,SLDWASGRBCPLEK_EX,2015,0.0,k$/kta,SolidWasteGreen BinCompostLeaking
+TO,2032,SLDWASLDFGLAGG_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneAggregate demand
+TO,2032,SLDWASLDFGLGEN_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneBiogas generation
+TO,2032,SLDWASLDFGLCAP_EX,2015,0.4810004810004811,k$/Tja,SolidWasteLandfillGreen LaneBiogas capture
+TO,2032,SLDWASLDFGLFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillGreen LaneFlaring
+TO,2032,SLDWASLDFBWGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBrock WestBiogas generation
+TO,2032,SLDWASLDFBWLEK_EX,2015,0.0,k$/kta,SolidWasteLandfillBrock WestLeaking
+TO,2032,SLDWASLDFKVGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteKeele ValleyBiogas generation
+TO,2032,SLDWASLDFKVCAP_EX,2015,0.8293111741387603,k$/Tja,SolidWasteLandfillKeele ValleyBiogas capture
+TO,2032,SLDWASLDFKVFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillKeele ValleyFlaring
+TO,2032,SLDWASLDFBRGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBeare RdBiogas generation
+TO,2032,SLDWASLDFBRCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillBeare RdBiogas capture
+TO,2032,SLDWASLDFBRFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillBeare RdFlaring
+TO,2032,SLDWASLDFTKGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteThackerayBiogas generation
+TO,2032,SLDWASLDFTKLEK_EX,2015,0.0,k$/Tja,SolidWasteLandfillThackerayLeaking
+TO,2032,SLDWASLDFAHGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Arbor HillsBiogas generation
+TO,2032,SLDWASLDFAHCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,2032,SLDWASLDFAHFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Arbor HillsFlaring
+TO,2032,SLDWASLDFCFGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Carleton farmsBiogas generation
+TO,2032,SLDWASLDFCFCAP_EX,2015,0.6012506012506014,k$/Tja,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,2032,SLDWASLDFCFFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Carleton farmsFlaring
+TO,2032,SLDWASGRBDRTTE_EX,2015,2.5,k$/Tja,SolidWasteGreen BinDisco RoadTons to Energy
+TO,2032,SLDWASGRBDRADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2032,SLDWASGRBDRADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2032,SLDWASGRBDRUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadExport of energy
+TO,2032,SLDWASGRBDRFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadFlaring
+TO,2032,SLDWASGRBDFTTE_EX,2015,2.5,k$/kta,SolidWasteGreen BinDufferinTons to Energy
+TO,2032,SLDWASGRBDFADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2032,SLDWASGRBDFADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2032,SLDWASGRBDFUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinExport of energy
+TO,2032,SLDWASGRBDFFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinFlaring
+TO,2032,SLDWASGRBCPGEN_EX,2015,2.0,k$/kta,SolidWasteGreen BinCompostBiogas generation
+TO,2032,SLDWASGRBCPLEK_EX,2015,0.0,k$/kta,SolidWasteGreen BinCompostLeaking
+TO,2033,SLDWASLDFGLAGG_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneAggregate demand
+TO,2033,SLDWASLDFGLGEN_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneBiogas generation
+TO,2033,SLDWASLDFGLCAP_EX,2015,0.4810004810004811,k$/Tja,SolidWasteLandfillGreen LaneBiogas capture
+TO,2033,SLDWASLDFGLFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillGreen LaneFlaring
+TO,2033,SLDWASLDFBWGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBrock WestBiogas generation
+TO,2033,SLDWASLDFBWLEK_EX,2015,0.0,k$/kta,SolidWasteLandfillBrock WestLeaking
+TO,2033,SLDWASLDFKVGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteKeele ValleyBiogas generation
+TO,2033,SLDWASLDFKVCAP_EX,2015,0.8293111741387603,k$/Tja,SolidWasteLandfillKeele ValleyBiogas capture
+TO,2033,SLDWASLDFKVFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillKeele ValleyFlaring
+TO,2033,SLDWASLDFBRGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBeare RdBiogas generation
+TO,2033,SLDWASLDFBRCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillBeare RdBiogas capture
+TO,2033,SLDWASLDFBRFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillBeare RdFlaring
+TO,2033,SLDWASLDFTKGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteThackerayBiogas generation
+TO,2033,SLDWASLDFTKLEK_EX,2015,0.0,k$/Tja,SolidWasteLandfillThackerayLeaking
+TO,2033,SLDWASLDFAHGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Arbor HillsBiogas generation
+TO,2033,SLDWASLDFAHCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,2033,SLDWASLDFAHFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Arbor HillsFlaring
+TO,2033,SLDWASLDFCFGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Carleton farmsBiogas generation
+TO,2033,SLDWASLDFCFCAP_EX,2015,0.6012506012506014,k$/Tja,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,2033,SLDWASLDFCFFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Carleton farmsFlaring
+TO,2033,SLDWASGRBDRTTE_EX,2015,2.5,k$/Tja,SolidWasteGreen BinDisco RoadTons to Energy
+TO,2033,SLDWASGRBDRADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2033,SLDWASGRBDRADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2033,SLDWASGRBDRUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadExport of energy
+TO,2033,SLDWASGRBDRFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadFlaring
+TO,2033,SLDWASGRBDFTTE_EX,2015,2.5,k$/kta,SolidWasteGreen BinDufferinTons to Energy
+TO,2033,SLDWASGRBDFADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2033,SLDWASGRBDFADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2033,SLDWASGRBDFUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinExport of energy
+TO,2033,SLDWASGRBDFFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinFlaring
+TO,2033,SLDWASGRBCPGEN_EX,2015,2.0,k$/kta,SolidWasteGreen BinCompostBiogas generation
+TO,2033,SLDWASGRBCPLEK_EX,2015,0.0,k$/kta,SolidWasteGreen BinCompostLeaking
+TO,2034,SLDWASLDFGLAGG_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneAggregate demand
+TO,2034,SLDWASLDFGLGEN_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneBiogas generation
+TO,2034,SLDWASLDFGLCAP_EX,2015,0.4810004810004811,k$/Tja,SolidWasteLandfillGreen LaneBiogas capture
+TO,2034,SLDWASLDFGLFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillGreen LaneFlaring
+TO,2034,SLDWASLDFBWGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBrock WestBiogas generation
+TO,2034,SLDWASLDFBWLEK_EX,2015,0.0,k$/kta,SolidWasteLandfillBrock WestLeaking
+TO,2034,SLDWASLDFKVGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteKeele ValleyBiogas generation
+TO,2034,SLDWASLDFKVCAP_EX,2015,0.8293111741387603,k$/Tja,SolidWasteLandfillKeele ValleyBiogas capture
+TO,2034,SLDWASLDFKVFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillKeele ValleyFlaring
+TO,2034,SLDWASLDFBRGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBeare RdBiogas generation
+TO,2034,SLDWASLDFBRCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillBeare RdBiogas capture
+TO,2034,SLDWASLDFBRFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillBeare RdFlaring
+TO,2034,SLDWASLDFTKGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteThackerayBiogas generation
+TO,2034,SLDWASLDFTKLEK_EX,2015,0.0,k$/Tja,SolidWasteLandfillThackerayLeaking
+TO,2034,SLDWASLDFAHGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Arbor HillsBiogas generation
+TO,2034,SLDWASLDFAHCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,2034,SLDWASLDFAHFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Arbor HillsFlaring
+TO,2034,SLDWASLDFCFGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Carleton farmsBiogas generation
+TO,2034,SLDWASLDFCFCAP_EX,2015,0.6012506012506014,k$/Tja,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,2034,SLDWASLDFCFFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Carleton farmsFlaring
+TO,2034,SLDWASGRBDRTTE_EX,2015,2.5,k$/Tja,SolidWasteGreen BinDisco RoadTons to Energy
+TO,2034,SLDWASGRBDRADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2034,SLDWASGRBDRADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2034,SLDWASGRBDRUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadExport of energy
+TO,2034,SLDWASGRBDRFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadFlaring
+TO,2034,SLDWASGRBDFTTE_EX,2015,2.5,k$/kta,SolidWasteGreen BinDufferinTons to Energy
+TO,2034,SLDWASGRBDFADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2034,SLDWASGRBDFADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2034,SLDWASGRBDFUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinExport of energy
+TO,2034,SLDWASGRBDFFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinFlaring
+TO,2034,SLDWASGRBCPGEN_EX,2015,2.0,k$/kta,SolidWasteGreen BinCompostBiogas generation
+TO,2034,SLDWASGRBCPLEK_EX,2015,0.0,k$/kta,SolidWasteGreen BinCompostLeaking
+TO,2035,SLDWASLDFGLAGG_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneAggregate demand
+TO,2035,SLDWASLDFGLGEN_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneBiogas generation
+TO,2035,SLDWASLDFGLCAP_EX,2015,0.4810004810004811,k$/Tja,SolidWasteLandfillGreen LaneBiogas capture
+TO,2035,SLDWASLDFGLFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillGreen LaneFlaring
+TO,2035,SLDWASLDFBWGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBrock WestBiogas generation
+TO,2035,SLDWASLDFBWLEK_EX,2015,0.0,k$/kta,SolidWasteLandfillBrock WestLeaking
+TO,2035,SLDWASLDFKVGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteKeele ValleyBiogas generation
+TO,2035,SLDWASLDFKVCAP_EX,2015,0.8293111741387603,k$/Tja,SolidWasteLandfillKeele ValleyBiogas capture
+TO,2035,SLDWASLDFKVFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillKeele ValleyFlaring
+TO,2035,SLDWASLDFBRGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBeare RdBiogas generation
+TO,2035,SLDWASLDFBRCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillBeare RdBiogas capture
+TO,2035,SLDWASLDFBRFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillBeare RdFlaring
+TO,2035,SLDWASLDFTKGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteThackerayBiogas generation
+TO,2035,SLDWASLDFTKLEK_EX,2015,0.0,k$/Tja,SolidWasteLandfillThackerayLeaking
+TO,2035,SLDWASLDFAHGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Arbor HillsBiogas generation
+TO,2035,SLDWASLDFAHCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,2035,SLDWASLDFAHFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Arbor HillsFlaring
+TO,2035,SLDWASLDFCFGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Carleton farmsBiogas generation
+TO,2035,SLDWASLDFCFCAP_EX,2015,0.6012506012506014,k$/Tja,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,2035,SLDWASLDFCFFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Carleton farmsFlaring
+TO,2035,SLDWASGRBDRTTE_EX,2015,2.5,k$/Tja,SolidWasteGreen BinDisco RoadTons to Energy
+TO,2035,SLDWASGRBDRADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2035,SLDWASGRBDRADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2035,SLDWASGRBDRUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadExport of energy
+TO,2035,SLDWASGRBDRFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadFlaring
+TO,2035,SLDWASGRBDFTTE_EX,2015,2.5,k$/kta,SolidWasteGreen BinDufferinTons to Energy
+TO,2035,SLDWASGRBDFADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2035,SLDWASGRBDFADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2035,SLDWASGRBDFUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinExport of energy
+TO,2035,SLDWASGRBDFFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinFlaring
+TO,2035,SLDWASGRBCPGEN_EX,2015,2.0,k$/kta,SolidWasteGreen BinCompostBiogas generation
+TO,2035,SLDWASGRBCPLEK_EX,2015,0.0,k$/kta,SolidWasteGreen BinCompostLeaking
+TO,2036,SLDWASLDFGLAGG_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneAggregate demand
+TO,2036,SLDWASLDFGLGEN_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneBiogas generation
+TO,2036,SLDWASLDFGLCAP_EX,2015,0.4810004810004811,k$/Tja,SolidWasteLandfillGreen LaneBiogas capture
+TO,2036,SLDWASLDFGLFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillGreen LaneFlaring
+TO,2036,SLDWASLDFBWGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBrock WestBiogas generation
+TO,2036,SLDWASLDFBWLEK_EX,2015,0.0,k$/kta,SolidWasteLandfillBrock WestLeaking
+TO,2036,SLDWASLDFKVGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteKeele ValleyBiogas generation
+TO,2036,SLDWASLDFKVCAP_EX,2015,0.8293111741387603,k$/Tja,SolidWasteLandfillKeele ValleyBiogas capture
+TO,2036,SLDWASLDFKVFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillKeele ValleyFlaring
+TO,2036,SLDWASLDFBRGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBeare RdBiogas generation
+TO,2036,SLDWASLDFBRCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillBeare RdBiogas capture
+TO,2036,SLDWASLDFBRFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillBeare RdFlaring
+TO,2036,SLDWASLDFTKGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteThackerayBiogas generation
+TO,2036,SLDWASLDFTKLEK_EX,2015,0.0,k$/Tja,SolidWasteLandfillThackerayLeaking
+TO,2036,SLDWASLDFAHGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Arbor HillsBiogas generation
+TO,2036,SLDWASLDFAHCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,2036,SLDWASLDFAHFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Arbor HillsFlaring
+TO,2036,SLDWASLDFCFGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Carleton farmsBiogas generation
+TO,2036,SLDWASLDFCFCAP_EX,2015,0.6012506012506014,k$/Tja,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,2036,SLDWASLDFCFFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Carleton farmsFlaring
+TO,2036,SLDWASGRBDRTTE_EX,2015,2.5,k$/Tja,SolidWasteGreen BinDisco RoadTons to Energy
+TO,2036,SLDWASGRBDRADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2036,SLDWASGRBDRADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2036,SLDWASGRBDRUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadExport of energy
+TO,2036,SLDWASGRBDRFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadFlaring
+TO,2036,SLDWASGRBDFTTE_EX,2015,2.5,k$/kta,SolidWasteGreen BinDufferinTons to Energy
+TO,2036,SLDWASGRBDFADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2036,SLDWASGRBDFADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2036,SLDWASGRBDFUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinExport of energy
+TO,2036,SLDWASGRBDFFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinFlaring
+TO,2036,SLDWASGRBCPGEN_EX,2015,2.0,k$/kta,SolidWasteGreen BinCompostBiogas generation
+TO,2036,SLDWASGRBCPLEK_EX,2015,0.0,k$/kta,SolidWasteGreen BinCompostLeaking
+TO,2037,SLDWASLDFGLAGG_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneAggregate demand
+TO,2037,SLDWASLDFGLGEN_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneBiogas generation
+TO,2037,SLDWASLDFGLCAP_EX,2015,0.4810004810004811,k$/Tja,SolidWasteLandfillGreen LaneBiogas capture
+TO,2037,SLDWASLDFGLFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillGreen LaneFlaring
+TO,2037,SLDWASLDFBWGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBrock WestBiogas generation
+TO,2037,SLDWASLDFBWLEK_EX,2015,0.0,k$/kta,SolidWasteLandfillBrock WestLeaking
+TO,2037,SLDWASLDFKVGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteKeele ValleyBiogas generation
+TO,2037,SLDWASLDFKVCAP_EX,2015,0.8293111741387603,k$/Tja,SolidWasteLandfillKeele ValleyBiogas capture
+TO,2037,SLDWASLDFKVFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillKeele ValleyFlaring
+TO,2037,SLDWASLDFBRGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBeare RdBiogas generation
+TO,2037,SLDWASLDFBRCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillBeare RdBiogas capture
+TO,2037,SLDWASLDFBRFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillBeare RdFlaring
+TO,2037,SLDWASLDFTKGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteThackerayBiogas generation
+TO,2037,SLDWASLDFTKLEK_EX,2015,0.0,k$/Tja,SolidWasteLandfillThackerayLeaking
+TO,2037,SLDWASLDFAHGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Arbor HillsBiogas generation
+TO,2037,SLDWASLDFAHCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,2037,SLDWASLDFAHFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Arbor HillsFlaring
+TO,2037,SLDWASLDFCFGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Carleton farmsBiogas generation
+TO,2037,SLDWASLDFCFCAP_EX,2015,0.6012506012506014,k$/Tja,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,2037,SLDWASLDFCFFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Carleton farmsFlaring
+TO,2037,SLDWASGRBDRTTE_EX,2015,2.5,k$/Tja,SolidWasteGreen BinDisco RoadTons to Energy
+TO,2037,SLDWASGRBDRADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2037,SLDWASGRBDRADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2037,SLDWASGRBDRUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadExport of energy
+TO,2037,SLDWASGRBDRFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadFlaring
+TO,2037,SLDWASGRBDFTTE_EX,2015,2.5,k$/kta,SolidWasteGreen BinDufferinTons to Energy
+TO,2037,SLDWASGRBDFADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2037,SLDWASGRBDFADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2037,SLDWASGRBDFUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinExport of energy
+TO,2037,SLDWASGRBDFFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinFlaring
+TO,2037,SLDWASGRBCPGEN_EX,2015,2.0,k$/kta,SolidWasteGreen BinCompostBiogas generation
+TO,2037,SLDWASGRBCPLEK_EX,2015,0.0,k$/kta,SolidWasteGreen BinCompostLeaking
+TO,2038,SLDWASLDFGLAGG_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneAggregate demand
+TO,2038,SLDWASLDFGLGEN_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneBiogas generation
+TO,2038,SLDWASLDFGLCAP_EX,2015,0.4810004810004811,k$/Tja,SolidWasteLandfillGreen LaneBiogas capture
+TO,2038,SLDWASLDFGLFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillGreen LaneFlaring
+TO,2038,SLDWASLDFBWGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBrock WestBiogas generation
+TO,2038,SLDWASLDFBWLEK_EX,2015,0.0,k$/kta,SolidWasteLandfillBrock WestLeaking
+TO,2038,SLDWASLDFKVGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteKeele ValleyBiogas generation
+TO,2038,SLDWASLDFKVCAP_EX,2015,0.8293111741387603,k$/Tja,SolidWasteLandfillKeele ValleyBiogas capture
+TO,2038,SLDWASLDFKVFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillKeele ValleyFlaring
+TO,2038,SLDWASLDFBRGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBeare RdBiogas generation
+TO,2038,SLDWASLDFBRCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillBeare RdBiogas capture
+TO,2038,SLDWASLDFBRFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillBeare RdFlaring
+TO,2038,SLDWASLDFTKGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteThackerayBiogas generation
+TO,2038,SLDWASLDFTKLEK_EX,2015,0.0,k$/Tja,SolidWasteLandfillThackerayLeaking
+TO,2038,SLDWASLDFAHGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Arbor HillsBiogas generation
+TO,2038,SLDWASLDFAHCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,2038,SLDWASLDFAHFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Arbor HillsFlaring
+TO,2038,SLDWASLDFCFGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Carleton farmsBiogas generation
+TO,2038,SLDWASLDFCFCAP_EX,2015,0.6012506012506014,k$/Tja,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,2038,SLDWASLDFCFFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Carleton farmsFlaring
+TO,2038,SLDWASGRBDRTTE_EX,2015,2.5,k$/Tja,SolidWasteGreen BinDisco RoadTons to Energy
+TO,2038,SLDWASGRBDRADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2038,SLDWASGRBDRADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2038,SLDWASGRBDRUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadExport of energy
+TO,2038,SLDWASGRBDRFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadFlaring
+TO,2038,SLDWASGRBDFTTE_EX,2015,2.5,k$/kta,SolidWasteGreen BinDufferinTons to Energy
+TO,2038,SLDWASGRBDFADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2038,SLDWASGRBDFADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2038,SLDWASGRBDFUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinExport of energy
+TO,2038,SLDWASGRBDFFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinFlaring
+TO,2038,SLDWASGRBCPGEN_EX,2015,2.0,k$/kta,SolidWasteGreen BinCompostBiogas generation
+TO,2038,SLDWASGRBCPLEK_EX,2015,0.0,k$/kta,SolidWasteGreen BinCompostLeaking
+TO,2039,SLDWASLDFGLAGG_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneAggregate demand
+TO,2039,SLDWASLDFGLGEN_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneBiogas generation
+TO,2039,SLDWASLDFGLCAP_EX,2015,0.4810004810004811,k$/Tja,SolidWasteLandfillGreen LaneBiogas capture
+TO,2039,SLDWASLDFGLFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillGreen LaneFlaring
+TO,2039,SLDWASLDFBWGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBrock WestBiogas generation
+TO,2039,SLDWASLDFBWLEK_EX,2015,0.0,k$/kta,SolidWasteLandfillBrock WestLeaking
+TO,2039,SLDWASLDFKVGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteKeele ValleyBiogas generation
+TO,2039,SLDWASLDFKVCAP_EX,2015,0.8293111741387603,k$/Tja,SolidWasteLandfillKeele ValleyBiogas capture
+TO,2039,SLDWASLDFKVFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillKeele ValleyFlaring
+TO,2039,SLDWASLDFBRGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBeare RdBiogas generation
+TO,2039,SLDWASLDFBRCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillBeare RdBiogas capture
+TO,2039,SLDWASLDFBRFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillBeare RdFlaring
+TO,2039,SLDWASLDFTKGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteThackerayBiogas generation
+TO,2039,SLDWASLDFTKLEK_EX,2015,0.0,k$/Tja,SolidWasteLandfillThackerayLeaking
+TO,2039,SLDWASLDFAHGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Arbor HillsBiogas generation
+TO,2039,SLDWASLDFAHCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,2039,SLDWASLDFAHFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Arbor HillsFlaring
+TO,2039,SLDWASLDFCFGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Carleton farmsBiogas generation
+TO,2039,SLDWASLDFCFCAP_EX,2015,0.6012506012506014,k$/Tja,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,2039,SLDWASLDFCFFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Carleton farmsFlaring
+TO,2039,SLDWASGRBDRTTE_EX,2015,2.5,k$/Tja,SolidWasteGreen BinDisco RoadTons to Energy
+TO,2039,SLDWASGRBDRADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2039,SLDWASGRBDRADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2039,SLDWASGRBDRUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadExport of energy
+TO,2039,SLDWASGRBDRFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadFlaring
+TO,2039,SLDWASGRBDFTTE_EX,2015,2.5,k$/kta,SolidWasteGreen BinDufferinTons to Energy
+TO,2039,SLDWASGRBDFADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2039,SLDWASGRBDFADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2039,SLDWASGRBDFUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinExport of energy
+TO,2039,SLDWASGRBDFFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinFlaring
+TO,2039,SLDWASGRBCPGEN_EX,2015,2.0,k$/kta,SolidWasteGreen BinCompostBiogas generation
+TO,2039,SLDWASGRBCPLEK_EX,2015,0.0,k$/kta,SolidWasteGreen BinCompostLeaking
+TO,2040,SLDWASLDFGLAGG_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneAggregate demand
+TO,2040,SLDWASLDFGLGEN_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneBiogas generation
+TO,2040,SLDWASLDFGLCAP_EX,2015,0.4810004810004811,k$/Tja,SolidWasteLandfillGreen LaneBiogas capture
+TO,2040,SLDWASLDFGLFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillGreen LaneFlaring
+TO,2040,SLDWASLDFBWGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBrock WestBiogas generation
+TO,2040,SLDWASLDFBWLEK_EX,2015,0.0,k$/kta,SolidWasteLandfillBrock WestLeaking
+TO,2040,SLDWASLDFKVGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteKeele ValleyBiogas generation
+TO,2040,SLDWASLDFKVCAP_EX,2015,0.8293111741387603,k$/Tja,SolidWasteLandfillKeele ValleyBiogas capture
+TO,2040,SLDWASLDFKVFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillKeele ValleyFlaring
+TO,2040,SLDWASLDFBRGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBeare RdBiogas generation
+TO,2040,SLDWASLDFBRCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillBeare RdBiogas capture
+TO,2040,SLDWASLDFBRFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillBeare RdFlaring
+TO,2040,SLDWASLDFTKGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteThackerayBiogas generation
+TO,2040,SLDWASLDFTKLEK_EX,2015,0.0,k$/Tja,SolidWasteLandfillThackerayLeaking
+TO,2040,SLDWASLDFAHGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Arbor HillsBiogas generation
+TO,2040,SLDWASLDFAHCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,2040,SLDWASLDFAHFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Arbor HillsFlaring
+TO,2040,SLDWASLDFCFGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Carleton farmsBiogas generation
+TO,2040,SLDWASLDFCFCAP_EX,2015,0.6012506012506014,k$/Tja,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,2040,SLDWASLDFCFFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Carleton farmsFlaring
+TO,2040,SLDWASGRBDRTTE_EX,2015,2.5,k$/Tja,SolidWasteGreen BinDisco RoadTons to Energy
+TO,2040,SLDWASGRBDRADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2040,SLDWASGRBDRADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2040,SLDWASGRBDRUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadExport of energy
+TO,2040,SLDWASGRBDRFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadFlaring
+TO,2040,SLDWASGRBDFTTE_EX,2015,2.5,k$/kta,SolidWasteGreen BinDufferinTons to Energy
+TO,2040,SLDWASGRBDFADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2040,SLDWASGRBDFADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2040,SLDWASGRBDFUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinExport of energy
+TO,2040,SLDWASGRBDFFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinFlaring
+TO,2040,SLDWASGRBCPGEN_EX,2015,2.0,k$/kta,SolidWasteGreen BinCompostBiogas generation
+TO,2040,SLDWASGRBCPLEK_EX,2015,0.0,k$/kta,SolidWasteGreen BinCompostLeaking
+TO,2041,SLDWASLDFGLAGG_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneAggregate demand
+TO,2041,SLDWASLDFGLGEN_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneBiogas generation
+TO,2041,SLDWASLDFGLCAP_EX,2015,0.4810004810004811,k$/Tja,SolidWasteLandfillGreen LaneBiogas capture
+TO,2041,SLDWASLDFGLFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillGreen LaneFlaring
+TO,2041,SLDWASLDFBWGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBrock WestBiogas generation
+TO,2041,SLDWASLDFBWLEK_EX,2015,0.0,k$/kta,SolidWasteLandfillBrock WestLeaking
+TO,2041,SLDWASLDFKVGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteKeele ValleyBiogas generation
+TO,2041,SLDWASLDFKVCAP_EX,2015,0.8293111741387603,k$/Tja,SolidWasteLandfillKeele ValleyBiogas capture
+TO,2041,SLDWASLDFKVFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillKeele ValleyFlaring
+TO,2041,SLDWASLDFBRGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBeare RdBiogas generation
+TO,2041,SLDWASLDFBRCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillBeare RdBiogas capture
+TO,2041,SLDWASLDFBRFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillBeare RdFlaring
+TO,2041,SLDWASLDFTKGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteThackerayBiogas generation
+TO,2041,SLDWASLDFTKLEK_EX,2015,0.0,k$/Tja,SolidWasteLandfillThackerayLeaking
+TO,2041,SLDWASLDFAHGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Arbor HillsBiogas generation
+TO,2041,SLDWASLDFAHCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,2041,SLDWASLDFAHFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Arbor HillsFlaring
+TO,2041,SLDWASLDFCFGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Carleton farmsBiogas generation
+TO,2041,SLDWASLDFCFCAP_EX,2015,0.6012506012506014,k$/Tja,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,2041,SLDWASLDFCFFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Carleton farmsFlaring
+TO,2041,SLDWASGRBDRTTE_EX,2015,2.5,k$/Tja,SolidWasteGreen BinDisco RoadTons to Energy
+TO,2041,SLDWASGRBDRADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2041,SLDWASGRBDRADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2041,SLDWASGRBDRUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadExport of energy
+TO,2041,SLDWASGRBDRFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadFlaring
+TO,2041,SLDWASGRBDFTTE_EX,2015,2.5,k$/kta,SolidWasteGreen BinDufferinTons to Energy
+TO,2041,SLDWASGRBDFADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2041,SLDWASGRBDFADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2041,SLDWASGRBDFUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinExport of energy
+TO,2041,SLDWASGRBDFFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinFlaring
+TO,2041,SLDWASGRBCPGEN_EX,2015,2.0,k$/kta,SolidWasteGreen BinCompostBiogas generation
+TO,2041,SLDWASGRBCPLEK_EX,2015,0.0,k$/kta,SolidWasteGreen BinCompostLeaking
+TO,2042,SLDWASLDFGLAGG_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneAggregate demand
+TO,2042,SLDWASLDFGLGEN_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneBiogas generation
+TO,2042,SLDWASLDFGLCAP_EX,2015,0.4810004810004811,k$/Tja,SolidWasteLandfillGreen LaneBiogas capture
+TO,2042,SLDWASLDFGLFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillGreen LaneFlaring
+TO,2042,SLDWASLDFBWGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBrock WestBiogas generation
+TO,2042,SLDWASLDFBWLEK_EX,2015,0.0,k$/kta,SolidWasteLandfillBrock WestLeaking
+TO,2042,SLDWASLDFKVGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteKeele ValleyBiogas generation
+TO,2042,SLDWASLDFKVCAP_EX,2015,0.8293111741387603,k$/Tja,SolidWasteLandfillKeele ValleyBiogas capture
+TO,2042,SLDWASLDFKVFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillKeele ValleyFlaring
+TO,2042,SLDWASLDFBRGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBeare RdBiogas generation
+TO,2042,SLDWASLDFBRCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillBeare RdBiogas capture
+TO,2042,SLDWASLDFBRFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillBeare RdFlaring
+TO,2042,SLDWASLDFTKGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteThackerayBiogas generation
+TO,2042,SLDWASLDFTKLEK_EX,2015,0.0,k$/Tja,SolidWasteLandfillThackerayLeaking
+TO,2042,SLDWASLDFAHGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Arbor HillsBiogas generation
+TO,2042,SLDWASLDFAHCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,2042,SLDWASLDFAHFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Arbor HillsFlaring
+TO,2042,SLDWASLDFCFGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Carleton farmsBiogas generation
+TO,2042,SLDWASLDFCFCAP_EX,2015,0.6012506012506014,k$/Tja,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,2042,SLDWASLDFCFFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Carleton farmsFlaring
+TO,2042,SLDWASGRBDRTTE_EX,2015,2.5,k$/Tja,SolidWasteGreen BinDisco RoadTons to Energy
+TO,2042,SLDWASGRBDRADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2042,SLDWASGRBDRADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2042,SLDWASGRBDRUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadExport of energy
+TO,2042,SLDWASGRBDRFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadFlaring
+TO,2042,SLDWASGRBDFTTE_EX,2015,2.5,k$/kta,SolidWasteGreen BinDufferinTons to Energy
+TO,2042,SLDWASGRBDFADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2042,SLDWASGRBDFADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2042,SLDWASGRBDFUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinExport of energy
+TO,2042,SLDWASGRBDFFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinFlaring
+TO,2042,SLDWASGRBCPGEN_EX,2015,2.0,k$/kta,SolidWasteGreen BinCompostBiogas generation
+TO,2042,SLDWASGRBCPLEK_EX,2015,0.0,k$/kta,SolidWasteGreen BinCompostLeaking
+TO,2043,SLDWASLDFGLAGG_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneAggregate demand
+TO,2043,SLDWASLDFGLGEN_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneBiogas generation
+TO,2043,SLDWASLDFGLCAP_EX,2015,0.4810004810004811,k$/Tja,SolidWasteLandfillGreen LaneBiogas capture
+TO,2043,SLDWASLDFGLFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillGreen LaneFlaring
+TO,2043,SLDWASLDFBWGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBrock WestBiogas generation
+TO,2043,SLDWASLDFBWLEK_EX,2015,0.0,k$/kta,SolidWasteLandfillBrock WestLeaking
+TO,2043,SLDWASLDFKVGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteKeele ValleyBiogas generation
+TO,2043,SLDWASLDFKVCAP_EX,2015,0.8293111741387603,k$/Tja,SolidWasteLandfillKeele ValleyBiogas capture
+TO,2043,SLDWASLDFKVFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillKeele ValleyFlaring
+TO,2043,SLDWASLDFBRGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBeare RdBiogas generation
+TO,2043,SLDWASLDFBRCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillBeare RdBiogas capture
+TO,2043,SLDWASLDFBRFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillBeare RdFlaring
+TO,2043,SLDWASLDFTKGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteThackerayBiogas generation
+TO,2043,SLDWASLDFTKLEK_EX,2015,0.0,k$/Tja,SolidWasteLandfillThackerayLeaking
+TO,2043,SLDWASLDFAHGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Arbor HillsBiogas generation
+TO,2043,SLDWASLDFAHCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,2043,SLDWASLDFAHFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Arbor HillsFlaring
+TO,2043,SLDWASLDFCFGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Carleton farmsBiogas generation
+TO,2043,SLDWASLDFCFCAP_EX,2015,0.6012506012506014,k$/Tja,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,2043,SLDWASLDFCFFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Carleton farmsFlaring
+TO,2043,SLDWASGRBDRTTE_EX,2015,2.5,k$/Tja,SolidWasteGreen BinDisco RoadTons to Energy
+TO,2043,SLDWASGRBDRADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2043,SLDWASGRBDRADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2043,SLDWASGRBDRUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadExport of energy
+TO,2043,SLDWASGRBDRFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadFlaring
+TO,2043,SLDWASGRBDFTTE_EX,2015,2.5,k$/kta,SolidWasteGreen BinDufferinTons to Energy
+TO,2043,SLDWASGRBDFADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2043,SLDWASGRBDFADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2043,SLDWASGRBDFUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinExport of energy
+TO,2043,SLDWASGRBDFFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinFlaring
+TO,2043,SLDWASGRBCPGEN_EX,2015,2.0,k$/kta,SolidWasteGreen BinCompostBiogas generation
+TO,2043,SLDWASGRBCPLEK_EX,2015,0.0,k$/kta,SolidWasteGreen BinCompostLeaking
+TO,2044,SLDWASLDFGLAGG_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneAggregate demand
+TO,2044,SLDWASLDFGLGEN_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneBiogas generation
+TO,2044,SLDWASLDFGLCAP_EX,2015,0.4810004810004811,k$/Tja,SolidWasteLandfillGreen LaneBiogas capture
+TO,2044,SLDWASLDFGLFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillGreen LaneFlaring
+TO,2044,SLDWASLDFBWGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBrock WestBiogas generation
+TO,2044,SLDWASLDFBWLEK_EX,2015,0.0,k$/kta,SolidWasteLandfillBrock WestLeaking
+TO,2044,SLDWASLDFKVGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteKeele ValleyBiogas generation
+TO,2044,SLDWASLDFKVCAP_EX,2015,0.8293111741387603,k$/Tja,SolidWasteLandfillKeele ValleyBiogas capture
+TO,2044,SLDWASLDFKVFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillKeele ValleyFlaring
+TO,2044,SLDWASLDFBRGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBeare RdBiogas generation
+TO,2044,SLDWASLDFBRCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillBeare RdBiogas capture
+TO,2044,SLDWASLDFBRFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillBeare RdFlaring
+TO,2044,SLDWASLDFTKGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteThackerayBiogas generation
+TO,2044,SLDWASLDFTKLEK_EX,2015,0.0,k$/Tja,SolidWasteLandfillThackerayLeaking
+TO,2044,SLDWASLDFAHGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Arbor HillsBiogas generation
+TO,2044,SLDWASLDFAHCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,2044,SLDWASLDFAHFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Arbor HillsFlaring
+TO,2044,SLDWASLDFCFGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Carleton farmsBiogas generation
+TO,2044,SLDWASLDFCFCAP_EX,2015,0.6012506012506014,k$/Tja,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,2044,SLDWASLDFCFFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Carleton farmsFlaring
+TO,2044,SLDWASGRBDRTTE_EX,2015,2.5,k$/Tja,SolidWasteGreen BinDisco RoadTons to Energy
+TO,2044,SLDWASGRBDRADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2044,SLDWASGRBDRADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2044,SLDWASGRBDRUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadExport of energy
+TO,2044,SLDWASGRBDRFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadFlaring
+TO,2044,SLDWASGRBDFTTE_EX,2015,2.5,k$/kta,SolidWasteGreen BinDufferinTons to Energy
+TO,2044,SLDWASGRBDFADI_EX,2015,7.011,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2044,SLDWASGRBDFADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2044,SLDWASGRBDFUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinExport of energy
+TO,2044,SLDWASGRBDFFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinFlaring
+TO,2044,SLDWASGRBCPGEN_EX,2015,2.0,k$/kta,SolidWasteGreen BinCompostBiogas generation
+TO,2044,SLDWASGRBCPLEK_EX,2015,0.0,k$/kta,SolidWasteGreen BinCompostLeaking
+TO,2045,SLDWASLDFGLAGG_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneAggregate demand
+TO,2045,SLDWASLDFGLGEN_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneBiogas generation
+TO,2045,SLDWASLDFGLCAP_EX,2015,0.4810004810004811,k$/Tja,SolidWasteLandfillGreen LaneBiogas capture
+TO,2045,SLDWASLDFGLFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillGreen LaneFlaring
+TO,2045,SLDWASLDFBWGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBrock WestBiogas generation
+TO,2045,SLDWASLDFBWLEK_EX,2015,0.0,k$/kta,SolidWasteLandfillBrock WestLeaking
+TO,2045,SLDWASLDFKVGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteKeele ValleyBiogas generation
+TO,2045,SLDWASLDFKVCAP_EX,2015,0.8293111741387603,k$/Tja,SolidWasteLandfillKeele ValleyBiogas capture
+TO,2045,SLDWASLDFKVFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillKeele ValleyFlaring
+TO,2045,SLDWASLDFBRGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBeare RdBiogas generation
+TO,2045,SLDWASLDFBRCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillBeare RdBiogas capture
+TO,2045,SLDWASLDFBRFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillBeare RdFlaring
+TO,2045,SLDWASLDFTKGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteThackerayBiogas generation
+TO,2045,SLDWASLDFTKLEK_EX,2015,0.0,k$/Tja,SolidWasteLandfillThackerayLeaking
+TO,2045,SLDWASLDFAHGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Arbor HillsBiogas generation
+TO,2045,SLDWASLDFAHCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,2045,SLDWASLDFAHFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Arbor HillsFlaring
+TO,2045,SLDWASLDFCFGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Carleton farmsBiogas generation
+TO,2045,SLDWASLDFCFCAP_EX,2015,0.6012506012506014,k$/Tja,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,2045,SLDWASLDFCFFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Carleton farmsFlaring
+TO,2045,SLDWASGRBDRTTE_EX,2015,2.5,k$/Tja,SolidWasteGreen BinDisco RoadTons to Energy
+TO,2045,SLDWASGRBDRADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2045,SLDWASGRBDRUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadExport of energy
+TO,2045,SLDWASGRBDRFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadFlaring
+TO,2045,SLDWASGRBDFTTE_EX,2015,2.5,k$/kta,SolidWasteGreen BinDufferinTons to Energy
+TO,2045,SLDWASGRBDFADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2045,SLDWASGRBDFUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinExport of energy
+TO,2045,SLDWASGRBDFFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinFlaring
+TO,2045,SLDWASGRBCPGEN_EX,2015,2.0,k$/kta,SolidWasteGreen BinCompostBiogas generation
+TO,2045,SLDWASGRBCPLEK_EX,2015,0.0,k$/kta,SolidWasteGreen BinCompostLeaking
+TO,2046,SLDWASLDFGLAGG_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneAggregate demand
+TO,2046,SLDWASLDFGLGEN_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneBiogas generation
+TO,2046,SLDWASLDFGLCAP_EX,2015,0.4810004810004811,k$/Tja,SolidWasteLandfillGreen LaneBiogas capture
+TO,2046,SLDWASLDFGLFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillGreen LaneFlaring
+TO,2046,SLDWASLDFBWGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBrock WestBiogas generation
+TO,2046,SLDWASLDFBWLEK_EX,2015,0.0,k$/kta,SolidWasteLandfillBrock WestLeaking
+TO,2046,SLDWASLDFKVGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteKeele ValleyBiogas generation
+TO,2046,SLDWASLDFKVCAP_EX,2015,0.8293111741387603,k$/Tja,SolidWasteLandfillKeele ValleyBiogas capture
+TO,2046,SLDWASLDFKVFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillKeele ValleyFlaring
+TO,2046,SLDWASLDFBRGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBeare RdBiogas generation
+TO,2046,SLDWASLDFBRCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillBeare RdBiogas capture
+TO,2046,SLDWASLDFBRFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillBeare RdFlaring
+TO,2046,SLDWASLDFTKGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteThackerayBiogas generation
+TO,2046,SLDWASLDFTKLEK_EX,2015,0.0,k$/Tja,SolidWasteLandfillThackerayLeaking
+TO,2046,SLDWASLDFAHGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Arbor HillsBiogas generation
+TO,2046,SLDWASLDFAHCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,2046,SLDWASLDFAHFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Arbor HillsFlaring
+TO,2046,SLDWASLDFCFGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Carleton farmsBiogas generation
+TO,2046,SLDWASLDFCFCAP_EX,2015,0.6012506012506014,k$/Tja,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,2046,SLDWASLDFCFFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Carleton farmsFlaring
+TO,2046,SLDWASGRBDRTTE_EX,2015,2.5,k$/Tja,SolidWasteGreen BinDisco RoadTons to Energy
+TO,2046,SLDWASGRBDRADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2046,SLDWASGRBDRUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadExport of energy
+TO,2046,SLDWASGRBDRFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadFlaring
+TO,2046,SLDWASGRBDFTTE_EX,2015,2.5,k$/kta,SolidWasteGreen BinDufferinTons to Energy
+TO,2046,SLDWASGRBDFADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2046,SLDWASGRBDFUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinExport of energy
+TO,2046,SLDWASGRBDFFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinFlaring
+TO,2046,SLDWASGRBCPGEN_EX,2015,2.0,k$/kta,SolidWasteGreen BinCompostBiogas generation
+TO,2046,SLDWASGRBCPLEK_EX,2015,0.0,k$/kta,SolidWasteGreen BinCompostLeaking
+TO,2047,SLDWASLDFGLAGG_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneAggregate demand
+TO,2047,SLDWASLDFGLGEN_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneBiogas generation
+TO,2047,SLDWASLDFGLCAP_EX,2015,0.4810004810004811,k$/Tja,SolidWasteLandfillGreen LaneBiogas capture
+TO,2047,SLDWASLDFGLFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillGreen LaneFlaring
+TO,2047,SLDWASLDFBWGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBrock WestBiogas generation
+TO,2047,SLDWASLDFBWLEK_EX,2015,0.0,k$/kta,SolidWasteLandfillBrock WestLeaking
+TO,2047,SLDWASLDFKVGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteKeele ValleyBiogas generation
+TO,2047,SLDWASLDFKVCAP_EX,2015,0.8293111741387603,k$/Tja,SolidWasteLandfillKeele ValleyBiogas capture
+TO,2047,SLDWASLDFKVFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillKeele ValleyFlaring
+TO,2047,SLDWASLDFBRGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBeare RdBiogas generation
+TO,2047,SLDWASLDFBRCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillBeare RdBiogas capture
+TO,2047,SLDWASLDFBRFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillBeare RdFlaring
+TO,2047,SLDWASLDFTKGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteThackerayBiogas generation
+TO,2047,SLDWASLDFTKLEK_EX,2015,0.0,k$/Tja,SolidWasteLandfillThackerayLeaking
+TO,2047,SLDWASLDFAHGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Arbor HillsBiogas generation
+TO,2047,SLDWASLDFAHCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,2047,SLDWASLDFAHFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Arbor HillsFlaring
+TO,2047,SLDWASLDFCFGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Carleton farmsBiogas generation
+TO,2047,SLDWASLDFCFCAP_EX,2015,0.6012506012506014,k$/Tja,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,2047,SLDWASLDFCFFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Carleton farmsFlaring
+TO,2047,SLDWASGRBDRTTE_EX,2015,2.5,k$/Tja,SolidWasteGreen BinDisco RoadTons to Energy
+TO,2047,SLDWASGRBDRADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2047,SLDWASGRBDRUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadExport of energy
+TO,2047,SLDWASGRBDRFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadFlaring
+TO,2047,SLDWASGRBDFTTE_EX,2015,2.5,k$/kta,SolidWasteGreen BinDufferinTons to Energy
+TO,2047,SLDWASGRBDFADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2047,SLDWASGRBDFUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinExport of energy
+TO,2047,SLDWASGRBDFFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinFlaring
+TO,2047,SLDWASGRBCPGEN_EX,2015,2.0,k$/kta,SolidWasteGreen BinCompostBiogas generation
+TO,2047,SLDWASGRBCPLEK_EX,2015,0.0,k$/kta,SolidWasteGreen BinCompostLeaking
+TO,2048,SLDWASLDFGLAGG_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneAggregate demand
+TO,2048,SLDWASLDFGLGEN_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneBiogas generation
+TO,2048,SLDWASLDFGLCAP_EX,2015,0.4810004810004811,k$/Tja,SolidWasteLandfillGreen LaneBiogas capture
+TO,2048,SLDWASLDFGLFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillGreen LaneFlaring
+TO,2048,SLDWASLDFBWGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBrock WestBiogas generation
+TO,2048,SLDWASLDFBWLEK_EX,2015,0.0,k$/kta,SolidWasteLandfillBrock WestLeaking
+TO,2048,SLDWASLDFKVGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteKeele ValleyBiogas generation
+TO,2048,SLDWASLDFKVCAP_EX,2015,0.8293111741387603,k$/Tja,SolidWasteLandfillKeele ValleyBiogas capture
+TO,2048,SLDWASLDFKVFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillKeele ValleyFlaring
+TO,2048,SLDWASLDFBRGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBeare RdBiogas generation
+TO,2048,SLDWASLDFBRCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillBeare RdBiogas capture
+TO,2048,SLDWASLDFBRFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillBeare RdFlaring
+TO,2048,SLDWASLDFTKGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteThackerayBiogas generation
+TO,2048,SLDWASLDFTKLEK_EX,2015,0.0,k$/Tja,SolidWasteLandfillThackerayLeaking
+TO,2048,SLDWASLDFAHGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Arbor HillsBiogas generation
+TO,2048,SLDWASLDFAHCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,2048,SLDWASLDFAHFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Arbor HillsFlaring
+TO,2048,SLDWASLDFCFGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Carleton farmsBiogas generation
+TO,2048,SLDWASLDFCFCAP_EX,2015,0.6012506012506014,k$/Tja,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,2048,SLDWASLDFCFFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Carleton farmsFlaring
+TO,2048,SLDWASGRBDRTTE_EX,2015,2.5,k$/Tja,SolidWasteGreen BinDisco RoadTons to Energy
+TO,2048,SLDWASGRBDRADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2048,SLDWASGRBDRUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadExport of energy
+TO,2048,SLDWASGRBDRFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadFlaring
+TO,2048,SLDWASGRBDFTTE_EX,2015,2.5,k$/kta,SolidWasteGreen BinDufferinTons to Energy
+TO,2048,SLDWASGRBDFADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2048,SLDWASGRBDFUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinExport of energy
+TO,2048,SLDWASGRBDFFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinFlaring
+TO,2048,SLDWASGRBCPGEN_EX,2015,2.0,k$/kta,SolidWasteGreen BinCompostBiogas generation
+TO,2048,SLDWASGRBCPLEK_EX,2015,0.0,k$/kta,SolidWasteGreen BinCompostLeaking
+TO,2049,SLDWASLDFGLAGG_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneAggregate demand
+TO,2049,SLDWASLDFGLGEN_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneBiogas generation
+TO,2049,SLDWASLDFGLCAP_EX,2015,0.4810004810004811,k$/Tja,SolidWasteLandfillGreen LaneBiogas capture
+TO,2049,SLDWASLDFGLFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillGreen LaneFlaring
+TO,2049,SLDWASLDFBWGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBrock WestBiogas generation
+TO,2049,SLDWASLDFBWLEK_EX,2015,0.0,k$/kta,SolidWasteLandfillBrock WestLeaking
+TO,2049,SLDWASLDFKVGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteKeele ValleyBiogas generation
+TO,2049,SLDWASLDFKVCAP_EX,2015,0.8293111741387603,k$/Tja,SolidWasteLandfillKeele ValleyBiogas capture
+TO,2049,SLDWASLDFKVFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillKeele ValleyFlaring
+TO,2049,SLDWASLDFBRGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBeare RdBiogas generation
+TO,2049,SLDWASLDFBRCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillBeare RdBiogas capture
+TO,2049,SLDWASLDFBRFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillBeare RdFlaring
+TO,2049,SLDWASLDFTKGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteThackerayBiogas generation
+TO,2049,SLDWASLDFTKLEK_EX,2015,0.0,k$/Tja,SolidWasteLandfillThackerayLeaking
+TO,2049,SLDWASLDFAHGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Arbor HillsBiogas generation
+TO,2049,SLDWASLDFAHCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,2049,SLDWASLDFAHFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Arbor HillsFlaring
+TO,2049,SLDWASLDFCFGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Carleton farmsBiogas generation
+TO,2049,SLDWASLDFCFCAP_EX,2015,0.6012506012506014,k$/Tja,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,2049,SLDWASLDFCFFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Carleton farmsFlaring
+TO,2049,SLDWASGRBDRTTE_EX,2015,2.5,k$/Tja,SolidWasteGreen BinDisco RoadTons to Energy
+TO,2049,SLDWASGRBDRADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2049,SLDWASGRBDRUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadExport of energy
+TO,2049,SLDWASGRBDRFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadFlaring
+TO,2049,SLDWASGRBDFTTE_EX,2015,2.5,k$/kta,SolidWasteGreen BinDufferinTons to Energy
+TO,2049,SLDWASGRBDFADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2049,SLDWASGRBDFUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinExport of energy
+TO,2049,SLDWASGRBDFFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinFlaring
+TO,2049,SLDWASGRBCPGEN_EX,2015,2.0,k$/kta,SolidWasteGreen BinCompostBiogas generation
+TO,2049,SLDWASGRBCPLEK_EX,2015,0.0,k$/kta,SolidWasteGreen BinCompostLeaking
+TO,2050,SLDWASLDFGLAGG_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneAggregate demand
+TO,2050,SLDWASLDFGLGEN_EX,2015,0.0,k$/kta,SolidWasteLandfillGreen LaneBiogas generation
+TO,2050,SLDWASLDFGLCAP_EX,2015,0.4810004810004811,k$/Tja,SolidWasteLandfillGreen LaneBiogas capture
+TO,2050,SLDWASLDFGLFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillGreen LaneFlaring
+TO,2050,SLDWASLDFBWGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBrock WestBiogas generation
+TO,2050,SLDWASLDFBWLEK_EX,2015,0.0,k$/kta,SolidWasteLandfillBrock WestLeaking
+TO,2050,SLDWASLDFKVGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteKeele ValleyBiogas generation
+TO,2050,SLDWASLDFKVCAP_EX,2015,0.8293111741387603,k$/Tja,SolidWasteLandfillKeele ValleyBiogas capture
+TO,2050,SLDWASLDFKVFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillKeele ValleyFlaring
+TO,2050,SLDWASLDFBRGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteBeare RdBiogas generation
+TO,2050,SLDWASLDFBRCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillBeare RdBiogas capture
+TO,2050,SLDWASLDFBRFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillBeare RdFlaring
+TO,2050,SLDWASLDFTKGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteThackerayBiogas generation
+TO,2050,SLDWASLDFTKLEK_EX,2015,0.0,k$/Tja,SolidWasteLandfillThackerayLeaking
+TO,2050,SLDWASLDFAHGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Arbor HillsBiogas generation
+TO,2050,SLDWASLDFAHCAP_EX,2015,0.555000555000555,k$/Tja,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,2050,SLDWASLDFAHFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Arbor HillsFlaring
+TO,2050,SLDWASLDFCFGEN_EX,2015,0.0,k$/kta,SolidWasteHistorical LF wasteMI - Carleton farmsBiogas generation
+TO,2050,SLDWASLDFCFCAP_EX,2015,0.6012506012506014,k$/Tja,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,2050,SLDWASLDFCFFLR_EX,2015,0.0,k$/Tja,SolidWasteLandfillMI - Carleton farmsFlaring
+TO,2050,SLDWASGRBDRTTE_EX,2015,2.5,k$/Tja,SolidWasteGreen BinDisco RoadTons to Energy
+TO,2050,SLDWASGRBDRADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,2050,SLDWASGRBDRUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadExport of energy
+TO,2050,SLDWASGRBDRFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDisco RoadFlaring
+TO,2050,SLDWASGRBDFTTE_EX,2015,2.5,k$/kta,SolidWasteGreen BinDufferinTons to Energy
+TO,2050,SLDWASGRBDFADIMNGA_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,2050,SLDWASGRBDFUSE_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinExport of energy
+TO,2050,SLDWASGRBDFFLR_EX,2015,0.0,k$/Tja,SolidWasteGreen BinDufferinFlaring
+TO,2050,SLDWASGRBCPGEN_EX,2015,2.0,k$/kta,SolidWasteGreen BinCompostBiogas generation
+TO,2050,SLDWASGRBCPLEK_EX,2015,0.0,k$/kta,SolidWasteGreen BinCompostLeaking

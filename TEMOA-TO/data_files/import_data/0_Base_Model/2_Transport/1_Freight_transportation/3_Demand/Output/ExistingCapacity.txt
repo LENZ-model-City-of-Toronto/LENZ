@@ -1,0 +1,6 @@
+INSERT INTO`ExistingCapacity`VALUES('TO','FRETRAROATRULGT',2015,10000000000,'nan','Freight TransportationTransportationRoadTruckPassenger Light Trucks');
+INSERT INTO`ExistingCapacity`VALUES('TO','FRETRAROATRUMET',2015,10000000000,'nan','Freight TransportationTransportationRoadTruckMedium Trucks');
+INSERT INTO`ExistingCapacity`VALUES('TO','FRETRAROATRUHET',2015,10000000000,'nan','Freight TransportationTransportationRoadTruckHeavy Trucks');
+INSERT INTO`ExistingCapacity`VALUES('TO','FRETRAAIR______',2015,10000000000,'nan','Freight TransportationTransportationAir');
+INSERT INTO`ExistingCapacity`VALUES('TO','FRETRARAI______',2015,10000000000,'nan','Freight TransportationTransportationRail');
+INSERT INTO`ExistingCapacity`VALUES('TO','FRETRAMAR______',2015,10000000000,'nan','Freight TransportationTransportationMarine');

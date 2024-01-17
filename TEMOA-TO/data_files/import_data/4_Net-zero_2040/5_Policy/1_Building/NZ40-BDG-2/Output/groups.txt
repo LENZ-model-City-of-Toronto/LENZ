@@ -1,0 +1,1 @@
+INSERT INTO`groups`VALUES('NZ40-BDG-2-RESBDG','nan');

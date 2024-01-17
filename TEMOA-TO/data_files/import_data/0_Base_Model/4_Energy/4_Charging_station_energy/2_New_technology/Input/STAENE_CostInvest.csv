@@ -1,0 +1,541 @@
+regions,tech,vintage,cost_invest,cost_invest_units,cost_invest_notes
+TO,LDITRABELCSTACOM240V,2023,775.0,k$/MW,Long DistanceTransportBattery electricityCharging StationCommercial240V2023
+TO,LDITRABELCSTAPUB240V,2023,775.0,k$/MW,Long DistanceTransportBattery electricityCharging StationPublic240V2023
+TO,LDITRABELCSTARES120V,2023,720.6423611111113,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential120V2023
+TO,LDITRABELCSTARES240V,2023,775.0,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTACOM240V,2023,775.0,k$/MW,PassengerTransportBattery electricityCharging StationCommercial240V2023
+TO,PASTRABELCSTAPUB240V,2023,775.0,k$/MW,PassengerTransportBattery electricityCharging StationPublic240V2023
+TO,PASTRABELCSTARES240V,2023,775.0,k$/MW,PassengerTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTARES120V,2023,720.6423611111113,k$/MW,PassengerTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTACOM240V,2023,775.0,k$/MW,PublicTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCSTAPUB240V,2023,775.0,k$/MW,PublicTransportBattery electricityCharging StationPublic240V2023
+TO,PUBTRABELCSTARES120V,2023,720.6423611111113,k$/MW,PublicTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTARES240V,2023,775.0,k$/MW,PublicTransportBattery electricityCharging StationResidential240V2023
+TO,FRETRABELCFSTAFREFA,2023,686.43,k$/MW,FreightTransportBattery electricity freightCharging StationFreightFast2023
+TO,FRETRABELCFSTAFRESL,2023,551.1759999999999,k$/MW,FreightTransportBattery electricity freightCharging StationFreightSlow2023
+TO,FRETRABELCSTACOM240V,2023,420.0,k$/MW,FreightTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCFSTAFREFA,2023,686.43,k$/MW,PublicTransportBattery electricity freightCharging StationFreightFast2023
+TO,PUBTRABELCFSTAFRESL,2023,551.1759999999999,k$/MW,PublicTransportBattery electricity freightCharging StationFreightSlow2023
+TO,LDITRABELCSTACOM240V,2024,737.5,k$/MW,Long DistanceTransportBattery electricityCharging StationCommercial240V2023
+TO,LDITRABELCSTAPUB240V,2024,737.5,k$/MW,Long DistanceTransportBattery electricityCharging StationPublic240V2023
+TO,LDITRABELCSTARES120V,2024,685.7725694444447,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential120V2023
+TO,LDITRABELCSTARES240V,2024,737.5,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTACOM240V,2024,737.5,k$/MW,PassengerTransportBattery electricityCharging StationCommercial240V2023
+TO,PASTRABELCSTAPUB240V,2024,737.5,k$/MW,PassengerTransportBattery electricityCharging StationPublic240V2023
+TO,PASTRABELCSTARES240V,2024,737.5,k$/MW,PassengerTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTARES120V,2024,685.7725694444447,k$/MW,PassengerTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTACOM240V,2024,737.5,k$/MW,PublicTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCSTAPUB240V,2024,737.5,k$/MW,PublicTransportBattery electricityCharging StationPublic240V2023
+TO,PUBTRABELCSTARES120V,2024,685.7725694444447,k$/MW,PublicTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTARES240V,2024,737.5,k$/MW,PublicTransportBattery electricityCharging StationResidential240V2023
+TO,FRETRABELCFSTAFREFA,2024,665.24,k$/MW,FreightTransportBattery electricity freightCharging StationFreightFast2023
+TO,FRETRABELCFSTAFRESL,2024,501.568,k$/MW,FreightTransportBattery electricity freightCharging StationFreightSlow2023
+TO,FRETRABELCSTACOM240V,2024,560.0,k$/MW,FreightTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCFSTAFREFA,2024,665.24,k$/MW,PublicTransportBattery electricity freightCharging StationFreightFast2023
+TO,PUBTRABELCFSTAFRESL,2024,501.568,k$/MW,PublicTransportBattery electricity freightCharging StationFreightSlow2023
+TO,LDITRABELCSTACOM240V,2025,700.0,k$/MW,Long DistanceTransportBattery electricityCharging StationCommercial240V2023
+TO,LDITRABELCSTAPUB240V,2025,700.0,k$/MW,Long DistanceTransportBattery electricityCharging StationPublic240V2023
+TO,LDITRABELCSTARES120V,2025,650.902777777778,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential120V2023
+TO,LDITRABELCSTARES240V,2025,700.0,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTACOM240V,2025,700.0,k$/MW,PassengerTransportBattery electricityCharging StationCommercial240V2023
+TO,PASTRABELCSTAPUB240V,2025,700.0,k$/MW,PassengerTransportBattery electricityCharging StationPublic240V2023
+TO,PASTRABELCSTARES240V,2025,700.0,k$/MW,PassengerTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTARES120V,2025,650.902777777778,k$/MW,PassengerTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTACOM240V,2025,700.0,k$/MW,PublicTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCSTAPUB240V,2025,700.0,k$/MW,PublicTransportBattery electricityCharging StationPublic240V2023
+TO,PUBTRABELCSTARES120V,2025,650.902777777778,k$/MW,PublicTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTARES240V,2025,700.0,k$/MW,PublicTransportBattery electricityCharging StationResidential240V2023
+TO,FRETRABELCFSTAFREFA,2025,644.05,k$/MW,FreightTransportBattery electricity freightCharging StationFreightFast2023
+TO,FRETRABELCFSTAFRESL,2025,451.96,k$/MW,FreightTransportBattery electricity freightCharging StationFreightSlow2023
+TO,FRETRABELCSTACOM240V,2025,700.0,k$/MW,FreightTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCFSTAFREFA,2025,644.05,k$/MW,PublicTransportBattery electricity freightCharging StationFreightFast2023
+TO,PUBTRABELCFSTAFRESL,2025,451.96,k$/MW,PublicTransportBattery electricity freightCharging StationFreightSlow2023
+TO,LDITRABELCSTACOM240V,2026,688.0,k$/MW,Long DistanceTransportBattery electricityCharging StationCommercial240V2023
+TO,LDITRABELCSTAPUB240V,2026,688.0,k$/MW,Long DistanceTransportBattery electricityCharging StationPublic240V2023
+TO,LDITRABELCSTARES120V,2026,639.7444444444448,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential120V2023
+TO,LDITRABELCSTARES240V,2026,688.0,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTACOM240V,2026,688.0,k$/MW,PassengerTransportBattery electricityCharging StationCommercial240V2023
+TO,PASTRABELCSTAPUB240V,2026,688.0,k$/MW,PassengerTransportBattery electricityCharging StationPublic240V2023
+TO,PASTRABELCSTARES240V,2026,688.0,k$/MW,PassengerTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTARES120V,2026,639.7444444444448,k$/MW,PassengerTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTACOM240V,2026,688.0,k$/MW,PublicTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCSTAPUB240V,2026,688.0,k$/MW,PublicTransportBattery electricityCharging StationPublic240V2023
+TO,PUBTRABELCSTARES120V,2026,639.7444444444448,k$/MW,PublicTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTARES240V,2026,688.0,k$/MW,PublicTransportBattery electricityCharging StationResidential240V2023
+TO,FRETRABELCFSTAFREFA,2026,625.8533333333334,k$/MW,FreightTransportBattery electricity freightCharging StationFreightFast2023
+TO,FRETRABELCFSTAFRESL,2026,443.276,k$/MW,FreightTransportBattery electricity freightCharging StationFreightSlow2023
+TO,FRETRABELCSTACOM240V,2026,560.0,k$/MW,FreightTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCFSTAFREFA,2026,625.8533333333334,k$/MW,PublicTransportBattery electricity freightCharging StationFreightFast2023
+TO,PUBTRABELCFSTAFRESL,2026,443.276,k$/MW,PublicTransportBattery electricity freightCharging StationFreightSlow2023
+TO,LDITRABELCSTACOM240V,2027,676.0,k$/MW,Long DistanceTransportBattery electricityCharging StationCommercial240V2023
+TO,LDITRABELCSTAPUB240V,2027,676.0,k$/MW,Long DistanceTransportBattery electricityCharging StationPublic240V2023
+TO,LDITRABELCSTARES120V,2027,628.5861111111114,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential120V2023
+TO,LDITRABELCSTARES240V,2027,676.0,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTACOM240V,2027,676.0,k$/MW,PassengerTransportBattery electricityCharging StationCommercial240V2023
+TO,PASTRABELCSTAPUB240V,2027,676.0,k$/MW,PassengerTransportBattery electricityCharging StationPublic240V2023
+TO,PASTRABELCSTARES240V,2027,676.0,k$/MW,PassengerTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTARES120V,2027,628.5861111111114,k$/MW,PassengerTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTACOM240V,2027,676.0,k$/MW,PublicTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCSTAPUB240V,2027,676.0,k$/MW,PublicTransportBattery electricityCharging StationPublic240V2023
+TO,PUBTRABELCSTARES120V,2027,628.5861111111114,k$/MW,PublicTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTARES240V,2027,676.0,k$/MW,PublicTransportBattery electricityCharging StationResidential240V2023
+TO,FRETRABELCFSTAFREFA,2027,607.6566666666668,k$/MW,FreightTransportBattery electricity freightCharging StationFreightFast2023
+TO,FRETRABELCFSTAFRESL,2027,434.592,k$/MW,FreightTransportBattery electricity freightCharging StationFreightSlow2023
+TO,FRETRABELCSTACOM240V,2027,420.0,k$/MW,FreightTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCFSTAFREFA,2027,607.6566666666668,k$/MW,PublicTransportBattery electricity freightCharging StationFreightFast2023
+TO,PUBTRABELCFSTAFRESL,2027,434.592,k$/MW,PublicTransportBattery electricity freightCharging StationFreightSlow2023
+TO,LDITRABELCSTACOM240V,2028,664.0,k$/MW,Long DistanceTransportBattery electricityCharging StationCommercial240V2023
+TO,LDITRABELCSTAPUB240V,2028,664.0,k$/MW,Long DistanceTransportBattery electricityCharging StationPublic240V2023
+TO,LDITRABELCSTARES120V,2028,617.4277777777781,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential120V2023
+TO,LDITRABELCSTARES240V,2028,664.0,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTACOM240V,2028,664.0,k$/MW,PassengerTransportBattery electricityCharging StationCommercial240V2023
+TO,PASTRABELCSTAPUB240V,2028,664.0,k$/MW,PassengerTransportBattery electricityCharging StationPublic240V2023
+TO,PASTRABELCSTARES240V,2028,664.0,k$/MW,PassengerTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTARES120V,2028,617.4277777777781,k$/MW,PassengerTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTACOM240V,2028,664.0,k$/MW,PublicTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCSTAPUB240V,2028,664.0,k$/MW,PublicTransportBattery electricityCharging StationPublic240V2023
+TO,PUBTRABELCSTARES120V,2028,617.4277777777781,k$/MW,PublicTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTARES240V,2028,664.0,k$/MW,PublicTransportBattery electricityCharging StationResidential240V2023
+TO,FRETRABELCFSTAFREFA,2028,589.4600000000002,k$/MW,FreightTransportBattery electricity freightCharging StationFreightFast2023
+TO,FRETRABELCFSTAFRESL,2028,425.908,k$/MW,FreightTransportBattery electricity freightCharging StationFreightSlow2023
+TO,FRETRABELCSTACOM240V,2028,280.0,k$/MW,FreightTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCFSTAFREFA,2028,589.4600000000002,k$/MW,PublicTransportBattery electricity freightCharging StationFreightFast2023
+TO,PUBTRABELCFSTAFRESL,2028,425.908,k$/MW,PublicTransportBattery electricity freightCharging StationFreightSlow2023
+TO,LDITRABELCSTACOM240V,2029,652.0,k$/MW,Long DistanceTransportBattery electricityCharging StationCommercial240V2023
+TO,LDITRABELCSTAPUB240V,2029,652.0,k$/MW,Long DistanceTransportBattery electricityCharging StationPublic240V2023
+TO,LDITRABELCSTARES120V,2029,606.2694444444447,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential120V2023
+TO,LDITRABELCSTARES240V,2029,652.0,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTACOM240V,2029,652.0,k$/MW,PassengerTransportBattery electricityCharging StationCommercial240V2023
+TO,PASTRABELCSTAPUB240V,2029,652.0,k$/MW,PassengerTransportBattery electricityCharging StationPublic240V2023
+TO,PASTRABELCSTARES240V,2029,652.0,k$/MW,PassengerTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTARES120V,2029,606.2694444444447,k$/MW,PassengerTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTACOM240V,2029,652.0,k$/MW,PublicTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCSTAPUB240V,2029,652.0,k$/MW,PublicTransportBattery electricityCharging StationPublic240V2023
+TO,PUBTRABELCSTARES120V,2029,606.2694444444447,k$/MW,PublicTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTARES240V,2029,652.0,k$/MW,PublicTransportBattery electricityCharging StationResidential240V2023
+TO,FRETRABELCFSTAFREFA,2029,571.2633333333335,k$/MW,FreightTransportBattery electricity freightCharging StationFreightFast2023
+TO,FRETRABELCFSTAFRESL,2029,417.224,k$/MW,FreightTransportBattery electricity freightCharging StationFreightSlow2023
+TO,FRETRABELCSTACOM240V,2029,140.0,k$/MW,FreightTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCFSTAFREFA,2029,571.2633333333335,k$/MW,PublicTransportBattery electricity freightCharging StationFreightFast2023
+TO,PUBTRABELCFSTAFRESL,2029,417.224,k$/MW,PublicTransportBattery electricity freightCharging StationFreightSlow2023
+TO,LDITRABELCSTACOM240V,2030,640.0,k$/MW,Long DistanceTransportBattery electricityCharging StationCommercial240V2023
+TO,LDITRABELCSTAPUB240V,2030,640.0,k$/MW,Long DistanceTransportBattery electricityCharging StationPublic240V2023
+TO,LDITRABELCSTARES120V,2030,595.1111111111114,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential120V2023
+TO,LDITRABELCSTARES240V,2030,640.0,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTACOM240V,2030,640.0,k$/MW,PassengerTransportBattery electricityCharging StationCommercial240V2023
+TO,PASTRABELCSTAPUB240V,2030,640.0,k$/MW,PassengerTransportBattery electricityCharging StationPublic240V2023
+TO,PASTRABELCSTARES240V,2030,640.0,k$/MW,PassengerTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTARES120V,2030,595.1111111111114,k$/MW,PassengerTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTACOM240V,2030,640.0,k$/MW,PublicTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCSTAPUB240V,2030,640.0,k$/MW,PublicTransportBattery electricityCharging StationPublic240V2023
+TO,PUBTRABELCSTARES120V,2030,595.1111111111114,k$/MW,PublicTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTARES240V,2030,640.0,k$/MW,PublicTransportBattery electricityCharging StationResidential240V2023
+TO,FRETRABELCFSTAFREFA,2030,553.066666666667,k$/MW,FreightTransportBattery electricity freightCharging StationFreightFast2023
+TO,FRETRABELCFSTAFRESL,2030,408.54,k$/MW,FreightTransportBattery electricity freightCharging StationFreightSlow2023
+TO,FRETRABELCSTACOM240V,2030,0.0,k$/MW,FreightTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCFSTAFREFA,2030,553.066666666667,k$/MW,PublicTransportBattery electricity freightCharging StationFreightFast2023
+TO,PUBTRABELCFSTAFRESL,2030,408.54,k$/MW,PublicTransportBattery electricity freightCharging StationFreightSlow2023
+TO,LDITRABELCSTACOM240V,2031,628.0,k$/MW,Long DistanceTransportBattery electricityCharging StationCommercial240V2023
+TO,LDITRABELCSTAPUB240V,2031,628.0,k$/MW,Long DistanceTransportBattery electricityCharging StationPublic240V2023
+TO,LDITRABELCSTARES120V,2031,583.9527777777781,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential120V2023
+TO,LDITRABELCSTARES240V,2031,628.0,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTACOM240V,2031,628.0,k$/MW,PassengerTransportBattery electricityCharging StationCommercial240V2023
+TO,PASTRABELCSTAPUB240V,2031,628.0,k$/MW,PassengerTransportBattery electricityCharging StationPublic240V2023
+TO,PASTRABELCSTARES240V,2031,628.0,k$/MW,PassengerTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTARES120V,2031,583.9527777777781,k$/MW,PassengerTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTACOM240V,2031,628.0,k$/MW,PublicTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCSTAPUB240V,2031,628.0,k$/MW,PublicTransportBattery electricityCharging StationPublic240V2023
+TO,PUBTRABELCSTARES120V,2031,583.9527777777781,k$/MW,PublicTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTARES240V,2031,628.0,k$/MW,PublicTransportBattery electricityCharging StationResidential240V2023
+TO,FRETRABELCFSTAFREFA,2031,553.066666666667,k$/MW,FreightTransportBattery electricity freightCharging StationFreightFast2023
+TO,FRETRABELCFSTAFRESL,2031,408.54,k$/MW,FreightTransportBattery electricity freightCharging StationFreightSlow2023
+TO,FRETRABELCSTACOM240V,2031,20.0,k$/MW,FreightTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCFSTAFREFA,2031,553.066666666667,k$/MW,PublicTransportBattery electricity freightCharging StationFreightFast2023
+TO,PUBTRABELCFSTAFRESL,2031,408.54,k$/MW,PublicTransportBattery electricity freightCharging StationFreightSlow2023
+TO,LDITRABELCSTACOM240V,2032,616.0,k$/MW,Long DistanceTransportBattery electricityCharging StationCommercial240V2023
+TO,LDITRABELCSTAPUB240V,2032,616.0,k$/MW,Long DistanceTransportBattery electricityCharging StationPublic240V2023
+TO,LDITRABELCSTARES120V,2032,572.7944444444448,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential120V2023
+TO,LDITRABELCSTARES240V,2032,616.0,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTACOM240V,2032,616.0,k$/MW,PassengerTransportBattery electricityCharging StationCommercial240V2023
+TO,PASTRABELCSTAPUB240V,2032,616.0,k$/MW,PassengerTransportBattery electricityCharging StationPublic240V2023
+TO,PASTRABELCSTARES240V,2032,616.0,k$/MW,PassengerTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTARES120V,2032,572.7944444444448,k$/MW,PassengerTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTACOM240V,2032,616.0,k$/MW,PublicTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCSTAPUB240V,2032,616.0,k$/MW,PublicTransportBattery electricityCharging StationPublic240V2023
+TO,PUBTRABELCSTARES120V,2032,572.7944444444448,k$/MW,PublicTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTARES240V,2032,616.0,k$/MW,PublicTransportBattery electricityCharging StationResidential240V2023
+TO,FRETRABELCFSTAFREFA,2032,553.066666666667,k$/MW,FreightTransportBattery electricity freightCharging StationFreightFast2023
+TO,FRETRABELCFSTAFRESL,2032,408.54,k$/MW,FreightTransportBattery electricity freightCharging StationFreightSlow2023
+TO,FRETRABELCSTACOM240V,2032,40.0,k$/MW,FreightTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCFSTAFREFA,2032,553.066666666667,k$/MW,PublicTransportBattery electricity freightCharging StationFreightFast2023
+TO,PUBTRABELCFSTAFRESL,2032,408.54,k$/MW,PublicTransportBattery electricity freightCharging StationFreightSlow2023
+TO,LDITRABELCSTACOM240V,2033,604.0,k$/MW,Long DistanceTransportBattery electricityCharging StationCommercial240V2023
+TO,LDITRABELCSTAPUB240V,2033,604.0,k$/MW,Long DistanceTransportBattery electricityCharging StationPublic240V2023
+TO,LDITRABELCSTARES120V,2033,561.6361111111115,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential120V2023
+TO,LDITRABELCSTARES240V,2033,604.0,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTACOM240V,2033,604.0,k$/MW,PassengerTransportBattery electricityCharging StationCommercial240V2023
+TO,PASTRABELCSTAPUB240V,2033,604.0,k$/MW,PassengerTransportBattery electricityCharging StationPublic240V2023
+TO,PASTRABELCSTARES240V,2033,604.0,k$/MW,PassengerTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTARES120V,2033,561.6361111111115,k$/MW,PassengerTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTACOM240V,2033,604.0,k$/MW,PublicTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCSTAPUB240V,2033,604.0,k$/MW,PublicTransportBattery electricityCharging StationPublic240V2023
+TO,PUBTRABELCSTARES120V,2033,561.6361111111115,k$/MW,PublicTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTARES240V,2033,604.0,k$/MW,PublicTransportBattery electricityCharging StationResidential240V2023
+TO,FRETRABELCFSTAFREFA,2033,553.066666666667,k$/MW,FreightTransportBattery electricity freightCharging StationFreightFast2023
+TO,FRETRABELCFSTAFRESL,2033,408.54,k$/MW,FreightTransportBattery electricity freightCharging StationFreightSlow2023
+TO,FRETRABELCSTACOM240V,2033,60.0,k$/MW,FreightTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCFSTAFREFA,2033,553.066666666667,k$/MW,PublicTransportBattery electricity freightCharging StationFreightFast2023
+TO,PUBTRABELCFSTAFRESL,2033,408.54,k$/MW,PublicTransportBattery electricity freightCharging StationFreightSlow2023
+TO,LDITRABELCSTACOM240V,2034,592.0,k$/MW,Long DistanceTransportBattery electricityCharging StationCommercial240V2023
+TO,LDITRABELCSTAPUB240V,2034,592.0,k$/MW,Long DistanceTransportBattery electricityCharging StationPublic240V2023
+TO,LDITRABELCSTARES120V,2034,550.4777777777782,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential120V2023
+TO,LDITRABELCSTARES240V,2034,592.0,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTACOM240V,2034,592.0,k$/MW,PassengerTransportBattery electricityCharging StationCommercial240V2023
+TO,PASTRABELCSTAPUB240V,2034,592.0,k$/MW,PassengerTransportBattery electricityCharging StationPublic240V2023
+TO,PASTRABELCSTARES240V,2034,592.0,k$/MW,PassengerTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTARES120V,2034,550.4777777777782,k$/MW,PassengerTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTACOM240V,2034,592.0,k$/MW,PublicTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCSTAPUB240V,2034,592.0,k$/MW,PublicTransportBattery electricityCharging StationPublic240V2023
+TO,PUBTRABELCSTARES120V,2034,550.4777777777782,k$/MW,PublicTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTARES240V,2034,592.0,k$/MW,PublicTransportBattery electricityCharging StationResidential240V2023
+TO,FRETRABELCFSTAFREFA,2034,553.066666666667,k$/MW,FreightTransportBattery electricity freightCharging StationFreightFast2023
+TO,FRETRABELCFSTAFRESL,2034,408.54,k$/MW,FreightTransportBattery electricity freightCharging StationFreightSlow2023
+TO,FRETRABELCSTACOM240V,2034,80.0,k$/MW,FreightTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCFSTAFREFA,2034,553.066666666667,k$/MW,PublicTransportBattery electricity freightCharging StationFreightFast2023
+TO,PUBTRABELCFSTAFRESL,2034,408.54,k$/MW,PublicTransportBattery electricity freightCharging StationFreightSlow2023
+TO,LDITRABELCSTACOM120V,2035,483.33333333333303,k$/MW,Long DistanceTransportBattery electricityCharging StationCommercial120V2035
+TO,LDITRABELCSTACOM240V,2035,580.0,k$/MW,Long DistanceTransportBattery electricityCharging StationCommercial240V2023
+TO,LDITRABELCSTAPUB240V,2035,580.0,k$/MW,Long DistanceTransportBattery electricityCharging StationPublic240V2023
+TO,LDITRABELCSTARES120V,2035,539.3194444444448,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential120V2023
+TO,LDITRABELCSTARES240V,2035,580.0,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTACOM120V,2035,483.33333333333303,k$/MW,PassengerTransportBattery electricityCharging StationCommercial120V2035
+TO,PASTRABELCSTACOM240V,2035,580.0,k$/MW,PassengerTransportBattery electricityCharging StationCommercial240V2023
+TO,PASTRABELCSTAPUB240V,2035,580.0,k$/MW,PassengerTransportBattery electricityCharging StationPublic240V2023
+TO,PASTRABELCSTARES240V,2035,580.0,k$/MW,PassengerTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTARES120V,2035,539.3194444444448,k$/MW,PassengerTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTACOM120V,2035,483.33333333333303,k$/MW,PublicTransportBattery electricityCharging StationCommercial120V2035
+TO,PUBTRABELCSTACOM240V,2035,580.0,k$/MW,PublicTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCSTAPUB240V,2035,580.0,k$/MW,PublicTransportBattery electricityCharging StationPublic240V2023
+TO,PUBTRABELCSTARES120V,2035,539.3194444444448,k$/MW,PublicTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTARES240V,2035,580.0,k$/MW,PublicTransportBattery electricityCharging StationResidential240V2023
+TO,FRETRABELCFSTAFREFA,2035,553.066666666667,k$/MW,FreightTransportBattery electricity freightCharging StationFreightFast2023
+TO,FRETRABELCFSTAFRESL,2035,408.54,k$/MW,FreightTransportBattery electricity freightCharging StationFreightSlow2023
+TO,FRETRABELCSTACOM120V,2035,83.33333333333326,k$/MW,FreightTransportBattery electricityCharging StationCommercial120V2035
+TO,FRETRABELCSTACOM240V,2035,100.0,k$/MW,FreightTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCFSTAFREFA,2035,553.066666666667,k$/MW,PublicTransportBattery electricity freightCharging StationFreightFast2023
+TO,PUBTRABELCFSTAFRESL,2035,408.54,k$/MW,PublicTransportBattery electricity freightCharging StationFreightSlow2023
+TO,LDITRABELCSTACOM120V,2036,473.33333333333303,k$/MW,Long DistanceTransportBattery electricityCharging StationCommercial120V2035
+TO,LDITRABELCSTACOM240V,2036,568.0,k$/MW,Long DistanceTransportBattery electricityCharging StationCommercial240V2023
+TO,LDITRABELCSTAPUB240V,2036,568.0,k$/MW,Long DistanceTransportBattery electricityCharging StationPublic240V2023
+TO,LDITRABELCSTARES120V,2036,528.1611111111115,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential120V2023
+TO,LDITRABELCSTARES240V,2036,568.0,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTACOM120V,2036,473.33333333333303,k$/MW,PassengerTransportBattery electricityCharging StationCommercial120V2035
+TO,PASTRABELCSTACOM240V,2036,568.0,k$/MW,PassengerTransportBattery electricityCharging StationCommercial240V2023
+TO,PASTRABELCSTAPUB240V,2036,568.0,k$/MW,PassengerTransportBattery electricityCharging StationPublic240V2023
+TO,PASTRABELCSTARES240V,2036,568.0,k$/MW,PassengerTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTARES120V,2036,528.1611111111115,k$/MW,PassengerTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTACOM120V,2036,473.33333333333303,k$/MW,PublicTransportBattery electricityCharging StationCommercial120V2035
+TO,PUBTRABELCSTACOM240V,2036,568.0,k$/MW,PublicTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCSTAPUB240V,2036,568.0,k$/MW,PublicTransportBattery electricityCharging StationPublic240V2023
+TO,PUBTRABELCSTARES120V,2036,528.1611111111115,k$/MW,PublicTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTARES240V,2036,568.0,k$/MW,PublicTransportBattery electricityCharging StationResidential240V2023
+TO,FRETRABELCFSTAFREFA,2036,553.066666666667,k$/MW,FreightTransportBattery electricity freightCharging StationFreightFast2023
+TO,FRETRABELCFSTAFRESL,2036,408.54,k$/MW,FreightTransportBattery electricity freightCharging StationFreightSlow2023
+TO,FRETRABELCSTACOM120V,2036,99.9999999999999,k$/MW,FreightTransportBattery electricityCharging StationCommercial120V2035
+TO,FRETRABELCSTACOM240V,2036,120.0,k$/MW,FreightTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCFSTAFREFA,2036,553.066666666667,k$/MW,PublicTransportBattery electricity freightCharging StationFreightFast2023
+TO,PUBTRABELCFSTAFRESL,2036,408.54,k$/MW,PublicTransportBattery electricity freightCharging StationFreightSlow2023
+TO,LDITRABELCSTACOM120V,2037,463.33333333333303,k$/MW,Long DistanceTransportBattery electricityCharging StationCommercial120V2035
+TO,LDITRABELCSTACOM240V,2037,556.0,k$/MW,Long DistanceTransportBattery electricityCharging StationCommercial240V2023
+TO,LDITRABELCSTAPUB240V,2037,556.0,k$/MW,Long DistanceTransportBattery electricityCharging StationPublic240V2023
+TO,LDITRABELCSTARES120V,2037,517.0027777777782,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential120V2023
+TO,LDITRABELCSTARES240V,2037,556.0,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTACOM120V,2037,463.33333333333303,k$/MW,PassengerTransportBattery electricityCharging StationCommercial120V2035
+TO,PASTRABELCSTACOM240V,2037,556.0,k$/MW,PassengerTransportBattery electricityCharging StationCommercial240V2023
+TO,PASTRABELCSTAPUB240V,2037,556.0,k$/MW,PassengerTransportBattery electricityCharging StationPublic240V2023
+TO,PASTRABELCSTARES240V,2037,556.0,k$/MW,PassengerTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTARES120V,2037,517.0027777777782,k$/MW,PassengerTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTACOM120V,2037,463.33333333333303,k$/MW,PublicTransportBattery electricityCharging StationCommercial120V2035
+TO,PUBTRABELCSTACOM240V,2037,556.0,k$/MW,PublicTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCSTAPUB240V,2037,556.0,k$/MW,PublicTransportBattery electricityCharging StationPublic240V2023
+TO,PUBTRABELCSTARES120V,2037,517.0027777777782,k$/MW,PublicTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTARES240V,2037,556.0,k$/MW,PublicTransportBattery electricityCharging StationResidential240V2023
+TO,FRETRABELCFSTAFREFA,2037,553.066666666667,k$/MW,FreightTransportBattery electricity freightCharging StationFreightFast2023
+TO,FRETRABELCFSTAFRESL,2037,408.54,k$/MW,FreightTransportBattery electricity freightCharging StationFreightSlow2023
+TO,FRETRABELCSTACOM120V,2037,116.66666666666654,k$/MW,FreightTransportBattery electricityCharging StationCommercial120V2035
+TO,FRETRABELCSTACOM240V,2037,140.0,k$/MW,FreightTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCFSTAFREFA,2037,553.066666666667,k$/MW,PublicTransportBattery electricity freightCharging StationFreightFast2023
+TO,PUBTRABELCFSTAFRESL,2037,408.54,k$/MW,PublicTransportBattery electricity freightCharging StationFreightSlow2023
+TO,LDITRABELCSTACOM120V,2038,453.33333333333303,k$/MW,Long DistanceTransportBattery electricityCharging StationCommercial120V2035
+TO,LDITRABELCSTACOM240V,2038,544.0,k$/MW,Long DistanceTransportBattery electricityCharging StationCommercial240V2023
+TO,LDITRABELCSTAPUB240V,2038,544.0,k$/MW,Long DistanceTransportBattery electricityCharging StationPublic240V2023
+TO,LDITRABELCSTARES120V,2038,505.8444444444449,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential120V2023
+TO,LDITRABELCSTARES240V,2038,544.0,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTACOM120V,2038,453.33333333333303,k$/MW,PassengerTransportBattery electricityCharging StationCommercial120V2035
+TO,PASTRABELCSTACOM240V,2038,544.0,k$/MW,PassengerTransportBattery electricityCharging StationCommercial240V2023
+TO,PASTRABELCSTAPUB240V,2038,544.0,k$/MW,PassengerTransportBattery electricityCharging StationPublic240V2023
+TO,PASTRABELCSTARES240V,2038,544.0,k$/MW,PassengerTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTARES120V,2038,505.8444444444449,k$/MW,PassengerTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTACOM120V,2038,453.33333333333303,k$/MW,PublicTransportBattery electricityCharging StationCommercial120V2035
+TO,PUBTRABELCSTACOM240V,2038,544.0,k$/MW,PublicTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCSTAPUB240V,2038,544.0,k$/MW,PublicTransportBattery electricityCharging StationPublic240V2023
+TO,PUBTRABELCSTARES120V,2038,505.8444444444449,k$/MW,PublicTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTARES240V,2038,544.0,k$/MW,PublicTransportBattery electricityCharging StationResidential240V2023
+TO,FRETRABELCFSTAFREFA,2038,553.066666666667,k$/MW,FreightTransportBattery electricity freightCharging StationFreightFast2023
+TO,FRETRABELCFSTAFRESL,2038,408.54,k$/MW,FreightTransportBattery electricity freightCharging StationFreightSlow2023
+TO,FRETRABELCSTACOM120V,2038,133.3333333333332,k$/MW,FreightTransportBattery electricityCharging StationCommercial120V2035
+TO,FRETRABELCSTACOM240V,2038,160.0,k$/MW,FreightTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCFSTAFREFA,2038,553.066666666667,k$/MW,PublicTransportBattery electricity freightCharging StationFreightFast2023
+TO,PUBTRABELCFSTAFRESL,2038,408.54,k$/MW,PublicTransportBattery electricity freightCharging StationFreightSlow2023
+TO,LDITRABELCSTACOM120V,2039,443.33333333333303,k$/MW,Long DistanceTransportBattery electricityCharging StationCommercial120V2035
+TO,LDITRABELCSTACOM240V,2039,532.0,k$/MW,Long DistanceTransportBattery electricityCharging StationCommercial240V2023
+TO,LDITRABELCSTAPUB240V,2039,532.0,k$/MW,Long DistanceTransportBattery electricityCharging StationPublic240V2023
+TO,LDITRABELCSTARES120V,2039,494.6861111111116,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential120V2023
+TO,LDITRABELCSTARES240V,2039,532.0,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTACOM120V,2039,443.33333333333303,k$/MW,PassengerTransportBattery electricityCharging StationCommercial120V2035
+TO,PASTRABELCSTACOM240V,2039,532.0,k$/MW,PassengerTransportBattery electricityCharging StationCommercial240V2023
+TO,PASTRABELCSTAPUB240V,2039,532.0,k$/MW,PassengerTransportBattery electricityCharging StationPublic240V2023
+TO,PASTRABELCSTARES240V,2039,532.0,k$/MW,PassengerTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTARES120V,2039,494.6861111111116,k$/MW,PassengerTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTACOM120V,2039,443.33333333333303,k$/MW,PublicTransportBattery electricityCharging StationCommercial120V2035
+TO,PUBTRABELCSTACOM240V,2039,532.0,k$/MW,PublicTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCSTAPUB240V,2039,532.0,k$/MW,PublicTransportBattery electricityCharging StationPublic240V2023
+TO,PUBTRABELCSTARES120V,2039,494.6861111111116,k$/MW,PublicTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTARES240V,2039,532.0,k$/MW,PublicTransportBattery electricityCharging StationResidential240V2023
+TO,FRETRABELCFSTAFREFA,2039,553.066666666667,k$/MW,FreightTransportBattery electricity freightCharging StationFreightFast2023
+TO,FRETRABELCFSTAFRESL,2039,408.54,k$/MW,FreightTransportBattery electricity freightCharging StationFreightSlow2023
+TO,FRETRABELCSTACOM120V,2039,149.99999999999986,k$/MW,FreightTransportBattery electricityCharging StationCommercial120V2035
+TO,FRETRABELCSTACOM240V,2039,180.0,k$/MW,FreightTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCFSTAFREFA,2039,553.066666666667,k$/MW,PublicTransportBattery electricity freightCharging StationFreightFast2023
+TO,PUBTRABELCFSTAFRESL,2039,408.54,k$/MW,PublicTransportBattery electricity freightCharging StationFreightSlow2023
+TO,LDITRABELCSTACOM120V,2040,433.33333333333303,k$/MW,Long DistanceTransportBattery electricityCharging StationCommercial120V2035
+TO,LDITRABELCSTACOM240V,2040,520.0,k$/MW,Long DistanceTransportBattery electricityCharging StationCommercial240V2023
+TO,LDITRABELCSTAPUB240V,2040,520.0,k$/MW,Long DistanceTransportBattery electricityCharging StationPublic240V2023
+TO,LDITRABELCSTARES120V,2040,483.5277777777783,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential120V2023
+TO,LDITRABELCSTARES240V,2040,520.0,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTACOM120V,2040,433.33333333333303,k$/MW,PassengerTransportBattery electricityCharging StationCommercial120V2035
+TO,PASTRABELCSTACOM240V,2040,520.0,k$/MW,PassengerTransportBattery electricityCharging StationCommercial240V2023
+TO,PASTRABELCSTAPUB240V,2040,520.0,k$/MW,PassengerTransportBattery electricityCharging StationPublic240V2023
+TO,PASTRABELCSTARES240V,2040,520.0,k$/MW,PassengerTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTARES120V,2040,483.5277777777783,k$/MW,PassengerTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTACOM120V,2040,433.33333333333303,k$/MW,PublicTransportBattery electricityCharging StationCommercial120V2035
+TO,PUBTRABELCSTACOM240V,2040,520.0,k$/MW,PublicTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCSTAPUB240V,2040,520.0,k$/MW,PublicTransportBattery electricityCharging StationPublic240V2023
+TO,PUBTRABELCSTARES120V,2040,483.5277777777783,k$/MW,PublicTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTARES240V,2040,520.0,k$/MW,PublicTransportBattery electricityCharging StationResidential240V2023
+TO,FRETRABELCFSTAFREFA,2040,553.066666666667,k$/MW,FreightTransportBattery electricity freightCharging StationFreightFast2023
+TO,FRETRABELCFSTAFRESL,2040,408.54,k$/MW,FreightTransportBattery electricity freightCharging StationFreightSlow2023
+TO,FRETRABELCSTACOM120V,2040,166.66666666666652,k$/MW,FreightTransportBattery electricityCharging StationCommercial120V2035
+TO,FRETRABELCSTACOM240V,2040,200.0,k$/MW,FreightTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCFSTAFREFA,2040,553.066666666667,k$/MW,PublicTransportBattery electricity freightCharging StationFreightFast2023
+TO,PUBTRABELCFSTAFRESL,2040,408.54,k$/MW,PublicTransportBattery electricity freightCharging StationFreightSlow2023
+TO,LDITRABELCSTACOM120V,2041,423.33333333333303,k$/MW,Long DistanceTransportBattery electricityCharging StationCommercial120V2035
+TO,LDITRABELCSTACOM240V,2041,508.0,k$/MW,Long DistanceTransportBattery electricityCharging StationCommercial240V2023
+TO,LDITRABELCSTAPUB240V,2041,508.0,k$/MW,Long DistanceTransportBattery electricityCharging StationPublic240V2023
+TO,LDITRABELCSTARES120V,2041,472.3694444444449,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential120V2023
+TO,LDITRABELCSTARES240V,2041,508.0,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTACOM120V,2041,423.33333333333303,k$/MW,PassengerTransportBattery electricityCharging StationCommercial120V2035
+TO,PASTRABELCSTACOM240V,2041,508.0,k$/MW,PassengerTransportBattery electricityCharging StationCommercial240V2023
+TO,PASTRABELCSTAPUB240V,2041,508.0,k$/MW,PassengerTransportBattery electricityCharging StationPublic240V2023
+TO,PASTRABELCSTARES240V,2041,508.0,k$/MW,PassengerTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTARES120V,2041,472.3694444444449,k$/MW,PassengerTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTACOM120V,2041,423.33333333333303,k$/MW,PublicTransportBattery electricityCharging StationCommercial120V2035
+TO,PUBTRABELCSTACOM240V,2041,508.0,k$/MW,PublicTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCSTAPUB240V,2041,508.0,k$/MW,PublicTransportBattery electricityCharging StationPublic240V2023
+TO,PUBTRABELCSTARES120V,2041,472.3694444444449,k$/MW,PublicTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTARES240V,2041,508.0,k$/MW,PublicTransportBattery electricityCharging StationResidential240V2023
+TO,FRETRABELCFSTAFREFA,2041,553.066666666667,k$/MW,FreightTransportBattery electricity freightCharging StationFreightFast2023
+TO,FRETRABELCFSTAFRESL,2041,408.54,k$/MW,FreightTransportBattery electricity freightCharging StationFreightSlow2023
+TO,FRETRABELCSTACOM120V,2041,183.33333333333314,k$/MW,FreightTransportBattery electricityCharging StationCommercial120V2035
+TO,FRETRABELCSTACOM240V,2041,220.0,k$/MW,FreightTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCFSTAFREFA,2041,553.066666666667,k$/MW,PublicTransportBattery electricity freightCharging StationFreightFast2023
+TO,PUBTRABELCFSTAFRESL,2041,408.54,k$/MW,PublicTransportBattery electricity freightCharging StationFreightSlow2023
+TO,LDITRABELCSTACOM120V,2042,413.33333333333303,k$/MW,Long DistanceTransportBattery electricityCharging StationCommercial120V2035
+TO,LDITRABELCSTACOM240V,2042,496.0,k$/MW,Long DistanceTransportBattery electricityCharging StationCommercial240V2023
+TO,LDITRABELCSTAPUB240V,2042,496.0,k$/MW,Long DistanceTransportBattery electricityCharging StationPublic240V2023
+TO,LDITRABELCSTARES120V,2042,461.21111111111156,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential120V2023
+TO,LDITRABELCSTARES240V,2042,496.0,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTACOM120V,2042,413.33333333333303,k$/MW,PassengerTransportBattery electricityCharging StationCommercial120V2035
+TO,PASTRABELCSTACOM240V,2042,496.0,k$/MW,PassengerTransportBattery electricityCharging StationCommercial240V2023
+TO,PASTRABELCSTAPUB240V,2042,496.0,k$/MW,PassengerTransportBattery electricityCharging StationPublic240V2023
+TO,PASTRABELCSTARES240V,2042,496.0,k$/MW,PassengerTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTARES120V,2042,461.21111111111156,k$/MW,PassengerTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTACOM120V,2042,413.33333333333303,k$/MW,PublicTransportBattery electricityCharging StationCommercial120V2035
+TO,PUBTRABELCSTACOM240V,2042,496.0,k$/MW,PublicTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCSTAPUB240V,2042,496.0,k$/MW,PublicTransportBattery electricityCharging StationPublic240V2023
+TO,PUBTRABELCSTARES120V,2042,461.21111111111156,k$/MW,PublicTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTARES240V,2042,496.0,k$/MW,PublicTransportBattery electricityCharging StationResidential240V2023
+TO,FRETRABELCFSTAFREFA,2042,553.066666666667,k$/MW,FreightTransportBattery electricity freightCharging StationFreightFast2023
+TO,FRETRABELCFSTAFRESL,2042,408.54,k$/MW,FreightTransportBattery electricity freightCharging StationFreightSlow2023
+TO,FRETRABELCSTACOM120V,2042,199.9999999999998,k$/MW,FreightTransportBattery electricityCharging StationCommercial120V2035
+TO,FRETRABELCSTACOM240V,2042,240.0,k$/MW,FreightTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCFSTAFREFA,2042,553.066666666667,k$/MW,PublicTransportBattery electricity freightCharging StationFreightFast2023
+TO,PUBTRABELCFSTAFRESL,2042,408.54,k$/MW,PublicTransportBattery electricity freightCharging StationFreightSlow2023
+TO,LDITRABELCSTACOM120V,2043,403.33333333333303,k$/MW,Long DistanceTransportBattery electricityCharging StationCommercial120V2035
+TO,LDITRABELCSTACOM240V,2043,484.0,k$/MW,Long DistanceTransportBattery electricityCharging StationCommercial240V2023
+TO,LDITRABELCSTAPUB240V,2043,484.0,k$/MW,Long DistanceTransportBattery electricityCharging StationPublic240V2023
+TO,LDITRABELCSTARES120V,2043,450.05277777777826,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential120V2023
+TO,LDITRABELCSTARES240V,2043,484.0,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTACOM120V,2043,403.33333333333303,k$/MW,PassengerTransportBattery electricityCharging StationCommercial120V2035
+TO,PASTRABELCSTACOM240V,2043,484.0,k$/MW,PassengerTransportBattery electricityCharging StationCommercial240V2023
+TO,PASTRABELCSTAPUB240V,2043,484.0,k$/MW,PassengerTransportBattery electricityCharging StationPublic240V2023
+TO,PASTRABELCSTARES240V,2043,484.0,k$/MW,PassengerTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTARES120V,2043,450.05277777777826,k$/MW,PassengerTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTACOM120V,2043,403.33333333333303,k$/MW,PublicTransportBattery electricityCharging StationCommercial120V2035
+TO,PUBTRABELCSTACOM240V,2043,484.0,k$/MW,PublicTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCSTAPUB240V,2043,484.0,k$/MW,PublicTransportBattery electricityCharging StationPublic240V2023
+TO,PUBTRABELCSTARES120V,2043,450.05277777777826,k$/MW,PublicTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTARES240V,2043,484.0,k$/MW,PublicTransportBattery electricityCharging StationResidential240V2023
+TO,FRETRABELCFSTAFREFA,2043,553.066666666667,k$/MW,FreightTransportBattery electricity freightCharging StationFreightFast2023
+TO,FRETRABELCFSTAFRESL,2043,408.54,k$/MW,FreightTransportBattery electricity freightCharging StationFreightSlow2023
+TO,FRETRABELCSTACOM120V,2043,216.66666666666646,k$/MW,FreightTransportBattery electricityCharging StationCommercial120V2035
+TO,FRETRABELCSTACOM240V,2043,260.0,k$/MW,FreightTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCFSTAFREFA,2043,553.066666666667,k$/MW,PublicTransportBattery electricity freightCharging StationFreightFast2023
+TO,PUBTRABELCFSTAFRESL,2043,408.54,k$/MW,PublicTransportBattery electricity freightCharging StationFreightSlow2023
+TO,LDITRABELCSTACOM120V,2044,393.33333333333303,k$/MW,Long DistanceTransportBattery electricityCharging StationCommercial120V2035
+TO,LDITRABELCSTACOM240V,2044,472.0,k$/MW,Long DistanceTransportBattery electricityCharging StationCommercial240V2023
+TO,LDITRABELCSTAPUB240V,2044,472.0,k$/MW,Long DistanceTransportBattery electricityCharging StationPublic240V2023
+TO,LDITRABELCSTARES120V,2044,438.89444444444496,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential120V2023
+TO,LDITRABELCSTARES240V,2044,472.0,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTACOM120V,2044,393.33333333333303,k$/MW,PassengerTransportBattery electricityCharging StationCommercial120V2035
+TO,PASTRABELCSTACOM240V,2044,472.0,k$/MW,PassengerTransportBattery electricityCharging StationCommercial240V2023
+TO,PASTRABELCSTAPUB240V,2044,472.0,k$/MW,PassengerTransportBattery electricityCharging StationPublic240V2023
+TO,PASTRABELCSTARES240V,2044,472.0,k$/MW,PassengerTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTARES120V,2044,438.89444444444496,k$/MW,PassengerTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTACOM120V,2044,393.33333333333303,k$/MW,PublicTransportBattery electricityCharging StationCommercial120V2035
+TO,PUBTRABELCSTACOM240V,2044,472.0,k$/MW,PublicTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCSTAPUB240V,2044,472.0,k$/MW,PublicTransportBattery electricityCharging StationPublic240V2023
+TO,PUBTRABELCSTARES120V,2044,438.89444444444496,k$/MW,PublicTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTARES240V,2044,472.0,k$/MW,PublicTransportBattery electricityCharging StationResidential240V2023
+TO,FRETRABELCFSTAFREFA,2044,553.066666666667,k$/MW,FreightTransportBattery electricity freightCharging StationFreightFast2023
+TO,FRETRABELCFSTAFRESL,2044,408.54,k$/MW,FreightTransportBattery electricity freightCharging StationFreightSlow2023
+TO,FRETRABELCSTACOM120V,2044,233.3333333333331,k$/MW,FreightTransportBattery electricityCharging StationCommercial120V2035
+TO,FRETRABELCSTACOM240V,2044,280.0,k$/MW,FreightTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCFSTAFREFA,2044,553.066666666667,k$/MW,PublicTransportBattery electricity freightCharging StationFreightFast2023
+TO,PUBTRABELCFSTAFRESL,2044,408.54,k$/MW,PublicTransportBattery electricity freightCharging StationFreightSlow2023
+TO,LDITRABELCSTACOM120V,2045,383.33333333333303,k$/MW,Long DistanceTransportBattery electricityCharging StationCommercial120V2035
+TO,LDITRABELCSTACOM240V,2045,460.0,k$/MW,Long DistanceTransportBattery electricityCharging StationCommercial240V2023
+TO,LDITRABELCSTAPUB240V,2045,460.0,k$/MW,Long DistanceTransportBattery electricityCharging StationPublic240V2023
+TO,LDITRABELCSTARES120V,2045,427.73611111111165,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential120V2023
+TO,LDITRABELCSTARES240V,2045,460.0,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTACOM120V,2045,383.33333333333303,k$/MW,PassengerTransportBattery electricityCharging StationCommercial120V2035
+TO,PASTRABELCSTACOM240V,2045,460.0,k$/MW,PassengerTransportBattery electricityCharging StationCommercial240V2023
+TO,PASTRABELCSTAPUB240V,2045,460.0,k$/MW,PassengerTransportBattery electricityCharging StationPublic240V2023
+TO,PASTRABELCSTARES240V,2045,460.0,k$/MW,PassengerTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTARES120V,2045,427.73611111111165,k$/MW,PassengerTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTACOM120V,2045,383.33333333333303,k$/MW,PublicTransportBattery electricityCharging StationCommercial120V2035
+TO,PUBTRABELCSTACOM240V,2045,460.0,k$/MW,PublicTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCSTAPUB240V,2045,460.0,k$/MW,PublicTransportBattery electricityCharging StationPublic240V2023
+TO,PUBTRABELCSTARES120V,2045,427.73611111111165,k$/MW,PublicTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTARES240V,2045,460.0,k$/MW,PublicTransportBattery electricityCharging StationResidential240V2023
+TO,FRETRABELCFSTAFREFA,2045,553.066666666667,k$/MW,FreightTransportBattery electricity freightCharging StationFreightFast2023
+TO,FRETRABELCFSTAFRESL,2045,408.54,k$/MW,FreightTransportBattery electricity freightCharging StationFreightSlow2023
+TO,FRETRABELCSTACOM120V,2045,249.99999999999974,k$/MW,FreightTransportBattery electricityCharging StationCommercial120V2035
+TO,FRETRABELCSTACOM240V,2045,300.0,k$/MW,FreightTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCFSTAFREFA,2045,553.066666666667,k$/MW,PublicTransportBattery electricity freightCharging StationFreightFast2023
+TO,PUBTRABELCFSTAFRESL,2045,408.54,k$/MW,PublicTransportBattery electricity freightCharging StationFreightSlow2023
+TO,LDITRABELCSTACOM120V,2046,373.33333333333303,k$/MW,Long DistanceTransportBattery electricityCharging StationCommercial120V2035
+TO,LDITRABELCSTACOM240V,2046,448.0,k$/MW,Long DistanceTransportBattery electricityCharging StationCommercial240V2023
+TO,LDITRABELCSTAPUB240V,2046,448.0,k$/MW,Long DistanceTransportBattery electricityCharging StationPublic240V2023
+TO,LDITRABELCSTARES120V,2046,416.57777777777835,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential120V2023
+TO,LDITRABELCSTARES240V,2046,448.0,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTACOM120V,2046,373.33333333333303,k$/MW,PassengerTransportBattery electricityCharging StationCommercial120V2035
+TO,PASTRABELCSTACOM240V,2046,448.0,k$/MW,PassengerTransportBattery electricityCharging StationCommercial240V2023
+TO,PASTRABELCSTAPUB240V,2046,448.0,k$/MW,PassengerTransportBattery electricityCharging StationPublic240V2023
+TO,PASTRABELCSTARES240V,2046,448.0,k$/MW,PassengerTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTARES120V,2046,416.57777777777835,k$/MW,PassengerTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTACOM120V,2046,373.33333333333303,k$/MW,PublicTransportBattery electricityCharging StationCommercial120V2035
+TO,PUBTRABELCSTACOM240V,2046,448.0,k$/MW,PublicTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCSTAPUB240V,2046,448.0,k$/MW,PublicTransportBattery electricityCharging StationPublic240V2023
+TO,PUBTRABELCSTARES120V,2046,416.57777777777835,k$/MW,PublicTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTARES240V,2046,448.0,k$/MW,PublicTransportBattery electricityCharging StationResidential240V2023
+TO,FRETRABELCFSTAFREFA,2046,553.066666666667,k$/MW,FreightTransportBattery electricity freightCharging StationFreightFast2023
+TO,FRETRABELCFSTAFRESL,2046,408.54,k$/MW,FreightTransportBattery electricity freightCharging StationFreightSlow2023
+TO,FRETRABELCSTACOM120V,2046,266.6666666666664,k$/MW,FreightTransportBattery electricityCharging StationCommercial120V2035
+TO,FRETRABELCSTACOM240V,2046,320.0,k$/MW,FreightTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCFSTAFREFA,2046,553.066666666667,k$/MW,PublicTransportBattery electricity freightCharging StationFreightFast2023
+TO,PUBTRABELCFSTAFRESL,2046,408.54,k$/MW,PublicTransportBattery electricity freightCharging StationFreightSlow2023
+TO,LDITRABELCSTACOM120V,2047,363.33333333333303,k$/MW,Long DistanceTransportBattery electricityCharging StationCommercial120V2035
+TO,LDITRABELCSTACOM240V,2047,436.0,k$/MW,Long DistanceTransportBattery electricityCharging StationCommercial240V2023
+TO,LDITRABELCSTAPUB240V,2047,436.0,k$/MW,Long DistanceTransportBattery electricityCharging StationPublic240V2023
+TO,LDITRABELCSTARES120V,2047,405.419444444445,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential120V2023
+TO,LDITRABELCSTARES240V,2047,436.0,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTACOM120V,2047,363.33333333333303,k$/MW,PassengerTransportBattery electricityCharging StationCommercial120V2035
+TO,PASTRABELCSTACOM240V,2047,436.0,k$/MW,PassengerTransportBattery electricityCharging StationCommercial240V2023
+TO,PASTRABELCSTAPUB240V,2047,436.0,k$/MW,PassengerTransportBattery electricityCharging StationPublic240V2023
+TO,PASTRABELCSTARES240V,2047,436.0,k$/MW,PassengerTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTARES120V,2047,405.419444444445,k$/MW,PassengerTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTACOM120V,2047,363.33333333333303,k$/MW,PublicTransportBattery electricityCharging StationCommercial120V2035
+TO,PUBTRABELCSTACOM240V,2047,436.0,k$/MW,PublicTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCSTAPUB240V,2047,436.0,k$/MW,PublicTransportBattery electricityCharging StationPublic240V2023
+TO,PUBTRABELCSTARES120V,2047,405.419444444445,k$/MW,PublicTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTARES240V,2047,436.0,k$/MW,PublicTransportBattery electricityCharging StationResidential240V2023
+TO,FRETRABELCFSTAFREFA,2047,553.066666666667,k$/MW,FreightTransportBattery electricity freightCharging StationFreightFast2023
+TO,FRETRABELCFSTAFRESL,2047,408.54,k$/MW,FreightTransportBattery electricity freightCharging StationFreightSlow2023
+TO,FRETRABELCSTACOM120V,2047,283.33333333333303,k$/MW,FreightTransportBattery electricityCharging StationCommercial120V2035
+TO,FRETRABELCSTACOM240V,2047,340.0,k$/MW,FreightTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCFSTAFREFA,2047,553.066666666667,k$/MW,PublicTransportBattery electricity freightCharging StationFreightFast2023
+TO,PUBTRABELCFSTAFRESL,2047,408.54,k$/MW,PublicTransportBattery electricity freightCharging StationFreightSlow2023
+TO,LDITRABELCSTACOM120V,2048,353.33333333333303,k$/MW,Long DistanceTransportBattery electricityCharging StationCommercial120V2035
+TO,LDITRABELCSTACOM240V,2048,424.0,k$/MW,Long DistanceTransportBattery electricityCharging StationCommercial240V2023
+TO,LDITRABELCSTAPUB240V,2048,424.0,k$/MW,Long DistanceTransportBattery electricityCharging StationPublic240V2023
+TO,LDITRABELCSTARES120V,2048,394.2611111111117,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential120V2023
+TO,LDITRABELCSTARES240V,2048,424.0,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTACOM120V,2048,353.33333333333303,k$/MW,PassengerTransportBattery electricityCharging StationCommercial120V2035
+TO,PASTRABELCSTACOM240V,2048,424.0,k$/MW,PassengerTransportBattery electricityCharging StationCommercial240V2023
+TO,PASTRABELCSTAPUB240V,2048,424.0,k$/MW,PassengerTransportBattery electricityCharging StationPublic240V2023
+TO,PASTRABELCSTARES240V,2048,424.0,k$/MW,PassengerTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTARES120V,2048,394.2611111111117,k$/MW,PassengerTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTACOM120V,2048,353.33333333333303,k$/MW,PublicTransportBattery electricityCharging StationCommercial120V2035
+TO,PUBTRABELCSTACOM240V,2048,424.0,k$/MW,PublicTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCSTAPUB240V,2048,424.0,k$/MW,PublicTransportBattery electricityCharging StationPublic240V2023
+TO,PUBTRABELCSTARES120V,2048,394.2611111111117,k$/MW,PublicTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTARES240V,2048,424.0,k$/MW,PublicTransportBattery electricityCharging StationResidential240V2023
+TO,FRETRABELCFSTAFREFA,2048,553.066666666667,k$/MW,FreightTransportBattery electricity freightCharging StationFreightFast2023
+TO,FRETRABELCFSTAFRESL,2048,408.54,k$/MW,FreightTransportBattery electricity freightCharging StationFreightSlow2023
+TO,FRETRABELCSTACOM120V,2048,299.9999999999997,k$/MW,FreightTransportBattery electricityCharging StationCommercial120V2035
+TO,FRETRABELCSTACOM240V,2048,360.0,k$/MW,FreightTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCFSTAFREFA,2048,553.066666666667,k$/MW,PublicTransportBattery electricity freightCharging StationFreightFast2023
+TO,PUBTRABELCFSTAFRESL,2048,408.54,k$/MW,PublicTransportBattery electricity freightCharging StationFreightSlow2023
+TO,LDITRABELCSTACOM120V,2049,343.333333333333,k$/MW,Long DistanceTransportBattery electricityCharging StationCommercial120V2035
+TO,LDITRABELCSTACOM240V,2049,412.0,k$/MW,Long DistanceTransportBattery electricityCharging StationCommercial240V2023
+TO,LDITRABELCSTAPUB240V,2049,412.0,k$/MW,Long DistanceTransportBattery electricityCharging StationPublic240V2023
+TO,LDITRABELCSTARES120V,2049,383.10277777777833,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential120V2023
+TO,LDITRABELCSTARES240V,2049,412.0,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTACOM120V,2049,343.333333333333,k$/MW,PassengerTransportBattery electricityCharging StationCommercial120V2035
+TO,PASTRABELCSTACOM240V,2049,412.0,k$/MW,PassengerTransportBattery electricityCharging StationCommercial240V2023
+TO,PASTRABELCSTAPUB240V,2049,412.0,k$/MW,PassengerTransportBattery electricityCharging StationPublic240V2023
+TO,PASTRABELCSTARES240V,2049,412.0,k$/MW,PassengerTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTARES120V,2049,383.10277777777833,k$/MW,PassengerTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTACOM120V,2049,343.333333333333,k$/MW,PublicTransportBattery electricityCharging StationCommercial120V2035
+TO,PUBTRABELCSTACOM240V,2049,412.0,k$/MW,PublicTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCSTAPUB240V,2049,412.0,k$/MW,PublicTransportBattery electricityCharging StationPublic240V2023
+TO,PUBTRABELCSTARES120V,2049,383.10277777777833,k$/MW,PublicTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTARES240V,2049,412.0,k$/MW,PublicTransportBattery electricityCharging StationResidential240V2023
+TO,FRETRABELCFSTAFREFA,2049,553.066666666667,k$/MW,FreightTransportBattery electricity freightCharging StationFreightFast2023
+TO,FRETRABELCFSTAFRESL,2049,408.54,k$/MW,FreightTransportBattery electricity freightCharging StationFreightSlow2023
+TO,FRETRABELCSTACOM120V,2049,316.66666666666634,k$/MW,FreightTransportBattery electricityCharging StationCommercial120V2035
+TO,FRETRABELCSTACOM240V,2049,380.0,k$/MW,FreightTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCFSTAFREFA,2049,553.066666666667,k$/MW,PublicTransportBattery electricity freightCharging StationFreightFast2023
+TO,PUBTRABELCFSTAFRESL,2049,408.54,k$/MW,PublicTransportBattery electricity freightCharging StationFreightSlow2023
+TO,LDITRABELCSTACOM120V,2050,333.333333333333,k$/MW,Long DistanceTransportBattery electricityCharging StationCommercial120V2035
+TO,LDITRABELCSTACOM240V,2050,400.0,k$/MW,Long DistanceTransportBattery electricityCharging StationCommercial240V2023
+TO,LDITRABELCSTAPUB240V,2050,400.0,k$/MW,Long DistanceTransportBattery electricityCharging StationPublic240V2023
+TO,LDITRABELCSTARES120V,2050,371.944444444445,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential120V2023
+TO,LDITRABELCSTARES240V,2050,400.0,k$/MW,Long DistanceTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTACOM120V,2050,333.333333333333,k$/MW,PassengerTransportBattery electricityCharging StationCommercial120V2035
+TO,PASTRABELCSTACOM240V,2050,400.0,k$/MW,PassengerTransportBattery electricityCharging StationCommercial240V2023
+TO,PASTRABELCSTAPUB240V,2050,400.0,k$/MW,PassengerTransportBattery electricityCharging StationPublic240V2023
+TO,PASTRABELCSTARES240V,2050,400.0,k$/MW,PassengerTransportBattery electricityCharging StationResidential240V2023
+TO,PASTRABELCSTARES120V,2050,371.944444444445,k$/MW,PassengerTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTACOM120V,2050,333.333333333333,k$/MW,PublicTransportBattery electricityCharging StationCommercial120V2035
+TO,PUBTRABELCSTACOM240V,2050,400.0,k$/MW,PublicTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCSTAPUB240V,2050,400.0,k$/MW,PublicTransportBattery electricityCharging StationPublic240V2023
+TO,PUBTRABELCSTARES120V,2050,371.944444444445,k$/MW,PublicTransportBattery electricityCharging StationResidential120V2023
+TO,PUBTRABELCSTARES240V,2050,400.0,k$/MW,PublicTransportBattery electricityCharging StationResidential240V2023
+TO,FRETRABELCFSTAFREFA,2050,553.066666666667,k$/MW,FreightTransportBattery electricity freightCharging StationFreightFast2023
+TO,FRETRABELCFSTAFRESL,2050,408.54,k$/MW,FreightTransportBattery electricity freightCharging StationFreightSlow2023
+TO,FRETRABELCSTACOM120V,2050,333.333333333333,k$/MW,FreightTransportBattery electricityCharging StationCommercial120V2035
+TO,FRETRABELCSTACOM240V,2050,400.0,k$/MW,FreightTransportBattery electricityCharging StationCommercial240V2023
+TO,PUBTRABELCFSTAFREFA,2050,553.066666666667,k$/MW,PublicTransportBattery electricity freightCharging StationFreightFast2023
+TO,PUBTRABELCFSTAFRESL,2050,408.54,k$/MW,PublicTransportBattery electricity freightCharging StationFreightSlow2023

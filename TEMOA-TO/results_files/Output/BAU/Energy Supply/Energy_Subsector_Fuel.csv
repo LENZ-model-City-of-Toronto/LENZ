@@ -1,0 +1,1485 @@
+"Energy consumed per sector, subsector, per fuel or input, per period (TJ)"
+t_periods,sector,Fuel,VFlow_In
+2016,Commercial building,Bio Methane,415.0670289875626
+2016,Commercial building,District Cooling,1253.6207927359526
+2016,Commercial building,District Heating,3932.500776263973
+2016,Commercial building,Electricity,53967.92704086939
+2016,Commercial building,Heavy Fuel Oil,4.8574631367394865
+2016,Commercial building,Kerosene,4.858183512271478
+2016,Commercial building,Light Fuel Oil,425.71275055148374
+2016,Commercial building,Natural Gas,45362.46148032523
+2016,Commercial building,Propane,2988.2987007676193
+2016,Commercial building,Synthetic Gas,3.0346920055589846
+2016,District Energy,Bio Methane,397.0865508808141
+2016,District Energy,Electricity,624.5109393535163
+2016,District Energy,Natural Gas,7544.644466695851
+2016,Freight transportation,Aviation Gasoline,0.3143098267140841
+2016,Freight transportation,Aviation Turbo Fuel,29.495220434172257
+2016,Freight transportation,Diesel,12354.016871668677
+2016,Freight transportation,Gasoline,11014.809967664421
+2016,Freight transportation,Heavy Fuel Oil,148.09428786647584
+2016,Freight transportation,Propane,697.2739493950712
+2016,Industrial building,Biomass,85.1967154587831
+2016,Industrial building,Coal,98.08383849205313
+2016,Industrial building,Electricity,5444.763993003266
+2016,Industrial building,Heavy Fuel Oil,128.59177955775107
+2016,Industrial building,Light Fuel Oil,547.6848508303146
+2016,Industrial building,Natural Gas,15288.732557341917
+2016,Industrial building,Pet Coke,236.9516622678643
+2016,Industrial building,Propane,118.13352608900225
+2016,Long distance transportation,Aviation Gasoline,0.4811712423238333
+2016,Long distance transportation,Aviation Turbo Fuel,1507.1473706325937
+2016,Long distance transportation,Biodiesel,0.13318735701091483
+2016,Long distance transportation,Bio Jet,0.2614397297644242
+2016,Long distance transportation,Diesel,964.6088013230642
+2016,Long distance transportation,Ethanol,0.12383646306605015
+2016,Long distance transportation,Gasoline,0.17024270446268985
+2016,Long distance transportation,Synthetic Jet,0.2614397297644242
+2016,Passenger transportation,Biodiesel,0.21770503996166773
+2016,Passenger transportation,Battery Electric Vehicle,2.231969578042254
+2016,Passenger transportation,Bio Methane,0.01963217051770556
+2016,Passenger transportation,Cellulosic Ethanol,0.0017443738350055552
+2016,Passenger transportation,Diesel,6232.159426188521
+2016,Passenger transportation,Electricity,1922.2555293666785
+2016,Passenger transportation,Ethanol,1567.499079878995
+2016,Passenger transportation,Gasoline,61851.30462563938
+2016,Passenger transportation,Natural Gas,775.2800415383791
+2016,Passenger transportation,Propane,426.6858292197879
+2016,Passenger transportation,Renewable Diesel,0.026352771439613877
+2016,Passenger transportation,Synthetic Gas,0.01260831109226207
+2016,Passenger transportation,Synthetic Methane,0.012608311092262067
+2016,Public building,Bio Methane,58.044592535110404
+2016,Public building,District Cooling,243.38231036457202
+2016,Public building,District Heating,1822.894878685658
+2016,Public building,Electricity,6485.882475171423
+2016,Public building,Heavy Fuel Oil,0.36332985835076337
+2016,Public building,Kerosene,0.3633275038631095
+2016,Public building,Light Fuel Oil,344.0565596644278
+2016,Public building,Natural Gas,8772.617614968218
+2016,Public building,Synthetic Gas,0.7380950108395632
+2016,Public transportation,Biodiesel,0.06911319841500944
+2016,Public transportation,Cellulosic Ethanol,0.010765371909414264
+2016,Public transportation,Diesel,554.535160661643
+2016,Public transportation,Ethanol,0.009468542243784643
+2016,Public transportation,FT Diesel,0.06911319841500944
+2016,Public transportation,Gasoline,677.2447520485723
+2016,Residential building,Biomass,213.6322863614691
+2016,Residential building,Bio Methane,289.2364528482819
+2016,Residential building,Wood Pellet,10.444515454344177
+2016,Residential building,District Cooling,81.12133104709069
+2016,Residential building,District Heating,1031.233897512441
+2016,Residential building,Electricity,22872.675417914226
+2016,Residential building,Hydrogen,0.2606345620186313
+2016,Residential building,Kerosene,6.437653718923448
+2016,Residential building,Light Fuel Oil,1030.0553149143918
+2016,Residential building,Natural Gas,74647.41594905671
+2016,Residential building,Propane,10.379302870796474
+2016,Residential building,Synthetic Gas,1.1235948238703253
+2016,Solid waste,Bio Methane,68.67868725118397
+2016,Solid waste,Natural Gas,2.8139709092939573
+2016,Water waste,Bio Methane,56.55961235171538
+2016,Water waste,Electricity,1326.9304277419872
+2016,Water waste,Fresh water,447.8899991078407
+2016,Water waste,Natural Gas,736.6680649387087
+2017,Commercial building,Bio Methane,494.0097379228981
+2017,Commercial building,District Cooling,1256.951069571001
+2017,Commercial building,District Heating,3333.3576208995964
+2017,Commercial building,Electricity,54820.53382181978
+2017,Commercial building,Heavy Fuel Oil,9.319604237496458
+2017,Commercial building,Kerosene,9.31935522122583
+2017,Commercial building,Light Fuel Oil,443.6319450291253
+2017,Commercial building,Natural Gas,45877.96144418354
+2017,Commercial building,Propane,2848.195722149631
+2017,Commercial building,Synthetic Gas,6.292891338585042
+2017,District Energy,Bio Methane,363.3196241038992
+2017,District Energy,Electricity,602.4745897512726
+2017,District Energy,Natural Gas,6903.072857953371
+2017,Freight transportation,Aviation Gasoline,0.4252519535567496
+2017,Freight transportation,Aviation Turbo Fuel,31.461880956546693
+2017,Freight transportation,Biodiesel,38.249557625242964
+2017,Freight transportation,Cellulosic Ethanol,0.22375908572545508
+2017,Freight transportation,Diesel,12077.778616033022
+2017,Freight transportation,Ethanol,607.1887108497813
+2017,Freight transportation,FT Diesel,2.5031870544038317
+2017,Freight transportation,Gasoline,10494.34263519802
+2017,Freight transportation,Heavy Fuel Oil,148.6356970845669
+2017,Freight transportation,Propane,701.0312640886972
+2017,Industrial building,Biomass,85.2955708321762
+2017,Industrial building,Coal,98.1976470400298
+2017,Industrial building,Electricity,5451.081656481096
+2017,Industrial building,Heavy Fuel Oil,128.7409870514119
+2017,Industrial building,Light Fuel Oil,548.3203400055089
+2017,Industrial building,Natural Gas,15306.472365241618
+2017,Industrial building,Pet Coke,237.2266017996063
+2017,Industrial building,Propane,118.27059867176993
+2017,Long distance transportation,Aviation Gasoline,0.8235437103734172
+2017,Long distance transportation,Aviation Turbo Fuel,1530.9018296613315
+2017,Long distance transportation,Biodiesel,3.6873899934401657
+2017,Long distance transportation,Bio Jet,0.48193664039314776
+2017,Long distance transportation,Diesel,967.3148073082286
+2017,Long distance transportation,Ethanol,0.31105078200302144
+2017,Long distance transportation,Gasoline,1.1291187957246709
+2017,Long distance transportation,Renewable Diesel,12.00600039057906
+2017,Long distance transportation,Synthetic Jet,0.4819366403931478
+2017,Passenger transportation,Biodiesel,31.220633081000614
+2017,Passenger transportation,Battery Electric Vehicle,1.6246961469884869
+2017,Passenger transportation,Bio Methane,0.11923015339926303
+2017,Passenger transportation,Cellulosic Ethanol,0.5911885864536445
+2017,Passenger transportation,Diesel,6231.958230468644
+2017,Passenger transportation,Electricity,1925.67747438768
+2017,Passenger transportation,Ethanol,3535.276107882565
+2017,Passenger transportation,Gasoline,60186.136501709814
+2017,Passenger transportation,Natural Gas,774.7858857925137
+2017,Passenger transportation,Propane,427.7274565034108
+2017,Passenger transportation,Renewable Diesel,0.13678995864436264
+2017,Passenger transportation,Synthetic Gas,0.06760975850524376
+2017,Passenger transportation,Synthetic Methane,0.06760975850524371
+2017,Public building,Bio Methane,86.32680009624447
+2017,Public building,District Cooling,246.37617323751596
+2017,Public building,District Heating,1798.5088555297923
+2017,Public building,Electricity,6526.487627411451
+2017,Public building,Heavy Fuel Oil,0.5567124245937806
+2017,Public building,Kerosene,0.5567090851705307
+2017,Public building,Light Fuel Oil,367.50453936891904
+2017,Public building,Natural Gas,8809.571310256433
+2017,Public building,Synthetic Gas,1.829750662940904
+2017,Public transportation,Biodiesel,5.167955673580282
+2017,Public transportation,Cellulosic Ethanol,0.3142155313392603
+2017,Public transportation,Diesel,565.6604822520472
+2017,Public transportation,Ethanol,37.98352364882091
+2017,Public transportation,FT Diesel,1.674890367612068
+2017,Public transportation,Gasoline,660.4708263879539
+2017,Residential building,Biomass,234.5649985326616
+2017,Residential building,Bio Methane,307.90287578765873
+2017,Residential building,Wood Pellet,21.77329367537833
+2017,Residential building,District Cooling,54.33788206086382
+2017,Residential building,District Heating,1042.2795466254504
+2017,Residential building,Electricity,22584.064270920582
+2017,Residential building,Hydrogen,0.454027285756328
+2017,Residential building,Kerosene,13.581617246119293
+2017,Residential building,Light Fuel Oil,878.5279538862114
+2017,Residential building,Natural Gas,74850.41467600499
+2017,Residential building,Propane,21.558175039511152
+2017,Residential building,Synthetic Gas,1.9275507591916945
+2017,Solid waste,Bio Methane,69.99118349948424
+2017,Solid waste,Natural Gas,3.035590826740104
+2017,Water waste,Bio Methane,56.921305517444694
+2017,Water waste,Electricity,1336.741063121678
+2017,Water waste,Fresh water,451.58351576548546
+2017,Water waste,Natural Gas,741.5855675968672
+2018,Commercial building,Bio Methane,571.3518059910873
+2018,Commercial building,District Cooling,1259.7118512691936
+2018,Commercial building,District Heating,4116.59653241634
+2018,Commercial building,Electricity,55105.00789756286
+2018,Commercial building,Heavy Fuel Oil,32.53114956339797
+2018,Commercial building,Kerosene,32.56157504548007
+2018,Commercial building,Light Fuel Oil,430.2774933691601
+2018,Commercial building,Natural Gas,44518.11004999656
+2018,Commercial building,Propane,3079.8557358037056
+2018,Commercial building,Synthetic Gas,10.901070986606246
+2018,District Energy,Bio Methane,407.31682092490684
+2018,District Energy,Electricity,634.0088845465202
+2018,District Energy,Natural Gas,7739.019597558549
+2018,Freight transportation,Aviation Gasoline,0.19220539246096874
+2018,Freight transportation,Aviation Turbo Fuel,48.67489862263396
+2018,Freight transportation,Biodiesel,39.113743390288704
+2018,Freight transportation,Cellulosic Ethanol,0.34664794468928845
+2018,Freight transportation,Diesel,12131.432059436162
+2018,Freight transportation,Ethanol,607.3051723488142
+2018,Freight transportation,FT Diesel,3.331771924147259
+2018,Freight transportation,Gasoline,10551.824259097999
+2018,Freight transportation,Heavy Fuel Oil,149.17710629919594
+2018,Freight transportation,Propane,704.0180465460058
+2018,Industrial building,Biomass,85.39442620559717
+2018,Industrial building,Coal,98.31145558801805
+2018,Industrial building,Electricity,5457.399319958888
+2018,Industrial building,Heavy Fuel Oil,128.8901945451098
+2018,Industrial building,Light Fuel Oil,548.9558291807531
+2018,Industrial building,Natural Gas,15324.212173140722
+2018,Industrial building,Pet Coke,237.50154133135598
+2018,Industrial building,Propane,118.40767125455434
+2018,Long distance transportation,Aviation Gasoline,1.1291204528798684
+2018,Long distance transportation,Aviation Turbo Fuel,1554.5915756360382
+2018,Long distance transportation,Biodiesel,6.292531366019568
+2018,Long distance transportation,Bio Jet,0.7466023057441163
+2018,Long distance transportation,Diesel,972.0059408506878
+2018,Long distance transportation,Ethanol,0.4229016979117886
+2018,Long distance transportation,Gasoline,2.3331997056087292
+2018,Long distance transportation,Renewable Diesel,21.997775214524644
+2018,Long distance transportation,Synthetic Jet,0.7466023057441163
+2018,Passenger transportation,Biodiesel,36.078922083599174
+2018,Passenger transportation,Battery Electric Vehicle,1.4939447435994773
+2018,Passenger transportation,Bio Methane,0.2275438859374189
+2018,Passenger transportation,Cellulosic Ethanol,1.0732365710860516
+2018,Passenger transportation,Diesel,6271.947786289715
+2018,Passenger transportation,Electricity,1930.5623705630971
+2018,Passenger transportation,Ethanol,3810.7033882082487
+2018,Passenger transportation,Gasoline,60209.22737610054
+2018,Passenger transportation,Natural Gas,773.6128560027763
+2018,Passenger transportation,Propane,429.38148316929266
+2018,Passenger transportation,Renewable Diesel,0.2701566794899211
+2018,Passenger transportation,Synthetic Gas,0.13018557360537658
+2018,Passenger transportation,Synthetic Methane,0.1301855736053765
+2018,Public building,Bio Methane,173.37767057574507
+2018,Public building,District Cooling,252.0762898079325
+2018,Public building,District Heating,1822.1093174420644
+2018,Public building,Electricity,6602.949287406948
+2018,Public building,Heavy Fuel Oil,0.6926619790679013
+2018,Public building,Kerosene,0.6926730467618674
+2018,Public building,Light Fuel Oil,406.6929372146457
+2018,Public building,Natural Gas,8719.383433632842
+2018,Public building,Synthetic Gas,3.577222310013423
+2018,Public transportation,Biodiesel,6.089396001306646
+2018,Public transportation,Cellulosic Ethanol,0.5552970824917642
+2018,Public transportation,Diesel,582.9337923476954
+2018,Public transportation,Ethanol,39.743008786856485
+2018,Public transportation,FT Diesel,2.368047898863933
+2018,Public transportation,Gasoline,680.4018318413963
+2018,Residential building,Biomass,727.3161259923709
+2018,Residential building,Bio Methane,230.68648183333576
+2018,Residential building,Wood Pellet,529.6484394440483
+2018,Residential building,District Cooling,88.40928446173785
+2018,Residential building,District Heating,1028.2286662391832
+2018,Residential building,Electricity,23180.959592377883
+2018,Residential building,Hydrogen,0.699465521786695
+2018,Residential building,Kerosene,298.4689469734691
+2018,Residential building,Light Fuel Oil,521.0219629346468
+2018,Residential building,Natural Gas,76598.55207496237
+2018,Residential building,Propane,524.9807963409875
+2018,Residential building,Synthetic Gas,3.09741015069005
+2018,Solid waste,Bio Methane,70.22453149498006
+2018,Solid waste,Natural Gas,4.377509046946208
+2018,Water waste,Bio Methane,57.285616514294226
+2018,Water waste,Electricity,1346.3930758111933
+2018,Water waste,Fresh water,455.2177239884663
+2018,Water waste,Natural Gas,746.4627362743837
+2019,Commercial building,Bio Methane,621.8967422923854
+2019,Commercial building,District Cooling,1262.1777942836388
+2019,Commercial building,District Heating,4146.126640712825
+2019,Commercial building,Electricity,55428.54363996518
+2019,Commercial building,Heavy Fuel Oil,43.47142577219561
+2019,Commercial building,Kerosene,43.47903794374013
+2019,Commercial building,Light Fuel Oil,442.13522682025757
+2019,Commercial building,Natural Gas,44659.194371813515
+2019,Commercial building,Propane,3158.9716832408412
+2019,Commercial building,Synthetic Gas,13.702831394283624
+2019,District Energy,Bio Methane,409.2141138853126
+2019,District Energy,Electricity,638.6273545484747
+2019,District Energy,Natural Gas,7775.06816380964
+2019,Freight transportation,Aviation Gasoline,0.26495994623132346
+2019,Freight transportation,Aviation Turbo Fuel,67.49520708217464
+2019,Freight transportation,Biodiesel,39.62792005738397
+2019,Freight transportation,Cellulosic Ethanol,0.5114479255622565
+2019,Freight transportation,Diesel,12186.175086695204
+2019,Freight transportation,Ethanol,607.5307435160925
+2019,Freight transportation,FT Diesel,3.8904877222408514
+2019,Freight transportation,Gasoline,10606.642046559315
+2019,Freight transportation,Heavy Fuel Oil,149.7185155142225
+2019,Freight transportation,Propane,707.6830072509841
+2019,Industrial building,Biomass,85.49328154615111
+2019,Industrial building,Coal,98.42526409818481
+2019,Industrial building,Electricity,5463.716981337637
+2019,Industrial building,Heavy Fuel Oil,129.03940198923456
+2019,Industrial building,Light Fuel Oil,549.5913181448628
+2019,Industrial building,Natural Gas,15341.951975146507
+2019,Industrial building,Pet Coke,237.77648077172245
+2019,Industrial building,Propane,118.54474379181045
+2019,Long distance transportation,Aviation Gasoline,1.4514178861057963
+2019,Long distance transportation,Aviation Turbo Fuel,1578.2781219893195
+2019,Long distance transportation,Biodiesel,7.123071794014657
+2019,Long distance transportation,Bio Jet,1.009234529421377
+2019,Long distance transportation,Diesel,987.5775462193467
+2019,Long distance transportation,Ethanol,0.5958854521202295
+2019,Long distance transportation,Gasoline,3.510449288794957
+2019,Long distance transportation,Renewable Diesel,23.543064669967226
+2019,Long distance transportation,Synthetic Jet,1.0092345294213771
+2019,Passenger transportation,Biodiesel,36.87968198965663
+2019,Passenger transportation,Battery Electric Vehicle,0.951803113507038
+2019,Passenger transportation,Bio Methane,0.3184424977603375
+2019,Passenger transportation,Cellulosic Ethanol,1.6961625389063835
+2019,Passenger transportation,Diesel,6302.967292423551
+2019,Passenger transportation,Electricity,1934.2943075998946
+2019,Passenger transportation,Ethanol,3811.4005526418555
+2019,Passenger transportation,Gasoline,60511.48990192136
+2019,Passenger transportation,Natural Gas,773.2816256901551
+2019,Passenger transportation,Propane,430.59764063484585
+2019,Passenger transportation,Renewable Diesel,0.37381519267170726
+2019,Passenger transportation,Synthetic Gas,0.17541533079097507
+2019,Passenger transportation,Synthetic Methane,0.17541533079097488
+2019,Public building,Bio Methane,189.58550394498286
+2019,Public building,District Cooling,254.79164316775908
+2019,Public building,District Heating,1826.474391393271
+2019,Public building,Electricity,6638.473414437499
+2019,Public building,Heavy Fuel Oil,0.9838714370817895
+2019,Public building,Kerosene,0.9838943202465035
+2019,Public building,Light Fuel Oil,408.9408940213615
+2019,Public building,Natural Gas,8761.690520758442
+2019,Public building,Propane,0.01943660061323867
+2019,Public building,Synthetic Gas,4.544075590829909
+2019,Public transportation,Biodiesel,6.978446613816505
+2019,Public transportation,Cellulosic Ethanol,0.8872881343720086
+2019,Public transportation,Diesel,601.8647895770555
+2019,Public transportation,Ethanol,41.48459652074707
+2019,Public transportation,FT Diesel,3.012241907161956
+2019,Public transportation,Gasoline,704.9472030501308
+2019,Residential building,Biomass,766.5770797989811
+2019,Residential building,Bio Methane,265.43696870648625
+2019,Residential building,Wood Pellet,568.2693129215963
+2019,Residential building,District Cooling,87.9491917426043
+2019,Residential building,District Heating,1028.4180531095844
+2019,Residential building,Electricity,22985.864776337232
+2019,Residential building,Hydrogen,0.9140661287478558
+2019,Residential building,Kerosene,330.17925764571345
+2019,Residential building,Light Fuel Oil,1159.1463109706522
+2019,Residential building,Natural Gas,76851.54542799796
+2019,Residential building,Propane,565.552251957512
+2019,Residential building,Synthetic Gas,3.841357899779595
+2019,Solid waste,Bio Methane,126.28978555741095
+2019,Solid waste,Natural Gas,5.914352185520664
+2019,Water waste,Bio Methane,57.66658830070081
+2019,Water waste,Electricity,1356.4294494756136
+2019,Water waste,Fresh water,458.99673551132264
+2019,Water waste,Natural Gas,751.5438926803902
+2020,Commercial building,Bio Methane,607.2647892612804
+2020,Commercial building,District Cooling,1259.3564903372392
+2020,Commercial building,District Heating,4175.629410184115
+2020,Commercial building,Electricity,55970.77835108722
+2020,Commercial building,Heavy Fuel Oil,53.56228394652562
+2020,Commercial building,Kerosene,53.57066488821017
+2020,Commercial building,Light Fuel Oil,453.60781950907227
+2020,Commercial building,Natural Gas,44882.25593319787
+2020,Commercial building,Propane,3232.0852398874595
+2020,Commercial building,Synthetic Gas,17.54065635334514
+2020,District Energy,Bio Methane,411.09066827790997
+2020,District Energy,Electricity,654.1684674529017
+2020,District Energy,Natural Gas,7810.7226972707695
+2020,Freight transportation,Aviation Gasoline,0.8505685588018521
+2020,Freight transportation,Aviation Turbo Fuel,131.41758952422632
+2020,Freight transportation,Biodiesel,31.178893656023615
+2020,Freight transportation,Cellulosic Ethanol,0.9928047530310619
+2020,Freight transportation,Diesel,11974.749398263133
+2020,Freight transportation,Ethanol,456.359965950634
+2020,Freight transportation,FT Diesel,4.343247265337403
+2020,Freight transportation,Gasoline,10822.648418930334
+2020,Freight transportation,Heavy Fuel Oil,150.25992472868307
+2020,Freight transportation,Propane,703.0060087881726
+2020,Industrial building,Biomass,85.59213691956585
+2020,Industrial building,Coal,98.53907264617654
+2020,Industrial building,Electricity,5470.034644815095
+2020,Industrial building,Heavy Fuel Oil,129.18860948293894
+2020,Industrial building,Light Fuel Oil,550.2268073201112
+2020,Industrial building,Natural Gas,15359.69178304635
+2020,Industrial building,Pet Coke,238.0514203034781
+2020,Industrial building,Propane,118.6818163746039
+2020,Long distance transportation,Aviation Gasoline,4.943353122260544
+2020,Long distance transportation,Aviation Turbo Fuel,1630.7184503859921
+2020,Long distance transportation,Biodiesel,7.388732733070575
+2020,Long distance transportation,Bio Jet,1.2960066486459234
+2020,Long distance transportation,Diesel,1027.2824281524652
+2020,Long distance transportation,Ethanol,1.0485165187566226
+2020,Long distance transportation,Gasoline,14.252854350932813
+2020,Long distance transportation,Renewable Diesel,22.695806453642476
+2020,Long distance transportation,Synthetic Jet,1.296006648645924
+2020,Passenger transportation,Biodiesel,31.03044274747244
+2020,Passenger transportation,Battery Electric Vehicle,2.785530321933238
+2020,Passenger transportation,Bio Methane,2.1355259631828782
+2020,Passenger transportation,Cellulosic Ethanol,3.472224297126351
+2020,Passenger transportation,Diesel,6426.412588127004
+2020,Passenger transportation,Electricity,2017.1378971436964
+2020,Passenger transportation,Ethanol,2861.116537452235
+2020,Passenger transportation,Gasoline,57687.712925204265
+2020,Passenger transportation,Natural Gas,645.0874193754851
+2020,Passenger transportation,Propane,382.53833679038075
+2020,Passenger transportation,Renewable Diesel,0.8390394479109667
+2020,Passenger transportation,Synthetic Gas,0.37626647053399415
+2020,Passenger transportation,Synthetic Methane,0.37626647053399426
+2020,Public building,Bio Methane,208.460970533976
+2020,Public building,District Cooling,274.7014236333602
+2020,Public building,District Heating,1830.2116260182634
+2020,Public building,Electricity,6669.843573701064
+2020,Public building,Heavy Fuel Oil,1.4557035887844512
+2020,Public building,Kerosene,1.4557587045643738
+2020,Public building,Light Fuel Oil,411.0890981761582
+2020,Public building,Natural Gas,8807.675904402937
+2020,Public building,Propane,0.03414006378629464
+2020,Public building,Synthetic Gas,6.0114594390482265
+2020,Public transportation,Biodiesel,6.858635671465271
+2020,Public transportation,Cellulosic Ethanol,1.7235612783504877
+2020,Public transportation,Diesel,611.0233332405417
+2020,Public transportation,Ethanol,32.10765127000078
+2020,Public transportation,FT Diesel,3.881210942505371
+2020,Public transportation,Gasoline,735.6035196509653
+2020,Residential building,Biomass,804.8618473106699
+2020,Residential building,Bio Methane,257.894463823476
+2020,Residential building,Wood Pellet,606.6068433645618
+2020,Residential building,District Cooling,88.63595431828696
+2020,Residential building,District Heating,1028.142581105541
+2020,Residential building,Electricity,21424.588711110067
+2020,Residential building,Hydrogen,1.2186956788532237
+2020,Residential building,Kerosene,376.0565165157604
+2020,Residential building,Light Fuel Oil,1363.9228589950962
+2020,Residential building,Natural Gas,76609.48403772955
+2020,Residential building,Propane,603.917601791557
+2020,Residential building,Synthetic Gas,5.0370623786254125
+2020,Solid waste,Bio Methane,120.22117857713464
+2020,Solid waste,Natural Gas,6.939576374613226
+2020,Water waste,Bio Methane,58.03983474961894
+2020,Water waste,Electricity,1366.2028470726523
+2020,Water waste,Fresh water,462.6767437017755
+2020,Water waste,Natural Gas,756.5033792728775
+2021,Commercial building,Bio Methane,633.5381287461313
+2021,Commercial building,District Cooling,1261.4836488870562
+2021,Commercial building,District Heating,4205.987899405601
+2021,Commercial building,Electricity,56442.74479695283
+2021,Commercial building,Heavy Fuel Oil,61.551690525308864
+2021,Commercial building,Kerosene,61.558418897315896
+2021,Commercial building,Light Fuel Oil,460.57982655419204
+2021,Commercial building,Natural Gas,44926.76140001373
+2021,Commercial building,Propane,3261.7764443113406
+2021,Commercial building,Synthetic Gas,21.75192061254722
+2021,District Energy,Bio Methane,413.1062923775173
+2021,District Energy,Electricity,659.9479305360683
+2021,District Energy,Natural Gas,7849.019555165304
+2021,Freight transportation,Aviation Gasoline,0.3926673654853877
+2021,Freight transportation,Aviation Turbo Fuel,142.5733893754236
+2021,Freight transportation,Biodiesel,32.99357733503837
+2021,Freight transportation,Cellulosic Ethanol,0.9643215920475295
+2021,Freight transportation,Diesel,12035.95455410694
+2021,Freight transportation,Ethanol,456.10913465148644
+2021,Freight transportation,FT Diesel,6.107724770552013
+2021,Freight transportation,Gasoline,10864.114832035955
+2021,Freight transportation,Heavy Fuel Oil,150.80133394475448
+2021,Freight transportation,Propane,705.8501734498283
+2021,Industrial building,Biomass,85.69099229297959
+2021,Industrial building,Coal,98.65288119417681
+2021,Industrial building,Electricity,5476.352308292526
+2021,Industrial building,Heavy Fuel Oil,129.33781697664898
+2021,Industrial building,Light Fuel Oil,550.8622964953536
+2021,Industrial building,Natural Gas,15377.431590947665
+2021,Industrial building,Pet Coke,238.3263598352359
+2021,Industrial building,Propane,118.81888895740178
+2021,Long distance transportation,Aviation Gasoline,5.179756659056687
+2021,Long distance transportation,Aviation Turbo Fuel,1654.3825418855463
+2021,Long distance transportation,Biodiesel,7.836529976924345
+2021,Long distance transportation,Bio Jet,1.6133088967893046
+2021,Long distance transportation,Diesel,1049.419977216229
+2021,Long distance transportation,Ethanol,0.9829992807629269
+2021,Long distance transportation,Gasoline,9.973875152057385
+2021,Long distance transportation,Renewable Diesel,22.792462664132472
+2021,Long distance transportation,Synthetic Jet,1.6133088967893046
+2021,Passenger transportation,Biodiesel,15.122431722016294
+2021,Passenger transportation,Battery Electric Vehicle,1.9787616343412757
+2021,Passenger transportation,Bio Methane,3.2678707824399535
+2021,Passenger transportation,Cellulosic Ethanol,7.13866447025602
+2021,Passenger transportation,Diesel,5319.857237363609
+2021,Passenger transportation,Electricity,2023.4784336191194
+2021,Passenger transportation,Ethanol,10.046524866843766
+2021,Passenger transportation,Gasoline,61979.79068465555
+2021,Passenger transportation,Natural Gas,643.5993945918453
+2021,Passenger transportation,Propane,384.2756215765764
+2021,Passenger transportation,Renewable Diesel,1.0417934211611128
+2021,Passenger transportation,Synthetic Gas,0.6556187737029484
+2021,Passenger transportation,Synthetic Methane,0.6556187737029484
+2021,Public building,Bio Methane,223.70974871325194
+2021,Public building,District Cooling,278.96503071391237
+2021,Public building,District Heating,1836.4592897533933
+2021,Public building,Electricity,6704.688897732748
+2021,Public building,Heavy Fuel Oil,1.5444987060938562
+2021,Public building,Kerosene,1.544584419966612
+2021,Public building,Light Fuel Oil,412.7633918280306
+2021,Public building,Natural Gas,8849.197525656875
+2021,Public building,Propane,0.04806547483071394
+2021,Public building,Synthetic Gas,7.664653767077949
+2021,Public transportation,Biodiesel,8.128344628410286
+2021,Public transportation,Cellulosic Ethanol,1.7836726749558292
+2021,Public transportation,Diesel,629.0250840668837
+2021,Public transportation,Ethanol,32.18988742854864
+2021,Public transportation,FT Diesel,5.098486174452329
+2021,Public transportation,Gasoline,760.1919267923386
+2021,Residential building,Biomass,835.1113993255437
+2021,Residential building,Bio Methane,277.1129402202384
+2021,Residential building,Wood Pellet,636.6261277091812
+2021,Residential building,District Cooling,88.52216868733969
+2021,Residential building,District Heating,1028.190957580951
+2021,Residential building,Electricity,21656.207344026363
+2021,Residential building,Hydrogen,1.4592291429217177
+2021,Residential building,Kerosene,397.2847005023481
+2021,Residential building,Light Fuel Oil,1394.9676380764877
+2021,Residential building,Natural Gas,76710.33839528967
+2021,Residential building,Propane,632.8511605489041
+2021,Residential building,Synthetic Gas,6.372202626965909
+2021,Solid waste,Bio Methane,151.0816901333484
+2021,Solid waste,Natural Gas,8.061357719719823
+2021,Water waste,Bio Methane,58.40485458403864
+2021,Water waste,Electricity,1375.7836045445133
+2021,Water waste,Fresh water,466.2841707645078
+2021,Water waste,Natural Gas,761.3608161469992
+2022,Commercial building,Bio Methane,627.2624220490861
+2022,Commercial building,District Cooling,1263.8861638074625
+2022,Commercial building,District Heating,4435.745791704172
+2022,Commercial building,Electricity,56990.17453337548
+2022,Commercial building,Heavy Fuel Oil,58.70137590467778
+2022,Commercial building,Kerosene,58.36205556825282
+2022,Commercial building,Light Fuel Oil,456.52645239420104
+2022,Commercial building,Natural Gas,44997.134689869876
+2022,Commercial building,Propane,3109.613716364398
+2022,Commercial building,Synthetic Gas,24.795219929047853
+2022,District Energy,Bio Methane,425.9244270890485
+2022,District Energy,Electricity,670.225905206473
+2022,District Energy,Natural Gas,8092.564114685142
+2022,Freight transportation,Aviation Gasoline,0.4042044282555338
+2022,Freight transportation,Aviation Turbo Fuel,142.6859513899459
+2022,Freight transportation,Biodiesel,31.68512160398282
+2022,Freight transportation,Cellulosic Ethanol,1.048404935990651
+2022,Freight transportation,Diesel,12070.999842739051
+2022,Freight transportation,Ethanol,455.6433092816744
+2022,Freight transportation,FT Diesel,4.9296815794407385
+2022,Freight transportation,Gasoline,10899.6919083845
+2022,Freight transportation,Heavy Fuel Oil,151.34274315883223
+2022,Freight transportation,Propane,709.0525253141515
+2022,Industrial building,Biomass,85.79053420171407
+2022,Industrial building,Coal,98.76748012498221
+2022,Industrial building,Electricity,5482.71384696922
+2022,Industrial building,Heavy Fuel Oil,129.4880606933962
+2022,Industrial building,Light Fuel Oil,551.5021990449366
+2022,Industrial building,Natural Gas,15395.294599078179
+2022,Industrial building,Pet Coke,238.6032087796201
+2022,Industrial building,Propane,118.95691348815535
+2022,Long distance transportation,Aviation Gasoline,5.370651861015509
+2022,Long distance transportation,Aviation Turbo Fuel,1678.5850220614109
+2022,Long distance transportation,Biodiesel,7.627455920566161
+2022,Long distance transportation,Bio Jet,1.685737370977607
+2022,Long distance transportation,Diesel,1064.4692884916885
+2022,Long distance transportation,Ethanol,1.0820183170361481
+2022,Long distance transportation,Gasoline,13.947612850848724
+2022,Long distance transportation,Renewable Diesel,22.697430076264663
+2022,Long distance transportation,Synthetic Jet,1.6857373709776071
+2022,Passenger transportation,Biodiesel,12.676360686381578
+2022,Passenger transportation,Battery Electric Vehicle,2.9347668058738883
+2022,Passenger transportation,Bio Methane,3.281252251989958
+2022,Passenger transportation,Cellulosic Ethanol,7.322247911817943
+2022,Passenger transportation,Diesel,4937.175325005816
+2022,Passenger transportation,Electricity,2028.7208813979864
+2022,Passenger transportation,Ethanol,10.106571466851634
+2022,Passenger transportation,Gasoline,62527.186574435415
+2022,Passenger transportation,Natural Gas,643.2975418994773
+2022,Passenger transportation,Propane,384.8738846704696
+2022,Passenger transportation,Renewable Diesel,0.9228208781298738
+2022,Passenger transportation,Synthetic Gas,0.6964048368212022
+2022,Passenger transportation,Synthetic Methane,0.6964048368212024
+2022,Public building,Bio Methane,228.84698618481607
+2022,Public building,District Cooling,282.8629488605888
+2022,Public building,District Heating,1841.4886785815715
+2022,Public building,Electricity,6729.0359120025005
+2022,Public building,Heavy Fuel Oil,1.9912246121305943
+2022,Public building,Kerosene,1.9913814056123433
+2022,Public building,Light Fuel Oil,410.4224944330132
+2022,Public building,Natural Gas,8898.231262849598
+2022,Public building,Propane,0.06017790889172498
+2022,Public building,Synthetic Gas,8.93299619547863
+2022,Public transportation,Biodiesel,7.806000216074178
+2022,Public transportation,Cellulosic Ethanol,2.0038013448095344
+2022,Public transportation,Diesel,647.8417485098183
+2022,Public transportation,Ethanol,32.384270055893296
+2022,Public transportation,FT Diesel,4.848574097961092
+2022,Public transportation,Gasoline,783.0491388615102
+2022,Residential building,Biomass,865.2114431240841
+2022,Residential building,Bio Methane,272.1196695551588
+2022,Residential building,Wood Pellet,666.602310528759
+2022,Residential building,District Cooling,23.82750968174173
+2022,Residential building,District Heating,1054.872681827773
+2022,Residential building,Electricity,21601.637860391183
+2022,Residential building,Hydrogen,1.6745842436647265
+2022,Residential building,Kerosene,417.75731340309517
+2022,Residential building,Light Fuel Oil,1259.0192418450497
+2022,Residential building,Natural Gas,76754.12989049662
+2022,Residential building,Propane,663.2200292384116
+2022,Residential building,Synthetic Gas,7.295687815380975
+2022,Solid waste,Bio Methane,150.4296990347857
+2022,Solid waste,Natural Gas,8.727955318937331
+2022,Water waste,Bio Methane,58.66782487049547
+2022,Water waste,Electricity,1382.7584551100942
+2022,Water waste,Fresh water,468.91028321748433
+2022,Water waste,Natural Gas,764.8843604858534
+2023,Commercial building,Bio Methane,39.95976306547459
+2023,Commercial building,District Cooling,1770.4009805903897
+2023,Commercial building,District Heating,5846.7615547234245
+2023,Commercial building,Electricity,50018.8557468083
+2023,Commercial building,Geothermal Energy,0.6331527974861725
+2023,Commercial building,Heavy Fuel Oil,23.709504879569387
+2023,Commercial building,Hydrogen,4.222013351028802
+2023,Commercial building,Kerosene,7.378588970712419
+2023,Commercial building,Light Fuel Oil,158.36803377373104
+2023,Commercial building,Natural Gas,41065.24544426881
+2023,Commercial building,Propane,2801.6755798205268
+2023,Commercial building,Synthetic Gas,26.23201446083016
+2023,Commercial building,Solar,2.9902631290824555
+2023,District Energy,Bio Methane,421.408209773629
+2023,District Energy,Electricity,2480.2057316719124
+2023,District Energy,Natural Gas,8006.755985695563
+2023,Freight transportation,Aviation Gasoline,0.859663288658914
+2023,Freight transportation,Aviation Turbo Fuel,136.72807984425663
+2023,Freight transportation,Biodiesel,28.616314296407733
+2023,Freight transportation,Battery Electric Vehicle,0.013013997497890766
+2023,Freight transportation,Battery Electricity Freight,0.12272876879251274
+2023,Freight transportation,Bio Jet,0.3745976750527061
+2023,Freight transportation,Bio Methane,11.63551981105816
+2023,Freight transportation,Cellulosic Ethanol,0.5790581080267944
+2023,Freight transportation,Diesel,12104.643975307348
+2023,Freight transportation,Ethanol,434.2361347414152
+2023,Freight transportation,FT Diesel,2.6488625362380502
+2023,Freight transportation,Gasoline,11116.97972048726
+2023,Freight transportation,Heavy Fuel Oil,0.3369382861975151
+2023,Freight transportation,Hydrogen,0.006784555654161523
+2023,Freight transportation,Propane,709.7488241838419
+2023,Freight transportation,Renewable Diesel,0.02564664043284146
+2023,Freight transportation,Synthetic Jet,0.3745976750527061
+2023,Industrial building,Biomass,3.73222582930581
+2023,Industrial building,Bio Methane,1076.569377646644
+2023,Industrial building,Coal,93.76414558822779
+2023,Industrial building,Electricity,4948.249255676807
+2023,Industrial building,Heavy Fuel Oil,116.87245652880516
+2023,Industrial building,Hydrogen,0.14546417084088717
+2023,Industrial building,Light Fuel Oil,497.62336531487153
+2023,Industrial building,Natural Gas,15001.59003376924
+2023,Industrial building,Pet Coke,226.60051679156885
+2023,Industrial building,Propane,107.45308960219127
+2023,Industrial building,Retrofit,11.66902646106944
+2023,Industrial building,Waste Heat,42.49527588271593
+2023,Long distance transportation,Aviation Gasoline,2.1122888334511987
+2023,Long distance transportation,Aviation Turbo Fuel,1703.3328667207886
+2023,Long distance transportation,Biodiesel,3.7528634808298813
+2023,Long distance transportation,Bio Jet,3.239491614115823
+2023,Long distance transportation,Diesel,1106.6094347289456
+2023,Long distance transportation,Ethanol,1.2445363936777112
+2023,Long distance transportation,Gasoline,14.718855764079906
+2023,Long distance transportation,Renewable Diesel,2.6894974700881704
+2023,Long distance transportation,Synthetic Jet,3.2394916141158228
+2023,Passenger transportation,Biodiesel,13.660560330848133
+2023,Passenger transportation,Battery Electric Vehicle,0.2996360903185118
+2023,Passenger transportation,Bio Methane,2.257652115872648
+2023,Passenger transportation,Cellulosic Ethanol,7.754150934565672
+2023,Passenger transportation,Diesel,5245.831225177417
+2023,Passenger transportation,Electricity,1938.7816445386727
+2023,Passenger transportation,Ethanol,10.86678882797446
+2023,Passenger transportation,Gasoline,62560.33821776662
+2023,Passenger transportation,Hydrogen,0.04456711763586277
+2023,Passenger transportation,Natural Gas,645.762820196163
+2023,Passenger transportation,Propane,386.53390058591754
+2023,Passenger transportation,Renewable Diesel,0.6418794680200051
+2023,Passenger transportation,Synthetic Gas,0.8335986014887179
+2023,Passenger transportation,Synthetic Methane,0.8344147125907366
+2023,Public building,Bio Methane,12.895335085111242
+2023,Public building,District Cooling,300.3455904282088
+2023,Public building,District Heating,819.5603202591184
+2023,Public building,Electricity,6061.1830189066195
+2023,Public building,Geothermal Energy,0.19654173741591274
+2023,Public building,Heavy Fuel Oil,1.071167794147094
+2023,Public building,Hydrogen,1.1582491987054615
+2023,Public building,Kerosene,1.0666972162807542
+2023,Public building,Light Fuel Oil,358.17416639629505
+2023,Public building,Natural Gas,9704.643926430932
+2023,Public building,Propane,3.2427104891799075
+2023,Public building,Synthetic Gas,7.812733155947236
+2023,Public building,Solar,1.5336406290992275
+2023,Public transportation,Biodiesel,7.374149361776495
+2023,Public transportation,Battery Electric Vehicle,0.23004167466389633
+2023,Public transportation,Battery Electricity Freight,0.14071902939602318
+2023,Public transportation,Bio Methane,26.05346083295001
+2023,Public transportation,Cellulosic Ethanol,3.754565579812119
+2023,Public transportation,Diesel,667.2731734296842
+2023,Public transportation,Ethanol,30.663966687843924
+2023,Public transportation,FT Diesel,3.732988803119637
+2023,Public transportation,Gasoline,773.2126879195315
+2023,Public transportation,Hydrogen,0.06798039772573598
+2023,Residential building,Biomass,788.2591214457105
+2023,Residential building,Bio Methane,522.038046995091
+2023,Residential building,Wood Pellet,606.6157783734153
+2023,Residential building,District Cooling,88.65787159428349
+2023,Residential building,District Heating,1028.0045908521201
+2023,Residential building,Electricity,20710.648938090708
+2023,Residential building,Geothermal Energy,0.1874805267377071
+2023,Residential building,Hydrogen,3.04962027375994
+2023,Residential building,Kerosene,2.503430957621214
+2023,Residential building,Light Fuel Oil,323.0314678330022
+2023,Residential building,Natural Gas,70504.78060586443
+2023,Residential building,Propane,607.9630357370838
+2023,Residential building,Synthetic Gas,4.982195276654513
+2023,Residential building,Solar,1.7079620714640933
+2023,Solid waste,Bio Methane,137.06943612075395
+2023,Solid waste,Electricity,0.0916335788301644
+2023,Solid waste,Natural Gas,22.021153160437855
+2023,Charging Station Energy,Electricity,0.8063554044954084
+2023,Water waste,Bio Methane,58.947747280209306
+2023,Water waste,Electricity,1390.0985620523456
+2023,Water waste,Fresh water,471.674066137107
+2023,Water waste,Natural Gas,768.6142413748657
+2024,Commercial building,Bio Methane,52.66245510023908
+2024,Commercial building,District Cooling,1876.437516507823
+2024,Commercial building,District Heating,5240.992865669535
+2024,Commercial building,Electricity,49262.267867202616
+2024,Commercial building,Geothermal Energy,1.1891838023081673
+2024,Commercial building,Heavy Fuel Oil,23.424841768998636
+2024,Commercial building,Hydrogen,8.282442677069133
+2024,Commercial building,Kerosene,8.485191607809552
+2024,Commercial building,Light Fuel Oil,156.1564434416297
+2024,Commercial building,Natural Gas,41233.284504363604
+2024,Commercial building,Propane,2766.7793403925925
+2024,Commercial building,Synthetic Gas,26.07815243029405
+2024,Commercial building,Solar,5.384084860657243
+2024,District Energy,Bio Methane,375.2852459663432
+2024,District Energy,Electricity,2573.3541612162926
+2024,District Energy,Natural Gas,7130.419673358064
+2024,Freight transportation,Aviation Gasoline,1.010741774739077
+2024,Freight transportation,Aviation Turbo Fuel,138.28955734236965
+2024,Freight transportation,Biodiesel,28.7959620052264
+2024,Freight transportation,Battery Electric Vehicle,0.0251453111701882
+2024,Freight transportation,Battery Electricity Freight,0.22296279374949413
+2024,Freight transportation,Bio Jet,0.4196024807360003
+2024,Freight transportation,Bio Methane,12.864115517005853
+2024,Freight transportation,Cellulosic Ethanol,0.6044005082849344
+2024,Freight transportation,Diesel,12170.965405493607
+2024,Freight transportation,Ethanol,434.67708984634703
+2024,Freight transportation,FT Diesel,2.688678041255195
+2024,Freight transportation,Gasoline,11120.598823727989
+2024,Freight transportation,Heavy Fuel Oil,0.34581152363597367
+2024,Freight transportation,Hydrogen,0.012412252130724773
+2024,Freight transportation,Propane,710.0260136069525
+2024,Freight transportation,Renewable Diesel,0.04190705307390711
+2024,Freight transportation,Synthetic Jet,0.41960248073600026
+2024,Industrial building,Biomass,4.285949039458578
+2024,Industrial building,Bio Methane,1317.2436024166213
+2024,Industrial building,Coal,92.7791299005075
+2024,Industrial building,Electricity,4886.746956022935
+2024,Industrial building,Heavy Fuel Oil,115.52200701231583
+2024,Industrial building,Hydrogen,0.14798910742046192
+2024,Industrial building,Light Fuel Oil,491.56122172194654
+2024,Industrial building,Natural Gas,14854.155929924524
+2024,Industrial building,Pet Coke,224.22060823487664
+2024,Industrial building,Propane,106.12221122136441
+2024,Industrial building,Retrofit,12.860540292172283
+2024,Industrial building,Waste Heat,46.7633719283863
+2024,Long distance transportation,Aviation Gasoline,19.103663692937737
+2024,Long distance transportation,Aviation Turbo Fuel,1709.034576788247
+2024,Long distance transportation,Biodiesel,3.978383226913557
+2024,Long distance transportation,Bio Jet,3.5405185098161867
+2024,Long distance transportation,Diesel,1124.1107397437597
+2024,Long distance transportation,Ethanol,1.393296055638437
+2024,Long distance transportation,Gasoline,15.442821289004856
+2024,Long distance transportation,Renewable Diesel,3.066587328580965
+2024,Long distance transportation,Synthetic Jet,3.5405185098161853
+2024,Passenger transportation,Biodiesel,14.624520534137746
+2024,Passenger transportation,Battery Electric Vehicle,0.505583765254849
+2024,Passenger transportation,Bio Methane,1.7504160369593265
+2024,Passenger transportation,Cellulosic Ethanol,8.555007033392387
+2024,Passenger transportation,Diesel,5295.350022967919
+2024,Passenger transportation,Electricity,1938.8127167814425
+2024,Passenger transportation,Ethanol,11.977427203289796
+2024,Passenger transportation,Gasoline,62728.03328545558
+2024,Passenger transportation,Hydrogen,0.07825802063954065
+2024,Passenger transportation,Natural Gas,647.3941221880127
+2024,Passenger transportation,Propane,387.7543371087355
+2024,Passenger transportation,Renewable Diesel,0.6542281488137174
+2024,Passenger transportation,Synthetic Gas,0.83669025857591
+2024,Passenger transportation,Synthetic Methane,0.8370509496518237
+2024,Public building,Bio Methane,18.755921811997364
+2024,Public building,District Cooling,300.33293936744786
+2024,Public building,District Heating,579.5939583726112
+2024,Public building,Electricity,5988.129669773312
+2024,Public building,Geothermal Energy,0.5372248498737976
+2024,Public building,Heavy Fuel Oil,1.0651736513528922
+2024,Public building,Hydrogen,3.147988551937499
+2024,Public building,Kerosene,1.064168609460461
+2024,Public building,Light Fuel Oil,353.712579656971
+2024,Public building,Natural Gas,9885.732212966062
+2024,Public building,Propane,7.780840534170258
+2024,Public building,Synthetic Gas,9.328487374601128
+2024,Public building,Solar,3.022711365560304
+2024,Public transportation,Biodiesel,8.377142045516603
+2024,Public transportation,Battery Electric Vehicle,0.40127531571000974
+2024,Public transportation,Battery Electricity Freight,0.24585415899861965
+2024,Public transportation,Bio Methane,42.12743438774517
+2024,Public transportation,Cellulosic Ethanol,4.078351952407528
+2024,Public transportation,Diesel,680.8066447163586
+2024,Public transportation,Ethanol,31.058470817597843
+2024,Public transportation,FT Diesel,3.792294433055315
+2024,Public transportation,Gasoline,779.6548520101821
+2024,Public transportation,Hydrogen,0.10493092267828588
+2024,Residential building,Biomass,791.6016883355492
+2024,Residential building,Bio Methane,236.54434008803722
+2024,Residential building,Wood Pellet,609.0109840027617
+2024,Residential building,District Cooling,88.64396810410585
+2024,Residential building,District Heating,1028.0076891066956
+2024,Residential building,Electricity,20791.009759578705
+2024,Residential building,Geothermal Energy,0.35488499055666495
+2024,Residential building,Hydrogen,4.364076411781721
+2024,Residential building,Kerosene,3.05747816353553
+2024,Residential building,Light Fuel Oil,324.0759713547118
+2024,Residential building,Natural Gas,70732.22108060686
+2024,Residential building,Propane,610.3149817859379
+2024,Residential building,Synthetic Gas,7.059916565529807
+2024,Residential building,Solar,2.6381925346295563
+2024,Solid waste,Bio Methane,147.47242237368332
+2024,Solid waste,Electricity,0.11645918429298052
+2024,Solid waste,Natural Gas,11.415530902962812
+2024,Charging Station Energy,Electricity,1.4016871408082694
+2024,Water waste,Bio Methane,59.233024309028046
+2024,Water waste,Electricity,1397.6137347764773
+2024,Water waste,Fresh water,474.50370209720205
+2024,Water waste,Natural Gas,772.4230304378094
+2025,Commercial building,Bio Methane,20.688582610326247
+2025,Commercial building,District Cooling,1969.5075769955936
+2025,Commercial building,District Heating,5857.6500137441
+2025,Commercial building,Electricity,48501.25592909703
+2025,Commercial building,Geothermal Energy,1.5688279761931427
+2025,Commercial building,Heavy Fuel Oil,23.06762025180926
+2025,Commercial building,Hydrogen,3.6016613174072227
+2025,Commercial building,Kerosene,3.599208947480812
+2025,Commercial building,Light Fuel Oil,154.15391478275805
+2025,Commercial building,Natural Gas,40114.36802069561
+2025,Commercial building,Propane,2727.8507637082207
+2025,Commercial building,Synthetic Gas,13.191731000132496
+2025,Commercial building,Solar,13.362035275592726
+2025,District Energy,Bio Methane,413.2332989065267
+2025,District Energy,Electricity,2543.4302500182794
+2025,District Energy,Natural Gas,7851.432679221531
+2025,Freight transportation,Aviation Gasoline,0.2957572169658274
+2025,Freight transportation,Aviation Turbo Fuel,235.59351502441
+2025,Freight transportation,Biodiesel,26.433912659621626
+2025,Freight transportation,Battery Electric Vehicle,0.03836037571198649
+2025,Freight transportation,Battery Electricity Freight,0.2860003206773187
+2025,Freight transportation,Bio Jet,0.11153335504571403
+2025,Freight transportation,Bio Methane,13.217439568728551
+2025,Freight transportation,Cellulosic Ethanol,0.49609145262084503
+2025,Freight transportation,Diesel,11930.809520499375
+2025,Freight transportation,Electricity,144.68412571159416
+2025,Freight transportation,Ethanol,407.2573649744074
+2025,Freight transportation,FT Diesel,2.821292863790648
+2025,Freight transportation,Gasoline,9753.455402765849
+2025,Freight transportation,Hydrogen,0.02760757085579726
+2025,Freight transportation,Propane,634.6467315054643
+2025,Freight transportation,Renewable Diesel,0.05946920596825957
+2025,Freight transportation,Synthetic Jet,0.11153335504571404
+2025,Industrial building,Biomass,0.9707684686811245
+2025,Industrial building,Bio Methane,1406.216237838552
+2025,Industrial building,Coal,92.51552046846571
+2025,Industrial building,Electricity,4860.798498379924
+2025,Industrial building,Heavy Fuel Oil,114.8017050955283
+2025,Industrial building,Hydrogen,0.0350888363664562
+2025,Industrial building,Light Fuel Oil,488.9458008041964
+2025,Industrial building,Natural Gas,14819.024198030525
+2025,Industrial building,Pet Coke,223.5234480825406
+2025,Industrial building,Propane,105.41137796255923
+2025,Industrial building,Retrofit,14.259632192924835
+2025,Industrial building,Waste Heat,51.551251517093036
+2025,Long distance transportation,Aviation Gasoline,0.6112450806194548
+2025,Long distance transportation,Aviation Turbo Fuel,1756.5051750573627
+2025,Long distance transportation,Biodiesel,0.7122094259530352
+2025,Long distance transportation,Bio Jet,1.0106604583899785
+2025,Long distance transportation,Diesel,1159.7072762265868
+2025,Long distance transportation,Electricity,0.28119642049248217
+2025,Long distance transportation,Gasoline,33.296386206465165
+2025,Long distance transportation,Renewable Diesel,0.903222323798146
+2025,Long distance transportation,Synthetic Jet,1.0106604583899792
+2025,Passenger transportation,Biodiesel,4.221316552251627
+2025,Passenger transportation,Battery Electric Vehicle,0.9120586609665783
+2025,Passenger transportation,Bio Methane,0.6205998575975192
+2025,Passenger transportation,Cellulosic Ethanol,4.326445903334013
+2025,Passenger transportation,Diesel,4332.612071600729
+2025,Passenger transportation,Electricity,1790.0836771946645
+2025,Passenger transportation,Ethanol,6.216222182669488
+2025,Passenger transportation,Gasoline,58521.98746505352
+2025,Passenger transportation,Hydrogen,0.12701937694546667
+2025,Passenger transportation,Natural Gas,581.319144121059
+2025,Passenger transportation,Propane,358.09591829756107
+2025,Passenger transportation,Renewable Diesel,0.6742437675533635
+2025,Passenger transportation,Synthetic Gas,0.7628743901476315
+2025,Passenger transportation,Synthetic Methane,0.7654223988653405
+2025,Public building,Bio Methane,8.171368648176742
+2025,Public building,District Cooling,147.00036149046346
+2025,Public building,District Heating,658.3894642326349
+2025,Public building,Electricity,6058.803064064881
+2025,Public building,Geothermal Energy,0.7666559724792031
+2025,Public building,Heavy Fuel Oil,1.037575467617774
+2025,Public building,Hydrogen,1.430924989816335
+2025,Public building,Kerosene,0.6753785670139468
+2025,Public building,Light Fuel Oil,349.26119784437475
+2025,Public building,Natural Gas,9721.688733377361
+2025,Public building,Propane,4.164654128575821
+2025,Public building,Synthetic Gas,4.435201603916898
+2025,Public building,Solar,8.25873380057513
+2025,Public transportation,Biodiesel,6.190019411346982
+2025,Public transportation,Battery Electric Vehicle,0.5874138585010784
+2025,Public transportation,Battery Electricity Freight,0.34172114719909835
+2025,Public transportation,Bio Methane,168.46442484604188
+2025,Public transportation,Cellulosic Ethanol,1.586743536435273
+2025,Public transportation,Diesel,659.1790192021851
+2025,Public transportation,Electricity,0.04581313999266424
+2025,Public transportation,Ethanol,28.815062642029957
+2025,Public transportation,FT Diesel,3.43526237959863
+2025,Public transportation,Gasoline,705.6572873410263
+2025,Public transportation,Hydrogen,0.13056301658807262
+2025,Residential building,Biomass,792.3820982288224
+2025,Residential building,Bio Methane,23.051108027675266
+2025,Residential building,Wood Pellet,610.14735934906
+2025,Residential building,District Cooling,88.66328060461798
+2025,Residential building,District Heating,1028.1723644761512
+2025,Residential building,Electricity,20808.483042761603
+2025,Residential building,Geothermal Energy,0.5117474221490738
+2025,Residential building,Hydrogen,1.5913627973715911
+2025,Residential building,Kerosene,1.0726648207497698
+2025,Residential building,Light Fuel Oil,324.78991420558157
+2025,Residential building,Natural Gas,70895.80415499193
+2025,Residential building,Propane,611.1561871953289
+2025,Residential building,Synthetic Gas,2.890161629795943
+2025,Residential building,Solar,2.518548488822863
+2025,Solid waste,Bio Methane,158.3311177462983
+2025,Solid waste,Electricity,0.13733421494677814
+2025,Solid waste,Natural Gas,0.685154534582641
+2025,Charging Station Energy,Electricity,2.1693390971945123
+2025,Water waste,Bio Methane,59.532930955968475
+2025,Water waste,Electricity,1405.0771229041532
+2025,Water waste,Fresh water,477.31455903957703
+2025,Water waste,Natural Gas,776.3029171179535
+2030,Commercial building,Bio Methane,25.98277387095913
+2030,Commercial building,District Cooling,2041.1701069017577
+2030,Commercial building,District Heating,5858.434711826673
+2030,Commercial building,Electricity,45217.74036047386
+2030,Commercial building,Geothermal Energy,2.144507450604193
+2030,Commercial building,Heavy Fuel Oil,21.639458243648782
+2030,Commercial building,Hydrogen,5.366972801223394
+2030,Commercial building,Kerosene,4.077078681142759
+2030,Commercial building,Light Fuel Oil,144.44248983818306
+2030,Commercial building,Natural Gas,37853.172068289634
+2030,Commercial building,Propane,2561.6420096605602
+2030,Commercial building,Synthetic Gas,18.92955930048296
+2030,Commercial building,Solar,20.691394664630664
+2030,District Energy,Bio Methane,477.01154084962997
+2030,District Energy,Electricity,2516.606404500334
+2030,District Energy,Natural Gas,9063.219276141293
+2030,Freight transportation,Aviation Gasoline,0.4947520930761906
+2030,Freight transportation,Aviation Turbo Fuel,339.7020004880052
+2030,Freight transportation,Biodiesel,25.013219945128572
+2030,Freight transportation,Battery Electric Vehicle,0.05306387377940012
+2030,Freight transportation,Battery Electricity Freight,0.3590272573527504
+2030,Freight transportation,Bio Jet,0.09360599614955059
+2030,Freight transportation,Bio Methane,13.516152822723088
+2030,Freight transportation,Cellulosic Ethanol,0.5677776258086421
+2030,Freight transportation,Diesel,11386.011747314953
+2030,Freight transportation,Electricity,146.68290959932534
+2030,Freight transportation,Ethanol,387.26891297787785
+2030,Freight transportation,FT Diesel,2.6593589248834495
+2030,Freight transportation,Gasoline,9236.472901202711
+2030,Freight transportation,Hydrogen,0.047477953433270326
+2030,Freight transportation,Propane,601.9324881111492
+2030,Freight transportation,Renewable Diesel,0.05254302659721407
+2030,Freight transportation,Synthetic Jet,0.09360599614955058
+2030,Industrial building,Biomass,1.9867142722124842
+2030,Industrial building,Bio Methane,232.90498053428664
+2030,Industrial building,Coal,98.15217643120585
+2030,Industrial building,Electricity,5096.463478356103
+2030,Industrial building,Heavy Fuel Oil,120.60372435985926
+2030,Industrial building,Hydrogen,0.03826460454685089
+2030,Industrial building,Light Fuel Oil,513.6559932580706
+2030,Industrial building,Natural Gas,15788.589885601146
+2030,Industrial building,Pet Coke,237.14093693013348
+2030,Industrial building,Propane,110.73713784498008
+2030,Industrial building,Retrofit,22.961892820962394
+2030,Industrial building,Waste Heat,83.03835068207002
+2030,Long distance transportation,Aviation Gasoline,0.9427382911963612
+2030,Long distance transportation,Aviation Turbo Fuel,1869.5961587094905
+2030,Long distance transportation,Biodiesel,1.2420899571712702
+2030,Long distance transportation,Bio Jet,1.234183684314676
+2030,Long distance transportation,Diesel,1265.8290940874454
+2030,Long distance transportation,Electricity,0.5280900034223077
+2030,Long distance transportation,Gasoline,51.66644688148113
+2030,Long distance transportation,Renewable Diesel,1.046607705825476
+2030,Long distance transportation,Synthetic Jet,1.2341836843146738
+2030,Passenger transportation,Biodiesel,4.632277646663908
+2030,Passenger transportation,Battery Electric Vehicle,1.152813762446252
+2030,Passenger transportation,Bio Methane,1.2213320290935958
+2030,Passenger transportation,Cellulosic Ethanol,4.017563213429608
+2030,Passenger transportation,Diesel,4059.5594104420034
+2030,Passenger transportation,Electricity,1675.49100556593
+2030,Passenger transportation,Ethanol,5.702851553465131
+2030,Passenger transportation,Gasoline,55438.55617877556
+2030,Passenger transportation,Hydrogen,0.16723964280655387
+2030,Passenger transportation,Natural Gas,566.1536697039762
+2030,Passenger transportation,Propane,317.5169382492093
+2030,Passenger transportation,Renewable Diesel,0.6510537278297628
+2030,Passenger transportation,Synthetic Gas,0.723752883708654
+2030,Passenger transportation,Synthetic Methane,0.7237573654437846
+2030,Public building,Bio Methane,470.1462671534863
+2030,Public building,District Cooling,4.840182345646102
+2030,Public building,District Heating,1841.6231134593272
+2030,Public building,Electricity,5765.430658549099
+2030,Public building,Geothermal Energy,1.1297747571471723
+2030,Public building,Heavy Fuel Oil,0.9895781137850388
+2030,Public building,Hydrogen,2.18231878361721
+2030,Public building,Kerosene,0.7119577757056813
+2030,Public building,Light Fuel Oil,327.25086478556847
+2030,Public building,Natural Gas,7995.927762638272
+2030,Public building,Propane,5.923658953796812
+2030,Public building,Synthetic Gas,5.586783734222794
+2030,Public building,Solar,13.816604964542256
+2030,Public transportation,Biodiesel,6.254828965831305
+2030,Public transportation,Battery Electric Vehicle,0.7144204748123345
+2030,Public transportation,Battery Electricity Freight,0.45623183604855844
+2030,Public transportation,Bio Methane,380.5464261021122
+2030,Public transportation,Cellulosic Ethanol,1.6540003616310226
+2030,Public transportation,Diesel,614.9417285116186
+2030,Public transportation,Electricity,0.11449525861517784
+2030,Public transportation,Ethanol,26.453976802066784
+2030,Public transportation,FT Diesel,3.1293758045060143
+2030,Public transportation,Gasoline,646.4744884084057
+2030,Public transportation,Hydrogen,0.1716738333011093
+2030,Residential building,Biomass,800.3288058985725
+2030,Residential building,Bio Methane,25.81411347136211
+2030,Residential building,Wood Pellet,615.9041317636555
+2030,Residential building,District Cooling,88.66267043455137
+2030,Residential building,District Heating,1015.9771776350154
+2030,Residential building,Electricity,21015.930702287133
+2030,Residential building,Geothermal Energy,0.6683558652221266
+2030,Residential building,Hydrogen,2.123199691513334
+2030,Residential building,Kerosene,1.3317885303516765
+2030,Residential building,Light Fuel Oil,327.5391914718239
+2030,Residential building,Natural Gas,71604.63235764735
+2030,Residential building,Propane,617.0931958707876
+2030,Residential building,Synthetic Gas,3.4083211294364926
+2030,Residential building,Solar,3.747929762251782
+2030,Solid waste,Bio Methane,158.186767118603
+2030,Solid waste,Electricity,0.14707684879503066
+2030,Solid waste,Natural Gas,0.5381128959823576
+2030,Charging Station Energy,Electricity,2.739999226705492
+2030,Water waste,Bio Methane,0.02700685982964641
+2030,Water waste,Electricity,1451.881796226993
+2030,Water waste,Fresh water,490.80225422404084
+2030,Water waste,Natural Gas,442.30877319049966
+2035,Commercial building,Bio Methane,31.49683078676937
+2035,Commercial building,District Cooling,783.8787110815773
+2035,Commercial building,District Heating,240.15361664362402
+2035,Commercial building,Electricity,44413.673668968346
+2035,Commercial building,Geothermal Energy,2.570137533705007
+2035,Commercial building,Heavy Fuel Oil,20.20927220869466
+2035,Commercial building,Hydrogen,6.75389559467638
+2035,Commercial building,Kerosene,4.134397851145115
+2035,Commercial building,Light Fuel Oil,134.88187476937378
+2035,Commercial building,Natural Gas,40713.17935281239
+2035,Commercial building,Propane,2390.5301706811997
+2035,Commercial building,Synthetic Gas,10.831387287175284
+2035,Commercial building,Solar,29.836860908537407
+2035,District Energy,Bio Methane,163.8571336570871
+2035,District Energy,Electricity,112.30087136215404
+2035,District Energy,Natural Gas,3113.2855394828002
+2035,Freight transportation,Aviation Gasoline,0.49231449960734786
+2035,Freight transportation,Aviation Turbo Fuel,447.0667840526432
+2035,Freight transportation,Biodiesel,22.241369473790375
+2035,Freight transportation,Battery Electric Vehicle,0.065225350235135
+2035,Freight transportation,Battery Electricity Freight,0.32313309505661153
+2035,Freight transportation,Bio Jet,0.03277834202486633
+2035,Freight transportation,Bio Methane,0.6694436288083196
+2035,Freight transportation,Cellulosic Ethanol,0.4194116051102837
+2035,Freight transportation,Diesel,10504.848214657968
+2035,Freight transportation,Electricity,2.3046160871907864
+2035,Freight transportation,Ethanol,350.98076730969103
+2035,Freight transportation,FT Diesel,2.1517198292941857
+2035,Freight transportation,Gasoline,8387.567037016326
+2035,Freight transportation,Hydrogen,0.05592378359679183
+2035,Freight transportation,Propane,588.5475300247151
+2035,Freight transportation,Renewable Diesel,0.04221200539770391
+2035,Freight transportation,Synthetic Jet,0.002105422473170483
+2035,Industrial building,Biomass,4.560225682109124
+2035,Industrial building,Bio Methane,0.4565732321098813
+2035,Industrial building,Coal,99.4387506439314
+2035,Industrial building,Electricity,5118.780596327337
+2035,Industrial building,Heavy Fuel Oil,121.07279319525519
+2035,Industrial building,Hydrogen,0.04164747734558079
+2035,Industrial building,Light Fuel Oil,515.2495623049647
+2035,Industrial building,Natural Gas,16044.895436624101
+2035,Industrial building,Pet Coke,240.25001580758206
+2035,Industrial building,Propane,111.08099701201995
+2035,Industrial building,Retrofit,36.972635389746024
+2035,Industrial building,Waste Heat,133.7507158869279
+2035,Long distance transportation,Aviation Gasoline,0.879930800406027
+2035,Long distance transportation,Aviation Turbo Fuel,1948.0808737427733
+2035,Long distance transportation,Biodiesel,1.6205170612862465
+2035,Long distance transportation,Bio Jet,1.564719153142862
+2035,Long distance transportation,Diesel,1372.1583425644947
+2035,Long distance transportation,Electricity,0.7812183648515701
+2035,Long distance transportation,Ethanol,0.3412751775570051
+2035,Long distance transportation,Gasoline,69.75808268778937
+2035,Long distance transportation,Renewable Diesel,1.2131951178898128
+2035,Long distance transportation,Synthetic Jet,1.5647191531428626
+2035,Passenger transportation,Biodiesel,1.589451054386107
+2035,Passenger transportation,Battery Electric Vehicle,3.388581392800369
+2035,Passenger transportation,Bio Methane,0.007600513621302994
+2035,Passenger transportation,Cellulosic Ethanol,3.5007048539410075
+2035,Passenger transportation,Diesel,3788.1980444245155
+2035,Passenger transportation,Electricity,1559.8674686639683
+2035,Passenger transportation,Ethanol,5.394725278764053
+2035,Passenger transportation,Gasoline,52393.60964321316
+2035,Passenger transportation,Hydrogen,0.034575039566325814
+2035,Passenger transportation,Natural Gas,495.4179620544099
+2035,Passenger transportation,Propane,296.2614900985837
+2035,Passenger transportation,Renewable Diesel,0.4398423498934467
+2035,Passenger transportation,Synthetic Gas,0.028095585564577544
+2035,Passenger transportation,Synthetic Methane,0.6377175268388557
+2035,Public building,Bio Methane,764.2840749067434
+2035,Public building,District Cooling,4.337497019297706
+2035,Public building,District Heating,1403.5676694356375
+2035,Public building,Electricity,5754.684303218344
+2035,Public building,Geothermal Energy,1.3289595905037712
+2035,Public building,Heavy Fuel Oil,0.9979747806337966
+2035,Public building,Hydrogen,2.7240912728444067
+2035,Public building,Kerosene,0.7165544798303682
+2035,Public building,Light Fuel Oil,325.38413820439285
+2035,Public building,Natural Gas,8531.366517289445
+2035,Public building,Propane,6.874419184601122
+2035,Public building,Synthetic Gas,3.719069581172193
+2035,Public building,Solar,25.002340716980786
+2035,Public transportation,Biodiesel,5.823809316036885
+2035,Public transportation,Battery Electric Vehicle,0.9091922359449844
+2035,Public transportation,Battery Electricity Freight,0.5377011223481654
+2035,Public transportation,Bio Methane,388.44428053336185
+2035,Public transportation,Cellulosic Ethanol,1.414049188359813
+2035,Public transportation,Diesel,586.4223575889541
+2035,Public transportation,Electricity,0.1653020305421925
+2035,Public transportation,Ethanol,24.709027467924315
+2035,Public transportation,FT Diesel,2.9375119588366534
+2035,Public transportation,Gasoline,603.497310843903
+2035,Public transportation,Hydrogen,0.2142282591507626
+2035,Residential building,Biomass,793.938944414397
+2035,Residential building,Bio Methane,14.5927925240668
+2035,Residential building,Wood Pellet,610.9866483730997
+2035,Residential building,District Cooling,88.66110946521022
+2035,Residential building,District Heating,1004.0723700917604
+2035,Residential building,Electricity,20861.489560502792
+2035,Residential building,Geothermal Energy,0.7261028775854108
+2035,Residential building,Hydrogen,2.4509611295111373
+2035,Residential building,Kerosene,1.348736759790252
+2035,Residential building,Light Fuel Oil,325.3595912017472
+2035,Residential building,Natural Gas,71046.62604377794
+2035,Residential building,Propane,612.3241570126737
+2035,Residential building,Synthetic Gas,5.039314372664485
+2035,Residential building,Solar,5.225507961699673
+2035,Solid waste,Bio Methane,156.30802502185318
+2035,Solid waste,Electricity,0.16092181849077955
+2035,Solid waste,Natural Gas,0.6264671381604859
+2035,Charging Station Energy,Electricity,5.248900331759958
+2035,Water waste,Bio Methane,0.024291781348694468
+2035,Water waste,Electricity,1488.1878475352619
+2035,Water waste,Fresh water,504.3783045563183
+2035,Water waste,Natural Gas,452.61316726322065
+2040,Commercial building,Bio Methane,868.883759048319
+2040,Commercial building,Electricity,41395.366388372735
+2040,Commercial building,Geothermal Energy,2.8024548212888853
+2040,Commercial building,Heavy Fuel Oil,19.148535195469375
+2040,Commercial building,Hydrogen,6.52775250930357
+2040,Commercial building,Kerosene,3.1122007117092547
+2040,Commercial building,Light Fuel Oil,125.5030234715752
+2040,Commercial building,Natural Gas,35794.32566445897
+2040,Commercial building,Propane,2227.2223995401146
+2040,Commercial building,Synthetic Gas,10.679630759305502
+2040,Commercial building,Solar,27.972613392234223
+2040,Freight transportation,Aviation Gasoline,0.5874566447112254
+2040,Freight transportation,Aviation Turbo Fuel,547.9543121283938
+2040,Freight transportation,Biodiesel,20.766839188452824
+2040,Freight transportation,Battery Electric Vehicle,0.07610503014549513
+2040,Freight transportation,Battery Electricity Freight,0.35141082008353375
+2040,Freight transportation,Bio Methane,0.7241817289901076
+2040,Freight transportation,Cellulosic Ethanol,0.39317785817591566
+2040,Freight transportation,Diesel,9559.692320700398
+2040,Freight transportation,Electricity,266.2916026393971
+2040,Freight transportation,Ethanol,326.5466951249996
+2040,Freight transportation,FT Diesel,1.9794337378160078
+2040,Freight transportation,Gasoline,7805.961186440888
+2040,Freight transportation,Hydrogen,0.06990366717174996
+2040,Freight transportation,Propane,553.147743990755
+2040,Freight transportation,Renewable Diesel,0.038960766147344096
+2040,Industrial building,Biomass,6.563532889397922
+2040,Industrial building,Bio Methane,0.44742422086514966
+2040,Industrial building,Coal,99.5002799096215
+2040,Industrial building,Electricity,5074.384098738241
+2040,Industrial building,Heavy Fuel Oil,119.84732848482878
+2040,Industrial building,Hydrogen,0.04528124742700832
+2040,Industrial building,Light Fuel Oil,510.43139525783124
+2040,Industrial building,Natural Gas,16108.217717358724
+2040,Industrial building,Pet Coke,240.4007240628278
+2040,Industrial building,Propane,110.04404674108387
+2040,Industrial building,Retrofit,59.53299118983922
+2040,Industrial building,Waste Heat,215.42599531837348
+2040,Long distance transportation,Aviation Gasoline,1.005687328737955
+2040,Long distance transportation,Aviation Turbo Fuel,2019.7962522146493
+2040,Long distance transportation,Biodiesel,1.8430029656180227
+2040,Long distance transportation,Bio Jet,1.919749015935477
+2040,Long distance transportation,Diesel,1478.8059052390747
+2040,Long distance transportation,Electricity,1.022630681289724
+2040,Long distance transportation,Ethanol,1.0398604859159775
+2040,Long distance transportation,Gasoline,87.46349949082577
+2040,Long distance transportation,Renewable Diesel,1.4076303495219882
+2040,Long distance transportation,Synthetic Jet,1.9197490159354764
+2040,Passenger transportation,Biodiesel,0.7507768977049646
+2040,Passenger transportation,Battery Electric Vehicle,3.425707951780461
+2040,Passenger transportation,Bio Methane,0.03539072924198138
+2040,Passenger transportation,Cellulosic Ethanol,3.1171131087109942
+2040,Passenger transportation,Diesel,8028.582104176551
+2040,Passenger transportation,Electricity,1454.6573406665589
+2040,Passenger transportation,Ethanol,4.716110322458932
+2040,Passenger transportation,Gasoline,44788.69699749827
+2040,Passenger transportation,Hydrogen,0.023180715448749438
+2040,Passenger transportation,Natural Gas,460.9326636116996
+2040,Passenger transportation,Propane,275.87331625074984
+2040,Passenger transportation,Renewable Diesel,0.5266685040847883
+2040,Passenger transportation,Synthetic Gas,0.033080184407921036
+2040,Passenger transportation,Synthetic Methane,0.6051860697099574
+2040,Public building,Bio Methane,198.47293836865416
+2040,Public building,Electricity,6029.3473774655085
+2040,Public building,Geothermal Energy,1.2763073381859873
+2040,Public building,Heavy Fuel Oil,1.0514296453062089
+2040,Public building,Hydrogen,2.704005695499594
+2040,Public building,Kerosene,0.8902628227456748
+2040,Public building,Light Fuel Oil,338.6825976112002
+2040,Public building,Natural Gas,10515.08641094443
+2040,Public building,Propane,7.882319399725545
+2040,Public building,Synthetic Gas,3.026547342805581
+2040,Public building,Solar,79.77405952056343
+2040,Public transportation,Biodiesel,5.691949233806721
+2040,Public transportation,Battery Electric Vehicle,0.982731646324908
+2040,Public transportation,Battery Electricity Freight,0.5531564050364445
+2040,Public transportation,Bio Methane,239.2759120246598
+2040,Public transportation,Cellulosic Ethanol,1.4334102372339563
+2040,Public transportation,Diesel,657.4473973759368
+2040,Public transportation,Electricity,0.2464089924845458
+2040,Public transportation,Ethanol,27.09950742100177
+2040,Public transportation,FT Diesel,3.201478369112108
+2040,Public transportation,Gasoline,661.9007972095521
+2040,Public transportation,Hydrogen,0.2258748604016901
+2040,Residential building,Biomass,796.1802081190323
+2040,Residential building,Bio Methane,13.546155477422634
+2040,Residential building,Wood Pellet,612.7127894553764
+2040,Residential building,Electricity,20944.71416730146
+2040,Residential building,Geothermal Energy,0.637583594252453
+2040,Residential building,Hydrogen,2.4424890612903822
+2040,Residential building,Kerosene,1.3774067415936102
+2040,Residential building,Light Fuel Oil,326.278913293101
+2040,Residential building,Natural Gas,72327.61960954609
+2040,Residential building,Propane,614.8138609073061
+2040,Residential building,Synthetic Gas,0.6461879763531873
+2040,Residential building,Solar,7.051408150325646
+2040,Solid waste,Bio Methane,156.78680432887722
+2040,Solid waste,Electricity,0.16777677739432117
+2040,Solid waste,Natural Gas,0.5625914876310384
+2040,Charging Station Energy,Electricity,5.4039237669746845
+2040,Water waste,Bio Methane,0.02466934734549268
+2040,Water waste,Electricity,1522.6592293556785
+2040,Water waste,Fresh water,517.2684143461261
+2040,Water waste,Natural Gas,462.4028089979788
+2045,Commercial building,Bio Methane,1116.0943037242523
+2045,Commercial building,Electricity,39061.91518825551
+2045,Commercial building,Geothermal Energy,4.270283624138107
+2045,Commercial building,Heavy Fuel Oil,17.82261728600936
+2045,Commercial building,Hydrogen,7.386943233775018
+2045,Commercial building,Kerosene,3.1822065809980966
+2045,Commercial building,Light Fuel Oil,118.14025474866772
+2045,Commercial building,Natural Gas,33787.44036625631
+2045,Commercial building,Propane,2098.7181843931935
+2045,Commercial building,Synthetic Gas,7.013271084224786
+2045,Commercial building,Solar,27.050383005578766
+2045,Freight transportation,Aviation Gasoline,0.5320011294684778
+2045,Freight transportation,Aviation Turbo Fuel,557.2278609614399
+2045,Freight transportation,Biodiesel,19.163742122945827
+2045,Freight transportation,Battery Electric Vehicle,0.11850748511086404
+2045,Freight transportation,Battery Electricity Freight,0.5018627111848712
+2045,Freight transportation,Bio Methane,164.41749739033688
+2045,Freight transportation,Cellulosic Ethanol,0.3742635519111373
+2045,Freight transportation,Diesel,8669.566969816298
+2045,Freight transportation,Electricity,557.1904529975226
+2045,Freight transportation,Ethanol,301.87321691676664
+2045,Freight transportation,FT Diesel,1.768689673217343
+2045,Freight transportation,Gasoline,7234.338487551426
+2045,Freight transportation,Hydrogen,0.1020856847054046
+2045,Freight transportation,Propane,517.6954853257407
+2045,Freight transportation,Renewable Diesel,0.0364521587008175
+2045,Industrial building,Biomass,2052.6246741575487
+2045,Industrial building,Bio Methane,0.4043241208182273
+2045,Industrial building,Coal,99.27778388447263
+2045,Industrial building,Electricity,5021.772485262066
+2045,Industrial building,Heavy Fuel Oil,118.43741520586417
+2045,Industrial building,Hydrogen,0.04940051294305388
+2045,Industrial building,Light Fuel Oil,504.16447082858923
+2045,Industrial building,Natural Gas,14074.921710436856
+2045,Industrial building,Pet Coke,239.8651736162071
+2045,Industrial building,Propane,108.78481697173721
+2045,Industrial building,Retrofit,95.86366306197557
+2045,Industrial building,Waste Heat,346.9665684329057
+2045,Long distance transportation,Aviation Gasoline,0.7979658736452246
+2045,Long distance transportation,Aviation Turbo Fuel,2011.3154840208515
+2045,Long distance transportation,Biodiesel,2.090855554400278
+2045,Long distance transportation,Bio Jet,2.0751856142735994
+2045,Long distance transportation,Diesel,1585.745682366786
+2045,Long distance transportation,Electricity,1.3151296566700192
+2045,Long distance transportation,Ethanol,1.2822216840375
+2045,Long distance transportation,Gasoline,104.68758931806032
+2045,Long distance transportation,Renewable Diesel,1.6346582730983226
+2045,Long distance transportation,Synthetic Jet,2.0751856142735985
+2045,Passenger transportation,Biodiesel,0.8765772500161595
+2045,Passenger transportation,Battery Electric Vehicle,3.4618732421986125
+2045,Passenger transportation,Bio Methane,0.04050967600168994
+2045,Passenger transportation,Cellulosic Ethanol,2.8840264614583275
+2045,Passenger transportation,Diesel,7948.060181219843
+2045,Passenger transportation,Electricity,1346.1386282154942
+2045,Passenger transportation,Ethanol,4.319551250806881
+2045,Passenger transportation,Gasoline,41505.65821805137
+2045,Passenger transportation,Hydrogen,0.019740420259228862
+2045,Passenger transportation,Natural Gas,427.0506291082827
+2045,Passenger transportation,Propane,255.58688365461822
+2045,Passenger transportation,Renewable Diesel,0.47647113635966193
+2045,Passenger transportation,Synthetic Gas,0.02416387925940936
+2045,Passenger transportation,Synthetic Methane,0.5685855273010181
+2045,Public building,Bio Methane,23.095062308756834
+2045,Public building,Electricity,6128.74928291661
+2045,Public building,Geothermal Energy,1.769456894093258
+2045,Public building,Heavy Fuel Oil,1.0796957453107703
+2045,Public building,Hydrogen,3.1303316028612205
+2045,Public building,Kerosene,1.0452138538475928
+2045,Public building,Light Fuel Oil,343.00349107466445
+2045,Public building,Natural Gas,10745.203953708606
+2045,Public building,Propane,8.798520429634785
+2045,Public building,Synthetic Gas,7.662123210496213
+2045,Public building,Solar,164.95371031740402
+2045,Public transportation,Biodiesel,6.317633042841518
+2045,Public transportation,Battery Electric Vehicle,1.3578647288525978
+2045,Public transportation,Battery Electricity Freight,0.7465822516387988
+2045,Public transportation,Bio Methane,27.617051413626193
+2045,Public transportation,Cellulosic Ethanol,1.57564860119416
+2045,Public transportation,Diesel,744.3067334811067
+2045,Public transportation,Electricity,0.4438087293236606
+2045,Public transportation,Ethanol,30.00213862384184
+2045,Public transportation,FT Diesel,3.5081331158593954
+2045,Public transportation,Gasoline,734.3842804188016
+2045,Public transportation,Hydrogen,0.2892784236922598
+2045,Residential building,Biomass,797.4490689349321
+2045,Residential building,Bio Methane,11.451072512955975
+2045,Residential building,Wood Pellet,613.692195145109
+2045,Residential building,Electricity,20986.015092498223
+2045,Residential building,Geothermal Energy,0.8667483912926257
+2045,Residential building,Hydrogen,2.6046756165599483
+2045,Residential building,Kerosene,1.5857034320329966
+2045,Residential building,Light Fuel Oil,326.80053611766897
+2045,Residential building,Natural Gas,72442.88881881518
+2045,Residential building,Propane,615.4762905424503
+2045,Residential building,Synthetic Gas,4.848739471147714
+2045,Residential building,Solar,7.435189070032614
+2045,Solid waste,Bio Methane,4.227524248129587
+2045,Solid waste,Electricity,0.4276974020102858
+2045,Solid waste,Natural Gas,0.8505213062834897
+2045,Charging Station Energy,Electricity,6.199012989623256
+2045,Water waste,Bio Methane,0.02378404413675993
+2045,Water waste,Electricity,1559.435132758571
+2045,Water waste,Fresh water,531.0195323925373
+2045,Water waste,Natural Gas,472.85465216672065
+2050,Commercial building,Bio Methane,136.49328201145192
+2050,Commercial building,Electricity,39814.23452337909
+2050,Commercial building,Geothermal Energy,8.977917504377778
+2050,Commercial building,Heavy Fuel Oil,18.034853745828965
+2050,Commercial building,Hydrogen,27.44266829601255
+2050,Commercial building,Kerosene,9.192098833808585
+2050,Commercial building,Light Fuel Oil,120.90293377890225
+2050,Commercial building,Natural Gas,34427.18069659797
+2050,Commercial building,Propane,2139.165566744134
+2050,Commercial building,Synthetic Gas,21.24975682217012
+2050,Commercial building,Solar,39.05318077846538
+2050,Freight transportation,Aviation Gasoline,1.513372999392562
+2050,Freight transportation,Aviation Turbo Fuel,565.464544815674
+2050,Freight transportation,Biodiesel,18.617254481211386
+2050,Freight transportation,Battery Electric Vehicle,0.2871987752885255
+2050,Freight transportation,Battery Electricity Freight,1.3561759392454644
+2050,Freight transportation,Bio Methane,1194.9310387648588
+2050,Freight transportation,Cellulosic Ethanol,0.3838980796776586
+2050,Freight transportation,Diesel,8059.897769549842
+2050,Freight transportation,Electricity,567.7225966428881
+2050,Freight transportation,Ethanol,279.29820310086546
+2050,Freight transportation,FT Diesel,1.2791051708849
+2050,Freight transportation,Gasoline,6678.403166107131
+2050,Freight transportation,Heavy Fuel Oil,0.35148576991162916
+2050,Freight transportation,Hydrogen,0.23679712599223737
+2050,Freight transportation,Propane,482.8063088768582
+2050,Freight transportation,Renewable Diesel,0.023693875835682745
+2050,Industrial building,Biomass,2246.0508963010016
+2050,Industrial building,Bio Methane,1.856174502160679
+2050,Industrial building,Coal,98.52691703005858
+2050,Industrial building,Electricity,4927.178012149161
+2050,Industrial building,Heavy Fuel Oil,116.38703329424406
+2050,Industrial building,Hydrogen,0.23414994498528893
+2050,Industrial building,Light Fuel Oil,496.56076179276687
+2050,Industrial building,Natural Gas,13836.457334595583
+2050,Industrial building,Pet Coke,238.14235087993686
+2050,Industrial building,Propane,107.19903576483699
+2050,Industrial building,Retrofit,154.21215891868866
+2050,Industrial building,Waste Heat,558.6243499320113
+2050,Long distance transportation,Aviation Gasoline,1.9231508136045508
+2050,Long distance transportation,Aviation Turbo Fuel,2033.2960345284707
+2050,Long distance transportation,Biodiesel,7.611558416933244
+2050,Long distance transportation,Bio Jet,8.649126495230005
+2050,Long distance transportation,Diesel,1704.9024531566447
+2050,Long distance transportation,Electricity,6.372951467145028
+2050,Long distance transportation,Ethanol,5.0994141326387314
+2050,Long distance transportation,Gasoline,89.05021773601518
+2050,Long distance transportation,Renewable Diesel,6.871868260283792
+2050,Long distance transportation,Synthetic Jet,8.649126495229993
+2050,Passenger transportation,Biodiesel,12.685163370982483
+2050,Passenger transportation,Battery Electric Vehicle,2.5068275111097087
+2050,Passenger transportation,Bio Methane,3.320599028882612
+2050,Passenger transportation,Cellulosic Ethanol,3.2063047296716687
+2050,Passenger transportation,Diesel,8320.395665729155
+2050,Passenger transportation,Electricity,1326.8681121367738
+2050,Passenger transportation,Ethanol,4.5422125822357495
+2050,Passenger transportation,Gasoline,40887.576148861546
+2050,Passenger transportation,Hydrogen,7.027164619461825
+2050,Passenger transportation,Natural Gas,420.61743236626825
+2050,Passenger transportation,Propane,251.7370413616711
+2050,Passenger transportation,Renewable Diesel,0.37558038089713736
+2050,Passenger transportation,Synthetic Gas,0.6208808061642236
+2050,Passenger transportation,Synthetic Methane,0.6209488171511972
+2050,Public building,Bio Methane,50.973593026169524
+2050,Public building,Electricity,6109.843512910499
+2050,Public building,Geothermal Energy,3.6706377589306807
+2050,Public building,Heavy Fuel Oil,1.089171273251192
+2050,Public building,Hydrogen,11.490588103884948
+2050,Public building,Kerosene,1.0885489837024214
+2050,Public building,Light Fuel Oil,342.9156004642307
+2050,Public building,Natural Gas,10751.206332418506
+2050,Public building,Propane,26.906355080018688
+2050,Public building,Synthetic Gas,9.545166897866785
+2050,Public building,Solar,254.42951375681375
+2050,Public transportation,Biodiesel,10.662831987073206
+2050,Public transportation,Battery Electric Vehicle,2.7580178245431455
+2050,Public transportation,Battery Electricity Freight,1.7878578324633536
+2050,Public transportation,Bio Methane,8.09816834777894
+2050,Public transportation,Cellulosic Ethanol,3.8265890657095194
+2050,Public transportation,Diesel,726.2615718949105
+2050,Public transportation,Electricity,1.1954813170128937
+2050,Public transportation,Ethanol,29.188061604090546
+2050,Public transportation,FT Diesel,3.762165190345486
+2050,Public transportation,Gasoline,712.823950503888
+2050,Public transportation,Hydrogen,0.5817555006518936
+2050,Residential building,Biomass,804.8774199788446
+2050,Residential building,Bio Methane,36.26349638283556
+2050,Residential building,Wood Pellet,619.4767830812821
+2050,Residential building,Electricity,21180.650281496903
+2050,Residential building,Geothermal Energy,1.8669615529675625
+2050,Residential building,Hydrogen,9.198391363460305
+2050,Residential building,Kerosene,5.71087347821403
+2050,Residential building,Light Fuel Oil,329.89175693371027
+2050,Residential building,Natural Gas,73114.77002777929
+2050,Residential building,Propane,620.880868743075
+2050,Residential building,Synthetic Gas,7.842285372128264
+2050,Residential building,Solar,16.21247124356868
+2050,Solid waste,Bio Methane,30.74409150361211
+2050,Solid waste,Electricity,0.4801015082771255
+2050,Solid waste,Natural Gas,4.10667333200789
+2050,Charging Station Energy,Electricity,8.696077139948978
+2050,Water waste,Bio Methane,0.10498021005301467
+2050,Water waste,Electricity,1593.6780762222288
+2050,Water waste,Fresh water,543.826064011902
+2050,Water waste,Natural Gas,483.9814515295126

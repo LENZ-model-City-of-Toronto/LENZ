@@ -1,0 +1,10 @@
+INSERT INTO`technologies`VALUES('FRETRAROATRULGTCONVGAS_EX','p','FRETRA','Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline','nan');
+INSERT INTO`technologies`VALUES('FRETRAROATRULGTCONVPRO_EX','p','FRETRA','Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane','nan');
+INSERT INTO`technologies`VALUES('FRETRAROATRULGTCONVDSL_EX','p','FRETRA','Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel','nan');
+INSERT INTO`technologies`VALUES('FRETRAROATRUMETCONVGAS_EX','p','FRETRA','Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline','nan');
+INSERT INTO`technologies`VALUES('FRETRAROATRUMETCONVDSL_EX','p','FRETRA','Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel','nan');
+INSERT INTO`technologies`VALUES('FRETRAROATRUHETCONVDSL_EX','p','FRETRA','Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel','nan');
+INSERT INTO`technologies`VALUES('FRETRAAIR_________ATF_EX','p','FRETRA','Freight TransportationTransportationAirAviation Turbo Fuel','nan');
+INSERT INTO`technologies`VALUES('FRETRAAIR_________AGA_EX','p','FRETRA','Freight TransportationTransportationAirAviation Gasoline','nan');
+INSERT INTO`technologies`VALUES('FRETRARAI_________DSL_EX','p','FRETRA','Freight TransportationTransportationRailDiesel','nan');
+INSERT INTO`technologies`VALUES('FRETRAMAR_________ALL_EX','p','FRETRA','Freight TransportationTransportationMarineAll','nan');

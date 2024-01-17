@@ -1,0 +1,11 @@
+regions,tech,life,life_notes
+TO,INDBDGLISEP_EX,200,IndustryBuildingLightingSelf produced
+TO,INDBDGSCSEP_EX,200,IndustryBuildingSpace CoolingSelf produced
+TO,INDBDGSCDCO_EX,200,IndustryBuildingSpace CoolingDistrict Cooling
+TO,INDBDGIPSEP_EX,200,IndustryBuildingIndustrial ProcessesSelf producedMix Energy
+TO,INDBDGIPSEPMENE_EX,200,IndustryBuildingIndustrial ProcessesSelf producedMix Energy
+TO,INDBDGSHSEP_EX,200,IndustryBuildingSpace HeatingSelf produced
+TO,INDBDGSHDHE_EX,200,IndustryBuildingSpace HeatingDistrict Heating
+TO,INDBDGWHSEP_EX,200,IndustryBuildingWater HeatingSelf produced
+TO,INDBDGWHDHE_EX,200,IndustryBuildingWater HeatingDistrict Heating
+TO,INDBDGIPSEPETHOS_EX,200,IndustryBuildingIndustrial ProcessesSelf produced

@@ -1,0 +1,15 @@
+INSERT INTO`CapacityToActivity`VALUES('TO','WATWASWWABGASERKSTD____23',0.40677966101695456,'WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency');
+INSERT INTO`CapacityToActivity`VALUES('TO','WATWASWWABGASERKSTDMENE_23',1.0,'WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy');
+INSERT INTO`CapacityToActivity`VALUES('TO','WATWASWWABADIPUB_______23',0.3828808749640612,'WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic');
+INSERT INTO`CapacityToActivity`VALUES('TO','WATWASWWABADIPUB___MENE_23',1.0,'WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy');
+INSERT INTO`CapacityToActivity`VALUES('TO','WATWASWWABGASCENCCSHH2_23',14.489513513513515,'WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen');
+INSERT INTO`CapacityToActivity`VALUES('TO','WATWASWWHBGASERKSTD____23',0.40677966101695456,'WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency');
+INSERT INTO`CapacityToActivity`VALUES('TO','WATWASWWHBGASERKSTDMENE_23',1.0,'WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy');
+INSERT INTO`CapacityToActivity`VALUES('TO','WATWASWWHBADIPUB_______23',0.3828808749640612,'WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic');
+INSERT INTO`CapacityToActivity`VALUES('TO','WATWASWWHBADIPUB___MENE_23',1.0,'WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy');
+INSERT INTO`CapacityToActivity`VALUES('TO','WATWASWWHBGASCENCCSHH2_23',14.489513513513515,'WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen');
+INSERT INTO`CapacityToActivity`VALUES('TO','WATWASWWHCGASERKSTD____23',0.40677966101695456,'WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency');
+INSERT INTO`CapacityToActivity`VALUES('TO','WATWASWWHCGASERKSTDMENE_23',1.0,'WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy');
+INSERT INTO`CapacityToActivity`VALUES('TO','WATWASWWHCADIPUB_______23',0.3828808749640612,'WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublic');
+INSERT INTO`CapacityToActivity`VALUES('TO','WATWASWWHCADIPUB___MENE_23',1.0,'WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy');
+INSERT INTO`CapacityToActivity`VALUES('TO','WATWASWWHCGASCENCCSHH2_23',14.489513513513515,'WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen');

@@ -1,0 +1,10 @@
+INSERT INTO`LifetimeTech`VALUES('TO','WATWASFWSPL',200,'WaterWasteSplitFresh water');
+INSERT INTO`LifetimeTech`VALUES('TO','WATWASCOLRW',200,'WaterWasteRain collectionRain water');
+INSERT INTO`LifetimeTech`VALUES('TO','WATWASSEWWW',200,'WaterWasteSewer CollectionFresh water');
+INSERT INTO`LifetimeTech`VALUES('TO','WATWASPUMWW',200,'WaterWastePumpWaste water');
+INSERT INTO`LifetimeTech`VALUES('TO','WATWASGRIWW',200,'WaterWasteGridWaste water');
+INSERT INTO`LifetimeTech`VALUES('TO','WATWASSTPWW',200,'WaterWasteSplit Treatment PlantWaste water');
+INSERT INTO`LifetimeTech`VALUES('TO','WATWASPUMFW',200,'WaterWastePumpFresh water');
+INSERT INTO`LifetimeTech`VALUES('TO','WATWASGRIFW',200,'WaterWasteGridFresh water');
+INSERT INTO`LifetimeTech`VALUES('TO','WATWASSTPFW',200,'WaterWasteSplit Treatment PlantFresh water');
+INSERT INTO`LifetimeTech`VALUES('TO','TOWATWASETHOS',200,0);

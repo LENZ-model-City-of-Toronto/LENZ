@@ -1,0 +1,7 @@
+tech,flag,sector,tech_desc,tech_category
+LDITRADOMAIR_________AGA_EX,p,LDITRA,Long DistanceTransportationDomesticAirAviation Gasoline,
+LDITRADOMAIR_________ATF_EX,p,LDITRA,Long DistanceTransportationDomesticAirAviation Turbo Fuel,
+LDITRADOMRAI_________DSL_EX,p,LDITRA,Long DistanceTransportationDomesticRailDiesel,
+LDITRAINTAIR_________AGA_EX,p,LDITRA,Long DistanceTransportationInternationalAirAviation Gasoline,
+LDITRAINTAIR_________ATF_EX,p,LDITRA,Long DistanceTransportationInternationalAirAviation Turbo Fuel,
+LDITRAINTRAI_________DSL_EX,p,LDITRA,Long DistanceTransportationInternationalRailDiesel,

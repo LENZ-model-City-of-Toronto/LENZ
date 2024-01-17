@@ -1,0 +1,6 @@
+INSERT INTO`commodities`VALUES('SEEWATWASWWABGASMENE','p','SecondaryEnergyWaterWasteWaterWasteAhsbridges Bay Wastewater Treatment PlantGasification');
+INSERT INTO`commodities`VALUES('SEEWATWASWWABADIMENE','p','SecondaryEnergyWaterWasteWaterWasteAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester');
+INSERT INTO`commodities`VALUES('SEEWATWASWWHBGASMENE','p','Secondary EnergyWaterWasteWaterWasteHumber Wastewater Treatment PlantGasification');
+INSERT INTO`commodities`VALUES('SEEWATWASWWHBADIMENE','p','Secondary EnergyWaterWasteWaterWasteHumber Wastewater Treatment PlantAnaerobic Digester');
+INSERT INTO`commodities`VALUES('SEEWATWASWWHCGASMENE','p','Secondary EnergyWaterWasteWaterWasteHighland Creek Wastewater Treatment PlantGasification');
+INSERT INTO`commodities`VALUES('SEEWATWASWWHCADIMENE','p','Secondary EnergyWaterWasteWaterWasteHighland Creek Wastewater Treatment PlantAnaerobic Digester');

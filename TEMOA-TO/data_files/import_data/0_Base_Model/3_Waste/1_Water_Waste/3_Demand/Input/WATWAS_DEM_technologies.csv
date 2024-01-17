@@ -1,0 +1,11 @@
+tech,flag,sector,tech_desc,tech_category
+WATWASFWSPL,p,WATWAS,WaterWasteSplitFresh water,
+WATWASCOLRW,p,WATWAS,WaterWasteRain collectionRain water,
+WATWASSEWWW,p,WATWAS,WaterWasteSewer CollectionFresh water,
+WATWASPUMWW,p,WATWAS,WaterWastePumpWaste water,
+WATWASGRIWW,p,WATWAS,WaterWasteGridWaste water,
+WATWASSTPWW,p,WATWAS,WaterWasteSplit Treatment PlantWaste water,
+WATWASPUMFW,p,WATWAS,WaterWastePumpFresh water,
+WATWASGRIFW,p,WATWAS,WaterWasteGridFresh water,
+WATWASSTPFW,p,WATWAS,WaterWasteSplit Treatment PlantFresh water,
+TOWATWASETHOS,p,WATWAS,0,

@@ -1,0 +1,41 @@
+comm_name,flag,comm_desc
+ADEMWATWASFW,d,Aggregated DemandWaterWasteFresh water
+ADEMWATWASRW,d,Aggregated DemandWaterWasteRain water
+ADEMWATWASWWAB,p,Aggregated DemandWaterWasteWaterWasteAhsbridges Bay Wastewater Treatment Plant
+ADEMWATWASWWABTTE,p,Aggregated DemandWaterWasteWaterWasteAhsbridges Bay Wastewater Treatment PlantTon to Energy
+EUEWATWASWWABTTE,p,End Use EnergyWaterWasteWaterWasteAhsbridges Bay Wastewater Treatment PlantTon to Energy
+BMTNWATWASWWAB,p,BiomethaneWaterWasteWaterWasteAhsbridges Bay Wastewater Treatment Plant
+SEEWATWASWWABADIMNGA,p,SecondaryEnergyWaterWasteWaterWasteAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+ADEMWATWASWWHC,p,Aggregated DemandWaterWasteWaterWasteHighland Creek Wastewater Treatment Plant
+ADEMWATWASWWINC,p,Aggregated DemandWaterWasteWaterWasteIncineration
+SEEWATWASWWHCINCMNGA,p,Secondary EnergyWaterWasteWaterWasteIncineration
+ADEMWATWASWWHCTTE,p,Aggregated DemandWaterWasteWaterWasteHighland Creek Wastewater Treatment PlantTon to Energy
+EUEWATWASWWHCTTE,p,End Use EnergyWaterWasteWaterWasteHighland Creek Wastewater Treatment PlantTon to Energy
+BMTNWATWASWWHC,p,BiomethaneWaterWasteWaterWasteHighland Creek Wastewater Treatment Plant
+SEEWATWASWWHCADIMNGA,p,Secondary EnergyWaterWasteWaterWasteHighland Creek Wastewater Treatment PlantAnaerobic Digester
+ADEMWATWASWWHB,p,Aggregated DemandWaterWasteWaterWasteHumber Wastewater Treatment Plant
+ADEMWATWASWWHBTTE,p,Aggregated DemandWaterWasteWaterWasteHumber Wastewater Treatment PlantTon to Energy
+EUEWATWASWWHBTTE,p,End Use EnergyWaterWasteWaterWasteHumber Wastewater Treatment PlantTon to Energy
+BMTNWATWASWWHB,p,BiomethaneWaterWasteWaterWasteHumber Wastewater Treatment Plant
+SEEWATWASWWHBADIMNGA,p,Secondary EnergyWaterWasteWaterWasteHumber Wastewater Treatment PlantAnaerobic Digester
+ADEMWATWASWWNT,p,Aggregated DemandWaterWasteWaterWasteNorth Toronto Wastewater Treatment Plant
+ADEMWATWASNTWWPRC,p,Aggregated DemandWaterWasteWaterWasteNorth Toronto Wastewater Treatment PlantProcess
+ADEMWATWASFWRCH,p,Aggregated DemandWaterWasteFresh waterR.C. Harris Water Treatment Plant
+ADEMWATWASFWFJH,p,Aggregated DemandWaterWasteFresh waterF.J Horgan Water Treatment Plant
+ADEMWATWASFWRLC,p,Aggregated DemandWaterWasteFresh waterR.L. Clark Water Treatment Plant
+ADEMWATWASFWISD,p,Aggregated DemandWaterWasteFresh waterIsland Water Treatment Plant
+ADEMWATWASFWWW,p,Aggregated DemandWaterWasteFresh waterWaste Water
+ADEMWATWASCOLRWWW,p,Aggregated DemandWaterWasteCollectorRain Water
+ADEMWATWASSEWWW,p,Aggregated DemandWaterWasteSewage
+ADEMWATWASPUMWW,p,Aggregated DemandWaterWastePump
+ADEMWATWASGRIWW,p,Aggregated DemandWaterWasteGrid
+ADEMWATWASFWFW,p,Aggregated DemandFreshWater
+ADEMWATWASPUMFW,p,Aggregated DemandFreshWaterPump
+ADEMWATWASGRIFW,p,Aggregated DemandFreshWaterGrid
+WATWASBMTN,p,WaterWasteBiomethane
+WATWASETHOS,p,WaterWasteDummy
+WATWASELC,p,WaterWasteElectricity
+WATWASNGA,p,WaterWasteNatural Gas
+WATWASHH2,p,WaterWasteHydrogen
+WATWASCETH,p,WaterWasteCellulosic Ethanol
+WATWASFW,p,WaterWasteLake Water

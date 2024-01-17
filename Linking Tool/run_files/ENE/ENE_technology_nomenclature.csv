@@ -1,0 +1,891 @@
+COM,BDG,DCO,,15,AVG,PIP,___,,CW,EX,COMBDGDCOAVGPIP___CW_EX,CommercialBuildingDistrict CoolingToronto AveragePipe,DISENE,MW,TJ
+COM,BDG,DCO,,15,AVG,SUB,___,,CW,EX,COMBDGDCOAVGSUB___CW_EX,CommercialBuildingDistrict CoolingToronto AverageSubstation,DISENE,MW,TJ
+COM,BDG,DCO,,15,CON,HEP,LAR,,HWC,EX,COMBDGDCOCONHEPLARHWC_EX,CommercialBuildingDistrict CoolingConsumptionHeat PumpLarge,DISENE,MW,TJ
+COM,BDG,DCO,,15,CON,HEP,MED,,HWC,EX,COMBDGDCOCONHEPMEDHWC_EX,CommercialBuildingDistrict CoolingConsumptionHeat PumpMedium,DISENE,MW,TJ
+COM,BDG,DCO,,15,CON,HEP,SMA,,HWC,EX,COMBDGDCOCONHEPSMAHWC_EX,CommercialBuildingDistrict CoolingConsumptionHeat PumpSmall,DISENE,MW,TJ
+COM,BDG,DCO,,15,PRD,DLA,ENW,,ELC,EX,COMBDGDCOPRDDLAENWELC_EX,CommercialBuildingDistrict CoolingProductionDeep Lake CoolingEnwave,DISENE,MW,TJ
+COM,BDG,DCO,,15,PRD,HEP,ENW,,ELC,EX,COMBDGDCOPRDHEPENWELC_EX,CommercialBuildingDistrict CoolingProductionHeat PumpEnwave,DISENE,MW,TJ
+COM,BDG,DCO,,15,PRD,HEP,LAR,,ELC,EX,COMBDGDCOPRDHEPLARELC_EX,CommercialBuildingDistrict CoolingProductionHeat PumpLarge,DISENE,MW,TJ
+COM,BDG,DCO,,15,PRD,HEP,LAR,,HWP,EX,COMBDGDCOPRDHEPLARHWP_EX,CommercialBuildingDistrict CoolingProductionHeat PumpLarge,DISENE,MW,TJ
+COM,BDG,DCO,,15,PRD,HEP,MED,,ELC,EX,COMBDGDCOPRDHEPMEDELC_EX,CommercialBuildingDistrict CoolingProductionHeat PumpMedium,DISENE,MW,TJ
+COM,BDG,DCO,,15,PRD,HEP,MED,,HWP,EX,COMBDGDCOPRDHEPMEDHWP_EX,CommercialBuildingDistrict CoolingProductionHeat PumpMedium,DISENE,MW,TJ
+COM,BDG,DCO,,15,PRD,HEP,SMA,,ELC,EX,COMBDGDCOPRDHEPSMAELC_EX,CommercialBuildingDistrict CoolingProductionHeat PumpSmall,DISENE,MW,TJ
+COM,BDG,DCO,,15,PRD,HEP,SMA,,HWP,EX,COMBDGDCOPRDHEPSMAHWP_EX,CommercialBuildingDistrict CoolingProductionHeat PumpSmall,DISENE,MW,TJ
+COM,BDG,DCO,,15,STG,HTS,LAR,,CW,EX,COMBDGDCOSTGHTSLARCW_EX,CommercialBuildingDistrict CoolingStorageHot Tank StorageLarge,DISENE,MW,TJ
+COM,BDG,DCO,,15,STG,HTS,MED,,CW,EX,COMBDGDCOSTGHTSMEDCW_EX,CommercialBuildingDistrict CoolingStorageHot Tank StorageMedium,DISENE,MW,TJ
+COM,BDG,DCO,,15,STG,HTS,SMA,,CW,EX,COMBDGDCOSTGHTSSMACW_EX,CommercialBuildingDistrict CoolingStorageHot Tank StorageSmall,DISENE,MW,TJ
+COM,BDG,DHE,,15,AVG,PIP,___,,HW,EX,COMBDGDHEAVGPIP___HW_EX,CommercialBuildingDistrict HeatingToronto AveragePipe,DISENE,MW,TJ
+COM,BDG,DHE,,15,AVG,SUB,___,,HW,EX,COMBDGDHEAVGSUB___HW_EX,CommercialBuildingDistrict HeatingToronto AverageSubstation,DISENE,MW,TJ
+COM,BDG,DHE,,15,CON,HEP,LAR,,HWC,EX,COMBDGDHECONHEPLARHWC_EX,CommercialBuildingDistrict HeatingConsumptionHeat PumpLarge,DISENE,MW,TJ
+COM,BDG,DHE,,15,CON,HEP,MED,,HWC,EX,COMBDGDHECONHEPMEDHWC_EX,CommercialBuildingDistrict HeatingConsumptionHeat PumpMedium,DISENE,MW,TJ
+COM,BDG,DHE,,15,CON,HEP,SMA,,HWC,EX,COMBDGDHECONHEPSMAHWC_EX,CommercialBuildingDistrict HeatingConsumptionHeat PumpSmall,DISENE,MW,TJ
+COM,BDG,DHE,,15,PRD,BOI,LAR,,ELC,EX,COMBDGDHEPRDBOILARELC_EX,CommercialBuildingDistrict HeatingProductionBoilerLarge,DISENE,MW,TJ
+COM,BDG,DHE,,15,PRD,BOI,LAR,,NGA,EX,COMBDGDHEPRDBOILARNGA_EX,CommercialBuildingDistrict HeatingProductionBoilerLarge,DISENE,MW,TJ
+COM,BDG,DHE,,15,PRD,BOI,MED,,ELC,EX,COMBDGDHEPRDBOIMEDELC_EX,CommercialBuildingDistrict HeatingProductionBoilerMedium,DISENE,MW,TJ
+COM,BDG,DHE,,15,PRD,BOI,MED,,NGA,EX,COMBDGDHEPRDBOIMEDNGA_EX,CommercialBuildingDistrict HeatingProductionBoilerMedium,DISENE,MW,TJ
+COM,BDG,DHE,,15,PRD,BOI,SMA,,ELC,EX,COMBDGDHEPRDBOISMAELC_EX,CommercialBuildingDistrict HeatingProductionBoilerSmall,DISENE,MW,TJ
+COM,BDG,DHE,,15,PRD,BOI,SMA,,NGA,EX,COMBDGDHEPRDBOISMANGA_EX,CommercialBuildingDistrict HeatingProductionBoilerSmall,DISENE,MW,TJ
+COM,BDG,DHE,,15,PRD,GTU,LAR,,NGA,EX,COMBDGDHEPRDGTULARNGA_EX,CommercialBuildingDistrict HeatingProductionGas TurbineLarge,DISENE,MW,TJ
+COM,BDG,DHE,,15,PRD,GTU,MED,,NGA,EX,COMBDGDHEPRDGTUMEDNGA_EX,CommercialBuildingDistrict HeatingProductionGas TurbineMedium,DISENE,MW,TJ
+COM,BDG,DHE,,15,PRD,GTU,SMA,,NGA,EX,COMBDGDHEPRDGTUSMANGA_EX,CommercialBuildingDistrict HeatingProductionGas TurbineSmall,DISENE,MW,TJ
+COM,BDG,DHE,,15,PRD,ICE,LAR,,NGA,EX,COMBDGDHEPRDICELARNGA_EX,CommercialBuildingDistrict HeatingProductionInternal Combustion EngineLarge,DISENE,MW,TJ
+COM,BDG,DHE,,15,PRD,ICE,MED,,NGA,EX,COMBDGDHEPRDICEMEDNGA_EX,CommercialBuildingDistrict HeatingProductionInternal Combustion EngineMedium,DISENE,MW,TJ
+COM,BDG,DHE,,15,PRD,ICE,SMA,,NGA,EX,COMBDGDHEPRDICESMANGA_EX,CommercialBuildingDistrict HeatingProductionInternal Combustion EngineSmall,DISENE,MW,TJ
+COM,BDG,DHE,,15,STG,HTS,LAR,,HW,EX,COMBDGDHESTGHTSLARHW_EX,CommercialBuildingDistrict HeatingStorageHot Tank StorageLarge,DISENE,MW,TJ
+COM,BDG,DHE,,15,STG,HTS,MED,,HW,EX,COMBDGDHESTGHTSMEDHW_EX,CommercialBuildingDistrict HeatingStorageHot Tank StorageMedium,DISENE,MW,TJ
+COM,BDG,DHE,,15,STG,HTS,SMA,,HW,EX,COMBDGDHESTGHTSSMAHW_EX,CommercialBuildingDistrict HeatingStorageHot Tank StorageSmall,DISENE,MW,TJ
+COM,BDG,DHE,,15,STG,PIT,LAR,,HW,EX,COMBDGDHESTGPITLARHW_EX,CommercialBuildingDistrict HeatingStoragePit StorageLarge,DISENE,MW,TJ
+COM,BDG,DHE,,15,STG,PIT,MED,,HW,EX,COMBDGDHESTGPITMEDHW_EX,CommercialBuildingDistrict HeatingStoragePit StorageMedium,DISENE,MW,TJ
+COM,BDG,DHE,,15,STG,PIT,SMA,,HW,EX,COMBDGDHESTGPITSMAHW_EX,CommercialBuildingDistrict HeatingStoragePit StorageSmall,DISENE,MW,TJ
+IND,BDG,DCO,,15,AVG,PIP,___,,CW,EX,INDBDGDCOAVGPIP___CW_EX,IndustrialBuildingDistrict CoolingToronto AveragePipe,DISENE,MW,TJ
+IND,BDG,DCO,,15,AVG,SUB,___,,CW,EX,INDBDGDCOAVGSUB___CW_EX,IndustrialBuildingDistrict CoolingToronto AverageSubstation,DISENE,MW,TJ
+IND,BDG,DCO,,15,CON,HEP,LAR,,HWC,EX,INDBDGDCOCONHEPLARHWC_EX,IndustrialBuildingDistrict CoolingConsumptionHeat PumpLarge,DISENE,MW,TJ
+IND,BDG,DCO,,15,CON,HEP,MED,,HWC,EX,INDBDGDCOCONHEPMEDHWC_EX,IndustrialBuildingDistrict CoolingConsumptionHeat PumpMedium,DISENE,MW,TJ
+IND,BDG,DCO,,15,CON,HEP,SMA,,HWC,EX,INDBDGDCOCONHEPSMAHWC_EX,IndustrialBuildingDistrict CoolingConsumptionHeat PumpSmall,DISENE,MW,TJ
+IND,BDG,DCO,,15,PRD,DLA,ENW,,ELC,EX,INDBDGDCOPRDDLAENWELC_EX,IndustrialBuildingDistrict CoolingProductionDeep Lake CoolingEnwave,DISENE,MW,TJ
+IND,BDG,DCO,,15,PRD,HEP,ENW,,ELC,EX,INDBDGDCOPRDHEPENWELC_EX,IndustrialBuildingDistrict CoolingProductionHeat PumpEnwave,DISENE,MW,TJ
+IND,BDG,DCO,,15,PRD,HEP,LAR,,ELC,EX,INDBDGDCOPRDHEPLARELC_EX,IndustrialBuildingDistrict CoolingProductionHeat PumpLarge,DISENE,MW,TJ
+IND,BDG,DCO,,15,PRD,HEP,LAR,,HWP,EX,INDBDGDCOPRDHEPLARHWP_EX,IndustrialBuildingDistrict CoolingProductionHeat PumpLarge,DISENE,MW,TJ
+IND,BDG,DCO,,15,PRD,HEP,MED,,ELC,EX,INDBDGDCOPRDHEPMEDELC_EX,IndustrialBuildingDistrict CoolingProductionHeat PumpMedium,DISENE,MW,TJ
+IND,BDG,DCO,,15,PRD,HEP,MED,,HWP,EX,INDBDGDCOPRDHEPMEDHWP_EX,IndustrialBuildingDistrict CoolingProductionHeat PumpMedium,DISENE,MW,TJ
+IND,BDG,DCO,,15,PRD,HEP,SMA,,ELC,EX,INDBDGDCOPRDHEPSMAELC_EX,IndustrialBuildingDistrict CoolingProductionHeat PumpSmall,DISENE,MW,TJ
+IND,BDG,DCO,,15,PRD,HEP,SMA,,HWP,EX,INDBDGDCOPRDHEPSMAHWP_EX,IndustrialBuildingDistrict CoolingProductionHeat PumpSmall,DISENE,MW,TJ
+IND,BDG,DCO,,15,STG,HTS,LAR,,CW,EX,INDBDGDCOSTGHTSLARCW_EX,IndustrialBuildingDistrict CoolingStorageHot Tank StorageLarge,DISENE,MW,TJ
+IND,BDG,DCO,,15,STG,HTS,MED,,CW,EX,INDBDGDCOSTGHTSMEDCW_EX,IndustrialBuildingDistrict CoolingStorageHot Tank StorageMedium,DISENE,MW,TJ
+IND,BDG,DCO,,15,STG,HTS,SMA,,CW,EX,INDBDGDCOSTGHTSSMACW_EX,IndustrialBuildingDistrict CoolingStorageHot Tank StorageSmall,DISENE,MW,TJ
+IND,BDG,DHE,,15,AVG,PIP,___,,HW,EX,INDBDGDHEAVGPIP___HW_EX,IndustrialBuildingDistrict HeatingToronto AveragePipe,DISENE,MW,TJ
+IND,BDG,DHE,,15,AVG,SUB,___,,HW,EX,INDBDGDHEAVGSUB___HW_EX,IndustrialBuildingDistrict HeatingToronto AverageSubstation,DISENE,MW,TJ
+IND,BDG,DHE,,15,CON,HEP,LAR,,HWC,EX,INDBDGDHECONHEPLARHWC_EX,IndustrialBuildingDistrict HeatingConsumptionHeat PumpLarge,DISENE,MW,TJ
+IND,BDG,DHE,,15,CON,HEP,MED,,HWC,EX,INDBDGDHECONHEPMEDHWC_EX,IndustrialBuildingDistrict HeatingConsumptionHeat PumpMedium,DISENE,MW,TJ
+IND,BDG,DHE,,15,CON,HEP,SMA,,HWC,EX,INDBDGDHECONHEPSMAHWC_EX,IndustrialBuildingDistrict HeatingConsumptionHeat PumpSmall,DISENE,MW,TJ
+IND,BDG,DHE,,15,PRD,BOI,LAR,,ELC,EX,INDBDGDHEPRDBOILARELC_EX,IndustrialBuildingDistrict HeatingProductionBoilerLarge,DISENE,MW,TJ
+IND,BDG,DHE,,15,PRD,BOI,LAR,,NGA,EX,INDBDGDHEPRDBOILARNGA_EX,IndustrialBuildingDistrict HeatingProductionBoilerLarge,DISENE,MW,TJ
+IND,BDG,DHE,,15,PRD,BOI,MED,,ELC,EX,INDBDGDHEPRDBOIMEDELC_EX,IndustrialBuildingDistrict HeatingProductionBoilerMedium,DISENE,MW,TJ
+IND,BDG,DHE,,15,PRD,BOI,MED,,NGA,EX,INDBDGDHEPRDBOIMEDNGA_EX,IndustrialBuildingDistrict HeatingProductionBoilerMedium,DISENE,MW,TJ
+IND,BDG,DHE,,15,PRD,BOI,SMA,,ELC,EX,INDBDGDHEPRDBOISMAELC_EX,IndustrialBuildingDistrict HeatingProductionBoilerSmall,DISENE,MW,TJ
+IND,BDG,DHE,,15,PRD,BOI,SMA,,NGA,EX,INDBDGDHEPRDBOISMANGA_EX,IndustrialBuildingDistrict HeatingProductionBoilerSmall,DISENE,MW,TJ
+IND,BDG,DHE,,15,PRD,GTU,LAR,,NGA,EX,INDBDGDHEPRDGTULARNGA_EX,IndustrialBuildingDistrict HeatingProductionGas TurbineLarge,DISENE,MW,TJ
+IND,BDG,DHE,,15,PRD,GTU,MED,,NGA,EX,INDBDGDHEPRDGTUMEDNGA_EX,IndustrialBuildingDistrict HeatingProductionGas TurbineMedium,DISENE,MW,TJ
+IND,BDG,DHE,,15,PRD,GTU,SMA,,NGA,EX,INDBDGDHEPRDGTUSMANGA_EX,IndustrialBuildingDistrict HeatingProductionGas TurbineSmall,DISENE,MW,TJ
+IND,BDG,DHE,,15,PRD,ICE,LAR,,NGA,EX,INDBDGDHEPRDICELARNGA_EX,IndustrialBuildingDistrict HeatingProductionInternal Combustion EngineLarge,DISENE,MW,TJ
+IND,BDG,DHE,,15,PRD,ICE,MED,,NGA,EX,INDBDGDHEPRDICEMEDNGA_EX,IndustrialBuildingDistrict HeatingProductionInternal Combustion EngineMedium,DISENE,MW,TJ
+IND,BDG,DHE,,15,PRD,ICE,SMA,,NGA,EX,INDBDGDHEPRDICESMANGA_EX,IndustrialBuildingDistrict HeatingProductionInternal Combustion EngineSmall,DISENE,MW,TJ
+IND,BDG,DHE,,15,STG,HTS,LAR,,HW,EX,INDBDGDHESTGHTSLARHW_EX,IndustrialBuildingDistrict HeatingStorageHot Tank StorageLarge,DISENE,MW,TJ
+IND,BDG,DHE,,15,STG,HTS,MED,,HW,EX,INDBDGDHESTGHTSMEDHW_EX,IndustrialBuildingDistrict HeatingStorageHot Tank StorageMedium,DISENE,MW,TJ
+IND,BDG,DHE,,15,STG,HTS,SMA,,HW,EX,INDBDGDHESTGHTSSMAHW_EX,IndustrialBuildingDistrict HeatingStorageHot Tank StorageSmall,DISENE,MW,TJ
+IND,BDG,DHE,,15,STG,PIT,LAR,,HW,EX,INDBDGDHESTGPITLARHW_EX,IndustrialBuildingDistrict HeatingStoragePit StorageLarge,DISENE,MW,TJ
+IND,BDG,DHE,,15,STG,PIT,MED,,HW,EX,INDBDGDHESTGPITMEDHW_EX,IndustrialBuildingDistrict HeatingStoragePit StorageMedium,DISENE,MW,TJ
+IND,BDG,DHE,,15,STG,PIT,SMA,,HW,EX,INDBDGDHESTGPITSMAHW_EX,IndustrialBuildingDistrict HeatingStoragePit StorageSmall,DISENE,MW,TJ
+PUB,BDG,DCO,,15,AVG,PIP,___,,CW,EX,PUBBDGDCOAVGPIP___CW_EX,PublicBuildingDistrict CoolingToronto AveragePipe,DISENE,MW,TJ
+PUB,BDG,DCO,,15,AVG,SUB,___,,CW,EX,PUBBDGDCOAVGSUB___CW_EX,PublicBuildingDistrict CoolingToronto AverageSubstation,DISENE,MW,TJ
+PUB,BDG,DCO,,15,CON,HEP,LAR,,HWC,EX,PUBBDGDCOCONHEPLARHWC_EX,PublicBuildingDistrict CoolingConsumptionHeat PumpLarge,DISENE,MW,TJ
+PUB,BDG,DCO,,15,CON,HEP,MED,,HWC,EX,PUBBDGDCOCONHEPMEDHWC_EX,PublicBuildingDistrict CoolingConsumptionHeat PumpMedium,DISENE,MW,TJ
+PUB,BDG,DCO,,15,CON,HEP,SMA,,HWC,EX,PUBBDGDCOCONHEPSMAHWC_EX,PublicBuildingDistrict CoolingConsumptionHeat PumpSmall,DISENE,MW,TJ
+PUB,BDG,DCO,,15,PRD,DLA,ENW,,ELC,EX,PUBBDGDCOPRDDLAENWELC_EX,PublicBuildingDistrict CoolingProductionDeep Lake CoolingEnwave,DISENE,MW,TJ
+PUB,BDG,DCO,,15,PRD,HEP,ENW,,ELC,EX,PUBBDGDCOPRDHEPENWELC_EX,PublicBuildingDistrict CoolingProductionHeat PumpEnwave,DISENE,MW,TJ
+PUB,BDG,DCO,,15,PRD,HEP,LAR,,ELC,EX,PUBBDGDCOPRDHEPLARELC_EX,PublicBuildingDistrict CoolingProductionHeat PumpLarge,DISENE,MW,TJ
+PUB,BDG,DCO,,15,PRD,HEP,LAR,,HWP,EX,PUBBDGDCOPRDHEPLARHWP_EX,PublicBuildingDistrict CoolingProductionHeat PumpLarge,DISENE,MW,TJ
+PUB,BDG,DCO,,15,PRD,HEP,MED,,ELC,EX,PUBBDGDCOPRDHEPMEDELC_EX,PublicBuildingDistrict CoolingProductionHeat PumpMedium,DISENE,MW,TJ
+PUB,BDG,DCO,,15,PRD,HEP,MED,,HWP,EX,PUBBDGDCOPRDHEPMEDHWP_EX,PublicBuildingDistrict CoolingProductionHeat PumpMedium,DISENE,MW,TJ
+PUB,BDG,DCO,,15,PRD,HEP,SMA,,ELC,EX,PUBBDGDCOPRDHEPSMAELC_EX,PublicBuildingDistrict CoolingProductionHeat PumpSmall,DISENE,MW,TJ
+PUB,BDG,DCO,,15,PRD,HEP,SMA,,HWP,EX,PUBBDGDCOPRDHEPSMAHWP_EX,PublicBuildingDistrict CoolingProductionHeat PumpSmall,DISENE,MW,TJ
+PUB,BDG,DCO,,15,STG,HTS,LAR,,CW,EX,PUBBDGDCOSTGHTSLARCW_EX,PublicBuildingDistrict CoolingStorageHot Tank StorageLarge,DISENE,MW,TJ
+PUB,BDG,DCO,,15,STG,HTS,MED,,CW,EX,PUBBDGDCOSTGHTSMEDCW_EX,PublicBuildingDistrict CoolingStorageHot Tank StorageMedium,DISENE,MW,TJ
+PUB,BDG,DCO,,15,STG,HTS,SMA,,CW,EX,PUBBDGDCOSTGHTSSMACW_EX,PublicBuildingDistrict CoolingStorageHot Tank StorageSmall,DISENE,MW,TJ
+PUB,BDG,DHE,,15,AVG,PIP,___,,HW,EX,PUBBDGDHEAVGPIP___HW_EX,PublicBuildingDistrict HeatingToronto AveragePipe,DISENE,MW,TJ
+PUB,BDG,DHE,,15,AVG,SUB,___,,HW,EX,PUBBDGDHEAVGSUB___HW_EX,PublicBuildingDistrict HeatingToronto AverageSubstation,DISENE,MW,TJ
+PUB,BDG,DHE,,15,CON,HEP,LAR,,HWC,EX,PUBBDGDHECONHEPLARHWC_EX,PublicBuildingDistrict HeatingConsumptionHeat PumpLarge,DISENE,MW,TJ
+PUB,BDG,DHE,,15,CON,HEP,MED,,HWC,EX,PUBBDGDHECONHEPMEDHWC_EX,PublicBuildingDistrict HeatingConsumptionHeat PumpMedium,DISENE,MW,TJ
+PUB,BDG,DHE,,15,CON,HEP,SMA,,HWC,EX,PUBBDGDHECONHEPSMAHWC_EX,PublicBuildingDistrict HeatingConsumptionHeat PumpSmall,DISENE,MW,TJ
+PUB,BDG,DHE,,15,PRD,BOI,LAR,,ELC,EX,PUBBDGDHEPRDBOILARELC_EX,PublicBuildingDistrict HeatingProductionBoilerLarge,DISENE,MW,TJ
+PUB,BDG,DHE,,15,PRD,BOI,LAR,,NGA,EX,PUBBDGDHEPRDBOILARNGA_EX,PublicBuildingDistrict HeatingProductionBoilerLarge,DISENE,MW,TJ
+PUB,BDG,DHE,,15,PRD,BOI,MED,,ELC,EX,PUBBDGDHEPRDBOIMEDELC_EX,PublicBuildingDistrict HeatingProductionBoilerMedium,DISENE,MW,TJ
+PUB,BDG,DHE,,15,PRD,BOI,MED,,NGA,EX,PUBBDGDHEPRDBOIMEDNGA_EX,PublicBuildingDistrict HeatingProductionBoilerMedium,DISENE,MW,TJ
+PUB,BDG,DHE,,15,PRD,BOI,SMA,,ELC,EX,PUBBDGDHEPRDBOISMAELC_EX,PublicBuildingDistrict HeatingProductionBoilerSmall,DISENE,MW,TJ
+PUB,BDG,DHE,,15,PRD,BOI,SMA,,NGA,EX,PUBBDGDHEPRDBOISMANGA_EX,PublicBuildingDistrict HeatingProductionBoilerSmall,DISENE,MW,TJ
+PUB,BDG,DHE,,15,PRD,GTU,LAR,,NGA,EX,PUBBDGDHEPRDGTULARNGA_EX,PublicBuildingDistrict HeatingProductionGas TurbineLarge,DISENE,MW,TJ
+PUB,BDG,DHE,,15,PRD,GTU,MED,,NGA,EX,PUBBDGDHEPRDGTUMEDNGA_EX,PublicBuildingDistrict HeatingProductionGas TurbineMedium,DISENE,MW,TJ
+PUB,BDG,DHE,,15,PRD,GTU,SMA,,NGA,EX,PUBBDGDHEPRDGTUSMANGA_EX,PublicBuildingDistrict HeatingProductionGas TurbineSmall,DISENE,MW,TJ
+PUB,BDG,DHE,,15,PRD,ICE,LAR,,NGA,EX,PUBBDGDHEPRDICELARNGA_EX,PublicBuildingDistrict HeatingProductionInternal Combustion EngineLarge,DISENE,MW,TJ
+PUB,BDG,DHE,,15,PRD,ICE,MED,,NGA,EX,PUBBDGDHEPRDICEMEDNGA_EX,PublicBuildingDistrict HeatingProductionInternal Combustion EngineMedium,DISENE,MW,TJ
+PUB,BDG,DHE,,15,PRD,ICE,SMA,,NGA,EX,PUBBDGDHEPRDICESMANGA_EX,PublicBuildingDistrict HeatingProductionInternal Combustion EngineSmall,DISENE,MW,TJ
+PUB,BDG,DHE,,15,STG,HTS,LAR,,HW,EX,PUBBDGDHESTGHTSLARHW_EX,PublicBuildingDistrict HeatingStorageHot Tank StorageLarge,DISENE,MW,TJ
+PUB,BDG,DHE,,15,STG,HTS,MED,,HW,EX,PUBBDGDHESTGHTSMEDHW_EX,PublicBuildingDistrict HeatingStorageHot Tank StorageMedium,DISENE,MW,TJ
+PUB,BDG,DHE,,15,STG,HTS,SMA,,HW,EX,PUBBDGDHESTGHTSSMAHW_EX,PublicBuildingDistrict HeatingStorageHot Tank StorageSmall,DISENE,MW,TJ
+PUB,BDG,DHE,,15,STG,PIT,LAR,,HW,EX,PUBBDGDHESTGPITLARHW_EX,PublicBuildingDistrict HeatingStoragePit StorageLarge,DISENE,MW,TJ
+PUB,BDG,DHE,,15,STG,PIT,MED,,HW,EX,PUBBDGDHESTGPITMEDHW_EX,PublicBuildingDistrict HeatingStoragePit StorageMedium,DISENE,MW,TJ
+PUB,BDG,DHE,,15,STG,PIT,SMA,,HW,EX,PUBBDGDHESTGPITSMAHW_EX,PublicBuildingDistrict HeatingStoragePit StorageSmall,DISENE,MW,TJ
+RES,BDG,DCO,,15,AVG,PIP,___,,CW,EX,RESBDGDCOAVGPIP___CW_EX,ResidentialBuildingDistrict CoolingToronto AveragePipe,DISENE,MW,TJ
+RES,BDG,DCO,,15,AVG,SUB,___,,CW,EX,RESBDGDCOAVGSUB___CW_EX,ResidentialBuildingDistrict CoolingToronto AverageSubstation,DISENE,MW,TJ
+RES,BDG,DCO,,15,CON,HEP,LAR,,HWC,EX,RESBDGDCOCONHEPLARHWC_EX,ResidentialBuildingDistrict CoolingConsumptionHeat PumpLarge,DISENE,MW,TJ
+RES,BDG,DCO,,15,CON,HEP,MED,,HWC,EX,RESBDGDCOCONHEPMEDHWC_EX,ResidentialBuildingDistrict CoolingConsumptionHeat PumpMedium,DISENE,MW,TJ
+RES,BDG,DCO,,15,CON,HEP,SMA,,HWC,EX,RESBDGDCOCONHEPSMAHWC_EX,ResidentialBuildingDistrict CoolingConsumptionHeat PumpSmall,DISENE,MW,TJ
+RES,BDG,DCO,,15,PRD,DLA,ENW,,ELC,EX,RESBDGDCOPRDDLAENWELC_EX,ResidentialBuildingDistrict CoolingProductionDeep Lake CoolingEnwave,DISENE,MW,TJ
+RES,BDG,DCO,,15,PRD,HEP,ENW,,ELC,EX,RESBDGDCOPRDHEPENWELC_EX,ResidentialBuildingDistrict CoolingProductionHeat PumpEnwave,DISENE,MW,TJ
+RES,BDG,DCO,,15,PRD,HEP,LAR,,ELC,EX,RESBDGDCOPRDHEPLARELC_EX,ResidentialBuildingDistrict CoolingProductionHeat PumpLarge,DISENE,MW,TJ
+RES,BDG,DCO,,15,PRD,HEP,LAR,,HWP,EX,RESBDGDCOPRDHEPLARHWP_EX,ResidentialBuildingDistrict CoolingProductionHeat PumpLarge,DISENE,MW,TJ
+RES,BDG,DCO,,15,PRD,HEP,MED,,ELC,EX,RESBDGDCOPRDHEPMEDELC_EX,ResidentialBuildingDistrict CoolingProductionHeat PumpMedium,DISENE,MW,TJ
+RES,BDG,DCO,,15,PRD,HEP,MED,,HWP,EX,RESBDGDCOPRDHEPMEDHWP_EX,ResidentialBuildingDistrict CoolingProductionHeat PumpMedium,DISENE,MW,TJ
+RES,BDG,DCO,,15,PRD,HEP,SMA,,ELC,EX,RESBDGDCOPRDHEPSMAELC_EX,ResidentialBuildingDistrict CoolingProductionHeat PumpSmall,DISENE,MW,TJ
+RES,BDG,DCO,,15,PRD,HEP,SMA,,HWP,EX,RESBDGDCOPRDHEPSMAHWP_EX,ResidentialBuildingDistrict CoolingProductionHeat PumpSmall,DISENE,MW,TJ
+RES,BDG,DCO,,15,STG,HTS,LAR,,CW,EX,RESBDGDCOSTGHTSLARCW_EX,ResidentialBuildingDistrict CoolingStorageHot Tank StorageLarge,DISENE,MW,TJ
+RES,BDG,DCO,,15,STG,HTS,MED,,CW,EX,RESBDGDCOSTGHTSMEDCW_EX,ResidentialBuildingDistrict CoolingStorageHot Tank StorageMedium,DISENE,MW,TJ
+RES,BDG,DCO,,15,STG,HTS,SMA,,CW,EX,RESBDGDCOSTGHTSSMACW_EX,ResidentialBuildingDistrict CoolingStorageHot Tank StorageSmall,DISENE,MW,TJ
+RES,BDG,DHE,,15,AVG,PIP,___,,HW,EX,RESBDGDHEAVGPIP___HW_EX,ResidentialBuildingDistrict HeatingToronto AveragePipe,DISENE,MW,TJ
+RES,BDG,DHE,,15,AVG,SUB,___,,HW,EX,RESBDGDHEAVGSUB___HW_EX,ResidentialBuildingDistrict HeatingToronto AverageSubstation,DISENE,MW,TJ
+RES,BDG,DHE,,15,CON,HEP,LAR,,HWC,EX,RESBDGDHECONHEPLARHWC_EX,ResidentialBuildingDistrict HeatingConsumptionHeat PumpLarge,DISENE,MW,TJ
+RES,BDG,DHE,,15,CON,HEP,MED,,HWC,EX,RESBDGDHECONHEPMEDHWC_EX,ResidentialBuildingDistrict HeatingConsumptionHeat PumpMedium,DISENE,MW,TJ
+RES,BDG,DHE,,15,CON,HEP,SMA,,HWC,EX,RESBDGDHECONHEPSMAHWC_EX,ResidentialBuildingDistrict HeatingConsumptionHeat PumpSmall,DISENE,MW,TJ
+RES,BDG,DHE,,15,PRD,BOI,LAR,,ELC,EX,RESBDGDHEPRDBOILARELC_EX,ResidentialBuildingDistrict HeatingProductionBoilerLarge,DISENE,MW,TJ
+RES,BDG,DHE,,15,PRD,BOI,LAR,,NGA,EX,RESBDGDHEPRDBOILARNGA_EX,ResidentialBuildingDistrict HeatingProductionBoilerLarge,DISENE,MW,TJ
+RES,BDG,DHE,,15,PRD,BOI,MED,,ELC,EX,RESBDGDHEPRDBOIMEDELC_EX,ResidentialBuildingDistrict HeatingProductionBoilerMedium,DISENE,MW,TJ
+RES,BDG,DHE,,15,PRD,BOI,MED,,NGA,EX,RESBDGDHEPRDBOIMEDNGA_EX,ResidentialBuildingDistrict HeatingProductionBoilerMedium,DISENE,MW,TJ
+RES,BDG,DHE,,15,PRD,BOI,SMA,,ELC,EX,RESBDGDHEPRDBOISMAELC_EX,ResidentialBuildingDistrict HeatingProductionBoilerSmall,DISENE,MW,TJ
+RES,BDG,DHE,,15,PRD,BOI,SMA,,NGA,EX,RESBDGDHEPRDBOISMANGA_EX,ResidentialBuildingDistrict HeatingProductionBoilerSmall,DISENE,MW,TJ
+RES,BDG,DHE,,15,PRD,GTU,LAR,,NGA,EX,RESBDGDHEPRDGTULARNGA_EX,ResidentialBuildingDistrict HeatingProductionGas TurbineLarge,DISENE,MW,TJ
+RES,BDG,DHE,,15,PRD,GTU,MED,,NGA,EX,RESBDGDHEPRDGTUMEDNGA_EX,ResidentialBuildingDistrict HeatingProductionGas TurbineMedium,DISENE,MW,TJ
+RES,BDG,DHE,,15,PRD,GTU,SMA,,NGA,EX,RESBDGDHEPRDGTUSMANGA_EX,ResidentialBuildingDistrict HeatingProductionGas TurbineSmall,DISENE,MW,TJ
+RES,BDG,DHE,,15,PRD,ICE,LAR,,NGA,EX,RESBDGDHEPRDICELARNGA_EX,ResidentialBuildingDistrict HeatingProductionInternal Combustion EngineLarge,DISENE,MW,TJ
+RES,BDG,DHE,,15,PRD,ICE,MED,,NGA,EX,RESBDGDHEPRDICEMEDNGA_EX,ResidentialBuildingDistrict HeatingProductionInternal Combustion EngineMedium,DISENE,MW,TJ
+RES,BDG,DHE,,15,PRD,ICE,SMA,,NGA,EX,RESBDGDHEPRDICESMANGA_EX,ResidentialBuildingDistrict HeatingProductionInternal Combustion EngineSmall,DISENE,MW,TJ
+RES,BDG,DHE,,15,STG,HTS,LAR,,HW,EX,RESBDGDHESTGHTSLARHW_EX,ResidentialBuildingDistrict HeatingStorageHot Tank StorageLarge,DISENE,MW,TJ
+RES,BDG,DHE,,15,STG,HTS,MED,,HW,EX,RESBDGDHESTGHTSMEDHW_EX,ResidentialBuildingDistrict HeatingStorageHot Tank StorageMedium,DISENE,MW,TJ
+RES,BDG,DHE,,15,STG,HTS,SMA,,HW,EX,RESBDGDHESTGHTSSMAHW_EX,ResidentialBuildingDistrict HeatingStorageHot Tank StorageSmall,DISENE,MW,TJ
+RES,BDG,DHE,,15,STG,PIT,LAR,,HW,EX,RESBDGDHESTGPITLARHW_EX,ResidentialBuildingDistrict HeatingStoragePit StorageLarge,DISENE,MW,TJ
+RES,BDG,DHE,,15,STG,PIT,MED,,HW,EX,RESBDGDHESTGPITMEDHW_EX,ResidentialBuildingDistrict HeatingStoragePit StorageMedium,DISENE,MW,TJ
+RES,BDG,DHE,,15,STG,PIT,SMA,,HW,EX,RESBDGDHESTGPITSMAHW_EX,ResidentialBuildingDistrict HeatingStoragePit StorageSmall,DISENE,MW,TJ
+RES,BDG,,ELC,23,PRD,PV,DCE,BEP,,NEW,RESBDGELCPRDPVDCEBEP_23,ResidentialBuildingElectricityProductionPV pannelDecentralizedBest potential,ELCENE,MW,TJ
+RES,BDG,,ELC,23,PRD,PV,DCE,MEP,,NEW,RESBDGELCPRDPVDCEMEP_23,ResidentialBuildingElectricityProductionPV pannelDecentralizedMedium potential,ELCENE,MW,TJ
+RES,BDG,,ELC,23,PRD,PV,DCE,POP,,NEW,RESBDGELCPRDPVDCEPOP_23,ResidentialBuildingElectricityProductionPV pannelDecentralizedPoor potential,ELCENE,MW,TJ
+COM,BDG,,ELC,23,PRD,PV,DCE,BEP,,NEW,COMBDGELCPRDPVDCEBEP_23,CommercialBuildingElectricityProductionPV pannelDecentralizedBest potential,ELCENE,MW,TJ
+COM,BDG,,ELC,23,PRD,PV,DCE,MEP,,NEW,COMBDGELCPRDPVDCEMEP_23,CommercialBuildingElectricityProductionPV pannelDecentralizedMedium potential,ELCENE,MW,TJ
+COM,BDG,,ELC,23,PRD,PV,DCE,POP,,NEW,COMBDGELCPRDPVDCEPOP_23,CommercialBuildingElectricityProductionPV pannelDecentralizedPoor potential,ELCENE,MW,TJ
+PUB,BDG,,ELC,23,PRD,PV,DCE,BEP,,NEW,PUBBDGELCPRDPVDCEBEP_23,PublicBuildingElectricityProductionPV pannelDecentralizedBest potential,ELCENE,MW,TJ
+PUB,BDG,,ELC,23,PRD,PV,DCE,MEP,,NEW,PUBBDGELCPRDPVDCEMEP_23,PublicBuildingElectricityProductionPV pannelDecentralizedMedium potential,ELCENE,MW,TJ
+PUB,BDG,,ELC,23,PRD,PV,DCE,POP,,NEW,PUBBDGELCPRDPVDCEPOP_23,PublicBuildingElectricityProductionPV pannelDecentralizedPoor potential,ELCENE,MW,TJ
+IND,BDG,,ELC,23,PRD,PV,DCE,BEP,,NEW,INDBDGELCPRDPVDCEBEP_23,IndustrialBuildingElectricityProductionPV pannelDecentralizedBest potential,ELCENE,MW,TJ
+IND,BDG,,ELC,23,PRD,PV,DCE,MEP,,NEW,INDBDGELCPRDPVDCEMEP_23,IndustrialBuildingElectricityProductionPV pannelDecentralizedMedium potential,ELCENE,MW,TJ
+IND,BDG,,ELC,23,PRD,PV,DCE,POP,,NEW,INDBDGELCPRDPVDCEPOP_23,IndustrialBuildingElectricityProductionPV pannelDecentralizedPoor potential,ELCENE,MW,TJ
+RES,BDG,,ELC,23,PRD,WT,DCE,STD,,NEW,RESBDGELCPRDWTDCESTD_23,ResidentialBuildingElectricityProductionWind TurbineDecentralizedStandard,ELCENE,MW,TJ
+COM,BDG,,ELC,23,PRD,WT,DCE,STD,,NEW,COMBDGELCPRDWTDCESTD_23,CommercialBuildingElectricityProductionWind TurbineDecentralizedStandard,ELCENE,MW,TJ
+PUB,BDG,,ELC,23,PRD,WT,DCE,STD,,NEW,PUBBDGELCPRDWTDCESTD_23,PublicBuildingElectricityProductionWind TurbineDecentralizedStandard,ELCENE,MW,TJ
+IND,BDG,,ELC,23,PRD,WT,DCE,STD,,NEW,INDBDGELCPRDWTDCESTD_23,IndustrialBuildingElectricityProductionWind TurbineDecentralizedStandard,ELCENE,MW,TJ
+RES,BDG,,ELC,23,STG,BAT,DCE,8HR,,NEW,RESBDGELCSTGBATDCE8HR_23,ResidentialBuildingElectricityStorageBatteryDecentralized8 Hour Autonomy,ELCENE,MW,TJ
+RES,BDG,,ELC,23,STG,BAT,DCE,4HR,,NEW,RESBDGELCSTGBATDCE4HR_23,ResidentialBuildingElectricityStorageBatteryDecentralized4 Hour Autonomy,ELCENE,MW,TJ
+COM,BDG,,ELC,23,STG,BAT,DCE,1HR,,NEW,COMBDGELCSTGBATDCE1HR_23,CommercialBuildingElectricityStorageBatteryDecentralized1 Hour Autonomy,ELCENE,MW,TJ
+COM,BDG,,ELC,23,STG,BAT,DCE,4HR,,NEW,COMBDGELCSTGBATDCE4HR_23,CommercialBuildingElectricityStorageBatteryDecentralized4 Hour Autonomy,ELCENE,MW,TJ
+COM,BDG,,ELC,23,STG,BAT,DCE,8HR,,NEW,COMBDGELCSTGBATDCE8HR_23,CommercialBuildingElectricityStorageBatteryDecentralized8 Hour Autonomy,ELCENE,MW,TJ
+PUB,BDG,,ELC,23,STG,BAT,DCE,1HR,,NEW,PUBBDGELCSTGBATDCE1HR_23,PublicBuildingElectricityStorageBatteryDecentralized1 Hour Autonomy,ELCENE,MW,TJ
+PUB,BDG,,ELC,23,STG,BAT,DCE,4HR,,NEW,PUBBDGELCSTGBATDCE4HR_23,PublicBuildingElectricityStorageBatteryDecentralized4 Hour Autonomy,ELCENE,MW,TJ
+PUB,BDG,,ELC,23,STG,BAT,DCE,8HR,,NEW,PUBBDGELCSTGBATDCE8HR_23,PublicBuildingElectricityStorageBatteryDecentralized8 Hour Autonomy,ELCENE,MW,TJ
+IND,BDG,,ELC,23,STG,BAT,DCE,1HR,,NEW,INDBDGELCSTGBATDCE1HR_23,IndustrialBuildingElectricityStorageBatteryDecentralized1 Hour Autonomy,ELCENE,MW,TJ
+IND,BDG,,ELC,23,STG,BAT,DCE,4HR,,NEW,INDBDGELCSTGBATDCE4HR_23,IndustrialBuildingElectricityStorageBatteryDecentralized4 Hour Autonomy,ELCENE,MW,TJ
+IND,BDG,,ELC,23,STG,BAT,DCE,8HR,,NEW,INDBDGELCSTGBATDCE8HR_23,IndustrialBuildingElectricityStorageBatteryDecentralized8 Hour Autonomy,ELCENE,MW,TJ
+COM,BDG,DCO,,23,AVG,PIP,___,,CW,NEW,COMBDGDCOAVGPIP___CW_23,CommercialBuildingDistrict CoolingToronto AveragePipe,DISENE,MW,TJ
+COM,BDG,DCO,,23,AVG,SUB,___,,CW,NEW,COMBDGDCOAVGSUB___CW_23,CommercialBuildingDistrict CoolingToronto AverageSubstation,DISENE,MW,TJ
+COM,BDG,DCO,,23,CON,HEP,LAR,,HWC,NEW,COMBDGDCOCONHEPLARHWC_23,CommercialBuildingDistrict CoolingConsumptionHeat PumpLarge,DISENE,MW,TJ
+COM,BDG,DCO,,23,CON,HEP,MED,,HWC,NEW,COMBDGDCOCONHEPMEDHWC_23,CommercialBuildingDistrict CoolingConsumptionHeat PumpMedium,DISENE,MW,TJ
+COM,BDG,DCO,,23,CON,HEP,SMA,,HWC,NEW,COMBDGDCOCONHEPSMAHWC_23,CommercialBuildingDistrict CoolingConsumptionHeat PumpSmall,DISENE,MW,TJ
+COM,BDG,DCO,,23,PRD,DLA,ENW,,ELC,NEW,COMBDGDCOPRDDLAENWELC_23,CommercialBuildingDistrict CoolingProductionDeep Lake CoolingEnwave,DISENE,MW,TJ
+COM,BDG,DCO,,23,PRD,HEP,ENW,,ELC,NEW,COMBDGDCOPRDHEPENWELC_23,CommercialBuildingDistrict CoolingProductionHeat PumpEnwave,DISENE,MW,TJ
+COM,BDG,DCO,,23,PRD,HEP,LAR,,ELC,NEW,COMBDGDCOPRDHEPLARELC_23,CommercialBuildingDistrict CoolingProductionHeat PumpLarge,DISENE,MW,TJ
+COM,BDG,DCO,,23,PRD,HEP,LAR,,HWP,NEW,COMBDGDCOPRDHEPLARHWP_23,CommercialBuildingDistrict CoolingProductionHeat PumpLarge,DISENE,MW,TJ
+COM,BDG,DCO,,23,PRD,HEP,MED,,ELC,NEW,COMBDGDCOPRDHEPMEDELC_23,CommercialBuildingDistrict CoolingProductionHeat PumpMedium,DISENE,MW,TJ
+COM,BDG,DCO,,23,PRD,HEP,MED,,HWP,NEW,COMBDGDCOPRDHEPMEDHWP_23,CommercialBuildingDistrict CoolingProductionHeat PumpMedium,DISENE,MW,TJ
+COM,BDG,DCO,,23,PRD,HEP,SMA,,ELC,NEW,COMBDGDCOPRDHEPSMAELC_23,CommercialBuildingDistrict CoolingProductionHeat PumpSmall,DISENE,MW,TJ
+COM,BDG,DCO,,23,PRD,HEP,SMA,,HWP,NEW,COMBDGDCOPRDHEPSMAHWP_23,CommercialBuildingDistrict CoolingProductionHeat PumpSmall,DISENE,MW,TJ
+COM,BDG,DCO,,23,STG,HTS,LAR,,CW,NEW,COMBDGDCOSTGHTSLARCW_23,CommercialBuildingDistrict CoolingStorageHot Tank StorageLarge,DISENE,MW,TJ
+COM,BDG,DCO,,23,STG,HTS,MED,,CW,NEW,COMBDGDCOSTGHTSMEDCW_23,CommercialBuildingDistrict CoolingStorageHot Tank StorageMedium,DISENE,MW,TJ
+COM,BDG,DCO,,23,STG,HTS,SMA,,CW,NEW,COMBDGDCOSTGHTSSMACW_23,CommercialBuildingDistrict CoolingStorageHot Tank StorageSmall,DISENE,MW,TJ
+COM,BDG,DHE,,23,AVG,PIP,___,,HW,NEW,COMBDGDHEAVGPIP___HW_23,CommercialBuildingDistrict HeatingToronto AveragePipe,DISENE,MW,TJ
+COM,BDG,DHE,,23,AVG,SUB,___,,HW,NEW,COMBDGDHEAVGSUB___HW_23,CommercialBuildingDistrict HeatingToronto AverageSubstation,DISENE,MW,TJ
+COM,BDG,DHE,,23,CON,HEP,LAR,,HWC,NEW,COMBDGDHECONHEPLARHWC_23,CommercialBuildingDistrict HeatingConsumptionHeat PumpLarge,DISENE,MW,TJ
+COM,BDG,DHE,,23,CON,HEP,MED,,HWC,NEW,COMBDGDHECONHEPMEDHWC_23,CommercialBuildingDistrict HeatingConsumptionHeat PumpMedium,DISENE,MW,TJ
+COM,BDG,DHE,,23,CON,HEP,SMA,,HWC,NEW,COMBDGDHECONHEPSMAHWC_23,CommercialBuildingDistrict HeatingConsumptionHeat PumpSmall,DISENE,MW,TJ
+COM,BDG,DHE,,23,PRD,BOI,LAR,,ELC,NEW,COMBDGDHEPRDBOILARELC_23,CommercialBuildingDistrict HeatingProductionBoilerLarge,DISENE,MW,TJ
+COM,BDG,DHE,,23,PRD,BOI,LAR,,NGA,NEW,COMBDGDHEPRDBOILARNGA_23,CommercialBuildingDistrict HeatingProductionBoilerLarge,DISENE,MW,TJ
+COM,BDG,DHE,,23,PRD,BOI,MED,,ELC,NEW,COMBDGDHEPRDBOIMEDELC_23,CommercialBuildingDistrict HeatingProductionBoilerMedium,DISENE,MW,TJ
+COM,BDG,DHE,,23,PRD,BOI,MED,,NGA,NEW,COMBDGDHEPRDBOIMEDNGA_23,CommercialBuildingDistrict HeatingProductionBoilerMedium,DISENE,MW,TJ
+COM,BDG,DHE,,23,PRD,BOI,SMA,,ELC,NEW,COMBDGDHEPRDBOISMAELC_23,CommercialBuildingDistrict HeatingProductionBoilerSmall,DISENE,MW,TJ
+COM,BDG,DHE,,23,PRD,BOI,SMA,,NGA,NEW,COMBDGDHEPRDBOISMANGA_23,CommercialBuildingDistrict HeatingProductionBoilerSmall,DISENE,MW,TJ
+COM,BDG,DHE,,23,PRD,GTU,LAR,,NGA,NEW,COMBDGDHEPRDGTULARNGA_23,CommercialBuildingDistrict HeatingProductionGas TurbineLarge,DISENE,MW,TJ
+COM,BDG,DHE,,23,PRD,GTU,LAR,,MNGA,NEW,COMBDGDHEPRDGTULARMNGA_23,CommercialBuildingDistrict HeatingProductionGas TurbineLarge,DISENE,MW,TJ
+COM,BDG,DHE,,23,PRD,GTU,MED,,NGA,NEW,COMBDGDHEPRDGTUMEDNGA_23,CommercialBuildingDistrict HeatingProductionGas TurbineMedium,DISENE,MW,TJ
+COM,BDG,DHE,,23,PRD,GTU,MED,,MNGA,NEW,COMBDGDHEPRDGTUMEDMNGA_23,CommercialBuildingDistrict HeatingProductionGas TurbineMedium,DISENE,MW,TJ
+COM,BDG,DHE,,23,PRD,GTU,SMA,,NGA,NEW,COMBDGDHEPRDGTUSMANGA_23,CommercialBuildingDistrict HeatingProductionGas TurbineSmall,DISENE,MW,TJ
+COM,BDG,DHE,,23,PRD,GTU,SMA,,MNGA,NEW,COMBDGDHEPRDGTUSMAMNGA_23,CommercialBuildingDistrict HeatingProductionGas TurbineSmall,DISENE,MW,TJ
+COM,BDG,DHE,,23,PRD,ICE,LAR,,NGA,NEW,COMBDGDHEPRDICELARNGA_23,CommercialBuildingDistrict HeatingProductionInternal Combustion EngineLarge,DISENE,MW,TJ
+COM,BDG,DHE,,23,PRD,ICE,LAR,,MNGA,NEW,COMBDGDHEPRDICELARMNGA_23,CommercialBuildingDistrict HeatingProductionInternal Combustion EngineLarge,DISENE,MW,TJ
+COM,BDG,DHE,,23,PRD,ICE,MED,,NGA,NEW,COMBDGDHEPRDICEMEDNGA_23,CommercialBuildingDistrict HeatingProductionInternal Combustion EngineMedium,DISENE,MW,TJ
+COM,BDG,DHE,,23,PRD,ICE,MED,,MNGA,NEW,COMBDGDHEPRDICEMEDMNGA_23,CommercialBuildingDistrict HeatingProductionInternal Combustion EngineMedium,DISENE,MW,TJ
+COM,BDG,DHE,,23,PRD,ICE,SMA,,NGA,NEW,COMBDGDHEPRDICESMANGA_23,CommercialBuildingDistrict HeatingProductionInternal Combustion EngineSmall,DISENE,MW,TJ
+COM,BDG,DHE,,23,PRD,ICE,SMA,,MNGA,NEW,COMBDGDHEPRDICESMAMNGA_23,CommercialBuildingDistrict HeatingProductionInternal Combustion EngineSmall,DISENE,MW,TJ
+COM,BDG,DHE,,23,STG,HTS,LAR,,HW,NEW,COMBDGDHESTGHTSLARHW_23,CommercialBuildingDistrict HeatingStorageHot Tank StorageLarge,DISENE,MW,TJ
+COM,BDG,DHE,,23,STG,HTS,MED,,HW,NEW,COMBDGDHESTGHTSMEDHW_23,CommercialBuildingDistrict HeatingStorageHot Tank StorageMedium,DISENE,MW,TJ
+COM,BDG,DHE,,23,STG,HTS,SMA,,HW,NEW,COMBDGDHESTGHTSSMAHW_23,CommercialBuildingDistrict HeatingStorageHot Tank StorageSmall,DISENE,MW,TJ
+COM,BDG,DHE,,23,STG,PIT,LAR,,HW,NEW,COMBDGDHESTGPITLARHW_23,CommercialBuildingDistrict HeatingStoragePit StorageLarge,DISENE,MW,TJ
+COM,BDG,DHE,,23,STG,PIT,MED,,HW,NEW,COMBDGDHESTGPITMEDHW_23,CommercialBuildingDistrict HeatingStoragePit StorageMedium,DISENE,MW,TJ
+COM,BDG,DHE,,23,STG,PIT,SMA,,HW,NEW,COMBDGDHESTGPITSMAHW_23,CommercialBuildingDistrict HeatingStoragePit StorageSmall,DISENE,MW,TJ
+IND,BDG,DCO,,23,AVG,PIP,___,,CW,NEW,INDBDGDCOAVGPIP___CW_23,IndustrialBuildingDistrict CoolingToronto AveragePipe,DISENE,MW,TJ
+IND,BDG,DCO,,23,AVG,SUB,___,,CW,NEW,INDBDGDCOAVGSUB___CW_23,IndustrialBuildingDistrict CoolingToronto AverageSubstation,DISENE,MW,TJ
+IND,BDG,DCO,,23,CON,HEP,LAR,,HWC,NEW,INDBDGDCOCONHEPLARHWC_23,IndustrialBuildingDistrict CoolingConsumptionHeat PumpLarge,DISENE,MW,TJ
+IND,BDG,DCO,,23,CON,HEP,MED,,HWC,NEW,INDBDGDCOCONHEPMEDHWC_23,IndustrialBuildingDistrict CoolingConsumptionHeat PumpMedium,DISENE,MW,TJ
+IND,BDG,DCO,,23,CON,HEP,SMA,,HWC,NEW,INDBDGDCOCONHEPSMAHWC_23,IndustrialBuildingDistrict CoolingConsumptionHeat PumpSmall,DISENE,MW,TJ
+IND,BDG,DCO,,23,PRD,DLA,ENW,,ELC,NEW,INDBDGDCOPRDDLAENWELC_23,IndustrialBuildingDistrict CoolingProductionDeep Lake CoolingEnwave,DISENE,MW,TJ
+IND,BDG,DCO,,23,PRD,HEP,ENW,,ELC,NEW,INDBDGDCOPRDHEPENWELC_23,IndustrialBuildingDistrict CoolingProductionHeat PumpEnwave,DISENE,MW,TJ
+IND,BDG,DCO,,23,PRD,HEP,LAR,,ELC,NEW,INDBDGDCOPRDHEPLARELC_23,IndustrialBuildingDistrict CoolingProductionHeat PumpLarge,DISENE,MW,TJ
+IND,BDG,DCO,,23,PRD,HEP,LAR,,HWP,NEW,INDBDGDCOPRDHEPLARHWP_23,IndustrialBuildingDistrict CoolingProductionHeat PumpLarge,DISENE,MW,TJ
+IND,BDG,DCO,,23,PRD,HEP,MED,,ELC,NEW,INDBDGDCOPRDHEPMEDELC_23,IndustrialBuildingDistrict CoolingProductionHeat PumpMedium,DISENE,MW,TJ
+IND,BDG,DCO,,23,PRD,HEP,MED,,HWP,NEW,INDBDGDCOPRDHEPMEDHWP_23,IndustrialBuildingDistrict CoolingProductionHeat PumpMedium,DISENE,MW,TJ
+IND,BDG,DCO,,23,PRD,HEP,SMA,,ELC,NEW,INDBDGDCOPRDHEPSMAELC_23,IndustrialBuildingDistrict CoolingProductionHeat PumpSmall,DISENE,MW,TJ
+IND,BDG,DCO,,23,PRD,HEP,SMA,,HWP,NEW,INDBDGDCOPRDHEPSMAHWP_23,IndustrialBuildingDistrict CoolingProductionHeat PumpSmall,DISENE,MW,TJ
+IND,BDG,DCO,,23,STG,HTS,LAR,,CW,NEW,INDBDGDCOSTGHTSLARCW_23,IndustrialBuildingDistrict CoolingStorageHot Tank StorageLarge,DISENE,MW,TJ
+IND,BDG,DCO,,23,STG,HTS,MED,,CW,NEW,INDBDGDCOSTGHTSMEDCW_23,IndustrialBuildingDistrict CoolingStorageHot Tank StorageMedium,DISENE,MW,TJ
+IND,BDG,DCO,,23,STG,HTS,SMA,,CW,NEW,INDBDGDCOSTGHTSSMACW_23,IndustrialBuildingDistrict CoolingStorageHot Tank StorageSmall,DISENE,MW,TJ
+IND,BDG,DHE,,23,AVG,PIP,___,,HW,NEW,INDBDGDHEAVGPIP___HW_23,IndustrialBuildingDistrict HeatingToronto AveragePipe,DISENE,MW,TJ
+IND,BDG,DHE,,23,AVG,SUB,___,,HW,NEW,INDBDGDHEAVGSUB___HW_23,IndustrialBuildingDistrict HeatingToronto AverageSubstation,DISENE,MW,TJ
+IND,BDG,DHE,,23,CON,HEP,LAR,,HWC,NEW,INDBDGDHECONHEPLARHWC_23,IndustrialBuildingDistrict HeatingConsumptionHeat PumpLarge,DISENE,MW,TJ
+IND,BDG,DHE,,23,CON,HEP,MED,,HWC,NEW,INDBDGDHECONHEPMEDHWC_23,IndustrialBuildingDistrict HeatingConsumptionHeat PumpMedium,DISENE,MW,TJ
+IND,BDG,DHE,,23,CON,HEP,SMA,,HWC,NEW,INDBDGDHECONHEPSMAHWC_23,IndustrialBuildingDistrict HeatingConsumptionHeat PumpSmall,DISENE,MW,TJ
+IND,BDG,DHE,,23,PRD,BOI,LAR,,ELC,NEW,INDBDGDHEPRDBOILARELC_23,IndustrialBuildingDistrict HeatingProductionBoilerLarge,DISENE,MW,TJ
+IND,BDG,DHE,,23,PRD,BOI,LAR,,NGA,NEW,INDBDGDHEPRDBOILARNGA_23,IndustrialBuildingDistrict HeatingProductionBoilerLarge,DISENE,MW,TJ
+IND,BDG,DHE,,23,PRD,BOI,MED,,ELC,NEW,INDBDGDHEPRDBOIMEDELC_23,IndustrialBuildingDistrict HeatingProductionBoilerMedium,DISENE,MW,TJ
+IND,BDG,DHE,,23,PRD,BOI,MED,,NGA,NEW,INDBDGDHEPRDBOIMEDNGA_23,IndustrialBuildingDistrict HeatingProductionBoilerMedium,DISENE,MW,TJ
+IND,BDG,DHE,,23,PRD,BOI,SMA,,ELC,NEW,INDBDGDHEPRDBOISMAELC_23,IndustrialBuildingDistrict HeatingProductionBoilerSmall,DISENE,MW,TJ
+IND,BDG,DHE,,23,PRD,BOI,SMA,,NGA,NEW,INDBDGDHEPRDBOISMANGA_23,IndustrialBuildingDistrict HeatingProductionBoilerSmall,DISENE,MW,TJ
+IND,BDG,DHE,,23,PRD,GTU,LAR,,NGA,NEW,INDBDGDHEPRDGTULARNGA_23,IndustrialBuildingDistrict HeatingProductionGas TurbineLarge,DISENE,MW,TJ
+IND,BDG,DHE,,23,PRD,GTU,LAR,,MNGA,NEW,INDBDGDHEPRDGTULARMNGA_23,IndustrialBuildingDistrict HeatingProductionGas TurbineLarge,DISENE,MW,TJ
+IND,BDG,DHE,,23,PRD,GTU,MED,,NGA,NEW,INDBDGDHEPRDGTUMEDNGA_23,IndustrialBuildingDistrict HeatingProductionGas TurbineMedium,DISENE,MW,TJ
+IND,BDG,DHE,,23,PRD,GTU,MED,,MNGA,NEW,INDBDGDHEPRDGTUMEDMNGA_23,IndustrialBuildingDistrict HeatingProductionGas TurbineMedium,DISENE,MW,TJ
+IND,BDG,DHE,,23,PRD,GTU,SMA,,NGA,NEW,INDBDGDHEPRDGTUSMANGA_23,IndustrialBuildingDistrict HeatingProductionGas TurbineSmall,DISENE,MW,TJ
+IND,BDG,DHE,,23,PRD,GTU,SMA,,MNGA,NEW,INDBDGDHEPRDGTUSMAMNGA_23,IndustrialBuildingDistrict HeatingProductionGas TurbineSmall,DISENE,MW,TJ
+IND,BDG,DHE,,23,PRD,ICE,LAR,,NGA,NEW,INDBDGDHEPRDICELARNGA_23,IndustrialBuildingDistrict HeatingProductionInternal Combustion EngineLarge,DISENE,MW,TJ
+IND,BDG,DHE,,23,PRD,ICE,LAR,,MNGA,NEW,INDBDGDHEPRDICELARMNGA_23,IndustrialBuildingDistrict HeatingProductionInternal Combustion EngineLarge,DISENE,MW,TJ
+IND,BDG,DHE,,23,PRD,ICE,MED,,NGA,NEW,INDBDGDHEPRDICEMEDNGA_23,IndustrialBuildingDistrict HeatingProductionInternal Combustion EngineMedium,DISENE,MW,TJ
+IND,BDG,DHE,,23,PRD,ICE,MED,,MNGA,NEW,INDBDGDHEPRDICEMEDMNGA_23,IndustrialBuildingDistrict HeatingProductionInternal Combustion EngineMedium,DISENE,MW,TJ
+IND,BDG,DHE,,23,PRD,ICE,SMA,,NGA,NEW,INDBDGDHEPRDICESMANGA_23,IndustrialBuildingDistrict HeatingProductionInternal Combustion EngineSmall,DISENE,MW,TJ
+IND,BDG,DHE,,23,PRD,ICE,SMA,,MNGA,NEW,INDBDGDHEPRDICESMAMNGA_23,IndustrialBuildingDistrict HeatingProductionInternal Combustion EngineSmall,DISENE,MW,TJ
+IND,BDG,DHE,,23,STG,HTS,LAR,,HW,NEW,INDBDGDHESTGHTSLARHW_23,IndustrialBuildingDistrict HeatingStorageHot Tank StorageLarge,DISENE,MW,TJ
+IND,BDG,DHE,,23,STG,HTS,MED,,HW,NEW,INDBDGDHESTGHTSMEDHW_23,IndustrialBuildingDistrict HeatingStorageHot Tank StorageMedium,DISENE,MW,TJ
+IND,BDG,DHE,,23,STG,HTS,SMA,,HW,NEW,INDBDGDHESTGHTSSMAHW_23,IndustrialBuildingDistrict HeatingStorageHot Tank StorageSmall,DISENE,MW,TJ
+IND,BDG,DHE,,23,STG,PIT,LAR,,HW,NEW,INDBDGDHESTGPITLARHW_23,IndustrialBuildingDistrict HeatingStoragePit StorageLarge,DISENE,MW,TJ
+IND,BDG,DHE,,23,STG,PIT,MED,,HW,NEW,INDBDGDHESTGPITMEDHW_23,IndustrialBuildingDistrict HeatingStoragePit StorageMedium,DISENE,MW,TJ
+IND,BDG,DHE,,23,STG,PIT,SMA,,HW,NEW,INDBDGDHESTGPITSMAHW_23,IndustrialBuildingDistrict HeatingStoragePit StorageSmall,DISENE,MW,TJ
+PUB,BDG,DCO,,23,AVG,PIP,___,,CW,NEW,PUBBDGDCOAVGPIP___CW_23,PublicBuildingDistrict CoolingToronto AveragePipe,DISENE,MW,TJ
+PUB,BDG,DCO,,23,AVG,SUB,___,,CW,NEW,PUBBDGDCOAVGSUB___CW_23,PublicBuildingDistrict CoolingToronto AverageSubstation,DISENE,MW,TJ
+PUB,BDG,DCO,,23,CON,HEP,LAR,,HWC,NEW,PUBBDGDCOCONHEPLARHWC_23,PublicBuildingDistrict CoolingConsumptionHeat PumpLarge,DISENE,MW,TJ
+PUB,BDG,DCO,,23,CON,HEP,MED,,HWC,NEW,PUBBDGDCOCONHEPMEDHWC_23,PublicBuildingDistrict CoolingConsumptionHeat PumpMedium,DISENE,MW,TJ
+PUB,BDG,DCO,,23,CON,HEP,SMA,,HWC,NEW,PUBBDGDCOCONHEPSMAHWC_23,PublicBuildingDistrict CoolingConsumptionHeat PumpSmall,DISENE,MW,TJ
+PUB,BDG,DCO,,23,PRD,DLA,ENW,,ELC,NEW,PUBBDGDCOPRDDLAENWELC_23,PublicBuildingDistrict CoolingProductionDeep Lake CoolingEnwave,DISENE,MW,TJ
+PUB,BDG,DCO,,23,PRD,HEP,ENW,,ELC,NEW,PUBBDGDCOPRDHEPENWELC_23,PublicBuildingDistrict CoolingProductionHeat PumpEnwave,DISENE,MW,TJ
+PUB,BDG,DCO,,23,PRD,HEP,LAR,,ELC,NEW,PUBBDGDCOPRDHEPLARELC_23,PublicBuildingDistrict CoolingProductionHeat PumpLarge,DISENE,MW,TJ
+PUB,BDG,DCO,,23,PRD,HEP,LAR,,HWP,NEW,PUBBDGDCOPRDHEPLARHWP_23,PublicBuildingDistrict CoolingProductionHeat PumpLarge,DISENE,MW,TJ
+PUB,BDG,DCO,,23,PRD,HEP,MED,,ELC,NEW,PUBBDGDCOPRDHEPMEDELC_23,PublicBuildingDistrict CoolingProductionHeat PumpMedium,DISENE,MW,TJ
+PUB,BDG,DCO,,23,PRD,HEP,MED,,HWP,NEW,PUBBDGDCOPRDHEPMEDHWP_23,PublicBuildingDistrict CoolingProductionHeat PumpMedium,DISENE,MW,TJ
+PUB,BDG,DCO,,23,PRD,HEP,SMA,,ELC,NEW,PUBBDGDCOPRDHEPSMAELC_23,PublicBuildingDistrict CoolingProductionHeat PumpSmall,DISENE,MW,TJ
+PUB,BDG,DCO,,23,PRD,HEP,SMA,,HWP,NEW,PUBBDGDCOPRDHEPSMAHWP_23,PublicBuildingDistrict CoolingProductionHeat PumpSmall,DISENE,MW,TJ
+PUB,BDG,DCO,,23,STG,HTS,LAR,,CW,NEW,PUBBDGDCOSTGHTSLARCW_23,PublicBuildingDistrict CoolingStorageHot Tank StorageLarge,DISENE,MW,TJ
+PUB,BDG,DCO,,23,STG,HTS,MED,,CW,NEW,PUBBDGDCOSTGHTSMEDCW_23,PublicBuildingDistrict CoolingStorageHot Tank StorageMedium,DISENE,MW,TJ
+PUB,BDG,DCO,,23,STG,HTS,SMA,,CW,NEW,PUBBDGDCOSTGHTSSMACW_23,PublicBuildingDistrict CoolingStorageHot Tank StorageSmall,DISENE,MW,TJ
+PUB,BDG,DHE,,23,AVG,PIP,___,,HW,NEW,PUBBDGDHEAVGPIP___HW_23,PublicBuildingDistrict HeatingToronto AveragePipe,DISENE,MW,TJ
+PUB,BDG,DHE,,23,AVG,SUB,___,,HW,NEW,PUBBDGDHEAVGSUB___HW_23,PublicBuildingDistrict HeatingToronto AverageSubstation,DISENE,MW,TJ
+PUB,BDG,DHE,,23,CON,HEP,LAR,,HWC,NEW,PUBBDGDHECONHEPLARHWC_23,PublicBuildingDistrict HeatingConsumptionHeat PumpLarge,DISENE,MW,TJ
+PUB,BDG,DHE,,23,CON,HEP,MED,,HWC,NEW,PUBBDGDHECONHEPMEDHWC_23,PublicBuildingDistrict HeatingConsumptionHeat PumpMedium,DISENE,MW,TJ
+PUB,BDG,DHE,,23,CON,HEP,SMA,,HWC,NEW,PUBBDGDHECONHEPSMAHWC_23,PublicBuildingDistrict HeatingConsumptionHeat PumpSmall,DISENE,MW,TJ
+PUB,BDG,DHE,,23,PRD,BOI,LAR,,ELC,NEW,PUBBDGDHEPRDBOILARELC_23,PublicBuildingDistrict HeatingProductionBoilerLarge,DISENE,MW,TJ
+PUB,BDG,DHE,,23,PRD,BOI,LAR,,NGA,NEW,PUBBDGDHEPRDBOILARNGA_23,PublicBuildingDistrict HeatingProductionBoilerLarge,DISENE,MW,TJ
+PUB,BDG,DHE,,23,PRD,BOI,MED,,ELC,NEW,PUBBDGDHEPRDBOIMEDELC_23,PublicBuildingDistrict HeatingProductionBoilerMedium,DISENE,MW,TJ
+PUB,BDG,DHE,,23,PRD,BOI,MED,,NGA,NEW,PUBBDGDHEPRDBOIMEDNGA_23,PublicBuildingDistrict HeatingProductionBoilerMedium,DISENE,MW,TJ
+PUB,BDG,DHE,,23,PRD,BOI,SMA,,ELC,NEW,PUBBDGDHEPRDBOISMAELC_23,PublicBuildingDistrict HeatingProductionBoilerSmall,DISENE,MW,TJ
+PUB,BDG,DHE,,23,PRD,BOI,SMA,,NGA,NEW,PUBBDGDHEPRDBOISMANGA_23,PublicBuildingDistrict HeatingProductionBoilerSmall,DISENE,MW,TJ
+PUB,BDG,DHE,,23,PRD,GTU,LAR,,NGA,NEW,PUBBDGDHEPRDGTULARNGA_23,PublicBuildingDistrict HeatingProductionGas TurbineLarge,DISENE,MW,TJ
+PUB,BDG,DHE,,23,PRD,GTU,LAR,,MNGA,NEW,PUBBDGDHEPRDGTULARMNGA_23,PublicBuildingDistrict HeatingProductionGas TurbineLarge,DISENE,MW,TJ
+PUB,BDG,DHE,,23,PRD,GTU,MED,,NGA,NEW,PUBBDGDHEPRDGTUMEDNGA_23,PublicBuildingDistrict HeatingProductionGas TurbineMedium,DISENE,MW,TJ
+PUB,BDG,DHE,,23,PRD,GTU,MED,,MNGA,NEW,PUBBDGDHEPRDGTUMEDMNGA_23,PublicBuildingDistrict HeatingProductionGas TurbineMedium,DISENE,MW,TJ
+PUB,BDG,DHE,,23,PRD,GTU,SMA,,NGA,NEW,PUBBDGDHEPRDGTUSMANGA_23,PublicBuildingDistrict HeatingProductionGas TurbineSmall,DISENE,MW,TJ
+PUB,BDG,DHE,,23,PRD,GTU,SMA,,MNGA,NEW,PUBBDGDHEPRDGTUSMAMNGA_23,PublicBuildingDistrict HeatingProductionGas TurbineSmall,DISENE,MW,TJ
+PUB,BDG,DHE,,23,PRD,ICE,LAR,,NGA,NEW,PUBBDGDHEPRDICELARNGA_23,PublicBuildingDistrict HeatingProductionInternal Combustion EngineLarge,DISENE,MW,TJ
+PUB,BDG,DHE,,23,PRD,ICE,LAR,,MNGA,NEW,PUBBDGDHEPRDICELARMNGA_23,PublicBuildingDistrict HeatingProductionInternal Combustion EngineLarge,DISENE,MW,TJ
+PUB,BDG,DHE,,23,PRD,ICE,MED,,NGA,NEW,PUBBDGDHEPRDICEMEDNGA_23,PublicBuildingDistrict HeatingProductionInternal Combustion EngineMedium,DISENE,MW,TJ
+PUB,BDG,DHE,,23,PRD,ICE,MED,,MNGA,NEW,PUBBDGDHEPRDICEMEDMNGA_23,PublicBuildingDistrict HeatingProductionInternal Combustion EngineMedium,DISENE,MW,TJ
+PUB,BDG,DHE,,23,PRD,ICE,SMA,,NGA,NEW,PUBBDGDHEPRDICESMANGA_23,PublicBuildingDistrict HeatingProductionInternal Combustion EngineSmall,DISENE,MW,TJ
+PUB,BDG,DHE,,23,PRD,ICE,SMA,,MNGA,NEW,PUBBDGDHEPRDICESMAMNGA_23,PublicBuildingDistrict HeatingProductionInternal Combustion EngineSmall,DISENE,MW,TJ
+PUB,BDG,DHE,,23,STG,HTS,LAR,,HW,NEW,PUBBDGDHESTGHTSLARHW_23,PublicBuildingDistrict HeatingStorageHot Tank StorageLarge,DISENE,MW,TJ
+PUB,BDG,DHE,,23,STG,HTS,MED,,HW,NEW,PUBBDGDHESTGHTSMEDHW_23,PublicBuildingDistrict HeatingStorageHot Tank StorageMedium,DISENE,MW,TJ
+PUB,BDG,DHE,,23,STG,HTS,SMA,,HW,NEW,PUBBDGDHESTGHTSSMAHW_23,PublicBuildingDistrict HeatingStorageHot Tank StorageSmall,DISENE,MW,TJ
+PUB,BDG,DHE,,23,STG,PIT,LAR,,HW,NEW,PUBBDGDHESTGPITLARHW_23,PublicBuildingDistrict HeatingStoragePit StorageLarge,DISENE,MW,TJ
+PUB,BDG,DHE,,23,STG,PIT,MED,,HW,NEW,PUBBDGDHESTGPITMEDHW_23,PublicBuildingDistrict HeatingStoragePit StorageMedium,DISENE,MW,TJ
+PUB,BDG,DHE,,23,STG,PIT,SMA,,HW,NEW,PUBBDGDHESTGPITSMAHW_23,PublicBuildingDistrict HeatingStoragePit StorageSmall,DISENE,MW,TJ
+RES,BDG,DCO,,23,AVG,PIP,___,,CW,NEW,RESBDGDCOAVGPIP___CW_23,ResidentialBuildingDistrict CoolingToronto AveragePipe,DISENE,MW,TJ
+RES,BDG,DCO,,23,AVG,SUB,___,,CW,NEW,RESBDGDCOAVGSUB___CW_23,ResidentialBuildingDistrict CoolingToronto AverageSubstation,DISENE,MW,TJ
+RES,BDG,DCO,,23,CON,HEP,LAR,,HWC,NEW,RESBDGDCOCONHEPLARHWC_23,ResidentialBuildingDistrict CoolingConsumptionHeat PumpLarge,DISENE,MW,TJ
+RES,BDG,DCO,,23,CON,HEP,MED,,HWC,NEW,RESBDGDCOCONHEPMEDHWC_23,ResidentialBuildingDistrict CoolingConsumptionHeat PumpMedium,DISENE,MW,TJ
+RES,BDG,DCO,,23,CON,HEP,SMA,,HWC,NEW,RESBDGDCOCONHEPSMAHWC_23,ResidentialBuildingDistrict CoolingConsumptionHeat PumpSmall,DISENE,MW,TJ
+RES,BDG,DCO,,23,PRD,DLA,ENW,,ELC,NEW,RESBDGDCOPRDDLAENWELC_23,ResidentialBuildingDistrict CoolingProductionDeep Lake CoolingEnwave,DISENE,MW,TJ
+RES,BDG,DCO,,23,PRD,HEP,ENW,,ELC,NEW,RESBDGDCOPRDHEPENWELC_23,ResidentialBuildingDistrict CoolingProductionHeat PumpEnwave,DISENE,MW,TJ
+RES,BDG,DCO,,23,PRD,HEP,LAR,,ELC,NEW,RESBDGDCOPRDHEPLARELC_23,ResidentialBuildingDistrict CoolingProductionHeat PumpLarge,DISENE,MW,TJ
+RES,BDG,DCO,,23,PRD,HEP,LAR,,HWP,NEW,RESBDGDCOPRDHEPLARHWP_23,ResidentialBuildingDistrict CoolingProductionHeat PumpLarge,DISENE,MW,TJ
+RES,BDG,DCO,,23,PRD,HEP,MED,,ELC,NEW,RESBDGDCOPRDHEPMEDELC_23,ResidentialBuildingDistrict CoolingProductionHeat PumpMedium,DISENE,MW,TJ
+RES,BDG,DCO,,23,PRD,HEP,MED,,HWP,NEW,RESBDGDCOPRDHEPMEDHWP_23,ResidentialBuildingDistrict CoolingProductionHeat PumpMedium,DISENE,MW,TJ
+RES,BDG,DCO,,23,PRD,HEP,SMA,,ELC,NEW,RESBDGDCOPRDHEPSMAELC_23,ResidentialBuildingDistrict CoolingProductionHeat PumpSmall,DISENE,MW,TJ
+RES,BDG,DCO,,23,PRD,HEP,SMA,,HWP,NEW,RESBDGDCOPRDHEPSMAHWP_23,ResidentialBuildingDistrict CoolingProductionHeat PumpSmall,DISENE,MW,TJ
+RES,BDG,DCO,,23,STG,HTS,LAR,,CW,NEW,RESBDGDCOSTGHTSLARCW_23,ResidentialBuildingDistrict CoolingStorageHot Tank StorageLarge,DISENE,MW,TJ
+RES,BDG,DCO,,23,STG,HTS,MED,,CW,NEW,RESBDGDCOSTGHTSMEDCW_23,ResidentialBuildingDistrict CoolingStorageHot Tank StorageMedium,DISENE,MW,TJ
+RES,BDG,DCO,,23,STG,HTS,SMA,,CW,NEW,RESBDGDCOSTGHTSSMACW_23,ResidentialBuildingDistrict CoolingStorageHot Tank StorageSmall,DISENE,MW,TJ
+RES,BDG,DHE,,23,AVG,PIP,___,,HW,NEW,RESBDGDHEAVGPIP___HW_23,ResidentialBuildingDistrict HeatingToronto AveragePipe,DISENE,MW,TJ
+RES,BDG,DHE,,23,AVG,SUB,___,,HW,NEW,RESBDGDHEAVGSUB___HW_23,ResidentialBuildingDistrict HeatingToronto AverageSubstation,DISENE,MW,TJ
+RES,BDG,DHE,,23,CON,HEP,LAR,,HWC,NEW,RESBDGDHECONHEPLARHWC_23,ResidentialBuildingDistrict HeatingConsumptionHeat PumpLarge,DISENE,MW,TJ
+RES,BDG,DHE,,23,CON,HEP,MED,,HWC,NEW,RESBDGDHECONHEPMEDHWC_23,ResidentialBuildingDistrict HeatingConsumptionHeat PumpMedium,DISENE,MW,TJ
+RES,BDG,DHE,,23,CON,HEP,SMA,,HWC,NEW,RESBDGDHECONHEPSMAHWC_23,ResidentialBuildingDistrict HeatingConsumptionHeat PumpSmall,DISENE,MW,TJ
+RES,BDG,DHE,,23,PRD,BOI,LAR,,ELC,NEW,RESBDGDHEPRDBOILARELC_23,ResidentialBuildingDistrict HeatingProductionBoilerLarge,DISENE,MW,TJ
+RES,BDG,DHE,,23,PRD,BOI,LAR,,NGA,NEW,RESBDGDHEPRDBOILARNGA_23,ResidentialBuildingDistrict HeatingProductionBoilerLarge,DISENE,MW,TJ
+RES,BDG,DHE,,23,PRD,BOI,MED,,ELC,NEW,RESBDGDHEPRDBOIMEDELC_23,ResidentialBuildingDistrict HeatingProductionBoilerMedium,DISENE,MW,TJ
+RES,BDG,DHE,,23,PRD,BOI,MED,,NGA,NEW,RESBDGDHEPRDBOIMEDNGA_23,ResidentialBuildingDistrict HeatingProductionBoilerMedium,DISENE,MW,TJ
+RES,BDG,DHE,,23,PRD,BOI,SMA,,ELC,NEW,RESBDGDHEPRDBOISMAELC_23,ResidentialBuildingDistrict HeatingProductionBoilerSmall,DISENE,MW,TJ
+RES,BDG,DHE,,23,PRD,BOI,SMA,,NGA,NEW,RESBDGDHEPRDBOISMANGA_23,ResidentialBuildingDistrict HeatingProductionBoilerSmall,DISENE,MW,TJ
+RES,BDG,DHE,,23,PRD,GTU,LAR,,NGA,NEW,RESBDGDHEPRDGTULARNGA_23,ResidentialBuildingDistrict HeatingProductionGas TurbineLarge,DISENE,MW,TJ
+RES,BDG,DHE,,23,PRD,GTU,LAR,,MNGA,NEW,RESBDGDHEPRDGTULARMNGA_23,ResidentialBuildingDistrict HeatingProductionGas TurbineLarge,DISENE,MW,TJ
+RES,BDG,DHE,,23,PRD,GTU,MED,,NGA,NEW,RESBDGDHEPRDGTUMEDNGA_23,ResidentialBuildingDistrict HeatingProductionGas TurbineMedium,DISENE,MW,TJ
+RES,BDG,DHE,,23,PRD,GTU,MED,,MNGA,NEW,RESBDGDHEPRDGTUMEDMNGA_23,ResidentialBuildingDistrict HeatingProductionGas TurbineMedium,DISENE,MW,TJ
+RES,BDG,DHE,,23,PRD,GTU,SMA,,NGA,NEW,RESBDGDHEPRDGTUSMANGA_23,ResidentialBuildingDistrict HeatingProductionGas TurbineSmall,DISENE,MW,TJ
+RES,BDG,DHE,,23,PRD,GTU,SMA,,MNGA,NEW,RESBDGDHEPRDGTUSMAMNGA_23,ResidentialBuildingDistrict HeatingProductionGas TurbineSmall,DISENE,MW,TJ
+RES,BDG,DHE,,23,PRD,ICE,LAR,,NGA,NEW,RESBDGDHEPRDICELARNGA_23,ResidentialBuildingDistrict HeatingProductionInternal Combustion EngineLarge,DISENE,MW,TJ
+RES,BDG,DHE,,23,PRD,ICE,LAR,,MNGA,NEW,RESBDGDHEPRDICELARMNGA_23,ResidentialBuildingDistrict HeatingProductionInternal Combustion EngineLarge,DISENE,MW,TJ
+RES,BDG,DHE,,23,PRD,ICE,MED,,NGA,NEW,RESBDGDHEPRDICEMEDNGA_23,ResidentialBuildingDistrict HeatingProductionInternal Combustion EngineMedium,DISENE,MW,TJ
+RES,BDG,DHE,,23,PRD,ICE,MED,,MNGA,NEW,RESBDGDHEPRDICEMEDMNGA_23,ResidentialBuildingDistrict HeatingProductionInternal Combustion EngineMedium,DISENE,MW,TJ
+RES,BDG,DHE,,23,PRD,ICE,SMA,,NGA,NEW,RESBDGDHEPRDICESMANGA_23,ResidentialBuildingDistrict HeatingProductionInternal Combustion EngineSmall,DISENE,MW,TJ
+RES,BDG,DHE,,23,PRD,ICE,SMA,,MNGA,NEW,RESBDGDHEPRDICESMAMNGA_23,ResidentialBuildingDistrict HeatingProductionInternal Combustion EngineSmall,DISENE,MW,TJ
+RES,BDG,DHE,,23,STG,HTS,LAR,,HW,NEW,RESBDGDHESTGHTSLARHW_23,ResidentialBuildingDistrict HeatingStorageHot Tank StorageLarge,DISENE,MW,TJ
+RES,BDG,DHE,,23,STG,HTS,MED,,HW,NEW,RESBDGDHESTGHTSMEDHW_23,ResidentialBuildingDistrict HeatingStorageHot Tank StorageMedium,DISENE,MW,TJ
+RES,BDG,DHE,,23,STG,HTS,SMA,,HW,NEW,RESBDGDHESTGHTSSMAHW_23,ResidentialBuildingDistrict HeatingStorageHot Tank StorageSmall,DISENE,MW,TJ
+RES,BDG,DHE,,23,STG,PIT,LAR,,HW,NEW,RESBDGDHESTGPITLARHW_23,ResidentialBuildingDistrict HeatingStoragePit StorageLarge,DISENE,MW,TJ
+RES,BDG,DHE,,23,STG,PIT,MED,,HW,NEW,RESBDGDHESTGPITMEDHW_23,ResidentialBuildingDistrict HeatingStoragePit StorageMedium,DISENE,MW,TJ
+RES,BDG,DHE,,23,STG,PIT,SMA,,HW,NEW,RESBDGDHESTGPITSMAHW_23,ResidentialBuildingDistrict HeatingStoragePit StorageSmall,DISENE,MW,TJ
+IND,BDG,HH2,,23,PRD,SMR,CCS,,NGA,NEW,INDBDGHH2PRDSMRCCSNGA_23,IndustrialBuildingHydrogenProductionSteam Methane ReformingCarbon Capture and Storage,DISENE,MW,TJ
+IND,BDG,HH2,,23,PRD,ARG,CCS,,NGA,NEW,INDBDGHH2PRDARGCCSNGA_23,IndustrialBuildingHydrogenProductionAutothermal Reforming GasCarbon Capture and Storage,DISENE,MW,TJ
+IND,BDG,HH2,,23,PRD,SMR,___,,NGA,NEW,INDBDGHH2PRDSMR___NGA_23,IndustrialBuildingHydrogenProductionSteam Methane Reforming,DISENE,MW,TJ
+IND,BDG,HH2,,23,PRD,ALK,___,,ELC,NEW,INDBDGHH2PRDALK___ELC_23,IndustrialBuildingHydrogenProductionAlkaline Electrolysed,DISENE,MW,TJ
+LDI,TRA,,BELC,35,STA,COM,120V,,,NEW,LDITRABELCSTACOM120V,Long DistanceTransportBattery electricityCharging StationCommercial120V2035,STAENE,MW,TJ
+LDI,TRA,,BELC,23,STA,COM,240V,,,NEW,LDITRABELCSTACOM240V,Long DistanceTransportBattery electricityCharging StationCommercial240V2023,STAENE,MW,TJ
+LDI,TRA,,BELC,23,STA,PUB,240V,,,NEW,LDITRABELCSTAPUB240V,Long DistanceTransportBattery electricityCharging StationPublic240V2023,STAENE,MW,TJ
+LDI,TRA,,BELC,23,STA,RES,120V,,,NEW,LDITRABELCSTARES120V,Long DistanceTransportBattery electricityCharging StationResidential120V2023,STAENE,MW,TJ
+LDI,TRA,,BELC,23,STA,RES,240V,,,NEW,LDITRABELCSTARES240V,Long DistanceTransportBattery electricityCharging StationResidential240V2023,STAENE,MW,TJ
+PAS,TRA,,BELC,35,STA,COM,120V,,,NEW,PASTRABELCSTACOM120V,PassengerTransportBattery electricityCharging StationCommercial120V2035,STAENE,MW,TJ
+PAS,TRA,,BELC,23,STA,COM,240V,,,NEW,PASTRABELCSTACOM240V,PassengerTransportBattery electricityCharging StationCommercial240V2023,STAENE,MW,TJ
+PAS,TRA,,BELC,23,STA,PUB,240V,,,NEW,PASTRABELCSTAPUB240V,PassengerTransportBattery electricityCharging StationPublic240V2023,STAENE,MW,TJ
+PAS,TRA,,BELC,23,STA,RES,240V,,,NEW,PASTRABELCSTARES240V,PassengerTransportBattery electricityCharging StationResidential240V2023,STAENE,MW,TJ
+PAS,TRA,,BELC,23,STA,RES,120V,,,NEW,PASTRABELCSTARES120V,PassengerTransportBattery electricityCharging StationResidential120V2023,STAENE,MW,TJ
+PUB,TRA,,BELC,35,STA,COM,120V,,,NEW,PUBTRABELCSTACOM120V,PublicTransportBattery electricityCharging StationCommercial120V2035,STAENE,MW,TJ
+PUB,TRA,,BELC,23,STA,COM,240V,,,NEW,PUBTRABELCSTACOM240V,PublicTransportBattery electricityCharging StationCommercial240V2023,STAENE,MW,TJ
+PUB,TRA,,BELC,23,STA,PUB,240V,,,NEW,PUBTRABELCSTAPUB240V,PublicTransportBattery electricityCharging StationPublic240V2023,STAENE,MW,TJ
+PUB,TRA,,BELC,23,STA,RES,120V,,,NEW,PUBTRABELCSTARES120V,PublicTransportBattery electricityCharging StationResidential120V2023,STAENE,MW,TJ
+PUB,TRA,,BELC,23,STA,RES,240V,,,NEW,PUBTRABELCSTARES240V,PublicTransportBattery electricityCharging StationResidential240V2023,STAENE,MW,TJ
+FRE,TRA,,BELCF,23,STA,FRE,FA,,,NEW,FRETRABELCFSTAFREFA,FreightTransportBattery electricity freightCharging StationFreightFast2023,STAENE,MW,TJ
+FRE,TRA,,BELCF,23,STA,FRE,SL,,,NEW,FRETRABELCFSTAFRESL,FreightTransportBattery electricity freightCharging StationFreightSlow2023,STAENE,MW,TJ
+FRE,TRA,,BELC,35,STA,COM,120V,,,NEW,FRETRABELCSTACOM120V,FreightTransportBattery electricityCharging StationCommercial120V2035,STAENE,MW,TJ
+FRE,TRA,,BELC,23,STA,COM,240V,,,NEW,FRETRABELCSTACOM240V,FreightTransportBattery electricityCharging StationCommercial240V2023,STAENE,MW,TJ
+PUB,TRA,,BELCF,23,STA,FRE,FA,,,NEW,PUBTRABELCFSTAFREFA,PublicTransportBattery electricity freightCharging StationFreightFast2023,STAENE,MW,TJ
+PUB,TRA,,BELCF,23,STA,FRE,SL,,,NEW,PUBTRABELCFSTAFRESL,PublicTransportBattery electricity freightCharging StationFreightSlow2023,STAENE,MW,TJ
+PAS,TRA,,DSL,,IMP,,,,,ARCH,PASTRADSLIMP,PassengerTransportDieselImport,TRAENE,N/A,TJ
+PAS,TRA,,BDSL,,IMP,,,,,ARCH,PASTRABDSLIMP,PassengerTransportBio DieselImport,TRAENE,N/A,TJ
+PAS,TRA,,ETH,,IMP,,,,,ARCH,PASTRAETHIMP,PassengerTransportEthanolImport,TRAENE,N/A,TJ
+PAS,TRA,,GAS,,IMP,,,,,ARCH,PASTRAGASIMP,PassengerTransportGasolineImport,TRAENE,N/A,TJ
+PAS,TRA,,RDSL,,IMP,,,,,ARCH,PASTRARDSLIMP,PassengerTransportRenewable DieselImport,TRAENE,N/A,TJ
+PAS,TRA,,NGA,,IMP,,,,,ARCH,PASTRANGAIMP,PassengerTransportNatural GasImport,TRAENE,N/A,TJ
+PAS,TRA,,BMTN,,IMP,,,,,ARCH,PASTRABMTNIMP,PassengerTransportBio MethaneImport,TRAENE,N/A,TJ
+PAS,TRA,,SGA,,IMP,,,,,ARCH,PASTRASGAIMP,PassengerTransportSynthetic GasImport,TRAENE,N/A,TJ
+PAS,TRA,,SMTN,,IMP,,,,,ARCH,PASTRASMTNIMP,PassengerTransportSynthetic MethaneImport,TRAENE,N/A,TJ
+PAS,TRA,,CETH,,IMP,,,,,ARCH,PASTRACETHIMP,PassengerTransportCellulosic EthanolImport,TRAENE,N/A,TJ
+PAS,TRA,,PRO,,IMP,,,,,ARCH,PASTRAPROIMP,PassengerTransportPropaneImport,TRAENE,N/A,TJ
+PAS,TRA,,HH2,,IMP,,,,,ARCH,PASTRAHH2IMP,PassengerTransportHydrogenImport,TRAENE,N/A,TJ
+PAS,TRA,,ELC,16,IMP,,,,,ARCH,PASTRAELCIMP16,PassengerTransportElectricityImport16,TRAENE,N/A,TJ
+PAS,TRA,,ELC,17,IMP,,,,,ARCH,PASTRAELCIMP17,PassengerTransportElectricityImport17,TRAENE,N/A,TJ
+PAS,TRA,,ELC,18,IMP,,,,,ARCH,PASTRAELCIMP18,PassengerTransportElectricityImport18,TRAENE,N/A,TJ
+PAS,TRA,,ELC,19,IMP,,,,,ARCH,PASTRAELCIMP19,PassengerTransportElectricityImport19,TRAENE,N/A,TJ
+PAS,TRA,,ELC,20,IMP,,,,,ARCH,PASTRAELCIMP20,PassengerTransportElectricityImport20,TRAENE,N/A,TJ
+PAS,TRA,,ELC,21,IMP,,,,,ARCH,PASTRAELCIMP21,PassengerTransportElectricityImport21,TRAENE,N/A,TJ
+PAS,TRA,,ELC,22,IMP,,,,,ARCH,PASTRAELCIMP22,PassengerTransportElectricityImport22,TRAENE,N/A,TJ
+PAS,TRA,,ELC,23,IMP,,,,,ARCH,PASTRAELCIMP23,PassengerTransportElectricityImport23,TRAENE,N/A,TJ
+PAS,TRA,,ELC,24,IMP,,,,,ARCH,PASTRAELCIMP24,PassengerTransportElectricityImport24,TRAENE,N/A,TJ
+PAS,TRA,,ELC,25,IMP,,,,,ARCH,PASTRAELCIMP25,PassengerTransportElectricityImport25,TRAENE,N/A,TJ
+PAS,TRA,,ELC,26,IMP,,,,,ARCH,PASTRAELCIMP26,PassengerTransportElectricityImport26,TRAENE,N/A,TJ
+PAS,TRA,,ELC,27,IMP,,,,,ARCH,PASTRAELCIMP27,PassengerTransportElectricityImport27,TRAENE,N/A,TJ
+PAS,TRA,,ELC,28,IMP,,,,,ARCH,PASTRAELCIMP28,PassengerTransportElectricityImport28,TRAENE,N/A,TJ
+PAS,TRA,,ELC,29,IMP,,,,,ARCH,PASTRAELCIMP29,PassengerTransportElectricityImport29,TRAENE,N/A,TJ
+PAS,TRA,,ELC,30,IMP,,,,,ARCH,PASTRAELCIMP30,PassengerTransportElectricityImport30,TRAENE,N/A,TJ
+PAS,TRA,,ELC,31,IMP,,,,,ARCH,PASTRAELCIMP31,PassengerTransportElectricityImport31,TRAENE,N/A,TJ
+PAS,TRA,,ELC,32,IMP,,,,,ARCH,PASTRAELCIMP32,PassengerTransportElectricityImport32,TRAENE,N/A,TJ
+PAS,TRA,,ELC,33,IMP,,,,,ARCH,PASTRAELCIMP33,PassengerTransportElectricityImport33,TRAENE,N/A,TJ
+PAS,TRA,,ELC,34,IMP,,,,,ARCH,PASTRAELCIMP34,PassengerTransportElectricityImport34,TRAENE,N/A,TJ
+PAS,TRA,,ELC,35,IMP,,,,,ARCH,PASTRAELCIMP35,PassengerTransportElectricityImport35,TRAENE,N/A,TJ
+PAS,TRA,,ELC,36,IMP,,,,,ARCH,PASTRAELCIMP36,PassengerTransportElectricityImport36,TRAENE,N/A,TJ
+PAS,TRA,,ELC,37,IMP,,,,,ARCH,PASTRAELCIMP37,PassengerTransportElectricityImport37,TRAENE,N/A,TJ
+PAS,TRA,,ELC,38,IMP,,,,,ARCH,PASTRAELCIMP38,PassengerTransportElectricityImport38,TRAENE,N/A,TJ
+PAS,TRA,,ELC,39,IMP,,,,,ARCH,PASTRAELCIMP39,PassengerTransportElectricityImport39,TRAENE,N/A,TJ
+PAS,TRA,,ELC,40,IMP,,,,,ARCH,PASTRAELCIMP40,PassengerTransportElectricityImport40,TRAENE,N/A,TJ
+PAS,TRA,,ELC,41,IMP,,,,,ARCH,PASTRAELCIMP41,PassengerTransportElectricityImport41,TRAENE,N/A,TJ
+PAS,TRA,,ELC,42,IMP,,,,,ARCH,PASTRAELCIMP42,PassengerTransportElectricityImport42,TRAENE,N/A,TJ
+PAS,TRA,,ELC,43,IMP,,,,,ARCH,PASTRAELCIMP43,PassengerTransportElectricityImport43,TRAENE,N/A,TJ
+PAS,TRA,,ELC,44,IMP,,,,,ARCH,PASTRAELCIMP44,PassengerTransportElectricityImport44,TRAENE,N/A,TJ
+PAS,TRA,,ELC,45,IMP,,,,,ARCH,PASTRAELCIMP45,PassengerTransportElectricityImport45,TRAENE,N/A,TJ
+PAS,TRA,,ELC,46,IMP,,,,,ARCH,PASTRAELCIMP46,PassengerTransportElectricityImport46,TRAENE,N/A,TJ
+PAS,TRA,,ELC,47,IMP,,,,,ARCH,PASTRAELCIMP47,PassengerTransportElectricityImport47,TRAENE,N/A,TJ
+PAS,TRA,,ELC,48,IMP,,,,,ARCH,PASTRAELCIMP48,PassengerTransportElectricityImport48,TRAENE,N/A,TJ
+PAS,TRA,,ELC,49,IMP,,,,,ARCH,PASTRAELCIMP49,PassengerTransportElectricityImport49,TRAENE,N/A,TJ
+PAS,TRA,,ELC,50,IMP,,,,,ARCH,PASTRAELCIMP50,PassengerTransportElectricityImport50,TRAENE,N/A,TJ
+PAS,TRA,,BMTN,,EXP,,,,,ARCH,PASTRABMTNEXP,PassengerTransportBio MethaneExport,TRAENE,N/A,TJ
+PAS,TRA,,CETH,,EXP,,,,,ARCH,PASTRACETHEXP,PassengerTransportCellulosic EthanolExport,TRAENE,N/A,TJ
+PAS,TRA,,HH2,,EXP,,,,,ARCH,PASTRAHH2EXP,PassengerTransportHydrogenExport,TRAENE,N/A,TJ
+FRE,TRA,,FTDSL,,IMP,,,,,ARCH,FRETRAFTDSLIMP,FreightTransportFT DieselImport,TRAENE,N/A,TJ
+FRE,TRA,,GAS,,IMP,,,,,ARCH,FRETRAGASIMP,FreightTransportGasolineImport,TRAENE,N/A,TJ
+FRE,TRA,,ETH,,IMP,,,,,ARCH,FRETRAETHIMP,FreightTransportEthanolImport,TRAENE,N/A,TJ
+FRE,TRA,,CETH,,IMP,,,,,ARCH,FRETRACETHIMP,FreightTransportCellulosic EthanolImport,TRAENE,N/A,TJ
+FRE,TRA,,PRO,,IMP,,,,,ARCH,FRETRAPROIMP,FreightTransportPropaneImport,TRAENE,N/A,TJ
+FRE,TRA,,DSL,,IMP,,,,,ARCH,FRETRADSLIMP,FreightTransportDieselImport,TRAENE,N/A,TJ
+FRE,TRA,,BDSL,,IMP,,,,,ARCH,FRETRABDSLIMP,FreightTransportBio DieselImport,TRAENE,N/A,TJ
+FRE,TRA,,RDSL,,IMP,,,,,ARCH,FRETRARDSLIMP,FreightTransportRenewable DieselImport,TRAENE,N/A,TJ
+FRE,TRA,,ATF,,IMP,,,,,ARCH,FRETRAATFIMP,FreightTransportAviation Turbo FuelImport,TRAENE,N/A,TJ
+FRE,TRA,,BJE,,IMP,,,,,ARCH,FRETRABJEIMP,FreightTransportBio JetImport,TRAENE,N/A,TJ
+FRE,TRA,,SJE,,IMP,,,,,ARCH,FRETRASJEIMP,FreightTransportSynthetic JetImport,TRAENE,N/A,TJ
+FRE,TRA,,AGA,,IMP,,,,,ARCH,FRETRAAGAIMP,FreightTransportAviation GasolineImport,TRAENE,N/A,TJ
+FRE,TRA,,HH2,,IMP,,,,,ARCH,FRETRAHH2IMP,FreightTransportHydrogenImport,TRAENE,N/A,TJ
+FRE,TRA,,HFO,,IMP,,,,,ARCH,FRETRAHFOIMP,FreightTransportHeavy Fuel OilImport,TRAENE,N/A,TJ
+FRE,TRA,,KER,,IMP,,,,,ARCH,FRETRAKERIMP,FreightTransportKeroseneImport,TRAENE,N/A,TJ
+FRE,TRA,,LFO,,IMP,,,,,ARCH,FRETRALFOIMP,FreightTransportLight Fuel OilImport,TRAENE,N/A,TJ
+FRE,TRA,,NGA,,IMP,,,,,ARCH,FRETRANGAIMP,FreightTransportNatural GasImport,TRAENE,N/A,TJ
+FRE,TRA,,BMTN,,IMP,,,,,ARCH,FRETRABMTNIMP,FreightTransportBio MethaneImport,TRAENE,N/A,TJ
+FRE,TRA,,SGA,,IMP,,,,,ARCH,FRETRASGAIMP,FreightTransportSynthetic GasImport,TRAENE,N/A,TJ
+FRE,TRA,,SMTN,,IMP,,,,,ARCH,FRETRASMTNIMP,FreightTransportSynthetic MethaneImport,TRAENE,N/A,TJ
+FRE,TRA,,ELC,16,IMP,,,,,ARCH,FRETRAELCIMP16,FreightTransportElectricityImport16,TRAENE,N/A,TJ
+FRE,TRA,,ELC,17,IMP,,,,,ARCH,FRETRAELCIMP17,FreightTransportElectricityImport17,TRAENE,N/A,TJ
+FRE,TRA,,ELC,18,IMP,,,,,ARCH,FRETRAELCIMP18,FreightTransportElectricityImport18,TRAENE,N/A,TJ
+FRE,TRA,,ELC,19,IMP,,,,,ARCH,FRETRAELCIMP19,FreightTransportElectricityImport19,TRAENE,N/A,TJ
+FRE,TRA,,ELC,20,IMP,,,,,ARCH,FRETRAELCIMP20,FreightTransportElectricityImport20,TRAENE,N/A,TJ
+FRE,TRA,,ELC,21,IMP,,,,,ARCH,FRETRAELCIMP21,FreightTransportElectricityImport21,TRAENE,N/A,TJ
+FRE,TRA,,ELC,22,IMP,,,,,ARCH,FRETRAELCIMP22,FreightTransportElectricityImport22,TRAENE,N/A,TJ
+FRE,TRA,,ELC,23,IMP,,,,,ARCH,FRETRAELCIMP23,FreightTransportElectricityImport23,TRAENE,N/A,TJ
+FRE,TRA,,ELC,24,IMP,,,,,ARCH,FRETRAELCIMP24,FreightTransportElectricityImport24,TRAENE,N/A,TJ
+FRE,TRA,,ELC,25,IMP,,,,,ARCH,FRETRAELCIMP25,FreightTransportElectricityImport25,TRAENE,N/A,TJ
+FRE,TRA,,ELC,26,IMP,,,,,ARCH,FRETRAELCIMP26,FreightTransportElectricityImport26,TRAENE,N/A,TJ
+FRE,TRA,,ELC,27,IMP,,,,,ARCH,FRETRAELCIMP27,FreightTransportElectricityImport27,TRAENE,N/A,TJ
+FRE,TRA,,ELC,28,IMP,,,,,ARCH,FRETRAELCIMP28,FreightTransportElectricityImport28,TRAENE,N/A,TJ
+FRE,TRA,,ELC,29,IMP,,,,,ARCH,FRETRAELCIMP29,FreightTransportElectricityImport29,TRAENE,N/A,TJ
+FRE,TRA,,ELC,30,IMP,,,,,ARCH,FRETRAELCIMP30,FreightTransportElectricityImport30,TRAENE,N/A,TJ
+FRE,TRA,,ELC,31,IMP,,,,,ARCH,FRETRAELCIMP31,FreightTransportElectricityImport31,TRAENE,N/A,TJ
+FRE,TRA,,ELC,32,IMP,,,,,ARCH,FRETRAELCIMP32,FreightTransportElectricityImport32,TRAENE,N/A,TJ
+FRE,TRA,,ELC,33,IMP,,,,,ARCH,FRETRAELCIMP33,FreightTransportElectricityImport33,TRAENE,N/A,TJ
+FRE,TRA,,ELC,34,IMP,,,,,ARCH,FRETRAELCIMP34,FreightTransportElectricityImport34,TRAENE,N/A,TJ
+FRE,TRA,,ELC,35,IMP,,,,,ARCH,FRETRAELCIMP35,FreightTransportElectricityImport35,TRAENE,N/A,TJ
+FRE,TRA,,ELC,36,IMP,,,,,ARCH,FRETRAELCIMP36,FreightTransportElectricityImport36,TRAENE,N/A,TJ
+FRE,TRA,,ELC,37,IMP,,,,,ARCH,FRETRAELCIMP37,FreightTransportElectricityImport37,TRAENE,N/A,TJ
+FRE,TRA,,ELC,38,IMP,,,,,ARCH,FRETRAELCIMP38,FreightTransportElectricityImport38,TRAENE,N/A,TJ
+FRE,TRA,,ELC,39,IMP,,,,,ARCH,FRETRAELCIMP39,FreightTransportElectricityImport39,TRAENE,N/A,TJ
+FRE,TRA,,ELC,40,IMP,,,,,ARCH,FRETRAELCIMP40,FreightTransportElectricityImport40,TRAENE,N/A,TJ
+FRE,TRA,,ELC,41,IMP,,,,,ARCH,FRETRAELCIMP41,FreightTransportElectricityImport41,TRAENE,N/A,TJ
+FRE,TRA,,ELC,42,IMP,,,,,ARCH,FRETRAELCIMP42,FreightTransportElectricityImport42,TRAENE,N/A,TJ
+FRE,TRA,,ELC,43,IMP,,,,,ARCH,FRETRAELCIMP43,FreightTransportElectricityImport43,TRAENE,N/A,TJ
+FRE,TRA,,ELC,44,IMP,,,,,ARCH,FRETRAELCIMP44,FreightTransportElectricityImport44,TRAENE,N/A,TJ
+FRE,TRA,,ELC,45,IMP,,,,,ARCH,FRETRAELCIMP45,FreightTransportElectricityImport45,TRAENE,N/A,TJ
+FRE,TRA,,ELC,46,IMP,,,,,ARCH,FRETRAELCIMP46,FreightTransportElectricityImport46,TRAENE,N/A,TJ
+FRE,TRA,,ELC,47,IMP,,,,,ARCH,FRETRAELCIMP47,FreightTransportElectricityImport47,TRAENE,N/A,TJ
+FRE,TRA,,ELC,48,IMP,,,,,ARCH,FRETRAELCIMP48,FreightTransportElectricityImport48,TRAENE,N/A,TJ
+FRE,TRA,,ELC,49,IMP,,,,,ARCH,FRETRAELCIMP49,FreightTransportElectricityImport49,TRAENE,N/A,TJ
+FRE,TRA,,ELC,50,IMP,,,,,ARCH,FRETRAELCIMP50,FreightTransportElectricityImport50,TRAENE,N/A,TJ
+FRE,TRA,,CETH,,EXP,,,,,ARCH,FRETRACETHEXP,FreightTransportCellulosic EthanolExport,TRAENE,N/A,TJ
+FRE,TRA,,BMTN,,EXP,,,,,ARCH,FRETRABMTNEXP,FreightTransportBio MethaneExport,TRAENE,N/A,TJ
+FRE,TRA,,HH2,,EXP,,,,,ARCH,FRETRAHH2EXP,FreightTransportHydrogenExport,TRAENE,N/A,TJ
+LDI,TRA,,NGA,,IMP,,,,,ARCH,LDITRANGAIMP,Long DistanceTransportNatural GasImport,TRAENE,N/A,TJ
+LDI,TRA,,SGA,,IMP,,,,,ARCH,LDITRASGAIMP,Long DistanceTransportSynthetic GasImport,TRAENE,N/A,TJ
+LDI,TRA,,BMTN,,IMP,,,,,ARCH,LDITRABMTNIMP,Long DistanceTransportBio MethaneImport,TRAENE,N/A,TJ
+LDI,TRA,,SMTN,,IMP,,,,,ARCH,LDITRASMTNIMP,Long DistanceTransportSynthetic MethaneImport,TRAENE,N/A,TJ
+LDI,TRA,,GAS,,IMP,,,,,ARCH,LDITRAGASIMP,Long DistanceTransportGasolineImport,TRAENE,N/A,TJ
+LDI,TRA,,ETH,,IMP,,,,,ARCH,LDITRAETHIMP,Long DistanceTransportEthanolImport,TRAENE,N/A,TJ
+LDI,TRA,,CETH,,IMP,,,,,ARCH,LDITRACETHIMP,Long DistanceTransportCellulosic EthanolImport,TRAENE,N/A,TJ
+LDI,TRA,,DSL,,IMP,,,,,ARCH,LDITRADSLIMP,Long DistanceTransportDieselImport,TRAENE,N/A,TJ
+LDI,TRA,,BDSL,,IMP,,,,,ARCH,LDITRABDSLIMP,Long DistanceTransportBio DieselImport,TRAENE,N/A,TJ
+LDI,TRA,,RDSL,,IMP,,,,,ARCH,LDITRARDSLIMP,Long DistanceTransportRenewable DieselImport,TRAENE,N/A,TJ
+LDI,TRA,,PRO,,IMP,,,,,ARCH,LDITRAPROIMP,Long DistanceTransportPropaneImport,TRAENE,N/A,TJ
+LDI,TRA,,AGA,,IMP,,,,,ARCH,LDITRAAGAIMP,Long DistanceTransportAviation GasolineImport,TRAENE,N/A,TJ
+LDI,TRA,,ATF,,IMP,,,,,ARCH,LDITRAATFIMP,Long DistanceTransportAviation Turbo FuelImport,TRAENE,N/A,TJ
+LDI,TRA,,HH2,,IMP,,,,,ARCH,LDITRAHH2IMP,Long DistanceTransportHydrogenImport,TRAENE,N/A,TJ
+LDI,TRA,,BJE,,IMP,,,,,ARCH,LDITRABJEIMP,Long DistanceTransportBio JetImport,TRAENE,N/A,TJ
+LDI,TRA,,SJE,,IMP,,,,,ARCH,LDITRASJEIMP,Long DistanceTransportSynthetic JetImport,TRAENE,N/A,TJ
+LDI,TRA,,ELC,16,IMP,,,,,ARCH,LDITRAELCIMP16,Long DistanceTransportElectricityImport16,TRAENE,N/A,TJ
+LDI,TRA,,ELC,17,IMP,,,,,ARCH,LDITRAELCIMP17,Long DistanceTransportElectricityImport17,TRAENE,N/A,TJ
+LDI,TRA,,ELC,18,IMP,,,,,ARCH,LDITRAELCIMP18,Long DistanceTransportElectricityImport18,TRAENE,N/A,TJ
+LDI,TRA,,ELC,19,IMP,,,,,ARCH,LDITRAELCIMP19,Long DistanceTransportElectricityImport19,TRAENE,N/A,TJ
+LDI,TRA,,ELC,20,IMP,,,,,ARCH,LDITRAELCIMP20,Long DistanceTransportElectricityImport20,TRAENE,N/A,TJ
+LDI,TRA,,ELC,21,IMP,,,,,ARCH,LDITRAELCIMP21,Long DistanceTransportElectricityImport21,TRAENE,N/A,TJ
+LDI,TRA,,ELC,22,IMP,,,,,ARCH,LDITRAELCIMP22,Long DistanceTransportElectricityImport22,TRAENE,N/A,TJ
+LDI,TRA,,ELC,23,IMP,,,,,ARCH,LDITRAELCIMP23,Long DistanceTransportElectricityImport23,TRAENE,N/A,TJ
+LDI,TRA,,ELC,24,IMP,,,,,ARCH,LDITRAELCIMP24,Long DistanceTransportElectricityImport24,TRAENE,N/A,TJ
+LDI,TRA,,ELC,25,IMP,,,,,ARCH,LDITRAELCIMP25,Long DistanceTransportElectricityImport25,TRAENE,N/A,TJ
+LDI,TRA,,ELC,26,IMP,,,,,ARCH,LDITRAELCIMP26,Long DistanceTransportElectricityImport26,TRAENE,N/A,TJ
+LDI,TRA,,ELC,27,IMP,,,,,ARCH,LDITRAELCIMP27,Long DistanceTransportElectricityImport27,TRAENE,N/A,TJ
+LDI,TRA,,ELC,28,IMP,,,,,ARCH,LDITRAELCIMP28,Long DistanceTransportElectricityImport28,TRAENE,N/A,TJ
+LDI,TRA,,ELC,29,IMP,,,,,ARCH,LDITRAELCIMP29,Long DistanceTransportElectricityImport29,TRAENE,N/A,TJ
+LDI,TRA,,ELC,30,IMP,,,,,ARCH,LDITRAELCIMP30,Long DistanceTransportElectricityImport30,TRAENE,N/A,TJ
+LDI,TRA,,ELC,31,IMP,,,,,ARCH,LDITRAELCIMP31,Long DistanceTransportElectricityImport31,TRAENE,N/A,TJ
+LDI,TRA,,ELC,32,IMP,,,,,ARCH,LDITRAELCIMP32,Long DistanceTransportElectricityImport32,TRAENE,N/A,TJ
+LDI,TRA,,ELC,33,IMP,,,,,ARCH,LDITRAELCIMP33,Long DistanceTransportElectricityImport33,TRAENE,N/A,TJ
+LDI,TRA,,ELC,34,IMP,,,,,ARCH,LDITRAELCIMP34,Long DistanceTransportElectricityImport34,TRAENE,N/A,TJ
+LDI,TRA,,ELC,35,IMP,,,,,ARCH,LDITRAELCIMP35,Long DistanceTransportElectricityImport35,TRAENE,N/A,TJ
+LDI,TRA,,ELC,36,IMP,,,,,ARCH,LDITRAELCIMP36,Long DistanceTransportElectricityImport36,TRAENE,N/A,TJ
+LDI,TRA,,ELC,37,IMP,,,,,ARCH,LDITRAELCIMP37,Long DistanceTransportElectricityImport37,TRAENE,N/A,TJ
+LDI,TRA,,ELC,38,IMP,,,,,ARCH,LDITRAELCIMP38,Long DistanceTransportElectricityImport38,TRAENE,N/A,TJ
+LDI,TRA,,ELC,39,IMP,,,,,ARCH,LDITRAELCIMP39,Long DistanceTransportElectricityImport39,TRAENE,N/A,TJ
+LDI,TRA,,ELC,40,IMP,,,,,ARCH,LDITRAELCIMP40,Long DistanceTransportElectricityImport40,TRAENE,N/A,TJ
+LDI,TRA,,ELC,41,IMP,,,,,ARCH,LDITRAELCIMP41,Long DistanceTransportElectricityImport41,TRAENE,N/A,TJ
+LDI,TRA,,ELC,42,IMP,,,,,ARCH,LDITRAELCIMP42,Long DistanceTransportElectricityImport42,TRAENE,N/A,TJ
+LDI,TRA,,ELC,43,IMP,,,,,ARCH,LDITRAELCIMP43,Long DistanceTransportElectricityImport43,TRAENE,N/A,TJ
+LDI,TRA,,ELC,44,IMP,,,,,ARCH,LDITRAELCIMP44,Long DistanceTransportElectricityImport44,TRAENE,N/A,TJ
+LDI,TRA,,ELC,45,IMP,,,,,ARCH,LDITRAELCIMP45,Long DistanceTransportElectricityImport45,TRAENE,N/A,TJ
+LDI,TRA,,ELC,46,IMP,,,,,ARCH,LDITRAELCIMP46,Long DistanceTransportElectricityImport46,TRAENE,N/A,TJ
+LDI,TRA,,ELC,47,IMP,,,,,ARCH,LDITRAELCIMP47,Long DistanceTransportElectricityImport47,TRAENE,N/A,TJ
+LDI,TRA,,ELC,48,IMP,,,,,ARCH,LDITRAELCIMP48,Long DistanceTransportElectricityImport48,TRAENE,N/A,TJ
+LDI,TRA,,ELC,49,IMP,,,,,ARCH,LDITRAELCIMP49,Long DistanceTransportElectricityImport49,TRAENE,N/A,TJ
+LDI,TRA,,ELC,50,IMP,,,,,ARCH,LDITRAELCIMP50,Long DistanceTransportElectricityImport50,TRAENE,N/A,TJ
+LDI,TRA,,BMTN,,EXP,,,,,ARCH,LDITRABMTNEXP,Long DistanceTransportBio MethaneExport,TRAENE,N/A,TJ
+LDI,TRA,,CETH,,EXP,,,,,ARCH,LDITRACETHEXP,Long DistanceTransportCellulosic EthanolExport,TRAENE,N/A,TJ
+LDI,TRA,,HH2,,EXP,,,,,ARCH,LDITRAHH2EXP,Long DistanceTransportHydrogenExport,TRAENE,N/A,TJ
+PUB,TRA,,BDSL,,IMP,,,,,ARCH,PUBTRABDSLIMP,PublicTransportBio DieselImport,TRAENE,N/A,TJ
+PUB,TRA,,RDSL,,IMP,,,,,ARCH,PUBTRARDSLIMP,PublicTransportRenewable DieselImport,TRAENE,N/A,TJ
+PUB,TRA,,DSL,,IMP,,,,,ARCH,PUBTRADSLIMP,PublicTransportDieselImport,TRAENE,N/A,TJ
+PUB,TRA,,FTDSL,,IMP,,,,,ARCH,PUBTRAFTDSLIMP,PublicTransportFT DieselImport,TRAENE,N/A,TJ
+PUB,TRA,,ETH,,IMP,,,,,ARCH,PUBTRAETHIMP,PublicTransportEthanolImport,TRAENE,N/A,TJ
+PUB,TRA,,CETH,,IMP,,,,,ARCH,PUBTRACETHIMP,PublicTransportCellulosic EthanolImport,TRAENE,N/A,TJ
+PUB,TRA,,GAS,,IMP,,,,,ARCH,PUBTRAGASIMP,PublicTransportGasolineImport,TRAENE,N/A,TJ
+PUB,TRA,,HH2,,IMP,,,,,ARCH,PUBTRAHH2IMP,PublicTransportHydrogenImport,TRAENE,N/A,TJ
+PUB,TRA,,HFO,,IMP,,,,,ARCH,PUBTRAHFOIMP,PublicTransportHeavy Fuel OilImport,TRAENE,N/A,TJ
+PUB,TRA,,KER,,IMP,,,,,ARCH,PUBTRAKERIMP,PublicTransportKeroseneImport,TRAENE,N/A,TJ
+PUB,TRA,,LFO,,IMP,,,,,ARCH,PUBTRALFOIMP,PublicTransportLight Fuel OilImport,TRAENE,N/A,TJ
+PUB,TRA,,NGA,,IMP,,,,,ARCH,PUBTRANGAIMP,PublicTransportNatural GasImport,TRAENE,N/A,TJ
+PUB,TRA,,BMTN,,IMP,,,,,ARCH,PUBTRABMTNIMP,PublicTransportBio MethaneImport,TRAENE,N/A,TJ
+PUB,TRA,,SGA,,IMP,,,,,ARCH,PUBTRASGAIMP,PublicTransportSynthetic GasImport,TRAENE,N/A,TJ
+PUB,TRA,,SMTN,,IMP,,,,,ARCH,PUBTRASMTNIMP,PublicTransportSynthetic MethaneImport,TRAENE,N/A,TJ
+PUB,TRA,,PRO,,IMP,,,,,ARCH,PUBTRAPROIMP,PublicTransportPropaneImport,TRAENE,N/A,TJ
+PUB,TRA,,ELC,16,IMP,,,,,ARCH,PUBTRAELCIMP16,PublicTransportElectricityImport16,TRAENE,N/A,TJ
+PUB,TRA,,ELC,17,IMP,,,,,ARCH,PUBTRAELCIMP17,PublicTransportElectricityImport17,TRAENE,N/A,TJ
+PUB,TRA,,ELC,18,IMP,,,,,ARCH,PUBTRAELCIMP18,PublicTransportElectricityImport18,TRAENE,N/A,TJ
+PUB,TRA,,ELC,19,IMP,,,,,ARCH,PUBTRAELCIMP19,PublicTransportElectricityImport19,TRAENE,N/A,TJ
+PUB,TRA,,ELC,20,IMP,,,,,ARCH,PUBTRAELCIMP20,PublicTransportElectricityImport20,TRAENE,N/A,TJ
+PUB,TRA,,ELC,21,IMP,,,,,ARCH,PUBTRAELCIMP21,PublicTransportElectricityImport21,TRAENE,N/A,TJ
+PUB,TRA,,ELC,22,IMP,,,,,ARCH,PUBTRAELCIMP22,PublicTransportElectricityImport22,TRAENE,N/A,TJ
+PUB,TRA,,ELC,23,IMP,,,,,ARCH,PUBTRAELCIMP23,PublicTransportElectricityImport23,TRAENE,N/A,TJ
+PUB,TRA,,ELC,24,IMP,,,,,ARCH,PUBTRAELCIMP24,PublicTransportElectricityImport24,TRAENE,N/A,TJ
+PUB,TRA,,ELC,25,IMP,,,,,ARCH,PUBTRAELCIMP25,PublicTransportElectricityImport25,TRAENE,N/A,TJ
+PUB,TRA,,ELC,26,IMP,,,,,ARCH,PUBTRAELCIMP26,PublicTransportElectricityImport26,TRAENE,N/A,TJ
+PUB,TRA,,ELC,27,IMP,,,,,ARCH,PUBTRAELCIMP27,PublicTransportElectricityImport27,TRAENE,N/A,TJ
+PUB,TRA,,ELC,28,IMP,,,,,ARCH,PUBTRAELCIMP28,PublicTransportElectricityImport28,TRAENE,N/A,TJ
+PUB,TRA,,ELC,29,IMP,,,,,ARCH,PUBTRAELCIMP29,PublicTransportElectricityImport29,TRAENE,N/A,TJ
+PUB,TRA,,ELC,30,IMP,,,,,ARCH,PUBTRAELCIMP30,PublicTransportElectricityImport30,TRAENE,N/A,TJ
+PUB,TRA,,ELC,31,IMP,,,,,ARCH,PUBTRAELCIMP31,PublicTransportElectricityImport31,TRAENE,N/A,TJ
+PUB,TRA,,ELC,32,IMP,,,,,ARCH,PUBTRAELCIMP32,PublicTransportElectricityImport32,TRAENE,N/A,TJ
+PUB,TRA,,ELC,33,IMP,,,,,ARCH,PUBTRAELCIMP33,PublicTransportElectricityImport33,TRAENE,N/A,TJ
+PUB,TRA,,ELC,34,IMP,,,,,ARCH,PUBTRAELCIMP34,PublicTransportElectricityImport34,TRAENE,N/A,TJ
+PUB,TRA,,ELC,35,IMP,,,,,ARCH,PUBTRAELCIMP35,PublicTransportElectricityImport35,TRAENE,N/A,TJ
+PUB,TRA,,ELC,36,IMP,,,,,ARCH,PUBTRAELCIMP36,PublicTransportElectricityImport36,TRAENE,N/A,TJ
+PUB,TRA,,ELC,37,IMP,,,,,ARCH,PUBTRAELCIMP37,PublicTransportElectricityImport37,TRAENE,N/A,TJ
+PUB,TRA,,ELC,38,IMP,,,,,ARCH,PUBTRAELCIMP38,PublicTransportElectricityImport38,TRAENE,N/A,TJ
+PUB,TRA,,ELC,39,IMP,,,,,ARCH,PUBTRAELCIMP39,PublicTransportElectricityImport39,TRAENE,N/A,TJ
+PUB,TRA,,ELC,40,IMP,,,,,ARCH,PUBTRAELCIMP40,PublicTransportElectricityImport40,TRAENE,N/A,TJ
+PUB,TRA,,ELC,41,IMP,,,,,ARCH,PUBTRAELCIMP41,PublicTransportElectricityImport41,TRAENE,N/A,TJ
+PUB,TRA,,ELC,42,IMP,,,,,ARCH,PUBTRAELCIMP42,PublicTransportElectricityImport42,TRAENE,N/A,TJ
+PUB,TRA,,ELC,43,IMP,,,,,ARCH,PUBTRAELCIMP43,PublicTransportElectricityImport43,TRAENE,N/A,TJ
+PUB,TRA,,ELC,44,IMP,,,,,ARCH,PUBTRAELCIMP44,PublicTransportElectricityImport44,TRAENE,N/A,TJ
+PUB,TRA,,ELC,45,IMP,,,,,ARCH,PUBTRAELCIMP45,PublicTransportElectricityImport45,TRAENE,N/A,TJ
+PUB,TRA,,ELC,46,IMP,,,,,ARCH,PUBTRAELCIMP46,PublicTransportElectricityImport46,TRAENE,N/A,TJ
+PUB,TRA,,ELC,47,IMP,,,,,ARCH,PUBTRAELCIMP47,PublicTransportElectricityImport47,TRAENE,N/A,TJ
+PUB,TRA,,ELC,48,IMP,,,,,ARCH,PUBTRAELCIMP48,PublicTransportElectricityImport48,TRAENE,N/A,TJ
+PUB,TRA,,ELC,49,IMP,,,,,ARCH,PUBTRAELCIMP49,PublicTransportElectricityImport49,TRAENE,N/A,TJ
+PUB,TRA,,ELC,50,IMP,,,,,ARCH,PUBTRAELCIMP50,PublicTransportElectricityImport50,TRAENE,N/A,TJ
+PUB,TRA,,BMTN,,EXP,,,,,ARCH,PUBTRABMTNEXP,PublicTransportBio MethaneExport,TRAENE,N/A,TJ
+PUB,TRA,,CETH,,EXP,,,,,ARCH,PUBTRACETHEXP,PublicTransportCellulosic EthanolExport,TRAENE,N/A,TJ
+PUB,TRA,,HH2,,EXP,,,,,ARCH,PUBTRAHH2EXP,PublicTransportHydrogenExport,TRAENE,N/A,TJ
+RES,BDG,,NGA,,IMP,,,,,ARCH,RESBDGNGAIMP,ResidentialBuildingNatural GasImport,TRAENE,N/A,TJ
+RES,BDG,,LFO,,IMP,,,,,ARCH,RESBDGLFOIMP,ResidentialBuildingLight Fuel OilImport,TRAENE,N/A,TJ
+RES,BDG,,PRO,,IMP,,,,,ARCH,RESBDGPROIMP,ResidentialBuildingPropaneImport,TRAENE,N/A,TJ
+RES,BDG,,BMA,,IMP,,,,,ARCH,RESBDGBMAIMP,ResidentialBuildingBiomassImport,TRAENE,N/A,TJ
+RES,BDG,,HH2,,IMP,,,,,ARCH,RESBDGHH2IMP,ResidentialBuildingHydrogenImport,TRAENE,N/A,TJ
+RES,BDG,,KER,,IMP,,,,,ARCH,RESBDGKERIMP,ResidentialBuildingKeroseneImport,TRAENE,N/A,TJ
+RES,BDG,,BWP,,IMP,,,,,ARCH,RESBDGBWPIMP,ResidentialBuildingWood PelletImport,TRAENE,N/A,TJ
+RES,BDG,,BMTN,,IMP,,,,,ARCH,RESBDGBMTNIMP,ResidentialBuildingBio MethaneImport,TRAENE,N/A,TJ
+RES,BDG,,SGA,,IMP,,,,,ARCH,RESBDGSGAIMP,ResidentialBuildingSynthetic GasImport,TRAENE,N/A,TJ
+RES,BDG,,GEO,,IMP,,,,,ARCH,RESBDGGEOIMP,ResidentialBuildingGeothermal EnergyImport,TRAENE,N/A,TJ
+RES,BDG,,SOL,,IMP,,,,,ARCH,RESBDGSOLIMP,ResidentialBuildingSolarImport,TRAENE,N/A,TJ
+RES,BDG,,SMTN,,IMP,,,,,ARCH,RESBDGSMTNIMP,ResidentialBuildingSynthetic MethaneImport,TRAENE,N/A,TJ
+RES,BDG,,ELC,16,IMP,,,,,ARCH,RESBDGELCIMP16,ResidentialBuildingElectricityImport16,TRAENE,N/A,TJ
+RES,BDG,,ELC,17,IMP,,,,,ARCH,RESBDGELCIMP17,ResidentialBuildingElectricityImport17,TRAENE,N/A,TJ
+RES,BDG,,ELC,18,IMP,,,,,ARCH,RESBDGELCIMP18,ResidentialBuildingElectricityImport18,TRAENE,N/A,TJ
+RES,BDG,,ELC,19,IMP,,,,,ARCH,RESBDGELCIMP19,ResidentialBuildingElectricityImport19,TRAENE,N/A,TJ
+RES,BDG,,ELC,20,IMP,,,,,ARCH,RESBDGELCIMP20,ResidentialBuildingElectricityImport20,TRAENE,N/A,TJ
+RES,BDG,,ELC,21,IMP,,,,,ARCH,RESBDGELCIMP21,ResidentialBuildingElectricityImport21,TRAENE,N/A,TJ
+RES,BDG,,ELC,22,IMP,,,,,ARCH,RESBDGELCIMP22,ResidentialBuildingElectricityImport22,TRAENE,N/A,TJ
+RES,BDG,,ELC,23,IMP,,,,,ARCH,RESBDGELCIMP23,ResidentialBuildingElectricityImport23,TRAENE,N/A,TJ
+RES,BDG,,ELC,24,IMP,,,,,ARCH,RESBDGELCIMP24,ResidentialBuildingElectricityImport24,TRAENE,N/A,TJ
+RES,BDG,,ELC,25,IMP,,,,,ARCH,RESBDGELCIMP25,ResidentialBuildingElectricityImport25,TRAENE,N/A,TJ
+RES,BDG,,ELC,26,IMP,,,,,ARCH,RESBDGELCIMP26,ResidentialBuildingElectricityImport26,TRAENE,N/A,TJ
+RES,BDG,,ELC,27,IMP,,,,,ARCH,RESBDGELCIMP27,ResidentialBuildingElectricityImport27,TRAENE,N/A,TJ
+RES,BDG,,ELC,28,IMP,,,,,ARCH,RESBDGELCIMP28,ResidentialBuildingElectricityImport28,TRAENE,N/A,TJ
+RES,BDG,,ELC,29,IMP,,,,,ARCH,RESBDGELCIMP29,ResidentialBuildingElectricityImport29,TRAENE,N/A,TJ
+RES,BDG,,ELC,30,IMP,,,,,ARCH,RESBDGELCIMP30,ResidentialBuildingElectricityImport30,TRAENE,N/A,TJ
+RES,BDG,,ELC,31,IMP,,,,,ARCH,RESBDGELCIMP31,ResidentialBuildingElectricityImport31,TRAENE,N/A,TJ
+RES,BDG,,ELC,32,IMP,,,,,ARCH,RESBDGELCIMP32,ResidentialBuildingElectricityImport32,TRAENE,N/A,TJ
+RES,BDG,,ELC,33,IMP,,,,,ARCH,RESBDGELCIMP33,ResidentialBuildingElectricityImport33,TRAENE,N/A,TJ
+RES,BDG,,ELC,34,IMP,,,,,ARCH,RESBDGELCIMP34,ResidentialBuildingElectricityImport34,TRAENE,N/A,TJ
+RES,BDG,,ELC,35,IMP,,,,,ARCH,RESBDGELCIMP35,ResidentialBuildingElectricityImport35,TRAENE,N/A,TJ
+RES,BDG,,ELC,36,IMP,,,,,ARCH,RESBDGELCIMP36,ResidentialBuildingElectricityImport36,TRAENE,N/A,TJ
+RES,BDG,,ELC,37,IMP,,,,,ARCH,RESBDGELCIMP37,ResidentialBuildingElectricityImport37,TRAENE,N/A,TJ
+RES,BDG,,ELC,38,IMP,,,,,ARCH,RESBDGELCIMP38,ResidentialBuildingElectricityImport38,TRAENE,N/A,TJ
+RES,BDG,,ELC,39,IMP,,,,,ARCH,RESBDGELCIMP39,ResidentialBuildingElectricityImport39,TRAENE,N/A,TJ
+RES,BDG,,ELC,40,IMP,,,,,ARCH,RESBDGELCIMP40,ResidentialBuildingElectricityImport40,TRAENE,N/A,TJ
+RES,BDG,,ELC,41,IMP,,,,,ARCH,RESBDGELCIMP41,ResidentialBuildingElectricityImport41,TRAENE,N/A,TJ
+RES,BDG,,ELC,42,IMP,,,,,ARCH,RESBDGELCIMP42,ResidentialBuildingElectricityImport42,TRAENE,N/A,TJ
+RES,BDG,,ELC,43,IMP,,,,,ARCH,RESBDGELCIMP43,ResidentialBuildingElectricityImport43,TRAENE,N/A,TJ
+RES,BDG,,ELC,44,IMP,,,,,ARCH,RESBDGELCIMP44,ResidentialBuildingElectricityImport44,TRAENE,N/A,TJ
+RES,BDG,,ELC,45,IMP,,,,,ARCH,RESBDGELCIMP45,ResidentialBuildingElectricityImport45,TRAENE,N/A,TJ
+RES,BDG,,ELC,46,IMP,,,,,ARCH,RESBDGELCIMP46,ResidentialBuildingElectricityImport46,TRAENE,N/A,TJ
+RES,BDG,,ELC,47,IMP,,,,,ARCH,RESBDGELCIMP47,ResidentialBuildingElectricityImport47,TRAENE,N/A,TJ
+RES,BDG,,ELC,48,IMP,,,,,ARCH,RESBDGELCIMP48,ResidentialBuildingElectricityImport48,TRAENE,N/A,TJ
+RES,BDG,,ELC,49,IMP,,,,,ARCH,RESBDGELCIMP49,ResidentialBuildingElectricityImport49,TRAENE,N/A,TJ
+RES,BDG,,ELC,50,IMP,,,,,ARCH,RESBDGELCIMP50,ResidentialBuildingElectricityImport50,TRAENE,N/A,TJ
+RES,BDG,,ETHOS,,IMP,,,,,ARCH,RESBDGETHOSIMP,ResidentialBuildingDummyImport,TRAENE,N/A,TJ
+RES,BDG,,BMTN,,EXP,,,,,ARCH,RESBDGBMTNEXP,ResidentialBuildingBio MethaneExport,TRAENE,N/A,TJ
+RES,BDG,,HH2,,EXP,,,,,ARCH,RESBDGHH2EXP,ResidentialBuildingHydrogenExport,TRAENE,N/A,TJ
+COM,BDG,,NGA,,IMP,,,,,ARCH,COMBDGNGAIMP,CommercialBuildingNatural GasImport,TRAENE,N/A,TJ
+COM,BDG,,LFO,,IMP,,,,,ARCH,COMBDGLFOIMP,CommercialBuildingLight Fuel OilImport,TRAENE,N/A,TJ
+COM,BDG,,HFO,,IMP,,,,,ARCH,COMBDGHFOIMP,CommercialBuildingHeavy Fuel OilImport,TRAENE,N/A,TJ
+COM,BDG,,PRO,,IMP,,,,,ARCH,COMBDGPROIMP,CommercialBuildingPropaneImport,TRAENE,N/A,TJ
+COM,BDG,,BMA,,IMP,,,,,ARCH,COMBDGBMAIMP,CommercialBuildingBiomassImport,TRAENE,N/A,TJ
+COM,BDG,,HH2,,IMP,,,,,ARCH,COMBDGHH2IMP,CommercialBuildingHydrogenImport,TRAENE,N/A,TJ
+COM,BDG,,SOL,,IMP,,,,,ARCH,COMBDGSOLIMP,CommercialBuildingSolarImport,TRAENE,N/A,TJ
+COM,BDG,,KER,,IMP,,,,,ARCH,COMBDGKERIMP,CommercialBuildingKeroseneImport,TRAENE,N/A,TJ
+COM,BDG,,BWP,,IMP,,,,,ARCH,COMBDGBWPIMP,CommercialBuildingWood PelletImport,TRAENE,N/A,TJ
+COM,BDG,,GEO,,IMP,,,,,ARCH,COMBDGGEOIMP,CommercialBuildingGeothermal EnergyImport,TRAENE,N/A,TJ
+COM,BDG,,BMTN,,IMP,,,,,ARCH,COMBDGBMTNIMP,CommercialBuildingBio MethaneImport,TRAENE,N/A,TJ
+COM,BDG,,SGA,,IMP,,,,,ARCH,COMBDGSGAIMP,CommercialBuildingSynthetic GasImport,TRAENE,N/A,TJ
+COM,BDG,,ELC,16,IMP,,,,,ARCH,COMBDGELCIMP16,CommercialBuildingElectricityImport16,TRAENE,N/A,TJ
+COM,BDG,,ELC,17,IMP,,,,,ARCH,COMBDGELCIMP17,CommercialBuildingElectricityImport17,TRAENE,N/A,TJ
+COM,BDG,,ELC,18,IMP,,,,,ARCH,COMBDGELCIMP18,CommercialBuildingElectricityImport18,TRAENE,N/A,TJ
+COM,BDG,,ELC,19,IMP,,,,,ARCH,COMBDGELCIMP19,CommercialBuildingElectricityImport19,TRAENE,N/A,TJ
+COM,BDG,,ELC,20,IMP,,,,,ARCH,COMBDGELCIMP20,CommercialBuildingElectricityImport20,TRAENE,N/A,TJ
+COM,BDG,,ELC,21,IMP,,,,,ARCH,COMBDGELCIMP21,CommercialBuildingElectricityImport21,TRAENE,N/A,TJ
+COM,BDG,,ELC,22,IMP,,,,,ARCH,COMBDGELCIMP22,CommercialBuildingElectricityImport22,TRAENE,N/A,TJ
+COM,BDG,,ELC,23,IMP,,,,,ARCH,COMBDGELCIMP23,CommercialBuildingElectricityImport23,TRAENE,N/A,TJ
+COM,BDG,,ELC,24,IMP,,,,,ARCH,COMBDGELCIMP24,CommercialBuildingElectricityImport24,TRAENE,N/A,TJ
+COM,BDG,,ELC,25,IMP,,,,,ARCH,COMBDGELCIMP25,CommercialBuildingElectricityImport25,TRAENE,N/A,TJ
+COM,BDG,,ELC,26,IMP,,,,,ARCH,COMBDGELCIMP26,CommercialBuildingElectricityImport26,TRAENE,N/A,TJ
+COM,BDG,,ELC,27,IMP,,,,,ARCH,COMBDGELCIMP27,CommercialBuildingElectricityImport27,TRAENE,N/A,TJ
+COM,BDG,,ELC,28,IMP,,,,,ARCH,COMBDGELCIMP28,CommercialBuildingElectricityImport28,TRAENE,N/A,TJ
+COM,BDG,,ELC,29,IMP,,,,,ARCH,COMBDGELCIMP29,CommercialBuildingElectricityImport29,TRAENE,N/A,TJ
+COM,BDG,,ELC,30,IMP,,,,,ARCH,COMBDGELCIMP30,CommercialBuildingElectricityImport30,TRAENE,N/A,TJ
+COM,BDG,,ELC,31,IMP,,,,,ARCH,COMBDGELCIMP31,CommercialBuildingElectricityImport31,TRAENE,N/A,TJ
+COM,BDG,,ELC,32,IMP,,,,,ARCH,COMBDGELCIMP32,CommercialBuildingElectricityImport32,TRAENE,N/A,TJ
+COM,BDG,,ELC,33,IMP,,,,,ARCH,COMBDGELCIMP33,CommercialBuildingElectricityImport33,TRAENE,N/A,TJ
+COM,BDG,,ELC,34,IMP,,,,,ARCH,COMBDGELCIMP34,CommercialBuildingElectricityImport34,TRAENE,N/A,TJ
+COM,BDG,,ELC,35,IMP,,,,,ARCH,COMBDGELCIMP35,CommercialBuildingElectricityImport35,TRAENE,N/A,TJ
+COM,BDG,,ELC,36,IMP,,,,,ARCH,COMBDGELCIMP36,CommercialBuildingElectricityImport36,TRAENE,N/A,TJ
+COM,BDG,,ELC,37,IMP,,,,,ARCH,COMBDGELCIMP37,CommercialBuildingElectricityImport37,TRAENE,N/A,TJ
+COM,BDG,,ELC,38,IMP,,,,,ARCH,COMBDGELCIMP38,CommercialBuildingElectricityImport38,TRAENE,N/A,TJ
+COM,BDG,,ELC,39,IMP,,,,,ARCH,COMBDGELCIMP39,CommercialBuildingElectricityImport39,TRAENE,N/A,TJ
+COM,BDG,,ELC,40,IMP,,,,,ARCH,COMBDGELCIMP40,CommercialBuildingElectricityImport40,TRAENE,N/A,TJ
+COM,BDG,,ELC,41,IMP,,,,,ARCH,COMBDGELCIMP41,CommercialBuildingElectricityImport41,TRAENE,N/A,TJ
+COM,BDG,,ELC,42,IMP,,,,,ARCH,COMBDGELCIMP42,CommercialBuildingElectricityImport42,TRAENE,N/A,TJ
+COM,BDG,,ELC,43,IMP,,,,,ARCH,COMBDGELCIMP43,CommercialBuildingElectricityImport43,TRAENE,N/A,TJ
+COM,BDG,,ELC,44,IMP,,,,,ARCH,COMBDGELCIMP44,CommercialBuildingElectricityImport44,TRAENE,N/A,TJ
+COM,BDG,,ELC,45,IMP,,,,,ARCH,COMBDGELCIMP45,CommercialBuildingElectricityImport45,TRAENE,N/A,TJ
+COM,BDG,,ELC,46,IMP,,,,,ARCH,COMBDGELCIMP46,CommercialBuildingElectricityImport46,TRAENE,N/A,TJ
+COM,BDG,,ELC,47,IMP,,,,,ARCH,COMBDGELCIMP47,CommercialBuildingElectricityImport47,TRAENE,N/A,TJ
+COM,BDG,,ELC,48,IMP,,,,,ARCH,COMBDGELCIMP48,CommercialBuildingElectricityImport48,TRAENE,N/A,TJ
+COM,BDG,,ELC,49,IMP,,,,,ARCH,COMBDGELCIMP49,CommercialBuildingElectricityImport49,TRAENE,N/A,TJ
+COM,BDG,,ELC,50,IMP,,,,,ARCH,COMBDGELCIMP50,CommercialBuildingElectricityImport50,TRAENE,N/A,TJ
+COM,BDG,,ETHOS,,IMP,,,,,ARCH,COMBDGETHOSIMP,CommercialBuildingDummyImport,TRAENE,N/A,TJ
+COM,BDG,,HH2,,EXP,,,,,ARCH,COMBDGHH2EXP,CommercialBuildingHydrogenExport,TRAENE,N/A,TJ
+COM,BDG,,BMTN,,EXP,,,,,ARCH,COMBDGBMTNEXP,CommercialBuildingBio MethaneExport,TRAENE,N/A,TJ
+PUB,BDG,,NGA,,IMP,,,,,ARCH,PUBBDGNGAIMP,PublicBuildingNatural GasImport,TRAENE,N/A,TJ
+PUB,BDG,,LFO,,IMP,,,,,ARCH,PUBBDGLFOIMP,PublicBuildingLight Fuel OilImport,TRAENE,N/A,TJ
+PUB,BDG,,HFO,,IMP,,,,,ARCH,PUBBDGHFOIMP,PublicBuildingHeavy Fuel OilImport,TRAENE,N/A,TJ
+PUB,BDG,,PRO,,IMP,,,,,ARCH,PUBBDGPROIMP,PublicBuildingPropaneImport,TRAENE,N/A,TJ
+PUB,BDG,,BMA,,IMP,,,,,ARCH,PUBBDGBMAIMP,PublicBuildingBiomassImport,TRAENE,N/A,TJ
+PUB,BDG,,HH2,,IMP,,,,,ARCH,PUBBDGHH2IMP,PublicBuildingHydrogenImport,TRAENE,N/A,TJ
+PUB,BDG,,SOL,,IMP,,,,,ARCH,PUBBDGSOLIMP,PublicBuildingSolarImport,TRAENE,N/A,TJ
+PUB,BDG,,KER,,IMP,,,,,ARCH,PUBBDGKERIMP,PublicBuildingKeroseneImport,TRAENE,N/A,TJ
+PUB,BDG,,BWP,,IMP,,,,,ARCH,PUBBDGBWPIMP,PublicBuildingWood PelletImport,TRAENE,N/A,TJ
+PUB,BDG,,GEO,,IMP,,,,,ARCH,PUBBDGGEOIMP,PublicBuildingGeothermal EnergyImport,TRAENE,N/A,TJ
+PUB,BDG,,BMTN,,IMP,,,,,ARCH,PUBBDGBMTNIMP,PublicBuildingBio MethaneImport,TRAENE,N/A,TJ
+PUB,BDG,,SGA,,IMP,,,,,ARCH,PUBBDGSGAIMP,PublicBuildingSynthetic GasImport,TRAENE,N/A,TJ
+PUB,BDG,,ELC,16,IMP,,,,,ARCH,PUBBDGELCIMP16,PublicBuildingElectricityImport16,TRAENE,N/A,TJ
+PUB,BDG,,ELC,17,IMP,,,,,ARCH,PUBBDGELCIMP17,PublicBuildingElectricityImport17,TRAENE,N/A,TJ
+PUB,BDG,,ELC,18,IMP,,,,,ARCH,PUBBDGELCIMP18,PublicBuildingElectricityImport18,TRAENE,N/A,TJ
+PUB,BDG,,ELC,19,IMP,,,,,ARCH,PUBBDGELCIMP19,PublicBuildingElectricityImport19,TRAENE,N/A,TJ
+PUB,BDG,,ELC,20,IMP,,,,,ARCH,PUBBDGELCIMP20,PublicBuildingElectricityImport20,TRAENE,N/A,TJ
+PUB,BDG,,ELC,21,IMP,,,,,ARCH,PUBBDGELCIMP21,PublicBuildingElectricityImport21,TRAENE,N/A,TJ
+PUB,BDG,,ELC,22,IMP,,,,,ARCH,PUBBDGELCIMP22,PublicBuildingElectricityImport22,TRAENE,N/A,TJ
+PUB,BDG,,ELC,23,IMP,,,,,ARCH,PUBBDGELCIMP23,PublicBuildingElectricityImport23,TRAENE,N/A,TJ
+PUB,BDG,,ELC,24,IMP,,,,,ARCH,PUBBDGELCIMP24,PublicBuildingElectricityImport24,TRAENE,N/A,TJ
+PUB,BDG,,ELC,25,IMP,,,,,ARCH,PUBBDGELCIMP25,PublicBuildingElectricityImport25,TRAENE,N/A,TJ
+PUB,BDG,,ELC,26,IMP,,,,,ARCH,PUBBDGELCIMP26,PublicBuildingElectricityImport26,TRAENE,N/A,TJ
+PUB,BDG,,ELC,27,IMP,,,,,ARCH,PUBBDGELCIMP27,PublicBuildingElectricityImport27,TRAENE,N/A,TJ
+PUB,BDG,,ELC,28,IMP,,,,,ARCH,PUBBDGELCIMP28,PublicBuildingElectricityImport28,TRAENE,N/A,TJ
+PUB,BDG,,ELC,29,IMP,,,,,ARCH,PUBBDGELCIMP29,PublicBuildingElectricityImport29,TRAENE,N/A,TJ
+PUB,BDG,,ELC,30,IMP,,,,,ARCH,PUBBDGELCIMP30,PublicBuildingElectricityImport30,TRAENE,N/A,TJ
+PUB,BDG,,ELC,31,IMP,,,,,ARCH,PUBBDGELCIMP31,PublicBuildingElectricityImport31,TRAENE,N/A,TJ
+PUB,BDG,,ELC,32,IMP,,,,,ARCH,PUBBDGELCIMP32,PublicBuildingElectricityImport32,TRAENE,N/A,TJ
+PUB,BDG,,ELC,33,IMP,,,,,ARCH,PUBBDGELCIMP33,PublicBuildingElectricityImport33,TRAENE,N/A,TJ
+PUB,BDG,,ELC,34,IMP,,,,,ARCH,PUBBDGELCIMP34,PublicBuildingElectricityImport34,TRAENE,N/A,TJ
+PUB,BDG,,ELC,35,IMP,,,,,ARCH,PUBBDGELCIMP35,PublicBuildingElectricityImport35,TRAENE,N/A,TJ
+PUB,BDG,,ELC,36,IMP,,,,,ARCH,PUBBDGELCIMP36,PublicBuildingElectricityImport36,TRAENE,N/A,TJ
+PUB,BDG,,ELC,37,IMP,,,,,ARCH,PUBBDGELCIMP37,PublicBuildingElectricityImport37,TRAENE,N/A,TJ
+PUB,BDG,,ELC,38,IMP,,,,,ARCH,PUBBDGELCIMP38,PublicBuildingElectricityImport38,TRAENE,N/A,TJ
+PUB,BDG,,ELC,39,IMP,,,,,ARCH,PUBBDGELCIMP39,PublicBuildingElectricityImport39,TRAENE,N/A,TJ
+PUB,BDG,,ELC,40,IMP,,,,,ARCH,PUBBDGELCIMP40,PublicBuildingElectricityImport40,TRAENE,N/A,TJ
+PUB,BDG,,ELC,41,IMP,,,,,ARCH,PUBBDGELCIMP41,PublicBuildingElectricityImport41,TRAENE,N/A,TJ
+PUB,BDG,,ELC,42,IMP,,,,,ARCH,PUBBDGELCIMP42,PublicBuildingElectricityImport42,TRAENE,N/A,TJ
+PUB,BDG,,ELC,43,IMP,,,,,ARCH,PUBBDGELCIMP43,PublicBuildingElectricityImport43,TRAENE,N/A,TJ
+PUB,BDG,,ELC,44,IMP,,,,,ARCH,PUBBDGELCIMP44,PublicBuildingElectricityImport44,TRAENE,N/A,TJ
+PUB,BDG,,ELC,45,IMP,,,,,ARCH,PUBBDGELCIMP45,PublicBuildingElectricityImport45,TRAENE,N/A,TJ
+PUB,BDG,,ELC,46,IMP,,,,,ARCH,PUBBDGELCIMP46,PublicBuildingElectricityImport46,TRAENE,N/A,TJ
+PUB,BDG,,ELC,47,IMP,,,,,ARCH,PUBBDGELCIMP47,PublicBuildingElectricityImport47,TRAENE,N/A,TJ
+PUB,BDG,,ELC,48,IMP,,,,,ARCH,PUBBDGELCIMP48,PublicBuildingElectricityImport48,TRAENE,N/A,TJ
+PUB,BDG,,ELC,49,IMP,,,,,ARCH,PUBBDGELCIMP49,PublicBuildingElectricityImport49,TRAENE,N/A,TJ
+PUB,BDG,,ELC,50,IMP,,,,,ARCH,PUBBDGELCIMP50,PublicBuildingElectricityImport50,TRAENE,N/A,TJ
+PUB,BDG,,ETHOS,,IMP,,,,,ARCH,PUBBDGETHOSIMP,PublicBuildingDummyImport,TRAENE,N/A,TJ
+PUB,BDG,,HH2,,EXP,,,,,ARCH,PUBBDGHH2EXP,PublicBuildingHydrogenExport,TRAENE,N/A,TJ
+PUB,BDG,,BMTN,,EXP,,,,,ARCH,PUBBDGBMTNEXP,PublicBuildingBio MethaneExport,TRAENE,N/A,TJ
+IND,BDG,,NGA,,IMP,,,,,ARCH,INDBDGNGAIMP,IndustrialBuildingNatural GasImport,TRAENE,N/A,TJ
+IND,BDG,,BMTN,,IMP,,,,,ARCH,INDBDGBMTNIMP,IndustrialBuildingBio MethaneImport,TRAENE,N/A,TJ
+IND,BDG,,HH2,,IMP,,,,,ARCH,INDBDGHH2IMP,IndustrialBuildingHydrogenImport,TRAENE,N/A,TJ
+IND,BDG,,LFO,,IMP,,,,,ARCH,INDBDGLFOIMP,IndustrialBuildingLight Fuel OilImport,TRAENE,N/A,TJ
+IND,BDG,,HFO,,IMP,,,,,ARCH,INDBDGHFOIMP,IndustrialBuildingHeavy Fuel OilImport,TRAENE,N/A,TJ
+IND,BDG,,PCOK,,IMP,,,,,ARCH,INDBDGPCOKIMP,IndustrialBuildingPetcokeImport,TRAENE,N/A,TJ
+IND,BDG,,PRO,,IMP,,,,,ARCH,INDBDGPROIMP,IndustrialBuildingPropaneImport,TRAENE,N/A,TJ
+IND,BDG,,COA,,IMP,,,,,ARCH,INDBDGCOAIMP,IndustrialBuildingCoalImport,TRAENE,N/A,TJ
+IND,BDG,,COK,,IMP,,,,,ARCH,INDBDGCOKIMP,IndustrialBuildingCokeImport,TRAENE,N/A,TJ
+IND,BDG,,BMA,,IMP,,,,,ARCH,INDBDGBMAIMP,IndustrialBuildingBiomassImport,TRAENE,N/A,TJ
+IND,BDG,,ELC,16,IMP,,,,,ARCH,INDBDGELCIMP16,IndustrialBuildingElectricityImport16,TRAENE,N/A,TJ
+IND,BDG,,ELC,17,IMP,,,,,ARCH,INDBDGELCIMP17,IndustrialBuildingElectricityImport17,TRAENE,N/A,TJ
+IND,BDG,,ELC,18,IMP,,,,,ARCH,INDBDGELCIMP18,IndustrialBuildingElectricityImport18,TRAENE,N/A,TJ
+IND,BDG,,ELC,19,IMP,,,,,ARCH,INDBDGELCIMP19,IndustrialBuildingElectricityImport19,TRAENE,N/A,TJ
+IND,BDG,,ELC,20,IMP,,,,,ARCH,INDBDGELCIMP20,IndustrialBuildingElectricityImport20,TRAENE,N/A,TJ
+IND,BDG,,ELC,21,IMP,,,,,ARCH,INDBDGELCIMP21,IndustrialBuildingElectricityImport21,TRAENE,N/A,TJ
+IND,BDG,,ELC,22,IMP,,,,,ARCH,INDBDGELCIMP22,IndustrialBuildingElectricityImport22,TRAENE,N/A,TJ
+IND,BDG,,ELC,23,IMP,,,,,ARCH,INDBDGELCIMP23,IndustrialBuildingElectricityImport23,TRAENE,N/A,TJ
+IND,BDG,,ELC,24,IMP,,,,,ARCH,INDBDGELCIMP24,IndustrialBuildingElectricityImport24,TRAENE,N/A,TJ
+IND,BDG,,ELC,25,IMP,,,,,ARCH,INDBDGELCIMP25,IndustrialBuildingElectricityImport25,TRAENE,N/A,TJ
+IND,BDG,,ELC,26,IMP,,,,,ARCH,INDBDGELCIMP26,IndustrialBuildingElectricityImport26,TRAENE,N/A,TJ
+IND,BDG,,ELC,27,IMP,,,,,ARCH,INDBDGELCIMP27,IndustrialBuildingElectricityImport27,TRAENE,N/A,TJ
+IND,BDG,,ELC,28,IMP,,,,,ARCH,INDBDGELCIMP28,IndustrialBuildingElectricityImport28,TRAENE,N/A,TJ
+IND,BDG,,ELC,29,IMP,,,,,ARCH,INDBDGELCIMP29,IndustrialBuildingElectricityImport29,TRAENE,N/A,TJ
+IND,BDG,,ELC,30,IMP,,,,,ARCH,INDBDGELCIMP30,IndustrialBuildingElectricityImport30,TRAENE,N/A,TJ
+IND,BDG,,ELC,31,IMP,,,,,ARCH,INDBDGELCIMP31,IndustrialBuildingElectricityImport31,TRAENE,N/A,TJ
+IND,BDG,,ELC,32,IMP,,,,,ARCH,INDBDGELCIMP32,IndustrialBuildingElectricityImport32,TRAENE,N/A,TJ
+IND,BDG,,ELC,33,IMP,,,,,ARCH,INDBDGELCIMP33,IndustrialBuildingElectricityImport33,TRAENE,N/A,TJ
+IND,BDG,,ELC,34,IMP,,,,,ARCH,INDBDGELCIMP34,IndustrialBuildingElectricityImport34,TRAENE,N/A,TJ
+IND,BDG,,ELC,35,IMP,,,,,ARCH,INDBDGELCIMP35,IndustrialBuildingElectricityImport35,TRAENE,N/A,TJ
+IND,BDG,,ELC,36,IMP,,,,,ARCH,INDBDGELCIMP36,IndustrialBuildingElectricityImport36,TRAENE,N/A,TJ
+IND,BDG,,ELC,37,IMP,,,,,ARCH,INDBDGELCIMP37,IndustrialBuildingElectricityImport37,TRAENE,N/A,TJ
+IND,BDG,,ELC,38,IMP,,,,,ARCH,INDBDGELCIMP38,IndustrialBuildingElectricityImport38,TRAENE,N/A,TJ
+IND,BDG,,ELC,39,IMP,,,,,ARCH,INDBDGELCIMP39,IndustrialBuildingElectricityImport39,TRAENE,N/A,TJ
+IND,BDG,,ELC,40,IMP,,,,,ARCH,INDBDGELCIMP40,IndustrialBuildingElectricityImport40,TRAENE,N/A,TJ
+IND,BDG,,ELC,41,IMP,,,,,ARCH,INDBDGELCIMP41,IndustrialBuildingElectricityImport41,TRAENE,N/A,TJ
+IND,BDG,,ELC,42,IMP,,,,,ARCH,INDBDGELCIMP42,IndustrialBuildingElectricityImport42,TRAENE,N/A,TJ
+IND,BDG,,ELC,43,IMP,,,,,ARCH,INDBDGELCIMP43,IndustrialBuildingElectricityImport43,TRAENE,N/A,TJ
+IND,BDG,,ELC,44,IMP,,,,,ARCH,INDBDGELCIMP44,IndustrialBuildingElectricityImport44,TRAENE,N/A,TJ
+IND,BDG,,ELC,45,IMP,,,,,ARCH,INDBDGELCIMP45,IndustrialBuildingElectricityImport45,TRAENE,N/A,TJ
+IND,BDG,,ELC,46,IMP,,,,,ARCH,INDBDGELCIMP46,IndustrialBuildingElectricityImport46,TRAENE,N/A,TJ
+IND,BDG,,ELC,47,IMP,,,,,ARCH,INDBDGELCIMP47,IndustrialBuildingElectricityImport47,TRAENE,N/A,TJ
+IND,BDG,,ELC,48,IMP,,,,,ARCH,INDBDGELCIMP48,IndustrialBuildingElectricityImport48,TRAENE,N/A,TJ
+IND,BDG,,ELC,49,IMP,,,,,ARCH,INDBDGELCIMP49,IndustrialBuildingElectricityImport49,TRAENE,N/A,TJ
+IND,BDG,,ELC,50,IMP,,,,,ARCH,INDBDGELCIMP50,IndustrialBuildingElectricityImport50,TRAENE,N/A,TJ
+IND,BDG,,HH2,,EXP,,,,,ARCH,INDBDGHH2EXP,IndustrialBuildingHydrogenExport,TRAENE,N/A,TJ
+IND,BDG,,BMTN,,EXP,,,,,ARCH,INDBDGBMTNEXP,IndustrialBuildingBio MethaneExport,TRAENE,N/A,TJ
+IND,BDG,,ETHOS,,EXP,,,,,ARCH,INDBDGETHOSEXP,IndustrialBuildingDummyExport,TRAENE,N/A,TJ
+IND,BDG,,ETHOS,,IMP,,,,,ARCH,INDBDGETHOSIMP,IndustrialBuildingDummyImport,TRAENE,N/A,TJ
+WAT,WAS,,BMTN,,IMP,,,,,ARCH,WATWASBMTNIMP,WaterWasteBio MethaneImport,TRAENE,N/A,TJ
+WAT,WAS,,NGA,,IMP,,,,,ARCH,WATWASNGAIMP,WaterWasteNatural GasImport,TRAENE,N/A,TJ
+WAT,WAS,,HH2,,IMP,,,,,ARCH,WATWASHH2IMP,WaterWasteHydrogenImport,TRAENE,N/A,TJ
+WAT,WAS,,CETH,,IMP,,,,,ARCH,WATWASCETHIMP,WaterWasteCellulosic EthanolImport,TRAENE,N/A,TJ
+WAT,WAS,,FW,,IMP,,,,,ARCH,WATWASFWIMP,WaterWasteWaterImport,TRAENE,N/A,TJ
+WAT,WAS,,ETHOS,,IMP,,,,,ARCH,WATWASETHOSIMP,WaterWasteDummyImport,TRAENE,N/A,TJ
+WAT,WAS,,ELC,16,IMP,,,,,ARCH,WATWASELCIMP16,WaterWasteElectricityImport16,TRAENE,N/A,TJ
+WAT,WAS,,ELC,17,IMP,,,,,ARCH,WATWASELCIMP17,WaterWasteElectricityImport17,TRAENE,N/A,TJ
+WAT,WAS,,ELC,18,IMP,,,,,ARCH,WATWASELCIMP18,WaterWasteElectricityImport18,TRAENE,N/A,TJ
+WAT,WAS,,ELC,19,IMP,,,,,ARCH,WATWASELCIMP19,WaterWasteElectricityImport19,TRAENE,N/A,TJ
+WAT,WAS,,ELC,20,IMP,,,,,ARCH,WATWASELCIMP20,WaterWasteElectricityImport20,TRAENE,N/A,TJ
+WAT,WAS,,ELC,21,IMP,,,,,ARCH,WATWASELCIMP21,WaterWasteElectricityImport21,TRAENE,N/A,TJ
+WAT,WAS,,ELC,22,IMP,,,,,ARCH,WATWASELCIMP22,WaterWasteElectricityImport22,TRAENE,N/A,TJ
+WAT,WAS,,ELC,23,IMP,,,,,ARCH,WATWASELCIMP23,WaterWasteElectricityImport23,TRAENE,N/A,TJ
+WAT,WAS,,ELC,24,IMP,,,,,ARCH,WATWASELCIMP24,WaterWasteElectricityImport24,TRAENE,N/A,TJ
+WAT,WAS,,ELC,25,IMP,,,,,ARCH,WATWASELCIMP25,WaterWasteElectricityImport25,TRAENE,N/A,TJ
+WAT,WAS,,ELC,26,IMP,,,,,ARCH,WATWASELCIMP26,WaterWasteElectricityImport26,TRAENE,N/A,TJ
+WAT,WAS,,ELC,27,IMP,,,,,ARCH,WATWASELCIMP27,WaterWasteElectricityImport27,TRAENE,N/A,TJ
+WAT,WAS,,ELC,28,IMP,,,,,ARCH,WATWASELCIMP28,WaterWasteElectricityImport28,TRAENE,N/A,TJ
+WAT,WAS,,ELC,29,IMP,,,,,ARCH,WATWASELCIMP29,WaterWasteElectricityImport29,TRAENE,N/A,TJ
+WAT,WAS,,ELC,30,IMP,,,,,ARCH,WATWASELCIMP30,WaterWasteElectricityImport30,TRAENE,N/A,TJ
+WAT,WAS,,ELC,31,IMP,,,,,ARCH,WATWASELCIMP31,WaterWasteElectricityImport31,TRAENE,N/A,TJ
+WAT,WAS,,ELC,32,IMP,,,,,ARCH,WATWASELCIMP32,WaterWasteElectricityImport32,TRAENE,N/A,TJ
+WAT,WAS,,ELC,33,IMP,,,,,ARCH,WATWASELCIMP33,WaterWasteElectricityImport33,TRAENE,N/A,TJ
+WAT,WAS,,ELC,34,IMP,,,,,ARCH,WATWASELCIMP34,WaterWasteElectricityImport34,TRAENE,N/A,TJ
+WAT,WAS,,ELC,35,IMP,,,,,ARCH,WATWASELCIMP35,WaterWasteElectricityImport35,TRAENE,N/A,TJ
+WAT,WAS,,ELC,36,IMP,,,,,ARCH,WATWASELCIMP36,WaterWasteElectricityImport36,TRAENE,N/A,TJ
+WAT,WAS,,ELC,37,IMP,,,,,ARCH,WATWASELCIMP37,WaterWasteElectricityImport37,TRAENE,N/A,TJ
+WAT,WAS,,ELC,38,IMP,,,,,ARCH,WATWASELCIMP38,WaterWasteElectricityImport38,TRAENE,N/A,TJ
+WAT,WAS,,ELC,39,IMP,,,,,ARCH,WATWASELCIMP39,WaterWasteElectricityImport39,TRAENE,N/A,TJ
+WAT,WAS,,ELC,40,IMP,,,,,ARCH,WATWASELCIMP40,WaterWasteElectricityImport40,TRAENE,N/A,TJ
+WAT,WAS,,ELC,41,IMP,,,,,ARCH,WATWASELCIMP41,WaterWasteElectricityImport41,TRAENE,N/A,TJ
+WAT,WAS,,ELC,42,IMP,,,,,ARCH,WATWASELCIMP42,WaterWasteElectricityImport42,TRAENE,N/A,TJ
+WAT,WAS,,ELC,43,IMP,,,,,ARCH,WATWASELCIMP43,WaterWasteElectricityImport43,TRAENE,N/A,TJ
+WAT,WAS,,ELC,44,IMP,,,,,ARCH,WATWASELCIMP44,WaterWasteElectricityImport44,TRAENE,N/A,TJ
+WAT,WAS,,ELC,45,IMP,,,,,ARCH,WATWASELCIMP45,WaterWasteElectricityImport45,TRAENE,N/A,TJ
+WAT,WAS,,ELC,46,IMP,,,,,ARCH,WATWASELCIMP46,WaterWasteElectricityImport46,TRAENE,N/A,TJ
+WAT,WAS,,ELC,47,IMP,,,,,ARCH,WATWASELCIMP47,WaterWasteElectricityImport47,TRAENE,N/A,TJ
+WAT,WAS,,ELC,48,IMP,,,,,ARCH,WATWASELCIMP48,WaterWasteElectricityImport48,TRAENE,N/A,TJ
+WAT,WAS,,ELC,49,IMP,,,,,ARCH,WATWASELCIMP49,WaterWasteElectricityImport49,TRAENE,N/A,TJ
+WAT,WAS,,ELC,50,IMP,,,,,ARCH,WATWASELCIMP50,WaterWasteElectricityImport50,TRAENE,N/A,TJ
+WAT,WAS,,BMTN,,EXP,,,,,ARCH,WATWASBMTNEXP,WaterWasteBio MethaneExport,TRAENE,N/A,TJ
+WAT,WAS,,HH2,,EXP,,,,,ARCH,WATWASHH2EXP,WaterWasteHydrogenExport,TRAENE,N/A,TJ
+WAT,WAS,,CETH,,EXP,,,,,ARCH,WATWASCETHEXP,WaterWasteCellulosic EthanolExport,TRAENE,N/A,TJ
+SLD,WAS,,NGA,,IMP,,,,,ARCH,SLDWASNGAIMP,SolidWasteNatural GasImport,TRAENE,N/A,TJ
+SLD,WAS,,BMTN,,IMP,,,,,ARCH,SLDWASBMTNIMP,SolidWasteBio MethaneImport,TRAENE,N/A,TJ
+SLD,WAS,,HH2,,IMP,,,,,ARCH,SLDWASHH2IMP,SolidWasteHydrogenImport,TRAENE,N/A,TJ
+SLD,WAS,,CETH,,IMP,,,,,ARCH,SLDWASCETHIMP,SolidWasteCellulosic EthanolImport,TRAENE,N/A,TJ
+SLD,WAS,,ETHOS,,IMP,,,,,ARCH,SLDWASETHOSIMP,SolidWasteDummyImport,TRAENE,N/A,TJ
+SLD,WAS,,ELC,16,IMP,,,,,ARCH,SLDWASELCIMP16,SolidWasteElectricityImport16,TRAENE,N/A,TJ
+SLD,WAS,,ELC,17,IMP,,,,,ARCH,SLDWASELCIMP17,SolidWasteElectricityImport17,TRAENE,N/A,TJ
+SLD,WAS,,ELC,18,IMP,,,,,ARCH,SLDWASELCIMP18,SolidWasteElectricityImport18,TRAENE,N/A,TJ
+SLD,WAS,,ELC,19,IMP,,,,,ARCH,SLDWASELCIMP19,SolidWasteElectricityImport19,TRAENE,N/A,TJ
+SLD,WAS,,ELC,20,IMP,,,,,ARCH,SLDWASELCIMP20,SolidWasteElectricityImport20,TRAENE,N/A,TJ
+SLD,WAS,,ELC,21,IMP,,,,,ARCH,SLDWASELCIMP21,SolidWasteElectricityImport21,TRAENE,N/A,TJ
+SLD,WAS,,ELC,22,IMP,,,,,ARCH,SLDWASELCIMP22,SolidWasteElectricityImport22,TRAENE,N/A,TJ
+SLD,WAS,,ELC,23,IMP,,,,,ARCH,SLDWASELCIMP23,SolidWasteElectricityImport23,TRAENE,N/A,TJ
+SLD,WAS,,ELC,24,IMP,,,,,ARCH,SLDWASELCIMP24,SolidWasteElectricityImport24,TRAENE,N/A,TJ
+SLD,WAS,,ELC,25,IMP,,,,,ARCH,SLDWASELCIMP25,SolidWasteElectricityImport25,TRAENE,N/A,TJ
+SLD,WAS,,ELC,26,IMP,,,,,ARCH,SLDWASELCIMP26,SolidWasteElectricityImport26,TRAENE,N/A,TJ
+SLD,WAS,,ELC,27,IMP,,,,,ARCH,SLDWASELCIMP27,SolidWasteElectricityImport27,TRAENE,N/A,TJ
+SLD,WAS,,ELC,28,IMP,,,,,ARCH,SLDWASELCIMP28,SolidWasteElectricityImport28,TRAENE,N/A,TJ
+SLD,WAS,,ELC,29,IMP,,,,,ARCH,SLDWASELCIMP29,SolidWasteElectricityImport29,TRAENE,N/A,TJ
+SLD,WAS,,ELC,30,IMP,,,,,ARCH,SLDWASELCIMP30,SolidWasteElectricityImport30,TRAENE,N/A,TJ
+SLD,WAS,,ELC,31,IMP,,,,,ARCH,SLDWASELCIMP31,SolidWasteElectricityImport31,TRAENE,N/A,TJ
+SLD,WAS,,ELC,32,IMP,,,,,ARCH,SLDWASELCIMP32,SolidWasteElectricityImport32,TRAENE,N/A,TJ
+SLD,WAS,,ELC,33,IMP,,,,,ARCH,SLDWASELCIMP33,SolidWasteElectricityImport33,TRAENE,N/A,TJ
+SLD,WAS,,ELC,34,IMP,,,,,ARCH,SLDWASELCIMP34,SolidWasteElectricityImport34,TRAENE,N/A,TJ
+SLD,WAS,,ELC,35,IMP,,,,,ARCH,SLDWASELCIMP35,SolidWasteElectricityImport35,TRAENE,N/A,TJ
+SLD,WAS,,ELC,36,IMP,,,,,ARCH,SLDWASELCIMP36,SolidWasteElectricityImport36,TRAENE,N/A,TJ
+SLD,WAS,,ELC,37,IMP,,,,,ARCH,SLDWASELCIMP37,SolidWasteElectricityImport37,TRAENE,N/A,TJ
+SLD,WAS,,ELC,38,IMP,,,,,ARCH,SLDWASELCIMP38,SolidWasteElectricityImport38,TRAENE,N/A,TJ
+SLD,WAS,,ELC,39,IMP,,,,,ARCH,SLDWASELCIMP39,SolidWasteElectricityImport39,TRAENE,N/A,TJ
+SLD,WAS,,ELC,40,IMP,,,,,ARCH,SLDWASELCIMP40,SolidWasteElectricityImport40,TRAENE,N/A,TJ
+SLD,WAS,,ELC,41,IMP,,,,,ARCH,SLDWASELCIMP41,SolidWasteElectricityImport41,TRAENE,N/A,TJ
+SLD,WAS,,ELC,42,IMP,,,,,ARCH,SLDWASELCIMP42,SolidWasteElectricityImport42,TRAENE,N/A,TJ
+SLD,WAS,,ELC,43,IMP,,,,,ARCH,SLDWASELCIMP43,SolidWasteElectricityImport43,TRAENE,N/A,TJ
+SLD,WAS,,ELC,44,IMP,,,,,ARCH,SLDWASELCIMP44,SolidWasteElectricityImport44,TRAENE,N/A,TJ
+SLD,WAS,,ELC,45,IMP,,,,,ARCH,SLDWASELCIMP45,SolidWasteElectricityImport45,TRAENE,N/A,TJ
+SLD,WAS,,ELC,46,IMP,,,,,ARCH,SLDWASELCIMP46,SolidWasteElectricityImport46,TRAENE,N/A,TJ
+SLD,WAS,,ELC,47,IMP,,,,,ARCH,SLDWASELCIMP47,SolidWasteElectricityImport47,TRAENE,N/A,TJ
+SLD,WAS,,ELC,48,IMP,,,,,ARCH,SLDWASELCIMP48,SolidWasteElectricityImport48,TRAENE,N/A,TJ
+SLD,WAS,,ELC,49,IMP,,,,,ARCH,SLDWASELCIMP49,SolidWasteElectricityImport49,TRAENE,N/A,TJ
+SLD,WAS,,ELC,50,IMP,,,,,ARCH,SLDWASELCIMP50,SolidWasteElectricityImport50,TRAENE,N/A,TJ
+SLD,WAS,,BMTN,,EXP,,,,,ARCH,SLDWASBMTNEXP,SolidWasteBio MethaneExport,TRAENE,N/A,TJ
+SLD,WAS,,HH2,,EXP,,,,,ARCH,SLDWASHH2EXP,SolidWasteHydrogenExport,TRAENE,N/A,TJ
+SLD,WAS,,CETH,,EXP,,,,,ARCH,SLDWASCETHEXP,SolidWasteCellulosic EthanolExport,TRAENE,N/A,TJ
+SLD,WAS,,ETHOS,,EXP,,,,,ARCH,SLDWASETHOSEXP,SolidWasteDummyExport,TRAENE,N/A,TJ

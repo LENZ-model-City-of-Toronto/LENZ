@@ -1,0 +1,526 @@
+regions,tech,vintage,cost_invest,cost_invest_units,cost_invest_notes
+TO,WATWASWWABGASERKSTD____23,2016,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWABGASERKSTDMENE_23,2016,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWABADIPUB_______23,2016,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWABADIPUB___MENE_23,2016,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWABGASCENCCSHH2_23,2016,0.0,k$/MW,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHBGASERKSTD____23,2016,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHBGASERKSTDMENE_23,2016,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHBADIPUB_______23,2016,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHBADIPUB___MENE_23,2016,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHBGASCENCCSHH2_23,2016,0.0,k$/MW,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHCGASERKSTD____23,2016,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHCGASERKSTDMENE_23,2016,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHCADIPUB_______23,2016,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHCADIPUB___MENE_23,2016,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHCGASCENCCSHH2_23,2016,0.0,k$/MW,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWABGASERKSTD____23,2017,23.37,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWABGASERKSTDMENE_23,2017,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWABADIPUB_______23,2017,30.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWABADIPUB___MENE_23,2017,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWABGASCENCCSHH2_23,2017,0.0,k$/MW,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHBGASERKSTD____23,2017,23.37,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHBGASERKSTDMENE_23,2017,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHBADIPUB_______23,2017,30.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHBADIPUB___MENE_23,2017,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHBGASCENCCSHH2_23,2017,0.0,k$/MW,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHCGASERKSTD____23,2017,23.37,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHCGASERKSTDMENE_23,2017,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHCADIPUB_______23,2017,30.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHCADIPUB___MENE_23,2017,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHCGASCENCCSHH2_23,2017,0.0,k$/MW,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWABGASERKSTD____23,2018,23.37,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWABGASERKSTDMENE_23,2018,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWABADIPUB_______23,2018,30.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWABADIPUB___MENE_23,2018,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWABGASCENCCSHH2_23,2018,0.0,k$/MW,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHBGASERKSTD____23,2018,23.37,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHBGASERKSTDMENE_23,2018,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHBADIPUB_______23,2018,30.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHBADIPUB___MENE_23,2018,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHBGASCENCCSHH2_23,2018,0.0,k$/MW,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHCGASERKSTD____23,2018,23.37,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHCGASERKSTDMENE_23,2018,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHCADIPUB_______23,2018,30.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHCADIPUB___MENE_23,2018,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHCGASCENCCSHH2_23,2018,0.0,k$/MW,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWABGASERKSTD____23,2019,23.37,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWABGASERKSTDMENE_23,2019,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWABADIPUB_______23,2019,30.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWABADIPUB___MENE_23,2019,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWABGASCENCCSHH2_23,2019,0.0,k$/MW,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHBGASERKSTD____23,2019,23.37,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHBGASERKSTDMENE_23,2019,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHBADIPUB_______23,2019,30.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHBADIPUB___MENE_23,2019,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHBGASCENCCSHH2_23,2019,0.0,k$/MW,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHCGASERKSTD____23,2019,23.37,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHCGASERKSTDMENE_23,2019,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHCADIPUB_______23,2019,30.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHCADIPUB___MENE_23,2019,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHCGASCENCCSHH2_23,2019,0.0,k$/MW,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWABGASERKSTD____23,2020,23.37,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWABGASERKSTDMENE_23,2020,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWABADIPUB_______23,2020,30.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWABADIPUB___MENE_23,2020,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWABGASCENCCSHH2_23,2020,3703.54400395896,k$/MW,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHBGASERKSTD____23,2020,23.37,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHBGASERKSTDMENE_23,2020,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHBADIPUB_______23,2020,30.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHBADIPUB___MENE_23,2020,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHBGASCENCCSHH2_23,2020,3703.54400395896,k$/MW,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHCGASERKSTD____23,2020,23.37,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHCGASERKSTDMENE_23,2020,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHCADIPUB_______23,2020,30.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHCADIPUB___MENE_23,2020,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHCGASCENCCSHH2_23,2020,3703.54400395896,k$/MW,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWABGASERKSTD____23,2021,23.37,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWABGASERKSTDMENE_23,2021,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWABADIPUB_______23,2021,30.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWABADIPUB___MENE_23,2021,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWABGASCENCCSHH2_23,2021,3662.718400267158,k$/MW,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHBGASERKSTD____23,2021,23.37,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHBGASERKSTDMENE_23,2021,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHBADIPUB_______23,2021,30.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHBADIPUB___MENE_23,2021,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHBGASCENCCSHH2_23,2021,3662.718400267158,k$/MW,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHCGASERKSTD____23,2021,23.37,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHCGASERKSTDMENE_23,2021,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHCADIPUB_______23,2021,30.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHCADIPUB___MENE_23,2021,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHCGASCENCCSHH2_23,2021,3662.718400267158,k$/MW,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWABGASERKSTD____23,2022,23.37,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWABGASERKSTDMENE_23,2022,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWABADIPUB_______23,2022,30.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWABADIPUB___MENE_23,2022,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWABGASCENCCSHH2_23,2022,3621.892796575356,k$/MW,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHBGASERKSTD____23,2022,23.37,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHBGASERKSTDMENE_23,2022,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHBADIPUB_______23,2022,30.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHBADIPUB___MENE_23,2022,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHBGASCENCCSHH2_23,2022,3621.892796575356,k$/MW,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHCGASERKSTD____23,2022,23.37,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHCGASERKSTDMENE_23,2022,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHCADIPUB_______23,2022,30.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHCADIPUB___MENE_23,2022,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHCGASCENCCSHH2_23,2022,3621.892796575356,k$/MW,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWABGASERKSTD____23,2023,23.37,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWABGASERKSTDMENE_23,2023,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWABADIPUB_______23,2023,30.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWABADIPUB___MENE_23,2023,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWABGASCENCCSHH2_23,2023,3581.0671928835536,k$/MW,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHBGASERKSTD____23,2023,23.37,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHBGASERKSTDMENE_23,2023,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHBADIPUB_______23,2023,30.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHBADIPUB___MENE_23,2023,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHBGASCENCCSHH2_23,2023,3581.0671928835536,k$/MW,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHCGASERKSTD____23,2023,23.37,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHCGASERKSTDMENE_23,2023,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHCADIPUB_______23,2023,30.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHCADIPUB___MENE_23,2023,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHCGASCENCCSHH2_23,2023,3581.0671928835536,k$/MW,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWABGASERKSTD____23,2024,23.37,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWABGASERKSTDMENE_23,2024,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWABADIPUB_______23,2024,30.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWABADIPUB___MENE_23,2024,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWABGASCENCCSHH2_23,2024,3540.2415891917517,k$/MW,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHBGASERKSTD____23,2024,23.37,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHBGASERKSTDMENE_23,2024,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHBADIPUB_______23,2024,30.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHBADIPUB___MENE_23,2024,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHBGASCENCCSHH2_23,2024,3540.2415891917517,k$/MW,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHCGASERKSTD____23,2024,23.37,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHCGASERKSTDMENE_23,2024,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHCADIPUB_______23,2024,30.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHCADIPUB___MENE_23,2024,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHCGASCENCCSHH2_23,2024,3540.2415891917517,k$/MW,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWABGASERKSTD____23,2025,23.37,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWABGASERKSTDMENE_23,2025,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWABADIPUB_______23,2025,30.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWABADIPUB___MENE_23,2025,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWABGASCENCCSHH2_23,2025,3499.41598549995,k$/MW,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHBGASERKSTD____23,2025,23.37,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHBGASERKSTDMENE_23,2025,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHBADIPUB_______23,2025,30.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHBADIPUB___MENE_23,2025,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHBGASCENCCSHH2_23,2025,3499.41598549995,k$/MW,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHCGASERKSTD____23,2025,23.37,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHCGASERKSTDMENE_23,2025,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHCADIPUB_______23,2025,30.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHCADIPUB___MENE_23,2025,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHCGASCENCCSHH2_23,2025,3499.41598549995,k$/MW,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWABGASERKSTD____23,2026,23.37,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWABGASERKSTDMENE_23,2026,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWABADIPUB_______23,2026,30.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWABADIPUB___MENE_23,2026,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWABGASCENCCSHH2_23,2026,3459.640054290076,k$/MW,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHBGASERKSTD____23,2026,23.37,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHBGASERKSTDMENE_23,2026,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHBADIPUB_______23,2026,30.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHBADIPUB___MENE_23,2026,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHBGASCENCCSHH2_23,2026,3459.640054290076,k$/MW,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHCGASERKSTD____23,2026,23.37,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHCGASERKSTDMENE_23,2026,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHCADIPUB_______23,2026,30.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHCADIPUB___MENE_23,2026,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHCGASCENCCSHH2_23,2026,3459.640054290076,k$/MW,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWABGASERKSTD____23,2027,23.37,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWABGASERKSTDMENE_23,2027,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWABADIPUB_______23,2027,30.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWABADIPUB___MENE_23,2027,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWABGASCENCCSHH2_23,2027,3419.864123080202,k$/MW,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHBGASERKSTD____23,2027,23.37,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHBGASERKSTDMENE_23,2027,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHBADIPUB_______23,2027,30.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHBADIPUB___MENE_23,2027,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHBGASCENCCSHH2_23,2027,3419.864123080202,k$/MW,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHCGASERKSTD____23,2027,23.37,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHCGASERKSTDMENE_23,2027,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHCADIPUB_______23,2027,30.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHCADIPUB___MENE_23,2027,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHCGASCENCCSHH2_23,2027,3419.864123080202,k$/MW,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWABGASERKSTD____23,2028,23.37,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWABGASERKSTDMENE_23,2028,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWABADIPUB_______23,2028,30.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWABADIPUB___MENE_23,2028,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWABGASCENCCSHH2_23,2028,3380.088191870328,k$/MW,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHBGASERKSTD____23,2028,23.37,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHBGASERKSTDMENE_23,2028,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHBADIPUB_______23,2028,30.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHBADIPUB___MENE_23,2028,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHBGASCENCCSHH2_23,2028,3380.088191870328,k$/MW,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHCGASERKSTD____23,2028,23.37,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHCGASERKSTDMENE_23,2028,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHCADIPUB_______23,2028,30.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHCADIPUB___MENE_23,2028,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHCGASCENCCSHH2_23,2028,3380.088191870328,k$/MW,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWABGASERKSTD____23,2029,23.37,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWABGASERKSTDMENE_23,2029,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWABADIPUB_______23,2029,30.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWABADIPUB___MENE_23,2029,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWABGASCENCCSHH2_23,2029,3340.312260660454,k$/MW,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHBGASERKSTD____23,2029,23.37,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHBGASERKSTDMENE_23,2029,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHBADIPUB_______23,2029,30.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHBADIPUB___MENE_23,2029,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHBGASCENCCSHH2_23,2029,3340.312260660454,k$/MW,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHCGASERKSTD____23,2029,23.37,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHCGASERKSTDMENE_23,2029,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHCADIPUB_______23,2029,30.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHCADIPUB___MENE_23,2029,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHCGASCENCCSHH2_23,2029,3340.312260660454,k$/MW,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWABGASERKSTD____23,2030,23.37,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWABGASERKSTDMENE_23,2030,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWABADIPUB_______23,2030,30.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWABADIPUB___MENE_23,2030,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWABGASCENCCSHH2_23,2030,3300.53632945058,k$/MW,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHBGASERKSTD____23,2030,23.37,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHBGASERKSTDMENE_23,2030,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHBADIPUB_______23,2030,30.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHBADIPUB___MENE_23,2030,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHBGASCENCCSHH2_23,2030,3300.53632945058,k$/MW,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHCGASERKSTD____23,2030,23.37,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHCGASERKSTDMENE_23,2030,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHCADIPUB_______23,2030,30.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHCADIPUB___MENE_23,2030,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHCGASCENCCSHH2_23,2030,3300.53632945058,k$/MW,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWABGASERKSTD____23,2031,23.37,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWABGASERKSTDMENE_23,2031,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWABADIPUB_______23,2031,30.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWABADIPUB___MENE_23,2031,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWABGASCENCCSHH2_23,2031,3271.412323502792,k$/MW,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHBGASERKSTD____23,2031,23.37,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHBGASERKSTDMENE_23,2031,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHBADIPUB_______23,2031,30.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHBADIPUB___MENE_23,2031,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHBGASCENCCSHH2_23,2031,3271.412323502792,k$/MW,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHCGASERKSTD____23,2031,23.37,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHCGASERKSTDMENE_23,2031,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHCADIPUB_______23,2031,30.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHCADIPUB___MENE_23,2031,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHCGASCENCCSHH2_23,2031,3271.412323502792,k$/MW,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWABGASERKSTD____23,2032,23.37,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWABGASERKSTDMENE_23,2032,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWABADIPUB_______23,2032,30.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWABADIPUB___MENE_23,2032,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWABGASCENCCSHH2_23,2032,3242.288317555004,k$/MW,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHBGASERKSTD____23,2032,23.37,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHBGASERKSTDMENE_23,2032,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHBADIPUB_______23,2032,30.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHBADIPUB___MENE_23,2032,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHBGASCENCCSHH2_23,2032,3242.288317555004,k$/MW,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHCGASERKSTD____23,2032,23.37,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHCGASERKSTDMENE_23,2032,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHCADIPUB_______23,2032,30.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHCADIPUB___MENE_23,2032,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHCGASCENCCSHH2_23,2032,3242.288317555004,k$/MW,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWABGASERKSTD____23,2033,23.37,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWABGASERKSTDMENE_23,2033,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWABADIPUB_______23,2033,30.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWABADIPUB___MENE_23,2033,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWABGASCENCCSHH2_23,2033,3213.164311607216,k$/MW,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHBGASERKSTD____23,2033,23.37,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHBGASERKSTDMENE_23,2033,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHBADIPUB_______23,2033,30.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHBADIPUB___MENE_23,2033,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHBGASCENCCSHH2_23,2033,3213.164311607216,k$/MW,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHCGASERKSTD____23,2033,23.37,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHCGASERKSTDMENE_23,2033,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHCADIPUB_______23,2033,30.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHCADIPUB___MENE_23,2033,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHCGASCENCCSHH2_23,2033,3213.164311607216,k$/MW,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWABGASERKSTD____23,2034,23.37,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWABGASERKSTDMENE_23,2034,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWABADIPUB_______23,2034,30.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWABADIPUB___MENE_23,2034,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWABGASCENCCSHH2_23,2034,3184.040305659428,k$/MW,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHBGASERKSTD____23,2034,23.37,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHBGASERKSTDMENE_23,2034,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHBADIPUB_______23,2034,30.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHBADIPUB___MENE_23,2034,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHBGASCENCCSHH2_23,2034,3184.040305659428,k$/MW,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHCGASERKSTD____23,2034,23.37,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHCGASERKSTDMENE_23,2034,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHCADIPUB_______23,2034,30.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHCADIPUB___MENE_23,2034,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHCGASCENCCSHH2_23,2034,3184.040305659428,k$/MW,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWABGASERKSTD____23,2035,23.37,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWABGASERKSTDMENE_23,2035,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWABADIPUB_______23,2035,30.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWABADIPUB___MENE_23,2035,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWABGASCENCCSHH2_23,2035,3154.91629971164,k$/MW,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHBGASERKSTD____23,2035,23.37,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHBGASERKSTDMENE_23,2035,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHBADIPUB_______23,2035,30.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHBADIPUB___MENE_23,2035,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHBGASCENCCSHH2_23,2035,3154.91629971164,k$/MW,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHCGASERKSTD____23,2035,23.37,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHCGASERKSTDMENE_23,2035,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHCADIPUB_______23,2035,30.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHCADIPUB___MENE_23,2035,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHCGASCENCCSHH2_23,2035,3154.91629971164,k$/MW,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWABGASERKSTD____23,2036,23.37,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWABGASERKSTDMENE_23,2036,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWABADIPUB_______23,2036,30.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWABADIPUB___MENE_23,2036,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWABGASCENCCSHH2_23,2036,3125.792293763852,k$/MW,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHBGASERKSTD____23,2036,23.37,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHBGASERKSTDMENE_23,2036,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHBADIPUB_______23,2036,30.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHBADIPUB___MENE_23,2036,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHBGASCENCCSHH2_23,2036,3125.792293763852,k$/MW,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHCGASERKSTD____23,2036,23.37,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHCGASERKSTDMENE_23,2036,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHCADIPUB_______23,2036,30.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHCADIPUB___MENE_23,2036,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHCGASCENCCSHH2_23,2036,3125.792293763852,k$/MW,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWABGASERKSTD____23,2037,23.37,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWABGASERKSTDMENE_23,2037,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWABADIPUB_______23,2037,30.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWABADIPUB___MENE_23,2037,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWABGASCENCCSHH2_23,2037,3096.668287816064,k$/MW,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHBGASERKSTD____23,2037,23.37,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHBGASERKSTDMENE_23,2037,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHBADIPUB_______23,2037,30.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHBADIPUB___MENE_23,2037,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHBGASCENCCSHH2_23,2037,3096.668287816064,k$/MW,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHCGASERKSTD____23,2037,23.37,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHCGASERKSTDMENE_23,2037,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHCADIPUB_______23,2037,30.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHCADIPUB___MENE_23,2037,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHCGASCENCCSHH2_23,2037,3096.668287816064,k$/MW,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWABGASERKSTD____23,2038,23.37,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWABGASERKSTDMENE_23,2038,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWABADIPUB_______23,2038,30.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWABADIPUB___MENE_23,2038,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWABGASCENCCSHH2_23,2038,3067.544281868276,k$/MW,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHBGASERKSTD____23,2038,23.37,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHBGASERKSTDMENE_23,2038,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHBADIPUB_______23,2038,30.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHBADIPUB___MENE_23,2038,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHBGASCENCCSHH2_23,2038,3067.544281868276,k$/MW,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHCGASERKSTD____23,2038,23.37,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHCGASERKSTDMENE_23,2038,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHCADIPUB_______23,2038,30.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHCADIPUB___MENE_23,2038,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHCGASCENCCSHH2_23,2038,3067.544281868276,k$/MW,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWABGASERKSTD____23,2039,23.37,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWABGASERKSTDMENE_23,2039,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWABADIPUB_______23,2039,30.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWABADIPUB___MENE_23,2039,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWABGASCENCCSHH2_23,2039,3038.420275920488,k$/MW,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHBGASERKSTD____23,2039,23.37,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHBGASERKSTDMENE_23,2039,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHBADIPUB_______23,2039,30.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHBADIPUB___MENE_23,2039,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHBGASCENCCSHH2_23,2039,3038.420275920488,k$/MW,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHCGASERKSTD____23,2039,23.37,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHCGASERKSTDMENE_23,2039,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHCADIPUB_______23,2039,30.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHCADIPUB___MENE_23,2039,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHCGASCENCCSHH2_23,2039,3038.420275920488,k$/MW,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWABGASERKSTD____23,2040,23.37,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWABGASERKSTDMENE_23,2040,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWABADIPUB_______23,2040,30.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWABADIPUB___MENE_23,2040,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWABGASCENCCSHH2_23,2040,3009.2962699727,k$/MW,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHBGASERKSTD____23,2040,23.37,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHBGASERKSTDMENE_23,2040,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHBADIPUB_______23,2040,30.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHBADIPUB___MENE_23,2040,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHBGASCENCCSHH2_23,2040,3009.2962699727,k$/MW,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHCGASERKSTD____23,2040,23.37,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHCGASERKSTDMENE_23,2040,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHCADIPUB_______23,2040,30.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHCADIPUB___MENE_23,2040,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHCGASCENCCSHH2_23,2040,3009.2962699727,k$/MW,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWABGASERKSTD____23,2041,23.37,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWABGASERKSTDMENE_23,2041,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWABADIPUB_______23,2041,30.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWABADIPUB___MENE_23,2041,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWABGASCENCCSHH2_23,2041,2988.71296488282,k$/MW,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHBGASERKSTD____23,2041,23.37,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHBGASERKSTDMENE_23,2041,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHBADIPUB_______23,2041,30.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHBADIPUB___MENE_23,2041,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHBGASCENCCSHH2_23,2041,2988.71296488282,k$/MW,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHCGASERKSTD____23,2041,23.37,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHCGASERKSTDMENE_23,2041,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHCADIPUB_______23,2041,30.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHCADIPUB___MENE_23,2041,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHCGASCENCCSHH2_23,2041,2988.71296488282,k$/MW,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWABGASERKSTD____23,2042,23.37,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWABGASERKSTDMENE_23,2042,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWABADIPUB_______23,2042,30.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWABADIPUB___MENE_23,2042,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWABGASCENCCSHH2_23,2042,2968.12965979294,k$/MW,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHBGASERKSTD____23,2042,23.37,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHBGASERKSTDMENE_23,2042,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHBADIPUB_______23,2042,30.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHBADIPUB___MENE_23,2042,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHBGASCENCCSHH2_23,2042,2968.12965979294,k$/MW,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHCGASERKSTD____23,2042,23.37,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHCGASERKSTDMENE_23,2042,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHCADIPUB_______23,2042,30.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHCADIPUB___MENE_23,2042,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHCGASCENCCSHH2_23,2042,2968.12965979294,k$/MW,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWABGASERKSTD____23,2043,23.37,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWABGASERKSTDMENE_23,2043,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWABADIPUB_______23,2043,30.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWABADIPUB___MENE_23,2043,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWABGASCENCCSHH2_23,2043,2947.54635470306,k$/MW,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHBGASERKSTD____23,2043,23.37,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHBGASERKSTDMENE_23,2043,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHBADIPUB_______23,2043,30.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHBADIPUB___MENE_23,2043,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHBGASCENCCSHH2_23,2043,2947.54635470306,k$/MW,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHCGASERKSTD____23,2043,23.37,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHCGASERKSTDMENE_23,2043,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHCADIPUB_______23,2043,30.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHCADIPUB___MENE_23,2043,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHCGASCENCCSHH2_23,2043,2947.54635470306,k$/MW,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWABGASERKSTD____23,2044,23.37,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWABGASERKSTDMENE_23,2044,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWABADIPUB_______23,2044,30.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWABADIPUB___MENE_23,2044,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWABGASCENCCSHH2_23,2044,2926.96304961318,k$/MW,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHBGASERKSTD____23,2044,23.37,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHBGASERKSTDMENE_23,2044,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHBADIPUB_______23,2044,30.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHBADIPUB___MENE_23,2044,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHBGASCENCCSHH2_23,2044,2926.96304961318,k$/MW,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHCGASERKSTD____23,2044,23.37,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHCGASERKSTDMENE_23,2044,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHCADIPUB_______23,2044,30.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHCADIPUB___MENE_23,2044,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHCGASCENCCSHH2_23,2044,2926.96304961318,k$/MW,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWABGASERKSTD____23,2045,23.37,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWABGASERKSTDMENE_23,2045,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWABADIPUB_______23,2045,30.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWABADIPUB___MENE_23,2045,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWABGASCENCCSHH2_23,2045,2906.3797445233,k$/MW,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHBGASERKSTD____23,2045,23.37,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHBGASERKSTDMENE_23,2045,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHBADIPUB_______23,2045,30.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHBADIPUB___MENE_23,2045,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHBGASCENCCSHH2_23,2045,2906.3797445233,k$/MW,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHCGASERKSTD____23,2045,23.37,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHCGASERKSTDMENE_23,2045,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHCADIPUB_______23,2045,30.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHCADIPUB___MENE_23,2045,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHCGASCENCCSHH2_23,2045,2906.3797445233,k$/MW,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWABGASERKSTD____23,2046,23.37,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWABGASERKSTDMENE_23,2046,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWABADIPUB_______23,2046,30.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWABADIPUB___MENE_23,2046,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWABGASCENCCSHH2_23,2046,2885.79643943342,k$/MW,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHBGASERKSTD____23,2046,23.37,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHBGASERKSTDMENE_23,2046,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHBADIPUB_______23,2046,30.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHBADIPUB___MENE_23,2046,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHBGASCENCCSHH2_23,2046,2885.79643943342,k$/MW,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHCGASERKSTD____23,2046,23.37,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHCGASERKSTDMENE_23,2046,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHCADIPUB_______23,2046,30.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHCADIPUB___MENE_23,2046,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHCGASCENCCSHH2_23,2046,2885.79643943342,k$/MW,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWABGASERKSTD____23,2047,23.37,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWABGASERKSTDMENE_23,2047,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWABADIPUB_______23,2047,30.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWABADIPUB___MENE_23,2047,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWABGASCENCCSHH2_23,2047,2865.21313434354,k$/MW,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHBGASERKSTD____23,2047,23.37,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHBGASERKSTDMENE_23,2047,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHBADIPUB_______23,2047,30.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHBADIPUB___MENE_23,2047,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHBGASCENCCSHH2_23,2047,2865.21313434354,k$/MW,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHCGASERKSTD____23,2047,23.37,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHCGASERKSTDMENE_23,2047,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHCADIPUB_______23,2047,30.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHCADIPUB___MENE_23,2047,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHCGASCENCCSHH2_23,2047,2865.21313434354,k$/MW,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWABGASERKSTD____23,2048,23.37,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWABGASERKSTDMENE_23,2048,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWABADIPUB_______23,2048,30.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWABADIPUB___MENE_23,2048,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWABGASCENCCSHH2_23,2048,2844.62982925366,k$/MW,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHBGASERKSTD____23,2048,23.37,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHBGASERKSTDMENE_23,2048,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHBADIPUB_______23,2048,30.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHBADIPUB___MENE_23,2048,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHBGASCENCCSHH2_23,2048,2844.62982925366,k$/MW,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHCGASERKSTD____23,2048,23.37,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHCGASERKSTDMENE_23,2048,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHCADIPUB_______23,2048,30.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHCADIPUB___MENE_23,2048,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHCGASCENCCSHH2_23,2048,2844.62982925366,k$/MW,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWABGASERKSTD____23,2049,23.37,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWABGASERKSTDMENE_23,2049,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWABADIPUB_______23,2049,30.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWABADIPUB___MENE_23,2049,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWABGASCENCCSHH2_23,2049,2824.04652416378,k$/MW,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHBGASERKSTD____23,2049,23.37,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHBGASERKSTDMENE_23,2049,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHBADIPUB_______23,2049,30.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHBADIPUB___MENE_23,2049,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHBGASCENCCSHH2_23,2049,2824.04652416378,k$/MW,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHCGASERKSTD____23,2049,23.37,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHCGASERKSTDMENE_23,2049,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHCADIPUB_______23,2049,30.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHCADIPUB___MENE_23,2049,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHCGASCENCCSHH2_23,2049,2824.04652416378,k$/MW,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWABGASERKSTD____23,2050,23.37,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWABGASERKSTDMENE_23,2050,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWABADIPUB_______23,2050,30.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWABADIPUB___MENE_23,2050,0.0,k$/TJa,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWABGASCENCCSHH2_23,2050,2803.4632190739,k$/MW,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHBGASERKSTD____23,2050,23.37,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHBGASERKSTDMENE_23,2050,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHBADIPUB_______23,2050,30.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHBADIPUB___MENE_23,2050,0.0,k$/TJa,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHBGASCENCCSHH2_23,2050,2803.4632190739,k$/MW,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen
+TO,WATWASWWHCGASERKSTD____23,2050,23.37,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency
+TO,WATWASWWHCGASERKSTDMENE_23,2050,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy
+TO,WATWASWWHCADIPUB_______23,2050,30.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublic
+TO,WATWASWWHCADIPUB___MENE_23,2050,0.0,k$/TJa,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy
+TO,WATWASWWHCGASCENCCSHH2_23,2050,2803.4632190739,k$/MW,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen

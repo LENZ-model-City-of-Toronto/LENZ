@@ -1,0 +1,6 @@
+INSERT INTO`LifetimeTech`VALUES('TO','FRETRAROATRULGT',200,'Freight TransportationTransportationRoadTruckPassenger Light Trucks');
+INSERT INTO`LifetimeTech`VALUES('TO','FRETRAROATRUMET',200,'Freight TransportationTransportationRoadTruckMedium Trucks');
+INSERT INTO`LifetimeTech`VALUES('TO','FRETRAROATRUHET',200,'Freight TransportationTransportationRoadTruckHeavy Trucks');
+INSERT INTO`LifetimeTech`VALUES('TO','FRETRAAIR______',200,'Freight TransportationTransportationAir');
+INSERT INTO`LifetimeTech`VALUES('TO','FRETRARAI______',200,'Freight TransportationTransportationRail');
+INSERT INTO`LifetimeTech`VALUES('TO','FRETRAMAR______',200,'Freight TransportationTransportationMarine');

@@ -1,0 +1,4 @@
+﻿comm_labels,comm_labels_desc
+p,physical commodity
+e,emissions commodity
+d,demand commodity

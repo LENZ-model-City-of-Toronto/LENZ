@@ -1,0 +1,6 @@
+Log file cannot be opened. Please check path. Trying to find:
+C:\TEMOA-TO\data_files\debug_logs folder
+Reading data files.[    0.82]
+Creating Temoa model instance.[    9.72]
+Solving.Exception found in solve_temoa_instance
+[Errno 2] No such file or directory: 'C:\\TEMOA-TO\\data_files\\debug_logs\\lp_files\\tmpzzber_uy.pyomo.lp'

@@ -1,0 +1,10 @@
+INSERT INTO`CapacityToActivity`VALUES('TO','FRETRAROATRULGTCONVGAS_EX',788.4,'Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline');
+INSERT INTO`CapacityToActivity`VALUES('TO','FRETRAROATRULGTCONVPRO_EX',788.4,'Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane');
+INSERT INTO`CapacityToActivity`VALUES('TO','FRETRAROATRULGTCONVDSL_EX',788.4,'Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel');
+INSERT INTO`CapacityToActivity`VALUES('TO','FRETRAROATRUMETCONVGAS_EX',788.4,'Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline');
+INSERT INTO`CapacityToActivity`VALUES('TO','FRETRAROATRUMETCONVDSL_EX',788.4,'Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel');
+INSERT INTO`CapacityToActivity`VALUES('TO','FRETRAROATRUHETCONVDSL_EX',788.4,'Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel');
+INSERT INTO`CapacityToActivity`VALUES('TO','FRETRAAIR_________ATF_EX',7708.8,'Freight TransportationTransportationAirAviation Turbo Fuel');
+INSERT INTO`CapacityToActivity`VALUES('TO','FRETRAAIR_________AGA_EX',7708.8,'Freight TransportationTransportationAirAviation Gasoline');
+INSERT INTO`CapacityToActivity`VALUES('TO','FRETRARAI_________DSL_EX',876.0,'Freight TransportationTransportationRailDiesel');
+INSERT INTO`CapacityToActivity`VALUES('TO','FRETRAMAR_________ALL_EX',262.8,'Freight TransportationTransportationMarineAll');

@@ -1,0 +1,6 @@
+tech,flag,sector,tech_desc,tech_category
+INDBDGLI,p,INDBDG,IndustryBuildingLighting,
+INDBDGSC,p,INDBDG,IndustryBuildingSpace Cooling,
+INDBDGIP,p,INDBDG,IndustryBuildingIndustrial Processes,
+INDBDGSH,p,INDBDG,IndustryBuildingSpace Heating,
+INDBDGWH,p,INDBDG,IndustryBuildingWater Heating,

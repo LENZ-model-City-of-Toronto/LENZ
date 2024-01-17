@@ -1,0 +1,1416 @@
+"Discounted and undiscounted Cost breakdown, per subsectors, per periods. (k CAD 2016)"
+vintage,sector,Cost,Cost_type,Costs
+1950,Commercial building,Discounted,FixedCosts,0.0
+1950,Commercial building,Discounted,FixedSubsidies,0.0
+1950,Commercial building,Undiscounted,FixedCosts,0.0
+1950,Commercial building,Undiscounted,FixedSubsidies,0.0
+1950,Freight transportation,Discounted,FixedCosts,0.0
+1950,Freight transportation,Discounted,FixedSubsidies,0.0
+1950,Freight transportation,Undiscounted,FixedCosts,0.0
+1950,Freight transportation,Undiscounted,FixedSubsidies,0.0
+1950,Passenger transportation,Discounted,FixedCosts,0.0
+1950,Passenger transportation,Discounted,FixedSubsidies,0.0
+1950,Passenger transportation,Undiscounted,FixedCosts,0.0
+1950,Passenger transportation,Undiscounted,FixedSubsidies,0.0
+1950,Public building,Discounted,FixedCosts,0.0
+1950,Public building,Discounted,FixedSubsidies,0.0
+1950,Public building,Undiscounted,FixedCosts,0.0
+1950,Public building,Undiscounted,FixedSubsidies,0.0
+1950,Residential building,Discounted,FixedCosts,0.0
+1950,Residential building,Discounted,FixedSubsidies,0.0
+1950,Residential building,Undiscounted,FixedCosts,0.0
+1950,Residential building,Undiscounted,FixedSubsidies,0.0
+1950,Water waste,Discounted,FixedCosts,3918613.201558952
+1950,Water waste,Discounted,FixedSubsidies,0.0
+1950,Water waste,Undiscounted,FixedCosts,6197021.24442154
+1950,Water waste,Undiscounted,FixedSubsidies,0.0
+1955,Commercial building,Discounted,FixedCosts,0.0
+1955,Commercial building,Discounted,FixedSubsidies,0.0
+1955,Commercial building,Undiscounted,FixedCosts,0.0
+1955,Commercial building,Undiscounted,FixedSubsidies,0.0
+1955,Freight transportation,Discounted,FixedCosts,0.0
+1955,Freight transportation,Discounted,FixedSubsidies,0.0
+1955,Freight transportation,Undiscounted,FixedCosts,0.0
+1955,Freight transportation,Undiscounted,FixedSubsidies,0.0
+1955,Passenger transportation,Discounted,FixedCosts,0.0
+1955,Passenger transportation,Discounted,FixedSubsidies,0.0
+1955,Passenger transportation,Undiscounted,FixedCosts,0.0
+1955,Passenger transportation,Undiscounted,FixedSubsidies,0.0
+1955,Public building,Discounted,FixedCosts,0.0
+1955,Public building,Discounted,FixedSubsidies,0.0
+1955,Public building,Undiscounted,FixedCosts,0.0
+1955,Public building,Undiscounted,FixedSubsidies,0.0
+1955,Residential building,Discounted,FixedCosts,0.0
+1955,Residential building,Discounted,FixedSubsidies,0.0
+1955,Residential building,Undiscounted,FixedCosts,0.0
+1955,Residential building,Undiscounted,FixedSubsidies,0.0
+1955,Water waste,Discounted,FixedCosts,299392.5543733075
+1955,Water waste,Discounted,FixedSubsidies,0.0
+1955,Water waste,Undiscounted,FixedCosts,473469.0372438139
+1955,Water waste,Undiscounted,FixedSubsidies,0.0
+1960,Commercial building,Discounted,FixedCosts,0.0
+1960,Commercial building,Discounted,FixedSubsidies,0.0
+1960,Commercial building,Undiscounted,FixedCosts,0.0
+1960,Commercial building,Undiscounted,FixedSubsidies,0.0
+1960,Freight transportation,Discounted,FixedCosts,0.0
+1960,Freight transportation,Discounted,FixedSubsidies,0.0
+1960,Freight transportation,Undiscounted,FixedCosts,0.0
+1960,Freight transportation,Undiscounted,FixedSubsidies,0.0
+1960,Passenger transportation,Discounted,FixedCosts,0.0
+1960,Passenger transportation,Discounted,FixedSubsidies,0.0
+1960,Passenger transportation,Undiscounted,FixedCosts,0.0
+1960,Passenger transportation,Undiscounted,FixedSubsidies,0.0
+1960,Public building,Discounted,FixedCosts,0.0
+1960,Public building,Discounted,FixedSubsidies,0.0
+1960,Public building,Undiscounted,FixedCosts,0.0
+1960,Public building,Undiscounted,FixedSubsidies,0.0
+1960,Residential building,Discounted,FixedCosts,0.0
+1960,Residential building,Discounted,FixedSubsidies,0.0
+1960,Residential building,Undiscounted,FixedCosts,0.0
+1960,Residential building,Undiscounted,FixedSubsidies,0.0
+1960,Water waste,Discounted,FixedCosts,288692.4995420218
+1960,Water waste,Discounted,FixedSubsidies,0.0
+1960,Water waste,Undiscounted,FixedCosts,456547.6255873706
+1960,Water waste,Undiscounted,FixedSubsidies,0.0
+1965,Commercial building,Discounted,FixedCosts,0.0
+1965,Commercial building,Discounted,FixedSubsidies,0.0
+1965,Commercial building,Undiscounted,FixedCosts,0.0
+1965,Commercial building,Undiscounted,FixedSubsidies,0.0
+1965,Freight transportation,Discounted,FixedCosts,0.0
+1965,Freight transportation,Discounted,FixedSubsidies,0.0
+1965,Freight transportation,Undiscounted,FixedCosts,0.0
+1965,Freight transportation,Undiscounted,FixedSubsidies,0.0
+1965,Passenger transportation,Discounted,FixedCosts,0.0
+1965,Passenger transportation,Discounted,FixedSubsidies,0.0
+1965,Passenger transportation,Undiscounted,FixedCosts,0.0
+1965,Passenger transportation,Undiscounted,FixedSubsidies,0.0
+1965,Public building,Discounted,FixedCosts,0.0
+1965,Public building,Discounted,FixedSubsidies,0.0
+1965,Public building,Undiscounted,FixedCosts,0.0
+1965,Public building,Undiscounted,FixedSubsidies,0.0
+1965,Residential building,Discounted,FixedCosts,0.0
+1965,Residential building,Discounted,FixedSubsidies,0.0
+1965,Residential building,Undiscounted,FixedCosts,0.0
+1965,Residential building,Undiscounted,FixedSubsidies,0.0
+1970,Commercial building,Discounted,FixedCosts,0.0
+1970,Commercial building,Discounted,FixedSubsidies,0.0
+1970,Commercial building,Undiscounted,FixedCosts,0.0
+1970,Commercial building,Undiscounted,FixedSubsidies,0.0
+1970,Freight transportation,Discounted,FixedCosts,0.015018465457877089
+1970,Freight transportation,Discounted,FixedSubsidies,0.0
+1970,Freight transportation,Undiscounted,FixedCosts,0.015690770428998246
+1970,Freight transportation,Undiscounted,FixedSubsidies,0.0
+1970,Long distance transportation,Discounted,FixedCosts,0.35651110314269796
+1970,Long distance transportation,Discounted,FixedSubsidies,0.0
+1970,Long distance transportation,Undiscounted,FixedCosts,0.37247040255148084
+1970,Long distance transportation,Undiscounted,FixedSubsidies,0.0
+1970,Passenger transportation,Discounted,FixedCosts,0.3547228583978589
+1970,Passenger transportation,Discounted,FixedSubsidies,0.0
+1970,Passenger transportation,Undiscounted,FixedCosts,0.3706021066299814
+1970,Passenger transportation,Undiscounted,FixedSubsidies,0.0
+1970,Public building,Discounted,FixedCosts,0.0
+1970,Public building,Discounted,FixedSubsidies,0.0
+1970,Public building,Undiscounted,FixedCosts,0.0
+1970,Public building,Undiscounted,FixedSubsidies,0.0
+1970,Public transportation,Discounted,FixedCosts,0.0
+1970,Public transportation,Discounted,FixedSubsidies,0.0
+1970,Public transportation,Undiscounted,FixedCosts,0.0
+1970,Public transportation,Undiscounted,FixedSubsidies,0.0
+1970,Residential building,Discounted,FixedCosts,0.0
+1970,Residential building,Discounted,FixedSubsidies,0.0
+1970,Residential building,Undiscounted,FixedCosts,0.0
+1970,Residential building,Undiscounted,FixedSubsidies,0.0
+1975,Commercial building,Discounted,FixedCosts,0.0
+1975,Commercial building,Discounted,FixedSubsidies,0.0
+1975,Commercial building,Undiscounted,FixedCosts,0.0
+1975,Commercial building,Undiscounted,FixedSubsidies,0.0
+1975,Freight transportation,Discounted,FixedCosts,0.031458787264307855
+1975,Freight transportation,Discounted,FixedSubsidies,0.0
+1975,Freight transportation,Undiscounted,FixedCosts,0.035304233465246054
+1975,Freight transportation,Undiscounted,FixedSubsidies,0.0
+1975,Long distance transportation,Discounted,FixedCosts,0.7467744945438112
+1975,Long distance transportation,Discounted,FixedSubsidies,0.0
+1975,Long distance transportation,Undiscounted,FixedCosts,0.8380584057408318
+1975,Long distance transportation,Undiscounted,FixedSubsidies,0.0
+1975,Passenger transportation,Discounted,FixedCosts,0.7430287049914636
+1975,Passenger transportation,Discounted,FixedSubsidies,0.0
+1975,Passenger transportation,Undiscounted,FixedCosts,0.8338547399174582
+1975,Passenger transportation,Undiscounted,FixedSubsidies,0.0
+1975,Public building,Discounted,FixedCosts,0.0
+1975,Public building,Discounted,FixedSubsidies,0.0
+1975,Public building,Undiscounted,FixedCosts,0.0
+1975,Public building,Undiscounted,FixedSubsidies,0.0
+1975,Public transportation,Discounted,FixedCosts,0.0
+1975,Public transportation,Discounted,FixedSubsidies,0.0
+1975,Public transportation,Undiscounted,FixedCosts,0.0
+1975,Public transportation,Undiscounted,FixedSubsidies,0.0
+1975,Residential building,Discounted,FixedCosts,0.0
+1975,Residential building,Discounted,FixedSubsidies,0.0
+1975,Residential building,Undiscounted,FixedCosts,0.0
+1975,Residential building,Undiscounted,FixedSubsidies,0.0
+1980,Commercial building,Discounted,FixedCosts,0.0
+1980,Commercial building,Discounted,FixedSubsidies,0.0
+1980,Commercial building,Undiscounted,FixedCosts,0.0
+1980,Commercial building,Undiscounted,FixedSubsidies,0.0
+1980,Freight transportation,Discounted,FixedCosts,0.04564035327263758
+1980,Freight transportation,Discounted,FixedSubsidies,0.0
+1980,Freight transportation,Undiscounted,FixedCosts,0.05491769650149386
+1980,Freight transportation,Undiscounted,FixedSubsidies,0.0
+1980,Long distance transportation,Discounted,FixedCosts,1.083419124189967
+1980,Long distance transportation,Discounted,FixedSubsidies,0.0
+1980,Long distance transportation,Undiscounted,FixedCosts,1.303646408930183
+1980,Long distance transportation,Undiscounted,FixedSubsidies,0.0
+1980,Passenger transportation,Discounted,FixedCosts,1.077984739290837
+1980,Passenger transportation,Discounted,FixedSubsidies,0.0
+1980,Passenger transportation,Undiscounted,FixedCosts,1.2971073732049352
+1980,Passenger transportation,Undiscounted,FixedSubsidies,0.0
+1980,Public building,Discounted,FixedCosts,0.0
+1980,Public building,Discounted,FixedSubsidies,0.0
+1980,Public building,Undiscounted,FixedCosts,0.0
+1980,Public building,Undiscounted,FixedSubsidies,0.0
+1980,Public transportation,Discounted,FixedCosts,0.0
+1980,Public transportation,Discounted,FixedSubsidies,0.0
+1980,Public transportation,Undiscounted,FixedCosts,0.0
+1980,Public transportation,Undiscounted,FixedSubsidies,0.0
+1980,Residential building,Discounted,FixedCosts,0.0
+1980,Residential building,Discounted,FixedSubsidies,0.0
+1980,Residential building,Undiscounted,FixedCosts,0.0
+1980,Residential building,Undiscounted,FixedSubsidies,0.0
+1980,Water waste,Discounted,FixedCosts,2209537.439344984
+1980,Water waste,Discounted,FixedSubsidies,0.0
+1980,Water waste,Undiscounted,FixedCosts,3494233.737210473
+1980,Water waste,Undiscounted,FixedSubsidies,0.0
+1985,Commercial building,Discounted,FixedCosts,0.0
+1985,Commercial building,Discounted,FixedSubsidies,0.0
+1985,Commercial building,Undiscounted,FixedCosts,0.0
+1985,Commercial building,Undiscounted,FixedSubsidies,0.0
+1985,Freight transportation,Discounted,FixedCosts,0.057873496687746655
+1985,Freight transportation,Discounted,FixedSubsidies,0.0
+1985,Freight transportation,Undiscounted,FixedCosts,0.07453115953774167
+1985,Freight transportation,Undiscounted,FixedSubsidies,0.0
+1985,Long distance transportation,Discounted,FixedCosts,1.3738117389384947
+1985,Long distance transportation,Discounted,FixedSubsidies,0.0
+1985,Long distance transportation,Undiscounted,FixedCosts,1.769234412119534
+1985,Long distance transportation,Undiscounted,FixedSubsidies,0.0
+1985,Passenger transportation,Discounted,FixedCosts,1.36692075685996
+1985,Passenger transportation,Discounted,FixedSubsidies,0.0
+1985,Passenger transportation,Undiscounted,FixedCosts,1.7603600064924112
+1985,Passenger transportation,Undiscounted,FixedSubsidies,0.0
+1985,Public building,Discounted,FixedCosts,0.0
+1985,Public building,Discounted,FixedSubsidies,0.0
+1985,Public building,Undiscounted,FixedCosts,0.0
+1985,Public building,Undiscounted,FixedSubsidies,0.0
+1985,Public transportation,Discounted,FixedCosts,0.0
+1985,Public transportation,Discounted,FixedSubsidies,0.0
+1985,Public transportation,Undiscounted,FixedCosts,0.0
+1985,Public transportation,Undiscounted,FixedSubsidies,0.0
+1985,Residential building,Discounted,FixedCosts,0.0
+1985,Residential building,Discounted,FixedSubsidies,0.0
+1985,Residential building,Undiscounted,FixedCosts,0.0
+1985,Residential building,Undiscounted,FixedSubsidies,0.0
+1990,Commercial building,Discounted,FixedCosts,0.0
+1990,Commercial building,Discounted,FixedSubsidies,0.0
+1990,Commercial building,Undiscounted,FixedCosts,0.0
+1990,Commercial building,Undiscounted,FixedSubsidies,0.0
+1990,Freight transportation,Discounted,FixedCosts,0.06842591365825104
+1990,Freight transportation,Discounted,FixedSubsidies,0.0
+1990,Freight transportation,Undiscounted,FixedCosts,0.09414462257398948
+1990,Freight transportation,Undiscounted,FixedSubsidies,0.0
+1990,Long distance transportation,Discounted,FixedCosts,1.6243069593408608
+1990,Long distance transportation,Discounted,FixedSubsidies,0.0
+1990,Long distance transportation,Undiscounted,FixedCosts,2.234822415308885
+1990,Long distance transportation,Undiscounted,FixedSubsidies,0.0
+1990,Passenger transportation,Discounted,FixedCosts,7.007919212297452
+1990,Passenger transportation,Discounted,FixedSubsidies,0.0
+1990,Passenger transportation,Undiscounted,FixedCosts,7.856735679718958
+1990,Passenger transportation,Undiscounted,FixedSubsidies,0.0
+1990,Public building,Discounted,FixedCosts,0.0
+1990,Public building,Discounted,FixedSubsidies,0.0
+1990,Public building,Undiscounted,FixedCosts,0.0
+1990,Public building,Undiscounted,FixedSubsidies,0.0
+1990,Public transportation,Discounted,FixedCosts,0.0
+1990,Public transportation,Discounted,FixedSubsidies,0.0
+1990,Public transportation,Undiscounted,FixedCosts,0.0
+1990,Public transportation,Undiscounted,FixedSubsidies,0.0
+1990,Residential building,Discounted,FixedCosts,22.977919299259085
+1990,Residential building,Discounted,FixedSubsidies,0.0
+1990,Residential building,Undiscounted,FixedCosts,22.97791929925909
+1990,Residential building,Undiscounted,FixedSubsidies,0.0
+1995,Commercial building,Discounted,FixedCosts,2392.6423724553088
+1995,Commercial building,Discounted,FixedSubsidies,0.0
+1995,Commercial building,Undiscounted,FixedCosts,2424.998608190991
+1995,Commercial building,Undiscounted,FixedSubsidies,0.0
+1995,Freight transportation,Discounted,FixedCosts,129.51701049630148
+1995,Freight transportation,Discounted,FixedSubsidies,0.0
+1995,Freight transportation,Undiscounted,FixedCosts,135.34762747231244
+1995,Freight transportation,Undiscounted,FixedSubsidies,0.0
+1995,Long distance transportation,Discounted,FixedCosts,1395.664024282172
+1995,Long distance transportation,Discounted,FixedSubsidies,0.0
+1995,Long distance transportation,Undiscounted,FixedCosts,1458.9188758036935
+1995,Long distance transportation,Undiscounted,FixedSubsidies,0.0
+1995,Passenger transportation,Discounted,FixedCosts,13.125133247730663
+1995,Passenger transportation,Discounted,FixedSubsidies,0.0
+1995,Passenger transportation,Undiscounted,FixedCosts,15.361392112930274
+1995,Passenger transportation,Undiscounted,FixedSubsidies,0.0
+1995,Public building,Discounted,FixedCosts,584.5447863542295
+1995,Public building,Discounted,FixedSubsidies,0.0
+1995,Public building,Undiscounted,FixedCosts,592.0674310650633
+1995,Public building,Undiscounted,FixedSubsidies,0.0
+1995,Public transportation,Discounted,FixedCosts,0.0
+1995,Public transportation,Discounted,FixedSubsidies,0.0
+1995,Public transportation,Undiscounted,FixedCosts,0.0
+1995,Public transportation,Undiscounted,FixedSubsidies,0.0
+1995,Residential building,Discounted,FixedCosts,9031.331787456493
+1995,Residential building,Discounted,FixedSubsidies,0.0
+1995,Residential building,Undiscounted,FixedCosts,9419.657179422724
+1995,Residential building,Undiscounted,FixedSubsidies,0.0
+2000,Commercial building,Discounted,FixedCosts,8621.103435989282
+2000,Commercial building,Discounted,FixedSubsidies,0.0
+2000,Commercial building,Undiscounted,FixedCosts,9353.94903885947
+2000,Commercial building,Undiscounted,FixedSubsidies,0.0
+2000,Freight transportation,Discounted,FixedCosts,118181.96521173054
+2000,Freight transportation,Discounted,FixedSubsidies,0.0
+2000,Freight transportation,Undiscounted,FixedCosts,123493.45688481524
+2000,Freight transportation,Undiscounted,FixedSubsidies,0.0
+2000,Long distance transportation,Discounted,FixedCosts,2921.6327415828646
+2000,Long distance transportation,Discounted,FixedSubsidies,0.0
+2000,Long distance transportation,Undiscounted,FixedCosts,3279.6575455383772
+2000,Long distance transportation,Undiscounted,FixedSubsidies,0.0
+2000,Passenger transportation,Discounted,FixedCosts,434782.5225777611
+2000,Passenger transportation,Discounted,FixedSubsidies,0.0
+2000,Passenger transportation,Undiscounted,FixedCosts,454249.3000020758
+2000,Passenger transportation,Undiscounted,FixedSubsidies,0.0
+2000,Public building,Discounted,FixedCosts,3542.069486898025
+2000,Public building,Discounted,FixedSubsidies,0.0
+2000,Public building,Undiscounted,FixedCosts,3745.958522367817
+2000,Public building,Undiscounted,FixedSubsidies,0.0
+2000,Public transportation,Discounted,FixedCosts,3030.824463818501
+2000,Public transportation,Discounted,FixedSubsidies,0.0
+2000,Public transportation,Undiscounted,FixedCosts,3166.5
+2000,Public transportation,Undiscounted,FixedSubsidies,0.0
+2000,Residential building,Discounted,FixedCosts,31575.502990243123
+2000,Residential building,Discounted,FixedSubsidies,0.0
+2000,Residential building,Undiscounted,FixedCosts,34084.96427925325
+2000,Residential building,Undiscounted,FixedSubsidies,0.0
+2000,Water waste,Discounted,FixedCosts,290068.0569216403
+2000,Water waste,Discounted,FixedSubsidies,0.0
+2000,Water waste,Undiscounted,FixedCosts,349030.37274146185
+2000,Water waste,Undiscounted,FixedSubsidies,0.0
+2005,Commercial building,Discounted,FixedCosts,16959.62271717863
+2005,Commercial building,Discounted,FixedSubsidies,0.0
+2005,Commercial building,Undiscounted,FixedCosts,19386.143578021223
+2005,Commercial building,Undiscounted,FixedSubsidies,0.0
+2005,Freight transportation,Discounted,FixedCosts,247378.00695522653
+2005,Freight transportation,Discounted,FixedSubsidies,0.0
+2005,Freight transportation,Undiscounted,FixedCosts,277648.81227817433
+2005,Freight transportation,Undiscounted,FixedSubsidies,0.0
+2005,Long distance transportation,Discounted,FixedCosts,4237.820063694688
+2005,Long distance transportation,Discounted,FixedSubsidies,0.0
+2005,Long distance transportation,Undiscounted,FixedCosts,5100.02374487051
+2005,Long distance transportation,Undiscounted,FixedSubsidies,0.0
+2005,Passenger transportation,Discounted,FixedCosts,910711.8737793539
+2005,Passenger transportation,Discounted,FixedSubsidies,0.0
+2005,Passenger transportation,Undiscounted,FixedCosts,1022039.4764983148
+2005,Passenger transportation,Undiscounted,FixedSubsidies,0.0
+2005,Public building,Discounted,FixedCosts,8842.890690491782
+2005,Public building,Discounted,FixedSubsidies,0.0
+2005,Public building,Undiscounted,FixedCosts,9862.508138687546
+2005,Public building,Undiscounted,FixedSubsidies,0.0
+2005,Public transportation,Discounted,FixedCosts,6348.58882954102
+2005,Public transportation,Discounted,FixedSubsidies,0.0
+2005,Public transportation,Undiscounted,FixedCosts,7124.625000000001
+2005,Public transportation,Undiscounted,FixedSubsidies,0.0
+2005,Residential building,Discounted,FixedCosts,91905.90940307951
+2005,Residential building,Discounted,FixedSubsidies,0.0
+2005,Residential building,Undiscounted,FixedCosts,102144.30172798151
+2005,Residential building,Undiscounted,FixedSubsidies,0.0
+2010,Commercial building,Discounted,FixedCosts,42410.14896069401
+2010,Commercial building,Discounted,FixedSubsidies,0.0
+2010,Commercial building,Undiscounted,FixedCosts,48582.81051553192
+2010,Commercial building,Undiscounted,FixedSubsidies,0.0
+2010,Freight transportation,Discounted,FixedCosts,358823.64623222535
+2010,Freight transportation,Discounted,FixedSubsidies,0.0
+2010,Freight transportation,Undiscounted,FixedCosts,431804.1637488408
+2010,Freight transportation,Undiscounted,FixedSubsidies,0.0
+2010,Long distance transportation,Discounted,FixedCosts,5373.145407430818
+2010,Long distance transportation,Discounted,FixedSubsidies,0.0
+2010,Long distance transportation,Undiscounted,FixedCosts,6920.296826602005
+2010,Long distance transportation,Undiscounted,FixedSubsidies,0.0
+2010,Passenger transportation,Discounted,FixedCosts,1321252.6836173723
+2010,Passenger transportation,Discounted,FixedSubsidies,0.0
+2010,Passenger transportation,Undiscounted,FixedCosts,1589829.5603440267
+2010,Passenger transportation,Undiscounted,FixedSubsidies,0.0
+2010,Public building,Discounted,FixedCosts,15897.250873081079
+2010,Public building,Discounted,FixedSubsidies,0.0
+2010,Public building,Undiscounted,FixedCosts,18596.753033917066
+2010,Public building,Undiscounted,FixedSubsidies,0.0
+2010,Public transportation,Discounted,FixedCosts,9210.521515930024
+2010,Public transportation,Discounted,FixedSubsidies,0.0
+2010,Public transportation,Undiscounted,FixedCosts,11082.750000000002
+2010,Public transportation,Undiscounted,FixedSubsidies,0.0
+2010,Residential building,Discounted,FixedCosts,164029.52186659264
+2010,Residential building,Discounted,FixedSubsidies,0.0
+2010,Residential building,Undiscounted,FixedCosts,191977.78604557397
+2010,Residential building,Undiscounted,FixedSubsidies,0.0
+2015,Commercial building,Discounted,FixedCosts,68179.78263006572
+2015,Commercial building,Discounted,FixedSubsidies,0.0
+2015,Commercial building,Undiscounted,FixedCosts,82074.17839828119
+2015,Commercial building,Undiscounted,FixedSubsidies,0.0
+2015,District Energy,Discounted,FixedCosts,408639.184657111
+2015,District Energy,Discounted,FixedSubsidies,0.0
+2015,District Energy,Discounted,VariableCosts,18817.4492536103
+2015,District Energy,Discounted,VariableSubsidies,0.0
+2015,District Energy,Undiscounted,FixedCosts,591799.6288983165
+2015,District Energy,Undiscounted,FixedSubsidies,0.0
+2015,District Energy,Undiscounted,VariableCosts,23571.22091531148
+2015,District Energy,Undiscounted,VariableSubsidies,0.0
+2015,Freight transportation,Discounted,FixedCosts,454957.63365387334
+2015,Freight transportation,Discounted,FixedSubsidies,0.0
+2015,Freight transportation,Undiscounted,FixedCosts,585959.5152195074
+2015,Freight transportation,Undiscounted,FixedSubsidies,0.0
+2015,Long distance transportation,Discounted,FixedCosts,6352.487022071576
+2015,Long distance transportation,Discounted,FixedSubsidies,0.0
+2015,Long distance transportation,Undiscounted,FixedCosts,8740.5699083335
+2015,Long distance transportation,Undiscounted,FixedSubsidies,0.0
+2015,Passenger transportation,Discounted,FixedCosts,1675388.7925318347
+2015,Passenger transportation,Discounted,FixedSubsidies,0.0
+2015,Passenger transportation,Undiscounted,FixedCosts,2157619.6441897396
+2015,Passenger transportation,Undiscounted,FixedSubsidies,0.0
+2015,Public building,Discounted,FixedCosts,22455.289219508726
+2015,Public building,Discounted,FixedSubsidies,0.0
+2015,Public building,Undiscounted,FixedCosts,27863.23448321407
+2015,Public building,Undiscounted,FixedSubsidies,0.0
+2015,Public transportation,Discounted,FixedCosts,11679.249791525344
+2015,Public transportation,Discounted,FixedSubsidies,0.0
+2015,Public transportation,Undiscounted,FixedCosts,15040.875000000004
+2015,Public transportation,Undiscounted,FixedSubsidies,0.0
+2015,Residential building,Discounted,FixedCosts,226243.98353913837
+2015,Residential building,Discounted,FixedSubsidies,0.0
+2015,Residential building,Undiscounted,FixedCosts,281811.2703631665
+2015,Residential building,Undiscounted,FixedSubsidies,0.0
+2015,Solid waste,Discounted,FixedCosts,270634.42113310227
+2015,Solid waste,Discounted,FixedSubsidies,0.0
+2015,Solid waste,Undiscounted,FixedCosts,414861.80313951935
+2015,Solid waste,Undiscounted,FixedSubsidies,0.0
+2015,Trade energy,Discounted,VariableCosts,121839024.69418392
+2015,Trade energy,Discounted,VariableSubsidies,0.0
+2015,Trade energy,Undiscounted,VariableCosts,185295762.78317827
+2015,Trade energy,Undiscounted,VariableSubsidies,0.0
+2015,Water waste,Discounted,VariableCosts,3541618.6703520464
+2015,Water waste,Discounted,VariableSubsidies,0.0
+2015,Water waste,Undiscounted,VariableCosts,5682262.794857026
+2015,Water waste,Undiscounted,VariableSubsidies,0.0
+2016,Commercial building,Discounted,FixedCosts,7372.579789956809
+2016,Commercial building,Discounted,FixedSubsidies,0.0
+2016,Commercial building,Discounted,InvestmentCosts,0.0
+2016,Commercial building,Undiscounted,FixedCosts,9800.360260761094
+2016,Commercial building,Undiscounted,FixedSubsidies,0.0
+2016,Commercial building,Undiscounted,InvestmentCosts,0.0
+2016,Long distance transportation,Discounted,FixedCosts,386.28049792932904
+2016,Long distance transportation,Discounted,FixedSubsidies,0.0
+2016,Long distance transportation,Discounted,InvestmentCosts,0.0
+2016,Long distance transportation,Undiscounted,FixedCosts,540.848654676112
+2016,Long distance transportation,Undiscounted,FixedSubsidies,0.0
+2016,Long distance transportation,Undiscounted,InvestmentCosts,0.0
+2016,Passenger transportation,Discounted,FixedCosts,244.39603700388048
+2016,Passenger transportation,Discounted,FixedSubsidies,0.0
+2016,Passenger transportation,Discounted,InvestmentCosts,0.0
+2016,Passenger transportation,Discounted,VariableCosts,0.07356046911697312
+2016,Passenger transportation,Discounted,VariableSubsidies,0.0
+2016,Passenger transportation,Undiscounted,FixedCosts,299.0587097186364
+2016,Passenger transportation,Undiscounted,FixedSubsidies,0.0
+2016,Passenger transportation,Undiscounted,InvestmentCosts,0.0
+2016,Passenger transportation,Undiscounted,VariableCosts,0.08937516102750638
+2016,Passenger transportation,Undiscounted,VariableSubsidies,0.0
+2016,Public building,Discounted,FixedCosts,2101.1522841774154
+2016,Public building,Discounted,FixedSubsidies,0.0
+2016,Public building,Discounted,InvestmentCosts,0.0
+2016,Public building,Undiscounted,FixedCosts,2679.3366626269926
+2016,Public building,Undiscounted,FixedSubsidies,0.0
+2016,Public building,Undiscounted,InvestmentCosts,0.0
+2016,Public transportation,Discounted,FixedCosts,25.714555202469025
+2016,Public transportation,Discounted,FixedSubsidies,0.0
+2016,Public transportation,Discounted,InvestmentCosts,0.0
+2016,Public transportation,Undiscounted,FixedCosts,31.308597440404633
+2016,Public transportation,Undiscounted,FixedSubsidies,0.0
+2016,Public transportation,Undiscounted,InvestmentCosts,0.0
+2016,Residential building,Discounted,FixedCosts,19406.811864670937
+2016,Residential building,Discounted,FixedSubsidies,0.0
+2016,Residential building,Discounted,InvestmentCosts,215.61350160881094
+2016,Residential building,Undiscounted,FixedCosts,24488.60726893303
+2016,Residential building,Undiscounted,FixedSubsidies,0.0
+2016,Residential building,Undiscounted,InvestmentCosts,189.49347445837526
+2016,Water waste,Discounted,FixedCosts,3379.487132278399
+2016,Water waste,Discounted,FixedSubsidies,0.0
+2016,Water waste,Discounted,InvestmentCosts,0.0
+2016,Water waste,Undiscounted,FixedCosts,5188.247561651403
+2016,Water waste,Undiscounted,FixedSubsidies,0.0
+2016,Water waste,Undiscounted,InvestmentCosts,0.0
+2017,Commercial building,Discounted,FixedCosts,3854.7022182723845
+2017,Commercial building,Discounted,FixedSubsidies,0.0
+2017,Commercial building,Discounted,InvestmentCosts,0.0
+2017,Commercial building,Undiscounted,FixedCosts,5080.93937690311
+2017,Commercial building,Undiscounted,FixedSubsidies,0.0
+2017,Commercial building,Undiscounted,InvestmentCosts,0.0
+2017,Freight transportation,Discounted,FixedCosts,12402.80299608229
+2017,Freight transportation,Discounted,FixedSubsidies,0.0
+2017,Freight transportation,Discounted,InvestmentCosts,0.0
+2017,Freight transportation,Undiscounted,FixedCosts,15588.682851072062
+2017,Freight transportation,Undiscounted,FixedSubsidies,0.0
+2017,Freight transportation,Undiscounted,InvestmentCosts,0.0
+2017,Long distance transportation,Discounted,FixedCosts,519.2050506624541
+2017,Long distance transportation,Discounted,FixedSubsidies,0.0
+2017,Long distance transportation,Discounted,InvestmentCosts,0.0
+2017,Long distance transportation,Undiscounted,FixedCosts,747.6131745982652
+2017,Long distance transportation,Undiscounted,FixedSubsidies,0.0
+2017,Long distance transportation,Undiscounted,InvestmentCosts,0.0
+2017,Passenger transportation,Discounted,FixedCosts,60203.2476473029
+2017,Passenger transportation,Discounted,FixedSubsidies,0.0
+2017,Passenger transportation,Discounted,InvestmentCosts,0.0
+2017,Passenger transportation,Discounted,VariableCosts,2.630469800515857
+2017,Passenger transportation,Discounted,VariableSubsidies,0.0
+2017,Passenger transportation,Undiscounted,FixedCosts,75690.68939560192
+2017,Passenger transportation,Undiscounted,FixedSubsidies,0.0
+2017,Passenger transportation,Undiscounted,InvestmentCosts,0.0
+2017,Passenger transportation,Undiscounted,VariableCosts,3.2553174015121247
+2017,Passenger transportation,Undiscounted,VariableSubsidies,0.0
+2017,Public building,Discounted,FixedCosts,2558.5622148103157
+2017,Public building,Discounted,FixedSubsidies,0.0
+2017,Public building,Discounted,InvestmentCosts,0.0
+2017,Public building,Undiscounted,FixedCosts,3462.821911136536
+2017,Public building,Undiscounted,FixedSubsidies,0.0
+2017,Public building,Undiscounted,InvestmentCosts,0.0
+2017,Public transportation,Discounted,FixedCosts,1765.3287040216767
+2017,Public transportation,Discounted,FixedSubsidies,0.0
+2017,Public transportation,Discounted,InvestmentCosts,0.0
+2017,Public transportation,Undiscounted,FixedCosts,2200.328898385617
+2017,Public transportation,Undiscounted,FixedSubsidies,0.0
+2017,Public transportation,Undiscounted,InvestmentCosts,0.0
+2017,Residential building,Discounted,FixedCosts,96043.76388151044
+2017,Residential building,Discounted,FixedSubsidies,0.0
+2017,Residential building,Discounted,InvestmentCosts,1131774.9903398706
+2017,Residential building,Undiscounted,FixedCosts,120692.31514755178
+2017,Residential building,Undiscounted,FixedSubsidies,0.0
+2017,Residential building,Undiscounted,InvestmentCosts,1024508.6362082773
+2017,Water waste,Discounted,FixedCosts,2363.1096732592932
+2017,Water waste,Discounted,FixedSubsidies,0.0
+2017,Water waste,Discounted,InvestmentCosts,165.00798165667604
+2017,Water waste,Undiscounted,FixedCosts,3701.502354358139
+2017,Water waste,Undiscounted,FixedSubsidies,0.0
+2017,Water waste,Undiscounted,InvestmentCosts,149.36900328553423
+2018,Commercial building,Discounted,FixedCosts,38590.51845182318
+2018,Commercial building,Discounted,FixedSubsidies,0.0
+2018,Commercial building,Discounted,InvestmentCosts,0.0
+2018,Commercial building,Undiscounted,FixedCosts,52725.6682117565
+2018,Commercial building,Undiscounted,FixedSubsidies,0.0
+2018,Commercial building,Undiscounted,InvestmentCosts,0.0
+2018,Freight transportation,Discounted,FixedCosts,11996.106525193452
+2018,Freight transportation,Discounted,FixedSubsidies,0.0
+2018,Freight transportation,Discounted,InvestmentCosts,0.0
+2018,Freight transportation,Undiscounted,FixedCosts,15537.33171237802
+2018,Freight transportation,Undiscounted,FixedSubsidies,0.0
+2018,Freight transportation,Undiscounted,InvestmentCosts,0.0
+2018,Long distance transportation,Discounted,FixedCosts,497.4217039000172
+2018,Long distance transportation,Discounted,FixedSubsidies,0.0
+2018,Long distance transportation,Discounted,InvestmentCosts,0.0
+2018,Long distance transportation,Undiscounted,FixedCosts,737.4895081372374
+2018,Long distance transportation,Undiscounted,FixedSubsidies,0.0
+2018,Long distance transportation,Undiscounted,InvestmentCosts,0.0
+2018,Passenger transportation,Discounted,FixedCosts,58753.55532078687
+2018,Passenger transportation,Discounted,FixedSubsidies,0.0
+2018,Passenger transportation,Discounted,InvestmentCosts,0.0
+2018,Passenger transportation,Discounted,VariableCosts,2.8540974203915677
+2018,Passenger transportation,Discounted,VariableSubsidies,0.0
+2018,Passenger transportation,Undiscounted,FixedCosts,76086.93489620947
+2018,Passenger transportation,Undiscounted,FixedSubsidies,0.0
+2018,Passenger transportation,Undiscounted,InvestmentCosts,0.0
+2018,Passenger transportation,Undiscounted,VariableCosts,3.643154030937529
+2018,Passenger transportation,Undiscounted,VariableSubsidies,0.0
+2018,Public building,Discounted,FixedCosts,15904.016239897303
+2018,Public building,Discounted,FixedSubsidies,0.0
+2018,Public building,Discounted,InvestmentCosts,0.0
+2018,Public building,Undiscounted,FixedCosts,21782.204592194932
+2018,Public building,Undiscounted,FixedSubsidies,0.0
+2018,Public building,Undiscounted,InvestmentCosts,0.0
+2018,Public transportation,Discounted,FixedCosts,1758.1289408384073
+2018,Public transportation,Discounted,FixedSubsidies,0.0
+2018,Public transportation,Discounted,InvestmentCosts,0.0
+2018,Public transportation,Undiscounted,FixedCosts,2257.486400554233
+2018,Public transportation,Undiscounted,FixedSubsidies,0.0
+2018,Public transportation,Undiscounted,InvestmentCosts,0.0
+2018,Residential building,Discounted,FixedCosts,63866.28952738979
+2018,Residential building,Discounted,FixedSubsidies,0.0
+2018,Residential building,Discounted,InvestmentCosts,47632.41884899686
+2018,Residential building,Undiscounted,FixedCosts,85546.12322715297
+2018,Residential building,Undiscounted,FixedSubsidies,0.0
+2018,Residential building,Undiscounted,InvestmentCosts,44411.49489742803
+2018,Water waste,Discounted,FixedCosts,2035.3955938621198
+2018,Water waste,Discounted,FixedSubsidies,0.0
+2018,Water waste,Discounted,InvestmentCosts,152.41244041512695
+2018,Water waste,Undiscounted,FixedCosts,3244.571613153362
+2018,Water waste,Undiscounted,FixedSubsidies,0.0
+2018,Water waste,Undiscounted,InvestmentCosts,142.1062478741517
+2019,Commercial building,Discounted,FixedCosts,2484.1072593496533
+2019,Commercial building,Discounted,FixedSubsidies,0.0
+2019,Commercial building,Discounted,InvestmentCosts,0.0
+2019,Commercial building,Undiscounted,FixedCosts,3394.3394659839223
+2019,Commercial building,Undiscounted,FixedSubsidies,0.0
+2019,Commercial building,Undiscounted,InvestmentCosts,0.0
+2019,Freight transportation,Discounted,FixedCosts,11640.816469119962
+2019,Freight transportation,Discounted,FixedSubsidies,0.0
+2019,Freight transportation,Discounted,InvestmentCosts,0.0
+2019,Freight transportation,Undiscounted,FixedCosts,15535.751946714157
+2019,Freight transportation,Undiscounted,FixedSubsidies,0.0
+2019,Freight transportation,Undiscounted,InvestmentCosts,0.0
+2019,Long distance transportation,Discounted,FixedCosts,493.9549219845203
+2019,Long distance transportation,Discounted,FixedSubsidies,0.0
+2019,Long distance transportation,Discounted,InvestmentCosts,0.0
+2019,Long distance transportation,Undiscounted,FixedCosts,753.9971531776976
+2019,Long distance transportation,Undiscounted,FixedSubsidies,0.0
+2019,Long distance transportation,Undiscounted,InvestmentCosts,0.0
+2019,Passenger transportation,Discounted,FixedCosts,59732.01378327749
+2019,Passenger transportation,Discounted,FixedSubsidies,0.0
+2019,Passenger transportation,Discounted,InvestmentCosts,0.0
+2019,Passenger transportation,Discounted,VariableCosts,3.2227320928279486
+2019,Passenger transportation,Discounted,VariableSubsidies,0.0
+2019,Passenger transportation,Undiscounted,FixedCosts,79668.6588576282
+2019,Passenger transportation,Undiscounted,FixedSubsidies,0.0
+2019,Passenger transportation,Undiscounted,InvestmentCosts,0.0
+2019,Passenger transportation,Undiscounted,VariableCosts,4.263465197032363
+2019,Passenger transportation,Undiscounted,VariableSubsidies,0.0
+2019,Public building,Discounted,FixedCosts,1197.1625282299985
+2019,Public building,Discounted,FixedSubsidies,0.0
+2019,Public building,Discounted,InvestmentCosts,0.0
+2019,Public building,Undiscounted,FixedCosts,1699.2896286268235
+2019,Public building,Undiscounted,FixedSubsidies,0.0
+2019,Public building,Undiscounted,InvestmentCosts,0.0
+2019,Public transportation,Discounted,FixedCosts,2039.3517117869096
+2019,Public transportation,Discounted,FixedSubsidies,0.0
+2019,Public transportation,Discounted,InvestmentCosts,0.0
+2019,Public transportation,Undiscounted,FixedCosts,2697.6151879328645
+2019,Public transportation,Undiscounted,FixedSubsidies,0.0
+2019,Public transportation,Undiscounted,InvestmentCosts,0.0
+2019,Residential building,Discounted,FixedCosts,6481.651370649268
+2019,Residential building,Discounted,FixedSubsidies,0.0
+2019,Residential building,Discounted,InvestmentCosts,46257.955270927916
+2019,Residential building,Undiscounted,FixedCosts,8844.06769399764
+2019,Residential building,Undiscounted,FixedSubsidies,0.0
+2019,Residential building,Undiscounted,InvestmentCosts,44423.872311058185
+2019,Water waste,Discounted,FixedCosts,1785.5043005262623
+2019,Water waste,Discounted,FixedSubsidies,0.0
+2019,Water waste,Discounted,InvestmentCosts,140.85123226450858
+2019,Water waste,Undiscounted,FixedCosts,2899.627147662211
+2019,Water waste,Undiscounted,FixedSubsidies,0.0
+2019,Water waste,Undiscounted,InvestmentCosts,135.2666178244634
+2020,Commercial building,Discounted,FixedCosts,79650.4078365379
+2020,Commercial building,Discounted,FixedSubsidies,0.0
+2020,Commercial building,Discounted,InvestmentCosts,0.0
+2020,Commercial building,Undiscounted,FixedCosts,108813.50088616903
+2020,Commercial building,Undiscounted,FixedSubsidies,0.0
+2020,Commercial building,Undiscounted,InvestmentCosts,0.0
+2020,Freight transportation,Discounted,FixedCosts,577904.8853670657
+2020,Freight transportation,Discounted,FixedSubsidies,0.0
+2020,Freight transportation,Discounted,InvestmentCosts,0.0
+2020,Freight transportation,Undiscounted,FixedCosts,793175.5449481639
+2020,Freight transportation,Undiscounted,FixedSubsidies,0.0
+2020,Freight transportation,Undiscounted,InvestmentCosts,0.0
+2020,Long distance transportation,Discounted,FixedCosts,6134.319838276445
+2020,Long distance transportation,Discounted,FixedSubsidies,0.0
+2020,Long distance transportation,Discounted,InvestmentCosts,0.0
+2020,Long distance transportation,Undiscounted,FixedCosts,9625.038967135233
+2020,Long distance transportation,Undiscounted,FixedSubsidies,0.0
+2020,Long distance transportation,Undiscounted,InvestmentCosts,0.0
+2020,Passenger transportation,Discounted,FixedCosts,2610882.7480046903
+2020,Passenger transportation,Discounted,FixedSubsidies,0.0
+2020,Passenger transportation,Discounted,InvestmentCosts,0.0
+2020,Passenger transportation,Discounted,VariableCosts,246.09943936221023
+2020,Passenger transportation,Discounted,VariableSubsidies,0.0
+2020,Passenger transportation,Undiscounted,FixedCosts,3586652.2668775744
+2020,Passenger transportation,Undiscounted,FixedSubsidies,0.0
+2020,Passenger transportation,Undiscounted,InvestmentCosts,0.0
+2020,Passenger transportation,Undiscounted,VariableCosts,337.9044535955812
+2020,Passenger transportation,Undiscounted,VariableSubsidies,0.0
+2020,Public building,Discounted,FixedCosts,6502.9689354408265
+2020,Public building,Discounted,FixedSubsidies,0.0
+2020,Public building,Discounted,InvestmentCosts,0.0
+2020,Public building,Undiscounted,FixedCosts,8656.96780102576
+2020,Public building,Undiscounted,FixedSubsidies,0.0
+2020,Public building,Undiscounted,InvestmentCosts,0.0
+2020,Public transportation,Discounted,FixedCosts,14817.085197389659
+2020,Public transportation,Discounted,FixedSubsidies,0.0
+2020,Public transportation,Discounted,InvestmentCosts,0.0
+2020,Public transportation,Undiscounted,FixedCosts,20184.049112959194
+2020,Public transportation,Undiscounted,FixedSubsidies,0.0
+2020,Public transportation,Undiscounted,InvestmentCosts,0.0
+2020,Residential building,Discounted,FixedCosts,51357.948580110504
+2020,Residential building,Discounted,FixedSubsidies,0.0
+2020,Residential building,Discounted,InvestmentCosts,44906.47432197027
+2020,Residential building,Undiscounted,FixedCosts,77376.10617995168
+2020,Residential building,Undiscounted,FixedSubsidies,0.0
+2020,Residential building,Undiscounted,InvestmentCosts,44419.75555601279
+2020,Water waste,Discounted,FixedCosts,1024.9447064005838
+2020,Water waste,Discounted,FixedSubsidies,0.0
+2020,Water waste,Discounted,InvestmentCosts,237.75947634607195
+2020,Water waste,Undiscounted,FixedCosts,1704.3417551577913
+2020,Water waste,Undiscounted,FixedSubsidies,0.0
+2020,Water waste,Undiscounted,InvestmentCosts,235.18252055809015
+2021,Commercial building,Discounted,FixedCosts,1638.146174476826
+2021,Commercial building,Discounted,FixedSubsidies,0.0
+2021,Commercial building,Discounted,InvestmentCosts,0.0
+2021,Commercial building,Undiscounted,FixedCosts,2330.2630330432685
+2021,Commercial building,Undiscounted,FixedSubsidies,0.0
+2021,Commercial building,Undiscounted,InvestmentCosts,0.0
+2021,Freight transportation,Discounted,FixedCosts,10989.646452296423
+2021,Freight transportation,Discounted,FixedSubsidies,0.0
+2021,Freight transportation,Discounted,InvestmentCosts,0.0
+2021,Freight transportation,Undiscounted,FixedCosts,15549.096368861738
+2021,Freight transportation,Undiscounted,FixedSubsidies,0.0
+2021,Freight transportation,Undiscounted,InvestmentCosts,0.0
+2021,Long distance transportation,Discounted,FixedCosts,517.9604534850416
+2021,Long distance transportation,Discounted,FixedSubsidies,0.0
+2021,Long distance transportation,Discounted,InvestmentCosts,0.0
+2021,Long distance transportation,Undiscounted,FixedCosts,838.0742212418445
+2021,Long distance transportation,Undiscounted,FixedSubsidies,0.0
+2021,Long distance transportation,Undiscounted,InvestmentCosts,0.0
+2021,Passenger transportation,Discounted,FixedCosts,55773.707971116986
+2021,Passenger transportation,Discounted,FixedSubsidies,0.0
+2021,Passenger transportation,Discounted,InvestmentCosts,0.0
+2021,Passenger transportation,Discounted,VariableCosts,2.8824080448368097
+2021,Passenger transportation,Discounted,VariableSubsidies,0.0
+2021,Passenger transportation,Undiscounted,FixedCosts,78926.97412015061
+2021,Passenger transportation,Undiscounted,FixedSubsidies,0.0
+2021,Passenger transportation,Undiscounted,InvestmentCosts,0.0
+2021,Passenger transportation,Undiscounted,VariableCosts,4.038886155351576
+2021,Passenger transportation,Undiscounted,VariableSubsidies,0.0
+2021,Public building,Discounted,FixedCosts,1022.7483309383717
+2021,Public building,Discounted,FixedSubsidies,0.0
+2021,Public building,Discounted,InvestmentCosts,0.0
+2021,Public building,Undiscounted,FixedCosts,1539.327596568205
+2021,Public building,Undiscounted,FixedSubsidies,0.0
+2021,Public building,Undiscounted,InvestmentCosts,0.0
+2021,Public transportation,Discounted,FixedCosts,1951.9028509035609
+2021,Public transportation,Discounted,FixedSubsidies,0.0
+2021,Public transportation,Discounted,InvestmentCosts,0.0
+2021,Public transportation,Undiscounted,FixedCosts,2738.7495045334754
+2021,Public transportation,Undiscounted,FixedSubsidies,0.0
+2021,Public transportation,Undiscounted,InvestmentCosts,0.0
+2021,Residential building,Discounted,FixedCosts,4433.5584591478955
+2021,Residential building,Discounted,FixedSubsidies,0.0
+2021,Residential building,Discounted,InvestmentCosts,33762.22666008474
+2021,Residential building,Undiscounted,FixedCosts,6376.288182451241
+2021,Residential building,Undiscounted,FixedSubsidies,0.0
+2021,Residential building,Undiscounted,InvestmentCosts,34398.18365277353
+2021,Water waste,Discounted,FixedCosts,1058.9445181005735
+2021,Water waste,Discounted,FixedSubsidies,0.0
+2021,Water waste,Discounted,InvestmentCosts,245.62808858171348
+2021,Water waste,Undiscounted,FixedCosts,1812.7999325471312
+2021,Water waste,Undiscounted,FixedSubsidies,0.0
+2021,Water waste,Undiscounted,InvestmentCosts,250.25482431531955
+2022,Commercial building,Discounted,FixedCosts,4121.38802830762
+2022,Commercial building,Discounted,FixedSubsidies,0.0
+2022,Commercial building,Discounted,InvestmentCosts,0.0
+2022,Commercial building,Undiscounted,FixedCosts,6311.574461693254
+2022,Commercial building,Undiscounted,FixedSubsidies,0.0
+2022,Commercial building,Undiscounted,InvestmentCosts,0.0
+2022,Freight transportation,Discounted,FixedCosts,13340.038951013163
+2022,Freight transportation,Discounted,FixedSubsidies,0.0
+2022,Freight transportation,Discounted,InvestmentCosts,0.0
+2022,Freight transportation,Undiscounted,FixedCosts,19437.284300132083
+2022,Freight transportation,Undiscounted,FixedSubsidies,0.0
+2022,Freight transportation,Undiscounted,InvestmentCosts,0.0
+2022,Long distance transportation,Discounted,FixedCosts,450.71903623904257
+2022,Long distance transportation,Discounted,FixedSubsidies,0.0
+2022,Long distance transportation,Discounted,InvestmentCosts,0.0
+2022,Long distance transportation,Undiscounted,FixedCosts,751.0365814208284
+2022,Long distance transportation,Undiscounted,FixedSubsidies,0.0
+2022,Long distance transportation,Undiscounted,InvestmentCosts,0.0
+2022,Passenger transportation,Discounted,FixedCosts,61488.69022380124
+2022,Passenger transportation,Discounted,FixedSubsidies,0.0
+2022,Passenger transportation,Discounted,InvestmentCosts,0.0
+2022,Passenger transportation,Discounted,VariableCosts,3.6094448039381968
+2022,Passenger transportation,Discounted,VariableSubsidies,0.0
+2022,Passenger transportation,Undiscounted,FixedCosts,89598.73824865332
+2022,Passenger transportation,Undiscounted,FixedSubsidies,0.0
+2022,Passenger transportation,Undiscounted,InvestmentCosts,0.0
+2022,Passenger transportation,Undiscounted,VariableCosts,5.184557349929852
+2022,Passenger transportation,Undiscounted,VariableSubsidies,0.0
+2022,Public building,Discounted,FixedCosts,1925.8649980249093
+2022,Public building,Discounted,FixedSubsidies,0.0
+2022,Public building,Discounted,InvestmentCosts,0.0
+2022,Public building,Undiscounted,FixedCosts,3041.846124435995
+2022,Public building,Undiscounted,FixedSubsidies,0.0
+2022,Public building,Undiscounted,InvestmentCosts,0.0
+2022,Public transportation,Discounted,FixedCosts,1866.0811161320496
+2022,Public transportation,Discounted,FixedSubsidies,0.0
+2022,Public transportation,Discounted,InvestmentCosts,0.0
+2022,Public transportation,Undiscounted,FixedCosts,2695.9619589741105
+2022,Public transportation,Undiscounted,FixedSubsidies,0.0
+2022,Public transportation,Undiscounted,InvestmentCosts,0.0
+2022,Residential building,Discounted,FixedCosts,83523.36826839152
+2022,Residential building,Discounted,FixedSubsidies,0.0
+2022,Residential building,Discounted,InvestmentCosts,976340.7288176271
+2022,Residential building,Undiscounted,FixedCosts,121591.86642396732
+2022,Residential building,Undiscounted,FixedSubsidies,0.0
+2022,Residential building,Undiscounted,InvestmentCosts,1024573.3635031291
+2022,Water waste,Discounted,FixedCosts,979.5127946700347
+2022,Water waste,Discounted,FixedSubsidies,0.0
+2022,Water waste,Discounted,InvestmentCosts,226.84200013135066
+2022,Water waste,Undiscounted,FixedCosts,1705.4799388098866
+2022,Water waste,Undiscounted,FixedSubsidies,0.0
+2022,Water waste,Undiscounted,InvestmentCosts,238.04832083551102
+2023,Commercial building,Discounted,FixedCosts,98122.678177232
+2023,Commercial building,Discounted,FixedSubsidies,0.0
+2023,Commercial building,Discounted,InvestmentCosts,1753400.2005778055
+2023,Commercial building,Undiscounted,FixedCosts,150894.22908435104
+2023,Commercial building,Undiscounted,FixedSubsidies,0.0
+2023,Commercial building,Undiscounted,InvestmentCosts,1895221.310234711
+2023,District Energy,Discounted,FixedCosts,6604.488800493473
+2023,District Energy,Discounted,FixedSubsidies,0.0
+2023,District Energy,Discounted,InvestmentCosts,32822.17825601093
+2023,District Energy,Discounted,VariableCosts,1149.7385675748963
+2023,District Energy,Discounted,VariableSubsidies,0.0
+2023,District Energy,Undiscounted,FixedCosts,11400.465619313474
+2023,District Energy,Undiscounted,FixedSubsidies,0.0
+2023,District Energy,Undiscounted,InvestmentCosts,35476.95024707734
+2023,District Energy,Undiscounted,VariableCosts,1784.7076125987508
+2023,District Energy,Undiscounted,VariableSubsidies,0.0
+2023,Electricity energy,Discounted,FixedCosts,625928.372893942
+2023,Electricity energy,Discounted,FixedSubsidies,0.0
+2023,Electricity energy,Discounted,InvestmentCosts,2116384.081673206
+2023,Electricity energy,Undiscounted,FixedCosts,1092367.3536963167
+2023,Electricity energy,Undiscounted,FixedSubsidies,0.0
+2023,Electricity energy,Undiscounted,InvestmentCosts,2287564.5907345116
+2023,Freight transportation,Discounted,FixedCosts,1946.2445321805412
+2023,Freight transportation,Discounted,FixedSubsidies,0.0
+2023,Freight transportation,Discounted,InvestmentCosts,17059.970545824428
+2023,Freight transportation,Undiscounted,FixedCosts,2930.423863221184
+2023,Freight transportation,Undiscounted,FixedSubsidies,0.0
+2023,Freight transportation,Undiscounted,InvestmentCosts,18318.617656778122
+2023,Industrial building,Discounted,InvestmentCosts,1165886.763128711
+2023,Industrial building,Undiscounted,InvestmentCosts,1260187.7415515054
+2023,Long distance transportation,Discounted,FixedCosts,398.89496505691153
+2023,Long distance transportation,Discounted,FixedSubsidies,0.0
+2023,Long distance transportation,Discounted,InvestmentCosts,1387.1897471757
+2023,Long distance transportation,Undiscounted,FixedCosts,684.4532018633689
+2023,Long distance transportation,Undiscounted,FixedSubsidies,0.0
+2023,Long distance transportation,Undiscounted,InvestmentCosts,1499.3904810323
+2023,Passenger transportation,Discounted,FixedCosts,14809.13340526125
+2023,Passenger transportation,Discounted,FixedSubsidies,0.0
+2023,Passenger transportation,Discounted,InvestmentCosts,61703.36186482094
+2023,Passenger transportation,Discounted,VariableCosts,0.507200332347116
+2023,Passenger transportation,Discounted,VariableSubsidies,0.0
+2023,Passenger transportation,Undiscounted,FixedCosts,22213.430876556635
+2023,Passenger transportation,Undiscounted,FixedSubsidies,0.0
+2023,Passenger transportation,Undiscounted,InvestmentCosts,65706.99982746682
+2023,Passenger transportation,Undiscounted,VariableCosts,0.7513760185757045
+2023,Passenger transportation,Undiscounted,VariableSubsidies,0.0
+2023,Public building,Discounted,FixedCosts,16148.166940077848
+2023,Public building,Discounted,FixedSubsidies,0.0
+2023,Public building,Discounted,InvestmentCosts,286700.51789015543
+2023,Public building,Undiscounted,FixedCosts,25421.90414114032
+2023,Public building,Undiscounted,FixedSubsidies,0.0
+2023,Public building,Undiscounted,InvestmentCosts,309889.85342975013
+2023,Public transportation,Discounted,FixedCosts,2953.7239646780126
+2023,Public transportation,Discounted,FixedSubsidies,0.0
+2023,Public transportation,Discounted,InvestmentCosts,24192.626420436296
+2023,Public transportation,Undiscounted,FixedCosts,4420.724278883641
+2023,Public transportation,Undiscounted,FixedSubsidies,0.0
+2023,Public transportation,Undiscounted,InvestmentCosts,25668.886751621474
+2023,Residential building,Discounted,FixedCosts,52543.58720844378
+2023,Residential building,Discounted,FixedSubsidies,0.0
+2023,Residential building,Discounted,InvestmentCosts,5918935.760143673
+2023,Residential building,Undiscounted,FixedCosts,86100.02274241696
+2023,Residential building,Undiscounted,FixedSubsidies,0.0
+2023,Residential building,Undiscounted,InvestmentCosts,6397679.880975237
+2023,Solid waste,Discounted,FixedCosts,8048.918107036895
+2023,Solid waste,Discounted,FixedSubsidies,0.0
+2023,Solid waste,Discounted,InvestmentCosts,5526.548493159509
+2023,Solid waste,Undiscounted,FixedCosts,14236.6701866551
+2023,Solid waste,Undiscounted,FixedSubsidies,0.0
+2023,Solid waste,Undiscounted,InvestmentCosts,5973.554966418894
+2023,Charging Station Energy,Discounted,FixedCosts,17249.19829354913
+2023,Charging Station Energy,Discounted,FixedSubsidies,0.0
+2023,Charging Station Energy,Discounted,InvestmentCosts,38110.831289613525
+2023,Charging Station Energy,Undiscounted,FixedCosts,25648.547450333324
+2023,Charging Station Energy,Undiscounted,FixedSubsidies,0.0
+2023,Charging Station Energy,Undiscounted,InvestmentCosts,41193.36794134823
+2023,Water waste,Discounted,FixedCosts,897.514125136955
+2023,Water waste,Discounted,FixedSubsidies,0.0
+2023,Water waste,Discounted,InvestmentCosts,207.50414267017075
+2023,Water waste,Undiscounted,FixedCosts,1589.335212228124
+2023,Water waste,Undiscounted,FixedSubsidies,0.0
+2023,Water waste,Undiscounted,InvestmentCosts,224.2877997965875
+2024,Commercial building,Discounted,FixedCosts,17194.438338405187
+2024,Commercial building,Discounted,FixedSubsidies,0.0
+2024,Commercial building,Discounted,InvestmentCosts,415562.5725695667
+2024,Commercial building,Undiscounted,FixedCosts,27399.755222495198
+2024,Commercial building,Undiscounted,FixedSubsidies,0.0
+2024,Commercial building,Undiscounted,InvestmentCosts,462649.9610873624
+2024,District Energy,Discounted,FixedCosts,1260.5642592270437
+2024,District Energy,Discounted,FixedSubsidies,0.0
+2024,District Energy,Discounted,InvestmentCosts,6290.657511980612
+2024,District Energy,Discounted,VariableCosts,235.34886523648015
+2024,District Energy,Discounted,VariableSubsidies,0.0
+2024,District Energy,Undiscounted,FixedCosts,2226.0752948857717
+2024,District Energy,Undiscounted,FixedSubsidies,0.0
+2024,District Energy,Undiscounted,InvestmentCosts,7003.451815056192
+2024,District Energy,Undiscounted,VariableCosts,372.2543736399278
+2024,District Energy,Undiscounted,VariableSubsidies,0.0
+2024,Electricity energy,Discounted,FixedCosts,117618.49963170545
+2024,Electricity energy,Discounted,FixedSubsidies,0.0
+2024,Electricity energy,Discounted,InvestmentCosts,378925.8596939404
+2024,Electricity energy,Undiscounted,FixedCosts,209278.9792601409
+2024,Electricity energy,Undiscounted,FixedSubsidies,0.0
+2024,Electricity energy,Undiscounted,InvestmentCosts,421861.9428559084
+2024,Freight transportation,Discounted,FixedCosts,7335.659113783358
+2024,Freight transportation,Discounted,FixedSubsidies,0.0
+2024,Freight transportation,Discounted,InvestmentCosts,60512.191884163825
+2024,Freight transportation,Undiscounted,FixedCosts,11347.655914050567
+2024,Freight transportation,Undiscounted,FixedSubsidies,0.0
+2024,Freight transportation,Undiscounted,InvestmentCosts,67261.03696318011
+2024,Industrial building,Discounted,InvestmentCosts,110549.01218016283
+2024,Industrial building,Undiscounted,InvestmentCosts,123075.31899985229
+2024,Long distance transportation,Discounted,FixedCosts,144.34058026574561
+2024,Long distance transportation,Discounted,FixedSubsidies,0.0
+2024,Long distance transportation,Discounted,InvestmentCosts,565.8641245728127
+2024,Long distance transportation,Undiscounted,FixedCosts,255.2470992162873
+2024,Long distance transportation,Undiscounted,FixedSubsidies,0.0
+2024,Long distance transportation,Undiscounted,InvestmentCosts,629.9821795682055
+2024,Passenger transportation,Discounted,FixedCosts,41412.854837511455
+2024,Passenger transportation,Discounted,FixedSubsidies,0.0
+2024,Passenger transportation,Discounted,InvestmentCosts,125197.23070909317
+2024,Passenger transportation,Discounted,VariableCosts,25.769487731497
+2024,Passenger transportation,Discounted,VariableSubsidies,0.0
+2024,Passenger transportation,Undiscounted,FixedCosts,63991.73750360797
+2024,Passenger transportation,Undiscounted,FixedSubsidies,0.0
+2024,Passenger transportation,Undiscounted,InvestmentCosts,138541.06004564633
+2024,Passenger transportation,Undiscounted,VariableCosts,39.45244338442879
+2024,Passenger transportation,Undiscounted,VariableSubsidies,0.0
+2024,Public building,Discounted,FixedCosts,3947.8535927842854
+2024,Public building,Discounted,FixedSubsidies,0.0
+2024,Public building,Discounted,InvestmentCosts,120420.81816731933
+2024,Public building,Undiscounted,FixedCosts,6454.214763991694
+2024,Public building,Undiscounted,FixedSubsidies,0.0
+2024,Public building,Undiscounted,InvestmentCosts,134065.69916710228
+2024,Public transportation,Discounted,FixedCosts,2045.4335468479371
+2024,Public transportation,Discounted,FixedSubsidies,0.0
+2024,Public transportation,Discounted,InvestmentCosts,19835.40013329717
+2024,Public transportation,Undiscounted,FixedCosts,3148.336832485631
+2024,Public transportation,Undiscounted,FixedSubsidies,0.0
+2024,Public transportation,Undiscounted,InvestmentCosts,21657.284269194202
+2024,Residential building,Discounted,FixedCosts,9542.841405615203
+2024,Residential building,Discounted,FixedSubsidies,0.0
+2024,Residential building,Discounted,InvestmentCosts,1020922.1045993078
+2024,Residential building,Undiscounted,FixedCosts,15707.915647601292
+2024,Residential building,Undiscounted,FixedSubsidies,0.0
+2024,Residential building,Undiscounted,InvestmentCosts,1136602.7721060654
+2024,Solid waste,Discounted,FixedCosts,56525.68322774284
+2024,Solid waste,Discounted,FixedSubsidies,0.0
+2024,Solid waste,Discounted,InvestmentCosts,48408.114762250065
+2024,Solid waste,Undiscounted,FixedCosts,102277.41144677615
+2024,Solid waste,Undiscounted,FixedSubsidies,0.0
+2024,Solid waste,Undiscounted,InvestmentCosts,53893.23747946141
+2024,Charging Station Energy,Discounted,FixedCosts,52511.38181287408
+2024,Charging Station Energy,Discounted,FixedSubsidies,0.0
+2024,Charging Station Energy,Discounted,InvestmentCosts,113188.33053629863
+2024,Charging Station Energy,Undiscounted,FixedCosts,80409.46346934026
+2024,Charging Station Energy,Undiscounted,FixedSubsidies,0.0
+2024,Charging Station Energy,Undiscounted,InvestmentCosts,126013.6984771306
+2024,Water waste,Discounted,FixedCosts,804.2817630723865
+2024,Water waste,Discounted,FixedSubsidies,0.0
+2024,Water waste,Discounted,InvestmentCosts,185.39812152574189
+2024,Water waste,Undiscounted,FixedCosts,1448.4925026219498
+2024,Water waste,Undiscounted,FixedSubsidies,0.0
+2024,Water waste,Undiscounted,InvestmentCosts,206.40557974021021
+2025,Commercial building,Discounted,FixedCosts,50630.90456222944
+2025,Commercial building,Discounted,FixedSubsidies,0.0
+2025,Commercial building,Discounted,InvestmentCosts,484367.8503428049
+2025,Commercial building,Undiscounted,FixedCosts,83612.23251418603
+2025,Commercial building,Undiscounted,FixedSubsidies,0.0
+2025,Commercial building,Undiscounted,InvestmentCosts,555429.1107094847
+2025,District Energy,Discounted,FixedCosts,1440.5717340423269
+2025,District Energy,Discounted,FixedSubsidies,0.0
+2025,District Energy,Discounted,InvestmentCosts,7186.193518981146
+2025,District Energy,Discounted,VariableCosts,275.8539785993058
+2025,District Energy,Discounted,VariableSubsidies,0.0
+2025,District Energy,Undiscounted,FixedCosts,2603.0141285975064
+2025,District Energy,Undiscounted,FixedSubsidies,0.0
+2025,District Energy,Undiscounted,InvestmentCosts,8240.474822614844
+2025,District Energy,Undiscounted,VariableCosts,445.7123077034178
+2025,District Energy,Undiscounted,VariableSubsidies,0.0
+2025,Electricity energy,Discounted,FixedCosts,132586.25000414051
+2025,Electricity energy,Discounted,FixedSubsidies,0.0
+2025,Electricity energy,Discounted,InvestmentCosts,405071.5433831869
+2025,Electricity energy,Undiscounted,FixedCosts,240437.93200790297
+2025,Electricity energy,Undiscounted,FixedSubsidies,0.0
+2025,Electricity energy,Undiscounted,InvestmentCosts,464499.2993564896
+2025,Freight transportation,Discounted,FixedCosts,495643.5002751191
+2025,Freight transportation,Discounted,FixedSubsidies,0.0
+2025,Freight transportation,Discounted,InvestmentCosts,4163960.7076803283
+2025,Freight transportation,Undiscounted,FixedCosts,788638.6600312954
+2025,Freight transportation,Undiscounted,FixedSubsidies,0.0
+2025,Freight transportation,Undiscounted,InvestmentCosts,4774757.669034072
+2025,Industrial building,Discounted,InvestmentCosts,115164.46344245838
+2025,Industrial building,Undiscounted,InvestmentCosts,132060.15938074485
+2025,Long distance transportation,Discounted,FixedCosts,17737.434315986913
+2025,Long distance transportation,Discounted,FixedSubsidies,0.0
+2025,Long distance transportation,Discounted,InvestmentCosts,56454.44261518284
+2025,Long distance transportation,Undiscounted,FixedCosts,32259.27095899619
+2025,Long distance transportation,Undiscounted,FixedSubsidies,0.0
+2025,Long distance transportation,Undiscounted,InvestmentCosts,64736.833452423656
+2025,Passenger transportation,Discounted,FixedCosts,1987489.9995436224
+2025,Passenger transportation,Discounted,FixedSubsidies,0.0
+2025,Passenger transportation,Discounted,InvestmentCosts,7432327.641502411
+2025,Passenger transportation,Discounted,VariableCosts,236.7757524219846
+2025,Passenger transportation,Discounted,VariableSubsidies,0.0
+2025,Passenger transportation,Undiscounted,FixedCosts,3163359.2417335277
+2025,Passenger transportation,Undiscounted,FixedSubsidies,0.0
+2025,Passenger transportation,Undiscounted,InvestmentCosts,8522014.956007706
+2025,Passenger transportation,Undiscounted,VariableCosts,376.8736821729082
+2025,Passenger transportation,Undiscounted,VariableSubsidies,0.0
+2025,Public building,Discounted,FixedCosts,3827.087109342031
+2025,Public building,Discounted,FixedSubsidies,0.0
+2025,Public building,Discounted,InvestmentCosts,128295.96678703939
+2025,Public building,Undiscounted,FixedCosts,6395.976518485334
+2025,Public building,Undiscounted,FixedSubsidies,0.0
+2025,Public building,Undiscounted,InvestmentCosts,147118.17617479354
+2025,Public transportation,Discounted,FixedCosts,12382.269402369195
+2025,Public transportation,Discounted,FixedSubsidies,0.0
+2025,Public transportation,Discounted,InvestmentCosts,135803.03918155757
+2025,Public transportation,Undiscounted,FixedCosts,19535.235785373785
+2025,Public transportation,Undiscounted,FixedSubsidies,0.0
+2025,Public transportation,Undiscounted,InvestmentCosts,155345.8681639663
+2025,Residential building,Discounted,FixedCosts,25390.567345724274
+2025,Residential building,Discounted,FixedSubsidies,0.0
+2025,Residential building,Discounted,InvestmentCosts,2362409.2626611264
+2025,Residential building,Undiscounted,FixedCosts,42151.6771719769
+2025,Residential building,Undiscounted,FixedSubsidies,0.0
+2025,Residential building,Undiscounted,InvestmentCosts,2708996.63337082
+2025,Solid waste,Discounted,FixedCosts,31546.66963718623
+2025,Solid waste,Discounted,FixedSubsidies,0.0
+2025,Solid waste,Discounted,InvestmentCosts,27277.35482094679
+2025,Solid waste,Undiscounted,FixedCosts,57992.377022535635
+2025,Solid waste,Undiscounted,FixedSubsidies,0.0
+2025,Solid waste,Undiscounted,InvestmentCosts,31279.196007709605
+2025,Charging Station Energy,Discounted,FixedCosts,50161.1156556917
+2025,Charging Station Energy,Discounted,FixedSubsidies,0.0
+2025,Charging Station Energy,Discounted,InvestmentCosts,104119.20829372315
+2025,Charging Station Energy,Undiscounted,FixedCosts,79107.21132698016
+2025,Charging Station Energy,Undiscounted,FixedSubsidies,0.0
+2025,Charging Station Energy,Undiscounted,InvestmentCosts,119394.46276095582
+2025,Water waste,Discounted,FixedCosts,717.1348002392613
+2025,Water waste,Discounted,FixedSubsidies,0.0
+2025,Water waste,Discounted,InvestmentCosts,164.56781492778293
+2025,Water waste,Undiscounted,FixedCosts,1313.538250483402
+2025,Water waste,Undiscounted,FixedSubsidies,0.0
+2025,Water waste,Undiscounted,InvestmentCosts,188.71144117440969
+2030,Commercial building,Discounted,FixedCosts,97360.95215828971
+2030,Commercial building,Discounted,FixedSubsidies,0.0
+2030,Commercial building,Discounted,InvestmentCosts,7627690.163989873
+2030,Commercial building,Undiscounted,FixedCosts,179365.83785322818
+2030,Commercial building,Undiscounted,FixedSubsidies,0.0
+2030,Commercial building,Undiscounted,InvestmentCosts,10139872.53840594
+2030,District Energy,Discounted,FixedCosts,8554.659511922244
+2030,District Energy,Discounted,FixedSubsidies,0.0
+2030,District Energy,Discounted,InvestmentCosts,38516.325841080674
+2030,District Energy,Discounted,VariableCosts,1129.4315052807624
+2030,District Energy,Discounted,VariableSubsidies,0.0
+2030,District Energy,Undiscounted,FixedCosts,17041.68246171556
+2030,District Energy,Undiscounted,FixedSubsidies,0.0
+2030,District Energy,Undiscounted,InvestmentCosts,51201.69098111107
+2030,District Energy,Undiscounted,VariableCosts,2201.9291231568304
+2030,District Energy,Undiscounted,VariableSubsidies,0.0
+2030,Electricity energy,Discounted,FixedCosts,843318.7107058131
+2030,Electricity energy,Discounted,FixedSubsidies,0.0
+2030,Electricity energy,Discounted,InvestmentCosts,1914356.2271913378
+2030,Electricity energy,Undiscounted,FixedCosts,1681547.4773214906
+2030,Electricity energy,Undiscounted,FixedSubsidies,0.0
+2030,Electricity energy,Undiscounted,InvestmentCosts,2544850.107895606
+2030,Freight transportation,Discounted,FixedCosts,242940.12522014254
+2030,Freight transportation,Discounted,FixedSubsidies,0.0
+2030,Freight transportation,Discounted,InvestmentCosts,6198986.8111250885
+2030,Freight transportation,Undiscounted,FixedCosts,447215.4384704612
+2030,Freight transportation,Undiscounted,FixedSubsidies,0.0
+2030,Freight transportation,Undiscounted,InvestmentCosts,6507989.461879224
+2030,Industrial building,Discounted,InvestmentCosts,575213.8767461379
+2030,Industrial building,Undiscounted,InvestmentCosts,764660.7645475328
+2030,Long distance transportation,Discounted,FixedCosts,4545.122088591407
+2030,Long distance transportation,Discounted,FixedSubsidies,0.0
+2030,Long distance transportation,Discounted,InvestmentCosts,14580.167244822533
+2030,Long distance transportation,Undiscounted,FixedCosts,9092.94491892401
+2030,Long distance transportation,Undiscounted,FixedSubsidies,0.0
+2030,Long distance transportation,Undiscounted,InvestmentCosts,19382.15033288789
+2030,Passenger transportation,Discounted,FixedCosts,1544759.1642866866
+2030,Passenger transportation,Discounted,FixedSubsidies,0.0
+2030,Passenger transportation,Discounted,InvestmentCosts,7757364.972891717
+2030,Passenger transportation,Discounted,VariableCosts,307.2678651640423
+2030,Passenger transportation,Discounted,VariableSubsidies,0.0
+2030,Passenger transportation,Undiscounted,FixedCosts,2850271.355506204
+2030,Passenger transportation,Undiscounted,FixedSubsidies,0.0
+2030,Passenger transportation,Undiscounted,InvestmentCosts,9373302.39823324
+2030,Passenger transportation,Undiscounted,VariableCosts,566.9674608790351
+2030,Passenger transportation,Undiscounted,VariableSubsidies,0.0
+2030,Public building,Discounted,FixedCosts,15159.56853473674
+2030,Public building,Discounted,FixedSubsidies,0.0
+2030,Public building,Discounted,InvestmentCosts,598622.994301632
+2030,Public building,Undiscounted,FixedCosts,28398.54272133928
+2030,Public building,Undiscounted,FixedSubsidies,0.0
+2030,Public building,Undiscounted,InvestmentCosts,795779.6830072625
+2030,Public transportation,Discounted,FixedCosts,24153.949547238077
+2030,Public transportation,Discounted,FixedSubsidies,0.0
+2030,Public transportation,Discounted,InvestmentCosts,271440.5416510415
+2030,Public transportation,Undiscounted,FixedCosts,44133.70188017942
+2030,Public transportation,Undiscounted,FixedSubsidies,0.0
+2030,Public transportation,Undiscounted,InvestmentCosts,349277.9309915566
+2030,Residential building,Discounted,FixedCosts,85596.05192606171
+2030,Residential building,Discounted,FixedSubsidies,0.0
+2030,Residential building,Discounted,InvestmentCosts,13501519.838363279
+2030,Residential building,Undiscounted,FixedCosts,163088.2745494068
+2030,Residential building,Undiscounted,FixedSubsidies,0.0
+2030,Residential building,Undiscounted,InvestmentCosts,17948250.03276635
+2030,Solid waste,Discounted,FixedCosts,49844.12594474984
+2030,Solid waste,Discounted,FixedSubsidies,0.0
+2030,Solid waste,Discounted,InvestmentCosts,15717.515956036228
+2030,Solid waste,Undiscounted,FixedCosts,98354.3514849083
+2030,Solid waste,Undiscounted,FixedSubsidies,0.0
+2030,Solid waste,Undiscounted,InvestmentCosts,20894.085232639354
+2030,Charging Station Energy,Discounted,FixedCosts,638750.13537199
+2030,Charging Station Energy,Discounted,FixedSubsidies,0.0
+2030,Charging Station Energy,Discounted,InvestmentCosts,661013.4929858868
+2030,Charging Station Energy,Undiscounted,FixedCosts,1164479.6295129526
+2030,Charging Station Energy,Undiscounted,FixedSubsidies,0.0
+2030,Charging Station Energy,Undiscounted,InvestmentCosts,878718.5138544505
+2030,Water waste,Discounted,FixedCosts,596198.2247654236
+2030,Water waste,Discounted,FixedSubsidies,0.0
+2030,Water waste,Discounted,InvestmentCosts,112057.82073898095
+2030,Water waste,Undiscounted,FixedCosts,1192738.5498533915
+2030,Water waste,Undiscounted,FixedSubsidies,0.0
+2030,Water waste,Undiscounted,InvestmentCosts,148964.10247351506
+2035,Commercial building,Discounted,FixedCosts,67381.23680105979
+2035,Commercial building,Discounted,FixedSubsidies,0.0
+2035,Commercial building,Discounted,InvestmentCosts,6480641.452195108
+2035,Commercial building,Undiscounted,FixedCosts,141194.3516529967
+2035,Commercial building,Undiscounted,FixedSubsidies,0.0
+2035,Commercial building,Undiscounted,InvestmentCosts,9987195.9288035
+2035,District Energy,Discounted,FixedCosts,14630.554333455595
+2035,District Energy,Discounted,FixedSubsidies,0.0
+2035,District Energy,Discounted,InvestmentCosts,65457.93894354209
+2035,District Energy,Discounted,VariableCosts,1842.8089337326196
+2035,District Energy,Discounted,VariableSubsidies,0.0
+2035,District Energy,Undiscounted,FixedCosts,31682.641313916763
+2035,District Energy,Undiscounted,FixedSubsidies,0.0
+2035,District Energy,Undiscounted,InvestmentCosts,100876.01144843106
+2035,District Energy,Undiscounted,VariableCosts,3962.1049596154226
+2035,District Energy,Undiscounted,VariableSubsidies,0.0
+2035,Electricity energy,Discounted,FixedCosts,1362163.2244989942
+2035,Electricity energy,Discounted,FixedSubsidies,0.0
+2035,Electricity energy,Discounted,InvestmentCosts,2807062.2154526985
+2035,Electricity energy,Undiscounted,FixedCosts,2949805.4256981947
+2035,Electricity energy,Undiscounted,FixedSubsidies,0.0
+2035,Electricity energy,Undiscounted,InvestmentCosts,4325911.337151886
+2035,Freight transportation,Discounted,FixedCosts,401138.6909425353
+2035,Freight transportation,Discounted,FixedSubsidies,0.0
+2035,Freight transportation,Discounted,InvestmentCosts,9050784.27106017
+2035,Freight transportation,Undiscounted,FixedCosts,857511.8581285451
+2035,Freight transportation,Undiscounted,FixedSubsidies,0.0
+2035,Freight transportation,Undiscounted,InvestmentCosts,10821548.534286598
+2035,Industrial building,Discounted,InvestmentCosts,651136.4233313644
+2035,Industrial building,Undiscounted,InvestmentCosts,1003454.2234994305
+2035,Long distance transportation,Discounted,FixedCosts,1219.5440090223437
+2035,Long distance transportation,Discounted,FixedSubsidies,0.0
+2035,Long distance transportation,Discounted,InvestmentCosts,4004.805177140586
+2035,Long distance transportation,Undiscounted,FixedCosts,2644.598585442392
+2035,Long distance transportation,Undiscounted,FixedSubsidies,0.0
+2035,Long distance transportation,Undiscounted,InvestmentCosts,6171.730723853262
+2035,Passenger transportation,Discounted,FixedCosts,1890071.2757328334
+2035,Passenger transportation,Discounted,FixedSubsidies,0.0
+2035,Passenger transportation,Discounted,InvestmentCosts,16390944.843688749
+2035,Passenger transportation,Discounted,VariableCosts,440.1969803134708
+2035,Passenger transportation,Discounted,VariableSubsidies,0.0
+2035,Passenger transportation,Undiscounted,FixedCosts,4042830.2350168643
+2035,Passenger transportation,Undiscounted,FixedSubsidies,0.0
+2035,Passenger transportation,Undiscounted,InvestmentCosts,19260915.65039757
+2035,Passenger transportation,Undiscounted,VariableCosts,941.6252314732733
+2035,Passenger transportation,Undiscounted,VariableSubsidies,0.0
+2035,Public building,Discounted,FixedCosts,15307.481200407043
+2035,Public building,Discounted,FixedSubsidies,0.0
+2035,Public building,Discounted,InvestmentCosts,1028332.1717637046
+2035,Public building,Undiscounted,FixedCosts,32769.62523166746
+2035,Public building,Undiscounted,FixedSubsidies,0.0
+2035,Public building,Undiscounted,InvestmentCosts,1584743.5713045713
+2035,Public transportation,Discounted,FixedCosts,19278.50940143202
+2035,Public transportation,Discounted,FixedSubsidies,0.0
+2035,Public transportation,Discounted,InvestmentCosts,265597.1232364448
+2035,Public transportation,Undiscounted,FixedCosts,40824.521470170206
+2035,Public transportation,Undiscounted,FixedSubsidies,0.0
+2035,Public transportation,Undiscounted,InvestmentCosts,366567.8562736074
+2035,Residential building,Discounted,FixedCosts,86565.89796518418
+2035,Residential building,Discounted,FixedSubsidies,0.0
+2035,Residential building,Discounted,InvestmentCosts,11766977.66804827
+2035,Residential building,Undiscounted,FixedCosts,186307.70373266493
+2035,Residential building,Undiscounted,FixedSubsidies,0.0
+2035,Residential building,Undiscounted,InvestmentCosts,18133870.285455678
+2035,Solid waste,Discounted,FixedCosts,52955.359668723526
+2035,Solid waste,Discounted,FixedSubsidies,0.0
+2035,Solid waste,Discounted,InvestmentCosts,5042.654160067526
+2035,Solid waste,Undiscounted,FixedCosts,114069.17982262961
+2035,Solid waste,Undiscounted,FixedSubsidies,0.0
+2035,Solid waste,Undiscounted,InvestmentCosts,7771.14047572125
+2035,Charging Station Energy,Discounted,FixedCosts,1470862.0077328621
+2035,Charging Station Energy,Discounted,FixedSubsidies,0.0
+2035,Charging Station Energy,Discounted,InvestmentCosts,2237258.4032482277
+2035,Charging Station Energy,Undiscounted,FixedCosts,3104762.5849689343
+2035,Charging Station Energy,Undiscounted,FixedSubsidies,0.0
+2035,Charging Station Energy,Undiscounted,InvestmentCosts,3447797.286954333
+2035,Water waste,Discounted,FixedCosts,10268.970883953414
+2035,Water waste,Discounted,FixedSubsidies,0.0
+2035,Water waste,Discounted,InvestmentCosts,1964.783959821421
+2035,Water waste,Undiscounted,FixedCosts,22263.639138742994
+2035,Water waste,Undiscounted,FixedSubsidies,0.0
+2035,Water waste,Undiscounted,InvestmentCosts,3027.8919932934004
+2040,Commercial building,Discounted,FixedCosts,88451.86833483654
+2040,Commercial building,Discounted,FixedSubsidies,0.0
+2040,Commercial building,Discounted,InvestmentCosts,4880376.396785665
+2040,Commercial building,Undiscounted,FixedCosts,206926.24680405782
+2040,Commercial building,Undiscounted,FixedSubsidies,0.0
+2040,Commercial building,Undiscounted,InvestmentCosts,8718966.663778502
+2040,District Energy,Discounted,FixedCosts,22531.412160196884
+2040,District Energy,Discounted,FixedSubsidies,0.0
+2040,District Energy,Discounted,InvestmentCosts,96463.4643278471
+2040,District Energy,Discounted,VariableCosts,2939.4442243041467
+2040,District Energy,Discounted,VariableSubsidies,0.0
+2040,District Energy,Undiscounted,FixedCosts,52863.22035073624
+2040,District Energy,Undiscounted,FixedSubsidies,0.0
+2040,District Energy,Undiscounted,InvestmentCosts,172335.4227966983
+2040,District Energy,Undiscounted,VariableCosts,6805.9820633788295
+2040,District Energy,Undiscounted,VariableSubsidies,0.0
+2040,Electricity energy,Discounted,FixedCosts,227713.97185135394
+2040,Electricity energy,Discounted,FixedSubsidies,0.0
+2040,Electricity energy,Discounted,InvestmentCosts,1004962.8218210888
+2040,Electricity energy,Undiscounted,FixedCosts,532728.4454339911
+2040,Electricity energy,Undiscounted,FixedSubsidies,0.0
+2040,Electricity energy,Undiscounted,InvestmentCosts,1795401.9586616026
+2040,Freight transportation,Discounted,FixedCosts,144431.0442287459
+2040,Freight transportation,Discounted,FixedSubsidies,0.0
+2040,Freight transportation,Discounted,InvestmentCosts,3619092.216861614
+2040,Freight transportation,Undiscounted,FixedCosts,338615.4704687786
+2040,Freight transportation,Undiscounted,FixedSubsidies,0.0
+2040,Freight transportation,Undiscounted,InvestmentCosts,5236226.179789951
+2040,Industrial building,Discounted,InvestmentCosts,666307.0279770123
+2040,Industrial building,Undiscounted,InvestmentCosts,1190381.292844375
+2040,Long distance transportation,Discounted,FixedCosts,972.9487575112968
+2040,Long distance transportation,Discounted,FixedSubsidies,0.0
+2040,Long distance transportation,Discounted,InvestmentCosts,3183.9985724600115
+2040,Long distance transportation,Undiscounted,FixedCosts,2282.8317376177197
+2040,Long distance transportation,Undiscounted,FixedSubsidies,0.0
+2040,Long distance transportation,Undiscounted,InvestmentCosts,5688.327119416718
+2040,Passenger transportation,Discounted,FixedCosts,920379.1156820146
+2040,Passenger transportation,Discounted,FixedSubsidies,0.0
+2040,Passenger transportation,Discounted,InvestmentCosts,8513603.838029908
+2040,Passenger transportation,Discounted,VariableCosts,211.10046198912025
+2040,Passenger transportation,Discounted,VariableSubsidies,0.0
+2040,Passenger transportation,Undiscounted,FixedCosts,2159437.48269157
+2040,Passenger transportation,Undiscounted,FixedSubsidies,0.0
+2040,Passenger transportation,Undiscounted,InvestmentCosts,11579051.026072336
+2040,Passenger transportation,Undiscounted,VariableCosts,495.30494386238365
+2040,Passenger transportation,Undiscounted,VariableSubsidies,0.0
+2040,Public building,Discounted,FixedCosts,17410.05930828132
+2040,Public building,Discounted,FixedSubsidies,0.0
+2040,Public building,Discounted,InvestmentCosts,1185467.0278062648
+2040,Public building,Undiscounted,FixedCosts,40745.297155495966
+2040,Public building,Undiscounted,FixedSubsidies,0.0
+2040,Public building,Undiscounted,InvestmentCosts,2117879.1667091423
+2040,Public transportation,Discounted,FixedCosts,11475.505281514354
+2040,Public transportation,Discounted,FixedSubsidies,0.0
+2040,Public transportation,Discounted,InvestmentCosts,152183.19228882223
+2040,Public transportation,Undiscounted,FixedCosts,26828.148031391855
+2040,Public transportation,Undiscounted,FixedSubsidies,0.0
+2040,Public transportation,Undiscounted,InvestmentCosts,270331.9435424387
+2040,Residential building,Discounted,FixedCosts,75590.45691986593
+2040,Residential building,Discounted,FixedSubsidies,0.0
+2040,Residential building,Discounted,InvestmentCosts,7329902.86139678
+2040,Residential building,Undiscounted,FixedCosts,177358.0497282165
+2040,Residential building,Undiscounted,FixedSubsidies,0.0
+2040,Residential building,Undiscounted,InvestmentCosts,13095133.141645642
+2040,Solid waste,Discounted,FixedCosts,728.0452903768407
+2040,Solid waste,Discounted,FixedSubsidies,0.0
+2040,Solid waste,Discounted,InvestmentCosts,551.9228788155995
+2040,Solid waste,Undiscounted,FixedCosts,1706.4410764672027
+2040,Solid waste,Undiscounted,FixedSubsidies,0.0
+2040,Solid waste,Undiscounted,InvestmentCosts,986.0299268186154
+2040,Charging Station Energy,Discounted,FixedCosts,729643.9846289844
+2040,Charging Station Energy,Discounted,FixedSubsidies,0.0
+2040,Charging Station Energy,Discounted,InvestmentCosts,904943.6405239798
+2040,Charging Station Energy,Undiscounted,FixedCosts,1695418.4844129235
+2040,Charging Station Energy,Undiscounted,FixedSubsidies,0.0
+2040,Charging Station Energy,Undiscounted,InvestmentCosts,1616714.120559141
+2040,Water waste,Discounted,FixedCosts,6509.8595887575375
+2040,Water waste,Discounted,FixedSubsidies,0.0
+2040,Water waste,Discounted,InvestmentCosts,1305.369465288209
+2040,Water waste,Undiscounted,FixedCosts,15270.389244316682
+2040,Water waste,Undiscounted,FixedSubsidies,0.0
+2040,Water waste,Undiscounted,InvestmentCosts,2332.0891518241024
+2045,Commercial building,Discounted,FixedCosts,19913.100464000243
+2045,Commercial building,Discounted,FixedSubsidies,0.0
+2045,Commercial building,Discounted,InvestmentCosts,1787086.895755276
+2045,Commercial building,Undiscounted,FixedCosts,50461.27773033574
+2045,Commercial building,Undiscounted,FixedSubsidies,0.0
+2045,Commercial building,Undiscounted,InvestmentCosts,3701208.006004199
+2045,District Energy,Discounted,FixedCosts,21573.200366112258
+2045,District Energy,Discounted,FixedSubsidies,0.0
+2045,District Energy,Discounted,InvestmentCosts,57079.09997288544
+2045,District Energy,Discounted,VariableCosts,1687.500177519738
+2045,District Energy,Discounted,VariableSubsidies,0.0
+2045,District Energy,Undiscounted,FixedCosts,54666.791919276824
+2045,District Energy,Undiscounted,FixedSubsidies,0.0
+2045,District Energy,Undiscounted,InvestmentCosts,118215.64037929566
+2045,District Energy,Undiscounted,VariableCosts,4256.768862265008
+2045,District Energy,Undiscounted,VariableSubsidies,0.0
+2045,Electricity energy,Discounted,FixedCosts,14525.401781800017
+2045,Electricity energy,Discounted,FixedSubsidies,0.0
+2045,Electricity energy,Discounted,InvestmentCosts,27612.047022040813
+2045,Electricity energy,Undiscounted,FixedCosts,36788.4590797392
+2045,Electricity energy,Undiscounted,FixedSubsidies,0.0
+2045,Electricity energy,Undiscounted,InvestmentCosts,57186.88315765977
+2045,Freight transportation,Discounted,FixedCosts,72781.39237651046
+2045,Freight transportation,Discounted,FixedSubsidies,0.0
+2045,Freight transportation,Discounted,InvestmentCosts,1654658.507542945
+2045,Freight transportation,Undiscounted,FixedCosts,184433.46182836755
+2045,Freight transportation,Undiscounted,FixedSubsidies,0.0
+2045,Freight transportation,Undiscounted,InvestmentCosts,2682820.970933396
+2045,Industrial building,Discounted,InvestmentCosts,541944.2356130341
+2045,Industrial building,Undiscounted,InvestmentCosts,1122412.3171755767
+2045,Long distance transportation,Discounted,FixedCosts,1734.3427173796224
+2045,Long distance transportation,Discounted,FixedSubsidies,0.0
+2045,Long distance transportation,Discounted,InvestmentCosts,5565.979421350714
+2045,Long distance transportation,Undiscounted,FixedCosts,4394.953447831776
+2045,Long distance transportation,Undiscounted,FixedSubsidies,0.0
+2045,Long distance transportation,Undiscounted,InvestmentCosts,11527.613819165384
+2045,Passenger transportation,Discounted,FixedCosts,215996.10924798783
+2045,Passenger transportation,Discounted,FixedSubsidies,0.0
+2045,Passenger transportation,Discounted,InvestmentCosts,900997.6780998184
+2045,Passenger transportation,Discounted,VariableCosts,133.95519275658486
+2045,Passenger transportation,Discounted,VariableSubsidies,0.0
+2045,Passenger transportation,Undiscounted,FixedCosts,547350.2068218426
+2045,Passenger transportation,Undiscounted,FixedSubsidies,0.0
+2045,Passenger transportation,Undiscounted,InvestmentCosts,1698798.42723479
+2045,Passenger transportation,Undiscounted,VariableCosts,339.4521847243983
+2045,Passenger transportation,Undiscounted,VariableSubsidies,0.0
+2045,Public building,Discounted,FixedCosts,1822.4469675028658
+2045,Public building,Discounted,FixedSubsidies,0.0
+2045,Public building,Discounted,InvestmentCosts,531523.0431377784
+2045,Public building,Undiscounted,FixedCosts,4618.21617091849
+2045,Public building,Undiscounted,FixedSubsidies,0.0
+2045,Public building,Undiscounted,InvestmentCosts,1100829.146758324
+2045,Public transportation,Discounted,FixedCosts,7974.321929893793
+2045,Public transportation,Discounted,FixedSubsidies,0.0
+2045,Public transportation,Discounted,InvestmentCosts,98509.72326152143
+2045,Public transportation,Undiscounted,FixedCosts,20207.52490768296
+2045,Public transportation,Undiscounted,FixedSubsidies,0.0
+2045,Public transportation,Undiscounted,InvestmentCosts,201243.46746604386
+2045,Residential building,Discounted,FixedCosts,19055.53461241377
+2045,Residential building,Discounted,FixedSubsidies,0.0
+2045,Residential building,Discounted,InvestmentCosts,3341493.3204289675
+2045,Residential building,Undiscounted,FixedCosts,48288.14207588608
+2045,Residential building,Undiscounted,FixedSubsidies,0.0
+2045,Residential building,Undiscounted,InvestmentCosts,6920515.090204583
+2045,Solid waste,Discounted,FixedCosts,26739.83483834712
+2045,Solid waste,Discounted,FixedSubsidies,0.0
+2045,Solid waste,Discounted,InvestmentCosts,4465.387022558569
+2045,Solid waste,Undiscounted,FixedCosts,67727.03641106957
+2045,Solid waste,Undiscounted,FixedSubsidies,0.0
+2045,Solid waste,Undiscounted,InvestmentCosts,9248.193939006023
+2045,Charging Station Energy,Discounted,FixedCosts,191302.32405617455
+2045,Charging Station Energy,Discounted,FixedSubsidies,0.0
+2045,Charging Station Energy,Discounted,InvestmentCosts,314186.05236362264
+2045,Charging Station Energy,Undiscounted,FixedCosts,483847.0665727752
+2045,Charging Station Energy,Undiscounted,FixedSubsidies,0.0
+2045,Charging Station Energy,Undiscounted,InvestmentCosts,650705.8695048133
+2045,Water waste,Discounted,FixedCosts,4225.039150871414
+2045,Water waste,Discounted,FixedSubsidies,0.0
+2045,Water waste,Discounted,InvestmentCosts,933.9889048079252
+2045,Water waste,Undiscounted,FixedCosts,10704.932451672046
+2045,Water waste,Undiscounted,FixedSubsidies,0.0
+2045,Water waste,Undiscounted,InvestmentCosts,1934.3699627617732
+2050,Commercial building,Discounted,FixedCosts,2417.661067691026
+2050,Commercial building,Discounted,FixedSubsidies,0.0
+2050,Commercial building,Discounted,InvestmentCosts,296730.94715252396
+2050,Commercial building,Undiscounted,FixedCosts,6604.821073564617
+2050,Commercial building,Undiscounted,FixedSubsidies,0.0
+2050,Commercial building,Undiscounted,InvestmentCosts,712437.5295376198
+2050,District Energy,Discounted,FixedCosts,4918.724066172699
+2050,District Energy,Discounted,FixedSubsidies,0.0
+2050,District Energy,Discounted,InvestmentCosts,10508.554724639429
+2050,District Energy,Discounted,VariableCosts,310.16483089573296
+2050,District Energy,Discounted,VariableSubsidies,0.0
+2050,District Energy,Undiscounted,FixedCosts,13437.488323511674
+2050,District Energy,Undiscounted,FixedSubsidies,0.0
+2050,District Energy,Undiscounted,InvestmentCosts,25230.562699564725
+2050,District Energy,Undiscounted,VariableCosts,847.3409440038806
+2050,District Energy,Undiscounted,VariableSubsidies,0.0
+2050,Electricity energy,Discounted,FixedCosts,3031.3503760891795
+2050,Electricity energy,Discounted,FixedSubsidies,0.0
+2050,Electricity energy,Discounted,InvestmentCosts,2913.3662896985898
+2050,Electricity energy,Undiscounted,FixedCosts,8281.362144973153
+2050,Electricity energy,Undiscounted,FixedSubsidies,0.0
+2050,Electricity energy,Undiscounted,InvestmentCosts,6994.860165374517
+2050,Freight transportation,Discounted,FixedCosts,22073.881788095037
+2050,Freight transportation,Discounted,FixedSubsidies,0.0
+2050,Freight transportation,Discounted,InvestmentCosts,494196.13997508166
+2050,Freight transportation,Undiscounted,FixedCosts,60303.75454927773
+2050,Freight transportation,Undiscounted,FixedSubsidies,0.0
+2050,Freight transportation,Undiscounted,InvestmentCosts,934749.9772711768
+2050,Industrial building,Discounted,InvestmentCosts,134938.71500073955
+2050,Industrial building,Undiscounted,InvestmentCosts,323981.7271391402
+2050,Long distance transportation,Discounted,FixedCosts,602.7644886806539
+2050,Long distance transportation,Discounted,FixedSubsidies,0.0
+2050,Long distance transportation,Discounted,InvestmentCosts,1944.049551454976
+2050,Long distance transportation,Undiscounted,FixedCosts,1646.6954985698483
+2050,Long distance transportation,Undiscounted,FixedSubsidies,0.0
+2050,Long distance transportation,Undiscounted,InvestmentCosts,4667.574693600735
+2050,Passenger transportation,Discounted,FixedCosts,104373.82820074914
+2050,Passenger transportation,Discounted,FixedSubsidies,0.0
+2050,Passenger transportation,Discounted,InvestmentCosts,752852.60554764
+2050,Passenger transportation,Discounted,VariableCosts,30.242255272514928
+2050,Passenger transportation,Discounted,VariableSubsidies,0.0
+2050,Passenger transportation,Undiscounted,FixedCosts,285139.41397389537
+2050,Passenger transportation,Undiscounted,FixedSubsidies,0.0
+2050,Passenger transportation,Undiscounted,InvestmentCosts,1407007.1038048468
+2050,Passenger transportation,Undiscounted,VariableCosts,82.618977327038
+2050,Passenger transportation,Undiscounted,VariableSubsidies,0.0
+2050,Public building,Discounted,FixedCosts,516.7070401346075
+2050,Public building,Discounted,FixedSubsidies,0.0
+2050,Public building,Discounted,InvestmentCosts,86339.83057025337
+2050,Public building,Undiscounted,FixedCosts,1411.5946991691383
+2050,Public building,Undiscounted,FixedSubsidies,0.0
+2050,Public building,Undiscounted,InvestmentCosts,207298.0125006978
+2050,Public transportation,Discounted,FixedCosts,2185.8943291005476
+2050,Public transportation,Discounted,FixedSubsidies,0.0
+2050,Public transportation,Discounted,InvestmentCosts,30802.32623608994
+2050,Public transportation,Undiscounted,FixedCosts,5971.656293087058
+2050,Public transportation,Undiscounted,FixedSubsidies,0.0
+2050,Public transportation,Undiscounted,InvestmentCosts,64478.59394488268
+2050,Residential building,Discounted,FixedCosts,2168.198344101938
+2050,Residential building,Discounted,FixedSubsidies,0.0
+2050,Residential building,Discounted,InvestmentCosts,468895.46520246053
+2050,Residential building,Undiscounted,FixedCosts,5923.312537960159
+2050,Residential building,Undiscounted,FixedSubsidies,0.0
+2050,Residential building,Undiscounted,InvestmentCosts,1125796.7193712434
+2050,Solid waste,Discounted,FixedCosts,153.66617051461424
+2050,Solid waste,Discounted,FixedSubsidies,0.0
+2050,Solid waste,Discounted,InvestmentCosts,150.96442821021037
+2050,Solid waste,Undiscounted,FixedCosts,419.80142496905427
+2050,Solid waste,Undiscounted,FixedSubsidies,0.0
+2050,Solid waste,Undiscounted,InvestmentCosts,362.4587368261855
+2050,Charging Station Energy,Discounted,FixedCosts,50512.86605931245
+2050,Charging Station Energy,Discounted,FixedSubsidies,0.0
+2050,Charging Station Energy,Discounted,InvestmentCosts,88482.91742544156
+2050,Charging Station Energy,Undiscounted,FixedCosts,137996.36627863802
+2050,Charging Station Energy,Undiscounted,FixedSubsidies,0.0
+2050,Charging Station Energy,Undiscounted,InvestmentCosts,212443.4667222625
+2050,Water waste,Discounted,FixedCosts,618.6037193548275
+2050,Water waste,Discounted,FixedSubsidies,0.0
+2050,Water waste,Discounted,InvestmentCosts,121.78446541193537
+2050,Water waste,Undiscounted,FixedCosts,1689.9667767253688
+2050,Water waste,Undiscounted,FixedSubsidies,0.0
+2050,Water waste,Undiscounted,InvestmentCosts,292.3989712119273

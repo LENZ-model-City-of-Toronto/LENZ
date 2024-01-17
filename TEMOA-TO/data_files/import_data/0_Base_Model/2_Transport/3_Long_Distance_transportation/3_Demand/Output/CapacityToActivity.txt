@@ -1,0 +1,10 @@
+INSERT INTO`CapacityToActivity`VALUES('TO','LDITRADOMROACAR___',1,'Long DistanceTransportationDomesticRoadCars');
+INSERT INTO`CapacityToActivity`VALUES('TO','LDITRADOMROATRULGT',1,'Long DistanceTransportationDomesticRoadTruckPassenger Light Trucks');
+INSERT INTO`CapacityToActivity`VALUES('TO','LDITRADOMROABUSIUB',1,'Long DistanceTransportationDomesticRoadInter-city BusesInter Urban Bus');
+INSERT INTO`CapacityToActivity`VALUES('TO','LDITRADOMAIR______',1,'Long DistanceTransportationDomesticAir');
+INSERT INTO`CapacityToActivity`VALUES('TO','LDITRADOMRAI______',1,'Long DistanceTransportationDomesticRail');
+INSERT INTO`CapacityToActivity`VALUES('TO','LDITRAINTROACAR___',1,'Long DistanceTransportationInternationalRoadCars');
+INSERT INTO`CapacityToActivity`VALUES('TO','LDITRAINTROATRULGT',1,'Long DistanceTransportationInternationalRoadTruckPassenger Light Trucks');
+INSERT INTO`CapacityToActivity`VALUES('TO','LDITRAINTROABUSIUB',1,'Long DistanceTransportationInternationalRoadInter-city BusesInter Urban Bus');
+INSERT INTO`CapacityToActivity`VALUES('TO','LDITRAINTAIR______',1,'Long DistanceTransportationInternationalAir');
+INSERT INTO`CapacityToActivity`VALUES('TO','LDITRAINTRAI______',1,'Long DistanceTransportationInternationalRail');

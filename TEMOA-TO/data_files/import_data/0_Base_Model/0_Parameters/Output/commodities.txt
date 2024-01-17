@@ -1,0 +1,4 @@
+INSERT INTO`commodities`VALUES('CO2e','e','nan');
+INSERT INTO`commodities`VALUES('CO2','e','nan');
+INSERT INTO`commodities`VALUES('N2O','e','nan');
+INSERT INTO`commodities`VALUES('CH4','e','nan');

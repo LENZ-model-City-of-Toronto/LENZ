@@ -1,0 +1,5 @@
+INSERT INTO`commodities`VALUES('PUBBDGWIN','p','PublicBuildingWind');
+INSERT INTO`commodities`VALUES('COMBDGWIN','p','CommercialBuildingWind');
+INSERT INTO`commodities`VALUES('RESBDGWIN','p','ResidentialBuildingWind');
+INSERT INTO`commodities`VALUES('INDBDGSOL','p','IndustrialBuildingSolar');
+INSERT INTO`commodities`VALUES('INDBDGWIN','p','IndustrialBuildingWind');

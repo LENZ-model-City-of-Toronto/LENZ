@@ -1,0 +1,7 @@
+regions,input_comm,tech,vintage,output_comm,efficiency,eff_notes
+TO,VKTFRETRAROATRULGT,FRETRAROATRULGT,2015.0,ADEMFRETRAROATRULGT,0.5566667882844961,Freight TransportationTransportationRoadTruckPassenger Light Trucks
+TO,VKTFRETRAROATRUMET,FRETRAROATRUMET,2015.0,ADEMFRETRAROATRUMET,1.2599999994187048,Freight TransportationTransportationRoadTruckMedium Trucks
+TO,VKTFRETRAROATRUHET,FRETRAROATRUHET,2015.0,ADEMFRETRAROATRUHET,7.993156397837135,Freight TransportationTransportationRoadTruckHeavy Trucks
+TO,VKTFRETRAAIR______,FRETRAAIR______,2015.0,ADEMFRETRAAIR______,10.2,Freight TransportationTransportationAir
+TO,VKTFRETRARAI______,FRETRARAI______,2015.0,ADEMFRETRARAI______,9041.18694362018,Freight TransportationTransportationRail
+TO,VKTFRETRAMAR______,FRETRAMAR______,2015.0,ADEMFRETRAMAR______,11639.968944099379,Freight TransportationTransportationMarine

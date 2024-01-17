@@ -1,0 +1,15 @@
+INSERT INTO`commodities`VALUES('SEESLDWASLDFGLBUPPUBSTDMENE','p','SecondaryEnergySolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency');
+INSERT INTO`commodities`VALUES('BGASLDWASLDFBWCAP','p','Biogas flowSolidWasteLandfillBrock WestCapture');
+INSERT INTO`commodities`VALUES('SEESLDWASLDFBWBUPPUBSTDMENE','p','SecondaryEnergySolidWasteLandfillGreen LaneBiogas upgradePublicStandard EfficiencySolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency');
+INSERT INTO`commodities`VALUES('SEESLDWASLDFKVBUPPUBSTDMENE','p','SecondaryEnergySolidWasteLandfillGreen LaneBiogas upgradePublicStandard EfficiencySolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency');
+INSERT INTO`commodities`VALUES('SEESLDWASLDFBRBUPPUBSTDMENE','p','SecondaryEnergySolidWasteLandfillGreen LaneBiogas upgradePublicStandard EfficiencySolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency');
+INSERT INTO`commodities`VALUES('BGASLDWASLDFTKCAP','p','Biogas flowSolidWasteLandfillThackerayCapture');
+INSERT INTO`commodities`VALUES('SEESLDWASLDFTKBUPPUBSTDMENE','p','SecondaryEnergySolidWasteLandfillGreen LaneBiogas upgradePublicStandard EfficiencySolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency');
+INSERT INTO`commodities`VALUES('SEESLDWASLDFAHBUPPUBSTDMENE','p','SecondaryEnergySolidWasteLandfillGreen LaneBiogas upgradePublicStandard EfficiencySolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency');
+INSERT INTO`commodities`VALUES('SEESLDWASLDFCFBUPPUBSTDMENE','p','SecondaryEnergySolidWasteLandfillGreen LaneBiogas upgradePublicStandard EfficiencySolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency');
+INSERT INTO`commodities`VALUES('BGASLDWASGRBCPCAP','p','Biogas flowSolidWasteGreen BinCompostCapture');
+INSERT INTO`commodities`VALUES('SEESLDWASGRBCPBUPPUBSTDMENE','p','SecondaryEnergySolidWasteLandfillGreen LaneBiogas upgradePublicStandard EfficiencySolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency');
+INSERT INTO`commodities`VALUES('SEESLDWASGRBDRGASERKSTD','p','SecondaryEnergySolidWasteLandfillGreen LaneBiogas upgradePublicStandard EfficiencySolidWasteGreen BinDisco RoadGasificationEnerkemStandard Efficiency');
+INSERT INTO`commodities`VALUES('SEESLDWASGRBDRADIPUBSTD','p','SecondaryEnergySolidWasteLandfillGreen LaneBiogas upgradePublicStandard EfficiencySolidWasteGreen BinDisco RoadAnaerobic DigesterPublicStandard Efficiency');
+INSERT INTO`commodities`VALUES('SEESLDWASGRBDFGASERKSTD','p','SecondaryEnergySolidWasteLandfillGreen LaneBiogas upgradePublicStandard EfficiencySolidWasteGreen BinDufferinGasificationEnerkemStandard Efficiency');
+INSERT INTO`commodities`VALUES('SEESLDWASGRBDFADIPUBSTD','p','SecondaryEnergySolidWasteLandfillGreen LaneBiogas upgradePublicStandard EfficiencySolidWasteGreen BinDufferinAnaerobic DigesterPublicStandard Efficiency');

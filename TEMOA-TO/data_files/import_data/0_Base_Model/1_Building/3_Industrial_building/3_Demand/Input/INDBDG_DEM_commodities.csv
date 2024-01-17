@@ -1,0 +1,37 @@
+comm_name,flag,comm_desc
+ADEMINDBDGLI,d,Aggregated DemandIndustryBuildingLighting
+ADEMINDBDGSC,d,Aggregated DemandIndustryBuildingSpace Cooling
+ADEMINDBDGIP,d,Aggregated DemandIndustryBuildingIndustrial Processes
+ADEMINDBDGSH,d,Aggregated DemandIndustryBuildingSpace Heating
+ADEMINDBDGWH,d,Aggregated DemandIndustryBuildingWater Heating
+EUEINDBDGLISEP,p,End Use EnergyIndustrialBuildingLightingSelf produced
+EUEINDBDGSCSEP,p,End Use EnergyIndustrialBuildingSpace CoolingSelf produced
+EUEINDBDGSCDCO,p,End Use EnergyIndustrialBuildingSpace CoolingDistrict cooling
+EUEINDBDGIPSEP,p,End Use EnergyIndustrialBuildingIndustrial ProcessesSelf produced
+EUEINDBDGSHSEP,p,End Use EnergyIndustrialBuildingSpace HeatingSelf produced
+EUEINDBDGSHDHE,p,End Use EnergyIndustrialBuildingSpace HeatingDistrict Heating
+EUEINDBDGWHSEP,p,End Use EnergyIndustrialBuildingWater HeatingSelf produced
+EUEINDBDGWHDHE,p,End Use EnergyIndustrialBuildingWater HeatingDistrict Heating
+EUEINDBDGLIRET,p,End Use EnergyIndustrialBuildingLightingRetrofit
+EUEINDBDGSCRET,p,End Use EnergyIndustrialBuildingSpace CoolingRetrofit
+EUEINDBDGIPRET,p,End Use EnergyIndustrialBuildingIndustrial ProcessesRetrofit
+EUEINDBDGSHRET,p,End Use EnergyIndustrialBuildingSpace HeatingRetrofit
+EUEINDBDGWHRET,p,End Use EnergyIndustrialBuildingWater HeatingRetrofit
+INDBDGELC,p,Industrial BuildingElectricity
+INDBDGNGA,p,Industrial BuildingNatural Gas
+INDBDGDCO,p,Industrial BuildingDistrict Cooling
+INDBDGDHE,p,Industrial BuildingDistrict Heating
+INDBDGBMTN,p,Industrial BuildingBio Methane
+INDBDGHH2,p,Industrial BuildingHydrogen
+INDBDGLFO,p,Industrial BuildingLight Fuel Oil
+INDBDGHFO,p,Industrial BuildingHeavy Fuel Oil
+INDBDGPCOK,p,Industrial BuildingPet Coke
+INDBDGPRO,p,Industrial BuildingPropane
+INDBDGCOA,p,Industrial BuildingCoal
+INDBDGCOK,p,Industrial BuildingCoke
+INDBDGBMA,p,Industrial BuildingBiomass
+INDBDGMENE,p,Industrial BuildingMix Energy
+INDBDGWAH,p,Industrial BuildingWaste Heat
+WHEINDBDGIPSEP,p,Waste Heat EnergyIndustria BuildingIndustrial ProcessSelf Produced Energy
+INDBDGRET,p,IndustrialBuildingRetrofit
+INDBDGETHOS,p,IndustrialBuildingDummy

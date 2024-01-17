@@ -1,0 +1,10 @@
+INSERT INTO`CapacityToActivity`VALUES('TO','WATWASFWSPL',1,'WaterWasteSplitFresh water');
+INSERT INTO`CapacityToActivity`VALUES('TO','WATWASCOLRW',1,'WaterWasteRain collectionRain water');
+INSERT INTO`CapacityToActivity`VALUES('TO','WATWASSEWWW',1,'WaterWasteSewer CollectionFresh water');
+INSERT INTO`CapacityToActivity`VALUES('TO','WATWASPUMWW',1,'WaterWastePumpWaste water');
+INSERT INTO`CapacityToActivity`VALUES('TO','WATWASGRIWW',1,'WaterWasteGridWaste water');
+INSERT INTO`CapacityToActivity`VALUES('TO','WATWASSTPWW',1,'WaterWasteSplit Treatment PlantWaste water');
+INSERT INTO`CapacityToActivity`VALUES('TO','WATWASPUMFW',1,'WaterWastePumpFresh water');
+INSERT INTO`CapacityToActivity`VALUES('TO','WATWASGRIFW',1,'WaterWasteGridFresh water');
+INSERT INTO`CapacityToActivity`VALUES('TO','WATWASSTPFW',1,'WaterWasteSplit Treatment PlantFresh water');
+INSERT INTO`CapacityToActivity`VALUES('TO','TOWATWASETHOS',1,0);

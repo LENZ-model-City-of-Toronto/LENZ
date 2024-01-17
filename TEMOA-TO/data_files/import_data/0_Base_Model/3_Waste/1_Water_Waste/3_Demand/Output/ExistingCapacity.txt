@@ -1,0 +1,10 @@
+INSERT INTO`ExistingCapacity`VALUES('TO','WATWASFWSPL',2015,10000000000,'Mm3','WaterWasteSplitFresh water');
+INSERT INTO`ExistingCapacity`VALUES('TO','WATWASCOLRW',2015,10000000000,'TJ','WaterWasteRain collectionRain water');
+INSERT INTO`ExistingCapacity`VALUES('TO','WATWASSEWWW',2015,10000000000,'TJ','WaterWasteSewer CollectionFresh water');
+INSERT INTO`ExistingCapacity`VALUES('TO','WATWASPUMWW',2015,10000000000,'TJ','WaterWastePumpWaste water');
+INSERT INTO`ExistingCapacity`VALUES('TO','WATWASGRIWW',2015,10000000000,'TJ','WaterWasteGridWaste water');
+INSERT INTO`ExistingCapacity`VALUES('TO','WATWASSTPWW',2015,10000000000,'TJ','WaterWasteSplit Treatment PlantWaste water');
+INSERT INTO`ExistingCapacity`VALUES('TO','WATWASPUMFW',2015,10000000000,'Mm3','WaterWastePumpFresh water');
+INSERT INTO`ExistingCapacity`VALUES('TO','WATWASGRIFW',2015,10000000000,'TJ','WaterWasteGridFresh water');
+INSERT INTO`ExistingCapacity`VALUES('TO','WATWASSTPFW',2015,10000000000,'TJ','WaterWasteSplit Treatment PlantFresh water');
+INSERT INTO`ExistingCapacity`VALUES('TO','TOWATWASETHOS',2015,10000000000,'TJ',0);

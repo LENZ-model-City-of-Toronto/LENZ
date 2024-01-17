@@ -1,0 +1,6 @@
+regions,tech,c2a,c2a_notes
+TO,INDBDGLI,1,IndustryBuildingLighting
+TO,INDBDGSC,1,IndustryBuildingSpace Cooling
+TO,INDBDGIP,1,IndustryBuildingIndustrial Processes
+TO,INDBDGSH,1,IndustryBuildingSpace Heating
+TO,INDBDGWH,1,IndustryBuildingWater Heating

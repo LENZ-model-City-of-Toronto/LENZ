@@ -1,0 +1,11 @@
+regions,tech,vintage,exist_cap,exist_cap_units,exist_cap_notes
+TO,WATWASFWSPL,2015,10000000000,Mm3,WaterWasteSplitFresh water
+TO,WATWASCOLRW,2015,10000000000,TJ,WaterWasteRain collectionRain water
+TO,WATWASSEWWW,2015,10000000000,TJ,WaterWasteSewer CollectionFresh water
+TO,WATWASPUMWW,2015,10000000000,TJ,WaterWastePumpWaste water
+TO,WATWASGRIWW,2015,10000000000,TJ,WaterWasteGridWaste water
+TO,WATWASSTPWW,2015,10000000000,TJ,WaterWasteSplit Treatment PlantWaste water
+TO,WATWASPUMFW,2015,10000000000,Mm3,WaterWastePumpFresh water
+TO,WATWASGRIFW,2015,10000000000,TJ,WaterWasteGridFresh water
+TO,WATWASSTPFW,2015,10000000000,TJ,WaterWasteSplit Treatment PlantFresh water
+TO,TOWATWASETHOS,2015,10000000000,TJ,0

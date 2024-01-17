@@ -1,0 +1,6 @@
+regions,tech,vintage,exist_cap,exist_cap_units,exist_cap_notes
+TO,INDBDGLI,2015,10000000000,,IndustryBuildingLighting
+TO,INDBDGSC,2015,10000000000,,IndustryBuildingSpace Cooling
+TO,INDBDGIP,2015,10000000000,,IndustryBuildingIndustrial Processes
+TO,INDBDGSH,2015,10000000000,,IndustryBuildingSpace Heating
+TO,INDBDGWH,2015,10000000000,,IndustryBuildingWater Heating

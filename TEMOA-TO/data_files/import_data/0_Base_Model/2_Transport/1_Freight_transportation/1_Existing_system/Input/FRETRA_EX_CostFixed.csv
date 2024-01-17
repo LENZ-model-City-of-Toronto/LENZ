@@ -1,0 +1,1145 @@
+regions,periods,tech,vintage,cost_fixed,cost_fixed_units,cost_fixed_notes
+TO,2016,FRETRAROATRULGTCONVGAS_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline
+TO,2016,FRETRAROATRULGTCONVPRO_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane
+TO,2016,FRETRAROATRULGTCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel
+TO,2016,FRETRAROATRUMETCONVGAS_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline
+TO,2016,FRETRAROATRUMETCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel
+TO,2016,FRETRAROATRUHETCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel
+TO,2016,FRETRAAIR_________ATF_EX,2015,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2016,FRETRAAIR_________AGA_EX,2015,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2016,FRETRARAI_________DSL_EX,2015,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2016,FRETRAMAR_________ALL_EX,2015,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2017,FRETRAROATRULGTCONVGAS_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline
+TO,2017,FRETRAROATRULGTCONVPRO_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane
+TO,2017,FRETRAROATRULGTCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel
+TO,2017,FRETRAROATRUMETCONVGAS_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline
+TO,2017,FRETRAROATRUMETCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel
+TO,2017,FRETRAROATRUHETCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel
+TO,2017,FRETRAAIR_________ATF_EX,2015,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2017,FRETRAAIR_________AGA_EX,2015,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2017,FRETRARAI_________DSL_EX,2015,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2017,FRETRAMAR_________ALL_EX,2015,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2018,FRETRAROATRULGTCONVGAS_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline
+TO,2018,FRETRAROATRULGTCONVPRO_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane
+TO,2018,FRETRAROATRULGTCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel
+TO,2018,FRETRAROATRUMETCONVGAS_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline
+TO,2018,FRETRAROATRUMETCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel
+TO,2018,FRETRAROATRUHETCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel
+TO,2018,FRETRAAIR_________ATF_EX,2015,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2018,FRETRAAIR_________AGA_EX,2015,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2018,FRETRARAI_________DSL_EX,2015,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2018,FRETRAMAR_________ALL_EX,2015,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2019,FRETRAROATRULGTCONVGAS_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline
+TO,2019,FRETRAROATRULGTCONVPRO_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane
+TO,2019,FRETRAROATRULGTCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel
+TO,2019,FRETRAROATRUMETCONVGAS_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline
+TO,2019,FRETRAROATRUMETCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel
+TO,2019,FRETRAROATRUHETCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel
+TO,2019,FRETRAAIR_________ATF_EX,2015,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2019,FRETRAAIR_________AGA_EX,2015,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2019,FRETRARAI_________DSL_EX,2015,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2019,FRETRAMAR_________ALL_EX,2015,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2020,FRETRAROATRULGTCONVGAS_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline
+TO,2020,FRETRAROATRULGTCONVPRO_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane
+TO,2020,FRETRAROATRULGTCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel
+TO,2020,FRETRAROATRUMETCONVGAS_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline
+TO,2020,FRETRAROATRUMETCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel
+TO,2020,FRETRAROATRUHETCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel
+TO,2020,FRETRAAIR_________ATF_EX,2015,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2020,FRETRAAIR_________AGA_EX,2015,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2020,FRETRARAI_________DSL_EX,2015,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2020,FRETRAMAR_________ALL_EX,2015,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2021,FRETRAROATRULGTCONVGAS_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline
+TO,2021,FRETRAROATRULGTCONVPRO_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane
+TO,2021,FRETRAROATRULGTCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel
+TO,2021,FRETRAROATRUMETCONVGAS_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline
+TO,2021,FRETRAROATRUMETCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel
+TO,2021,FRETRAROATRUHETCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel
+TO,2021,FRETRAAIR_________ATF_EX,2015,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2021,FRETRAAIR_________AGA_EX,2015,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2021,FRETRARAI_________DSL_EX,2015,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2021,FRETRAMAR_________ALL_EX,2015,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2022,FRETRAROATRULGTCONVGAS_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline
+TO,2022,FRETRAROATRULGTCONVPRO_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane
+TO,2022,FRETRAROATRULGTCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel
+TO,2022,FRETRAROATRUMETCONVGAS_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline
+TO,2022,FRETRAROATRUMETCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel
+TO,2022,FRETRAROATRUHETCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel
+TO,2022,FRETRAAIR_________ATF_EX,2015,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2022,FRETRAAIR_________AGA_EX,2015,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2022,FRETRARAI_________DSL_EX,2015,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2022,FRETRAMAR_________ALL_EX,2015,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2023,FRETRAROATRULGTCONVGAS_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline
+TO,2023,FRETRAROATRULGTCONVPRO_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane
+TO,2023,FRETRAROATRULGTCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel
+TO,2023,FRETRAROATRUMETCONVGAS_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline
+TO,2023,FRETRAROATRUMETCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel
+TO,2023,FRETRAROATRUHETCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel
+TO,2023,FRETRAAIR_________ATF_EX,2015,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2023,FRETRAAIR_________AGA_EX,2015,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2023,FRETRARAI_________DSL_EX,2015,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2023,FRETRAMAR_________ALL_EX,2015,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2024,FRETRAROATRULGTCONVGAS_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline
+TO,2024,FRETRAROATRULGTCONVPRO_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane
+TO,2024,FRETRAROATRULGTCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel
+TO,2024,FRETRAROATRUMETCONVGAS_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline
+TO,2024,FRETRAROATRUMETCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel
+TO,2024,FRETRAROATRUHETCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel
+TO,2024,FRETRAAIR_________ATF_EX,2015,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2024,FRETRAAIR_________AGA_EX,2015,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2024,FRETRARAI_________DSL_EX,2015,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2024,FRETRAMAR_________ALL_EX,2015,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2025,FRETRAROATRULGTCONVGAS_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline
+TO,2025,FRETRAROATRULGTCONVPRO_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane
+TO,2025,FRETRAROATRULGTCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel
+TO,2025,FRETRAROATRUMETCONVGAS_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline
+TO,2025,FRETRAROATRUMETCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel
+TO,2025,FRETRAROATRUHETCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel
+TO,2025,FRETRAAIR_________ATF_EX,2015,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2025,FRETRAAIR_________AGA_EX,2015,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2025,FRETRARAI_________DSL_EX,2015,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2025,FRETRAMAR_________ALL_EX,2015,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2026,FRETRAROATRULGTCONVGAS_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline
+TO,2026,FRETRAROATRULGTCONVPRO_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane
+TO,2026,FRETRAROATRULGTCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel
+TO,2026,FRETRAROATRUMETCONVGAS_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline
+TO,2026,FRETRAROATRUMETCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel
+TO,2026,FRETRAROATRUHETCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel
+TO,2026,FRETRAAIR_________ATF_EX,2015,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2026,FRETRAAIR_________AGA_EX,2015,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2026,FRETRARAI_________DSL_EX,2015,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2026,FRETRAMAR_________ALL_EX,2015,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2027,FRETRAROATRULGTCONVGAS_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline
+TO,2027,FRETRAROATRULGTCONVPRO_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane
+TO,2027,FRETRAROATRULGTCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel
+TO,2027,FRETRAROATRUMETCONVGAS_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline
+TO,2027,FRETRAROATRUMETCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel
+TO,2027,FRETRAROATRUHETCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel
+TO,2027,FRETRAAIR_________ATF_EX,2015,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2027,FRETRAAIR_________AGA_EX,2015,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2027,FRETRARAI_________DSL_EX,2015,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2027,FRETRAMAR_________ALL_EX,2015,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2028,FRETRAROATRULGTCONVGAS_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline
+TO,2028,FRETRAROATRULGTCONVPRO_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane
+TO,2028,FRETRAROATRULGTCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel
+TO,2028,FRETRAROATRUMETCONVGAS_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline
+TO,2028,FRETRAROATRUMETCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel
+TO,2028,FRETRAROATRUHETCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel
+TO,2028,FRETRAAIR_________ATF_EX,2015,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2028,FRETRAAIR_________AGA_EX,2015,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2028,FRETRARAI_________DSL_EX,2015,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2028,FRETRAMAR_________ALL_EX,2015,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2029,FRETRAROATRULGTCONVGAS_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline
+TO,2029,FRETRAROATRULGTCONVPRO_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane
+TO,2029,FRETRAROATRULGTCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel
+TO,2029,FRETRAROATRUMETCONVGAS_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline
+TO,2029,FRETRAROATRUMETCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel
+TO,2029,FRETRAROATRUHETCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel
+TO,2029,FRETRAAIR_________ATF_EX,2015,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2029,FRETRAAIR_________AGA_EX,2015,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2029,FRETRARAI_________DSL_EX,2015,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2029,FRETRAMAR_________ALL_EX,2015,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2030,FRETRAROATRULGTCONVGAS_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline
+TO,2030,FRETRAROATRULGTCONVPRO_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane
+TO,2030,FRETRAROATRULGTCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel
+TO,2030,FRETRAROATRUMETCONVGAS_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline
+TO,2030,FRETRAROATRUMETCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel
+TO,2030,FRETRAROATRUHETCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel
+TO,2030,FRETRAAIR_________ATF_EX,2015,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2030,FRETRAAIR_________AGA_EX,2015,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2030,FRETRARAI_________DSL_EX,2015,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2030,FRETRAMAR_________ALL_EX,2015,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2031,FRETRAROATRULGTCONVGAS_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline
+TO,2031,FRETRAROATRULGTCONVPRO_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane
+TO,2031,FRETRAROATRULGTCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel
+TO,2031,FRETRAROATRUMETCONVGAS_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline
+TO,2031,FRETRAROATRUMETCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel
+TO,2031,FRETRAROATRUHETCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel
+TO,2031,FRETRAAIR_________ATF_EX,2015,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2031,FRETRAAIR_________AGA_EX,2015,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2031,FRETRARAI_________DSL_EX,2015,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2031,FRETRAMAR_________ALL_EX,2015,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2032,FRETRAROATRULGTCONVGAS_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline
+TO,2032,FRETRAROATRULGTCONVPRO_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane
+TO,2032,FRETRAROATRULGTCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel
+TO,2032,FRETRAROATRUMETCONVGAS_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline
+TO,2032,FRETRAROATRUMETCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel
+TO,2032,FRETRAROATRUHETCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel
+TO,2032,FRETRAAIR_________ATF_EX,2015,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2032,FRETRAAIR_________AGA_EX,2015,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2032,FRETRARAI_________DSL_EX,2015,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2032,FRETRAMAR_________ALL_EX,2015,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2033,FRETRAROATRULGTCONVGAS_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline
+TO,2033,FRETRAROATRULGTCONVPRO_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane
+TO,2033,FRETRAROATRULGTCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel
+TO,2033,FRETRAROATRUMETCONVGAS_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline
+TO,2033,FRETRAROATRUMETCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel
+TO,2033,FRETRAROATRUHETCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel
+TO,2033,FRETRAAIR_________ATF_EX,2015,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2033,FRETRAAIR_________AGA_EX,2015,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2033,FRETRARAI_________DSL_EX,2015,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2033,FRETRAMAR_________ALL_EX,2015,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2034,FRETRAROATRULGTCONVGAS_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline
+TO,2034,FRETRAROATRULGTCONVPRO_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane
+TO,2034,FRETRAROATRULGTCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel
+TO,2034,FRETRAROATRUMETCONVGAS_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline
+TO,2034,FRETRAROATRUMETCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel
+TO,2034,FRETRAROATRUHETCONVDSL_EX,2015,500.0,k$/kunits,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel
+TO,2034,FRETRAAIR_________ATF_EX,2015,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2034,FRETRAAIR_________AGA_EX,2015,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2034,FRETRARAI_________DSL_EX,2015,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2034,FRETRAMAR_________ALL_EX,2015,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2035,FRETRAAIR_________ATF_EX,2015,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2035,FRETRAAIR_________AGA_EX,2015,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2035,FRETRARAI_________DSL_EX,2015,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2035,FRETRAMAR_________ALL_EX,2015,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2036,FRETRAAIR_________ATF_EX,2015,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2036,FRETRAAIR_________AGA_EX,2015,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2036,FRETRARAI_________DSL_EX,2015,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2036,FRETRAMAR_________ALL_EX,2015,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2037,FRETRAAIR_________ATF_EX,2015,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2037,FRETRAAIR_________AGA_EX,2015,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2037,FRETRARAI_________DSL_EX,2015,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2037,FRETRAMAR_________ALL_EX,2015,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2038,FRETRAAIR_________ATF_EX,2015,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2038,FRETRAAIR_________AGA_EX,2015,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2038,FRETRARAI_________DSL_EX,2015,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2038,FRETRAMAR_________ALL_EX,2015,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2039,FRETRAAIR_________ATF_EX,2015,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2039,FRETRAAIR_________AGA_EX,2015,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2039,FRETRARAI_________DSL_EX,2015,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2039,FRETRAMAR_________ALL_EX,2015,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2040,FRETRARAI_________DSL_EX,2015,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2040,FRETRAMAR_________ALL_EX,2015,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2041,FRETRARAI_________DSL_EX,2015,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2041,FRETRAMAR_________ALL_EX,2015,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2042,FRETRARAI_________DSL_EX,2015,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2042,FRETRAMAR_________ALL_EX,2015,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2043,FRETRARAI_________DSL_EX,2015,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2043,FRETRAMAR_________ALL_EX,2015,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2044,FRETRARAI_________DSL_EX,2015,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2044,FRETRAMAR_________ALL_EX,2015,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2045,FRETRARAI_________DSL_EX,2015,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2045,FRETRAMAR_________ALL_EX,2015,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2046,FRETRARAI_________DSL_EX,2015,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2046,FRETRAMAR_________ALL_EX,2015,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2047,FRETRARAI_________DSL_EX,2015,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2047,FRETRAMAR_________ALL_EX,2015,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2048,FRETRARAI_________DSL_EX,2015,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2048,FRETRAMAR_________ALL_EX,2015,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2049,FRETRARAI_________DSL_EX,2015,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2049,FRETRAMAR_________ALL_EX,2015,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2050,FRETRARAI_________DSL_EX,2015,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2050,FRETRAMAR_________ALL_EX,2015,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2016,FRETRAROATRULGTCONVGAS_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline
+TO,2016,FRETRAROATRULGTCONVPRO_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane
+TO,2016,FRETRAROATRULGTCONVDSL_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel
+TO,2016,FRETRAROATRUMETCONVGAS_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline
+TO,2016,FRETRAROATRUMETCONVDSL_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel
+TO,2016,FRETRAROATRUHETCONVDSL_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel
+TO,2016,FRETRAAIR_________ATF_EX,2010,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2016,FRETRAAIR_________AGA_EX,2010,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2016,FRETRARAI_________DSL_EX,2010,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2016,FRETRAMAR_________ALL_EX,2010,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2017,FRETRAROATRULGTCONVGAS_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline
+TO,2017,FRETRAROATRULGTCONVPRO_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane
+TO,2017,FRETRAROATRULGTCONVDSL_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel
+TO,2017,FRETRAROATRUMETCONVGAS_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline
+TO,2017,FRETRAROATRUMETCONVDSL_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel
+TO,2017,FRETRAROATRUHETCONVDSL_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel
+TO,2017,FRETRAAIR_________ATF_EX,2010,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2017,FRETRAAIR_________AGA_EX,2010,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2017,FRETRARAI_________DSL_EX,2010,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2017,FRETRAMAR_________ALL_EX,2010,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2018,FRETRAROATRULGTCONVGAS_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline
+TO,2018,FRETRAROATRULGTCONVPRO_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane
+TO,2018,FRETRAROATRULGTCONVDSL_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel
+TO,2018,FRETRAROATRUMETCONVGAS_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline
+TO,2018,FRETRAROATRUMETCONVDSL_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel
+TO,2018,FRETRAROATRUHETCONVDSL_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel
+TO,2018,FRETRAAIR_________ATF_EX,2010,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2018,FRETRAAIR_________AGA_EX,2010,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2018,FRETRARAI_________DSL_EX,2010,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2018,FRETRAMAR_________ALL_EX,2010,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2019,FRETRAROATRULGTCONVGAS_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline
+TO,2019,FRETRAROATRULGTCONVPRO_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane
+TO,2019,FRETRAROATRULGTCONVDSL_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel
+TO,2019,FRETRAROATRUMETCONVGAS_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline
+TO,2019,FRETRAROATRUMETCONVDSL_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel
+TO,2019,FRETRAROATRUHETCONVDSL_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel
+TO,2019,FRETRAAIR_________ATF_EX,2010,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2019,FRETRAAIR_________AGA_EX,2010,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2019,FRETRARAI_________DSL_EX,2010,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2019,FRETRAMAR_________ALL_EX,2010,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2020,FRETRAROATRULGTCONVGAS_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline
+TO,2020,FRETRAROATRULGTCONVPRO_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane
+TO,2020,FRETRAROATRULGTCONVDSL_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel
+TO,2020,FRETRAROATRUMETCONVGAS_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline
+TO,2020,FRETRAROATRUMETCONVDSL_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel
+TO,2020,FRETRAROATRUHETCONVDSL_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel
+TO,2020,FRETRAAIR_________ATF_EX,2010,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2020,FRETRAAIR_________AGA_EX,2010,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2020,FRETRARAI_________DSL_EX,2010,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2020,FRETRAMAR_________ALL_EX,2010,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2021,FRETRAROATRULGTCONVGAS_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline
+TO,2021,FRETRAROATRULGTCONVPRO_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane
+TO,2021,FRETRAROATRULGTCONVDSL_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel
+TO,2021,FRETRAROATRUMETCONVGAS_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline
+TO,2021,FRETRAROATRUMETCONVDSL_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel
+TO,2021,FRETRAROATRUHETCONVDSL_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel
+TO,2021,FRETRAAIR_________ATF_EX,2010,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2021,FRETRAAIR_________AGA_EX,2010,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2021,FRETRARAI_________DSL_EX,2010,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2021,FRETRAMAR_________ALL_EX,2010,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2022,FRETRAROATRULGTCONVGAS_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline
+TO,2022,FRETRAROATRULGTCONVPRO_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane
+TO,2022,FRETRAROATRULGTCONVDSL_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel
+TO,2022,FRETRAROATRUMETCONVGAS_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline
+TO,2022,FRETRAROATRUMETCONVDSL_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel
+TO,2022,FRETRAROATRUHETCONVDSL_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel
+TO,2022,FRETRAAIR_________ATF_EX,2010,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2022,FRETRAAIR_________AGA_EX,2010,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2022,FRETRARAI_________DSL_EX,2010,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2022,FRETRAMAR_________ALL_EX,2010,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2023,FRETRAROATRULGTCONVGAS_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline
+TO,2023,FRETRAROATRULGTCONVPRO_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane
+TO,2023,FRETRAROATRULGTCONVDSL_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel
+TO,2023,FRETRAROATRUMETCONVGAS_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline
+TO,2023,FRETRAROATRUMETCONVDSL_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel
+TO,2023,FRETRAROATRUHETCONVDSL_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel
+TO,2023,FRETRAAIR_________ATF_EX,2010,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2023,FRETRAAIR_________AGA_EX,2010,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2023,FRETRARAI_________DSL_EX,2010,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2023,FRETRAMAR_________ALL_EX,2010,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2024,FRETRAROATRULGTCONVGAS_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline
+TO,2024,FRETRAROATRULGTCONVPRO_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane
+TO,2024,FRETRAROATRULGTCONVDSL_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel
+TO,2024,FRETRAROATRUMETCONVGAS_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline
+TO,2024,FRETRAROATRUMETCONVDSL_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel
+TO,2024,FRETRAROATRUHETCONVDSL_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel
+TO,2024,FRETRAAIR_________ATF_EX,2010,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2024,FRETRAAIR_________AGA_EX,2010,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2024,FRETRARAI_________DSL_EX,2010,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2024,FRETRAMAR_________ALL_EX,2010,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2025,FRETRAROATRULGTCONVGAS_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline
+TO,2025,FRETRAROATRULGTCONVPRO_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane
+TO,2025,FRETRAROATRULGTCONVDSL_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel
+TO,2025,FRETRAROATRUMETCONVGAS_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline
+TO,2025,FRETRAROATRUMETCONVDSL_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel
+TO,2025,FRETRAROATRUHETCONVDSL_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel
+TO,2025,FRETRAAIR_________ATF_EX,2010,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2025,FRETRAAIR_________AGA_EX,2010,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2025,FRETRARAI_________DSL_EX,2010,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2025,FRETRAMAR_________ALL_EX,2010,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2026,FRETRAROATRULGTCONVGAS_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline
+TO,2026,FRETRAROATRULGTCONVPRO_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane
+TO,2026,FRETRAROATRULGTCONVDSL_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel
+TO,2026,FRETRAROATRUMETCONVGAS_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline
+TO,2026,FRETRAROATRUMETCONVDSL_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel
+TO,2026,FRETRAROATRUHETCONVDSL_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel
+TO,2026,FRETRAAIR_________ATF_EX,2010,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2026,FRETRAAIR_________AGA_EX,2010,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2026,FRETRARAI_________DSL_EX,2010,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2026,FRETRAMAR_________ALL_EX,2010,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2027,FRETRAROATRULGTCONVGAS_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline
+TO,2027,FRETRAROATRULGTCONVPRO_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane
+TO,2027,FRETRAROATRULGTCONVDSL_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel
+TO,2027,FRETRAROATRUMETCONVGAS_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline
+TO,2027,FRETRAROATRUMETCONVDSL_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel
+TO,2027,FRETRAROATRUHETCONVDSL_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel
+TO,2027,FRETRAAIR_________ATF_EX,2010,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2027,FRETRAAIR_________AGA_EX,2010,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2027,FRETRARAI_________DSL_EX,2010,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2027,FRETRAMAR_________ALL_EX,2010,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2028,FRETRAROATRULGTCONVGAS_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline
+TO,2028,FRETRAROATRULGTCONVPRO_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane
+TO,2028,FRETRAROATRULGTCONVDSL_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel
+TO,2028,FRETRAROATRUMETCONVGAS_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline
+TO,2028,FRETRAROATRUMETCONVDSL_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel
+TO,2028,FRETRAROATRUHETCONVDSL_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel
+TO,2028,FRETRAAIR_________ATF_EX,2010,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2028,FRETRAAIR_________AGA_EX,2010,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2028,FRETRARAI_________DSL_EX,2010,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2028,FRETRAMAR_________ALL_EX,2010,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2029,FRETRAROATRULGTCONVGAS_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline
+TO,2029,FRETRAROATRULGTCONVPRO_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane
+TO,2029,FRETRAROATRULGTCONVDSL_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel
+TO,2029,FRETRAROATRUMETCONVGAS_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline
+TO,2029,FRETRAROATRUMETCONVDSL_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel
+TO,2029,FRETRAROATRUHETCONVDSL_EX,2010,500.0,k$/kunits,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel
+TO,2029,FRETRAAIR_________ATF_EX,2010,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2029,FRETRAAIR_________AGA_EX,2010,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2029,FRETRARAI_________DSL_EX,2010,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2029,FRETRAMAR_________ALL_EX,2010,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2030,FRETRAAIR_________ATF_EX,2010,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2030,FRETRAAIR_________AGA_EX,2010,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2030,FRETRARAI_________DSL_EX,2010,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2030,FRETRAMAR_________ALL_EX,2010,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2031,FRETRAAIR_________ATF_EX,2010,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2031,FRETRAAIR_________AGA_EX,2010,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2031,FRETRARAI_________DSL_EX,2010,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2031,FRETRAMAR_________ALL_EX,2010,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2032,FRETRAAIR_________ATF_EX,2010,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2032,FRETRAAIR_________AGA_EX,2010,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2032,FRETRARAI_________DSL_EX,2010,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2032,FRETRAMAR_________ALL_EX,2010,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2033,FRETRAAIR_________ATF_EX,2010,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2033,FRETRAAIR_________AGA_EX,2010,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2033,FRETRARAI_________DSL_EX,2010,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2033,FRETRAMAR_________ALL_EX,2010,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2034,FRETRAAIR_________ATF_EX,2010,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2034,FRETRAAIR_________AGA_EX,2010,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2034,FRETRARAI_________DSL_EX,2010,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2034,FRETRAMAR_________ALL_EX,2010,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2035,FRETRARAI_________DSL_EX,2010,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2035,FRETRAMAR_________ALL_EX,2010,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2036,FRETRARAI_________DSL_EX,2010,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2036,FRETRAMAR_________ALL_EX,2010,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2037,FRETRARAI_________DSL_EX,2010,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2037,FRETRAMAR_________ALL_EX,2010,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2038,FRETRARAI_________DSL_EX,2010,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2038,FRETRAMAR_________ALL_EX,2010,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2039,FRETRARAI_________DSL_EX,2010,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2039,FRETRAMAR_________ALL_EX,2010,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2040,FRETRARAI_________DSL_EX,2010,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2040,FRETRAMAR_________ALL_EX,2010,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2041,FRETRARAI_________DSL_EX,2010,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2041,FRETRAMAR_________ALL_EX,2010,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2042,FRETRARAI_________DSL_EX,2010,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2042,FRETRAMAR_________ALL_EX,2010,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2043,FRETRARAI_________DSL_EX,2010,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2043,FRETRAMAR_________ALL_EX,2010,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2044,FRETRARAI_________DSL_EX,2010,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2044,FRETRAMAR_________ALL_EX,2010,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2045,FRETRARAI_________DSL_EX,2010,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2045,FRETRAMAR_________ALL_EX,2010,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2046,FRETRARAI_________DSL_EX,2010,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2046,FRETRAMAR_________ALL_EX,2010,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2047,FRETRARAI_________DSL_EX,2010,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2047,FRETRAMAR_________ALL_EX,2010,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2048,FRETRARAI_________DSL_EX,2010,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2048,FRETRAMAR_________ALL_EX,2010,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2049,FRETRARAI_________DSL_EX,2010,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2049,FRETRAMAR_________ALL_EX,2010,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2050,FRETRARAI_________DSL_EX,2010,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2050,FRETRAMAR_________ALL_EX,2010,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2016,FRETRAROATRULGTCONVGAS_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline
+TO,2016,FRETRAROATRULGTCONVPRO_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane
+TO,2016,FRETRAROATRULGTCONVDSL_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel
+TO,2016,FRETRAROATRUMETCONVGAS_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline
+TO,2016,FRETRAROATRUMETCONVDSL_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel
+TO,2016,FRETRAROATRUHETCONVDSL_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel
+TO,2016,FRETRAAIR_________ATF_EX,2005,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2016,FRETRAAIR_________AGA_EX,2005,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2016,FRETRARAI_________DSL_EX,2005,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2016,FRETRAMAR_________ALL_EX,2005,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2017,FRETRAROATRULGTCONVGAS_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline
+TO,2017,FRETRAROATRULGTCONVPRO_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane
+TO,2017,FRETRAROATRULGTCONVDSL_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel
+TO,2017,FRETRAROATRUMETCONVGAS_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline
+TO,2017,FRETRAROATRUMETCONVDSL_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel
+TO,2017,FRETRAROATRUHETCONVDSL_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel
+TO,2017,FRETRAAIR_________ATF_EX,2005,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2017,FRETRAAIR_________AGA_EX,2005,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2017,FRETRARAI_________DSL_EX,2005,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2017,FRETRAMAR_________ALL_EX,2005,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2018,FRETRAROATRULGTCONVGAS_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline
+TO,2018,FRETRAROATRULGTCONVPRO_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane
+TO,2018,FRETRAROATRULGTCONVDSL_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel
+TO,2018,FRETRAROATRUMETCONVGAS_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline
+TO,2018,FRETRAROATRUMETCONVDSL_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel
+TO,2018,FRETRAROATRUHETCONVDSL_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel
+TO,2018,FRETRAAIR_________ATF_EX,2005,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2018,FRETRAAIR_________AGA_EX,2005,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2018,FRETRARAI_________DSL_EX,2005,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2018,FRETRAMAR_________ALL_EX,2005,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2019,FRETRAROATRULGTCONVGAS_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline
+TO,2019,FRETRAROATRULGTCONVPRO_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane
+TO,2019,FRETRAROATRULGTCONVDSL_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel
+TO,2019,FRETRAROATRUMETCONVGAS_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline
+TO,2019,FRETRAROATRUMETCONVDSL_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel
+TO,2019,FRETRAROATRUHETCONVDSL_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel
+TO,2019,FRETRAAIR_________ATF_EX,2005,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2019,FRETRAAIR_________AGA_EX,2005,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2019,FRETRARAI_________DSL_EX,2005,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2019,FRETRAMAR_________ALL_EX,2005,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2020,FRETRAROATRULGTCONVGAS_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline
+TO,2020,FRETRAROATRULGTCONVPRO_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane
+TO,2020,FRETRAROATRULGTCONVDSL_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel
+TO,2020,FRETRAROATRUMETCONVGAS_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline
+TO,2020,FRETRAROATRUMETCONVDSL_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel
+TO,2020,FRETRAROATRUHETCONVDSL_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel
+TO,2020,FRETRAAIR_________ATF_EX,2005,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2020,FRETRAAIR_________AGA_EX,2005,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2020,FRETRARAI_________DSL_EX,2005,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2020,FRETRAMAR_________ALL_EX,2005,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2021,FRETRAROATRULGTCONVGAS_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline
+TO,2021,FRETRAROATRULGTCONVPRO_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane
+TO,2021,FRETRAROATRULGTCONVDSL_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel
+TO,2021,FRETRAROATRUMETCONVGAS_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline
+TO,2021,FRETRAROATRUMETCONVDSL_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel
+TO,2021,FRETRAROATRUHETCONVDSL_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel
+TO,2021,FRETRAAIR_________ATF_EX,2005,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2021,FRETRAAIR_________AGA_EX,2005,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2021,FRETRARAI_________DSL_EX,2005,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2021,FRETRAMAR_________ALL_EX,2005,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2022,FRETRAROATRULGTCONVGAS_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline
+TO,2022,FRETRAROATRULGTCONVPRO_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane
+TO,2022,FRETRAROATRULGTCONVDSL_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel
+TO,2022,FRETRAROATRUMETCONVGAS_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline
+TO,2022,FRETRAROATRUMETCONVDSL_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel
+TO,2022,FRETRAROATRUHETCONVDSL_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel
+TO,2022,FRETRAAIR_________ATF_EX,2005,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2022,FRETRAAIR_________AGA_EX,2005,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2022,FRETRARAI_________DSL_EX,2005,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2022,FRETRAMAR_________ALL_EX,2005,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2023,FRETRAROATRULGTCONVGAS_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline
+TO,2023,FRETRAROATRULGTCONVPRO_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane
+TO,2023,FRETRAROATRULGTCONVDSL_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel
+TO,2023,FRETRAROATRUMETCONVGAS_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline
+TO,2023,FRETRAROATRUMETCONVDSL_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel
+TO,2023,FRETRAROATRUHETCONVDSL_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel
+TO,2023,FRETRAAIR_________ATF_EX,2005,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2023,FRETRAAIR_________AGA_EX,2005,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2023,FRETRARAI_________DSL_EX,2005,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2023,FRETRAMAR_________ALL_EX,2005,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2024,FRETRAROATRULGTCONVGAS_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline
+TO,2024,FRETRAROATRULGTCONVPRO_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane
+TO,2024,FRETRAROATRULGTCONVDSL_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel
+TO,2024,FRETRAROATRUMETCONVGAS_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline
+TO,2024,FRETRAROATRUMETCONVDSL_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel
+TO,2024,FRETRAROATRUHETCONVDSL_EX,2005,500.0,k$/kunits,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel
+TO,2024,FRETRAAIR_________ATF_EX,2005,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2024,FRETRAAIR_________AGA_EX,2005,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2024,FRETRARAI_________DSL_EX,2005,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2024,FRETRAMAR_________ALL_EX,2005,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2025,FRETRAAIR_________ATF_EX,2005,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2025,FRETRAAIR_________AGA_EX,2005,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2025,FRETRARAI_________DSL_EX,2005,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2025,FRETRAMAR_________ALL_EX,2005,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2026,FRETRAAIR_________ATF_EX,2005,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2026,FRETRAAIR_________AGA_EX,2005,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2026,FRETRARAI_________DSL_EX,2005,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2026,FRETRAMAR_________ALL_EX,2005,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2027,FRETRAAIR_________ATF_EX,2005,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2027,FRETRAAIR_________AGA_EX,2005,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2027,FRETRARAI_________DSL_EX,2005,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2027,FRETRAMAR_________ALL_EX,2005,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2028,FRETRAAIR_________ATF_EX,2005,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2028,FRETRAAIR_________AGA_EX,2005,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2028,FRETRARAI_________DSL_EX,2005,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2028,FRETRAMAR_________ALL_EX,2005,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2029,FRETRAAIR_________ATF_EX,2005,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2029,FRETRAAIR_________AGA_EX,2005,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2029,FRETRARAI_________DSL_EX,2005,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2029,FRETRAMAR_________ALL_EX,2005,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2030,FRETRARAI_________DSL_EX,2005,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2030,FRETRAMAR_________ALL_EX,2005,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2031,FRETRARAI_________DSL_EX,2005,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2031,FRETRAMAR_________ALL_EX,2005,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2032,FRETRARAI_________DSL_EX,2005,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2032,FRETRAMAR_________ALL_EX,2005,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2033,FRETRARAI_________DSL_EX,2005,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2033,FRETRAMAR_________ALL_EX,2005,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2034,FRETRARAI_________DSL_EX,2005,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2034,FRETRAMAR_________ALL_EX,2005,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2035,FRETRARAI_________DSL_EX,2005,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2035,FRETRAMAR_________ALL_EX,2005,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2036,FRETRARAI_________DSL_EX,2005,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2036,FRETRAMAR_________ALL_EX,2005,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2037,FRETRARAI_________DSL_EX,2005,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2037,FRETRAMAR_________ALL_EX,2005,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2038,FRETRARAI_________DSL_EX,2005,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2038,FRETRAMAR_________ALL_EX,2005,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2039,FRETRARAI_________DSL_EX,2005,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2039,FRETRAMAR_________ALL_EX,2005,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2040,FRETRARAI_________DSL_EX,2005,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2040,FRETRAMAR_________ALL_EX,2005,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2041,FRETRARAI_________DSL_EX,2005,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2041,FRETRAMAR_________ALL_EX,2005,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2042,FRETRARAI_________DSL_EX,2005,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2042,FRETRAMAR_________ALL_EX,2005,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2043,FRETRARAI_________DSL_EX,2005,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2043,FRETRAMAR_________ALL_EX,2005,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2044,FRETRARAI_________DSL_EX,2005,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2044,FRETRAMAR_________ALL_EX,2005,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2045,FRETRARAI_________DSL_EX,2005,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2045,FRETRAMAR_________ALL_EX,2005,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2046,FRETRARAI_________DSL_EX,2005,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2046,FRETRAMAR_________ALL_EX,2005,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2047,FRETRARAI_________DSL_EX,2005,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2047,FRETRAMAR_________ALL_EX,2005,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2048,FRETRARAI_________DSL_EX,2005,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2048,FRETRAMAR_________ALL_EX,2005,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2049,FRETRARAI_________DSL_EX,2005,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2049,FRETRAMAR_________ALL_EX,2005,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2050,FRETRARAI_________DSL_EX,2005,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2050,FRETRAMAR_________ALL_EX,2005,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2016,FRETRAROATRULGTCONVGAS_EX,2000,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline
+TO,2016,FRETRAROATRULGTCONVPRO_EX,2000,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane
+TO,2016,FRETRAROATRULGTCONVDSL_EX,2000,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel
+TO,2016,FRETRAROATRUMETCONVGAS_EX,2000,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline
+TO,2016,FRETRAROATRUMETCONVDSL_EX,2000,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel
+TO,2016,FRETRAROATRUHETCONVDSL_EX,2000,500.0,k$/kunits,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel
+TO,2016,FRETRAAIR_________ATF_EX,2000,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2016,FRETRAAIR_________AGA_EX,2000,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2016,FRETRARAI_________DSL_EX,2000,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2016,FRETRAMAR_________ALL_EX,2000,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2017,FRETRAROATRULGTCONVGAS_EX,2000,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline
+TO,2017,FRETRAROATRULGTCONVPRO_EX,2000,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane
+TO,2017,FRETRAROATRULGTCONVDSL_EX,2000,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel
+TO,2017,FRETRAROATRUMETCONVGAS_EX,2000,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline
+TO,2017,FRETRAROATRUMETCONVDSL_EX,2000,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel
+TO,2017,FRETRAROATRUHETCONVDSL_EX,2000,500.0,k$/kunits,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel
+TO,2017,FRETRAAIR_________ATF_EX,2000,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2017,FRETRAAIR_________AGA_EX,2000,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2017,FRETRARAI_________DSL_EX,2000,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2017,FRETRAMAR_________ALL_EX,2000,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2018,FRETRAROATRULGTCONVGAS_EX,2000,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline
+TO,2018,FRETRAROATRULGTCONVPRO_EX,2000,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane
+TO,2018,FRETRAROATRULGTCONVDSL_EX,2000,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel
+TO,2018,FRETRAROATRUMETCONVGAS_EX,2000,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline
+TO,2018,FRETRAROATRUMETCONVDSL_EX,2000,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel
+TO,2018,FRETRAROATRUHETCONVDSL_EX,2000,500.0,k$/kunits,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel
+TO,2018,FRETRAAIR_________ATF_EX,2000,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2018,FRETRAAIR_________AGA_EX,2000,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2018,FRETRARAI_________DSL_EX,2000,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2018,FRETRAMAR_________ALL_EX,2000,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2019,FRETRAROATRULGTCONVGAS_EX,2000,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalGasoline
+TO,2019,FRETRAROATRULGTCONVPRO_EX,2000,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalPropane
+TO,2019,FRETRAROATRULGTCONVDSL_EX,2000,500.0,k$/kunits,Freight TransportationTransportationRoadTruckPassenger Light TrucksConventionnalDiesel
+TO,2019,FRETRAROATRUMETCONVGAS_EX,2000,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalGasoline
+TO,2019,FRETRAROATRUMETCONVDSL_EX,2000,500.0,k$/kunits,Freight TransportationTransportationRoadTruckMedium TrucksConventionnalDiesel
+TO,2019,FRETRAROATRUHETCONVDSL_EX,2000,500.0,k$/kunits,Freight TransportationTransportationRoadTruckHeavy TrucksConventionnalDiesel
+TO,2019,FRETRAAIR_________ATF_EX,2000,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2019,FRETRAAIR_________AGA_EX,2000,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2019,FRETRARAI_________DSL_EX,2000,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2019,FRETRAMAR_________ALL_EX,2000,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2020,FRETRAAIR_________ATF_EX,2000,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2020,FRETRAAIR_________AGA_EX,2000,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2020,FRETRARAI_________DSL_EX,2000,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2020,FRETRAMAR_________ALL_EX,2000,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2021,FRETRAAIR_________ATF_EX,2000,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2021,FRETRAAIR_________AGA_EX,2000,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2021,FRETRARAI_________DSL_EX,2000,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2021,FRETRAMAR_________ALL_EX,2000,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2022,FRETRAAIR_________ATF_EX,2000,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2022,FRETRAAIR_________AGA_EX,2000,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2022,FRETRARAI_________DSL_EX,2000,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2022,FRETRAMAR_________ALL_EX,2000,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2023,FRETRAAIR_________ATF_EX,2000,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2023,FRETRAAIR_________AGA_EX,2000,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2023,FRETRARAI_________DSL_EX,2000,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2023,FRETRAMAR_________ALL_EX,2000,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2024,FRETRAAIR_________ATF_EX,2000,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2024,FRETRAAIR_________AGA_EX,2000,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2024,FRETRARAI_________DSL_EX,2000,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2024,FRETRAMAR_________ALL_EX,2000,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2025,FRETRARAI_________DSL_EX,2000,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2025,FRETRAMAR_________ALL_EX,2000,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2026,FRETRARAI_________DSL_EX,2000,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2026,FRETRAMAR_________ALL_EX,2000,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2027,FRETRARAI_________DSL_EX,2000,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2027,FRETRAMAR_________ALL_EX,2000,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2028,FRETRARAI_________DSL_EX,2000,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2028,FRETRAMAR_________ALL_EX,2000,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2029,FRETRARAI_________DSL_EX,2000,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2029,FRETRAMAR_________ALL_EX,2000,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2030,FRETRARAI_________DSL_EX,2000,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2030,FRETRAMAR_________ALL_EX,2000,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2031,FRETRARAI_________DSL_EX,2000,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2031,FRETRAMAR_________ALL_EX,2000,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2032,FRETRARAI_________DSL_EX,2000,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2032,FRETRAMAR_________ALL_EX,2000,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2033,FRETRARAI_________DSL_EX,2000,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2033,FRETRAMAR_________ALL_EX,2000,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2034,FRETRARAI_________DSL_EX,2000,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2034,FRETRAMAR_________ALL_EX,2000,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2035,FRETRARAI_________DSL_EX,2000,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2035,FRETRAMAR_________ALL_EX,2000,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2036,FRETRARAI_________DSL_EX,2000,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2036,FRETRAMAR_________ALL_EX,2000,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2037,FRETRARAI_________DSL_EX,2000,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2037,FRETRAMAR_________ALL_EX,2000,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2038,FRETRARAI_________DSL_EX,2000,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2038,FRETRAMAR_________ALL_EX,2000,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2039,FRETRARAI_________DSL_EX,2000,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2039,FRETRAMAR_________ALL_EX,2000,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2040,FRETRARAI_________DSL_EX,2000,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2040,FRETRAMAR_________ALL_EX,2000,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2041,FRETRARAI_________DSL_EX,2000,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2041,FRETRAMAR_________ALL_EX,2000,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2042,FRETRARAI_________DSL_EX,2000,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2042,FRETRAMAR_________ALL_EX,2000,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2043,FRETRARAI_________DSL_EX,2000,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2043,FRETRAMAR_________ALL_EX,2000,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2044,FRETRARAI_________DSL_EX,2000,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2044,FRETRAMAR_________ALL_EX,2000,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2045,FRETRARAI_________DSL_EX,2000,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2045,FRETRAMAR_________ALL_EX,2000,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2046,FRETRARAI_________DSL_EX,2000,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2046,FRETRAMAR_________ALL_EX,2000,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2047,FRETRARAI_________DSL_EX,2000,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2047,FRETRAMAR_________ALL_EX,2000,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2048,FRETRARAI_________DSL_EX,2000,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2048,FRETRAMAR_________ALL_EX,2000,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2049,FRETRARAI_________DSL_EX,2000,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2049,FRETRAMAR_________ALL_EX,2000,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2050,FRETRAMAR_________ALL_EX,2000,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2016,FRETRAAIR_________ATF_EX,1995,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2016,FRETRAAIR_________AGA_EX,1995,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2016,FRETRARAI_________DSL_EX,1995,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2016,FRETRAMAR_________ALL_EX,1995,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2017,FRETRAAIR_________ATF_EX,1995,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2017,FRETRAAIR_________AGA_EX,1995,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2017,FRETRARAI_________DSL_EX,1995,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2017,FRETRAMAR_________ALL_EX,1995,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2018,FRETRAAIR_________ATF_EX,1995,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2018,FRETRAAIR_________AGA_EX,1995,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2018,FRETRARAI_________DSL_EX,1995,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2018,FRETRAMAR_________ALL_EX,1995,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2019,FRETRAAIR_________ATF_EX,1995,1340.0,k$/kunits,Freight TransportationTransportationAirAviation Turbo Fuel
+TO,2019,FRETRAAIR_________AGA_EX,1995,729.625,k$/kunits,Freight TransportationTransportationAirAviation Gasoline
+TO,2019,FRETRARAI_________DSL_EX,1995,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2019,FRETRAMAR_________ALL_EX,1995,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2020,FRETRARAI_________DSL_EX,1995,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2020,FRETRAMAR_________ALL_EX,1995,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2021,FRETRARAI_________DSL_EX,1995,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2021,FRETRAMAR_________ALL_EX,1995,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2022,FRETRARAI_________DSL_EX,1995,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2022,FRETRAMAR_________ALL_EX,1995,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2023,FRETRARAI_________DSL_EX,1995,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2023,FRETRAMAR_________ALL_EX,1995,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2024,FRETRARAI_________DSL_EX,1995,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2024,FRETRAMAR_________ALL_EX,1995,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2025,FRETRARAI_________DSL_EX,1995,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2025,FRETRAMAR_________ALL_EX,1995,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2026,FRETRARAI_________DSL_EX,1995,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2026,FRETRAMAR_________ALL_EX,1995,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2027,FRETRARAI_________DSL_EX,1995,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2027,FRETRAMAR_________ALL_EX,1995,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2028,FRETRARAI_________DSL_EX,1995,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2028,FRETRAMAR_________ALL_EX,1995,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2029,FRETRARAI_________DSL_EX,1995,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2029,FRETRAMAR_________ALL_EX,1995,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2030,FRETRARAI_________DSL_EX,1995,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2030,FRETRAMAR_________ALL_EX,1995,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2031,FRETRARAI_________DSL_EX,1995,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2031,FRETRAMAR_________ALL_EX,1995,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2032,FRETRARAI_________DSL_EX,1995,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2032,FRETRAMAR_________ALL_EX,1995,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2033,FRETRARAI_________DSL_EX,1995,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2033,FRETRAMAR_________ALL_EX,1995,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2034,FRETRARAI_________DSL_EX,1995,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2034,FRETRAMAR_________ALL_EX,1995,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2035,FRETRARAI_________DSL_EX,1995,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2035,FRETRAMAR_________ALL_EX,1995,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2036,FRETRARAI_________DSL_EX,1995,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2036,FRETRAMAR_________ALL_EX,1995,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2037,FRETRARAI_________DSL_EX,1995,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2037,FRETRAMAR_________ALL_EX,1995,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2038,FRETRARAI_________DSL_EX,1995,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2038,FRETRAMAR_________ALL_EX,1995,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2039,FRETRARAI_________DSL_EX,1995,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2039,FRETRAMAR_________ALL_EX,1995,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2040,FRETRARAI_________DSL_EX,1995,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2040,FRETRAMAR_________ALL_EX,1995,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2041,FRETRARAI_________DSL_EX,1995,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2041,FRETRAMAR_________ALL_EX,1995,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2042,FRETRARAI_________DSL_EX,1995,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2042,FRETRAMAR_________ALL_EX,1995,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2043,FRETRARAI_________DSL_EX,1995,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2043,FRETRAMAR_________ALL_EX,1995,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2044,FRETRARAI_________DSL_EX,1995,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2044,FRETRAMAR_________ALL_EX,1995,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2045,FRETRAMAR_________ALL_EX,1995,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2046,FRETRAMAR_________ALL_EX,1995,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2047,FRETRAMAR_________ALL_EX,1995,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2048,FRETRAMAR_________ALL_EX,1995,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2049,FRETRAMAR_________ALL_EX,1995,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2050,FRETRAMAR_________ALL_EX,1995,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2016,FRETRARAI_________DSL_EX,1990,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2016,FRETRAMAR_________ALL_EX,1990,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2017,FRETRARAI_________DSL_EX,1990,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2017,FRETRAMAR_________ALL_EX,1990,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2018,FRETRARAI_________DSL_EX,1990,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2018,FRETRAMAR_________ALL_EX,1990,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2019,FRETRARAI_________DSL_EX,1990,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2019,FRETRAMAR_________ALL_EX,1990,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2020,FRETRARAI_________DSL_EX,1990,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2020,FRETRAMAR_________ALL_EX,1990,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2021,FRETRARAI_________DSL_EX,1990,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2021,FRETRAMAR_________ALL_EX,1990,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2022,FRETRARAI_________DSL_EX,1990,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2022,FRETRAMAR_________ALL_EX,1990,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2023,FRETRARAI_________DSL_EX,1990,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2023,FRETRAMAR_________ALL_EX,1990,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2024,FRETRARAI_________DSL_EX,1990,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2024,FRETRAMAR_________ALL_EX,1990,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2025,FRETRARAI_________DSL_EX,1990,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2025,FRETRAMAR_________ALL_EX,1990,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2026,FRETRARAI_________DSL_EX,1990,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2026,FRETRAMAR_________ALL_EX,1990,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2027,FRETRARAI_________DSL_EX,1990,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2027,FRETRAMAR_________ALL_EX,1990,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2028,FRETRARAI_________DSL_EX,1990,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2028,FRETRAMAR_________ALL_EX,1990,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2029,FRETRARAI_________DSL_EX,1990,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2029,FRETRAMAR_________ALL_EX,1990,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2030,FRETRARAI_________DSL_EX,1990,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2030,FRETRAMAR_________ALL_EX,1990,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2031,FRETRARAI_________DSL_EX,1990,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2031,FRETRAMAR_________ALL_EX,1990,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2032,FRETRARAI_________DSL_EX,1990,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2032,FRETRAMAR_________ALL_EX,1990,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2033,FRETRARAI_________DSL_EX,1990,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2033,FRETRAMAR_________ALL_EX,1990,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2034,FRETRARAI_________DSL_EX,1990,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2034,FRETRAMAR_________ALL_EX,1990,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2035,FRETRARAI_________DSL_EX,1990,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2035,FRETRAMAR_________ALL_EX,1990,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2036,FRETRARAI_________DSL_EX,1990,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2036,FRETRAMAR_________ALL_EX,1990,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2037,FRETRARAI_________DSL_EX,1990,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2037,FRETRAMAR_________ALL_EX,1990,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2038,FRETRARAI_________DSL_EX,1990,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2038,FRETRAMAR_________ALL_EX,1990,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2039,FRETRARAI_________DSL_EX,1990,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2039,FRETRAMAR_________ALL_EX,1990,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2040,FRETRAMAR_________ALL_EX,1990,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2041,FRETRAMAR_________ALL_EX,1990,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2042,FRETRAMAR_________ALL_EX,1990,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2043,FRETRAMAR_________ALL_EX,1990,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2044,FRETRAMAR_________ALL_EX,1990,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2045,FRETRAMAR_________ALL_EX,1990,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2046,FRETRAMAR_________ALL_EX,1990,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2047,FRETRAMAR_________ALL_EX,1990,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2048,FRETRAMAR_________ALL_EX,1990,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2049,FRETRAMAR_________ALL_EX,1990,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2050,FRETRAMAR_________ALL_EX,1990,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2016,FRETRARAI_________DSL_EX,1985,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2016,FRETRAMAR_________ALL_EX,1985,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2017,FRETRARAI_________DSL_EX,1985,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2017,FRETRAMAR_________ALL_EX,1985,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2018,FRETRARAI_________DSL_EX,1985,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2018,FRETRAMAR_________ALL_EX,1985,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2019,FRETRARAI_________DSL_EX,1985,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2019,FRETRAMAR_________ALL_EX,1985,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2020,FRETRARAI_________DSL_EX,1985,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2020,FRETRAMAR_________ALL_EX,1985,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2021,FRETRARAI_________DSL_EX,1985,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2021,FRETRAMAR_________ALL_EX,1985,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2022,FRETRARAI_________DSL_EX,1985,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2022,FRETRAMAR_________ALL_EX,1985,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2023,FRETRARAI_________DSL_EX,1985,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2023,FRETRAMAR_________ALL_EX,1985,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2024,FRETRARAI_________DSL_EX,1985,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2024,FRETRAMAR_________ALL_EX,1985,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2025,FRETRARAI_________DSL_EX,1985,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2025,FRETRAMAR_________ALL_EX,1985,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2026,FRETRARAI_________DSL_EX,1985,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2026,FRETRAMAR_________ALL_EX,1985,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2027,FRETRARAI_________DSL_EX,1985,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2027,FRETRAMAR_________ALL_EX,1985,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2028,FRETRARAI_________DSL_EX,1985,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2028,FRETRAMAR_________ALL_EX,1985,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2029,FRETRARAI_________DSL_EX,1985,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2029,FRETRAMAR_________ALL_EX,1985,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2030,FRETRARAI_________DSL_EX,1985,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2030,FRETRAMAR_________ALL_EX,1985,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2031,FRETRARAI_________DSL_EX,1985,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2031,FRETRAMAR_________ALL_EX,1985,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2032,FRETRARAI_________DSL_EX,1985,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2032,FRETRAMAR_________ALL_EX,1985,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2033,FRETRARAI_________DSL_EX,1985,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2033,FRETRAMAR_________ALL_EX,1985,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2034,FRETRARAI_________DSL_EX,1985,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2034,FRETRAMAR_________ALL_EX,1985,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2035,FRETRAMAR_________ALL_EX,1985,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2036,FRETRAMAR_________ALL_EX,1985,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2037,FRETRAMAR_________ALL_EX,1985,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2038,FRETRAMAR_________ALL_EX,1985,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2039,FRETRAMAR_________ALL_EX,1985,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2040,FRETRAMAR_________ALL_EX,1985,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2041,FRETRAMAR_________ALL_EX,1985,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2042,FRETRAMAR_________ALL_EX,1985,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2043,FRETRAMAR_________ALL_EX,1985,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2044,FRETRAMAR_________ALL_EX,1985,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2045,FRETRAMAR_________ALL_EX,1985,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2046,FRETRAMAR_________ALL_EX,1985,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2047,FRETRAMAR_________ALL_EX,1985,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2048,FRETRAMAR_________ALL_EX,1985,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2049,FRETRAMAR_________ALL_EX,1985,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2050,FRETRAMAR_________ALL_EX,1985,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2016,FRETRARAI_________DSL_EX,1980,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2016,FRETRAMAR_________ALL_EX,1980,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2017,FRETRARAI_________DSL_EX,1980,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2017,FRETRAMAR_________ALL_EX,1980,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2018,FRETRARAI_________DSL_EX,1980,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2018,FRETRAMAR_________ALL_EX,1980,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2019,FRETRARAI_________DSL_EX,1980,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2019,FRETRAMAR_________ALL_EX,1980,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2020,FRETRARAI_________DSL_EX,1980,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2020,FRETRAMAR_________ALL_EX,1980,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2021,FRETRARAI_________DSL_EX,1980,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2021,FRETRAMAR_________ALL_EX,1980,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2022,FRETRARAI_________DSL_EX,1980,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2022,FRETRAMAR_________ALL_EX,1980,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2023,FRETRARAI_________DSL_EX,1980,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2023,FRETRAMAR_________ALL_EX,1980,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2024,FRETRARAI_________DSL_EX,1980,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2024,FRETRAMAR_________ALL_EX,1980,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2025,FRETRARAI_________DSL_EX,1980,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2025,FRETRAMAR_________ALL_EX,1980,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2026,FRETRARAI_________DSL_EX,1980,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2026,FRETRAMAR_________ALL_EX,1980,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2027,FRETRARAI_________DSL_EX,1980,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2027,FRETRAMAR_________ALL_EX,1980,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2028,FRETRARAI_________DSL_EX,1980,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2028,FRETRAMAR_________ALL_EX,1980,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2029,FRETRARAI_________DSL_EX,1980,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2029,FRETRAMAR_________ALL_EX,1980,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2030,FRETRAMAR_________ALL_EX,1980,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2031,FRETRAMAR_________ALL_EX,1980,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2032,FRETRAMAR_________ALL_EX,1980,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2033,FRETRAMAR_________ALL_EX,1980,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2034,FRETRAMAR_________ALL_EX,1980,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2035,FRETRAMAR_________ALL_EX,1980,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2036,FRETRAMAR_________ALL_EX,1980,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2037,FRETRAMAR_________ALL_EX,1980,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2038,FRETRAMAR_________ALL_EX,1980,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2039,FRETRAMAR_________ALL_EX,1980,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2040,FRETRAMAR_________ALL_EX,1980,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2041,FRETRAMAR_________ALL_EX,1980,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2042,FRETRAMAR_________ALL_EX,1980,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2043,FRETRAMAR_________ALL_EX,1980,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2044,FRETRAMAR_________ALL_EX,1980,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2045,FRETRAMAR_________ALL_EX,1980,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2046,FRETRAMAR_________ALL_EX,1980,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2047,FRETRAMAR_________ALL_EX,1980,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2048,FRETRAMAR_________ALL_EX,1980,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2049,FRETRAMAR_________ALL_EX,1980,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2050,FRETRAMAR_________ALL_EX,1980,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2016,FRETRARAI_________DSL_EX,1975,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2016,FRETRAMAR_________ALL_EX,1975,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2017,FRETRARAI_________DSL_EX,1975,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2017,FRETRAMAR_________ALL_EX,1975,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2018,FRETRARAI_________DSL_EX,1975,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2018,FRETRAMAR_________ALL_EX,1975,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2019,FRETRARAI_________DSL_EX,1975,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2019,FRETRAMAR_________ALL_EX,1975,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2020,FRETRARAI_________DSL_EX,1975,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2020,FRETRAMAR_________ALL_EX,1975,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2021,FRETRARAI_________DSL_EX,1975,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2021,FRETRAMAR_________ALL_EX,1975,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2022,FRETRARAI_________DSL_EX,1975,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2022,FRETRAMAR_________ALL_EX,1975,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2023,FRETRARAI_________DSL_EX,1975,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2023,FRETRAMAR_________ALL_EX,1975,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2024,FRETRARAI_________DSL_EX,1975,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2024,FRETRAMAR_________ALL_EX,1975,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2025,FRETRAMAR_________ALL_EX,1975,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2026,FRETRAMAR_________ALL_EX,1975,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2027,FRETRAMAR_________ALL_EX,1975,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2028,FRETRAMAR_________ALL_EX,1975,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2029,FRETRAMAR_________ALL_EX,1975,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2030,FRETRAMAR_________ALL_EX,1975,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2031,FRETRAMAR_________ALL_EX,1975,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2032,FRETRAMAR_________ALL_EX,1975,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2033,FRETRAMAR_________ALL_EX,1975,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2034,FRETRAMAR_________ALL_EX,1975,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2035,FRETRAMAR_________ALL_EX,1975,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2036,FRETRAMAR_________ALL_EX,1975,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2037,FRETRAMAR_________ALL_EX,1975,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2038,FRETRAMAR_________ALL_EX,1975,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2039,FRETRAMAR_________ALL_EX,1975,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2040,FRETRAMAR_________ALL_EX,1975,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2041,FRETRAMAR_________ALL_EX,1975,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2042,FRETRAMAR_________ALL_EX,1975,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2043,FRETRAMAR_________ALL_EX,1975,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2044,FRETRAMAR_________ALL_EX,1975,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2045,FRETRAMAR_________ALL_EX,1975,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2046,FRETRAMAR_________ALL_EX,1975,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2047,FRETRAMAR_________ALL_EX,1975,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2048,FRETRAMAR_________ALL_EX,1975,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2049,FRETRAMAR_________ALL_EX,1975,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2050,FRETRAMAR_________ALL_EX,1975,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2016,FRETRARAI_________DSL_EX,1970,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2016,FRETRAMAR_________ALL_EX,1970,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2017,FRETRARAI_________DSL_EX,1970,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2017,FRETRAMAR_________ALL_EX,1970,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2018,FRETRARAI_________DSL_EX,1970,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2018,FRETRAMAR_________ALL_EX,1970,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2019,FRETRARAI_________DSL_EX,1970,20.0,k$/kunits,Freight TransportationTransportationRailDiesel
+TO,2019,FRETRAMAR_________ALL_EX,1970,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2020,FRETRAMAR_________ALL_EX,1970,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2021,FRETRAMAR_________ALL_EX,1970,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2022,FRETRAMAR_________ALL_EX,1970,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2023,FRETRAMAR_________ALL_EX,1970,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2024,FRETRAMAR_________ALL_EX,1970,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2025,FRETRAMAR_________ALL_EX,1970,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2026,FRETRAMAR_________ALL_EX,1970,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2027,FRETRAMAR_________ALL_EX,1970,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2028,FRETRAMAR_________ALL_EX,1970,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2029,FRETRAMAR_________ALL_EX,1970,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2030,FRETRAMAR_________ALL_EX,1970,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2031,FRETRAMAR_________ALL_EX,1970,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2032,FRETRAMAR_________ALL_EX,1970,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2033,FRETRAMAR_________ALL_EX,1970,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2034,FRETRAMAR_________ALL_EX,1970,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2035,FRETRAMAR_________ALL_EX,1970,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2036,FRETRAMAR_________ALL_EX,1970,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2037,FRETRAMAR_________ALL_EX,1970,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2038,FRETRAMAR_________ALL_EX,1970,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2039,FRETRAMAR_________ALL_EX,1970,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2040,FRETRAMAR_________ALL_EX,1970,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2041,FRETRAMAR_________ALL_EX,1970,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2042,FRETRAMAR_________ALL_EX,1970,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2043,FRETRAMAR_________ALL_EX,1970,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2044,FRETRAMAR_________ALL_EX,1970,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2045,FRETRAMAR_________ALL_EX,1970,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2046,FRETRAMAR_________ALL_EX,1970,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2047,FRETRAMAR_________ALL_EX,1970,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2048,FRETRAMAR_________ALL_EX,1970,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2049,FRETRAMAR_________ALL_EX,1970,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2050,FRETRAMAR_________ALL_EX,1970,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2016,FRETRAMAR_________ALL_EX,1965,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2017,FRETRAMAR_________ALL_EX,1965,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2018,FRETRAMAR_________ALL_EX,1965,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2019,FRETRAMAR_________ALL_EX,1965,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2020,FRETRAMAR_________ALL_EX,1965,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2021,FRETRAMAR_________ALL_EX,1965,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2022,FRETRAMAR_________ALL_EX,1965,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2023,FRETRAMAR_________ALL_EX,1965,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2024,FRETRAMAR_________ALL_EX,1965,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2025,FRETRAMAR_________ALL_EX,1965,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2026,FRETRAMAR_________ALL_EX,1965,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2027,FRETRAMAR_________ALL_EX,1965,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2028,FRETRAMAR_________ALL_EX,1965,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2029,FRETRAMAR_________ALL_EX,1965,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2030,FRETRAMAR_________ALL_EX,1965,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2031,FRETRAMAR_________ALL_EX,1965,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2032,FRETRAMAR_________ALL_EX,1965,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2033,FRETRAMAR_________ALL_EX,1965,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2034,FRETRAMAR_________ALL_EX,1965,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2035,FRETRAMAR_________ALL_EX,1965,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2036,FRETRAMAR_________ALL_EX,1965,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2037,FRETRAMAR_________ALL_EX,1965,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2038,FRETRAMAR_________ALL_EX,1965,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2039,FRETRAMAR_________ALL_EX,1965,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2040,FRETRAMAR_________ALL_EX,1965,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2041,FRETRAMAR_________ALL_EX,1965,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2042,FRETRAMAR_________ALL_EX,1965,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2043,FRETRAMAR_________ALL_EX,1965,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2044,FRETRAMAR_________ALL_EX,1965,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2045,FRETRAMAR_________ALL_EX,1965,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2046,FRETRAMAR_________ALL_EX,1965,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2047,FRETRAMAR_________ALL_EX,1965,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2048,FRETRAMAR_________ALL_EX,1965,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2049,FRETRAMAR_________ALL_EX,1965,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2050,FRETRAMAR_________ALL_EX,1965,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2016,FRETRAMAR_________ALL_EX,1960,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2017,FRETRAMAR_________ALL_EX,1960,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2018,FRETRAMAR_________ALL_EX,1960,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2019,FRETRAMAR_________ALL_EX,1960,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2020,FRETRAMAR_________ALL_EX,1960,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2021,FRETRAMAR_________ALL_EX,1960,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2022,FRETRAMAR_________ALL_EX,1960,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2023,FRETRAMAR_________ALL_EX,1960,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2024,FRETRAMAR_________ALL_EX,1960,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2025,FRETRAMAR_________ALL_EX,1960,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2026,FRETRAMAR_________ALL_EX,1960,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2027,FRETRAMAR_________ALL_EX,1960,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2028,FRETRAMAR_________ALL_EX,1960,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2029,FRETRAMAR_________ALL_EX,1960,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2030,FRETRAMAR_________ALL_EX,1960,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2031,FRETRAMAR_________ALL_EX,1960,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2032,FRETRAMAR_________ALL_EX,1960,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2033,FRETRAMAR_________ALL_EX,1960,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2034,FRETRAMAR_________ALL_EX,1960,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2035,FRETRAMAR_________ALL_EX,1960,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2036,FRETRAMAR_________ALL_EX,1960,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2037,FRETRAMAR_________ALL_EX,1960,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2038,FRETRAMAR_________ALL_EX,1960,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2039,FRETRAMAR_________ALL_EX,1960,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2040,FRETRAMAR_________ALL_EX,1960,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2041,FRETRAMAR_________ALL_EX,1960,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2042,FRETRAMAR_________ALL_EX,1960,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2043,FRETRAMAR_________ALL_EX,1960,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2044,FRETRAMAR_________ALL_EX,1960,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2045,FRETRAMAR_________ALL_EX,1960,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2046,FRETRAMAR_________ALL_EX,1960,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2047,FRETRAMAR_________ALL_EX,1960,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2048,FRETRAMAR_________ALL_EX,1960,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2049,FRETRAMAR_________ALL_EX,1960,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2050,FRETRAMAR_________ALL_EX,1960,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2016,FRETRAMAR_________ALL_EX,1955,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2017,FRETRAMAR_________ALL_EX,1955,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2018,FRETRAMAR_________ALL_EX,1955,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2019,FRETRAMAR_________ALL_EX,1955,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2020,FRETRAMAR_________ALL_EX,1955,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2021,FRETRAMAR_________ALL_EX,1955,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2022,FRETRAMAR_________ALL_EX,1955,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2023,FRETRAMAR_________ALL_EX,1955,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2024,FRETRAMAR_________ALL_EX,1955,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2025,FRETRAMAR_________ALL_EX,1955,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2026,FRETRAMAR_________ALL_EX,1955,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2027,FRETRAMAR_________ALL_EX,1955,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2028,FRETRAMAR_________ALL_EX,1955,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2029,FRETRAMAR_________ALL_EX,1955,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2030,FRETRAMAR_________ALL_EX,1955,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2031,FRETRAMAR_________ALL_EX,1955,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2032,FRETRAMAR_________ALL_EX,1955,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2033,FRETRAMAR_________ALL_EX,1955,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2034,FRETRAMAR_________ALL_EX,1955,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2035,FRETRAMAR_________ALL_EX,1955,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2036,FRETRAMAR_________ALL_EX,1955,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2037,FRETRAMAR_________ALL_EX,1955,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2038,FRETRAMAR_________ALL_EX,1955,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2039,FRETRAMAR_________ALL_EX,1955,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2040,FRETRAMAR_________ALL_EX,1955,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2041,FRETRAMAR_________ALL_EX,1955,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2042,FRETRAMAR_________ALL_EX,1955,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2043,FRETRAMAR_________ALL_EX,1955,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2044,FRETRAMAR_________ALL_EX,1955,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2045,FRETRAMAR_________ALL_EX,1955,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2046,FRETRAMAR_________ALL_EX,1955,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2047,FRETRAMAR_________ALL_EX,1955,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2048,FRETRAMAR_________ALL_EX,1955,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2049,FRETRAMAR_________ALL_EX,1955,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2050,FRETRAMAR_________ALL_EX,1955,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2016,FRETRAMAR_________ALL_EX,1950,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2017,FRETRAMAR_________ALL_EX,1950,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2018,FRETRAMAR_________ALL_EX,1950,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2019,FRETRAMAR_________ALL_EX,1950,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2020,FRETRAMAR_________ALL_EX,1950,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2021,FRETRAMAR_________ALL_EX,1950,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2022,FRETRAMAR_________ALL_EX,1950,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2023,FRETRAMAR_________ALL_EX,1950,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2024,FRETRAMAR_________ALL_EX,1950,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2025,FRETRAMAR_________ALL_EX,1950,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2026,FRETRAMAR_________ALL_EX,1950,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2027,FRETRAMAR_________ALL_EX,1950,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2028,FRETRAMAR_________ALL_EX,1950,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2029,FRETRAMAR_________ALL_EX,1950,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2030,FRETRAMAR_________ALL_EX,1950,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2031,FRETRAMAR_________ALL_EX,1950,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2032,FRETRAMAR_________ALL_EX,1950,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2033,FRETRAMAR_________ALL_EX,1950,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2034,FRETRAMAR_________ALL_EX,1950,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2035,FRETRAMAR_________ALL_EX,1950,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2036,FRETRAMAR_________ALL_EX,1950,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2037,FRETRAMAR_________ALL_EX,1950,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2038,FRETRAMAR_________ALL_EX,1950,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2039,FRETRAMAR_________ALL_EX,1950,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2040,FRETRAMAR_________ALL_EX,1950,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2041,FRETRAMAR_________ALL_EX,1950,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2042,FRETRAMAR_________ALL_EX,1950,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2043,FRETRAMAR_________ALL_EX,1950,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2044,FRETRAMAR_________ALL_EX,1950,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2045,FRETRAMAR_________ALL_EX,1950,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2046,FRETRAMAR_________ALL_EX,1950,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2047,FRETRAMAR_________ALL_EX,1950,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2048,FRETRAMAR_________ALL_EX,1950,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2049,FRETRAMAR_________ALL_EX,1950,0.0,k$/kunits,Freight TransportationTransportationMarineAll
+TO,2050,FRETRAMAR_________ALL_EX,1950,0.0,k$/kunits,Freight TransportationTransportationMarineAll

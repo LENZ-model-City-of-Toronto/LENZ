@@ -1,0 +1,6 @@
+comm_name,flag,comm_desc
+PUBBDGWIN,p,PublicBuildingWind
+COMBDGWIN,p,CommercialBuildingWind
+RESBDGWIN,p,ResidentialBuildingWind
+INDBDGSOL,p,IndustrialBuildingSolar
+INDBDGWIN,p,IndustrialBuildingWind

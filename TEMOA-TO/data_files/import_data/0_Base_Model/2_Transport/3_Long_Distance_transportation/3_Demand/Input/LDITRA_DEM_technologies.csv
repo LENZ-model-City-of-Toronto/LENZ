@@ -1,0 +1,11 @@
+tech,flag,sector,tech_desc,tech_category
+LDITRADOMROACAR___,p,LDITRA,Long DistanceTransportationDomesticRoadCars,
+LDITRADOMROATRULGT,p,LDITRA,Long DistanceTransportationDomesticRoadTruckPassenger Light Trucks,
+LDITRADOMROABUSIUB,p,LDITRA,Long DistanceTransportationDomesticRoadInter-city BusesInter Urban Bus,
+LDITRADOMAIR______,p,LDITRA,Long DistanceTransportationDomesticAir,
+LDITRADOMRAI______,p,LDITRA,Long DistanceTransportationDomesticRail,
+LDITRAINTROACAR___,p,LDITRA,Long DistanceTransportationInternationalRoadCars,
+LDITRAINTROATRULGT,p,LDITRA,Long DistanceTransportationInternationalRoadTruckPassenger Light Trucks,
+LDITRAINTROABUSIUB,p,LDITRA,Long DistanceTransportationInternationalRoadInter-city BusesInter Urban Bus,
+LDITRAINTAIR______,p,LDITRA,Long DistanceTransportationInternationalAir,
+LDITRAINTRAI______,p,LDITRA,Long DistanceTransportationInternationalRail,

@@ -1,0 +1,11 @@
+regions,tech,vintage,exist_cap,exist_cap_units,exist_cap_notes
+TO,INDBDGLISEP_EX,2015,10000000000,TJa,IndustryBuildingLightingSelf produced
+TO,INDBDGSCSEP_EX,2015,10000000000,TJa,IndustryBuildingSpace CoolingSelf produced
+TO,INDBDGSCDCO_EX,2015,10000000000,TJa,IndustryBuildingSpace CoolingDistrict Cooling
+TO,INDBDGIPSEP_EX,2015,10000000000,TJa,IndustryBuildingIndustrial ProcessesSelf producedMix Energy
+TO,INDBDGIPSEPMENE_EX,2015,10000000000,TJa,IndustryBuildingIndustrial ProcessesSelf producedMix Energy
+TO,INDBDGSHSEP_EX,2015,10000000000,TJa,IndustryBuildingSpace HeatingSelf produced
+TO,INDBDGSHDHE_EX,2015,10000000000,TJa,IndustryBuildingSpace HeatingDistrict Heating
+TO,INDBDGWHSEP_EX,2015,10000000000,TJa,IndustryBuildingWater HeatingSelf produced
+TO,INDBDGWHDHE_EX,2015,10000000000,TJa,IndustryBuildingWater HeatingDistrict Heating
+TO,INDBDGIPSEPETHOS_EX,2015,10000000000,TJa,IndustryBuildingIndustrial ProcessesSelf produced

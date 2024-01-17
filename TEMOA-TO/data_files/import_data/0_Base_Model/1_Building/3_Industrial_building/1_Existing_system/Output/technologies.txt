@@ -1,0 +1,10 @@
+INSERT INTO`technologies`VALUES('INDBDGLISEP_EX','p','INDBDG','IndustryBuildingLightingSelf produced','nan');
+INSERT INTO`technologies`VALUES('INDBDGSCSEP_EX','p','INDBDG','IndustryBuildingSpace CoolingSelf produced','nan');
+INSERT INTO`technologies`VALUES('INDBDGSCDCO_EX','p','INDBDG','IndustryBuildingSpace CoolingDistrict Cooling','nan');
+INSERT INTO`technologies`VALUES('INDBDGIPSEP_EX','p','INDBDG','IndustryBuildingIndustrial ProcessesSelf producedMix Energy','nan');
+INSERT INTO`technologies`VALUES('INDBDGIPSEPMENE_EX','p','INDBDG','IndustryBuildingIndustrial ProcessesSelf producedMix Energy','nan');
+INSERT INTO`technologies`VALUES('INDBDGSHSEP_EX','p','INDBDG','IndustryBuildingSpace HeatingSelf produced','nan');
+INSERT INTO`technologies`VALUES('INDBDGSHDHE_EX','p','INDBDG','IndustryBuildingSpace HeatingDistrict Heating','nan');
+INSERT INTO`technologies`VALUES('INDBDGWHSEP_EX','p','INDBDG','IndustryBuildingWater HeatingSelf produced','nan');
+INSERT INTO`technologies`VALUES('INDBDGWHDHE_EX','p','INDBDG','IndustryBuildingWater HeatingDistrict Heating','nan');
+INSERT INTO`technologies`VALUES('INDBDGIPSEPETHOS_EX','p','INDBDG','IndustryBuildingIndustrial ProcessesSelf produced','nan');

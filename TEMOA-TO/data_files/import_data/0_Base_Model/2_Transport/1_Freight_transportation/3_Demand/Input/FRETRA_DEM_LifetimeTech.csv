@@ -1,0 +1,7 @@
+regions,tech,life,life_notes
+TO,FRETRAROATRULGT,200,Freight TransportationTransportationRoadTruckPassenger Light Trucks
+TO,FRETRAROATRUMET,200,Freight TransportationTransportationRoadTruckMedium Trucks
+TO,FRETRAROATRUHET,200,Freight TransportationTransportationRoadTruckHeavy Trucks
+TO,FRETRAAIR______,200,Freight TransportationTransportationAir
+TO,FRETRARAI______,200,Freight TransportationTransportationRail
+TO,FRETRAMAR______,200,Freight TransportationTransportationMarine

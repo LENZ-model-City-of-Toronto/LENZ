@@ -1,0 +1,10 @@
+INSERT INTO`ExistingCapacity`VALUES('TO','LDITRADOMROACAR___',2015,10000000000,'nan','Long DistanceTransportationDomesticRoadCars');
+INSERT INTO`ExistingCapacity`VALUES('TO','LDITRADOMROATRULGT',2015,10000000000,'nan','Long DistanceTransportationDomesticRoadTruckPassenger Light Trucks');
+INSERT INTO`ExistingCapacity`VALUES('TO','LDITRADOMROABUSIUB',2015,10000000000,'nan','Long DistanceTransportationDomesticRoadInter-city BusesInter Urban Bus');
+INSERT INTO`ExistingCapacity`VALUES('TO','LDITRADOMAIR______',2015,10000000000,'nan','Long DistanceTransportationDomesticAir');
+INSERT INTO`ExistingCapacity`VALUES('TO','LDITRADOMRAI______',2015,10000000000,'nan','Long DistanceTransportationDomesticRail');
+INSERT INTO`ExistingCapacity`VALUES('TO','LDITRAINTROACAR___',2015,10000000000,'nan','Long DistanceTransportationInternationalRoadCars');
+INSERT INTO`ExistingCapacity`VALUES('TO','LDITRAINTROATRULGT',2015,10000000000,'nan','Long DistanceTransportationInternationalRoadTruckPassenger Light Trucks');
+INSERT INTO`ExistingCapacity`VALUES('TO','LDITRAINTROABUSIUB',2015,10000000000,'nan','Long DistanceTransportationInternationalRoadInter-city BusesInter Urban Bus');
+INSERT INTO`ExistingCapacity`VALUES('TO','LDITRAINTAIR______',2015,10000000000,'nan','Long DistanceTransportationInternationalAir');
+INSERT INTO`ExistingCapacity`VALUES('TO','LDITRAINTRAI______',2015,10000000000,'nan','Long DistanceTransportationInternationalRail');

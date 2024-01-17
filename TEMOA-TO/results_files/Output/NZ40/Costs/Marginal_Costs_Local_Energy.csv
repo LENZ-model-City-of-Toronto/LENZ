@@ -1,0 +1,346 @@
+Marginal cost of local energy production (k$/TJ)
+Period,Subsector,Energy,Marginal_Costs
+2016,Commercial building,Bio Methane,2.3519522074294184
+2016,Commercial building,District Cooling,12.26301034560722
+2016,Commercial building,District Heating,7.975689954508103
+2016,Commercial building,Electricity,41.015804583068494
+2016,Industrial building,Bio Methane,-82974592.28640445
+2016,Industrial building,Electricity,41.01556610856352
+2016,Passenger transportation,Bio Methane,-123.22175202536806
+2016,Passenger transportation,Electricity,41.015084081745904
+2016,Public building,Bio Methane,2.3441736830792137
+2016,Public building,District Cooling,40.26513006399336
+2016,Public building,District Heating,4.992297405208074
+2016,Public building,Electricity,41.015631651035086
+2016,Residential building,Bio Methane,2.348951676629037
+2016,Residential building,District Cooling,10.210007182418218
+2016,Residential building,District Heating,43.8062674085357
+2016,Residential building,Electricity,41.01576852952269
+2016,Solid waste,Bio Methane,1.608851747374702
+2016,Water waste,Bio Methane,1.355977022778068
+2016,Water waste,Electricity,41.015078440904745
+2017,Commercial building,Bio Methane,2.6625489484307154
+2017,Commercial building,District Cooling,11.588436719462415
+2017,Commercial building,District Heating,6.44384546978195
+2017,Commercial building,Electricity,40.66842857866348
+2017,Industrial building,Bio Methane,-84596479.96801487
+2017,Industrial building,Electricity,40.66819004467006
+2017,Passenger transportation,Bio Methane,-18.675939522718355
+2017,Passenger transportation,Electricity,40.667709231037314
+2017,Public building,Bio Methane,2.6562294861726508
+2017,Public building,District Cooling,39.92228011239666
+2017,Public building,District Heating,5.174444929396092
+2017,Public building,Electricity,40.66825652408704
+2017,Residential building,Bio Methane,2.6604624171914044
+2017,Residential building,District Cooling,3.7500368301746927
+2017,Residential building,District Heating,41.08681089325876
+2017,Residential building,Electricity,40.66839126888328
+2017,Solid waste,Bio Methane,1.9380962324436974
+2017,Water waste,Bio Methane,1.6952604768394477
+2017,Water waste,Electricity,40.66770778404945
+2018,Commercial building,Bio Methane,3.6233499078277567
+2018,Commercial building,District Cooling,11.720672881564141
+2018,Commercial building,District Heating,7.118913125055009
+2018,Commercial building,Electricity,40.30649268387624
+2018,Industrial building,Bio Methane,-84823665.3158836
+2018,Industrial building,Electricity,40.30625427907607
+2018,Passenger transportation,Bio Methane,-7.14521270665279
+2018,Passenger transportation,Electricity,40.305775192318926
+2018,Public building,Bio Methane,3.6199293881948242
+2018,Public building,District Cooling,39.588491634938556
+2018,Public building,District Heating,5.248869677022072
+2018,Public building,Electricity,40.306322951610255
+2018,Residential building,Bio Methane,3.619581861512851
+2018,Residential building,District Cooling,2.0445033578369207
+2018,Residential building,District Heating,40.32799186152915
+2018,Residential building,Electricity,40.306456670626964
+2018,Solid waste,Bio Methane,2.691600567423662
+2018,Water waste,Bio Methane,2.6837619760398277
+2018,Water waste,Electricity,40.30577724358116
+2019,Commercial building,Bio Methane,2.840493044418242
+2019,Commercial building,District Cooling,11.35043830879549
+2019,Commercial building,District Heating,6.1833021201583245
+2019,Commercial building,Electricity,39.93113988828941
+2019,Industrial building,Bio Methane,-85147197.72949061
+2019,Industrial building,Electricity,39.93090164169497
+2019,Passenger transportation,Bio Methane,-4.728722881971418
+2019,Passenger transportation,Electricity,39.93042398273532
+2019,Public building,Bio Methane,2.8372469409747345
+2019,Public building,District Cooling,39.19767425743645
+2019,Public building,District Heating,4.391466271329165
+2019,Public building,Electricity,39.93097102595756
+2019,Residential building,Bio Methane,2.8372659659709307
+2019,Residential building,District Cooling,-2.8994963509345975
+2019,Residential building,District Heating,39.10792891867842
+2019,Residential building,Electricity,39.93110334626184
+2019,Solid waste,Bio Methane,1.932515347008593
+2019,Water waste,Bio Methane,1.928243749135555
+2019,Water waste,Electricity,39.93042996462567
+2020,Commercial building,Bio Methane,2.230236989281979
+2020,Commercial building,District Cooling,11.460717358489857
+2020,Commercial building,District Heating,5.755520059434628
+2020,Commercial building,Electricity,41.094183735842705
+2020,Industrial building,Bio Methane,-85155123.51238048
+2020,Industrial building,Electricity,41.09394555450321
+2020,Passenger transportation,Bio Methane,1.1025989718324394
+2020,Passenger transportation,Electricity,41.09349840536757
+2020,Public building,Bio Methane,2.2273639465488784
+2020,Public building,District Cooling,40.65183543666874
+2020,Public building,District Heating,3.713140316342223
+2020,Public building,Electricity,41.09401606860747
+2020,Residential building,Bio Methane,2.226932005371482
+2020,Residential building,District Cooling,-2.821900531384567
+2020,Residential building,District Heating,40.20057959004323
+2020,Residential building,Electricity,41.09414264575773
+2020,Solid waste,Bio Methane,1.3490632084636243
+2020,Water waste,Bio Methane,1.3446689290646874
+2020,Water waste,Electricity,41.09347900556959
+2021,Commercial building,Bio Methane,3.1781106207421437
+2021,Commercial building,District Cooling,11.672915266866594
+2021,Commercial building,District Heating,6.622596754294085
+2021,Commercial building,Electricity,40.65004430894083
+2021,Industrial building,Bio Methane,-84481943.1882096
+2021,Industrial building,Electricity,40.64980622579439
+2021,Passenger transportation,Bio Methane,2.4480744660789147
+2021,Passenger transportation,Electricity,40.64936121826955
+2021,Public building,Bio Methane,3.175396048756957
+2021,Public building,District Cooling,40.25245368620742
+2021,Public building,District Heating,4.781780191987478
+2021,Public building,Electricity,40.64987750808847
+2021,Residential building,Bio Methane,3.175091698378646
+2021,Residential building,District Cooling,-6.080762941034043
+2021,Residential building,District Heating,40.33503464866623
+2021,Residential building,Electricity,40.65000370757387
+2021,Solid waste,Bio Methane,2.3216727866101876
+2021,Water waste,Bio Methane,2.3183594040197226
+2021,Water waste,Electricity,40.64934462252233
+2022,Commercial building,Bio Methane,3.2041705339351
+2022,Commercial building,District Cooling,11.546424481816148
+2022,Commercial building,District Heating,6.544112846830978
+2022,Commercial building,Electricity,40.196915408463035
+2022,Industrial building,Bio Methane,-84722900.09342937
+2022,Industrial building,Electricity,40.19667740126036
+2022,Passenger transportation,Bio Methane,2.4778697231851896
+2022,Passenger transportation,Electricity,40.19623368738118
+2022,Public building,Bio Methane,3.201493494348057
+2022,Public building,District Cooling,39.9826159852364
+2022,Public building,District Heating,9.316134299626214
+2022,Public building,Electricity,40.19674916202527
+2022,Residential building,Bio Methane,3.201070792838788
+2022,Residential building,District Cooling,-12.31355872445661
+2022,Residential building,District Heating,40.434141827800666
+2022,Residential building,Electricity,40.19687419035224
+2022,Solid waste,Bio Methane,2.3728199388462783
+2022,Water waste,Bio Methane,2.3695355605468236
+2022,Water waste,Electricity,40.19621926814879
+2023,Commercial building,Bio Methane,0.9175531376716166
+2023,Commercial building,District Cooling,-5.757615921142858
+2023,Commercial building,District Heating,-3.38250535273207
+2023,Commercial building,Electricity,-5.125142316147843
+2023,Freight transportation,Bio Methane,0.5612289879023178
+2023,Freight transportation,Electricity,22.526330935497032
+2023,Industrial building,Bio Methane,0.9224953960922037
+2023,Industrial building,District Cooling,1.016477661747728
+2023,Industrial building,District Heating,0.9788861924598375
+2023,Industrial building,Electricity,0.918424512336469
+2023,Passenger transportation,Bio Methane,0.849986704202029
+2023,Passenger transportation,Electricity,27.396342282987963
+2023,Public building,Bio Methane,0.8999217345692785
+2023,Public building,District Cooling,-1.417702030153449
+2023,Public building,District Heating,-2.137476754231302
+2023,Public building,Electricity,-5.067571936242863
+2023,Public transportation,Bio Methane,0.8498565525331702
+2023,Public transportation,Electricity,36.300384098234495
+2023,Residential building,Bio Methane,0.9111011780110236
+2023,Residential building,District Cooling,-114.2576092685535
+2023,Residential building,District Heating,0.10151100596810234
+2023,Residential building,Electricity,0.004219588661865102
+2023,Solid waste,Bio Methane,0.11494503277057098
+2023,Solid waste,Electricity,-119.02088151695855
+2023,Water waste,Bio Methane,0.11246049264141328
+2023,Water waste,Electricity,39.73500501330119
+2024,Commercial building,Bio Methane,8.25990811942986
+2024,Commercial building,District Cooling,-5.501008485350557
+2024,Commercial building,District Heating,-1.58483124371185
+2024,Commercial building,Electricity,-4.914045918502612
+2024,Freight transportation,Bio Methane,11.484233782881999
+2024,Freight transportation,Electricity,30.302429452383908
+2024,Industrial building,Bio Methane,11.574217072443115
+2024,Industrial building,District Cooling,3.9718381088106205
+2024,Industrial building,District Heating,11.620731590370314
+2024,Industrial building,Electricity,11.572404026700667
+2024,Passenger transportation,Bio Methane,11.508002562164279
+2024,Passenger transportation,Electricity,27.438851709609278
+2024,Public building,Bio Methane,11.574178302364011
+2024,Public building,District Cooling,10.833151176816248
+2024,Public building,District Heating,14.313599860887457
+2024,Public building,Electricity,13.641821367234472
+2024,Public transportation,Bio Methane,11.515062252921958
+2024,Public transportation,Electricity,37.87611119883653
+2024,Residential building,Bio Methane,11.568859987455674
+2024,Residential building,District Cooling,-180.05670792477537
+2024,Residential building,District Heating,12.777359220355118
+2024,Residential building,Electricity,11.861946387166038
+2024,Solid waste,Bio Methane,10.786319064424493
+2024,Solid waste,Electricity,8.52782206186793
+2024,Water waste,Bio Methane,10.78703064162253
+2024,Water waste,Electricity,39.26655735645676
+2025,Commercial building,Bio Methane,97.2310063889861
+2025,Commercial building,District Cooling,108.39969831654504
+2025,Commercial building,District Heating,109.88883840645771
+2025,Commercial building,Electricity,107.17444476244202
+2025,Freight transportation,Bio Methane,97.1763973809043
+2025,Freight transportation,Electricity,187.34673524890087
+2025,Industrial building,Bio Methane,96.7225636095262
+2025,Industrial building,District Cooling,18.86902064856031
+2025,Industrial building,District Heating,64.37779402687636
+2025,Industrial building,Electricity,64.3372627323911
+2025,Long distance transportation,Electricity,184.53882704393038
+2025,Passenger transportation,Bio Methane,97.22836034525592
+2025,Passenger transportation,Electricity,185.99748654053215
+2025,Public building,Bio Methane,97.22585654719613
+2025,Public building,District Cooling,71.8058772651896
+2025,Public building,District Heating,101.85483795064022
+2025,Public building,Electricity,88.61496920987928
+2025,Public transportation,Bio Methane,97.20369454965191
+2025,Public transportation,Electricity,186.44023064708665
+2025,Residential building,Bio Methane,97.2173451385866
+2025,Residential building,District Cooling,-207.11225102967268
+2025,Residential building,District Heating,85.44997420253326
+2025,Residential building,Electricity,67.20078345795815
+2025,Solid waste,Bio Methane,93.61664793220324
+2025,Solid waste,Electricity,119.28976748925534
+2025,Water waste,Bio Methane,93.61737312258896
+2025,Water waste,Electricity,186.92527442791456
+2030,Commercial building,Bio Methane,81.82429659666718
+2030,Commercial building,District Cooling,115.17099169226796
+2030,Commercial building,District Heating,92.55083569271032
+2030,Commercial building,Electricity,119.3027596375889
+2030,Freight transportation,Bio Methane,79.69277981570623
+2030,Freight transportation,Electricity,181.2330641446725
+2030,Industrial building,Bio Methane,81.1764970882538
+2030,Industrial building,District Cooling,18.063502087307132
+2030,Industrial building,District Heating,58.47974471622359
+2030,Industrial building,Electricity,58.46577428586062
+2030,Long distance transportation,Electricity,180.26419692323645
+2030,Passenger transportation,Bio Methane,81.8506376975518
+2030,Passenger transportation,Electricity,185.76101341262844
+2030,Public building,Bio Methane,77.08156431946618
+2030,Public building,District Cooling,97.7121022463034
+2030,Public building,District Heating,91.82525817196176
+2030,Public building,Electricity,105.62925576689389
+2030,Public transportation,Bio Methane,81.84063409313933
+2030,Public transportation,Electricity,144.5974467772013
+2030,Residential building,Bio Methane,77.39432412111752
+2030,Residential building,District Cooling,-191.83783564497332
+2030,Residential building,District Heating,72.34798266563881
+2030,Residential building,Electricity,98.64352021641803
+2030,Solid waste,Bio Methane,78.73308126057512
+2030,Solid waste,Electricity,131.92263917935415
+2030,Water waste,Bio Methane,78.73431782231029
+2030,Water waste,Electricity,181.2441170835074
+2035,Commercial building,Bio Methane,115.61873113059687
+2035,Commercial building,District Cooling,169.7072100475828
+2035,Commercial building,District Heating,103.32577543171575
+2035,Commercial building,Electricity,178.83339556475278
+2035,Freight transportation,Bio Methane,214.6031121548275
+2035,Freight transportation,Electricity,196.2559717060431
+2035,Industrial building,Bio Methane,155.19689084824586
+2035,Industrial building,District Cooling,17.451470777106827
+2035,Industrial building,District Heating,57.52220373882772
+2035,Industrial building,Electricity,57.51916994049116
+2035,Long distance transportation,Electricity,188.08556408694918
+2035,Passenger transportation,Bio Methane,220.52271410340484
+2035,Passenger transportation,Electricity,222.2280394592164
+2035,Public building,Bio Methane,115.24272222537829
+2035,Public building,District Cooling,170.73576272546237
+2035,Public building,District Heating,113.99083792993545
+2035,Public building,Electricity,190.13682294728096
+2035,Public transportation,Bio Methane,220.51110180936888
+2035,Public transportation,Electricity,205.27238564336568
+2035,Residential building,Bio Methane,132.20539279788332
+2035,Residential building,District Cooling,-188.19355899828525
+2035,Residential building,District Heating,86.23160071720213
+2035,Residential building,Electricity,114.80986836813366
+2035,Solid waste,Bio Methane,217.8337610757615
+2035,Solid waste,Electricity,178.91162942301295
+2035,Water waste,Bio Methane,217.83483603513181
+2035,Water waste,Electricity,189.31116087867443
+2040,Commercial building,Bio Methane,127.88168309080935
+2040,Commercial building,District Cooling,195.49864442572832
+2040,Commercial building,District Heating,480.2225043959048
+2040,Commercial building,Electricity,179.24672066096062
+2040,Freight transportation,Electricity,182.1581349866495
+2040,Industrial building,Bio Methane,127.88415405312571
+2040,Industrial building,District Cooling,21.60287486337882
+2040,Industrial building,District Heating,72.74942678518016
+2040,Industrial building,Electricity,72.47779374663033
+2040,Long distance transportation,Electricity,181.04736200434442
+2040,Passenger transportation,Bio Methane,125.43486346711728
+2040,Passenger transportation,Electricity,182.15823157780616
+2040,Public building,Bio Methane,127.88440206564397
+2040,Public building,District Cooling,156.74689858752382
+2040,Public building,District Heating,117.69952671950598
+2040,Public building,Electricity,180.9388506573919
+2040,Public transportation,Bio Methane,127.87020640304148
+2040,Public transportation,Electricity,182.06937714750995
+2040,Residential building,Bio Methane,127.78372928930489
+2040,Residential building,District Cooling,-126.85921870830542
+2040,Residential building,District Heating,185.31667398078312
+2040,Residential building,Electricity,157.82726332716652
+2040,Solid waste,Bio Methane,125.56644372881159
+2040,Solid waste,Electricity,168.86514594238102
+2040,Water waste,Bio Methane,125.56737304316549
+2040,Water waste,Electricity,182.16520907051927
+2045,Commercial building,Bio Methane,122.35829322130016
+2045,Commercial building,District Cooling,182.38031285051684
+2045,Commercial building,District Heating,107.40185085303932
+2045,Commercial building,Electricity,160.55973913690895
+2045,Freight transportation,Electricity,164.19980492119382
+2045,Industrial building,Bio Methane,122.44971979572018
+2045,Industrial building,District Cooling,15.03661608590903
+2045,Industrial building,District Heating,18.06201196153701
+2045,Industrial building,Electricity,50.07524417802327
+2045,Long distance transportation,Electricity,163.31159094794307
+2045,Passenger transportation,Bio Methane,117.19390899738599
+2045,Passenger transportation,Electricity,164.20135754041263
+2045,Public building,Bio Methane,122.44890651524999
+2045,Public building,District Cooling,135.7939208758942
+2045,Public building,District Heating,89.65602052420513
+2045,Public building,Electricity,164.20576250940252
+2045,Public transportation,Bio Methane,121.4443168859326
+2045,Public transportation,Electricity,164.12518113324617
+2045,Residential building,Bio Methane,122.2902409906999
+2045,Residential building,District Cooling,-100.32156732889669
+2045,Residential building,District Heating,171.11590497679498
+2045,Residential building,Electricity,150.56767580571304
+2045,Solid waste,Bio Methane,120.4512023594812
+2045,Solid waste,Electricity,149.93767131600438
+2045,Water waste,Bio Methane,120.45164087782811
+2045,Water waste,Electricity,164.20729094420523
+2050,Commercial building,Bio Methane,27.43438507216052
+2050,Commercial building,District Cooling,33.06867880876574
+2050,Commercial building,District Heating,19.11465752438474
+2050,Commercial building,Electricity,27.265159934290327
+2050,Freight transportation,Electricity,27.25634584895661
+2050,Industrial building,Bio Methane,27.435324596736656
+2050,Industrial building,District Cooling,2.962922341617076
+2050,Industrial building,District Heating,-93297352.54698345
+2050,Industrial building,Electricity,23.851908879915786
+2050,Long distance transportation,Electricity,27.13380995674792
+2050,Passenger transportation,Bio Methane,24.921746083009413
+2050,Passenger transportation,Electricity,27.25700769811837
+2050,Public building,Bio Methane,27.433829277141992
+2050,Public building,District Cooling,22.080948391364604
+2050,Public building,District Heating,18.43011786051823
+2050,Public building,Electricity,27.264222931818054
+2050,Public transportation,Bio Methane,26.891153954172424
+2050,Public transportation,Electricity,22.917943566761593
+2050,Residential building,Bio Methane,27.125398113623874
+2050,Residential building,District Cooling,-170.11007990704172
+2050,Residential building,District Heating,28.8806582569479
+2050,Residential building,Electricity,25.117984927024125
+2050,Solid waste,Bio Methane,27.07253803292156
+2050,Solid waste,Electricity,11.047558685830278
+2050,Water waste,Bio Methane,27.07267704259551
+2050,Water waste,Electricity,27.265251071687143

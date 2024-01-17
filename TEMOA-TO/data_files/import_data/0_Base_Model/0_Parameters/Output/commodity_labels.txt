@@ -1,0 +1,3 @@
+INSERT INTO`commodity_labels`VALUES('p','physical commodity');
+INSERT INTO`commodity_labels`VALUES('e','emissions commodity');
+INSERT INTO`commodity_labels`VALUES('d','demand commodity');

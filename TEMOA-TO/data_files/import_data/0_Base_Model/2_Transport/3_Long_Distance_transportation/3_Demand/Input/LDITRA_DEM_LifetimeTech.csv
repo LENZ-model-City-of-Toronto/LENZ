@@ -1,0 +1,11 @@
+regions,tech,life,life_notes
+TO,LDITRADOMROACAR___,200,Long DistanceTransportationDomesticRoadCars
+TO,LDITRADOMROATRULGT,200,Long DistanceTransportationDomesticRoadTruckPassenger Light Trucks
+TO,LDITRADOMROABUSIUB,200,Long DistanceTransportationDomesticRoadInter-city BusesInter Urban Bus
+TO,LDITRADOMAIR______,200,Long DistanceTransportationDomesticAir
+TO,LDITRADOMRAI______,200,Long DistanceTransportationDomesticRail
+TO,LDITRAINTROACAR___,200,Long DistanceTransportationInternationalRoadCars
+TO,LDITRAINTROATRULGT,200,Long DistanceTransportationInternationalRoadTruckPassenger Light Trucks
+TO,LDITRAINTROABUSIUB,200,Long DistanceTransportationInternationalRoadInter-city BusesInter Urban Bus
+TO,LDITRAINTAIR______,200,Long DistanceTransportationInternationalAir
+TO,LDITRAINTRAI______,200,Long DistanceTransportationInternationalRail

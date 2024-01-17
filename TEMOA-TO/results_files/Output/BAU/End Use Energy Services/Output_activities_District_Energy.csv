@@ -1,0 +1,109 @@
+Activities data district energy produced localy : per type and per year
+t_periods,Outputs,Tech_cat,EndUse,Tech_type_1,Tech_type_2,Output_units,VFlow_Out
+2016,District Cooling,Toronto Average,District Cooling,Pipe,___,TJ,1315.8013189302326
+2016,District Cooling,Toronto Average,District Cooling,Substation,___,TJ,1578.1244341472095
+2016,District Cooling,Production,District Cooling,Deep Lake Cooling,Enwave,TJ,144.62781930550236
+2016,District Cooling,Production,District Cooling,Heat Pump,Large,TJ,1315.4099691644706
+2016,District Cooling,Production,District Cooling,Heat Pump,Medium,TJ,8.034010377279241
+2016,District Cooling,Storage,District Cooling,Hot Tank Storage,Medium,TJ,297.44633509553364
+2016,District Heating,Toronto Average,District Heating,Pipe,___,TJ,6459.164787500994
+2016,District Heating,Toronto Average,District Heating,Substation,___,TJ,6787.994994865713
+2016,District Heating,Production,District Heating,Boiler,Large,TJ,7703.479087049363
+2017,District Cooling,Toronto Average,District Cooling,Pipe,___,TJ,1292.89695713275
+2017,District Cooling,Toronto Average,District Cooling,Substation,___,TJ,1557.6651248693593
+2017,District Cooling,Production,District Cooling,Deep Lake Cooling,Enwave,TJ,138.0286337942673
+2017,District Cooling,Production,District Cooling,Heat Pump,Large,TJ,1296.1011406687435
+2017,District Cooling,Production,District Cooling,Heat Pump,Medium,TJ,8.132837302505454
+2017,District Cooling,Storage,District Cooling,Hot Tank Storage,Medium,TJ,279.81142147649535
+2017,District Heating,Toronto Average,District Heating,Pipe,___,TJ,5876.367135167534
+2017,District Heating,Toronto Average,District Heating,Substation,___,TJ,6175.52764387166
+2017,District Heating,Production,District Heating,Boiler,Large,TJ,7048.400707595549
+2018,District Cooling,Toronto Average,District Cooling,Pipe,___,TJ,1329.1762854699055
+2018,District Cooling,Toronto Average,District Cooling,Substation,___,TJ,1600.1974255385055
+2018,District Cooling,Production,District Cooling,Deep Lake Cooling,Enwave,TJ,139.8137253894871
+2018,District Cooling,Production,District Cooling,Heat Pump,Large,TJ,1335.0478986176843
+2018,District Cooling,Production,District Cooling,Heat Pump,Medium,TJ,8.32099722096213
+2018,District Cooling,Storage,District Cooling,Hot Tank Storage,Medium,TJ,309.68400900982834
+2018,District Heating,Toronto Average,District Heating,Pipe,___,TJ,6630.676740820143
+2018,District Heating,Toronto Average,District Heating,Substation,___,TJ,6968.238465812839
+2018,District Heating,Production,District Heating,Boiler,Large,TJ,7901.946325928953
+2019,District Cooling,Toronto Average,District Cooling,Pipe,___,TJ,1331.223475401694
+2019,District Cooling,Toronto Average,District Cooling,Substation,___,TJ,1604.9186291936182
+2019,District Cooling,Production,District Cooling,Deep Lake Cooling,Enwave,TJ,140.72751132185334
+2019,District Cooling,Production,District Cooling,Heat Pump,Large,TJ,1336.3715002540553
+2019,District Cooling,Production,District Cooling,Heat Pump,Medium,TJ,8.410630592564184
+2019,District Cooling,Storage,District Cooling,Hot Tank Storage,Medium,TJ,312.24991657948584
+2019,District Heating,Toronto Average,District Heating,Pipe,___,TJ,6663.295014782385
+2019,District Heating,Toronto Average,District Heating,Substation,___,TJ,7002.517306449278
+2019,District Heating,Production,District Heating,Boiler,Large,TJ,7938.753809364104
+2020,District Cooling,Toronto Average,District Cooling,Pipe,___,TJ,1329.722284529203
+2020,District Cooling,Toronto Average,District Cooling,Substation,___,TJ,1622.6938682885132
+2020,District Cooling,Production,District Cooling,Deep Lake Cooling,Enwave,TJ,135.76260658876015
+2020,District Cooling,Production,District Cooling,Heat Pump,Large,TJ,1339.086177900769
+2020,District Cooling,Production,District Cooling,Heat Pump,Medium,TJ,9.067849199053263
+2020,District Cooling,Storage,District Cooling,Hot Tank Storage,Medium,TJ,315.9240041238721
+2020,District Heating,Toronto Average,District Heating,Pipe,___,TJ,6694.8554109223405
+2020,District Heating,Toronto Average,District Heating,Substation,___,TJ,7035.684413665125
+2020,District Heating,Production,District Heating,Boiler,Large,TJ,7975.15896458222
+2021,District Cooling,Toronto Average,District Cooling,Pipe,___,TJ,1331.8228552801493
+2021,District Cooling,Toronto Average,District Cooling,Substation,___,TJ,1628.9708573204518
+2021,District Cooling,Production,District Cooling,Deep Lake Cooling,Enwave,TJ,136.250501694216
+2021,District Cooling,Production,District Cooling,Heat Pump,Large,TJ,1340.7386844021498
+2021,District Cooling,Production,District Cooling,Heat Pump,Medium,TJ,9.20859017350341
+2021,District Cooling,Storage,District Cooling,Hot Tank Storage,Medium,TJ,313.3355830476608
+2021,District Heating,Toronto Average,District Heating,Pipe,___,TJ,6729.40655120285
+2021,District Heating,Toronto Average,District Heating,Substation,___,TJ,7071.994521088088
+2021,District Heating,Production,District Heating,Boiler,Large,TJ,8014.262072116536
+2022,District Cooling,Toronto Average,District Cooling,Pipe,___,TJ,1270.8679273569148
+2022,District Cooling,Toronto Average,District Cooling,Substation,___,TJ,1570.5766302537172
+2022,District Cooling,Production,District Cooling,Deep Lake Cooling,Enwave,TJ,137.46098882752048
+2022,District Cooling,Production,District Cooling,Heat Pump,Large,TJ,1270.5546267666039
+2022,District Cooling,Production,District Cooling,Heat Pump,Medium,TJ,9.337259815881767
+2022,District Cooling,Storage,District Cooling,Hot Tank Storage,Medium,TJ,258.59262785114663
+2022,District Heating,Toronto Average,District Heating,Pipe,___,TJ,6978.047784002764
+2022,District Heating,Toronto Average,District Heating,Substation,___,TJ,7333.293853011739
+2022,District Heating,Production,District Heating,Boiler,Large,TJ,8262.933885520966
+2023,District Cooling,Toronto Average,District Cooling,Pipe,___,TJ,1831.5296735452337
+2023,District Cooling,Toronto Average,District Cooling,Substation,___,TJ,2159.404468821667
+2023,District Cooling,Production,District Cooling,Deep Lake Cooling,Enwave,TJ,1934.477277874408
+2023,District Cooling,Production,District Cooling,Heat Pump,Large,TJ,98.60231942969436
+2023,District Cooling,Production,District Cooling,Heat Pump,Medium,TJ,9.91435896314081
+2023,District Cooling,Storage,District Cooling,Hot Tank Storage,Medium,TJ,390.088297400933
+2023,District Heating,Toronto Average,District Heating,Pipe,___,TJ,7321.5910897808035
+2023,District Heating,Toronto Average,District Heating,Substation,___,TJ,7694.326636169641
+2023,District Heating,Production,District Heating,Boiler,Large,TJ,8175.319269605117
+2024,District Cooling,Toronto Average,District Cooling,Pipe,___,TJ,1935.4730572074686
+2024,District Cooling,Toronto Average,District Cooling,Substation,___,TJ,2265.414454839667
+2024,District Cooling,Production,District Cooling,Deep Lake Cooling,Enwave,TJ,2050.1135157101216
+2024,District Cooling,Production,District Cooling,Heat Pump,Large,TJ,98.33150841502737
+2024,District Cooling,Production,District Cooling,Heat Pump,Medium,TJ,9.913941353646194
+2024,District Cooling,Storage,District Cooling,Hot Tank Storage,Medium,TJ,383.83397160502136
+2024,District Heating,Toronto Average,District Heating,Pipe,___,TJ,6516.82885133025
+2024,District Heating,Toronto Average,District Heating,Substation,___,TJ,6848.594683761611
+2024,District Heating,Production,District Heating,Boiler,Large,TJ,7280.533771744677
+2025,District Cooling,Toronto Average,District Cooling,Pipe,___,TJ,2022.1818236053086
+2025,District Cooling,Toronto Average,District Cooling,Substation,___,TJ,2205.1712616787795
+2025,District Cooling,Production,District Cooling,Deep Lake Cooling,Enwave,TJ,2152.0565929555446
+2025,District Cooling,Production,District Cooling,Heat Pump,Large,TJ,98.1248955782874
+2025,District Cooling,Production,District Cooling,Heat Pump,Medium,TJ,4.852457961648729
+2025,District Cooling,Storage,District Cooling,Hot Tank Storage,Medium,TJ,400.09742643221887
+2025,District Heating,Toronto Average,District Heating,Pipe,___,TJ,7178.7484556996915
+2025,District Heating,Toronto Average,District Heating,Substation,___,TJ,7544.212013444401
+2025,District Heating,Production,District Heating,Boiler,Large,TJ,8016.725998784214
+2030,District Cooling,Toronto Average,District Cooling,Pipe,___,TJ,2088.215186836163
+2030,District Cooling,Toronto Average,District Cooling,Substation,___,TJ,2134.6729977826203
+2030,District Cooling,Production,District Cooling,Deep Lake Cooling,Enwave,TJ,2230.09180557826
+2030,District Cooling,Production,District Cooling,Heat Pump,Large,TJ,98.09655456554195
+2030,District Cooling,Production,District Cooling,Heat Pump,Medium,TJ,0.15977362993750308
+2030,District Cooling,Storage,District Cooling,Hot Tank Storage,Medium,TJ,397.342827164118
+2030,District Heating,Toronto Average,District Heating,Pipe,___,TJ,8293.80508544706
+2030,District Heating,Toronto Average,District Heating,Substation,___,TJ,8716.03516252436
+2030,District Heating,Production,District Heating,Boiler,Large,TJ,9254.023892481193
+2035,District Cooling,Toronto Average,District Cooling,Pipe,___,TJ,855.5600835052527
+2035,District Cooling,Toronto Average,District Cooling,Substation,___,TJ,876.8773397890722
+2035,District Cooling,Production,District Cooling,Heat Pump,Large,TJ,953.4220407338507
+2035,District Cooling,Production,District Cooling,Heat Pump,Medium,TJ,0.14318006926729324
+2035,District Cooling,Storage,District Cooling,Hot Tank Storage,Medium,TJ,144.20238407588138
+2035,District Heating,Toronto Average,District Heating,Pipe,___,TJ,2519.5271119899758
+2035,District Heating,Toronto Average,District Heating,Substation,___,TJ,2647.7939467821925
+2035,District Heating,Production,District Heating,Boiler,Large,TJ,3178.8283929456893

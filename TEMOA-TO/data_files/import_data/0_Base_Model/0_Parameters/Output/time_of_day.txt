@@ -1,0 +1,4 @@
+INSERT INTO`time_of_day`VALUES('D');
+INSERT INTO`time_of_day`VALUES('N');
+INSERT INTO`time_of_day`VALUES('P1');
+INSERT INTO`time_of_day`VALUES('P2');

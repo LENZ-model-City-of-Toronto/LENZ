@@ -1,0 +1,2512 @@
+"Transportation sector GHG emissions per subsector, per end use (metric ton)"
+t_periods,emissions_comm,Sub,Mode,Tech_type_1,Tech_type_2,Name,Emisions
+2016,CH4,Freight Transportation,Air,___,___,,0.04349955204466089
+2016,CH4,Freight Transportation,Marine,___,___,,1.0184626937293133
+2016,CH4,Freight Transportation,Rail,___,___,,2.435268554421776
+2016,CH4,Freight Transportation,Road,Truck,Heavy Trucks,,6.2244108141322325
+2016,CH4,Freight Transportation,Road,Truck,Passenger Light Trucks,,67.74511052226379
+2016,CH4,Freight Transportation,Road,Truck,Medium Trucks,,8.549177495486802
+2016,CH4,Long Distance,Air,___,___,,1.2561703405856437
+2016,CH4,Long Distance,Rail,___,___,,3.7783628794721773
+2016,CH4,Passenger,Rail,Regional,___,GO rail,5.999477914091836
+2016,CH4,Passenger,Rail,Regional,___,Up Express,0.25733555505039285
+2016,CH4,Passenger,Rail,Subway,___,Subway,149.9046048054348
+2016,CH4,Passenger,Rail,Tramway,___,Streetcar,22.743464681484586
+2016,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,0.008856742395079935
+2016,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,0.11220215626207201
+2016,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,0.09938977795843104
+2016,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,0.013890210599521429
+2016,CH4,Passenger,Road,Inter-city Buses,School Bus,___,0.9847076710936706
+2016,CH4,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,9.662050970322694
+2016,CH4,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,0.9227805553743241
+2016,CH4,Passenger,Road,Cars,___,Auto driver,113.38885303210635
+2016,CH4,Passenger,Road,Cars,___,Auto passenger,14.362193248274332
+2016,CH4,Passenger,Road,Cars,___,Paid Ridershare,0.9018371729027705
+2016,CH4,Passenger,Road,Cars,___,Taxi passenger,1.5319993804505372
+2016,CH4,Passenger,Road,Motorcycles,___,___,1.7641370474527855
+2016,CH4,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,123.38223465751497
+2016,CH4,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,15.633465856423456
+2016,CH4,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,0.9745630578605539
+2016,CH4,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,0.5343137900973397
+2016,CH4,Public,Marine,___,___,Fleet Services,0.0003822839967334491
+2016,CH4,Public,Marine,___,___,Police Services,2.0950967570879332e-05
+2016,CH4,Public,Road,Inter-city Buses,Urban Bus ,Police Services,0.0016944797980397784
+2016,CH4,Public,Road,Cars,___,Fleet Services,0.028388474245803284
+2016,CH4,Public,Road,Cars,___,Police Services,0.7293902797749887
+2016,CH4,Public,Road,Cars,___,Toronto Housing Company,0.1420647457953651
+2016,CH4,Public,Road,Motorcycles,___,Police Services,0.011137811676109496
+2016,CH4,Public,Road,Truck,Heavy Trucks,Fleet Services,0.5598357669115122
+2016,CH4,Public,Road,Truck,Passenger Light Trucks,Fleet Services,1.3570697411732369
+2016,CH4,Public,Road,Truck,Passenger Light Trucks,Police Services,0.4644588321632471
+2016,CH4,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,0.09522332474555671
+2016,CH4,Public,Road,Truck,Medium Trucks,Fleet Services,0.23724782249742168
+2016,CH4,Public,Road,Truck,Medium Trucks,Police Services,0.022166115567080286
+2016,CH4,Public,Road,Truck,Medium Trucks,Toronto Housing Company,0.05475914700464048
+2016,CO2,Freight Transportation,Air,___,___,,2041.1002755187505
+2016,CO2,Freight Transportation,Marine,___,___,,11082.423598456044
+2016,CO2,Freight Transportation,Rail,___,___,,43526.36662936521
+2016,CO2,Freight Transportation,Road,Truck,Heavy Trucks,,245406.54989247816
+2016,CO2,Freight Transportation,Road,Truck,Passenger Light Trucks,,1027266.7189038765
+2016,CO2,Freight Transportation,Road,Truck,Medium Trucks,,316267.0201960192
+2016,CO2,Long Distance,Air,___,___,,102075.31643465497
+2016,CO2,Long Distance,Rail,___,___,,67533.83751887652
+2016,CO2,Passenger,Rail,Regional,___,GO rail,107240.46291244551
+2016,CO2,Passenger,Rail,Regional,___,Up Express,4599.444154508694
+2016,CO2,Passenger,Rail,Subway,___,Subway,31758.99966512823
+2016,CO2,Passenger,Rail,Tramway,___,Streetcar,4929.4825003522365
+2016,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,215.4721491628793
+2016,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,2734.804046221974
+2016,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,2421.7351946717636
+2016,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,338.55954738980483
+2016,CO2,Passenger,Road,Inter-city Buses,School Bus,___,5156.839729409094
+2016,CO2,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,235399.26712543008
+2016,CO2,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,22445.847973521166
+2016,CO2,Passenger,Road,Cars,___,Auto driver,1623129.2768003398
+2016,CO2,Passenger,Road,Cars,___,Auto passenger,205597.89507793778
+2016,CO2,Passenger,Road,Cars,___,Paid Ridershare,12914.836005186562
+2016,CO2,Passenger,Road,Cars,___,Taxi passenger,21941.19844257289
+2016,CO2,Passenger,Road,Motorcycles,___,___,5285.537881134503
+2016,CO2,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,2010903.3776308938
+2016,CO2,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,254812.931702488
+2016,CO2,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,15889.542021594794
+2016,CO2,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,8712.536500674458
+2016,CO2,Public,Marine,___,___,Fleet Services,4.360912165221397
+2016,CO2,Public,Marine,___,___,Police Services,0.8312760913731094
+2016,CO2,Public,Road,Inter-city Buses,Urban Bus ,Police Services,41.299093914338854
+2016,CO2,Public,Road,Cars,___,Fleet Services,467.8018614080296
+2016,CO2,Public,Road,Cars,___,Police Services,12020.617729115107
+2016,CO2,Public,Road,Cars,___,Toronto Housing Company,2340.6937195357464
+2016,CO2,Public,Road,Motorcycles,___,Police Services,33.2781894927077
+2016,CO2,Public,Road,Truck,Heavy Trucks,Fleet Services,22070.42869657591
+2016,CO2,Public,Road,Truck,Passenger Light Trucks,Fleet Services,27964.00605410159
+2016,CO2,Public,Road,Truck,Passenger Light Trucks,Police Services,7872.501890424517
+2016,CO2,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,1679.7589734303692
+2016,CO2,Public,Road,Truck,Medium Trucks,Fleet Services,7072.1508472392425
+2016,CO2,Public,Road,Truck,Medium Trucks,Police Services,817.624665065051
+2016,CO2,Public,Road,Truck,Medium Trucks,Toronto Housing Company,1072.2114227844966
+2016,CO2e,Freight Transportation,Air,___,___,,2111.6681690866794
+2016,CO2e,Freight Transportation,Marine,___,___,,11169.925212671564
+2016,CO2e,Freight Transportation,Rail,___,___,,48374.63745745714
+2016,CO2e,Freight Transportation,Road,Truck,Heavy Trucks,,256065.39998931123
+2016,CO2e,Freight Transportation,Road,Truck,Passenger Light Trucks,,1079319.378966315
+2016,CO2e,Freight Transportation,Road,Truck,Medium Trucks,,332277.11505119316
+2016,CO2e,Long Distance,Air,___,___,,102980.48755259284
+2016,CO2e,Long Distance,Rail,___,___,,75119.53072820947
+2016,CO2e,Passenger,Rail,Regional,___,GO rail,119285.41473997556
+2016,CO2e,Passenger,Rail,Regional,___,Up Express,5116.088170642737
+2016,CO2e,Passenger,Rail,Subway,___,Subway,34920.656280544965
+2016,CO2e,Passenger,Rail,Tramway,___,Streetcar,5422.435618398282
+2016,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,219.28363261359777
+2016,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,2783.088617715133
+2016,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,2464.482523872537
+2016,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,344.5529895973306
+2016,CO2e,Passenger,Road,Inter-city Buses,School Bus,___,5265.909551612798
+2016,CO2e,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,239553.19003152443
+2016,CO2e,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,22842.003202210482
+2016,CO2e,Passenger,Road,Cars,___,Auto driver,1630969.1308011173
+2016,CO2e,Passenger,Road,Cars,___,Auto passenger,206590.94014025416
+2016,CO2e,Passenger,Road,Cars,___,Paid Ridershare,12977.205774587102
+2016,CO2e,Passenger,Road,Cars,___,Taxi passenger,22047.158279487812
+2016,CO2e,Passenger,Road,Motorcycles,___,___,5350.5772610089125
+2016,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,2019736.616820488
+2016,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,255932.21198734076
+2016,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,15959.321151568456
+2016,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,8750.790857163509
+2016,CO2e,Public,Marine,___,___,Fleet Services,4.401749270888451
+2016,CO2e,Public,Marine,___,___,Police Services,0.8335141575329008
+2016,CO2e,Public,Road,Inter-city Buses,Urban Bus ,Police Services,42.027843461840604
+2016,CO2e,Public,Road,Cars,___,Fleet Services,469.7278284870277
+2016,CO2e,Public,Road,Cars,___,Police Services,12070.152603827268
+2016,CO2e,Public,Road,Cars,___,Toronto Housing Company,2350.3404218019145
+2016,CO2e,Public,Road,Motorcycles,___,Police Services,33.688813128794365
+2016,CO2e,Public,Road,Truck,Heavy Trucks,Fleet Services,22621.932790007806
+2016,CO2e,Public,Road,Truck,Passenger Light Trucks,Fleet Services,28280.019574358448
+2016,CO2e,Public,Road,Truck,Passenger Light Trucks,Police Services,7912.804920673719
+2016,CO2e,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,1690.683735735894
+2016,CO2e,Public,Road,Truck,Medium Trucks,Fleet Services,7214.689341529063
+2016,CO2e,Public,Road,Truck,Medium Trucks,Police Services,837.2902949155657
+2016,CO2e,Public,Road,Truck,Medium Trucks,Toronto Housing Company,1082.7673016694189
+2016,N2O,Freight Transportation,Air,___,___,,0.058150260794967816
+2016,N2O,Freight Transportation,Marine,___,___,,0.2880207071456412
+2016,N2O,Freight Transportation,Rail,___,___,,16.23512369614517
+2016,N2O,Freight Transportation,Road,Truck,Heavy Trucks,,20.137799692780753
+2016,N2O,Freight Transportation,Road,Truck,Passenger Light Trucks,,30.072002981948707
+2016,N2O,Freight Transportation,Road,Truck,Medium Trucks,,24.869483305274922
+2016,N2O,Long Distance,Air,___,___,,2.948964901964878
+2016,N2O,Long Distance,Rail,___,___,,25.189085868671178
+2016,N2O,Passenger,Rail,Regional,___,GO rail,39.99651943400703
+2016,N2O,Passenger,Rail,Regional,___,Up Express,1.7155703673757834
+2016,N2O,Passenger,Rail,Subway,___,Subway,0.045838639270494856
+2016,N2O,Passenger,Rail,Tramway,___,Streetcar,0.05147771723110707
+2016,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,0.012166080068529823
+2016,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,0.15412190003911191
+2016,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,0.13644343578404922
+2016,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,0.01913338182864422
+2016,N2O,Passenger,Road,Inter-city Buses,School Bus,___,0.29661396345885244
+2016,N2O,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,13.258455824555243
+2016,N2O,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,1.2643518021021867
+2016,N2O,Passenger,Road,Cars,___,Auto driver,18.317745258735826
+2016,N2O,Passenger,Road,Cars,___,Auto passenger,2.3202651144385205
+2016,N2O,Passenger,Road,Cars,___,Paid Ridershare,0.14574224419323809
+2016,N2O,Passenger,Road,Cars,___,Taxi passenger,0.24761023464918555
+2016,N2O,Passenger,Road,Motorcycles,___,___,0.09393457006007086
+2016,N2O,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,20.947021012707125
+2016,N2O,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,2.6542869190199085
+2016,N2O,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,0.1654808918073385
+2016,N2O,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,0.09071733858056126
+2016,N2O,Public,Marine,___,___,Fleet Services,0.00011009779105923332
+2016,N2O,Public,Marine,___,___,Police Services,6.033878660413245e-06
+2016,N2O,Public,Road,Inter-city Buses,Urban Bus ,Police Services,0.0023260586300097494
+2016,N2O,Public,Road,Cars,___,Fleet Services,0.0044624467108599
+2016,N2O,Public,Road,Cars,___,Police Services,0.11482442562713294
+2016,N2O,Public,Road,Cars,___,Toronto Housing Company,0.022360210082100884
+2016,N2O,Public,Road,Motorcycles,___,Police Services,0.0005930523184173045
+2016,N2O,Public,Road,Truck,Heavy Trucks,Fleet Services,1.8112333635126023
+2016,N2O,Public,Road,Truck,Passenger Light Trucks,Fleet Services,0.9648156231282863
+2016,N2O,Public,Road,Truck,Passenger Light Trucks,Police Services,0.10251474756300147
+2016,N2O,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,0.029949907670699452
+2016,N2O,Public,Road,Truck,Medium Trucks,Fleet Services,0.46159828864890207
+2016,N2O,Public,Road,Truck,Medium Trucks,Police Services,0.06443000477720084
+2016,N2O,Public,Road,Truck,Medium Trucks,Toronto Housing Company,0.03156354630142645
+2017,CH4,Freight Transportation,Air,___,___,,0.05230590705879276
+2017,CH4,Freight Transportation,Marine,___,___,,1.0221860317657345
+2017,CH4,Freight Transportation,Rail,___,___,,1.2866551699836477
+2017,CH4,Freight Transportation,Road,Truck,Heavy Trucks,,6.255107654797381
+2017,CH4,Freight Transportation,Road,Truck,Passenger Light Trucks,,68.09997057513958
+2017,CH4,Freight Transportation,Road,Truck,Medium Trucks,,8.591573725355834
+2017,CH4,Long Distance,Air,___,___,,1.404929825780887
+2017,CH4,Long Distance,Rail,___,___,,3.8499015553282288
+2017,CH4,Passenger,Rail,Regional,___,GO rail,6.039794046691811
+2017,CH4,Passenger,Rail,Regional,___,Up Express,0.2621591169475247
+2017,CH4,Passenger,Rail,Subway,___,Subway,149.94146991689436
+2017,CH4,Passenger,Rail,Tramway,___,Streetcar,22.60933880193966
+2017,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,0.00897611882215878
+2017,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,0.11260780064393455
+2017,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,0.10079483881246795
+2017,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,0.014071068712131499
+2017,CH4,Passenger,Road,Inter-city Buses,School Bus,___,1.0205770047132443
+2017,CH4,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,9.698801499254293
+2017,CH4,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,0.9273767427503101
+2017,CH4,Passenger,Road,Cars,___,Auto driver,113.88560637123298
+2017,CH4,Passenger,Road,Cars,___,Auto passenger,14.41112113840498
+2017,CH4,Passenger,Road,Cars,___,Paid Ridershare,0.9069476525677749
+2017,CH4,Passenger,Road,Cars,___,Taxi passenger,1.5386517610575206
+2017,CH4,Passenger,Road,Motorcycles,___,___,1.772207435739412
+2017,CH4,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,123.99139871086808
+2017,CH4,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,15.700896823279258
+2017,CH4,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,0.9794982908461687
+2017,CH4,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,0.5368062744494783
+2017,CH4,Public,Marine,___,___,Fleet Services,0.00039371196950616945
+2017,CH4,Public,Marine,___,___,Police Services,2.1577273738831136e-05
+2017,CH4,Public,Road,Inter-city Buses,Urban Bus ,Police Services,0.001705997300114432
+2017,CH4,Public,Road,Cars,___,Fleet Services,0.0292933365194051
+2017,CH4,Public,Road,Cars,___,Police Services,0.7521844586129454
+2017,CH4,Public,Road,Cars,___,Toronto Housing Company,0.1465117858176153
+2017,CH4,Public,Road,Motorcycles,___,Police Services,0.01149844283551937
+2017,CH4,Public,Road,Truck,Heavy Trucks,Fleet Services,0.5784795827096341
+2017,CH4,Public,Road,Truck,Passenger Light Trucks,Fleet Services,1.3995947914174702
+2017,CH4,Public,Road,Truck,Passenger Light Trucks,Police Services,0.478778958265019
+2017,CH4,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,0.09833184682538118
+2017,CH4,Public,Road,Truck,Medium Trucks,Fleet Services,0.24546546641639438
+2017,CH4,Public,Road,Truck,Medium Trucks,Police Services,0.0228932671451553
+2017,CH4,Public,Road,Truck,Medium Trucks,Toronto Housing Company,0.05664550995010175
+2017,CO2,Freight Transportation,Air,___,___,,2048.3329419783895
+2017,CO2,Freight Transportation,Marine,___,___,,11122.939180979822
+2017,CO2,Freight Transportation,Rail,___,___,,24909.587489692607
+2017,CO2,Freight Transportation,Road,Truck,Heavy Trucks,,245759.56345895742
+2017,CO2,Freight Transportation,Road,Truck,Passenger Light Trucks,,992403.3083507338
+2017,CO2,Freight Transportation,Road,Truck,Medium Trucks,,315975.87925459
+2017,CO2,Long Distance,Air,___,___,,102111.71631961576
+2017,CO2,Long Distance,Rail,___,___,,67786.46157047796
+2017,CO2,Passenger,Rail,Regional,___,GO rail,108016.38464691413
+2017,CO2,Passenger,Rail,Regional,___,Up Express,4687.003502357367
+2017,CO2,Passenger,Rail,Subway,___,Subway,31912.917392799045
+2017,CO2,Passenger,Rail,Tramway,___,Streetcar,5056.976557774622
+2017,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,213.22888330211217
+2017,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,2708.9265734982478
+2017,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,2418.183647192749
+2017,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,336.50173432946235
+2017,CO2,Passenger,Road,Inter-city Buses,School Bus,___,5085.120838575033
+2017,CO2,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,234796.56747717923
+2017,CO2,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,22308.502278785658
+2017,CO2,Passenger,Road,Cars,___,Auto driver,1627496.7081556453
+2017,CO2,Passenger,Road,Cars,___,Auto passenger,206005.84157560798
+2017,CO2,Passenger,Road,Cars,___,Paid Ridershare,12944.656606797915
+2017,CO2,Passenger,Road,Cars,___,Taxi passenger,21990.572034923414
+2017,CO2,Passenger,Road,Motorcycles,___,___,5013.625237777145
+2017,CO2,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,1910301.9026672472
+2017,CO2,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,241887.18802062317
+2017,CO2,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,15089.095927699036
+2017,CO2,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,8269.90391834493
+2017,CO2,Public,Marine,___,___,Fleet Services,4.491276980864392
+2017,CO2,Public,Marine,___,___,Police Services,0.8561261910491658
+2017,CO2,Public,Road,Inter-city Buses,Urban Bus ,Police Services,41.57980674631945
+2017,CO2,Public,Road,Cars,___,Fleet Services,455.6580823014274
+2017,CO2,Public,Road,Cars,___,Police Services,11718.814672274419
+2017,CO2,Public,Road,Cars,___,Toronto Housing Company,2280.262474724737
+2017,CO2,Public,Road,Motorcycles,___,Police Services,32.48983185879807
+2017,CO2,Public,Road,Truck,Heavy Trucks,Fleet Services,22596.82760307072
+2017,CO2,Public,Road,Truck,Passenger Light Trucks,Fleet Services,27692.468362669613
+2017,CO2,Public,Road,Truck,Passenger Light Trucks,Police Services,7680.852895580779
+2017,CO2,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,1641.6688239423925
+2017,CO2,Public,Road,Truck,Medium Trucks,Fleet Services,7114.565191407866
+2017,CO2,Public,Road,Truck,Medium Trucks,Police Services,817.50960303306
+2017,CO2,Public,Road,Truck,Medium Trucks,Toronto Housing Company,1052.6517632551834
+2017,CO2e,Freight Transportation,Air,___,___,,2120.4073717879187
+2017,CO2e,Freight Transportation,Marine,___,___,,11210.760687215457
+2017,CO2e,Freight Transportation,Rail,___,___,,27490.74927726439
+2017,CO2e,Freight Transportation,Road,Truck,Heavy Trucks,,256446.3722665293
+2017,CO2e,Freight Transportation,Road,Truck,Passenger Light Trucks,,1044506.4401392967
+2017,CO2e,Freight Transportation,Road,Truck,Medium Trucks,,332023.0555630791
+2017,CO2e,Long Distance,Air,___,___,,103071.22217635569
+2017,CO2e,Long Distance,Rail,___,___,,75515.78060071326
+2017,CO2e,Passenger,Rail,Regional,___,GO rail,120142.27783407057
+2017,CO2e,Passenger,Rail,Regional,___,Up Express,5213.331623271152
+2017,CO2e,Passenger,Rail,Subway,___,Subway,35096.05153872446
+2017,CO2e,Passenger,Rail,Tramway,___,Streetcar,5568.841418125789
+2017,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,217.09422938030735
+2017,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,2757.471266591349
+2017,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,2461.5379111649368
+2017,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,342.6074668033627
+2017,CO2e,Passenger,Road,Inter-city Buses,School Bus,___,5195.073423064983
+2017,CO2e,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,238964.56417725538
+2017,CO2e,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,22705.301514362807
+2017,CO2e,Passenger,Road,Cars,___,Auto driver,1635369.618180913
+2017,CO2e,Passenger,Road,Cars,___,Auto passenger,207002.45524835226
+2017,CO2e,Passenger,Road,Cars,___,Paid Ridershare,13007.31221641076
+2017,CO2e,Passenger,Road,Cars,___,Taxi passenger,22096.964656723343
+2017,CO2e,Passenger,Road,Motorcycles,___,___,5078.962153010838
+2017,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,1919176.5523238408
+2017,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,243011.13847490668
+2017,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,15159.22176693616
+2017,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,8308.223096268928
+2017,CO2e,Public,Marine,___,___,Fleet Services,4.5333348682949195
+2017,CO2e,Public,Marine,___,___,Police Services,0.8584311617390427
+2017,CO2e,Public,Road,Inter-city Buses,Urban Bus ,Police Services,42.31350965655321
+2017,CO2e,Public,Road,Cars,___,Fleet Services,457.64604338272943
+2017,CO2e,Public,Road,Cars,___,Police Services,11769.9507903099
+2017,CO2e,Public,Road,Cars,___,Toronto Housing Company,2290.2231100158024
+2017,CO2e,Public,Road,Motorcycles,___,Police Services,32.91375107915137
+2017,CO2e,Public,Road,Truck,Heavy Trucks,Fleet Services,23166.698046521422
+2017,CO2e,Public,Road,Truck,Passenger Light Trucks,Fleet Services,28018.551982149012
+2017,CO2e,Public,Road,Truck,Passenger Light Trucks,Police Services,7722.59203676634
+2017,CO2e,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,1652.8673764317869
+2017,CO2e,Public,Road,Truck,Medium Trucks,Fleet Services,7261.160930642514
+2017,CO2e,Public,Road,Truck,Medium Trucks,Police Services,837.7687564016454
+2017,CO2e,Public,Road,Truck,Medium Trucks,Toronto Housing Company,1063.437566370422
+2017,N2O,Freight Transportation,Air,___,___,,0.06264499898933268
+2017,N2O,Freight Transportation,Marine,___,___,,0.2890736651586835
+2017,N2O,Freight Transportation,Rail,___,___,,8.573794975046603
+2017,N2O,Freight Transportation,Road,Truck,Heavy Trucks,,20.237112989605535
+2017,N2O,Freight Transportation,Road,Truck,Passenger Light Trucks,,30.222129791245308
+2017,N2O,Freight Transportation,Road,Truck,Medium Trucks,,24.992345432003823
+2017,N2O,Long Distance,Air,___,___,,3.1208131892566224
+2017,N2O,Long Distance,Rail,___,___,,25.666010394541548
+2017,N2O,Passenger,Rail,Regional,___,GO rail,40.265293665019804
+2017,N2O,Passenger,Rail,Regional,___,Up Express,1.7477274478452518
+2017,N2O,Passenger,Rail,Subway,___,Subway,0.1153130123175988
+2017,N2O,Passenger,Rail,Tramway,___,Streetcar,0.12439176345783576
+2017,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,0.01233841470781859
+2017,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,0.15496620563616895
+2017,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,0.13838111529236832
+2017,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,0.019497449768274305
+2017,N2O,Passenger,Road,Inter-city Buses,School Bus,___,0.2970485482918491
+2017,N2O,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,13.303093518764355
+2017,N2O,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,1.2661890066422696
+2017,N2O,Passenger,Road,Cars,___,Auto driver,18.39366540762268
+2017,N2O,Passenger,Road,Cars,___,Auto passenger,2.328792378650029
+2017,N2O,Passenger,Road,Cars,___,Paid Ridershare,0.14634130506349605
+2017,N2O,Passenger,Road,Cars,___,Taxi passenger,0.24859374099904677
+2017,N2O,Passenger,Road,Motorcycles,___,___,0.09436429222537882
+2017,N2O,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,21.043054643173246
+2017,N2O,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,2.6652067818610132
+2017,N2O,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,0.16629656083676372
+2017,N2O,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,0.09075921530390718
+2017,N2O,Public,Marine,___,___,Fleet Services,0.00011338904721777676
+2017,N2O,Public,Marine,___,___,Police Services,6.2142548367833674e-06
+2017,N2O,Public,Road,Inter-city Buses,Urban Bus ,Police Services,0.0023418690165482236
+2017,N2O,Public,Road,Cars,___,Fleet Services,0.004606714813404718
+2017,N2O,Public,Road,Cars,___,Police Services,0.11859142417654232
+2017,N2O,Public,Road,Cars,___,Toronto Housing Company,0.023100294593608312
+2017,N2O,Public,Road,Motorcycles,___,Police Services,0.0006122547678100092
+2017,N2O,Public,Road,Truck,Heavy Trucks,Fleet Services,1.871551584610039
+2017,N2O,Public,Road,Truck,Passenger Light Trucks,Fleet Services,0.9956111706699315
+2017,N2O,Public,Road,Truck,Passenger Light Trucks,Police Services,0.10632477537582778
+2017,N2O,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,0.030649609751884754
+2017,N2O,Public,Road,Truck,Medium Trucks,Fleet Services,0.47463410885873697
+2017,N2O,Public,Road,Truck,Medium Trucks,Police Services,0.0663704522098549
+2017,N2O,Public,Road,Truck,Medium Trucks,Toronto Housing Company,0.032202172504318664
+2018,CH4,Freight Transportation,Air,___,___,,0.050357479431684574
+2018,CH4,Freight Transportation,Marine,___,___,,1.025909369749803
+2018,CH4,Freight Transportation,Rail,___,___,,1.2826704535152447
+2018,CH4,Freight Transportation,Road,Truck,Heavy Trucks,,6.283486962391687
+2018,CH4,Freight Transportation,Road,Truck,Passenger Light Trucks,,68.43233985477667
+2018,CH4,Freight Transportation,Road,Truck,Medium Trucks,,8.632662713253303
+2018,CH4,Long Distance,Air,___,___,,1.5358566271807346
+2018,CH4,Long Distance,Rail,___,___,,3.9176093204904485
+2018,CH4,Passenger,Rail,Regional,___,GO rail,6.085362134806571
+2018,CH4,Passenger,Rail,Regional,___,Up Express,0.30412212602793726
+2018,CH4,Passenger,Rail,Subway,___,Subway,149.82423014780898
+2018,CH4,Passenger,Rail,Tramway,___,Streetcar,22.456791746794906
+2018,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,0.009088432611407129
+2018,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,0.11301530457530518
+2018,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,0.10231761171078842
+2018,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,0.014241135310488845
+2018,CH4,Passenger,Road,Inter-city Buses,School Bus,___,1.0625750883008926
+2018,CH4,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,9.734541646266228
+2018,CH4,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,0.9316027735649821
+2018,CH4,Passenger,Road,Cars,___,Auto driver,114.38361616936251
+2018,CH4,Passenger,Road,Cars,___,Auto passenger,14.474975396205963
+2018,CH4,Passenger,Road,Cars,___,Paid Ridershare,0.9112835902535368
+2018,CH4,Passenger,Road,Cars,___,Taxi passenger,1.5445224269604998
+2018,CH4,Passenger,Road,Motorcycles,___,___,1.7809562204994842
+2018,CH4,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,124.59744079391085
+2018,CH4,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,15.767247103579834
+2018,CH4,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,0.984164674014366
+2018,CH4,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,0.5397928549560027
+2018,CH4,Public,Marine,___,___,Fleet Services,0.0004059940497511794
+2018,CH4,Public,Marine,___,___,Police Services,2.225038930853061e-05
+2018,CH4,Public,Road,Inter-city Buses,Urban Bus ,Police Services,0.0017668107469709258
+2018,CH4,Public,Road,Cars,___,Fleet Services,0.03020956895518053
+2018,CH4,Public,Road,Cars,___,Police Services,0.7764595190643762
+2018,CH4,Public,Road,Cars,___,Toronto Housing Company,0.1512261025827376
+2018,CH4,Public,Road,Motorcycles,___,Police Services,0.011891978065432776
+2018,CH4,Public,Road,Truck,Heavy Trucks,Fleet Services,0.5969120758370416
+2018,CH4,Public,Road,Truck,Passenger Light Trucks,Fleet Services,1.4449898263042364
+2018,CH4,Public,Road,Truck,Passenger Light Trucks,Police Services,0.4940735873823612
+2018,CH4,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,0.10159575404817386
+2018,CH4,Public,Road,Truck,Medium Trucks,Fleet Services,0.2515423444588239
+2018,CH4,Public,Road,Truck,Medium Trucks,Police Services,0.023348238920466044
+2018,CH4,Public,Road,Truck,Medium Trucks,Toronto Housing Company,0.058951901368235846
+2018,CO2,Freight Transportation,Air,___,___,,1983.0976716118682
+2018,CO2,Freight Transportation,Marine,___,___,,11163.454762938421
+2018,CO2,Freight Transportation,Rail,___,___,,24898.478460049915
+2018,CO2,Freight Transportation,Road,Truck,Heavy Trucks,,246844.4521691602
+2018,CO2,Freight Transportation,Road,Truck,Passenger Light Trucks,,997549.5166061855
+2018,CO2,Freight Transportation,Road,Truck,Medium Trucks,,317478.96348562767
+2018,CO2,Long Distance,Air,___,___,,102163.15247667293
+2018,CO2,Long Distance,Rail,___,___,,68194.20705156203
+2018,CO2,Passenger,Rail,Regional,___,GO rail,108878.4751530665
+2018,CO2,Passenger,Rail,Regional,___,Up Express,5508.544477403862
+2018,CO2,Passenger,Rail,Subway,___,Subway,32078.201904148314
+2018,CO2,Passenger,Rail,Tramway,___,Streetcar,5160.799418249762
+2018,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,214.22799041261396
+2018,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,2714.2844255441355
+2018,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,2444.823303669521
+2018,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,339.64422821709275
+2018,CO2,Passenger,Road,Inter-city Buses,School Bus,___,5083.955991726676
+2018,CO2,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,235424.68859881055
+2018,CO2,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,22326.819304686593
+2018,CO2,Passenger,Road,Cars,___,Auto driver,1627748.2627829083
+2018,CO2,Passenger,Road,Cars,___,Auto passenger,205921.32322483003
+2018,CO2,Passenger,Road,Cars,___,Paid Ridershare,12943.771201346928
+2018,CO2,Passenger,Road,Cars,___,Taxi passenger,21988.198076248926
+2018,CO2,Passenger,Road,Motorcycles,___,___,5015.328309295164
+2018,CO2,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,1911422.2967018778
+2018,CO2,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,241882.75167910772
+2018,CO2,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,15094.62263354176
+2018,CO2,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,8274.01324513603
+2018,CO2,Public,Marine,___,___,Fleet Services,4.631385047298324
+2018,CO2,Public,Marine,___,___,Police Services,0.8828335517497775
+2018,CO2,Public,Road,Inter-city Buses,Urban Bus ,Police Services,42.77673156067993
+2018,CO2,Public,Road,Cars,___,Fleet Services,468.77002966712337
+2018,CO2,Public,Road,Cars,___,Police Services,12084.428336378953
+2018,CO2,Public,Road,Cars,___,Toronto Housing Company,2349.172173865748
+2018,CO2,Public,Road,Motorcycles,___,Police Services,33.50528060306556
+2018,CO2,Public,Road,Truck,Heavy Trucks,Fleet Services,23286.682600783097
+2018,CO2,Public,Road,Truck,Passenger Light Trucks,Fleet Services,28542.76499719661
+2018,CO2,Public,Road,Truck,Passenger Light Trucks,Police Services,7911.363269015191
+2018,CO2,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,1689.1220562169824
+2018,CO2,Public,Road,Truck,Medium Trucks,Fleet Services,7322.2936159054625
+2018,CO2,Public,Road,Truck,Medium Trucks,Police Services,833.8712506286356
+2018,CO2,Public,Road,Truck,Medium Trucks,Toronto Housing Company,1083.3016482503301
+2018,CO2e,Freight Transportation,Air,___,___,,2063.0338778764376
+2018,CO2e,Freight Transportation,Marine,___,___,,11251.596161189625
+2018,CO2e,Freight Transportation,Rail,___,___,,27470.888009829618
+2018,CO2e,Freight Transportation,Road,Truck,Heavy Trucks,,257559.05513924084
+2018,CO2e,Freight Transportation,Road,Truck,Passenger Light Trucks,,1049704.2749721287
+2018,CO2e,Freight Transportation,Road,Truck,Medium Trucks,,333562.51144444785
+2018,CO2e,Long Distance,Air,___,___,,103175.45545716089
+2018,CO2e,Long Distance,Rail,___,___,,76059.4607099668
+2018,CO2e,Passenger,Rail,Regional,___,GO rail,121095.85387389219
+2018,CO2e,Passenger,Rail,Regional,___,Up Express,6119.120338432887
+2018,CO2e,Passenger,Rail,Subway,___,Subway,35286.72274244142
+2018,CO2e,Passenger,Rail,Tramway,___,Streetcar,5688.8151576596465
+2018,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,218.14342718587457
+2018,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,2763.101607550059
+2018,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,2488.833830009203
+2018,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,345.8625160768247
+2018,CO2e,Passenger,Road,Inter-city Buses,School Bus,___,5194.922525586285
+2018,CO2e,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,239607.25304037135
+2018,CO2e,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,22724.47936755314
+2018,CO2e,Passenger,Road,Cars,___,Auto driver,1635653.0248409451
+2018,CO2e,Passenger,Road,Cars,___,Auto passenger,206921.76668354866
+2018,CO2e,Passenger,Road,Cars,___,Paid Ridershare,13006.689105523456
+2018,CO2e,Passenger,Road,Cars,___,Taxi passenger,22094.997633228257
+2018,CO2e,Passenger,Road,Motorcycles,___,___,5080.987770676027
+2018,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,1920335.9842049691
+2018,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,243011.15663806512
+2018,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,15165.070242084454
+2018,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,8312.641157357444
+2018,CO2e,Public,Marine,___,___,Fleet Services,4.674754955668945
+2018,CO2e,Public,Marine,___,___,Police Services,0.8852104273372718
+2018,CO2e,Public,Road,Inter-city Buses,Urban Bus ,Police Services,43.53658867485592
+2018,CO2e,Public,Road,Cars,___,Fleet Services,470.8275516577005
+2018,CO2e,Public,Road,Cars,___,Police Services,12137.25092553099
+2018,CO2e,Public,Road,Cars,___,Toronto Housing Company,2359.4672142218956
+2018,CO2e,Public,Road,Motorcycles,___,Police Services,33.9437085005098
+2018,CO2e,Public,Road,Truck,Heavy Trucks,Fleet Services,23874.711216698306
+2018,CO2e,Public,Road,Truck,Passenger Light Trucks,Fleet Services,28879.100190760462
+2018,CO2e,Public,Road,Truck,Passenger Light Trucks,Police Services,7954.503969919145
+2018,CO2e,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,1700.6193528955805
+2018,CO2e,Public,Road,Truck,Medium Trucks,Fleet Services,7474.694057837837
+2018,CO2e,Public,Road,Truck,Medium Trucks,Police Services,854.9834082168704
+2018,CO2e,Public,Road,Truck,Medium Trucks,Toronto Housing Company,1094.1693692394633
+2018,N2O,Freight Transportation,Air,___,___,,0.09372305657271054
+2018,N2O,Freight Transportation,Marine,___,___,,0.290126623156772
+2018,N2O,Freight Transportation,Rail,___,___,,8.544164302563912
+2018,N2O,Freight Transportation,Road,Truck,Heavy Trucks,,20.32892838705164
+2018,N2O,Freight Transportation,Road,Truck,Passenger Light Trucks,,30.370690824791616
+2018,N2O,Freight Transportation,Road,Truck,Medium Trucks,,25.11456092114184
+2018,N2O,Long Distance,Air,___,___,,3.2887583601245494
+2018,N2O,Long Distance,Rail,___,___,,26.117395512330393
+2018,N2O,Passenger,Rail,Regional,___,GO rail,40.569080926156914
+2018,N2O,Passenger,Rail,Regional,___,Up Express,2.0274808603437573
+2018,N2O,Passenger,Rail,Subway,___,Subway,0.20876511808427403
+2018,N2O,Passenger,Rail,Tramway,___,Streetcar,0.18933930445366426
+2018,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,0.012498589558460282
+2018,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,0.15585188124108137
+2018,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,0.14047602850254093
+2018,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,0.019863167846348014
+2018,N2O,Passenger,Road,Inter-city Buses,School Bus,___,0.29749146646070057
+2018,N2O,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,13.349459956339407
+2018,N2O,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,1.268779881280842
+2018,N2O,Passenger,Road,Cars,___,Auto driver,18.465456773426073
+2018,N2O,Passenger,Road,Cars,___,Auto passenger,2.33714421274606
+2018,N2O,Passenger,Road,Cars,___,Paid Ridershare,0.14691593550739895
+2018,N2O,Passenger,Road,Cars,___,Taxi passenger,0.24954559064820123
+2018,N2O,Passenger,Road,Motorcycles,___,___,0.09483013674622116
+2018,N2O,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,21.131346464493905
+2018,N2O,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,2.6754790932290518
+2018,N2O,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,0.16704748452481322
+2018,N2O,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,0.09158477270920029
+2018,N2O,Public,Marine,___,___,Fleet Services,0.00011692628632833963
+2018,N2O,Public,Marine,___,___,Police Services,6.408112120856813e-06
+2018,N2O,Public,Road,Inter-city Buses,Urban Bus ,Police Services,0.0024253492902336256
+2018,N2O,Public,Road,Cars,___,Fleet Services,0.004775573968181769
+2018,N2O,Public,Road,Cars,___,Police Services,0.12254006460295262
+2018,N2O,Public,Road,Cars,___,Toronto Housing Company,0.023890242288288403
+2018,N2O,Public,Road,Motorcycles,___,Police Services,0.0006332092552689461
+2018,N2O,Public,Road,Truck,Heavy Trucks,Fleet Services,1.9311861151766037
+2018,N2O,Public,Road,Truck,Passenger Light Trucks,Fleet Services,1.0268134470183363
+2018,N2O,Public,Road,Truck,Passenger Light Trucks,Police Services,0.10995018647291073
+2018,N2O,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,0.03142210014626566
+2018,N2O,Public,Road,Truck,Medium Trucks,Fleet Services,0.4936847405997944
+2018,N2O,Public,Road,Truck,Medium Trucks,Police Services,0.06920082070773398
+2018,N2O,Public,Road,Truck,Medium Trucks,Toronto Housing Company,0.032314533759732436
+2019,CH4,Freight Transportation,Air,___,___,,0.06972582555148676
+2019,CH4,Freight Transportation,Marine,___,___,,1.0296327077366765
+2019,CH4,Freight Transportation,Rail,___,___,,1.2919757531159615
+2019,CH4,Freight Transportation,Road,Truck,Heavy Trucks,,6.309857721223423
+2019,CH4,Freight Transportation,Road,Truck,Passenger Light Trucks,,68.77562856327457
+2019,CH4,Freight Transportation,Road,Truck,Medium Trucks,,8.67407276707713
+2019,CH4,Long Distance,Air,___,___,,1.6662055583205317
+2019,CH4,Long Distance,Rail,___,___,,3.9878995352029
+2019,CH4,Passenger,Rail,Regional,___,GO rail,6.128974708768346
+2019,CH4,Passenger,Rail,Regional,___,Up Express,0.30674432932585416
+2019,CH4,Passenger,Rail,Subway,___,Subway,149.90917819124755
+2019,CH4,Passenger,Rail,Tramway,___,Streetcar,22.306563238471004
+2019,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,0.009192171231581924
+2019,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,0.11342469479122737
+2019,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,0.10340185990103232
+2019,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,0.014400357653752279
+2019,CH4,Passenger,Road,Inter-city Buses,School Bus,___,1.1048362106244836
+2019,CH4,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,9.775166861524077
+2019,CH4,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,0.9346726791835459
+2019,CH4,Passenger,Road,Cars,___,Auto driver,114.8696767907074
+2019,CH4,Passenger,Road,Cars,___,Auto passenger,14.539034253274439
+2019,CH4,Passenger,Road,Cars,___,Paid Ridershare,0.9174469569786233
+2019,CH4,Passenger,Road,Cars,___,Taxi passenger,1.550929259058112
+2019,CH4,Passenger,Road,Motorcycles,___,___,1.7894590552911274
+2019,CH4,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,125.20721916511694
+2019,CH4,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,15.835612628257623
+2019,CH4,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,0.9887830558952323
+2019,CH4,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,0.542319593954537
+2019,CH4,Public,Marine,___,___,Fleet Services,0.00042058524616573023
+2019,CH4,Public,Marine,___,___,Police Services,2.3050055420401793e-05
+2019,CH4,Public,Road,Inter-city Buses,Urban Bus ,Police Services,0.0018255654192900741
+2019,CH4,Public,Road,Cars,___,Fleet Services,0.03130734614411172
+2019,CH4,Public,Road,Cars,___,Police Services,0.8049994693593623
+2019,CH4,Public,Road,Cars,___,Toronto Housing Company,0.15672071422383874
+2019,CH4,Public,Road,Motorcycles,___,Police Services,0.012394984152437373
+2019,CH4,Public,Road,Truck,Heavy Trucks,Fleet Services,0.6173228484025505
+2019,CH4,Public,Road,Truck,Passenger Light Trucks,Fleet Services,1.496324495679681
+2019,CH4,Public,Road,Truck,Passenger Light Trucks,Police Services,0.5121854956454576
+2019,CH4,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,0.10504423064387797
+2019,CH4,Public,Road,Truck,Medium Trucks,Fleet Services,0.26278113157342253
+2019,CH4,Public,Road,Truck,Medium Trucks,Police Services,0.02445112771968243
+2019,CH4,Public,Road,Truck,Medium Trucks,Toronto Housing Company,0.060829920461757905
+2019,CO2,Freight Transportation,Air,___,___,,1915.0011379282446
+2019,CO2,Freight Transportation,Marine,___,___,,11203.97034492753
+2019,CO2,Freight Transportation,Rail,___,___,,25022.190816552116
+2019,CO2,Freight Transportation,Road,Truck,Heavy Trucks,,247856.77459704
+2019,CO2,Freight Transportation,Road,Truck,Passenger Light Trucks,,1002593.3638156529
+2019,CO2,Freight Transportation,Road,Truck,Medium Trucks,,318963.4338859535
+2019,CO2,Long Distance,Air,___,___,,102278.1341762136
+2019,CO2,Long Distance,Rail,___,___,,69361.81699274626
+2019,CO2,Passenger,Rail,Regional,___,GO rail,109716.29447729536
+2019,CO2,Passenger,Rail,Regional,___,Up Express,5551.312250816578
+2019,CO2,Passenger,Rail,Subway,___,Subway,32280.501962056715
+2019,CO2,Passenger,Rail,Tramway,___,Streetcar,5341.004369464987
+2019,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,215.5698338391219
+2019,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,2723.6097073709666
+2019,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,2469.9202484364223
+2019,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,343.34615050749545
+2019,CO2,Passenger,Road,Inter-city Buses,School Bus,___,5092.293298151427
+2019,CO2,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,236296.81180883
+2019,CO2,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,22405.100673773602
+2019,CO2,Passenger,Road,Cars,___,Auto driver,1635449.9969026232
+2019,CO2,Passenger,Road,Cars,___,Auto passenger,206775.58994617412
+2019,CO2,Passenger,Road,Cars,___,Paid Ridershare,13000.892110712923
+2019,CO2,Passenger,Road,Cars,___,Taxi passenger,22084.74188924456
+2019,CO2,Passenger,Road,Motorcycles,___,___,5039.183875211087
+2019,CO2,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,1921329.1516718578
+2019,CO2,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,242993.43139401032
+2019,CO2,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,15167.892117891537
+2019,CO2,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,8312.628082364843
+2019,CO2,Public,Marine,___,___,Fleet Services,4.79783440231976
+2019,CO2,Public,Marine,___,___,Police Services,0.9145620842965998
+2019,CO2,Public,Road,Inter-city Buses,Urban Bus ,Police Services,44.19007331745653
+2019,CO2,Public,Road,Cars,___,Fleet Services,484.7151358866605
+2019,CO2,Public,Road,Cars,___,Police Services,12520.405969941288
+2019,CO2,Public,Road,Cars,___,Toronto Housing Company,2430.181070448454
+2019,CO2,Public,Road,Motorcycles,___,Police Services,34.81831753690726
+2019,CO2,Public,Road,Truck,Heavy Trucks,Fleet Services,24057.1426013491
+2019,CO2,Public,Road,Truck,Passenger Light Trucks,Fleet Services,29548.744901825758
+2019,CO2,Public,Road,Truck,Passenger Light Trucks,Police Services,8185.491130104144
+2019,CO2,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,1741.521236449198
+2019,CO2,Public,Road,Truck,Medium Trucks,Fleet Services,7569.61716839168
+2019,CO2,Public,Road,Truck,Medium Trucks,Police Services,859.272435947641
+2019,CO2,Public,Road,Truck,Medium Trucks,Toronto Housing Company,1114.8141877466014
+2019,CO2e,Freight Transportation,Air,___,___,,2004.246091961186
+2019,CO2e,Freight Transportation,Marine,___,___,,11292.431635194542
+2019,CO2e,Freight Transportation,Rail,___,___,,27613.265102441223
+2019,CO2e,Freight Transportation,Road,Truck,Heavy Trucks,,258597.17831542686
+2019,CO2e,Freight Transportation,Road,Truck,Passenger Light Trucks,,1054798.145523109
+2019,CO2e,Freight Transportation,Road,Truck,Medium Trucks,,335083.3996085386
+2019,CO2e,Long Distance,Air,___,___,,103341.97015196287
+2019,CO2e,Long Distance,Rail,___,___,,77368.18997803103
+2019,CO2e,Passenger,Rail,Regional,___,GO rail,122021.23271297001
+2019,CO2e,Passenger,Rail,Regional,___,Up Express,6167.152622002475
+2019,CO2e,Passenger,Rail,Subway,___,Subway,35515.98211553559
+2019,CO2e,Passenger,Rail,Tramway,___,Streetcar,5893.962260370773
+2019,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,219.5307138017506
+2019,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,2772.69513259237
+2019,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,2514.398395423054
+2019,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,349.67213808196055
+2019,CO2e,Passenger,Road,Inter-city Buses,School Bus,___,5204.326518343053
+2019,CO2e,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,240495.1170902161
+2019,CO2e,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,22804.28279450672
+2019,CO2e,Passenger,Road,Cars,___,Auto driver,1643387.1177707699
+2019,CO2e,Passenger,Road,Cars,___,Auto passenger,207780.09580062344
+2019,CO2e,Passenger,Road,Cars,___,Paid Ridershare,13064.126980555375
+2019,CO2e,Passenger,Road,Cars,___,Taxi passenger,22191.9939796762
+2019,CO2e,Passenger,Road,Motorcycles,___,___,5105.156815184325
+2019,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,1930283.0537517094
+2019,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,244126.5451299358
+2019,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,15238.689398428807
+2019,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,8351.386592651268
+2019,CO2e,Public,Marine,___,___,Fleet Services,4.8427630006561655
+2019,CO2e,Public,Marine,___,___,Police Services,0.917024383416829
+2019,CO2e,Public,Road,Inter-city Buses,Urban Bus ,Police Services,44.97519921241177
+2019,CO2e,Public,Road,Cars,___,Fleet Services,486.8532600500316
+2019,CO2e,Public,Road,Cars,___,Police Services,12575.198411718682
+2019,CO2e,Public,Road,Cars,___,Toronto Housing Company,2440.8730930240035
+2019,CO2e,Public,Road,Motorcycles,___,Police Services,35.2752900367346
+2019,CO2e,Public,Road,Truck,Heavy Trucks,Fleet Services,24665.27822755521
+2019,CO2e,Public,Road,Truck,Passenger Light Trucks,Fleet Services,29897.947242949973
+2019,CO2e,Public,Road,Truck,Passenger Light Trucks,Police Services,8230.096117978605
+2019,CO2e,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,1753.5767285814823
+2019,CO2e,Public,Road,Truck,Medium Trucks,Fleet Services,7726.38622988853
+2019,CO2e,Public,Road,Truck,Medium Trucks,Police Services,880.9870206164353
+2019,CO2e,Public,Road,Truck,Medium Trucks,Toronto Housing Company,1126.234926058344
+2019,N2O,Freight Transportation,Air,___,___,,0.12995066599562044
+2019,N2O,Freight Transportation,Marine,___,___,,0.2911795811556541
+2019,N2O,Freight Transportation,Rail,___,___,,8.606532009581233
+2019,N2O,Freight Transportation,Road,Truck,Heavy Trucks,,20.414245539159946
+2019,N2O,Freight Transportation,Road,Truck,Passenger Light Trucks,,30.513189442159756
+2019,N2O,Freight Transportation,Road,Truck,Medium Trucks,,25.232864997612026
+2019,N2O,Long Distance,Air,___,___,,3.4525022114916295
+2019,N2O,Long Distance,Rail,___,___,,26.585996963239946
+2019,N2O,Passenger,Rail,Regional,___,GO rail,40.8598314321829
+2019,N2O,Passenger,Rail,Regional,___,Up Express,2.044962215671328
+2019,N2O,Passenger,Rail,Subway,___,Subway,0.29324634719020254
+2019,N2O,Passenger,Rail,Tramway,___,Streetcar,0.28362437214058894
+2019,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,0.012643773042837236
+2019,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,0.15672317661338497
+2019,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,0.14196881855272217
+2019,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,0.020213355918578473
+2019,N2O,Passenger,Road,Inter-city Buses,School Bus,___,0.29809281801513615
+2019,N2O,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,13.399418715752283
+2019,N2O,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,1.2736711223834327
+2019,N2O,Passenger,Road,Cars,___,Auto driver,18.539790790409487
+2019,N2O,Passenger,Road,Cars,___,Auto passenger,2.3462621984246357
+2019,N2O,Passenger,Road,Cars,___,Paid Ridershare,0.14754524746947884
+2019,N2O,Passenger,Road,Cars,___,Taxi passenger,0.2506126711121716
+2019,N2O,Passenger,Road,Motorcycles,___,___,0.09528288527557767
+2019,N2O,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,21.22332374961147
+2019,N2O,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,2.6864626534636287
+2019,N2O,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,0.16789542403850508
+2019,N2O,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,0.09184496246100056
+2019,N2O,Public,Marine,___,___,Fleet Services,0.00012112855089573033
+2019,N2O,Public,Marine,___,___,Police Services,6.638415961075715e-06
+2019,N2O,Public,Road,Inter-city Buses,Urban Bus ,Police Services,0.0025060034266784215
+2019,N2O,Public,Road,Cars,___,Fleet Services,0.0049686909206200554
+2019,N2O,Public,Road,Cars,___,Police Services,0.1271391037612297
+2019,N2O,Public,Road,Cars,___,Toronto Housing Company,0.02483519321090161
+2019,N2O,Public,Road,Motorcycles,___,Police Services,0.0006599927269334031
+2019,N2O,Public,Road,Truck,Heavy Trucks,Fleet Services,1.9972209610391278
+2019,N2O,Public,Road,Truck,Passenger Light Trucks,Fleet Services,1.0663742507212735
+2019,N2O,Public,Road,Truck,Passenger Light Trucks,Police Services,0.11358755861042447
+2019,N2O,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,0.03305222580121923
+2019,N2O,Public,Road,Truck,Medium Trucks,Fleet Services,0.5075525427308933
+2019,N2O,Public,Road,Truck,Medium Trucks,Police Services,0.07114466774053878
+2019,N2O,Public,Road,Truck,Medium Trucks,Toronto Housing Company,0.034037952959887666
+2020,CH4,Freight Transportation,Air,___,___,,0.15772623724380413
+2020,CH4,Freight Transportation,Marine,___,___,,1.0333560457192434
+2020,CH4,Freight Transportation,Rail,___,___,,1.3047586546670311
+2020,CH4,Freight Transportation,Road,Truck,Heavy Trucks,,6.031225645186124
+2020,CH4,Freight Transportation,Road,Truck,Passenger Light Trucks,,68.85103819614734
+2020,CH4,Freight Transportation,Road,Truck,Medium Trucks,,8.629949825763736
+2020,CH4,Long Distance,Air,___,___,,3.1719218456144618
+2020,CH4,Long Distance,Rail,___,___,,4.141123875943578
+2020,CH4,Passenger,Rail,Regional,___,GO rail,5.964065309808753
+2020,CH4,Passenger,Rail,Regional,___,Up Express,0.3095519849777804
+2020,CH4,Passenger,Rail,Subway,___,Subway,125.68401774253016
+2020,CH4,Passenger,Rail,Tramway,___,Streetcar,19.13708541314595
+2020,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,0.009377137906783663
+2020,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,0.11456589530407063
+2020,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,0.10516844895001218
+2020,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,0.014637421661397348
+2020,CH4,Passenger,Road,Inter-city Buses,School Bus,___,1.1167573313582093
+2020,CH4,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,9.990361028086596
+2020,CH4,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,1.2050808899135435
+2020,CH4,Passenger,Road,Cars,___,Auto driver,106.482130231336
+2020,CH4,Passenger,Road,Cars,___,Auto passenger,13.470484241163545
+2020,CH4,Passenger,Road,Cars,___,Paid Ridershare,0.8576470365241737
+2020,CH4,Passenger,Road,Cars,___,Taxi passenger,1.4283720041533174
+2020,CH4,Passenger,Road,Motorcycles,___,___,1.7064095593712485
+2020,CH4,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,118.55229985457527
+2020,CH4,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,14.987651732566896
+2020,CH4,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,0.9332911570203855
+2020,CH4,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,0.5122356543999693
+2020,CH4,Public,Marine,___,___,Fleet Services,0.0004335097052660754
+2020,CH4,Public,Marine,___,___,Police Services,2.37583764901974e-05
+2020,CH4,Public,Road,Inter-city Buses,Urban Bus ,Police Services,0.0018804132110871318
+2020,CH4,Public,Road,Cars,___,Fleet Services,0.03238817466739123
+2020,CH4,Public,Road,Cars,___,Police Services,0.8323005849442735
+2020,CH4,Public,Road,Cars,___,Toronto Housing Company,0.1621159610732746
+2020,CH4,Public,Road,Motorcycles,___,Police Services,0.012838585135659542
+2020,CH4,Public,Road,Truck,Heavy Trucks,Fleet Services,0.6190531785276896
+2020,CH4,Public,Road,Truck,Passenger Light Trucks,Fleet Services,1.5414918706541418
+2020,CH4,Public,Road,Truck,Passenger Light Trucks,Police Services,0.5272876455876276
+2020,CH4,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,0.10804179502373996
+2020,CH4,Public,Road,Truck,Medium Trucks,Fleet Services,0.2686791116014065
+2020,CH4,Public,Road,Truck,Medium Trucks,Police Services,0.024865586648473572
+2020,CH4,Public,Road,Truck,Medium Trucks,Toronto Housing Company,0.06159282450402699
+2020,CO2,Freight Transportation,Air,___,___,,1674.731329051487
+2020,CO2,Freight Transportation,Marine,___,___,,11244.48592686984
+2020,CO2,Freight Transportation,Rail,___,___,,25151.365122901534
+2020,CO2,Freight Transportation,Road,Truck,Heavy Trucks,,237037.4700442676
+2020,CO2,Freight Transportation,Road,Truck,Passenger Light Trucks,,1013954.9526155505
+2020,CO2,Freight Transportation,Road,Truck,Medium Trucks,,317449.8170351886
+2020,CO2,Long Distance,Air,___,___,,82752.96193707164
+2020,CO2,Long Distance,Rail,___,___,,72849.23668454283
+2020,CO2,Passenger,Rail,Regional,___,GO rail,107487.9671640428
+2020,CO2,Passenger,Rail,Regional,___,Up Express,5591.75568945882
+2020,CO2,Passenger,Rail,Subway,___,Subway,41590.97444585689
+2020,CO2,Passenger,Rail,Tramway,___,Streetcar,6597.148231675719
+2020,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,214.25314672918455
+2020,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,2752.0731635447423
+2020,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,2509.732482970242
+2020,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,345.4682147600301
+2020,CO2,Passenger,Road,Inter-city Buses,School Bus,___,5592.237348107042
+2020,CO2,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,241735.50781644564
+2020,CO2,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,28994.332808297124
+2020,CO2,Passenger,Road,Cars,___,Auto driver,1541600.1475059274
+2020,CO2,Passenger,Road,Cars,___,Auto passenger,194752.89349150084
+2020,CO2,Passenger,Road,Cars,___,Paid Ridershare,12232.310520502157
+2020,CO2,Passenger,Road,Cars,___,Taxi passenger,20796.009599924626
+2020,CO2,Passenger,Road,Motorcycles,___,___,4856.796161117097
+2020,CO2,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,1843083.0159531033
+2020,CO2,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,232914.6571593487
+2020,CO2,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,14529.842683781106
+2020,CO2,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,7958.289742217533
+2020,CO2,Public,Marine,___,___,Fleet Services,4.945270419129338
+2020,CO2,Public,Marine,___,___,Police Services,0.9426662991273473
+2020,CO2,Public,Road,Inter-city Buses,Urban Bus ,Police Services,45.14231899972815
+2020,CO2,Public,Road,Cars,___,Fleet Services,503.77803333604965
+2020,CO2,Public,Road,Cars,___,Police Services,13132.22231584352
+2020,CO2,Public,Road,Cars,___,Toronto Housing Company,2542.4724325857187
+2020,CO2,Public,Road,Motorcycles,___,Police Services,36.03023962290798
+2020,CO2,Public,Road,Truck,Heavy Trucks,Fleet Services,24142.67278816253
+2020,CO2,Public,Road,Truck,Passenger Light Trucks,Fleet Services,30692.837141554086
+2020,CO2,Public,Road,Truck,Passenger Light Trucks,Police Services,8519.392910634397
+2020,CO2,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,1797.1723887699331
+2020,CO2,Public,Road,Truck,Medium Trucks,Fleet Services,7822.577579991042
+2020,CO2,Public,Road,Truck,Medium Trucks,Police Services,874.4026394484354
+2020,CO2,Public,Road,Truck,Medium Trucks,Toronto Housing Company,1143.8251667697505
+2020,CO2e,Freight Transportation,Air,___,___,,1795.9759562879353
+2020,CO2e,Freight Transportation,Marine,___,___,,11333.267109152292
+2020,CO2e,Freight Transportation,Rail,___,___,,27767.89816633996
+2020,CO2e,Freight Transportation,Road,Truck,Heavy Trucks,,246372.59915411816
+2020,CO2e,Freight Transportation,Road,Truck,Passenger Light Trucks,,1055692.0789139536
+2020,CO2e,Freight Transportation,Road,Truck,Medium Trucks,,331415.34520318307
+2020,CO2e,Long Distance,Air,___,___,,84394.47080436847
+2020,CO2e,Long Distance,Rail,___,___,,81163.23311171125
+2020,CO2e,Passenger,Rail,Regional,___,GO rail,119461.82233147549
+2020,CO2e,Passenger,Rail,Regional,___,Up Express,6213.232897330819
+2020,CO2e,Passenger,Rail,Subway,___,Subway,45961.37124483339
+2020,CO2e,Passenger,Rail,Tramway,___,Streetcar,7313.971287071876
+2020,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,218.29391134325587
+2020,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,2801.836901395432
+2020,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,2554.971389077907
+2020,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,352.01185290708014
+2020,CO2e,Passenger,Road,Inter-city Buses,School Bus,___,5713.87452724423
+2020,CO2e,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,246023.46739449113
+2020,CO2e,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,29509.326969226564
+2020,CO2e,Passenger,Road,Cars,___,Auto driver,1548957.6371368389
+2020,CO2e,Passenger,Road,Cars,___,Auto passenger,195683.03916018928
+2020,CO2e,Passenger,Road,Cars,___,Paid Ridershare,12291.078657136766
+2020,CO2e,Passenger,Road,Cars,___,Taxi passenger,20895.10961597158
+2020,CO2e,Passenger,Road,Motorcycles,___,___,4919.707273177895
+2020,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,1851514.8971163738
+2020,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,233980.79182716607
+2020,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,14596.424619288531
+2020,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,7994.801731122808
+2020,CO2e,Public,Marine,___,___,Fleet Services,4.991579659884683
+2020,CO2e,Public,Marine,___,___,Police Services,0.9452042639375362
+2020,CO2e,Public,Road,Inter-city Buses,Urban Bus ,Police Services,45.951033423987724
+2020,CO2e,Public,Road,Cars,___,Fleet Services,505.9928958878497
+2020,CO2e,Public,Road,Cars,___,Police Services,13189.148633384912
+2020,CO2e,Public,Road,Cars,___,Toronto Housing Company,2553.5543769682217
+2020,CO2e,Public,Road,Motorcycles,___,Police Services,36.503566604255944
+2020,CO2e,Public,Road,Truck,Heavy Trucks,Fleet Services,24752.51297911972
+2020,CO2e,Public,Road,Truck,Passenger Light Trucks,Fleet Services,31051.125286184677
+2020,CO2e,Public,Road,Truck,Passenger Light Trucks,Police Services,8565.146478970832
+2020,CO2e,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,1809.6053470360885
+2020,CO2e,Public,Road,Truck,Medium Trucks,Fleet Services,7985.759045167093
+2020,CO2e,Public,Road,Truck,Medium Trucks,Police Services,897.0160249689184
+2020,CO2e,Public,Road,Truck,Medium Trucks,Toronto Housing Company,1156.3025133681206
+2020,N2O,Freight Transportation,Air,___,___,,0.2553188597254984
+2020,N2O,Freight Transportation,Marine,___,___,,0.2922325391533162
+2020,N2O,Freight Transportation,Rail,___,___,,8.691521373567554
+2020,N2O,Freight Transportation,Road,Truck,Heavy Trucks,,19.512788399769732
+2020,N2O,Freight Transportation,Road,Truck,Passenger Light Trucks,,30.337623542058214
+2020,N2O,Freight Transportation,Road,Truck,Medium Trucks,,25.067397379704275
+2020,N2O,Long Distance,Air,___,___,,5.2848943239561725
+2020,N2O,Long Distance,Rail,___,___,,27.607492703938217
+2020,N2O,Passenger,Rail,Regional,___,GO rail,39.76043555680111
+2020,N2O,Passenger,Rail,Regional,___,Up Express,2.0636799200921696
+2020,N2O,Passenger,Rail,Subway,___,Subway,5.808833645581767
+2020,N2O,Passenger,Rail,Tramway,___,Streetcar,1.0568599386580235
+2020,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,0.012898807778620302
+2020,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,0.158918973319813
+2020,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,0.1443972103346151
+2020,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,0.020927021114633394
+2020,N2O,Passenger,Road,Inter-city Buses,School Bus,___,0.3294807891901564
+2020,N2O,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,13.685107370656567
+2020,N2O,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,1.643246517588097
+2020,N2O,Passenger,Road,Cars,___,Auto driver,17.18578824179139
+2020,N2O,Passenger,Road,Cars,___,Auto passenger,2.1720318779323735
+2020,N2O,Passenger,Road,Cars,___,Paid Ridershare,0.1367702982134074
+2020,N2O,Passenger,Road,Cars,___,Taxi passenger,0.23189330187831592
+2020,N2O,Passenger,Road,Motorcycles,___,___,0.0908607762214804
+2020,N2O,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,19.940546531290885
+2020,N2O,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,2.5214563135353827
+2020,N2O,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,0.15766047385905904
+2020,N2O,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,0.08642630927138734
+2020,N2O,Public,Marine,___,___,Fleet Services,0.0001248507951166297
+2020,N2O,Public,Marine,___,___,Police Services,6.842412429176848e-06
+2020,N2O,Public,Road,Inter-city Buses,Urban Bus ,Police Services,0.0025812944524387415
+2020,N2O,Public,Road,Cars,___,Fleet Services,0.0051500365227677355
+2020,N2O,Public,Road,Cars,___,Police Services,0.13237585656900025
+2020,N2O,Public,Road,Cars,___,Toronto Housing Company,0.025763453691158043
+2020,N2O,Public,Road,Motorcycles,___,Police Services,0.0006836130654333105
+2020,N2O,Public,Road,Truck,Heavy Trucks,Fleet Services,2.0028190409667803
+2020,N2O,Public,Road,Truck,Passenger Light Trucks,Fleet Services,1.0936805884122605
+2020,N2O,Public,Road,Truck,Passenger Light Trucks,Police Services,0.11637760999696373
+2020,N2O,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,0.03410765292166893
+2020,N2O,Public,Road,Truck,Medium Trucks,Fleet Services,0.528655046417519
+2020,N2O,Public,Road,Truck,Medium Trucks,Police Services,0.07413157114384178
+2020,N2O,Public,Road,Truck,Medium Trucks,Toronto Housing Company,0.03752985665699842
+2021,CH4,Freight Transportation,Air,___,___,,0.13632327469672634
+2021,CH4,Freight Transportation,Marine,___,___,,1.0370793837123178
+2021,CH4,Freight Transportation,Rail,___,___,,1.3557862918653496
+2021,CH4,Freight Transportation,Road,Truck,Heavy Trucks,,6.055825392188493
+2021,CH4,Freight Transportation,Road,Truck,Passenger Light Trucks,,69.16520892857645
+2021,CH4,Freight Transportation,Road,Truck,Medium Trucks,,8.67061954272922
+2021,CH4,Long Distance,Air,___,___,,3.2947350862983145
+2021,CH4,Long Distance,Rail,___,___,,4.229956782144043
+2021,CH4,Passenger,Rail,Regional,___,GO rail,1.6054461808447227
+2021,CH4,Passenger,Rail,Regional,___,Up Express,0.19332948251500218
+2021,CH4,Passenger,Rail,Subway,___,Subway,125.82286808350165
+2021,CH4,Passenger,Rail,Tramway,___,Streetcar,19.004277909122766
+2021,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,0.009465023664907892
+2021,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,0.11496825423577622
+2021,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,0.10629448830234277
+2021,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,0.014777923389208568
+2021,CH4,Passenger,Road,Inter-city Buses,School Bus,___,1.110943421993419
+2021,CH4,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,10.037191676794382
+2021,CH4,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,1.209604818424806
+2021,CH4,Passenger,Road,Cars,___,Auto driver,106.99739474923926
+2021,CH4,Passenger,Road,Cars,___,Auto passenger,13.528665020148829
+2021,CH4,Passenger,Road,Cars,___,Paid Ridershare,0.8684931825288412
+2021,CH4,Passenger,Road,Cars,___,Taxi passenger,1.4343770824500928
+2021,CH4,Passenger,Road,Motorcycles,___,___,1.7149976476934035
+2021,CH4,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,119.1432644490744
+2021,CH4,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,15.053141810005883
+2021,CH4,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,0.9380169189399221
+2021,CH4,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,0.5147807820378102
+2021,CH4,Public,Marine,___,___,Fleet Services,0.00044816247825968256
+2021,CH4,Public,Marine,___,___,Police Services,2.456141737672645e-05
+2021,CH4,Public,Road,Inter-city Buses,Urban Bus ,Police Services,0.0019410215280273534
+2021,CH4,Public,Road,Cars,___,Fleet Services,0.033466565223346796
+2021,CH4,Public,Road,Cars,___,Police Services,0.8595306845006591
+2021,CH4,Public,Road,Cars,___,Toronto Housing Company,0.16750852850681724
+2021,CH4,Public,Road,Motorcycles,___,Police Services,0.013361252531279923
+2021,CH4,Public,Road,Truck,Heavy Trucks,Fleet Services,0.6381574961485534
+2021,CH4,Public,Road,Truck,Passenger Light Trucks,Fleet Services,1.590016855089462
+2021,CH4,Public,Road,Truck,Passenger Light Trucks,Police Services,0.5445180754002229
+2021,CH4,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,0.11103087125118648
+2021,CH4,Public,Road,Truck,Medium Trucks,Fleet Services,0.2792783489951168
+2021,CH4,Public,Road,Truck,Medium Trucks,Police Services,0.025688173638846172
+2021,CH4,Public,Road,Truck,Medium Trucks,Toronto Housing Company,0.06367982066508951
+2021,CO2,Freight Transportation,Air,___,___,,1616.9766905041295
+2021,CO2,Freight Transportation,Marine,___,___,,11285.001508926583
+2021,CO2,Freight Transportation,Rail,___,___,,25174.026314006056
+2021,CO2,Freight Transportation,Road,Truck,Heavy Trucks,,237947.38772823146
+2021,CO2,Freight Transportation,Road,Truck,Passenger Light Trucks,,1018795.4922511108
+2021,CO2,Freight Transportation,Road,Truck,Medium Trucks,,318864.2226001426
+2021,CO2,Long Distance,Air,___,___,,82789.86008358475
+2021,CO2,Long Distance,Rail,___,___,,74116.81926154468
+2021,CO2,Passenger,Rail,Regional,___,GO rail,103624.63050110672
+2021,CO2,Passenger,Rail,Regional,___,Up Express,5362.653973392197
+2021,CO2,Passenger,Rail,Subway,___,Subway,41719.19376363092
+2021,CO2,Passenger,Rail,Tramway,___,Streetcar,6635.81205239566
+2021,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,213.05459209055994
+2021,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,2767.9554105881352
+2021,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,2533.1205664765566
+2021,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,345.2193846034657
+2021,CO2,Passenger,Road,Inter-city Buses,School Bus,___,5565.476723502483
+2021,CO2,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,243767.8376383785
+2021,CO2,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,29124.276199237083
+2021,CO2,Passenger,Road,Cars,___,Auto driver,1624392.5738116312
+2021,CO2,Passenger,Road,Cars,___,Auto passenger,205087.33957245914
+2021,CO2,Passenger,Road,Cars,___,Paid Ridershare,12843.197251793858
+2021,CO2,Passenger,Road,Cars,___,Taxi passenger,21855.82754138623
+2021,CO2,Passenger,Road,Motorcycles,___,___,5086.855805896974
+2021,CO2,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,1941911.5775698521
+2021,CO2,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,245257.1384283523
+2021,CO2,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,15265.789642911886
+2021,CO2,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,8345.553487154135
+2021,CO2,Public,Marine,___,___,Fleet Services,5.112422211071978
+2021,CO2,Public,Marine,___,___,Police Services,0.9745287315951565
+2021,CO2,Public,Road,Inter-city Buses,Urban Bus ,Police Services,46.62003053971309
+2021,CO2,Public,Road,Cars,___,Fleet Services,521.059487940592
+2021,CO2,Public,Road,Cars,___,Police Services,13582.509087810811
+2021,CO2,Public,Road,Cars,___,Toronto Housing Company,2629.8927704869984
+2021,CO2,Public,Road,Motorcycles,___,Police Services,37.45714189539771
+2021,CO2,Public,Road,Truck,Heavy Trucks,Fleet Services,24845.553612898075
+2021,CO2,Public,Road,Truck,Passenger Light Trucks,Fleet Services,31693.191258508832
+2021,CO2,Public,Road,Truck,Passenger Light Trucks,Police Services,8800.701003973056
+2021,CO2,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,1848.4557673741515
+2021,CO2,Public,Road,Truck,Medium Trucks,Fleet Services,8056.244977386815
+2021,CO2,Public,Road,Truck,Medium Trucks,Police Services,890.428430352069
+2021,CO2,Public,Road,Truck,Medium Trucks,Toronto Housing Company,1181.063223641641
+2021,CO2e,Freight Transportation,Air,___,___,,1742.4134931024385
+2021,CO2e,Freight Transportation,Marine,___,___,,11374.102583225369
+2021,CO2e,Freight Transportation,Rail,___,___,,27889.38356483432
+2021,CO2e,Freight Transportation,Road,Truck,Heavy Trucks,,247306.55853323924
+2021,CO2e,Freight Transportation,Road,Truck,Passenger Light Trucks,,1060581.159693139
+2021,CO2e,Freight Transportation,Road,Truck,Medium Trucks,,332864.69584804925
+2021,CO2e,Long Distance,Air,___,___,,84483.99909152144
+2021,CO2e,Long Distance,Rail,___,___,,82609.16255973766
+2021,CO2e,Passenger,Rail,Regional,___,GO rail,106847.83133267559
+2021,CO2e,Passenger,Rail,Regional,___,Up Express,5750.7951374766
+2021,CO2e,Passenger,Rail,Subway,___,Subway,46113.12781665622
+2021,CO2e,Passenger,Rail,Tramway,___,Streetcar,7364.513975154171
+2021,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,217.13408342382
+2021,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,2817.9916369661073
+2021,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,2578.8444162058945
+2021,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,351.86270945150704
+2021,CO2e,Passenger,Road,Inter-city Buses,School Bus,___,5687.977375467212
+2021,CO2e,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,248072.54135048192
+2021,CO2e,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,29640.044042737976
+2021,CO2e,Passenger,Road,Cars,___,Auto driver,1631784.035108012
+2021,CO2e,Passenger,Road,Cars,___,Auto passenger,206021.3321756914
+2021,CO2e,Passenger,Road,Cars,___,Paid Ridershare,12902.357194825972
+2021,CO2e,Passenger,Road,Cars,___,Taxi passenger,21955.395353809854
+2021,CO2e,Passenger,Road,Motorcycles,___,___,5150.0835396343555
+2021,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,1950384.1890497147
+2021,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,246327.90627495086
+2021,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,15332.722457734348
+2021,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,8382.2176688193
+2021,CO2e,Public,Marine,___,___,Fleet Services,5.160296719649591
+2021,CO2e,Public,Marine,___,___,Police Services,0.977152480445008
+2021,CO2e,Public,Road,Inter-city Buses,Urban Bus ,Police Services,47.454810946687395
+2021,CO2e,Public,Road,Cars,___,Fleet Services,523.3534711420806
+2021,CO2e,Public,Road,Cars,___,Police Services,13641.626500664333
+2021,CO2e,Public,Road,Cars,___,Toronto Housing Company,2641.37120847422
+2021,CO2e,Public,Road,Motorcycles,___,Police Services,37.9497383451374
+2021,CO2e,Public,Road,Truck,Heavy Trucks,Fleet Services,25474.21380239157
+2021,CO2e,Public,Road,Truck,Passenger Light Trucks,Fleet Services,32064.522844922867
+2021,CO2e,Public,Road,Truck,Passenger Light Trucks,Police Services,8848.009408212016
+2021,CO2e,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,1861.6288898394532
+2021,CO2e,Public,Road,Truck,Medium Trucks,Fleet Services,8223.93276131186
+2021,CO2e,Public,Road,Truck,Medium Trucks,Police Services,913.7998255619011
+2021,CO2e,Public,Road,Truck,Medium Trucks,Toronto Housing Company,1193.94660119345
+2021,N2O,Freight Transportation,Air,___,___,,0.27335506222963263
+2021,N2O,Freight Transportation,Marine,___,___,,0.2932854971539469
+2021,N2O,Freight Transportation,Rail,___,___,,9.018937761671026
+2021,N2O,Freight Transportation,Road,Truck,Heavy Trucks,,19.592375808304396
+2021,N2O,Freight Transportation,Road,Truck,Passenger Light Trucks,,30.47778598523033
+2021,N2O,Freight Transportation,Road,Truck,Medium Trucks,,25.18194339162007
+2021,N2O,Long Distance,Air,___,___,,5.4528509098136055
+2021,N2O,Long Distance,Rail,___,___,,28.19971209989247
+2021,N2O,Passenger,Rail,Regional,___,GO rail,10.70297470393007
+2021,N2O,Passenger,Rail,Regional,___,Up Express,1.288863238092577
+2021,N2O,Passenger,Rail,Subway,___,Subway,5.878032963999238
+2021,N2O,Passenger,Rail,Tramway,___,Streetcar,1.106080827741382
+2021,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,0.013022569920459543
+2021,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,0.15980501019805798
+2021,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,0.14594518615768387
+2021,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,0.021251639117006393
+2021,N2O,Passenger,Road,Inter-city Buses,School Bus,___,0.3327880540364675
+2021,N2O,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,13.737995593593025
+2021,N2O,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,1.6455239674965572
+2021,N2O,Passenger,Road,Cars,___,Auto driver,17.26347653237006
+2021,N2O,Passenger,Road,Cars,___,Auto passenger,2.1808410664735116
+2021,N2O,Passenger,Road,Cars,___,Paid Ridershare,0.1373207590570705
+2021,N2O,Passenger,Road,Cars,___,Taxi passenger,0.23303991171872893
+2021,N2O,Passenger,Road,Motorcycles,___,___,0.09131806421415714
+2021,N2O,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,20.035580290040144
+2021,N2O,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,2.532388820766851
+2021,N2O,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,0.15850489773398474
+2021,N2O,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,0.08675766859857578
+2021,N2O,Public,Marine,___,___,Fleet Services,0.00012907079373878857
+2021,N2O,Public,Marine,___,___,Police Services,7.073688204497219e-06
+2021,N2O,Public,Road,Inter-city Buses,Urban Bus ,Police Services,0.002664493137200433
+2021,N2O,Public,Road,Cars,___,Fleet Services,0.005339548093282461
+2021,N2O,Public,Road,Cars,___,Police Services,0.13780962576849853
+2021,N2O,Public,Road,Cars,___,Toronto Housing Company,0.0267139560019419
+2021,N2O,Public,Road,Motorcycles,___,Police Services,0.0007114434449087726
+2021,N2O,Public,Road,Truck,Heavy Trucks,Fleet Services,2.0646271210549427
+2021,N2O,Public,Road,Truck,Passenger Light Trucks,Fleet Services,1.1340309813998861
+2021,N2O,Public,Road,Truck,Passenger Light Trucks,Police Services,0.12038095521998259
+2021,N2O,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,0.036380785802107254
+2021,N2O,Public,Road,Truck,Medium Trucks,Fleet Services,0.5430299952890867
+2021,N2O,Public,Road,Truck,Medium Trucks,Police Services,0.07661726027991965
+2021,N2O,Public,Road,Truck,Medium Trucks,Toronto Housing Company,0.03874530643571303
+2022,CH4,Freight Transportation,Air,___,___,,0.13716776118994184
+2022,CH4,Freight Transportation,Marine,___,___,,1.0408027216922549
+2022,CH4,Freight Transportation,Rail,___,___,,1.32275056287075
+2022,CH4,Freight Transportation,Road,Truck,Heavy Trucks,,6.070388520166095
+2022,CH4,Freight Transportation,Road,Truck,Passenger Light Trucks,,69.39407808926867
+2022,CH4,Freight Transportation,Road,Truck,Medium Trucks,,8.687921416134696
+2022,CH4,Long Distance,Air,___,___,,3.41376019164884
+2022,CH4,Long Distance,Rail,___,___,,4.287705624070338
+2022,CH4,Passenger,Rail,Regional,___,GO rail,0.7369004950563899
+2022,CH4,Passenger,Rail,Regional,___,Up Express,0.12874466957395353
+2022,CH4,Passenger,Rail,Subway,___,Subway,125.77748909832339
+2022,CH4,Passenger,Rail,Tramway,___,Streetcar,19.009452151109556
+2022,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,0.009524260365413048
+2022,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,0.11519326082087776
+2022,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,0.10703800046597099
+2022,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,0.014883287159168972
+2022,CH4,Passenger,Road,Inter-city Buses,School Bus,___,1.1120609521008629
+2022,CH4,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,10.065662782707118
+2022,CH4,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,1.213444096413541
+2022,CH4,Passenger,Road,Cars,___,Auto driver,107.39451192667069
+2022,CH4,Passenger,Road,Cars,___,Auto passenger,13.554169300193928
+2022,CH4,Passenger,Road,Cars,___,Paid Ridershare,0.8707794229817392
+2022,CH4,Passenger,Road,Cars,___,Taxi passenger,1.4360420113970291
+2022,CH4,Passenger,Road,Motorcycles,___,___,1.7204444296230446
+2022,CH4,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,119.63454532776842
+2022,CH4,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,15.098192123179222
+2022,CH4,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,0.9404882534792277
+2022,CH4,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,0.5163566021715802
+2022,CH4,Public,Marine,___,___,Fleet Services,0.00046184186184434074
+2022,CH4,Public,Marine,___,___,Police Services,2.5311111950930407e-05
+2022,CH4,Public,Road,Inter-city Buses,Urban Bus ,Police Services,0.0019980790119396115
+2022,CH4,Public,Road,Cars,___,Fleet Services,0.03446240917109597
+2022,CH4,Public,Road,Cars,___,Police Services,0.8847671030210444
+2022,CH4,Public,Road,Cars,___,Toronto Housing Company,0.17242134385781954
+2022,CH4,Public,Road,Motorcycles,___,Police Services,0.013755198705769155
+2022,CH4,Public,Road,Truck,Heavy Trucks,Fleet Services,0.6557107927885324
+2022,CH4,Public,Road,Truck,Passenger Light Trucks,Fleet Services,1.6349962353497827
+2022,CH4,Public,Road,Truck,Passenger Light Trucks,Police Services,0.5598390652227371
+2022,CH4,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,0.11388801156237818
+2022,CH4,Public,Road,Truck,Medium Trucks,Fleet Services,0.2893492618046437
+2022,CH4,Public,Road,Truck,Medium Trucks,Police Services,0.026466054947984707
+2022,CH4,Public,Road,Truck,Medium Trucks,Toronto Housing Company,0.06624885740411578
+2022,CO2,Freight Transportation,Air,___,___,,1625.4467238590828
+2022,CO2,Freight Transportation,Marine,___,___,,11325.517090840282
+2022,CO2,Freight Transportation,Rail,___,___,,25216.43596904346
+2022,CO2,Freight Transportation,Road,Truck,Heavy Trucks,,238555.57342834873
+2022,CO2,Freight Transportation,Road,Truck,Passenger Light Trucks,,1022064.0703163638
+2022,CO2,Freight Transportation,Road,Truck,Medium Trucks,,319934.6314097529
+2022,CO2,Long Distance,Air,___,___,,82844.35217272142
+2022,CO2,Long Distance,Rail,___,___,,75432.19713284141
+2022,CO2,Passenger,Rail,Regional,___,GO rail,103157.69132393405
+2022,CO2,Passenger,Rail,Regional,___,Up Express,5362.895707306765
+2022,CO2,Passenger,Rail,Subway,___,Subway,41884.82978764805
+2022,CO2,Passenger,Rail,Tramway,___,Streetcar,6740.035851341152
+2022,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,216.3483326382915
+2022,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,2780.4447659076686
+2022,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,2559.4938584440406
+2022,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,350.1322757843226
+2022,CO2,Passenger,Road,Inter-city Buses,School Bus,___,5580.302646184992
+2022,CO2,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,244329.37584351312
+2022,CO2,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,29154.92017808545
+2022,CO2,Passenger,Road,Cars,___,Auto driver,1627715.5575628662
+2022,CO2,Passenger,Road,Cars,___,Auto passenger,205456.9438754749
+2022,CO2,Passenger,Road,Cars,___,Paid Ridershare,12878.745414470832
+2022,CO2,Passenger,Road,Cars,___,Taxi passenger,21905.7022291393
+2022,CO2,Passenger,Road,Motorcycles,___,___,5103.633109659329
+2022,CO2,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,1946529.3834486122
+2022,CO2,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,245771.91747730022
+2022,CO2,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,15309.42503164817
+2022,CO2,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,8369.855616302748
+2022,CO2,Public,Marine,___,___,Fleet Services,5.268470044478324
+2022,CO2,Public,Marine,___,___,Police Services,1.0042745303919869
+2022,CO2,Public,Road,Inter-city Buses,Urban Bus ,Police Services,48.01464638396845
+2022,CO2,Public,Road,Cars,___,Fleet Services,536.5883310528338
+2022,CO2,Public,Road,Cars,___,Police Services,13996.955818953056
+2022,CO2,Public,Road,Cars,___,Toronto Housing Company,2707.940417688806
+2022,CO2,Public,Road,Motorcycles,___,Police Services,38.578053657347
+2022,CO2,Public,Road,Truck,Heavy Trucks,Fleet Services,25558.09781954307
+2022,CO2,Public,Road,Truck,Passenger Light Trucks,Fleet Services,32653.945458933344
+2022,CO2,Public,Road,Truck,Passenger Light Trucks,Police Services,9062.505711998632
+2022,CO2,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,1901.3993648507071
+2022,CO2,Public,Road,Truck,Medium Trucks,Fleet Services,8312.696228565288
+2022,CO2,Public,Road,Truck,Medium Trucks,Police Services,919.7974815940169
+2022,CO2,Public,Road,Truck,Medium Trucks,Toronto Housing Company,1220.254983819686
+2022,CO2e,Freight Transportation,Air,___,___,,1751.1849224094342
+2022,CO2e,Freight Transportation,Marine,___,___,,11414.938057154279
+2022,CO2e,Freight Transportation,Rail,___,___,,27869.693569325686
+2022,CO2e,Freight Transportation,Road,Truck,Heavy Trucks,,247920.16336221568
+2022,CO2e,Freight Transportation,Road,Truck,Passenger Light Trucks,,1063859.052911987
+2022,CO2e,Freight Transportation,Road,Truck,Medium Trucks,,333951.0820023563
+2022,CO2e,Long Distance,Air,___,___,,84590.60048583346
+2022,CO2e,Long Distance,Rail,___,___,,84040.48086042494
+2022,CO2e,Passenger,Rail,Regional,___,GO rail,104637.14193318544
+2022,CO2e,Passenger,Rail,Regional,___,Up Express,5621.372095420717
+2022,CO2e,Passenger,Rail,Subway,___,Subway,46293.500007168535
+2022,CO2e,Passenger,Rail,Tramway,___,Streetcar,7475.975321083252
+2022,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,220.45414111300494
+2022,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,2830.6429806381493
+2022,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,2605.538333941776
+2022,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,356.84783374338423
+2022,CO2e,Passenger,Road,Inter-city Buses,School Bus,___,5702.969582151037
+2022,CO2e,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,248643.8361603942
+2022,CO2e,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,29671.111623747216
+2022,CO2e,Passenger,Road,Cars,___,Auto driver,1635026.0981471117
+2022,CO2e,Passenger,Road,Cars,___,Auto passenger,206384.29140271852
+2022,CO2e,Passenger,Road,Cars,___,Paid Ridershare,12937.90816027764
+2022,CO2e,Passenger,Road,Cars,___,Taxi passenger,22005.01095172404
+2022,CO2e,Passenger,Road,Motorcycles,___,___,5167.061652848037
+2022,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,1954908.3590465607
+2022,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,246834.9513717722
+2022,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,15376.314154533073
+2022,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,8406.5288834984
+2022,CO2e,Public,Marine,___,___,Fleet Services,5.317805839527983
+2022,CO2e,Public,Marine,___,___,Police Services,1.0069783646150328
+2022,CO2e,Public,Road,Inter-city Buses,Urban Bus ,Police Services,48.87396565743562
+2022,CO2e,Public,Road,Cars,___,Fleet Services,538.9554704769314
+2022,CO2e,Public,Road,Cars,___,Police Services,14058.064100585616
+2022,CO2e,Public,Road,Cars,___,Toronto Housing Company,2719.81157433469
+2022,CO2e,Public,Road,Motorcycles,___,Police Services,39.08517393045676
+2022,CO2e,Public,Road,Truck,Heavy Trucks,Fleet Services,26204.05006951908
+2022,CO2e,Public,Road,Truck,Passenger Light Trucks,Fleet Services,33036.744468195204
+2022,CO2e,Public,Road,Truck,Passenger Light Trucks,Police Services,9111.51626786836
+2022,CO2e,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,1915.1832158191391
+2022,CO2e,Public,Road,Truck,Medium Trucks,Fleet Services,8484.366019777202
+2022,CO2e,Public,Road,Truck,Medium Trucks,Police Services,943.8599505218168
+2022,CO2e,Public,Road,Truck,Medium Trucks,Toronto Housing Company,1233.1146634768866
+2022,N2O,Freight Transportation,Air,___,___,,0.2736479118974488
+2022,N2O,Freight Transportation,Marine,___,___,,0.2943384551508653
+2022,N2O,Freight Transportation,Rail,___,___,,8.812734795941894
+2022,N2O,Freight Transportation,Road,Truck,Heavy Trucks,,19.63949180169322
+2022,N2O,Freight Transportation,Road,Truck,Passenger Light Trucks,,30.584662602657357
+2022,N2O,Freight Transportation,Road,Truck,Medium Trucks,,25.283753706236066
+2022,N2O,Long Distance,Air,___,___,,5.619326674789944
+2022,N2O,Long Distance,Rail,___,___,,28.584704394221568
+2022,N2O,Passenger,Rail,Regional,___,GO rail,4.912670130386672
+2022,N2O,Passenger,Rail,Regional,___,Up Express,0.8582978189694603
+2022,N2O,Passenger,Rail,Subway,___,Subway,5.930681035086234
+2022,N2O,Passenger,Rail,Tramway,___,Streetcar,1.1300032703651008
+2022,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,0.013106708077314864
+2022,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,0.1603327391048413
+2022,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,0.14696871640251818
+2022,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,0.02148660714335291
+2022,N2O,Passenger,Road,Inter-city Buses,School Bus,___,0.3332673019192154
+2022,N2O,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,13.768729524980534
+2022,N2O,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,1.6466748981109995
+2022,N2O,Passenger,Road,Cars,___,Auto driver,16.96394575095804
+2022,N2O,Passenger,Road,Cars,___,Auto passenger,2.1567448722807767
+2022,N2O,Passenger,Road,Cars,___,Paid Ridershare,0.13716905343689526
+2022,N2O,Passenger,Road,Cars,___,Taxi passenger,0.23205315552149086
+2022,N2O,Passenger,Road,Motorcycles,___,___,0.09160808780746464
+2022,N2O,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,19.68674545659777
+2022,N2O,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,2.50326127478311
+2022,N2O,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,0.15818412604644283
+2022,N2O,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,0.08667710922835466
+2022,N2O,Public,Marine,___,___,Fleet Services,0.00013301045621117013
+2022,N2O,Public,Marine,___,___,Police Services,7.289600241867958e-06
+2022,N2O,Public,Road,Inter-city Buses,Urban Bus ,Police Services,0.002742817497370619
+2022,N2O,Public,Road,Cars,___,Fleet Services,0.005514861850686924
+2022,N2O,Public,Road,Cars,___,Police Services,0.1427119881513964
+2022,N2O,Public,Road,Cars,___,Toronto Housing Company,0.0276855987411735
+2022,N2O,Public,Road,Motorcycles,___,Police Services,0.0007324197996262174
+2022,N2O,Public,Road,Truck,Heavy Trucks,Fleet Services,2.1214171923740017
+2022,N2O,Public,Road,Truck,Passenger Light Trucks,Fleet Services,1.1693425782534432
+2022,N2O,Public,Road,Truck,Passenger Light Trucks,Police Services,0.1250132063760062
+2022,N2O,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,0.038228868206788884
+2022,N2O,Public,Road,Truck,Medium Trucks,Fleet Services,0.5556827406510543
+2022,N2O,Public,Road,Truck,Medium Trucks,Police Services,0.07888148246272543
+2022,N2O,Public,Road,Truck,Medium Trucks,Toronto Housing Company,0.03848474379769843
+2023,CH4,Freight Transportation,Air,___,___,,0.16302183304487466
+2023,CH4,Freight Transportation,Marine,___,___,,0.021696572143614996
+2023,CH4,Freight Transportation,Rail,___,___,,1.3190076968381916
+2023,CH4,Freight Transportation,Road,Truck,Heavy Trucks,,8.740134219199575
+2023,CH4,Freight Transportation,Road,Truck,Passenger Light Trucks,,69.59561071035517
+2023,CH4,Freight Transportation,Road,Truck,Medium Trucks,,8.739072778537636
+2023,CH4,Long Distance,Air,___,___,,2.7200992282080314
+2023,CH4,Long Distance,Rail,___,___,,4.357874032237407
+2023,CH4,Passenger,Rail,Regional,___,GO rail,0.8307713550805651
+2023,CH4,Passenger,Rail,Regional,___,Up Express,0.12336762259907677
+2023,CH4,Passenger,Rail,Subway,___,Subway,128.09356049242223
+2023,CH4,Passenger,Rail,Tramway,___,Streetcar,19.71247751560098
+2023,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,0.02562718960406869
+2023,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,0.15095473820897198
+2023,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,0.14024952671413987
+2023,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,0.039767358382838354
+2023,CH4,Passenger,Road,Inter-city Buses,School Bus,___,1.1041818660781377
+2023,CH4,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,10.114346589349008
+2023,CH4,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,1.2324292670796437
+2023,CH4,Passenger,Road,Cars,___,Auto driver,107.65422445894293
+2023,CH4,Passenger,Road,Cars,___,Auto passenger,13.602060488765774
+2023,CH4,Passenger,Road,Cars,___,Paid Ridershare,0.8828231072573989
+2023,CH4,Passenger,Road,Cars,___,Taxi passenger,1.4501175649672557
+2023,CH4,Passenger,Road,Motorcycles,___,___,1.7263783359129088
+2023,CH4,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,119.7824313349779
+2023,CH4,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,15.118436459469434
+2023,CH4,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,0.9566828899298133
+2023,CH4,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,0.5304309539143002
+2023,CH4,Public,Marine,___,___,Fleet Services,0.0002548811918982291
+2023,CH4,Public,Marine,___,___,Police Services,5.049356109527803e-05
+2023,CH4,Public,Road,Inter-city Buses,Urban Bus ,Police Services,0.002051618551970685
+2023,CH4,Public,Road,Cars,___,Fleet Services,0.039088695022456425
+2023,CH4,Public,Road,Cars,___,Police Services,1.5790001216427296
+2023,CH4,Public,Road,Cars,___,Toronto Housing Company,2.4155672883761614
+2023,CH4,Public,Road,Motorcycles,___,Police Services,0.01363430552003997
+2023,CH4,Public,Road,Truck,Heavy Trucks,Fleet Services,3.5816754031640605
+2023,CH4,Public,Road,Truck,Passenger Light Trucks,Fleet Services,1.687163291103745
+2023,CH4,Public,Road,Truck,Passenger Light Trucks,Police Services,0.5881976548213758
+2023,CH4,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,0.13197060413296835
+2023,CH4,Public,Road,Truck,Medium Trucks,Fleet Services,0.30139938396696164
+2023,CH4,Public,Road,Truck,Medium Trucks,Police Services,0.03716153745219936
+2023,CH4,Public,Road,Truck,Medium Trucks,Toronto Housing Company,0.07680743448157318
+2023,CO2,Freight Transportation,Air,___,___,,1621.883708850137
+2023,CO2,Freight Transportation,Marine,___,___,,6387.028185648546
+2023,CO2,Freight Transportation,Rail,___,___,,24236.06532420256
+2023,CO2,Freight Transportation,Road,Truck,Heavy Trucks,,238818.54162913503
+2023,CO2,Freight Transportation,Road,Truck,Passenger Light Trucks,,1032131.2713651634
+2023,CO2,Freight Transportation,Road,Truck,Medium Trucks,,321028.94739677105
+2023,CO2,Long Distance,Air,___,___,,81791.19860762531
+2023,CO2,Long Distance,Rail,___,___,,78432.84329518407
+2023,CO2,Passenger,Rail,Regional,___,GO rail,103260.64884689289
+2023,CO2,Passenger,Rail,Regional,___,Up Express,5217.573019651053
+2023,CO2,Passenger,Rail,Subway,___,Subway,86335.01543106878
+2023,CO2,Passenger,Rail,Tramway,___,Streetcar,18199.239279313144
+2023,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,210.68539659842622
+2023,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,2773.307134043984
+2023,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,2565.3884158834544
+2023,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,342.9964468405063
+2023,CO2,Passenger,Road,Inter-city Buses,School Bus,___,5608.282450465784
+2023,CO2,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,244901.42212643233
+2023,CO2,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,29181.785798885998
+2023,CO2,Passenger,Road,Cars,___,Auto driver,1634667.157856348
+2023,CO2,Passenger,Road,Cars,___,Auto passenger,206205.36973956897
+2023,CO2,Passenger,Road,Cars,___,Paid Ridershare,12904.580397030022
+2023,CO2,Passenger,Road,Cars,___,Taxi passenger,21968.679106985957
+2023,CO2,Passenger,Road,Motorcycles,___,___,5119.262956721748
+2023,CO2,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,1950686.8108800976
+2023,CO2,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,246173.912508674
+2023,CO2,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,15313.541069612214
+2023,CO2,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,8360.255833258932
+2023,CO2,Public,Marine,___,___,Fleet Services,1.7985842090838229
+2023,CO2,Public,Marine,___,___,Police Services,0.35161210278420385
+2023,CO2,Public,Road,Inter-city Buses,Urban Bus ,Police Services,48.38253859587345
+2023,CO2,Public,Road,Cars,___,Fleet Services,542.1851394252149
+2023,CO2,Public,Road,Cars,___,Police Services,14065.965485016819
+2023,CO2,Public,Road,Cars,___,Toronto Housing Company,1615.0813665844184
+2023,CO2,Public,Road,Motorcycles,___,Police Services,38.03958498505827
+2023,CO2,Public,Road,Truck,Heavy Trucks,Fleet Services,25796.052592228538
+2023,CO2,Public,Road,Truck,Passenger Light Trucks,Fleet Services,33737.00803377673
+2023,CO2,Public,Road,Truck,Passenger Light Trucks,Police Services,9253.215196339366
+2023,CO2,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,1907.5117562651528
+2023,CO2,Public,Road,Truck,Medium Trucks,Fleet Services,8534.611676103548
+2023,CO2,Public,Road,Truck,Medium Trucks,Police Services,915.8898340703687
+2023,CO2,Public,Road,Truck,Medium Trucks,Toronto Housing Company,1218.7907685380505
+2023,CO2e,Freight Transportation,Air,___,___,,1746.6285351496613
+2023,CO2e,Freight Transportation,Marine,___,___,,6390.618490026506
+2023,CO2e,Freight Transportation,Rail,___,___,,26883.81917679934
+2023,CO2e,Freight Transportation,Road,Truck,Heavy Trucks,,248248.38190520275
+2023,CO2e,Freight Transportation,Road,Truck,Passenger Light Trucks,,1073994.1294276083
+2023,CO2e,Freight Transportation,Road,Truck,Medium Trucks,,335077.37793479307
+2023,CO2e,Long Distance,Air,___,___,,83554.62894260751
+2023,CO2e,Long Distance,Rail,___,___,,87182.00180260152
+2023,CO2e,Passenger,Rail,Regional,___,GO rail,104928.5608601425
+2023,CO2e,Passenger,Rail,Regional,___,Up Express,5465.25408926047
+2023,CO2e,Passenger,Rail,Subway,___,Subway,95320.9655196823
+2023,CO2e,Passenger,Rail,Tramway,___,Streetcar,20136.07979524483
+2023,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,215.07790441890444
+2023,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,2824.196520957951
+2023,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,2612.3172889601624
+2023,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,350.1451486379191
+2023,CO2e,Passenger,Road,Inter-city Buses,School Bus,___,5730.727233069087
+2023,CO2e,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,249226.85193498424
+2023,CO2e,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,29699.0234827682
+2023,CO2e,Passenger,Road,Cars,___,Auto driver,1642103.201230999
+2023,CO2e,Passenger,Road,Cars,___,Auto passenger,207144.4097729628
+2023,CO2e,Passenger,Road,Cars,___,Paid Ridershare,12964.228225590501
+2023,CO2e,Passenger,Road,Cars,___,Taxi passenger,22068.90816668278
+2023,CO2e,Passenger,Road,Motorcycles,___,___,5182.910268427003
+2023,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,1959165.906997965
+2023,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,247245.3653360444
+2023,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,15380.880735676245
+2023,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,8397.224277949834
+2023,CO2e,Public,Marine,___,___,Fleet Services,1.8258116375271594
+2023,CO2e,Public,Marine,___,___,Police Services,0.3570060269546458
+2023,CO2e,Public,Road,Inter-city Buses,Urban Bus ,Police Services,49.26488375653611
+2023,CO2e,Public,Road,Cars,___,Fleet Services,544.768348279314
+2023,CO2e,Public,Road,Cars,___,Police Services,14143.832873689746
+2023,CO2e,Public,Road,Cars,___,Toronto Housing Company,1676.0210932773518
+2023,CO2e,Public,Road,Motorcycles,___,Police Services,38.542248232893165
+2023,CO2e,Public,Road,Truck,Heavy Trucks,Fleet Services,26511.748448121773
+2023,CO2e,Public,Road,Truck,Passenger Light Trucks,Fleet Services,34139.836600424314
+2023,CO2e,Public,Road,Truck,Passenger Light Trucks,Police Services,9306.214453552855
+2023,CO2e,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,1921.9990243309303
+2023,CO2e,Public,Road,Truck,Medium Trucks,Fleet Services,8711.500579593412
+2023,CO2e,Public,Road,Truck,Medium Trucks,Police Services,940.1771125619425
+2023,CO2e,Public,Road,Truck,Medium Trucks,Toronto Housing Company,1232.4202962246145
+2023,N2O,Freight Transportation,Air,___,___,,0.2668849469426518
+2023,N2O,Freight Transportation,Marine,___,___,,0.006236562278654761
+2023,N2O,Freight Transportation,Rail,___,___,,8.793384976693243
+2023,N2O,Freight Transportation,Road,Truck,Heavy Trucks,,19.666803814963625
+2023,N2O,Freight Transportation,Road,Truck,Passenger Light Trucks,,30.70676765827639
+2023,N2O,Freight Transportation,Road,Truck,Medium Trucks,,25.338389467606074
+2023,N2O,Long Distance,Air,___,___,,5.725866614730917
+2023,N2O,Long Distance,Rail,___,___,,29.052493801142575
+2023,N2O,Passenger,Rail,Regional,___,GO rail,5.53847588856689
+2023,N2O,Passenger,Rail,Regional,___,Up Express,0.8224508373652213
+2023,N2O,Passenger,Rail,Subway,___,Subway,21.12746751098207
+2023,N2O,Passenger,Rail,Tramway,___,Streetcar,5.11033049699356
+2023,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,0.012934016237560011
+2023,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,0.16013200473684147
+2023,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,0.14759608394533855
+2023,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,0.02118653446769561
+2023,N2O,Passenger,Road,Inter-city Buses,School Bus,___,0.33307705844182334
+2023,N2O,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,13.802109161663132
+2023,N2O,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,1.648847883468256
+2023,N2O,Passenger,Road,Cars,___,Auto driver,17.366794164474467
+2023,N2O,Passenger,Road,Cars,___,Auto passenger,2.1926065876839713
+2023,N2O,Passenger,Road,Cars,___,Paid Ridershare,0.13794813190629118
+2023,N2O,Passenger,Road,Cars,___,Taxi passenger,0.2341496336661491
+2023,N2O,Passenger,Road,Motorcycles,___,___,0.0919240491647102
+2023,N2O,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,20.01229885850056
+2023,N2O,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,2.530086113159729
+2023,N2O,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,0.15855478313929108
+2023,N2O,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,0.08667582100235868
+2023,N2O,Public,Marine,___,___,Fleet Services,7.340578326668998e-05
+2023,N2O,Public,Marine,___,___,Police Services,1.4542145595440066e-05
+2023,N2O,Public,Road,Inter-city Buses,Urban Bus ,Police Services,0.0028163126546016486
+2023,N2O,Public,Road,Cars,___,Fleet Services,0.005913913619554479
+2023,N2O,Public,Road,Cars,___,Police Services,0.15002814133701123
+2023,N2O,Public,Road,Cars,___,Toronto Housing Company,0.03427118670145487
+2023,N2O,Public,Road,Motorcycles,___,Police Services,0.000725982657429755
+2023,N2O,Public,Road,Truck,Heavy Trucks,Fleet Services,2.149264001432189
+2023,N2O,Public,Road,Truck,Passenger Light Trucks,Fleet Services,1.2328796561557889
+2023,N2O,Public,Road,Truck,Passenger Light Trucks,Police Services,0.13639968611490272
+2023,N2O,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,0.03931505160733308
+2023,N2O,Public,Road,Truck,Medium Trucks,Fleet Services,0.5723473705589132
+2023,N2O,Public,Road,Truck,Medium Trucks,Police Services,0.07888216847341369
+2023,N2O,Public,Road,Truck,Medium Trucks,Toronto Housing Company,0.04032406564580964
+2024,CH4,Freight Transportation,Air,___,___,,0.17421805019371062
+2024,CH4,Freight Transportation,Marine,___,___,,0.02209383904679941
+2024,CH4,Freight Transportation,Rail,___,___,,1.3256129160805252
+2024,CH4,Freight Transportation,Road,Truck,Heavy Trucks,,9.02894861132834
+2024,CH4,Freight Transportation,Road,Truck,Passenger Light Trucks,,69.69735012019032
+2024,CH4,Freight Transportation,Road,Truck,Medium Trucks,,8.769981404317619
+2024,CH4,Long Distance,Air,___,___,,4.865816087272146
+2024,CH4,Long Distance,Rail,___,___,,4.4274542698102985
+2024,CH4,Passenger,Rail,Regional,___,GO rail,0.8766442603628379
+2024,CH4,Passenger,Rail,Regional,___,Up Express,0.12987219551583482
+2024,CH4,Passenger,Rail,Subway,___,Subway,128.03502041917
+2024,CH4,Passenger,Rail,Tramway,___,Streetcar,19.895043191008558
+2024,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,0.04238155263268584
+2024,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,0.18965172494089347
+2024,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,0.18013818899618425
+2024,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,0.06452763270101348
+2024,CH4,Passenger,Road,Inter-city Buses,School Bus,___,1.1117052888265848
+2024,CH4,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,10.197167648672899
+2024,CH4,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,1.2563685514062575
+2024,CH4,Passenger,Road,Cars,___,Auto driver,107.69299022939717
+2024,CH4,Passenger,Road,Cars,___,Auto passenger,13.182573559244187
+2024,CH4,Passenger,Road,Cars,___,Paid Ridershare,0.8603454438890014
+2024,CH4,Passenger,Road,Cars,___,Taxi passenger,1.4072790914847917
+2024,CH4,Passenger,Road,Motorcycles,___,___,1.732341435022378
+2024,CH4,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,120.92113588833368
+2024,CH4,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,15.212129821654795
+2024,CH4,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,0.9621020349622298
+2024,CH4,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,0.5328045890054496
+2024,CH4,Public,Marine,___,___,Fleet Services,0.00026229805748048207
+2024,CH4,Public,Marine,___,___,Police Services,5.190844976502667e-05
+2024,CH4,Public,Road,Inter-city Buses,Urban Bus ,Police Services,0.002099306057788335
+2024,CH4,Public,Road,Cars,___,Fleet Services,0.04245172978921115
+2024,CH4,Public,Road,Cars,___,Police Services,2.078008886935419
+2024,CH4,Public,Road,Cars,___,Toronto Housing Company,2.573082568440803
+2024,CH4,Public,Road,Motorcycles,___,Police Services,0.013869203638454546
+2024,CH4,Public,Road,Truck,Heavy Trucks,Fleet Services,6.584027810160354
+2024,CH4,Public,Road,Truck,Passenger Light Trucks,Fleet Services,1.7294708147933586
+2024,CH4,Public,Road,Truck,Passenger Light Trucks,Police Services,0.6107892324733373
+2024,CH4,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,0.14318487417944756
+2024,CH4,Public,Road,Truck,Medium Trucks,Fleet Services,0.3103035671808411
+2024,CH4,Public,Road,Truck,Medium Trucks,Police Services,0.043827118822448184
+2024,CH4,Public,Road,Truck,Medium Trucks,Toronto Housing Company,0.08362218432344008
+2024,CO2,Freight Transportation,Air,___,___,,1626.5087863836097
+2024,CO2,Freight Transportation,Marine,___,___,,6418.71655844747
+2024,CO2,Freight Transportation,Rail,___,___,,24329.16083467604
+2024,CO2,Freight Transportation,Road,Truck,Heavy Trucks,,239590.46701730165
+2024,CO2,Freight Transportation,Road,Truck,Passenger Light Trucks,,1035427.0091760294
+2024,CO2,Freight Transportation,Road,Truck,Medium Trucks,,321734.80188769754
+2024,CO2,Long Distance,Air,___,___,,84084.57979380414
+2024,CO2,Long Distance,Rail,___,___,,79705.6543166751
+2024,CO2,Passenger,Rail,Regional,___,GO rail,103812.7108058971
+2024,CO2,Passenger,Rail,Regional,___,Up Express,5307.635159318857
+2024,CO2,Passenger,Rail,Subway,___,Subway,84762.81338546473
+2024,CO2,Passenger,Rail,Tramway,___,Streetcar,21722.815426417244
+2024,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,205.88834534525412
+2024,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,2769.2933258523803
+2024,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,2573.7261065220737
+2024,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,338.05148995034733
+2024,CO2,Passenger,Road,Inter-city Buses,School Bus,___,5642.347550218409
+2024,CO2,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,245543.15923091889
+2024,CO2,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,29225.33072986128
+2024,CO2,Passenger,Road,Cars,___,Auto driver,1639865.2105736884
+2024,CO2,Passenger,Road,Cars,___,Auto passenger,206483.9843622426
+2024,CO2,Passenger,Road,Cars,___,Paid Ridershare,12909.07354714621
+2024,CO2,Passenger,Road,Cars,___,Taxi passenger,21985.4155272868
+2024,CO2,Passenger,Road,Motorcycles,___,___,5134.8491326682315
+2024,CO2,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,1956961.4882118143
+2024,CO2,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,246940.30730480704
+2024,CO2,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,15358.008393832832
+2024,CO2,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,8382.006464146103
+2024,CO2,Public,Marine,___,___,Fleet Services,1.8559725237812665
+2024,CO2,Public,Marine,___,___,Police Services,0.36165759200856995
+2024,CO2,Public,Road,Inter-city Buses,Urban Bus ,Police Services,49.71757394701288
+2024,CO2,Public,Road,Cars,___,Fleet Services,551.3503026439287
+2024,CO2,Public,Road,Cars,___,Police Services,14195.610421323301
+2024,CO2,Public,Road,Cars,___,Toronto Housing Company,1582.0831887607133
+2024,CO2,Public,Road,Motorcycles,___,Police Services,38.69027467665308
+2024,CO2,Public,Road,Truck,Heavy Trucks,Fleet Services,25810.085384565962
+2024,CO2,Public,Road,Truck,Passenger Light Trucks,Fleet Services,34578.25765923198
+2024,CO2,Public,Road,Truck,Passenger Light Trucks,Police Services,9463.798601892006
+2024,CO2,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,1931.413798062693
+2024,CO2,Public,Road,Truck,Medium Trucks,Fleet Services,8692.708118409359
+2024,CO2,Public,Road,Truck,Medium Trucks,Police Services,922.2416112612352
+2024,CO2,Public,Road,Truck,Medium Trucks,Toronto Housing Company,1228.6832378693123
+2024,CO2e,Freight Transportation,Air,___,___,,1752.735508539656
+2024,CO2e,Freight Transportation,Marine,___,___,,6422.347198979388
+2024,CO2e,Freight Transportation,Rail,___,___,,26990.17913193204
+2024,CO2e,Freight Transportation,Road,Truck,Heavy Trucks,,249054.56759717382
+2024,CO2e,Freight Transportation,Road,Truck,Passenger Light Trucks,,1077368.2749970667
+2024,CO2e,Freight Transportation,Road,Truck,Medium Trucks,,335800.5671353334
+2024,CO2e,Long Distance,Air,___,___,,85971.63665638727
+2024,CO2e,Long Distance,Rail,___,___,,88594.50675318931
+2024,CO2e,Passenger,Rail,Regional,___,GO rail,105572.72032538998
+2024,CO2e,Passenger,Rail,Regional,___,Up Express,5568.375243560027
+2024,CO2e,Passenger,Rail,Subway,___,Subway,93633.78574463638
+2024,CO2e,Passenger,Rail,Tramway,___,Streetcar,24044.28727705847
+2024,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,210.59734196588417
+2024,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,2820.96226221326
+2024,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,2621.698614975097
+2024,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,345.6672109619965
+2024,CO2e,Passenger,Road,Inter-city Buses,School Bus,___,5764.810828590091
+2024,CO2e,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,249886.3179734293
+2024,CO2e,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,29744.03895316825
+2024,CO2e,Passenger,Road,Cars,___,Auto driver,1647314.6173986977
+2024,CO2e,Passenger,Road,Cars,___,Auto passenger,207411.7867763264
+2024,CO2e,Passenger,Road,Cars,___,Paid Ridershare,12968.107239327677
+2024,CO2e,Passenger,Road,Cars,___,Taxi passenger,22084.48598830113
+2024,CO2e,Passenger,Road,Motorcycles,___,___,5198.716289166872
+2024,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,1965521.7458761549
+2024,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,248019.51690409743
+2024,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,15425.722845685974
+2024,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,8419.154135855864
+2024,CO2e,Public,Marine,___,___,Fleet Services,1.8839922514735614
+2024,CO2e,Public,Marine,___,___,Police Services,0.3672026602462691
+2024,CO2e,Public,Road,Inter-city Buses,Urban Bus ,Police Services,50.620428200225824
+2024,CO2e,Public,Road,Cars,___,Fleet Services,554.1025861203937
+2024,CO2e,Public,Road,Cars,___,Police Services,14285.809757114695
+2024,CO2e,Public,Road,Cars,___,Toronto Housing Company,1646.9849344645424
+2024,CO2e,Public,Road,Motorcycles,___,Police Services,39.201598044377725
+2024,CO2e,Public,Road,Truck,Heavy Trucks,Fleet Services,26595.19448336611
+2024,CO2e,Public,Road,Truck,Passenger Light Trucks,Fleet Services,34999.223577115714
+2024,CO2e,Public,Road,Truck,Passenger Light Trucks,Police Services,9519.8725453584
+2024,CO2e,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,1946.452040633858
+2024,CO2e,Public,Road,Truck,Medium Trucks,Fleet Services,8873.717855150593
+2024,CO2e,Public,Road,Truck,Medium Trucks,Police Services,946.7253868374459
+2024,CO2e,Public,Road,Truck,Medium Trucks,Toronto Housing Company,1242.9878867171326
+2024,N2O,Freight Transportation,Air,___,___,,0.2710567598280793
+2024,N2O,Freight Transportation,Marine,___,___,,0.006350657798044661
+2024,N2O,Freight Transportation,Rail,___,___,,8.83741977337979
+2024,N2O,Freight Transportation,Road,Truck,Heavy Trucks,,19.730762169605388
+2024,N2O,Freight Transportation,Road,Truck,Passenger Light Trucks,,30.963348576013576
+2024,N2O,Freight Transportation,Road,Truck,Medium Trucks,,25.39489879628073
+2024,N2O,Long Distance,Air,___,___,,5.98951249916253
+2024,N2O,Long Distance,Rail,___,___,,29.51636206996027
+2024,N2O,Passenger,Rail,Regional,___,GO rail,5.844295268541222
+2024,N2O,Passenger,Rail,Regional,___,Up Express,0.8658146581722701
+2024,N2O,Passenger,Rail,Subway,___,Subway,20.745761511305684
+2024,N2O,Passenger,Rail,Tramway,___,Streetcar,6.388174307483401
+2024,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,0.012815382601824493
+2024,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,0.16002097361450807
+2024,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,0.14828727008088408
+2024,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,0.021008861493046836
+2024,N2O,Passenger,Road,Inter-city Buses,School Bus,___,0.3326089506923552
+2024,N2O,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,13.855765845262258
+2024,N2O,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,1.6520955829779695
+2024,N2O,Passenger,Road,Cars,___,Auto driver,17.40890614157834
+2024,N2O,Passenger,Road,Cars,___,Auto passenger,2.1844576152334416
+2024,N2O,Passenger,Road,Cars,___,Paid Ridershare,0.13747126798590675
+2024,N2O,Passenger,Road,Cars,___,Taxi passenger,0.23328053722534023
+2024,N2O,Passenger,Road,Motorcycles,___,___,0.09224156497708633
+2024,N2O,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,20.204408760686487
+2024,N2O,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,2.549512996764592
+2024,N2O,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,0.1594305675132279
+2024,N2O,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,0.08710998436459885
+2024,N2O,Public,Marine,___,___,Fleet Services,7.554184055437883e-05
+2024,N2O,Public,Marine,___,___,Police Services,1.4949633532327678e-05
+2024,N2O,Public,Road,Inter-city Buses,Urban Bus ,Police Services,0.0028817745838905814
+2024,N2O,Public,Road,Cars,___,Fleet Services,0.0062442857412463295
+2024,N2O,Public,Road,Cars,___,Police Services,0.1562454669991704
+2024,N2O,Public,Road,Cars,___,Toronto Housing Company,0.036466482438162896
+2024,N2O,Public,Road,Motorcycles,___,Police Services,0.0007384902393191555
+2024,N2O,Public,Road,Truck,Heavy Trucks,Fleet Services,2.170619177136829
+2024,N2O,Public,Road,Truck,Passenger Light Trucks,Fleet Services,1.2907618482318144
+2024,N2O,Public,Road,Truck,Passenger Light Trucks,Police Services,0.14512540129010457
+2024,N2O,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,0.04037369199126392
+2024,N2O,Public,Road,Truck,Medium Trucks,Fleet Services,0.5855481940618705
+2024,N2O,Public,Road,Truck,Medium Trucks,Police Services,0.07907183248637112
+2024,N2O,Public,Road,Truck,Medium Trucks,Toronto Housing Company,0.04210933884908767
+2025,CH4,Freight Transportation,Air,___,___,,0.20226368768800773
+2025,CH4,Freight Transportation,Rail,___,___,,1.286080848290187
+2025,CH4,Freight Transportation,Road,Truck,Heavy Trucks,,7.4948365058587045
+2025,CH4,Freight Transportation,Road,Truck,Passenger Light Trucks,,61.863715298139425
+2025,CH4,Freight Transportation,Road,Truck,Medium Trucks,,10.279861962500577
+2025,CH4,Long Distance,Air,___,___,,3.1514844830801225
+2025,CH4,Long Distance,Rail,___,___,,4.547192302521833
+2025,CH4,Passenger,Rail,Regional,___,GO rail,1.1099873910052087
+2025,CH4,Passenger,Rail,Regional,___,Up Express,0.23752364873202597
+2025,CH4,Passenger,Rail,Subway,___,Subway,111.98053048310324
+2025,CH4,Passenger,Rail,Tramway,___,Streetcar,17.153230040325006
+2025,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,0.10375463784650912
+2025,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,3.1850098532485824
+2025,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,3.002988406807118
+2025,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,0.3340551759655804
+2025,CH4,Passenger,Road,Inter-city Buses,School Bus,___,0.9809890800181157
+2025,CH4,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,14.252868839736646
+2025,CH4,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,5.2117406198882446
+2025,CH4,Passenger,Road,Cars,___,Auto driver,96.13026018106939
+2025,CH4,Passenger,Road,Cars,___,Auto passenger,11.635243833329401
+2025,CH4,Passenger,Road,Cars,___,Paid Ridershare,0.7504347184545531
+2025,CH4,Passenger,Road,Cars,___,Taxi passenger,1.2196363514652615
+2025,CH4,Passenger,Road,Motorcycles,___,___,1.6477182270748207
+2025,CH4,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,112.27342742097328
+2025,CH4,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,13.598876156624728
+2025,CH4,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,0.8562496732663386
+2025,CH4,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,0.47992444684003277
+2025,CH4,Public,Marine,___,___,Fleet Services,0.00027822393828201135
+2025,CH4,Public,Marine,___,___,Police Services,5.3825729257571235e-05
+2025,CH4,Public,Road,Inter-city Buses,Urban Bus ,Police Services,0.002146413377854007
+2025,CH4,Public,Road,Cars,___,Fleet Services,0.048482194152183127
+2025,CH4,Public,Road,Cars,___,Police Services,2.5321401872880465
+2025,CH4,Public,Road,Cars,___,Toronto Housing Company,2.7258298169829644
+2025,CH4,Public,Road,Motorcycles,___,Police Services,0.014112244941169513
+2025,CH4,Public,Road,Truck,Heavy Trucks,Fleet Services,34.83286446278157
+2025,CH4,Public,Road,Truck,Passenger Light Trucks,Fleet Services,1.60875222884931
+2025,CH4,Public,Road,Truck,Passenger Light Trucks,Police Services,0.6226468726238357
+2025,CH4,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,0.16248496797471995
+2025,CH4,Public,Road,Truck,Medium Trucks,Fleet Services,0.29324544099599176
+2025,CH4,Public,Road,Truck,Medium Trucks,Police Services,0.055821267009687627
+2025,CH4,Public,Road,Truck,Medium Trucks,Toronto Housing Company,0.0904872059950328
+2025,CO2,Freight Transportation,Air,___,___,,1216.6424628141021
+2025,CO2,Freight Transportation,Marine,___,___,,6396.603846426737
+2025,CO2,Freight Transportation,Rail,___,___,,24072.503708566182
+2025,CO2,Freight Transportation,Road,Truck,Heavy Trucks,,176813.14908340896
+2025,CO2,Freight Transportation,Road,Truck,Passenger Light Trucks,,1015052.6581557398
+2025,CO2,Freight Transportation,Road,Truck,Medium Trucks,,293702.3318481194
+2025,CO2,Long Distance,Air,___,___,,61286.97997270758
+2025,CO2,Long Distance,Rail,___,___,,83374.21684938454
+2025,CO2,Passenger,Rail,Regional,___,GO rail,97876.30587814345
+2025,CO2,Passenger,Rail,Regional,___,Up Express,6329.162181914243
+2025,CO2,Passenger,Rail,Subway,___,Subway,252712.36502698713
+2025,CO2,Passenger,Rail,Tramway,___,Streetcar,40492.664603106714
+2025,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,208.70421519460913
+2025,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,2782.8304210948822
+2025,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,2602.7440368796047
+2025,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,341.50782222292554
+2025,CO2,Passenger,Road,Inter-city Buses,School Bus,___,6236.081512888188
+2025,CO2,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,250211.2102392105
+2025,CO2,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,35449.08048922498
+2025,CO2,Passenger,Road,Cars,___,Auto driver,1478355.6693330891
+2025,CO2,Passenger,Road,Cars,___,Auto passenger,179969.73701289494
+2025,CO2,Passenger,Road,Cars,___,Paid Ridershare,11098.406937982241
+2025,CO2,Passenger,Road,Cars,___,Taxi passenger,18889.355479509282
+2025,CO2,Passenger,Road,Motorcycles,___,___,4902.472858473305
+2025,CO2,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,1791952.6646987563
+2025,CO2,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,219436.20376858
+2025,CO2,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,13518.968536817854
+2025,CO2,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,7391.46566905896
+2025,CO2,Public,Marine,___,___,Fleet Services,2.0205993502543866
+2025,CO2,Public,Marine,___,___,Police Services,0.3768199884102291
+2025,CO2,Public,Road,Inter-city Buses,Urban Bus ,Police Services,50.94844436964434
+2025,CO2,Public,Road,Cars,___,Fleet Services,555.9868226536524
+2025,CO2,Public,Road,Cars,___,Police Services,14214.715483498208
+2025,CO2,Public,Road,Cars,___,Toronto Housing Company,1552.964275608974
+2025,CO2,Public,Road,Motorcycles,___,Police Services,39.445161103239734
+2025,CO2,Public,Road,Truck,Heavy Trucks,Fleet Services,19496.96180220907
+2025,CO2,Public,Road,Truck,Passenger Light Trucks,Fleet Services,34898.41902901945
+2025,CO2,Public,Road,Truck,Passenger Light Trucks,Police Services,9521.783205276955
+2025,CO2,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,1931.9069865237882
+2025,CO2,Public,Road,Truck,Medium Trucks,Fleet Services,8300.428898881157
+2025,CO2,Public,Road,Truck,Medium Trucks,Police Services,897.2985275661646
+2025,CO2,Public,Road,Truck,Medium Trucks,Toronto Housing Company,1192.1713406256715
+2025,CO2e,Freight Transportation,Air,___,___,,1386.2882255562918
+2025,CO2e,Freight Transportation,Marine,___,___,,6398.347112416127
+2025,CO2e,Freight Transportation,Rail,___,___,,26654.52545617382
+2025,CO2e,Freight Transportation,Road,Truck,Heavy Trucks,,183458.95601860477
+2025,CO2e,Freight Transportation,Road,Truck,Passenger Light Trucks,,1047988.8562272877
+2025,CO2e,Freight Transportation,Road,Truck,Medium Trucks,,304974.22616325226
+2025,CO2e,Long Distance,Air,___,___,,63563.62249623811
+2025,CO2e,Long Distance,Rail,___,___,,92503.46337880426
+2025,CO2e,Passenger,Rail,Regional,___,GO rail,100104.79063998017
+2025,CO2e,Passenger,Rail,Regional,___,Up Express,6806.030508508995
+2025,CO2e,Passenger,Rail,Subway,___,Subway,278974.2118680958
+2025,CO2e,Passenger,Rail,Tramway,___,Streetcar,44797.35797960177
+2025,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,214.42861221991438
+2025,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,2886.4864485521343
+2025,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,2699.837222886253
+2025,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,353.7273410357446
+2025,CO2e,Passenger,Road,Inter-city Buses,School Bus,___,6363.952666667018
+2025,CO2e,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,255264.75804165655
+2025,CO2e,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,36239.38881622351
+2025,CO2e,Passenger,Road,Cars,___,Auto driver,1484628.7279600096
+2025,CO2e,Passenger,Road,Cars,___,Auto passenger,180743.63007318522
+2025,CO2e,Passenger,Road,Cars,___,Paid Ridershare,11147.94627643636
+2025,CO2e,Passenger,Road,Cars,___,Taxi passenger,18972.104500395933
+2025,CO2e,Passenger,Road,Motorcycles,___,___,4963.220168153685
+2025,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,1799460.87032913
+2025,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,220363.54084722936
+2025,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,13577.533550231317
+2025,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,7423.857085266619
+2025,CO2e,Public,Marine,___,___,Fleet Services,2.050320344237424
+2025,CO2e,Public,Marine,___,___,Police Services,0.38256986811243987
+2025,CO2e,Public,Road,Inter-city Buses,Urban Bus ,Police Services,51.87155818960053
+2025,CO2e,Public,Road,Cars,___,Fleet Services,558.973897656706
+2025,CO2e,Public,Road,Cars,___,Police Services,14316.024819773576
+2025,CO2e,Public,Road,Cars,___,Toronto Housing Company,1621.7257589366025
+2025,CO2e,Public,Road,Motorcycles,___,Police Services,39.965444813961795
+2025,CO2e,Public,Road,Truck,Heavy Trucks,Fleet Services,20775.75627922165
+2025,CO2e,Public,Road,Truck,Passenger Light Trucks,Fleet Services,35410.1461666538
+2025,CO2e,Public,Road,Truck,Passenger Light Trucks,Police Services,9585.33967546779
+2025,CO2e,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,1947.7937391631524
+2025,CO2e,Public,Road,Truck,Medium Trucks,Fleet Services,8478.171546112422
+2025,CO2e,Public,Road,Truck,Medium Trucks,Police Services,920.9836071165889
+2025,CO2e,Public,Road,Truck,Medium Trucks,Toronto Housing Company,1208.5302533781098
+2025,N2O,Freight Transportation,Air,___,___,,0.44970261093812247
+2025,N2O,Freight Transportation,Rail,___,___,,8.573872650313897
+2025,N2O,Freight Transportation,Road,Truck,Heavy Trucks,,14.579532041839505
+2025,N2O,Freight Transportation,Road,Truck,Passenger Light Trucks,,36.25129233500051
+2025,N2O,Freight Transportation,Road,Truck,Medium Trucks,,22.974368110156114
+2025,N2O,Long Distance,Air,___,___,,7.417655534851729
+2025,N2O,Long Distance,Rail,___,___,,30.31461574183478
+2025,N2O,Passenger,Rail,Regional,___,GO rail,7.39991619673017
+2025,N2O,Passenger,Rail,Regional,___,Up Express,1.5834910401724134
+2025,N2O,Passenger,Rail,Subway,___,Subway,80.23575738578342
+2025,N2O,Passenger,Rail,Tramway,___,Streetcar,13.236495119625005
+2025,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,0.011897817552109082
+2025,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,0.12339201523164745
+2025,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,0.11419607202583934
+2025,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,0.017464295696448837
+2025,N2O,Passenger,Road,Inter-city Buses,School Bus,___,0.3599677285182803
+2025,N2O,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,15.953817304736814
+2025,N2O,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,2.2847710536270984
+2025,N2O,Passenger,Road,Cars,___,Auto driver,14.276252225225909
+2025,N2O,Passenger,Road,Cars,___,Auto passenger,1.7770232878874368
+2025,N2O,Passenger,Road,Cars,___,Paid Ridershare,0.11335640727037294
+2025,N2O,Passenger,Road,Cars,___,Taxi passenger,0.1917337500197729
+2025,N2O,Passenger,Road,Motorcycles,___,___,0.08773566077788303
+2025,N2O,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,17.28343508232796
+2025,N2O,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,2.1535593267121333
+2025,N2O,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,0.13618714857339503
+2025,N2O,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,0.07487584840274923
+2025,N2O,Public,Marine,___,___,Fleet Services,8.012849422521926e-05
+2025,N2O,Public,Marine,___,___,Police Services,1.5501810026180516e-05
+2025,N2O,Public,Road,Inter-city Buses,Urban Bus ,Police Services,0.0029464400638296983
+2025,N2O,Public,Road,Cars,___,Fleet Services,0.0066072111605950485
+2025,N2O,Public,Road,Cars,___,Police Services,0.16152480651786494
+2025,N2O,Public,Road,Cars,___,Toronto Housing Company,0.03865455426505482
+2025,N2O,Public,Road,Motorcycles,___,Police Services,0.0007514314327432615
+2025,N2O,Public,Road,Truck,Heavy Trucks,Fleet Services,1.836591688906571
+2025,N2O,Public,Road,Truck,Passenger Light Trucks,Fleet Services,1.6038367141896053
+2025,N2O,Public,Road,Truck,Passenger Light Trucks,Police Services,0.16939894585817553
+2025,N2O,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,0.04186096748958154
+2025,N2O,Public,Road,Truck,Medium Trucks,Fleet Services,0.5757868891622552
+2025,N2O,Public,Road,Truck,Medium Trucks,Police Services,0.07554641927255275
+2025,N2O,Public,Road,Truck,Medium Trucks,Toronto Housing Company,0.04851906518974013
+2030,CH4,Freight Transportation,Air,___,___,,0.296022232064741
+2030,CH4,Freight Transportation,Rail,___,___,,1.308240306800576
+2030,CH4,Freight Transportation,Road,Truck,Heavy Trucks,,7.288275834872575
+2030,CH4,Freight Transportation,Road,Truck,Passenger Light Trucks,,59.06598567131532
+2030,CH4,Freight Transportation,Road,Truck,Medium Trucks,,9.384563809941055
+2030,CH4,Long Distance,Air,___,___,,4.098834352029484
+2030,CH4,Long Distance,Rail,___,___,,4.964867972861837
+2030,CH4,Passenger,Rail,Regional,___,GO rail,1.350428203474875
+2030,CH4,Passenger,Rail,Regional,___,Up Express,0.2922398665272608
+2030,CH4,Passenger,Rail,Subway,___,Subway,96.65541416674452
+2030,CH4,Passenger,Rail,Tramway,___,Streetcar,20.736162865889042
+2030,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,0.7323162594421205
+2030,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,9.878923426492115
+2030,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,9.610527324792628
+2030,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,1.1990114770744693
+2030,CH4,Passenger,Road,Inter-city Buses,School Bus,___,0.8158620178166115
+2030,CH4,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,18.595457012745204
+2030,CH4,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,9.26464102973923
+2030,CH4,Passenger,Road,Cars,___,Auto driver,86.02072267150588
+2030,CH4,Passenger,Road,Cars,___,Auto passenger,10.400860578431717
+2030,CH4,Passenger,Road,Cars,___,Paid Ridershare,0.6823738392803058
+2030,CH4,Passenger,Road,Cars,___,Taxi passenger,1.1096081051456081
+2030,CH4,Passenger,Road,Motorcycles,___,___,1.5902597004051091
+2030,CH4,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,105.05142869547471
+2030,CH4,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,12.759832407512702
+2030,CH4,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,0.8845671535002089
+2030,CH4,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,0.5193849270363706
+2030,CH4,Public,Marine,___,___,Fleet Services,0.000302639211700716
+2030,CH4,Public,Marine,___,___,Police Services,5.856746703981203e-05
+2030,CH4,Public,Road,Inter-city Buses,Urban Bus ,Police Services,0.002344152616430875
+2030,CH4,Public,Road,Cars,___,Fleet Services,0.054469118380804336
+2030,CH4,Public,Road,Cars,___,Police Services,2.611904146510352
+2030,CH4,Public,Road,Cars,___,Toronto Housing Company,2.6191310630438522
+2030,CH4,Public,Road,Motorcycles,___,Police Services,0.01577721392498316
+2030,CH4,Public,Road,Truck,Heavy Trucks,Fleet Services,83.55135940336237
+2030,CH4,Public,Road,Truck,Passenger Light Trucks,Fleet Services,1.4863377215893048
+2030,CH4,Public,Road,Truck,Passenger Light Trucks,Police Services,0.6487380725800471
+2030,CH4,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,0.16484168173585034
+2030,CH4,Public,Road,Truck,Medium Trucks,Fleet Services,0.2750382539146469
+2030,CH4,Public,Road,Truck,Medium Trucks,Police Services,0.056032417872978225
+2030,CH4,Public,Road,Truck,Medium Trucks,Toronto Housing Company,0.08362139553444764
+2030,CO2,Freight Transportation,Air,___,___,,829.4384465321953
+2030,CO2,Freight Transportation,Marine,___,___,,6585.210306677139
+2030,CO2,Freight Transportation,Rail,___,___,,24487.947115537052
+2030,CO2,Freight Transportation,Road,Truck,Heavy Trucks,,166731.05013283802
+2030,CO2,Freight Transportation,Road,Truck,Passenger Light Trucks,,980785.7705529064
+2030,CO2,Freight Transportation,Road,Truck,Medium Trucks,,263276.6906332236
+2030,CO2,Long Distance,Air,___,___,,40987.70246384541
+2030,CO2,Long Distance,Rail,___,___,,92013.59352748777
+2030,CO2,Passenger,Rail,Regional,___,GO rail,86110.40124361035
+2030,CO2,Passenger,Rail,Regional,___,Up Express,6288.40970445686
+2030,CO2,Passenger,Rail,Subway,___,Subway,460619.5863293085
+2030,CO2,Passenger,Rail,Tramway,___,Streetcar,72764.26965951856
+2030,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,211.18526311331186
+2030,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,2779.7490483190113
+2030,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,2654.0754640000805
+2030,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,343.82163026990975
+2030,CO2,Passenger,Road,Inter-city Buses,School Bus,___,6856.506756813867
+2030,CO2,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,258147.224559755
+2030,CO2,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,42009.841657835495
+2030,CO2,Passenger,Road,Cars,___,Auto driver,1363813.7657798184
+2030,CO2,Passenger,Road,Cars,___,Auto passenger,164176.0992530206
+2030,CO2,Passenger,Road,Cars,___,Paid Ridershare,10102.094231010566
+2030,CO2,Passenger,Road,Cars,___,Taxi passenger,17188.793031051966
+2030,CO2,Passenger,Road,Motorcycles,___,___,4732.916530630162
+2030,CO2,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,1673966.739013771
+2030,CO2,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,202119.40902318628
+2030,CO2,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,12213.754548691533
+2030,CO2,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,6622.429319126636
+2030,CO2,Public,Marine,___,___,Fleet Services,2.22616321915822
+2030,CO2,Public,Marine,___,___,Police Services,0.41102006338794256
+2030,CO2,Public,Road,Inter-city Buses,Urban Bus ,Police Services,55.38017265235382
+2030,CO2,Public,Road,Cars,___,Fleet Services,575.4242740485978
+2030,CO2,Public,Road,Cars,___,Police Services,14886.735566356325
+2030,CO2,Public,Road,Cars,___,Toronto Housing Company,1823.0225788613277
+2030,CO2,Public,Road,Motorcycles,___,Police Services,44.15309444148327
+2030,CO2,Public,Road,Truck,Heavy Trucks,Fleet Services,10389.644358297772
+2030,CO2,Public,Road,Truck,Passenger Light Trucks,Fleet Services,36076.05475928169
+2030,CO2,Public,Road,Truck,Passenger Light Trucks,Police Services,9797.22946347618
+2030,CO2,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,1967.0920899447506
+2030,CO2,Public,Road,Truck,Medium Trucks,Fleet Services,8011.426597031759
+2030,CO2,Public,Road,Truck,Medium Trucks,Police Services,869.8859921509827
+2030,CO2,Public,Road,Truck,Medium Trucks,Toronto Housing Company,1159.1389998610684
+2030,CO2e,Freight Transportation,Air,___,___,,1049.8733012962261
+2030,CO2e,Freight Transportation,Marine,___,___,,6586.984761306329
+2030,CO2e,Freight Transportation,Rail,___,___,,27114.45767103348
+2030,CO2e,Freight Transportation,Road,Truck,Heavy Trucks,,172109.99050306133
+2030,CO2e,Freight Transportation,Road,Truck,Passenger Light Trucks,,1003105.9035873587
+2030,CO2e,Freight Transportation,Road,Truck,Medium Trucks,,271758.8235810314
+2030,CO2e,Long Distance,Air,___,___,,43926.98498354393
+2030,CO2e,Long Distance,Rail,___,___,,101981.39363819813
+2030,CO2e,Passenger,Rail,Regional,___,GO rail,88821.61101822856
+2030,CO2e,Passenger,Rail,Regional,___,Up Express,6875.129962115084
+2030,CO2e,Passenger,Rail,Subway,___,Subway,508713.83039703325
+2030,CO2e,Passenger,Rail,Tramway,___,Streetcar,80545.37343831173
+2030,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,227.9103995475933
+2030,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,2999.6214754002604
+2030,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,2867.126002716356
+2030,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,371.0002933208793
+2030,CO2e,Passenger,Road,Inter-city Buses,School Bus,___,6990.903234268507
+2030,CO2e,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,264012.5973151799
+2030,CO2e,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,43084.81256033679
+2030,CO2e,Passenger,Road,Cars,___,Auto driver,1369540.0945947403
+2030,CO2e,Passenger,Road,Cars,___,Auto passenger,164873.75734657474
+2030,CO2e,Passenger,Road,Cars,___,Paid Ridershare,10146.498063503886
+2030,CO2e,Passenger,Road,Cars,___,Taxi passenger,17262.94783775521
+2030,CO2e,Passenger,Road,Motorcycles,___,___,4791.545488439015
+2030,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,1680989.9346179548
+2030,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,202975.84486506705
+2030,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,12269.124107444852
+2030,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,6653.605475688995
+2030,CO2e,Public,Marine,___,___,Fleet Services,2.258492350308937
+2030,CO2e,Public,Marine,___,___,Police Services,0.4172764744870034
+2030,CO2e,Public,Road,Inter-city Buses,Urban Bus ,Police Services,56.38832871612541
+2030,CO2e,Public,Road,Cars,___,Fleet Services,578.6978533533769
+2030,CO2e,Public,Road,Cars,___,Police Services,14992.203521070622
+2030,CO2e,Public,Road,Cars,___,Toronto Housing Company,1890.756844399888
+2030,CO2e,Public,Road,Motorcycles,___,Police Services,44.73476146921874
+2030,CO2e,Public,Road,Truck,Heavy Trucks,Fleet Services,12565.231890962896
+2030,CO2e,Public,Road,Truck,Passenger Light Trucks,Fleet Services,36709.636407100654
+2030,CO2e,Public,Road,Truck,Passenger Light Trucks,Police Services,9863.61617964484
+2030,CO2e,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,1982.94994030628
+2030,CO2e,Public,Road,Truck,Medium Trucks,Fleet Services,8191.221270698745
+2030,CO2e,Public,Road,Truck,Medium Trucks,Police Services,892.7291074154072
+2030,CO2e,Public,Road,Truck,Medium Trucks,Toronto Housing Company,1178.9392070941042
+2030,N2O,Freight Transportation,Air,___,___,,0.648639096751241
+2030,N2O,Freight Transportation,Rail,___,___,,8.72160237937454
+2030,N2O,Freight Transportation,Road,Truck,Heavy Trucks,,13.739023966981703
+2030,N2O,Freight Transportation,Road,Truck,Passenger Light Trucks,,35.780771267100434
+2030,N2O,Freight Transportation,Road,Truck,Medium Trucks,,20.73904280048318
+2030,N2O,Long Distance,Air,___,___,,9.574520128543192
+2030,N2O,Long Distance,Rail,___,___,,33.0991204136922
+2030,N2O,Passenger,Rail,Regional,___,GO rail,9.002854974313
+2030,N2O,Passenger,Rail,Regional,___,Up Express,1.948265840473674
+2030,N2O,Passenger,Rail,Subway,___,Subway,154.5787931886682
+2030,N2O,Passenger,Rail,Tramway,___,Streetcar,24.649813283924523
+2030,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,0.004518439550324899
+2030,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,0.04166119169434824
+2030,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,0.03768276810614131
+2030,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,0.006709469907401076
+2030,N2O,Passenger,Road,Inter-city Buses,School Bus,___,0.39350125865938124
+2030,N2O,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,18.372040799185406
+2030,N2O,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,2.954407519720662
+2030,N2O,Passenger,Road,Cars,___,Auto driver,13.15400549939911
+2030,N2O,Passenger,Road,Cars,___,Auto passenger,1.608187991298687
+2030,N2O,Passenger,Road,Cars,___,Paid Ridershare,0.1009194022430832
+2030,N2O,Passenger,Road,Cars,___,Taxi passenger,0.17064777347378673
+2030,N2O,Passenger,Road,Motorcycles,___,___,0.08467618825619196
+2030,N2O,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,16.16481745496161
+2030,N2O,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,1.9747629574598589
+2030,N2O,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,0.12346861922757583
+2030,N2O,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,0.06801702380734752
+2030,N2O,Public,Marine,___,___,Fleet Services,8.716009296980617e-05
+2030,N2O,Public,Marine,___,___,Police Services,1.6867430507465864e-05
+2030,N2O,Public,Road,Inter-city Buses,Urban Bus ,Police Services,0.0032178820765991554
+2030,N2O,Public,Road,Cars,___,Fleet Services,0.007146737646919674
+2030,N2O,Public,Road,Cars,___,Police Services,0.1698589518039894
+2030,N2O,Public,Road,Cars,___,Toronto Housing Company,0.04272655441154413
+2030,N2O,Public,Road,Motorcycles,___,Police Services,0.000840085688962514
+2030,N2O,Public,Road,Truck,Heavy Trucks,Fleet Services,1.4127818295117807
+2030,N2O,Public,Road,Truck,Passenger Light Trucks,Fleet Services,2.0213709921664167
+2030,N2O,Public,Road,Truck,Passenger Light Trucks,Police Services,0.17705777397476963
+2030,N2O,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,0.04159790283583051
+2030,N2O,Public,Road,Truck,Medium Trucks,Fleet Services,0.5839559407207277
+2030,N2O,Public,Road,Truck,Medium Trucks,Police Services,0.07270615600366344
+2030,N2O,Public,Road,Truck,Medium Trucks,Toronto Housing Company,0.06055086552621334
+2035,CH4,Freight Transportation,Air,___,___,,0.3789948914483981
+2035,CH4,Freight Transportation,Rail,___,___,,1.3492506926541334
+2035,CH4,Freight Transportation,Road,Truck,Heavy Trucks,,5.288429360655518
+2035,CH4,Freight Transportation,Road,Truck,Passenger Light Trucks,,54.60312868305601
+2035,CH4,Freight Transportation,Road,Truck,Medium Trucks,,7.406632752414715
+2035,CH4,Long Distance,Air,___,___,,4.877582558689957
+2035,CH4,Long Distance,Rail,___,___,,5.382708978466955
+2035,CH4,Passenger,Rail,Regional,___,GO rail,4.724601429186781
+2035,CH4,Passenger,Rail,Regional,___,Up Express,0.5171972870769375
+2035,CH4,Passenger,Rail,Subway,___,Subway,37.429472553222546
+2035,CH4,Passenger,Rail,Tramway,___,Streetcar,5.6189023429400144
+2035,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,1.1608113981570554
+2035,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,13.55168914212257
+2035,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,13.208463919353905
+2035,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,1.829164385910508
+2035,CH4,Passenger,Road,Inter-city Buses,School Bus,___,0.5829065067220106
+2035,CH4,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,63.46814450364391
+2035,CH4,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,29.485046678132715
+2035,CH4,Passenger,Road,Cars,___,Auto driver,77.70916046904362
+2035,CH4,Passenger,Road,Cars,___,Auto passenger,9.758964986843118
+2035,CH4,Passenger,Road,Cars,___,Paid Ridershare,0.6208007830725664
+2035,CH4,Passenger,Road,Cars,___,Taxi passenger,1.0531001951501258
+2035,CH4,Passenger,Road,Motorcycles,___,___,1.5369525988261306
+2035,CH4,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,94.59264350746886
+2035,CH4,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,13.03940625207899
+2035,CH4,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,1.0674520863207009
+2035,CH4,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,0.6153198097274777
+2035,CH4,Public,Marine,___,___,Fleet Services,0.00032344128763795517
+2035,CH4,Public,Marine,___,___,Police Services,6.262716916311618e-05
+2035,CH4,Public,Road,Inter-city Buses,Urban Bus ,Police Services,0.0025033670305952306
+2035,CH4,Public,Road,Cars,___,Fleet Services,0.0557547337517928
+2035,CH4,Public,Road,Cars,___,Police Services,2.2190395456007503
+2035,CH4,Public,Road,Cars,___,Toronto Housing Company,1.8666743339224816
+2035,CH4,Public,Road,Motorcycles,___,Police Services,0.016321255992533076
+2035,CH4,Public,Road,Truck,Heavy Trucks,Fleet Services,86.44315745380952
+2035,CH4,Public,Road,Truck,Passenger Light Trucks,Fleet Services,1.461031613960702
+2035,CH4,Public,Road,Truck,Passenger Light Trucks,Police Services,0.6248185370938107
+2035,CH4,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,0.152130694533058
+2035,CH4,Public,Road,Truck,Medium Trucks,Fleet Services,0.20078412052315486
+2035,CH4,Public,Road,Truck,Medium Trucks,Police Services,0.05429636274202559
+2035,CH4,Public,Road,Truck,Medium Trucks,Toronto Housing Company,0.06315095604164718
+2035,CO2,Freight Transportation,Air,___,___,,425.80738501348094
+2035,CO2,Freight Transportation,Marine,___,___,,6418.979117614566
+2035,CO2,Freight Transportation,Rail,___,___,,25208.946784944565
+2035,CO2,Freight Transportation,Road,Truck,Heavy Trucks,,204833.10742960247
+2035,CO2,Freight Transportation,Road,Truck,Passenger Light Trucks,,890197.9056379586
+2035,CO2,Freight Transportation,Road,Truck,Medium Trucks,,196770.0651421208
+2035,CO2,Long Distance,Air,___,___,,20568.860911938038
+2035,CO2,Long Distance,Rail,___,___,,100649.13817237924
+2035,CO2,Passenger,Rail,Regional,___,GO rail,90790.91338098136
+2035,CO2,Passenger,Rail,Regional,___,Up Express,9614.794030226796
+2035,CO2,Passenger,Rail,Subway,___,Subway,682569.3441146277
+2035,CO2,Passenger,Rail,Tramway,___,Streetcar,104168.63741761669
+2035,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,247.64509707253174
+2035,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,2864.440049015622
+2035,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,2791.944079989982
+2035,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,388.95013051231064
+2035,CO2,Passenger,Road,Inter-city Buses,School Bus,___,7582.940355076287
+2035,CO2,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,262856.6401480186
+2035,CO2,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,47155.0503987321
+2035,CO2,Passenger,Road,Cars,___,Auto driver,1266127.000724655
+2035,CO2,Passenger,Road,Cars,___,Auto passenger,158928.61299037616
+2035,CO2,Passenger,Road,Cars,___,Paid Ridershare,10049.952048938554
+2035,CO2,Passenger,Road,Cars,___,Taxi passenger,17054.217387409113
+2035,CO2,Passenger,Road,Motorcycles,___,___,4575.05660443898
+2035,CO2,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,1503323.6496956814
+2035,CO2,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,190442.19116214433
+2035,CO2,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,11527.288613903924
+2035,CO2,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,6241.141507788366
+2035,CO2,Public,Marine,___,___,Fleet Services,2.390136720470499
+2035,CO2,Public,Marine,___,___,Police Services,0.43985844070054536
+2035,CO2,Public,Road,Inter-city Buses,Urban Bus ,Police Services,58.840258946196485
+2035,CO2,Public,Road,Cars,___,Fleet Services,534.4108457828041
+2035,CO2,Public,Road,Cars,___,Police Services,14057.408651462609
+2035,CO2,Public,Road,Cars,___,Toronto Housing Company,1899.2488556698897
+2035,CO2,Public,Road,Motorcycles,___,Police Services,45.65569186676117
+2035,CO2,Public,Road,Truck,Heavy Trucks,Fleet Services,10805.2348721463
+2035,CO2,Public,Road,Truck,Passenger Light Trucks,Fleet Services,34563.38597427309
+2035,CO2,Public,Road,Truck,Passenger Light Trucks,Police Services,9114.857459146915
+2035,CO2,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,1609.2002997857485
+2035,CO2,Public,Road,Truck,Medium Trucks,Fleet Services,6492.325766890933
+2035,CO2,Public,Road,Truck,Medium Trucks,Police Services,703.6799372086602
+2035,CO2,Public,Road,Truck,Medium Trucks,Toronto Housing Company,941.5805950674578
+2035,CO2e,Freight Transportation,Air,___,___,,697.8867439587789
+2035,CO2e,Freight Transportation,Marine,___,___,,6420.783671039089
+2035,CO2e,Freight Transportation,Rail,___,___,,27917.248424056146
+2035,CO2e,Freight Transportation,Road,Truck,Heavy Trucks,,209962.53736979418
+2035,CO2e,Freight Transportation,Road,Truck,Passenger Light Trucks,,900843.3940513831
+2035,CO2e,Freight Transportation,Road,Truck,Medium Trucks,,201637.07254610243
+2035,CO2e,Long Distance,Air,___,___,,24098.009770842476
+2035,CO2e,Long Distance,Rail,___,___,,111455.82380249612
+2035,CO2e,Passenger,Rail,Regional,___,GO rail,100276.33837813095
+2035,CO2e,Passenger,Rail,Regional,___,Up Express,10653.15382293479
+2035,CO2e,Passenger,Rail,Subway,___,Subway,757715.2513586308
+2035,CO2e,Passenger,Rail,Tramway,___,Streetcar,115449.52078233109
+2035,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,272.1238533161835
+2035,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,3149.1557938701026
+2035,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,3069.4508878954935
+2035,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,427.47257245298175
+2035,CO2e,Passenger,Road,Inter-city Buses,School Bus,___,7721.953208938287
+2035,CO2e,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,270675.7633929624
+2035,CO2e,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,48839.28922012092
+2035,CO2e,Passenger,Road,Cars,___,Auto driver,1271363.5946703816
+2035,CO2e,Passenger,Road,Cars,___,Auto passenger,159586.1954087962
+2035,CO2e,Passenger,Road,Cars,___,Paid Ridershare,10091.729208897317
+2035,CO2e,Passenger,Road,Cars,___,Taxi passenger,17125.04991227097
+2035,CO2e,Passenger,Road,Motorcycles,___,___,4631.720263199569
+2035,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,1509607.1821975512
+2035,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,191268.2884726164
+2035,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,11585.265775638838
+2035,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,6273.620714407267
+2035,CO2e,Public,Marine,___,___,Fleet Services,2.424688012581136
+2035,CO2e,Public,Marine,___,___,Police Services,0.44654852541922607
+2035,CO2e,Public,Road,Inter-city Buses,Urban Bus ,Police Services,59.916888778098944
+2035,CO2e,Public,Road,Cars,___,Fleet Services,537.6496802642812
+2035,CO2e,Public,Road,Cars,___,Police Services,14150.977770786936
+2035,CO2e,Public,Road,Cars,___,Toronto Housing Company,1950.5296747209736
+2035,CO2e,Public,Road,Motorcycles,___,Police Services,46.25741639672485
+2035,CO2e,Public,Road,Truck,Heavy Trucks,Fleet Services,13056.920314347888
+2035,CO2e,Public,Road,Truck,Passenger Light Trucks,Fleet Services,35155.205929014766
+2035,CO2e,Public,Road,Truck,Passenger Light Trucks,Police Services,9174.78832640744
+2035,CO2e,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,1620.8193985478522
+2035,CO2e,Public,Road,Truck,Medium Trucks,Fleet Services,6655.415673922906
+2035,CO2e,Public,Road,Truck,Medium Trucks,Police Services,722.3597801076288
+2035,CO2e,Public,Road,Truck,Medium Trucks,Toronto Housing Company,965.5760610427249
+2035,N2O,Freight Transportation,Air,___,___,,0.8521540690442351
+2035,N2O,Freight Transportation,Rail,___,___,,8.995004953938306
+2035,N2O,Freight Transportation,Road,Truck,Heavy Trucks,,16.840177596033676
+2035,N2O,Freight Transportation,Road,Truck,Passenger Light Trucks,,31.875243996914367
+2035,N2O,Freight Transportation,Road,Truck,Medium Trucks,,15.810295691882708
+2035,N2O,Long Distance,Air,___,___,,11.499059144872309
+2035,N2O,Long Distance,Rail,___,___,,35.8847273207016
+2035,N2O,Passenger,Rail,Regional,___,GO rail,31.49734351388145
+2035,N2O,Passenger,Rail,Regional,___,Up Express,3.4479820459039603
+2035,N2O,Passenger,Rail,Subway,___,Subway,249.52982657847593
+2035,N2O,Passenger,Rail,Tramway,___,Streetcar,37.459350387626536
+2035,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,0.0003413318199782907
+2035,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,0.0004371572815613356
+2035,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,0.000433106037175389
+2035,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,0.00036909341124336957
+2035,N2O,Passenger,Road,Inter-city Buses,School Bus,___,0.4254087826202546
+2035,N2O,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,21.766081242843285
+2035,N2O,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,3.574002822644385
+2035,N2O,Passenger,Road,Cars,___,Auto driver,12.096314013010407
+2035,N2O,Passenger,Road,Cars,___,Auto passenger,1.5189401130752935
+2035,N2O,Passenger,Road,Cars,___,Paid Ridershare,0.09644410575246344
+2035,N2O,Passenger,Road,Cars,___,Taxi passenger,0.16348127773056423
+2035,N2O,Passenger,Road,Motorcycles,___,___,0.08183776572228617
+2035,N2O,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,14.419754994002568
+2035,N2O,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,1.8532542925448305
+2035,N2O,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,0.1193311004100229
+2035,N2O,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,0.06562916313631706
+2035,N2O,Public,Marine,___,___,Fleet Services,9.315109083973109e-05
+2035,N2O,Public,Marine,___,___,Police Services,1.8036624718977458e-05
+2035,N2O,Public,Road,Inter-city Buses,Urban Bus ,Police Services,0.003436440014295127
+2035,N2O,Public,Road,Cars,___,Fleet Services,0.006939547223789366
+2035,N2O,Public,Road,Cars,___,Police Services,0.1576150633111015
+2035,N2O,Public,Road,Cars,___,Toronto Housing Company,0.04053912093527727
+2035,N2O,Public,Road,Motorcycles,___,Police Services,0.0008690542084580468
+2035,N2O,Public,Road,Truck,Heavy Trucks,Fleet Services,1.4643595156764724
+2035,N2O,Public,Road,Truck,Passenger Light Trucks,Fleet Services,1.8830143988204777
+2035,N2O,Public,Road,Truck,Passenger Light Trucks,Police Services,0.15707945631393475
+2035,N2O,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,0.0282696448889567
+2035,N2O,Public,Road,Truck,Medium Trucks,Fleet Services,0.5331323506744468
+2035,N2O,Public,Road,Truck,Medium Trucks,Police Services,0.05885778282344296
+2035,N2O,Public,Road,Truck,Medium Trucks,Toronto Housing Company,0.07607146274628301
+2040,CH4,Freight Transportation,Air,___,___,,0.4634405451394993
+2040,CH4,Freight Transportation,Rail,___,___,,1.3593784809216702
+2040,CH4,Freight Transportation,Road,Truck,Heavy Trucks,,3.1022614085843503
+2040,CH4,Freight Transportation,Road,Truck,Passenger Light Trucks,,54.268117764195246
+2040,CH4,Freight Transportation,Road,Truck,Medium Trucks,,4.9216677763096515
+2040,CH4,Long Distance,Air,___,___,,5.685364084043286
+2040,CH4,Long Distance,Rail,___,___,,5.801121022156768
+2040,CH4,Passenger,Rail,Regional,___,GO rail,1.304408397847356
+2040,CH4,Passenger,Rail,Regional,___,Up Express,0.3717714416925492
+2040,CH4,Passenger,Rail,Subway,___,Subway,45.31894436817544
+2040,CH4,Passenger,Rail,Tramway,___,Streetcar,6.291733812592633
+2040,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,1.207557147253521
+2040,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,13.786593536179597
+2040,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,13.705318757048895
+2040,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,1.9012960649972417
+2040,CH4,Passenger,Road,Inter-city Buses,School Bus,___,0.31779789679477033
+2040,CH4,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,58.968441002161406
+2040,CH4,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,25.66695992623924
+2040,CH4,Passenger,Road,Cars,___,Auto driver,61.297283487294905
+2040,CH4,Passenger,Road,Cars,___,Auto passenger,6.76333574072323
+2040,CH4,Passenger,Road,Cars,___,Paid Ridershare,0.4045433856749228
+2040,CH4,Passenger,Road,Cars,___,Taxi passenger,0.6853036880382696
+2040,CH4,Passenger,Road,Motorcycles,___,___,1.5750272663182834
+2040,CH4,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,86.09221924857079
+2040,CH4,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,12.701884762744116
+2040,CH4,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,1.2240582868203587
+2040,CH4,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,0.7081282129964909
+2040,CH4,Public,Marine,___,___,Fleet Services,0.00034578468072372253
+2040,CH4,Public,Marine,___,___,Police Services,6.654247459140436e-05
+2040,CH4,Public,Road,Inter-city Buses,Urban Bus ,Police Services,0.0026644571105746023
+2040,CH4,Public,Road,Cars,___,Fleet Services,0.05399517559964899
+2040,CH4,Public,Road,Cars,___,Police Services,1.0616293929972629
+2040,CH4,Public,Road,Cars,___,Toronto Housing Company,0.4495953909961954
+2040,CH4,Public,Road,Motorcycles,___,Police Services,0.017284935130410708
+2040,CH4,Public,Road,Truck,Heavy Trucks,Fleet Services,54.87320947106127
+2040,CH4,Public,Road,Truck,Passenger Light Trucks,Fleet Services,1.5938614205596444
+2040,CH4,Public,Road,Truck,Passenger Light Trucks,Police Services,0.6169420467405672
+2040,CH4,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,0.14639196025975465
+2040,CH4,Public,Road,Truck,Medium Trucks,Fleet Services,0.20346644022199697
+2040,CH4,Public,Road,Truck,Medium Trucks,Police Services,0.05344527678784396
+2040,CH4,Public,Road,Truck,Medium Trucks,Toronto Housing Company,0.060677887499469334
+2040,CO2,Freight Transportation,Air,___,___,,41.44794047475688
+2040,CO2,Freight Transportation,Marine,___,___,,6573.167296067893
+2040,CO2,Freight Transportation,Rail,___,___,,25413.1273427647
+2040,CO2,Freight Transportation,Road,Truck,Heavy Trucks,,119045.02637702602
+2040,CO2,Freight Transportation,Road,Truck,Passenger Light Trucks,,874236.1322372131
+2040,CO2,Freight Transportation,Road,Truck,Medium Trucks,,191545.55204820068
+2040,CO2,Long Distance,Air,___,___,,246.71457317013096
+2040,CO2,Long Distance,Rail,___,___,,109281.50746136993
+2040,CO2,Passenger,Rail,Regional,___,GO rail,76096.31296833002
+2040,CO2,Passenger,Rail,Regional,___,Up Express,7250.505072258018
+2040,CO2,Passenger,Rail,Subway,___,Subway,888654.7455659284
+2040,CO2,Passenger,Rail,Tramway,___,Streetcar,123161.14533660797
+2040,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,256.2244525006675
+2040,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,2911.8989350154366
+2040,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,2894.743205177658
+2040,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,402.72893661074465
+2040,CO2,Passenger,Road,Inter-city Buses,School Bus,___,7716.781033022606
+2040,CO2,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,267911.66703718173
+2040,CO2,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,48042.68297040248
+2040,CO2,Passenger,Road,Cars,___,Auto driver,1195672.1805473294
+2040,CO2,Passenger,Road,Cars,___,Auto passenger,151378.35895531496
+2040,CO2,Passenger,Road,Cars,___,Paid Ridershare,9571.756175351631
+2040,CO2,Passenger,Road,Cars,___,Taxi passenger,16281.813777295818
+2040,CO2,Passenger,Road,Motorcycles,___,___,4684.191781445775
+2040,CO2,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,1373754.3506322897
+2040,CO2,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,171484.2870359407
+2040,CO2,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,10238.687535991241
+2040,CO2,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,5535.432688291919
+2040,CO2,Public,Marine,___,___,Fleet Services,2.523650866298253
+2040,CO2,Public,Marine,___,___,Police Services,0.4662036955301244
+2040,CO2,Public,Road,Inter-city Buses,Urban Bus ,Police Services,62.295388828635964
+2040,CO2,Public,Road,Cars,___,Fleet Services,533.1784156900233
+2040,CO2,Public,Road,Cars,___,Police Services,14555.037961244592
+2040,CO2,Public,Road,Cars,___,Toronto Housing Company,2504.327861051146
+2040,CO2,Public,Road,Motorcycles,___,Police Services,48.34815394920024
+2040,CO2,Public,Road,Truck,Heavy Trucks,Fleet Services,18649.890293192908
+2040,CO2,Public,Road,Truck,Passenger Light Trucks,Fleet Services,34924.16085247513
+2040,CO2,Public,Road,Truck,Passenger Light Trucks,Police Services,8628.297390914151
+2040,CO2,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,1550.7206323954797
+2040,CO2,Public,Road,Truck,Medium Trucks,Fleet Services,6550.237328058926
+2040,CO2,Public,Road,Truck,Medium Trucks,Police Services,703.0192639024903
+2040,CO2,Public,Road,Truck,Medium Trucks,Toronto Housing Company,937.5326789983268
+2040,CO2e,Freight Transportation,Air,___,___,,362.3712072646468
+2040,CO2e,Freight Transportation,Marine,___,___,,6575.002475474409
+2040,CO2e,Freight Transportation,Rail,___,___,,28142.195481086976
+2040,CO2e,Freight Transportation,Road,Truck,Heavy Trucks,,122033.21990582427
+2040,CO2e,Freight Transportation,Road,Truck,Passenger Light Trucks,,885234.8893841126
+2040,CO2e,Freight Transportation,Road,Truck,Medium Trucks,,196344.46272648431
+2040,CO2e,Long Distance,Air,___,___,,4353.779962934189
+2040,CO2e,Long Distance,Rail,___,___,,120928.2250650592
+2040,CO2e,Passenger,Rail,Regional,___,GO rail,78715.13032765982
+2040,CO2e,Passenger,Rail,Regional,___,Up Express,7996.8982316506
+2040,CO2e,Passenger,Rail,Subway,___,Subway,979640.0829907232
+2040,CO2e,Passenger,Rail,Tramway,___,Streetcar,135792.85006642365
+2040,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,281.6596978060756
+2040,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,3201.502628818916
+2040,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,3182.640189679147
+2040,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,442.73520294678764
+2040,CO2e,Passenger,Road,Inter-city Buses,School Bus,___,7853.425710292405
+2040,CO2e,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,275792.2081975649
+2040,CO2e,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,49690.827225973386
+2040,CO2e,Passenger,Road,Cars,___,Auto driver,1206210.4477159013
+2040,CO2e,Passenger,Road,Cars,___,Auto passenger,153211.41039988297
+2040,CO2e,Passenger,Road,Cars,___,Paid Ridershare,9702.906738948774
+2040,CO2e,Passenger,Road,Cars,___,Taxi passenger,16503.345573134175
+2040,CO2e,Passenger,Road,Motorcycles,___,___,4742.259159467352
+2040,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,1379486.2982565449
+2040,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,172255.3333973121
+2040,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,10297.9888688738
+2040,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,5568.8328938363375
+2040,CO2e,Public,Marine,___,___,Fleet Services,2.560588969031884
+2040,CO2e,Public,Marine,___,___,Police Services,0.47331202883587664
+2040,CO2e,Public,Road,Inter-city Buses,Urban Bus ,Police Services,63.441299107076894
+2040,CO2e,Public,Road,Cars,___,Fleet Services,536.3526267200746
+2040,CO2e,Public,Road,Cars,___,Police Services,14622.810809620181
+2040,CO2e,Public,Road,Cars,___,Toronto Housing Company,2525.025422407055
+2040,CO2e,Public,Road,Motorcycles,___,Police Services,48.98540695666226
+2040,CO2e,Public,Road,Truck,Heavy Trucks,Fleet Services,20368.12999267143
+2040,CO2e,Public,Road,Truck,Passenger Light Trucks,Fleet Services,35465.22601962844
+2040,CO2e,Public,Road,Truck,Passenger Light Trucks,Police Services,8676.119881397392
+2040,CO2e,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,1560.8759900635598
+2040,CO2e,Public,Road,Truck,Medium Trucks,Fleet Services,6716.275334819864
+2040,CO2e,Public,Road,Truck,Medium Trucks,Police Services,722.1215743450148
+2040,CO2e,Public,Road,Truck,Medium Trucks,Toronto Housing Company,962.5416844425794
+2040,N2O,Freight Transportation,Air,___,___,,1.0442651521542292
+2040,N2O,Freight Transportation,Rail,___,___,,9.062523551555698
+2040,N2O,Freight Transportation,Road,Truck,Heavy Trucks,,9.808879326234882
+2040,N2O,Freight Transportation,Road,Truck,Passenger Light Trucks,,33.08431769748757
+2040,N2O,Freight Transportation,Road,Truck,Medium Trucks,,15.756898171077685
+2040,N2O,Long Distance,Air,___,___,,13.381452161070975
+2040,N2O,Long Distance,Rail,___,___,,38.674141148402704
+2040,N2O,Passenger,Rail,Regional,___,GO rail,8.696056318707992
+2040,N2O,Passenger,Rail,Regional,___,Up Express,2.478476372875971
+2040,N2O,Passenger,Rail,Subway,___,Subway,302.1263073592736
+2040,N2O,Passenger,Rail,Tramway,___,Streetcar,41.94489369044029
+2040,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,0.0002568631311547682
+2040,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,0.00028600518022455765
+2040,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,0.0002862100787291495
+2040,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,0.00026526500369384996
+2040,N2O,Passenger,Road,Inter-city Buses,School Bus,___,0.4361440316681462
+2040,N2O,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,22.289274829992465
+2040,N2O,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,3.7219399232211554
+2040,N2O,Passenger,Road,Cars,___,Auto driver,31.043705420599377
+2040,N2O,Passenger,Road,Cars,___,Auto passenger,5.674568436284375
+2040,N2O,Passenger,Road,Cars,___,Paid Ridershare,0.4115944714696912
+2040,N2O,Passenger,Road,Cars,___,Taxi passenger,0.6951020751327175
+2040,N2O,Passenger,Road,Motorcycles,___,___,0.08386511888890728
+2040,N2O,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,13.167822214884755
+2040,N2O,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,1.6923046354152997
+2040,N2O,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,0.11273862033334614
+2040,N2O,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,0.062179574065416576
+2040,N2O,Public,Marine,___,___,Fleet Services,9.958598804843207e-05
+2040,N2O,Public,Marine,___,___,Police Services,1.9164232682324453e-05
+2040,N2O,Public,Road,Inter-city Buses,Urban Bus ,Police Services,0.003657572748721004
+2040,N2O,Public,Road,Cars,___,Fleet Services,0.006846685712948978
+2040,N2O,Public,Road,Cars,___,Police Services,0.15261285611628314
+2040,N2O,Public,Road,Cars,___,Toronto Housing Company,0.03777200719794427
+2040,N2O,Public,Road,Motorcycles,___,Police Services,0.000920367012494631
+2040,N2O,Public,Road,Truck,Heavy Trucks,Fleet Services,1.8990010086786346
+2040,N2O,Public,Road,Truck,Passenger Light Trucks,Fleet Services,1.7033358299381691
+2040,N2O,Public,Road,Truck,Passenger Light Trucks,Police Services,0.11700237416673923
+2040,N2O,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,0.023762169471895713
+2040,N2O,Public,Road,Truck,Medium Trucks,Fleet Services,0.5428362802559533
+2040,N2O,Public,Road,Truck,Medium Trucks,Police Services,0.06033543499993203
+2040,N2O,Public,Road,Truck,Medium Trucks,Toronto Housing Company,0.07964687854618713
+2045,CH4,Freight Transportation,Air,___,___,,0.4669915824031536
+2045,CH4,Freight Transportation,Rail,___,___,,1.3802533762201201
+2045,CH4,Freight Transportation,Road,Truck,Heavy Trucks,,0.7575111836060909
+2045,CH4,Freight Transportation,Road,Truck,Passenger Light Trucks,,89.51209497446371
+2045,CH4,Freight Transportation,Road,Truck,Medium Trucks,,4.88127410005731
+2045,CH4,Long Distance,Air,___,___,,5.615934600787062
+2045,CH4,Long Distance,Rail,___,___,,6.2206983052778195
+2045,CH4,Passenger,Rail,Regional,___,GO rail,0.9172877171723172
+2045,CH4,Passenger,Rail,Regional,___,Up Express,0.3230989414260643
+2045,CH4,Passenger,Rail,Subway,___,Subway,55.99372351653796
+2045,CH4,Passenger,Rail,Tramway,___,Streetcar,7.351753350679219
+2045,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,1.254327981453026
+2045,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,14.042063150321109
+2045,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,14.199829671017108
+2045,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,1.9730296135650949
+2045,CH4,Passenger,Road,Inter-city Buses,School Bus,___,0.3245871829691654
+2045,CH4,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,54.3496036577025
+2045,CH4,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,21.790565347796054
+2045,CH4,Passenger,Road,Cars,___,Auto driver,54.95446472263334
+2045,CH4,Passenger,Road,Cars,___,Auto passenger,6.3471906758523335
+2045,CH4,Passenger,Road,Cars,___,Paid Ridershare,0.4222367894811329
+2045,CH4,Passenger,Road,Cars,___,Taxi passenger,0.7054678747716743
+2045,CH4,Passenger,Road,Motorcycles,___,___,1.6147635889812841
+2045,CH4,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,79.72470507148483
+2045,CH4,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,11.67480045945271
+2045,CH4,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,1.1017947535681714
+2045,CH4,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,0.6246817144272129
+2045,CH4,Public,Marine,___,___,Fleet Services,0.0003634414301627203
+2045,CH4,Public,Marine,___,___,Police Services,7.004434164560952e-05
+2045,CH4,Public,Road,Inter-city Buses,Urban Bus ,Police Services,0.0028575245930531497
+2045,CH4,Public,Road,Cars,___,Fleet Services,0.05695254833137202
+2045,CH4,Public,Road,Cars,___,Police Services,1.0622344567524282
+2045,CH4,Public,Road,Cars,___,Toronto Housing Company,0.4180814240264224
+2045,CH4,Public,Road,Motorcycles,___,Police Services,0.018185185343118592
+2045,CH4,Public,Road,Truck,Heavy Trucks,Fleet Services,6.298538260394115
+2045,CH4,Public,Road,Truck,Passenger Light Trucks,Fleet Services,1.8224267322464236
+2045,CH4,Public,Road,Truck,Passenger Light Trucks,Police Services,0.6149047183211246
+2045,CH4,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,0.14496132685825755
+2045,CH4,Public,Road,Truck,Medium Trucks,Fleet Services,0.22528127676431797
+2045,CH4,Public,Road,Truck,Medium Trucks,Police Services,0.0562096198589954
+2045,CH4,Public,Road,Truck,Medium Trucks,Toronto Housing Company,0.06422681185873637
+2045,CO2,Freight Transportation,Air,___,___,,37.53528255272715
+2045,CO2,Freight Transportation,Marine,___,___,,6798.104706944946
+2045,CO2,Freight Transportation,Rail,___,___,,25800.460371779387
+2045,CO2,Freight Transportation,Road,Truck,Heavy Trucks,,25831.010717257715
+2045,CO2,Freight Transportation,Road,Truck,Passenger Light Trucks,,866778.4346593324
+2045,CO2,Freight Transportation,Road,Truck,Medium Trucks,,189496.0254682987
+2045,CO2,Long Distance,Air,___,___,,195.75647847586185
+2045,CO2,Long Distance,Rail,___,___,,117902.60543827682
+2045,CO2,Passenger,Rail,Regional,___,GO rail,58409.57977699433
+2045,CO2,Passenger,Rail,Regional,___,Up Express,6301.37389506921
+2045,CO2,Passenger,Rail,Subway,___,Subway,1098123.301527919
+2045,CO2,Passenger,Rail,Tramway,___,Streetcar,144018.88689027372
+2045,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,265.986348805635
+2045,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,2965.8092043353467
+2045,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,2999.118251808571
+2045,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,417.754702573586
+2045,CO2,Passenger,Road,Inter-city Buses,School Bus,___,7828.956951483245
+2045,CO2,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,273444.25663398
+2045,CO2,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,49059.797658281685
+2045,CO2,Passenger,Road,Cars,___,Auto driver,1075356.6719917965
+2045,CO2,Passenger,Road,Cars,___,Auto passenger,139893.6573581355
+2045,CO2,Passenger,Road,Cars,___,Paid Ridershare,8764.275461212932
+2045,CO2,Passenger,Road,Cars,___,Taxi passenger,14919.343377214765
+2045,CO2,Passenger,Road,Motorcycles,___,___,4808.447476910365
+2045,CO2,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,1270840.4691943175
+2045,CO2,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,156317.4333981817
+2045,CO2,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,9545.69512507572
+2045,CO2,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,5194.948873743378
+2045,CO2,Public,Marine,___,___,Fleet Services,2.6789531598752463
+2045,CO2,Public,Marine,___,___,Police Services,0.49164664609769154
+2045,CO2,Public,Road,Inter-city Buses,Urban Bus ,Police Services,65.45669862266325
+2045,CO2,Public,Road,Cars,___,Fleet Services,525.5340175368905
+2045,CO2,Public,Road,Cars,___,Police Services,14529.313213129988
+2045,CO2,Public,Road,Cars,___,Toronto Housing Company,2578.694167610359
+2045,CO2,Public,Road,Motorcycles,___,Police Services,50.874001499357426
+2045,CO2,Public,Road,Truck,Heavy Trucks,Fleet Services,29860.50973335779
+2045,CO2,Public,Road,Truck,Passenger Light Trucks,Fleet Services,34876.2495914795
+2045,CO2,Public,Road,Truck,Passenger Light Trucks,Police Services,8197.529465755697
+2045,CO2,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,1483.9587239837304
+2045,CO2,Public,Road,Truck,Medium Trucks,Fleet Services,6673.196096083637
+2045,CO2,Public,Road,Truck,Medium Trucks,Police Services,712.0718536848933
+2045,CO2,Public,Road,Truck,Medium Trucks,Toronto Housing Company,951.3284615846479
+2045,CO2e,Freight Transportation,Air,___,___,,363.6659791635239
+2045,CO2e,Freight Transportation,Marine,___,___,,6799.970715086224
+2045,CO2e,Freight Transportation,Rail,___,___,,28571.48025615765
+2045,CO2e,Freight Transportation,Road,Truck,Heavy Trucks,,26489.802775977747
+2045,CO2e,Freight Transportation,Road,Truck,Passenger Light Trucks,,879263.6985980754
+2045,CO2e,Freight Transportation,Road,Truck,Medium Trucks,,194242.96983956016
+2045,CO2e,Long Distance,Air,___,___,,4283.816723264242
+2045,CO2e,Long Distance,Rail,___,___,,130391.69442798196
+2045,CO2e,Passenger,Rail,Regional,___,GO rail,60251.18782029977
+2045,CO2e,Passenger,Rail,Regional,___,Up Express,6950.04889438999
+2045,CO2e,Passenger,Rail,Subway,___,Subway,1210540.0380351464
+2045,CO2e,Passenger,Rail,Tramway,___,Streetcar,158778.75759337735
+2045,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,292.3979791992588
+2045,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,3260.76995623604
+2045,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,3297.3921763840776
+2045,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,459.26113856678126
+2045,CO2e,Passenger,Road,Inter-city Buses,School Bus,___,7967.795727924077
+2045,CO2e,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,281396.70588134753
+2045,CO2e,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,50674.03920214912
+2045,CO2e,Passenger,Road,Cars,___,Auto driver,1084914.9506971647
+2045,CO2e,Passenger,Road,Cars,___,Auto passenger,141539.21489490976
+2045,CO2e,Passenger,Road,Cars,___,Paid Ridershare,8858.171241228267
+2045,CO2e,Passenger,Road,Cars,___,Taxi passenger,15083.569147142878
+2045,CO2e,Passenger,Road,Motorcycles,___,___,4867.979835328539
+2045,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,1276145.2812722395
+2045,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,157022.90409840486
+2045,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,9599.766169991799
+2045,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,5225.068736153519
+2045,CO2e,Public,Marine,___,___,Fleet Services,2.7177774272109487
+2045,CO2e,Public,Marine,___,___,Police Services,0.4991290628496421
+2045,CO2e,Public,Road,Inter-city Buses,Urban Bus ,Police Services,66.68564195565286
+2045,CO2e,Public,Road,Cars,___,Fleet Services,528.8545806674289
+2045,CO2e,Public,Road,Cars,___,Police Services,14597.5172260752
+2045,CO2e,Public,Road,Cars,___,Toronto Housing Company,2599.245247292124
+2045,CO2e,Public,Road,Motorcycles,___,Police Services,51.544444515991486
+2045,CO2e,Public,Road,Truck,Heavy Trucks,Fleet Services,30736.11268209825
+2045,CO2e,Public,Road,Truck,Passenger Light Trucks,Fleet Services,35310.64139499845
+2045,CO2e,Public,Road,Truck,Passenger Light Trucks,Police Services,8242.15842441276
+2045,CO2e,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,1493.7850185497343
+2045,CO2e,Public,Road,Truck,Medium Trucks,Fleet Services,6842.810507853928
+2045,CO2e,Public,Road,Truck,Medium Trucks,Police Services,731.5212814220334
+2045,CO2e,Public,Road,Truck,Medium Trucks,Toronto Housing Company,976.8114529326696
+2045,N2O,Freight Transportation,Air,___,___,,1.0614895079876854
+2045,N2O,Freight Transportation,Rail,___,___,,9.201689526178718
+2045,N2O,Freight Transportation,Road,Truck,Heavy Trucks,,2.1573299458533657
+2045,N2O,Freight Transportation,Road,Truck,Passenger Light Trucks,,35.58895954456086
+2045,N2O,Freight Transportation,Road,Truck,Medium Trucks,,15.585361124698544
+2045,N2O,Long Distance,Air,___,___,,13.322569188496153
+2045,N2O,Long Distance,Rail,___,___,,41.47132323924269
+2045,N2O,Passenger,Rail,Regional,___,GO rail,6.115251682029584
+2045,N2O,Passenger,Rail,Regional,___,Up Express,2.15399302533836
+2045,N2O,Passenger,Rail,Subway,___,Subway,373.2915044073175
+2045,N2O,Passenger,Rail,Tramway,___,Streetcar,49.011690881675854
+2045,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,0.00023739188963168702
+2045,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,0.00025981793271815274
+2045,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,0.0002600720944496011
+2045,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,0.0002443426453967076
+2045,N2O,Passenger,Road,Inter-city Buses,School Bus,___,0.4430283409344907
+2045,N2O,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,22.856065673006164
+2045,N2O,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,3.881341179744083
+2045,N2O,Passenger,Road,Cars,___,Auto driver,28.202130691923788
+2045,N2O,Passenger,Road,Cars,___,Auto passenger,5.074719907990899
+2045,N2O,Passenger,Road,Cars,___,Paid Ridershare,0.2853315685779787
+2045,N2O,Passenger,Road,Cars,___,Taxi passenger,0.5013790085835923
+2045,N2O,Passenger,Road,Motorcycles,___,___,0.08598094983076167
+2045,N2O,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,12.18319889738551
+2045,N2O,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,1.5446305052842508
+2045,N2O,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,0.10380320500385831
+2045,N2O,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,0.05705216915158077
+2045,N2O,Public,Marine,___,___,Fleet Services,0.00010467113188686346
+2045,N2O,Public,Marine,___,___,Police Services,2.0172770393935544e-05
+2045,N2O,Public,Road,Inter-city Buses,Urban Bus ,Police Services,0.003922601733340471
+2045,N2O,Public,Road,Cars,___,Fleet Services,0.0071293946831527625
+2045,N2O,Public,Road,Cars,___,Police Services,0.1540170783671732
+2045,N2O,Public,Road,Cars,___,Toronto Housing Company,0.03950124086312507
+2045,N2O,Public,Road,Motorcycles,___,Police Services,0.0009683024309683668
+2045,N2O,Public,Road,Truck,Heavy Trucks,Fleet Services,2.49440820561133
+2045,N2O,Public,Road,Truck,Passenger Light Trucks,Fleet Services,1.3292645709455164
+2045,N2O,Public,Road,Truck,Passenger Light Trucks,Police Services,0.10642939453797517
+2045,N2O,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,0.022758747322081684
+2045,N2O,Public,Road,Truck,Medium Trucks,Fleet Services,0.5533003522088611
+2045,N2O,Public,Road,Truck,Medium Trucks,Police Services,0.061305455436581044
+2045,N2O,Public,Road,Truck,Medium Trucks,Toronto Housing Company,0.0809873432851958
+2050,CH4,Freight Transportation,Air,___,___,,0.5377881633355849
+2050,CH4,Freight Transportation,Marine,___,___,,0.008170350072491556
+2050,CH4,Freight Transportation,Rail,___,___,,1.41164863589278
+2050,CH4,Freight Transportation,Road,Truck,Heavy Trucks,,0.8542094387965908
+2050,CH4,Freight Transportation,Road,Truck,Passenger Light Trucks,,322.81982973968576
+2050,CH4,Freight Transportation,Road,Truck,Medium Trucks,,4.8170910469427355
+2050,CH4,Long Distance,Air,___,___,,5.967415061576276
+2050,CH4,Long Distance,Rail,___,___,,6.7126034514780555
+2050,CH4,Passenger,Rail,Regional,___,GO rail,1.4392387372411117
+2050,CH4,Passenger,Rail,Regional,___,Up Express,0.3115616119729297
+2050,CH4,Passenger,Rail,Subway,___,Subway,55.91237340228389
+2050,CH4,Passenger,Rail,Tramway,___,Streetcar,7.124761168415488
+2050,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,0.9346142702438075
+2050,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,13.636956743022134
+2050,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,13.962415238511038
+2050,CH4,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,1.6094516804104937
+2050,CH4,Passenger,Road,Inter-city Buses,School Bus,___,0.34025300269534553
+2050,CH4,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,8.453616277839728
+2050,CH4,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,1.6380119670985527
+2050,CH4,Passenger,Road,Cars,___,Auto driver,55.39572782506603
+2050,CH4,Passenger,Road,Cars,___,Auto passenger,6.492196418093145
+2050,CH4,Passenger,Road,Cars,___,Paid Ridershare,0.5304861512558652
+2050,CH4,Passenger,Road,Cars,___,Taxi passenger,0.82192230097097
+2050,CH4,Passenger,Road,Motorcycles,___,___,1.6479820215629026
+2050,CH4,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,113.20939446179918
+2050,CH4,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,36.813399888155345
+2050,CH4,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,4.092153839207484
+2050,CH4,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,2.273837513528565
+2050,CH4,Public,Marine,___,___,Fleet Services,0.0003646964262580026
+2050,CH4,Public,Marine,___,___,Police Services,7.148428894442542e-05
+2050,CH4,Public,Road,Inter-city Buses,Urban Bus ,Police Services,0.00297684286719204
+2050,CH4,Public,Road,Cars,___,Fleet Services,0.06368217779030279
+2050,CH4,Public,Road,Cars,___,Police Services,1.0632990602312034
+2050,CH4,Public,Road,Cars,___,Toronto Housing Company,0.3215042545802528
+2050,CH4,Public,Road,Motorcycles,___,Police Services,0.01753595488941103
+2050,CH4,Public,Road,Truck,Heavy Trucks,Fleet Services,1.7688476498421941
+2050,CH4,Public,Road,Truck,Passenger Light Trucks,Fleet Services,1.780273507873258
+2050,CH4,Public,Road,Truck,Passenger Light Trucks,Police Services,0.5776023173965241
+2050,CH4,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,0.15608218212639946
+2050,CH4,Public,Road,Truck,Medium Trucks,Fleet Services,0.2737660420152268
+2050,CH4,Public,Road,Truck,Medium Trucks,Police Services,0.07132119288011814
+2050,CH4,Public,Road,Truck,Medium Trucks,Toronto Housing Company,0.08114099269251779
+2050,CO2,Freight Transportation,Air,___,___,,106.77586943588206
+2050,CO2,Freight Transportation,Marine,___,___,,7105.696343380846
+2050,CO2,Freight Transportation,Rail,___,___,,26075.928384696435
+2050,CO2,Freight Transportation,Road,Truck,Heavy Trucks,,26304.84404931913
+2050,CO2,Freight Transportation,Road,Truck,Passenger Light Trucks,,788691.3872381793
+2050,CO2,Freight Transportation,Road,Truck,Medium Trucks,,185142.9691145906
+2050,CO2,Long Distance,Air,___,___,,471.7861293205807
+2050,CO2,Long Distance,Rail,___,___,,125212.85321535461
+2050,CO2,Passenger,Rail,Regional,___,GO rail,57973.769062373634
+2050,CO2,Passenger,Rail,Regional,___,Up Express,7214.9081751732765
+2050,CO2,Passenger,Rail,Subway,___,Subway,1093105.8822500496
+2050,CO2,Passenger,Rail,Tramway,___,Streetcar,138182.7992058001
+2050,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,208.45032705116716
+2050,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,2905.589319992671
+2050,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,2974.30568515628
+2050,CO2,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,354.1247608149553
+2050,CO2,Passenger,Road,Inter-city Buses,School Bus,___,6376.190925999354
+2050,CO2,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,282827.8960536067
+2050,CO2,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,51682.47052381754
+2050,CO2,Passenger,Road,Cars,___,Auto driver,1091749.140181388
+2050,CO2,Passenger,Road,Cars,___,Auto passenger,140610.88712592164
+2050,CO2,Passenger,Road,Cars,___,Paid Ridershare,8774.213701279556
+2050,CO2,Passenger,Road,Cars,___,Taxi passenger,14969.793423305913
+2050,CO2,Passenger,Road,Motorcycles,___,___,4912.251343305521
+2050,CO2,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,1232139.9062913395
+2050,CO2,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,150961.27148455224
+2050,CO2,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,9108.519021331898
+2050,CO2,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,4932.594829077604
+2050,CO2,Public,Marine,___,___,Fleet Services,2.6467079657723156
+2050,CO2,Public,Marine,___,___,Police Services,0.5004719737966958
+2050,CO2,Public,Road,Inter-city Buses,Urban Bus ,Police Services,68.18527100360994
+2050,CO2,Public,Road,Cars,___,Fleet Services,492.02530692872193
+2050,CO2,Public,Road,Cars,___,Police Services,14350.566290494493
+2050,CO2,Public,Road,Cars,___,Toronto Housing Company,2439.8335569840965
+2050,CO2,Public,Road,Motorcycles,___,Police Services,48.94015440894644
+2050,CO2,Public,Road,Truck,Heavy Trucks,Fleet Services,31410.60073396497
+2050,CO2,Public,Road,Truck,Passenger Light Trucks,Fleet Services,31979.742139628364
+2050,CO2,Public,Road,Truck,Passenger Light Trucks,Police Services,7290.704785323322
+2050,CO2,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,1484.0677807312147
+2050,CO2,Public,Road,Truck,Medium Trucks,Fleet Services,6641.253152116271
+2050,CO2,Public,Road,Truck,Medium Trucks,Police Services,688.8085834725432
+2050,CO2,Public,Road,Truck,Medium Trucks,Toronto Housing Company,925.7166320918378
+2050,CO2e,Freight Transportation,Air,___,___,,441.05962706867416
+2050,CO2e,Freight Transportation,Marine,___,___,,7108.29288239364
+2050,CO2e,Freight Transportation,Rail,___,___,,28909.853474520914
+2050,CO2e,Freight Transportation,Road,Truck,Heavy Trucks,,26975.64614820028
+2050,CO2e,Freight Transportation,Road,Truck,Passenger Light Trucks,,805468.0761124428
+2050,CO2e,Freight Transportation,Road,Truck,Medium Trucks,,189778.61715553133
+2050,CO2e,Long Distance,Air,___,___,,4644.325244048059
+2050,CO2e,Long Distance,Rail,___,___,,138689.52383726192
+2050,CO2e,Passenger,Rail,Regional,___,GO rail,60863.28080990801
+2050,CO2e,Passenger,Rail,Regional,___,Up Express,7840.420061766982
+2050,CO2e,Passenger,Rail,Subway,___,Subway,1205359.2948383698
+2050,CO2e,Passenger,Rail,Tramway,___,Streetcar,152486.94525370724
+2050,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,228.93742448860215
+2050,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,3193.5567374941797
+2050,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,3269.1131393815585
+2050,CO2e,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,388.94644827476736
+2050,CO2e,Passenger,Road,Inter-city Buses,School Bus,___,6513.3816112781615
+2050,CO2e,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,290312.8164890382
+2050,CO2e,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,53052.654716549325
+2050,CO2e,Passenger,Road,Cars,___,Auto driver,1101731.2015692475
+2050,CO2e,Passenger,Road,Cars,___,Auto passenger,142288.75410990638
+2050,CO2e,Passenger,Road,Cars,___,Paid Ridershare,8878.903303958099
+2050,CO2e,Passenger,Road,Cars,___,Taxi passenger,15146.99062394038
+2050,CO2e,Passenger,Road,Motorcycles,___,___,4973.008383558257
+2050,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,1238016.3385104956
+2050,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,152164.58921547455
+2050,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,9222.786071545723
+2050,CO2e,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,4996.043576533747
+2050,CO2e,Public,Marine,___,___,Fleet Services,2.6856662968108997
+2050,CO2e,Public,Marine,___,___,Police Services,0.5081082114788951
+2050,CO2e,Public,Road,Inter-city Buses,Urban Bus ,Police Services,69.4655298695833
+2050,CO2e,Public,Road,Cars,___,Fleet Services,495.7728766630708
+2050,CO2e,Public,Road,Cars,___,Police Services,14419.946155950658
+2050,CO2e,Public,Road,Cars,___,Toronto Housing Company,2459.698961773721
+2050,CO2e,Public,Road,Motorcycles,___,Police Services,49.5866618969806
+2050,CO2e,Public,Road,Truck,Heavy Trucks,Fleet Services,32221.426033044187
+2050,CO2e,Public,Road,Truck,Passenger Light Trucks,Fleet Services,32346.682277239353
+2050,CO2e,Public,Road,Truck,Passenger Light Trucks,Police Services,7333.140279269605
+2050,CO2e,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,1495.2959247285605
+2050,CO2e,Public,Road,Truck,Medium Trucks,Fleet Services,6811.523827173908
+2050,CO2e,Public,Road,Truck,Medium Trucks,Police Services,707.7344773363865
+2050,CO2e,Public,Road,Truck,Medium Trucks,Toronto Housing Company,950.6450921496919
+2050,N2O,Freight Transportation,Air,___,___,,1.0838597523582034
+2050,N2O,Freight Transportation,Marine,___,___,,0.002340490035694847
+2050,N2O,Freight Transportation,Rail,___,___,,9.410991263431978
+2050,N2O,Freight Transportation,Road,Truck,Heavy Trucks,,2.1908177874711656
+2050,N2O,Freight Transportation,Road,Truck,Passenger Light Trucks,,33.548565267550934
+2050,N2O,Freight Transportation,Road,Truck,Medium Trucks,,15.216406473003094
+2050,N2O,Long Distance,Air,___,___,,13.581286571927443
+2050,N2O,Long Distance,Rail,___,___,,44.75069110545739
+2050,N2O,Passenger,Rail,Regional,___,GO rail,9.594925282054755
+2050,N2O,Passenger,Rail,Regional,___,Up Express,2.0770774924237427
+2050,N2O,Passenger,Rail,Subway,___,Subway,372.749170291519
+2050,N2O,Passenger,Rail,Tramway,___,Streetcar,47.498409608625636
+2050,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Durham RT,0.0028865696721978597
+2050,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Go Bus,0.005340019792088664
+2050,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Miway Bus,0.005358168511898896
+2050,N2O,Passenger,Road,Inter-city Buses,Inter Urban Bus,Viva Bus,0.003433564332857848
+2050,N2O,Passenger,Road,Inter-city Buses,School Bus,___,0.43639386651746825
+2050,N2O,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Bus,24.521458032204954
+2050,N2O,Passenger,Road,Inter-city Buses,Urban Bus ,TTC Wheel trans para,4.482503159136612
+2050,N2O,Passenger,Road,Cars,___,Auto driver,29.59312450850055
+2050,N2O,Passenger,Road,Cars,___,Auto passenger,5.172922346324388
+2050,N2O,Passenger,Road,Cars,___,Paid Ridershare,0.31392413926903034
+2050,N2O,Passenger,Road,Cars,___,Taxi passenger,0.5367007795774446
+2050,N2O,Passenger,Road,Motorcycles,___,___,0.08774972416079137
+2050,N2O,Passenger,Road,Truck,Passenger Light Trucks,Auto driver,11.74172797133677
+2050,N2O,Passenger,Road,Truck,Passenger Light Trucks,Auto passenger,1.4437460848022468
+2050,N2O,Passenger,Road,Truck,Passenger Light Trucks,Paid Ridershare,0.09507322010222806
+2050,N2O,Passenger,Road,Truck,Passenger Light Trucks,Taxi passenger,0.052678388161218975
+2050,N2O,Public,Marine,___,___,Fleet Services,0.00010503257076230475
+2050,N2O,Public,Marine,___,___,Police Services,2.0587475215994513e-05
+2050,N2O,Public,Road,Inter-city Buses,Urban Bus ,Police Services,0.004086393173699108
+2050,N2O,Public,Road,Cars,___,Fleet Services,0.008088067116618938
+2050,N2O,Public,Road,Cars,___,Police Services,0.1578878697694933
+2050,N2O,Public,Road,Cars,___,Toronto Housing Company,0.044006092092077974
+2050,N2O,Public,Road,Motorcycles,___,Police Services,0.0009337330045521761
+2050,N2O,Public,Road,Truck,Heavy Trucks,Fleet Services,2.5962399276259456
+2050,N2O,Public,Road,Truck,Passenger Light Trucks,Fleet Services,1.105887228005555
+2050,N2O,Public,Road,Truck,Passenger Light Trucks,Police Services,0.10169746738575734
+2050,N2O,Public,Road,Truck,Passenger Light Trucks,Toronto Housing Company,0.02667925561305913
+2050,N2O,Public,Road,Truck,Medium Trucks,Fleet Services,0.552085866360113
+2050,N2O,Public,Road,Truck,Medium Trucks,Police Services,0.05848372085020429
+2050,N2O,Public,Road,Truck,Medium Trucks,Toronto Housing Company,0.07793456111178335

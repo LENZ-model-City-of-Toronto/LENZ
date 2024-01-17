@@ -1,0 +1,176 @@
+regions,periods,demand_comm,demand,demand_units,demand_notes
+TO,2016,ADEMINDBDGLI,25.981117183127022,Mm2,Aggregated DemandIndustryBuildingLighting
+TO,2016,ADEMINDBDGSC,25.981117183127022,Mm2,Aggregated DemandIndustryBuildingSpace Cooling
+TO,2016,ADEMINDBDGIP,25.981117183127022,Mm2,Aggregated DemandIndustryBuildingIndustrial Processes
+TO,2016,ADEMINDBDGSH,25.981117183127022,Mm2,Aggregated DemandIndustryBuildingSpace Heating
+TO,2016,ADEMINDBDGWH,25.981117183127022,Mm2,Aggregated DemandIndustryBuildingWater Heating
+TO,2017,ADEMINDBDGLI,26.011263568782006,Mm2,Aggregated DemandIndustryBuildingLighting
+TO,2017,ADEMINDBDGSC,26.011263568782006,Mm2,Aggregated DemandIndustryBuildingSpace Cooling
+TO,2017,ADEMINDBDGIP,26.011263568782006,Mm2,Aggregated DemandIndustryBuildingIndustrial Processes
+TO,2017,ADEMINDBDGSH,26.011263568782006,Mm2,Aggregated DemandIndustryBuildingSpace Heating
+TO,2017,ADEMINDBDGWH,26.011263568782006,Mm2,Aggregated DemandIndustryBuildingWater Heating
+TO,2018,ADEMINDBDGLI,26.041409954436993,Mm2,Aggregated DemandIndustryBuildingLighting
+TO,2018,ADEMINDBDGSC,26.041409954436993,Mm2,Aggregated DemandIndustryBuildingSpace Cooling
+TO,2018,ADEMINDBDGIP,26.041409954436993,Mm2,Aggregated DemandIndustryBuildingIndustrial Processes
+TO,2018,ADEMINDBDGSH,26.041409954436993,Mm2,Aggregated DemandIndustryBuildingSpace Heating
+TO,2018,ADEMINDBDGWH,26.041409954436993,Mm2,Aggregated DemandIndustryBuildingWater Heating
+TO,2019,ADEMINDBDGLI,26.07155633007706,Mm2,Aggregated DemandIndustryBuildingLighting
+TO,2019,ADEMINDBDGSC,26.07155633007706,Mm2,Aggregated DemandIndustryBuildingSpace Cooling
+TO,2019,ADEMINDBDGIP,26.07155633007706,Mm2,Aggregated DemandIndustryBuildingIndustrial Processes
+TO,2019,ADEMINDBDGSH,26.07155633007706,Mm2,Aggregated DemandIndustryBuildingSpace Heating
+TO,2019,ADEMINDBDGWH,26.07155633007706,Mm2,Aggregated DemandIndustryBuildingWater Heating
+TO,2020,ADEMINDBDGLI,26.101702715732046,Mm2,Aggregated DemandIndustryBuildingLighting
+TO,2020,ADEMINDBDGSC,26.101702715732046,Mm2,Aggregated DemandIndustryBuildingSpace Cooling
+TO,2020,ADEMINDBDGIP,26.101702715732046,Mm2,Aggregated DemandIndustryBuildingIndustrial Processes
+TO,2020,ADEMINDBDGSH,26.101702715732046,Mm2,Aggregated DemandIndustryBuildingSpace Heating
+TO,2020,ADEMINDBDGWH,26.101702715732046,Mm2,Aggregated DemandIndustryBuildingWater Heating
+TO,2021,ADEMINDBDGLI,26.131849101387036,Mm2,Aggregated DemandIndustryBuildingLighting
+TO,2021,ADEMINDBDGSC,26.131849101387036,Mm2,Aggregated DemandIndustryBuildingSpace Cooling
+TO,2021,ADEMINDBDGIP,26.131849101387036,Mm2,Aggregated DemandIndustryBuildingIndustrial Processes
+TO,2021,ADEMINDBDGSH,26.131849101387036,Mm2,Aggregated DemandIndustryBuildingSpace Heating
+TO,2021,ADEMINDBDGWH,26.131849101387036,Mm2,Aggregated DemandIndustryBuildingWater Heating
+TO,2022,ADEMINDBDGLI,26.162204849043768,Mm2,Aggregated DemandIndustryBuildingLighting
+TO,2022,ADEMINDBDGSC,26.162204849043768,Mm2,Aggregated DemandIndustryBuildingSpace Cooling
+TO,2022,ADEMINDBDGIP,26.162204849043768,Mm2,Aggregated DemandIndustryBuildingIndustrial Processes
+TO,2022,ADEMINDBDGSH,26.162204849043768,Mm2,Aggregated DemandIndustryBuildingSpace Heating
+TO,2022,ADEMINDBDGWH,26.162204849043768,Mm2,Aggregated DemandIndustryBuildingWater Heating
+TO,2023,ADEMINDBDGLI,26.19256059670051,Mm2,Aggregated DemandIndustryBuildingLighting
+TO,2023,ADEMINDBDGSC,26.19256059670051,Mm2,Aggregated DemandIndustryBuildingSpace Cooling
+TO,2023,ADEMINDBDGIP,26.19256059670051,Mm2,Aggregated DemandIndustryBuildingIndustrial Processes
+TO,2023,ADEMINDBDGSH,26.19256059670051,Mm2,Aggregated DemandIndustryBuildingSpace Heating
+TO,2023,ADEMINDBDGWH,26.19256059670051,Mm2,Aggregated DemandIndustryBuildingWater Heating
+TO,2024,ADEMINDBDGLI,26.222916344357245,Mm2,Aggregated DemandIndustryBuildingLighting
+TO,2024,ADEMINDBDGSC,26.222916344357245,Mm2,Aggregated DemandIndustryBuildingSpace Cooling
+TO,2024,ADEMINDBDGIP,26.222916344357245,Mm2,Aggregated DemandIndustryBuildingIndustrial Processes
+TO,2024,ADEMINDBDGSH,26.222916344357245,Mm2,Aggregated DemandIndustryBuildingSpace Heating
+TO,2024,ADEMINDBDGWH,26.222916344357245,Mm2,Aggregated DemandIndustryBuildingWater Heating
+TO,2025,ADEMINDBDGLI,26.25327209201398,Mm2,Aggregated DemandIndustryBuildingLighting
+TO,2025,ADEMINDBDGSC,26.25327209201398,Mm2,Aggregated DemandIndustryBuildingSpace Cooling
+TO,2025,ADEMINDBDGIP,26.25327209201398,Mm2,Aggregated DemandIndustryBuildingIndustrial Processes
+TO,2025,ADEMINDBDGSH,26.25327209201398,Mm2,Aggregated DemandIndustryBuildingSpace Heating
+TO,2025,ADEMINDBDGWH,26.25327209201398,Mm2,Aggregated DemandIndustryBuildingWater Heating
+TO,2026,ADEMINDBDGLI,26.28362784968564,Mm2,Aggregated DemandIndustryBuildingLighting
+TO,2026,ADEMINDBDGSC,26.28362784968564,Mm2,Aggregated DemandIndustryBuildingSpace Cooling
+TO,2026,ADEMINDBDGIP,26.28362784968564,Mm2,Aggregated DemandIndustryBuildingIndustrial Processes
+TO,2026,ADEMINDBDGSH,26.28362784968564,Mm2,Aggregated DemandIndustryBuildingSpace Heating
+TO,2026,ADEMINDBDGWH,26.28362784968564,Mm2,Aggregated DemandIndustryBuildingWater Heating
+TO,2027,ADEMINDBDGLI,26.31398359734237,Mm2,Aggregated DemandIndustryBuildingLighting
+TO,2027,ADEMINDBDGSC,26.31398359734237,Mm2,Aggregated DemandIndustryBuildingSpace Cooling
+TO,2027,ADEMINDBDGIP,26.31398359734237,Mm2,Aggregated DemandIndustryBuildingIndustrial Processes
+TO,2027,ADEMINDBDGSH,26.31398359734237,Mm2,Aggregated DemandIndustryBuildingSpace Heating
+TO,2027,ADEMINDBDGWH,26.31398359734237,Mm2,Aggregated DemandIndustryBuildingWater Heating
+TO,2028,ADEMINDBDGLI,26.344339344999113,Mm2,Aggregated DemandIndustryBuildingLighting
+TO,2028,ADEMINDBDGSC,26.344339344999113,Mm2,Aggregated DemandIndustryBuildingSpace Cooling
+TO,2028,ADEMINDBDGIP,26.344339344999113,Mm2,Aggregated DemandIndustryBuildingIndustrial Processes
+TO,2028,ADEMINDBDGSH,26.344339344999113,Mm2,Aggregated DemandIndustryBuildingSpace Heating
+TO,2028,ADEMINDBDGWH,26.344339344999113,Mm2,Aggregated DemandIndustryBuildingWater Heating
+TO,2029,ADEMINDBDGLI,26.374695092655852,Mm2,Aggregated DemandIndustryBuildingLighting
+TO,2029,ADEMINDBDGSC,26.374695092655852,Mm2,Aggregated DemandIndustryBuildingSpace Cooling
+TO,2029,ADEMINDBDGIP,26.374695092655852,Mm2,Aggregated DemandIndustryBuildingIndustrial Processes
+TO,2029,ADEMINDBDGSH,26.374695092655852,Mm2,Aggregated DemandIndustryBuildingSpace Heating
+TO,2029,ADEMINDBDGWH,26.374695092655852,Mm2,Aggregated DemandIndustryBuildingWater Heating
+TO,2030,ADEMINDBDGLI,26.405050840312587,Mm2,Aggregated DemandIndustryBuildingLighting
+TO,2030,ADEMINDBDGSC,26.405050840312587,Mm2,Aggregated DemandIndustryBuildingSpace Cooling
+TO,2030,ADEMINDBDGIP,26.405050840312587,Mm2,Aggregated DemandIndustryBuildingIndustrial Processes
+TO,2030,ADEMINDBDGSH,26.405050840312587,Mm2,Aggregated DemandIndustryBuildingSpace Heating
+TO,2030,ADEMINDBDGWH,26.405050840312587,Mm2,Aggregated DemandIndustryBuildingWater Heating
+TO,2031,ADEMINDBDGLI,26.43540658796932,Mm2,Aggregated DemandIndustryBuildingLighting
+TO,2031,ADEMINDBDGSC,26.43540658796932,Mm2,Aggregated DemandIndustryBuildingSpace Cooling
+TO,2031,ADEMINDBDGIP,26.43540658796932,Mm2,Aggregated DemandIndustryBuildingIndustrial Processes
+TO,2031,ADEMINDBDGSH,26.43540658796932,Mm2,Aggregated DemandIndustryBuildingSpace Heating
+TO,2031,ADEMINDBDGWH,26.43540658796932,Mm2,Aggregated DemandIndustryBuildingWater Heating
+TO,2032,ADEMINDBDGLI,26.46341145222177,Mm2,Aggregated DemandIndustryBuildingLighting
+TO,2032,ADEMINDBDGSC,26.46341145222177,Mm2,Aggregated DemandIndustryBuildingSpace Cooling
+TO,2032,ADEMINDBDGIP,26.46341145222177,Mm2,Aggregated DemandIndustryBuildingIndustrial Processes
+TO,2032,ADEMINDBDGSH,26.46341145222177,Mm2,Aggregated DemandIndustryBuildingSpace Heating
+TO,2032,ADEMINDBDGWH,26.46341145222177,Mm2,Aggregated DemandIndustryBuildingWater Heating
+TO,2033,ADEMINDBDGLI,26.491416316474222,Mm2,Aggregated DemandIndustryBuildingLighting
+TO,2033,ADEMINDBDGSC,26.491416316474222,Mm2,Aggregated DemandIndustryBuildingSpace Cooling
+TO,2033,ADEMINDBDGIP,26.491416316474222,Mm2,Aggregated DemandIndustryBuildingIndustrial Processes
+TO,2033,ADEMINDBDGSH,26.491416316474222,Mm2,Aggregated DemandIndustryBuildingSpace Heating
+TO,2033,ADEMINDBDGWH,26.491416316474222,Mm2,Aggregated DemandIndustryBuildingWater Heating
+TO,2034,ADEMINDBDGLI,26.51942117071175,Mm2,Aggregated DemandIndustryBuildingLighting
+TO,2034,ADEMINDBDGSC,26.51942117071175,Mm2,Aggregated DemandIndustryBuildingSpace Cooling
+TO,2034,ADEMINDBDGIP,26.51942117071175,Mm2,Aggregated DemandIndustryBuildingIndustrial Processes
+TO,2034,ADEMINDBDGSH,26.51942117071175,Mm2,Aggregated DemandIndustryBuildingSpace Heating
+TO,2034,ADEMINDBDGWH,26.51942117071175,Mm2,Aggregated DemandIndustryBuildingWater Heating
+TO,2035,ADEMINDBDGLI,26.5474260349642,Mm2,Aggregated DemandIndustryBuildingLighting
+TO,2035,ADEMINDBDGSC,26.5474260349642,Mm2,Aggregated DemandIndustryBuildingSpace Cooling
+TO,2035,ADEMINDBDGIP,26.5474260349642,Mm2,Aggregated DemandIndustryBuildingIndustrial Processes
+TO,2035,ADEMINDBDGSH,26.5474260349642,Mm2,Aggregated DemandIndustryBuildingSpace Heating
+TO,2035,ADEMINDBDGWH,26.5474260349642,Mm2,Aggregated DemandIndustryBuildingWater Heating
+TO,2036,ADEMINDBDGLI,26.575430889201723,Mm2,Aggregated DemandIndustryBuildingLighting
+TO,2036,ADEMINDBDGSC,26.575430889201723,Mm2,Aggregated DemandIndustryBuildingSpace Cooling
+TO,2036,ADEMINDBDGIP,26.575430889201723,Mm2,Aggregated DemandIndustryBuildingIndustrial Processes
+TO,2036,ADEMINDBDGSH,26.575430889201723,Mm2,Aggregated DemandIndustryBuildingSpace Heating
+TO,2036,ADEMINDBDGWH,26.575430889201723,Mm2,Aggregated DemandIndustryBuildingWater Heating
+TO,2037,ADEMINDBDGLI,26.603435753454175,Mm2,Aggregated DemandIndustryBuildingLighting
+TO,2037,ADEMINDBDGSC,26.603435753454175,Mm2,Aggregated DemandIndustryBuildingSpace Cooling
+TO,2037,ADEMINDBDGIP,26.603435753454175,Mm2,Aggregated DemandIndustryBuildingIndustrial Processes
+TO,2037,ADEMINDBDGSH,26.603435753454175,Mm2,Aggregated DemandIndustryBuildingSpace Heating
+TO,2037,ADEMINDBDGWH,26.603435753454175,Mm2,Aggregated DemandIndustryBuildingWater Heating
+TO,2038,ADEMINDBDGLI,26.631440617706623,Mm2,Aggregated DemandIndustryBuildingLighting
+TO,2038,ADEMINDBDGSC,26.631440617706623,Mm2,Aggregated DemandIndustryBuildingSpace Cooling
+TO,2038,ADEMINDBDGIP,26.631440617706623,Mm2,Aggregated DemandIndustryBuildingIndustrial Processes
+TO,2038,ADEMINDBDGSH,26.631440617706623,Mm2,Aggregated DemandIndustryBuildingSpace Heating
+TO,2038,ADEMINDBDGWH,26.631440617706623,Mm2,Aggregated DemandIndustryBuildingWater Heating
+TO,2039,ADEMINDBDGLI,26.659445471944146,Mm2,Aggregated DemandIndustryBuildingLighting
+TO,2039,ADEMINDBDGSC,26.659445471944146,Mm2,Aggregated DemandIndustryBuildingSpace Cooling
+TO,2039,ADEMINDBDGIP,26.659445471944146,Mm2,Aggregated DemandIndustryBuildingIndustrial Processes
+TO,2039,ADEMINDBDGSH,26.659445471944146,Mm2,Aggregated DemandIndustryBuildingSpace Heating
+TO,2039,ADEMINDBDGWH,26.659445471944146,Mm2,Aggregated DemandIndustryBuildingWater Heating
+TO,2040,ADEMINDBDGLI,26.687450346211524,Mm2,Aggregated DemandIndustryBuildingLighting
+TO,2040,ADEMINDBDGSC,26.687450346211524,Mm2,Aggregated DemandIndustryBuildingSpace Cooling
+TO,2040,ADEMINDBDGIP,26.687450346211524,Mm2,Aggregated DemandIndustryBuildingIndustrial Processes
+TO,2040,ADEMINDBDGSH,26.687450346211524,Mm2,Aggregated DemandIndustryBuildingSpace Heating
+TO,2040,ADEMINDBDGWH,26.687450346211524,Mm2,Aggregated DemandIndustryBuildingWater Heating
+TO,2041,ADEMINDBDGLI,26.715455200449046,Mm2,Aggregated DemandIndustryBuildingLighting
+TO,2041,ADEMINDBDGSC,26.715455200449046,Mm2,Aggregated DemandIndustryBuildingSpace Cooling
+TO,2041,ADEMINDBDGIP,26.715455200449046,Mm2,Aggregated DemandIndustryBuildingIndustrial Processes
+TO,2041,ADEMINDBDGSH,26.715455200449046,Mm2,Aggregated DemandIndustryBuildingSpace Heating
+TO,2041,ADEMINDBDGWH,26.715455200449046,Mm2,Aggregated DemandIndustryBuildingWater Heating
+TO,2042,ADEMINDBDGLI,26.743460054686572,Mm2,Aggregated DemandIndustryBuildingLighting
+TO,2042,ADEMINDBDGSC,26.743460054686572,Mm2,Aggregated DemandIndustryBuildingSpace Cooling
+TO,2042,ADEMINDBDGIP,26.743460054686572,Mm2,Aggregated DemandIndustryBuildingIndustrial Processes
+TO,2042,ADEMINDBDGSH,26.743460054686572,Mm2,Aggregated DemandIndustryBuildingSpace Heating
+TO,2042,ADEMINDBDGWH,26.743460054686572,Mm2,Aggregated DemandIndustryBuildingWater Heating
+TO,2043,ADEMINDBDGLI,26.77146491893902,Mm2,Aggregated DemandIndustryBuildingLighting
+TO,2043,ADEMINDBDGSC,26.77146491893902,Mm2,Aggregated DemandIndustryBuildingSpace Cooling
+TO,2043,ADEMINDBDGIP,26.77146491893902,Mm2,Aggregated DemandIndustryBuildingIndustrial Processes
+TO,2043,ADEMINDBDGSH,26.77146491893902,Mm2,Aggregated DemandIndustryBuildingSpace Heating
+TO,2043,ADEMINDBDGWH,26.77146491893902,Mm2,Aggregated DemandIndustryBuildingWater Heating
+TO,2044,ADEMINDBDGLI,26.79946978319147,Mm2,Aggregated DemandIndustryBuildingLighting
+TO,2044,ADEMINDBDGSC,26.79946978319147,Mm2,Aggregated DemandIndustryBuildingSpace Cooling
+TO,2044,ADEMINDBDGIP,26.79946978319147,Mm2,Aggregated DemandIndustryBuildingIndustrial Processes
+TO,2044,ADEMINDBDGSH,26.79946978319147,Mm2,Aggregated DemandIndustryBuildingSpace Heating
+TO,2044,ADEMINDBDGWH,26.79946978319147,Mm2,Aggregated DemandIndustryBuildingWater Heating
+TO,2045,ADEMINDBDGLI,26.827474647443925,Mm2,Aggregated DemandIndustryBuildingLighting
+TO,2045,ADEMINDBDGSC,26.827474647443925,Mm2,Aggregated DemandIndustryBuildingSpace Cooling
+TO,2045,ADEMINDBDGIP,26.827474647443925,Mm2,Aggregated DemandIndustryBuildingIndustrial Processes
+TO,2045,ADEMINDBDGSH,26.827474647443925,Mm2,Aggregated DemandIndustryBuildingSpace Heating
+TO,2045,ADEMINDBDGWH,26.827474647443925,Mm2,Aggregated DemandIndustryBuildingWater Heating
+TO,2046,ADEMINDBDGLI,26.855479501681444,Mm2,Aggregated DemandIndustryBuildingLighting
+TO,2046,ADEMINDBDGSC,26.855479501681444,Mm2,Aggregated DemandIndustryBuildingSpace Cooling
+TO,2046,ADEMINDBDGIP,26.855479501681444,Mm2,Aggregated DemandIndustryBuildingIndustrial Processes
+TO,2046,ADEMINDBDGSH,26.855479501681444,Mm2,Aggregated DemandIndustryBuildingSpace Heating
+TO,2046,ADEMINDBDGWH,26.855479501681444,Mm2,Aggregated DemandIndustryBuildingWater Heating
+TO,2047,ADEMINDBDGLI,26.883484355918966,Mm2,Aggregated DemandIndustryBuildingLighting
+TO,2047,ADEMINDBDGSC,26.883484355918966,Mm2,Aggregated DemandIndustryBuildingSpace Cooling
+TO,2047,ADEMINDBDGIP,26.883484355918966,Mm2,Aggregated DemandIndustryBuildingIndustrial Processes
+TO,2047,ADEMINDBDGSH,26.883484355918966,Mm2,Aggregated DemandIndustryBuildingSpace Heating
+TO,2047,ADEMINDBDGWH,26.883484355918966,Mm2,Aggregated DemandIndustryBuildingWater Heating
+TO,2048,ADEMINDBDGLI,26.91148923018635,Mm2,Aggregated DemandIndustryBuildingLighting
+TO,2048,ADEMINDBDGSC,26.91148923018635,Mm2,Aggregated DemandIndustryBuildingSpace Cooling
+TO,2048,ADEMINDBDGIP,26.91148923018635,Mm2,Aggregated DemandIndustryBuildingIndustrial Processes
+TO,2048,ADEMINDBDGSH,26.91148923018635,Mm2,Aggregated DemandIndustryBuildingSpace Heating
+TO,2048,ADEMINDBDGWH,26.91148923018635,Mm2,Aggregated DemandIndustryBuildingWater Heating
+TO,2049,ADEMINDBDGLI,26.939494084423874,Mm2,Aggregated DemandIndustryBuildingLighting
+TO,2049,ADEMINDBDGSC,26.939494084423874,Mm2,Aggregated DemandIndustryBuildingSpace Cooling
+TO,2049,ADEMINDBDGIP,26.939494084423874,Mm2,Aggregated DemandIndustryBuildingIndustrial Processes
+TO,2049,ADEMINDBDGSH,26.939494084423874,Mm2,Aggregated DemandIndustryBuildingSpace Heating
+TO,2049,ADEMINDBDGWH,26.939494084423874,Mm2,Aggregated DemandIndustryBuildingWater Heating
+TO,2050,ADEMINDBDGLI,26.967498938661397,Mm2,Aggregated DemandIndustryBuildingLighting
+TO,2050,ADEMINDBDGSC,26.967498938661397,Mm2,Aggregated DemandIndustryBuildingSpace Cooling
+TO,2050,ADEMINDBDGIP,26.967498938661397,Mm2,Aggregated DemandIndustryBuildingIndustrial Processes
+TO,2050,ADEMINDBDGSH,26.967498938661397,Mm2,Aggregated DemandIndustryBuildingSpace Heating
+TO,2050,ADEMINDBDGWH,26.967498938661397,Mm2,Aggregated DemandIndustryBuildingWater Heating

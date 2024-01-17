@@ -1,0 +1,15 @@
+INSERT INTO`technologies`VALUES('WATWASWWABGASERKSTD____23','p','WATWAS','WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency','nan');
+INSERT INTO`technologies`VALUES('WATWASWWABGASERKSTDMENE_23','p','WATWAS','WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy','nan');
+INSERT INTO`technologies`VALUES('WATWASWWABADIPUB_______23','p','WATWAS','WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic','nan');
+INSERT INTO`technologies`VALUES('WATWASWWABADIPUB___MENE_23','p','WATWAS','WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy','nan');
+INSERT INTO`technologies`VALUES('WATWASWWABGASCENCCSHH2_23','p','WATWAS','WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen','nan');
+INSERT INTO`technologies`VALUES('WATWASWWHBGASERKSTD____23','p','WATWAS','WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency','nan');
+INSERT INTO`technologies`VALUES('WATWASWWHBGASERKSTDMENE_23','p','WATWAS','WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy','nan');
+INSERT INTO`technologies`VALUES('WATWASWWHBADIPUB_______23','p','WATWAS','WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic','nan');
+INSERT INTO`technologies`VALUES('WATWASWWHBADIPUB___MENE_23','p','WATWAS','WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy','nan');
+INSERT INTO`technologies`VALUES('WATWASWWHBGASCENCCSHH2_23','p','WATWAS','WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen','nan');
+INSERT INTO`technologies`VALUES('WATWASWWHCGASERKSTD____23','p','WATWAS','WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency','nan');
+INSERT INTO`technologies`VALUES('WATWASWWHCGASERKSTDMENE_23','p','WATWAS','WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy','nan');
+INSERT INTO`technologies`VALUES('WATWASWWHCADIPUB_______23','p','WATWAS','WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublic','nan');
+INSERT INTO`technologies`VALUES('WATWASWWHCADIPUB___MENE_23','p','WATWAS','WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy','nan');
+INSERT INTO`technologies`VALUES('WATWASWWHCGASCENCCSHH2_23','p','WATWAS','WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen','nan');

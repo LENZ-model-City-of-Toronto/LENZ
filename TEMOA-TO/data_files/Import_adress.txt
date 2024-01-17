@@ -1,0 +1,221 @@
+########################################################################
+#----------------------- LIST OF ADRESS TO IMPORT ----------------------
+########################################################################
+
+//Export_name//
+BAP
+
+#---------------------------------------------------------------------
+#------------------------------- SCENARIO-----------------------------
+#---------------------------------------------------------------------
+
+import_data/0_Base_Model/
+#import_data/1_Business_As_Usual/
+import_data/2_Business_As_Planned/
+#import_data/3_Net-zero_2050/
+#import_data/4_Net-zero_2040/
+#import_data/5_Net-zero_2050_PureOpt/
+#import_data/6_Net-zero_2040_PureOpt/
+#import_data/7_Target-Based_PureOpt/
+#import_data/8_My_Scenario/
+
+
+#----------------------------------------------------------------------
+#-------------------------------SECTORS--------------------------------
+#----------------------------------------------------------------------
+
+#----------------------------- PARAMETERS------------------------------
+
+0_Parameters/
+
+#------------------------------- BUILDING ------------------------------
+
+#-------------------- Residential Building - RESBDG
+1_Building/1_Residential_building/1_Existing_system/
+1_Building/1_Residential_building/2_New_technology/
+1_Building/1_Residential_building/3_Demand/
+1_Building/1_Residential_building/4_Add_technology/
+
+#-------------------- Commercial Building - COMBDG
+1_Building/2_Commercial_building/1_Existing_system/
+1_Building/2_Commercial_building/2_New_technology/
+1_Building/2_Commercial_building/3_Demand/
+1_Building/2_Commercial_building/4_Add_technology/
+
+#-------------------- Industrial Building - INDBDG
+1_Building/3_Industrial_building/1_Existing_system/
+1_Building/3_Industrial_building/2_New_technology/
+1_Building/3_Industrial_building/3_Demand/
+1_Building/3_Industrial_building/4_Add_technology/
+
+#-------------------- Public Building - PUBBDG
+1_Building/4_Public_building/1_Existing_system/
+1_Building/4_Public_building/2_New_technology/
+1_Building/4_Public_building/3_Demand/
+1_Building/4_Public_building/4_Add_technology/
+
+#------------------------------- TRANSPORTATION--------------------------
+
+#-------------------- Freight Transport - FRETRA
+2_Transport/1_Freight_transportation/1_Existing_system/
+2_Transport/1_Freight_transportation/2_New_technology/
+2_Transport/1_Freight_transportation/3_Demand/
+2_Transport/1_Freight_transportation/4_Add_technology/
+
+#-------------------- Passenger Transport - PASTRA
+2_Transport/2_Passenger_transportation/1_Existing_system/
+2_Transport/2_Passenger_transportation/2_New_technology/
+2_Transport/2_Passenger_transportation/3_Demand/
+2_Transport/2_Passenger_transportation/4_Add_technology/
+
+#-------------------- Long Distance Transport - LDITRA
+2_Transport/3_Long_Distance_transportation/1_Existing_system/
+2_Transport/3_Long_Distance_transportation/2_New_technology/
+2_Transport/3_Long_Distance_transportation/3_Demand/
+2_Transport/3_Long_Distance_transportation/4_Add_technology/
+
+#-------------------- Public Transport- PUBTRA
+2_Transport/4_Public_transportation/1_Existing_system/
+2_Transport/4_Public_transportation/2_New_technology/
+2_Transport/4_Public_transportation/3_Demand/
+2_Transport/4_Public_transportation/4_Add_technology/
+
+#------------------------------- WASTE----------------------------------
+#--------------------Water Waste - WATWAS
+3_Waste/1_Water_Waste/1_Existing_system/
+3_Waste/1_Water_Waste/2_New_technology/
+3_Waste/1_Water_Waste/3_Demand/
+3_Waste/1_Water_Waste/4_Add_technology/
+
+#--------------------Solid Waste - SLDWAS
+3_Waste/2_Solid_Waste/1_Existing_system/
+3_Waste/2_Solid_Waste/2_New_technology/
+3_Waste/2_Solid_Waste/3_Demand/
+3_Waste/2_Solid_Waste/4_Add_technology/
+
+#------------------------------- ENERGY---------------------------------
+
+#--------------------Trade Energy - TRAENE
+4_Energy/1_Trade_energy/1_Existing_system/
+
+#--------------------Electricity distric Energy - ELCENE
+4_Energy/2_Electricity_district_energy/2_New_technology/
+4_Energy/2_Electricity_district_energy/4_Add_technology/
+
+#--------------------Thermal distric Energy - DISENE
+4_Energy/3_Thermal_district_energy/1_Existing_system/
+4_Energy/3_Thermal_district_energy/2_New_technology/
+4_Energy/3_Thermal_district_energy/4_Add_technology/
+
+#--------------------Charging Station Energy - STAENE
+4_Energy/4_Charging_station_energy/2_New_technology/
+4_Energy/4_Charging_station_energy/4_Add_technology/
+
+
+#-----------------------------------------------------------------------
+#------------------------------- POLICY---------------------------------
+#-----------------------------------------------------------------------
+
+
+#---------------------------- EmissionLimit-----------------------------
+
+5_Policy/5_EmissionLimit/
+
+#---------------------------Business-As-Usual---------------------------
+
+5_Policy/4_Energy/BAU-ENE-1/
+
+#--------------------------Business As Planned--------------------------
+
+#------ Building
+5_Policy/1_Building/BAP-BDG-1/
+5_Policy/1_Building/BAP-BDG-2/
+5_Policy/1_Building/BAP-BDG-3/
+5_Policy/1_Building/BAP-BDG-4/
+5_Policy/1_Building/BAP-BDG-5/
+5_Policy/1_Building/BAP-BDG-6/
+
+#------ Transport
+5_Policy/2_Transport/BAP-TRA-1/
+5_Policy/2_Transport/BAP-TRA-2/
+5_Policy/2_Transport/BAP-TRA-3/
+5_Policy/2_Transport/BAP-TRA-4/
+5_Policy/2_Transport/BAP-TRA-5/
+
+#------ Waste
+
+#------ Energy
+5_Policy/4_Energy/BAP-ENE-1/
+5_Policy/4_Energy/BAP-ENE-2/
+
+#---------------------------Net zero by 2050----------------------------
+
+#------ Building
+5_Policy/1_Building/NZ50-BDG-1/
+5_Policy/1_Building/NZ50-BDG-2/
+5_Policy/1_Building/NZ50-BDG-3/
+5_Policy/1_Building/NZ50-BDG-4/
+5_Policy/1_Building/NZ50-BDG-5/
+5_Policy/1_Building/NZ50-BDG-6/
+5_Policy/1_Building/NZ50-BDG-7/
+5_Policy/1_Building/NZ50-BDG-8/
+5_Policy/1_Building/NZ50-BDG-9/
+5_Policy/1_Building/NZ50-BDG-10/
+5_Policy/1_Building/NZ50-BDG-11/
+5_Policy/1_Building/NZ50-BDG-12/
+5_Policy/1_Building/NZ50-BDG-13/
+5_Policy/1_Building/NZ50-BDG-14/
+5_Policy/1_Building/NZ50-BDG-15/
+
+#------ Transport
+5_Policy/2_Transport/NZ50-TRA-1/
+5_Policy/2_Transport/NZ50-TRA-2/
+5_Policy/2_Transport/NZ50-TRA-3/
+5_Policy/2_Transport/NZ50-TRA-4/
+5_Policy/2_Transport/NZ50-TRA-5/
+5_Policy/2_Transport/NZ50-TRA-6/
+5_Policy/2_Transport/NZ50-TRA-7/
+5_Policy/2_Transport/NZ50-TRA-8/
+5_Policy/2_Transport/NZ50-TRA-9/
+5_Policy/2_Transport/NZ50-TRA-10/
+5_Policy/2_Transport/NZ50-TRA-11/
+5_Policy/2_Transport/NZ50-TRA-12/
+5_Policy/2_Transport/NZ50-TRA-13/
+
+#------ Waste
+
+#------ Energy
+5_Policy/4_Energy/NZ50-ENE-1/
+5_Policy/4_Energy/NZ50-ENE-2/
+5_Policy/4_Energy/NZ50-ENE-3/
+
+#----------------------------Net zero by 2040---------------------------
+
+#------ Building
+5_Policy/1_Building/NZ40-BDG-1/
+5_Policy/1_Building/NZ40-BDG-2/
+5_Policy/1_Building/NZ40-BDG-3/
+5_Policy/1_Building/NZ40-BDG-4/
+
+#------ Transport
+5_Policy/2_Transport/NZ40-TRA-1/
+5_Policy/2_Transport/NZ40-TRA-2/
+5_Policy/2_Transport/NZ40-TRA-3/
+5_Policy/2_Transport/NZ40-TRA-4/
+5_Policy/2_Transport/NZ40-TRA-5/
+
+
+#------ Waste
+
+
+#------ Energy
+5_Policy/4_Energy/NZ40-ENE-1/
+
+
+#----------------------------Net zero 2040 POPT-------------------------
+
+5_Policy/4_Energy/NZ40-POPT-ENE/
+
+#----------------------------Net zero 2050 POPT-------------------------
+
+5_Policy/4_Energy/NZ50-POPT-ENE/

@@ -1,0 +1,33 @@
+regions,tech,life,life_notes
+TO,SLDWASLDFGLAGG_EX,200,SolidWasteLandfillGreen LaneAggregate demand
+TO,SLDWASLDFGLGEN_EX,200,SolidWasteLandfillGreen LaneBiogas generation
+TO,SLDWASLDFGLCAP_EX,50,SolidWasteLandfillGreen LaneBiogas capture
+TO,SLDWASLDFGLFLR_EX,200,SolidWasteLandfillGreen LaneFlaring
+TO,SLDWASLDFBWGEN_EX,200,SolidWasteHistorical LF wasteBrock WestBiogas generation
+TO,SLDWASLDFBWLEK_EX,200,SolidWasteLandfillBrock WestLeaking
+TO,SLDWASLDFKVGEN_EX,200,SolidWasteHistorical LF wasteKeele ValleyBiogas generation
+TO,SLDWASLDFKVCAP_EX,50,SolidWasteLandfillKeele ValleyBiogas capture
+TO,SLDWASLDFKVFLR_EX,200,SolidWasteLandfillKeele ValleyFlaring
+TO,SLDWASLDFBRGEN_EX,200,SolidWasteHistorical LF wasteBeare RdBiogas generation
+TO,SLDWASLDFBRCAP_EX,50,SolidWasteLandfillBeare RdBiogas capture
+TO,SLDWASLDFBRFLR_EX,200,SolidWasteLandfillBeare RdFlaring
+TO,SLDWASLDFTKGEN_EX,200,SolidWasteHistorical LF wasteThackerayBiogas generation
+TO,SLDWASLDFTKLEK_EX,200,SolidWasteLandfillThackerayLeaking
+TO,SLDWASLDFAHGEN_EX,200,SolidWasteHistorical LF wasteMI - Arbor HillsBiogas generation
+TO,SLDWASLDFAHCAP_EX,50,SolidWasteLandfillMI - Arbor HillsBiogas capture
+TO,SLDWASLDFAHFLR_EX,200,SolidWasteLandfillMI - Arbor HillsFlaring
+TO,SLDWASLDFCFGEN_EX,200,SolidWasteHistorical LF wasteMI - Carleton farmsBiogas generation
+TO,SLDWASLDFCFCAP_EX,50,SolidWasteLandfillMI - Carleton farmsBiogas capture
+TO,SLDWASLDFCFFLR_EX,200,SolidWasteLandfillMI - Carleton farmsFlaring
+TO,SLDWASGRBDRTTE_EX,50,SolidWasteGreen BinDisco RoadTons to Energy
+TO,SLDWASGRBDRADI_EX,30,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,SLDWASGRBDRADIMNGA_EX,200,SolidWasteGreen BinDisco RoadAnaerobic Digester
+TO,SLDWASGRBDRUSE_EX,200,SolidWasteGreen BinDisco RoadExport of energy
+TO,SLDWASGRBDRFLR_EX,200,SolidWasteGreen BinDisco RoadFlaring
+TO,SLDWASGRBDFTTE_EX,50,SolidWasteGreen BinDufferinTons to Energy
+TO,SLDWASGRBDFADI_EX,30,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,SLDWASGRBDFADIMNGA_EX,200,SolidWasteGreen BinDufferinAnaerobic Digester
+TO,SLDWASGRBDFUSE_EX,200,SolidWasteGreen BinDufferinExport of energy
+TO,SLDWASGRBDFFLR_EX,200,SolidWasteGreen BinDufferinFlaring
+TO,SLDWASGRBCPGEN_EX,50,SolidWasteGreen BinCompostBiogas generation
+TO,SLDWASGRBCPLEK_EX,50,SolidWasteGreen BinCompostLeaking

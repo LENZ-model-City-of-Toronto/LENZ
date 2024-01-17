@@ -1,0 +1,316 @@
+regions,periods,tech,vintage,cost_variable,cost_variable_units,cost_variable_notes
+TO,2016,WATWASFWSPL,2015,0.0,k$/Mm3a,WaterWasteSplitFresh water
+TO,2016,WATWASCOLRW,2015,0.0,k$/Mm3a,WaterWasteRain collectionRain water
+TO,2016,WATWASSEWWW,2015,0.0,k$/Mm3a,WaterWasteSewer CollectionFresh water
+TO,2016,WATWASPUMWW,2015,151.02904074269375,k$/Mm3a,WaterWastePumpWaste water
+TO,2016,WATWASGRIWW,2015,0.0,k$/Mm3a,WaterWasteGridWaste water
+TO,2016,WATWASSTPWW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantWaste water
+TO,2016,WATWASPUMFW,2015,257.6384303945077,k$/Mm3a,WaterWastePumpFresh water
+TO,2016,WATWASGRIFW,2015,0.0,k$/Mm3a,WaterWasteGridFresh water
+TO,2016,WATWASSTPFW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantFresh water
+TO,2017,WATWASFWSPL,2015,0.0,k$/Mm3a,WaterWasteSplitFresh water
+TO,2017,WATWASCOLRW,2015,0.0,k$/Mm3a,WaterWasteRain collectionRain water
+TO,2017,WATWASSEWWW,2015,0.0,k$/Mm3a,WaterWasteSewer CollectionFresh water
+TO,2017,WATWASPUMWW,2015,151.02904074269375,k$/Mm3a,WaterWastePumpWaste water
+TO,2017,WATWASGRIWW,2015,0.0,k$/Mm3a,WaterWasteGridWaste water
+TO,2017,WATWASSTPWW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantWaste water
+TO,2017,WATWASPUMFW,2015,257.6384303945077,k$/Mm3a,WaterWastePumpFresh water
+TO,2017,WATWASGRIFW,2015,0.0,k$/Mm3a,WaterWasteGridFresh water
+TO,2017,WATWASSTPFW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantFresh water
+TO,2018,WATWASFWSPL,2015,0.0,k$/Mm3a,WaterWasteSplitFresh water
+TO,2018,WATWASCOLRW,2015,0.0,k$/Mm3a,WaterWasteRain collectionRain water
+TO,2018,WATWASSEWWW,2015,0.0,k$/Mm3a,WaterWasteSewer CollectionFresh water
+TO,2018,WATWASPUMWW,2015,151.02904074269375,k$/Mm3a,WaterWastePumpWaste water
+TO,2018,WATWASGRIWW,2015,0.0,k$/Mm3a,WaterWasteGridWaste water
+TO,2018,WATWASSTPWW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantWaste water
+TO,2018,WATWASPUMFW,2015,257.6384303945077,k$/Mm3a,WaterWastePumpFresh water
+TO,2018,WATWASGRIFW,2015,0.0,k$/Mm3a,WaterWasteGridFresh water
+TO,2018,WATWASSTPFW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantFresh water
+TO,2019,WATWASFWSPL,2015,0.0,k$/Mm3a,WaterWasteSplitFresh water
+TO,2019,WATWASCOLRW,2015,0.0,k$/Mm3a,WaterWasteRain collectionRain water
+TO,2019,WATWASSEWWW,2015,0.0,k$/Mm3a,WaterWasteSewer CollectionFresh water
+TO,2019,WATWASPUMWW,2015,151.02904074269375,k$/Mm3a,WaterWastePumpWaste water
+TO,2019,WATWASGRIWW,2015,0.0,k$/Mm3a,WaterWasteGridWaste water
+TO,2019,WATWASSTPWW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantWaste water
+TO,2019,WATWASPUMFW,2015,257.6384303945077,k$/Mm3a,WaterWastePumpFresh water
+TO,2019,WATWASGRIFW,2015,0.0,k$/Mm3a,WaterWasteGridFresh water
+TO,2019,WATWASSTPFW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantFresh water
+TO,2020,WATWASFWSPL,2015,0.0,k$/Mm3a,WaterWasteSplitFresh water
+TO,2020,WATWASCOLRW,2015,0.0,k$/Mm3a,WaterWasteRain collectionRain water
+TO,2020,WATWASSEWWW,2015,0.0,k$/Mm3a,WaterWasteSewer CollectionFresh water
+TO,2020,WATWASPUMWW,2015,151.02904074269375,k$/Mm3a,WaterWastePumpWaste water
+TO,2020,WATWASGRIWW,2015,0.0,k$/Mm3a,WaterWasteGridWaste water
+TO,2020,WATWASSTPWW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantWaste water
+TO,2020,WATWASPUMFW,2015,257.6384303945077,k$/Mm3a,WaterWastePumpFresh water
+TO,2020,WATWASGRIFW,2015,0.0,k$/Mm3a,WaterWasteGridFresh water
+TO,2020,WATWASSTPFW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantFresh water
+TO,2021,WATWASFWSPL,2015,0.0,k$/Mm3a,WaterWasteSplitFresh water
+TO,2021,WATWASCOLRW,2015,0.0,k$/Mm3a,WaterWasteRain collectionRain water
+TO,2021,WATWASSEWWW,2015,0.0,k$/Mm3a,WaterWasteSewer CollectionFresh water
+TO,2021,WATWASPUMWW,2015,151.02904074269375,k$/Mm3a,WaterWastePumpWaste water
+TO,2021,WATWASGRIWW,2015,0.0,k$/Mm3a,WaterWasteGridWaste water
+TO,2021,WATWASSTPWW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantWaste water
+TO,2021,WATWASPUMFW,2015,257.6384303945077,k$/Mm3a,WaterWastePumpFresh water
+TO,2021,WATWASGRIFW,2015,0.0,k$/Mm3a,WaterWasteGridFresh water
+TO,2021,WATWASSTPFW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantFresh water
+TO,2022,WATWASFWSPL,2015,0.0,k$/Mm3a,WaterWasteSplitFresh water
+TO,2022,WATWASCOLRW,2015,0.0,k$/Mm3a,WaterWasteRain collectionRain water
+TO,2022,WATWASSEWWW,2015,0.0,k$/Mm3a,WaterWasteSewer CollectionFresh water
+TO,2022,WATWASPUMWW,2015,151.02904074269375,k$/Mm3a,WaterWastePumpWaste water
+TO,2022,WATWASGRIWW,2015,0.0,k$/Mm3a,WaterWasteGridWaste water
+TO,2022,WATWASSTPWW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantWaste water
+TO,2022,WATWASPUMFW,2015,257.6384303945077,k$/Mm3a,WaterWastePumpFresh water
+TO,2022,WATWASGRIFW,2015,0.0,k$/Mm3a,WaterWasteGridFresh water
+TO,2022,WATWASSTPFW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantFresh water
+TO,2023,WATWASFWSPL,2015,0.0,k$/Mm3a,WaterWasteSplitFresh water
+TO,2023,WATWASCOLRW,2015,0.0,k$/Mm3a,WaterWasteRain collectionRain water
+TO,2023,WATWASSEWWW,2015,0.0,k$/Mm3a,WaterWasteSewer CollectionFresh water
+TO,2023,WATWASPUMWW,2015,151.02904074269375,k$/Mm3a,WaterWastePumpWaste water
+TO,2023,WATWASGRIWW,2015,0.0,k$/Mm3a,WaterWasteGridWaste water
+TO,2023,WATWASSTPWW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantWaste water
+TO,2023,WATWASPUMFW,2015,257.6384303945077,k$/Mm3a,WaterWastePumpFresh water
+TO,2023,WATWASGRIFW,2015,0.0,k$/Mm3a,WaterWasteGridFresh water
+TO,2023,WATWASSTPFW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantFresh water
+TO,2024,WATWASFWSPL,2015,0.0,k$/Mm3a,WaterWasteSplitFresh water
+TO,2024,WATWASCOLRW,2015,0.0,k$/Mm3a,WaterWasteRain collectionRain water
+TO,2024,WATWASSEWWW,2015,0.0,k$/Mm3a,WaterWasteSewer CollectionFresh water
+TO,2024,WATWASPUMWW,2015,151.02904074269375,k$/Mm3a,WaterWastePumpWaste water
+TO,2024,WATWASGRIWW,2015,0.0,k$/Mm3a,WaterWasteGridWaste water
+TO,2024,WATWASSTPWW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantWaste water
+TO,2024,WATWASPUMFW,2015,257.6384303945077,k$/Mm3a,WaterWastePumpFresh water
+TO,2024,WATWASGRIFW,2015,0.0,k$/Mm3a,WaterWasteGridFresh water
+TO,2024,WATWASSTPFW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantFresh water
+TO,2025,WATWASFWSPL,2015,0.0,k$/Mm3a,WaterWasteSplitFresh water
+TO,2025,WATWASCOLRW,2015,0.0,k$/Mm3a,WaterWasteRain collectionRain water
+TO,2025,WATWASSEWWW,2015,0.0,k$/Mm3a,WaterWasteSewer CollectionFresh water
+TO,2025,WATWASPUMWW,2015,151.02904074269375,k$/Mm3a,WaterWastePumpWaste water
+TO,2025,WATWASGRIWW,2015,0.0,k$/Mm3a,WaterWasteGridWaste water
+TO,2025,WATWASSTPWW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantWaste water
+TO,2025,WATWASPUMFW,2015,257.6384303945077,k$/Mm3a,WaterWastePumpFresh water
+TO,2025,WATWASGRIFW,2015,0.0,k$/Mm3a,WaterWasteGridFresh water
+TO,2025,WATWASSTPFW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantFresh water
+TO,2026,WATWASFWSPL,2015,0.0,k$/Mm3a,WaterWasteSplitFresh water
+TO,2026,WATWASCOLRW,2015,0.0,k$/Mm3a,WaterWasteRain collectionRain water
+TO,2026,WATWASSEWWW,2015,0.0,k$/Mm3a,WaterWasteSewer CollectionFresh water
+TO,2026,WATWASPUMWW,2015,151.02904074269375,k$/Mm3a,WaterWastePumpWaste water
+TO,2026,WATWASGRIWW,2015,0.0,k$/Mm3a,WaterWasteGridWaste water
+TO,2026,WATWASSTPWW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantWaste water
+TO,2026,WATWASPUMFW,2015,257.6384303945077,k$/Mm3a,WaterWastePumpFresh water
+TO,2026,WATWASGRIFW,2015,0.0,k$/Mm3a,WaterWasteGridFresh water
+TO,2026,WATWASSTPFW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantFresh water
+TO,2027,WATWASFWSPL,2015,0.0,k$/Mm3a,WaterWasteSplitFresh water
+TO,2027,WATWASCOLRW,2015,0.0,k$/Mm3a,WaterWasteRain collectionRain water
+TO,2027,WATWASSEWWW,2015,0.0,k$/Mm3a,WaterWasteSewer CollectionFresh water
+TO,2027,WATWASPUMWW,2015,151.02904074269375,k$/Mm3a,WaterWastePumpWaste water
+TO,2027,WATWASGRIWW,2015,0.0,k$/Mm3a,WaterWasteGridWaste water
+TO,2027,WATWASSTPWW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantWaste water
+TO,2027,WATWASPUMFW,2015,257.6384303945077,k$/Mm3a,WaterWastePumpFresh water
+TO,2027,WATWASGRIFW,2015,0.0,k$/Mm3a,WaterWasteGridFresh water
+TO,2027,WATWASSTPFW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantFresh water
+TO,2028,WATWASFWSPL,2015,0.0,k$/Mm3a,WaterWasteSplitFresh water
+TO,2028,WATWASCOLRW,2015,0.0,k$/Mm3a,WaterWasteRain collectionRain water
+TO,2028,WATWASSEWWW,2015,0.0,k$/Mm3a,WaterWasteSewer CollectionFresh water
+TO,2028,WATWASPUMWW,2015,151.02904074269375,k$/Mm3a,WaterWastePumpWaste water
+TO,2028,WATWASGRIWW,2015,0.0,k$/Mm3a,WaterWasteGridWaste water
+TO,2028,WATWASSTPWW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantWaste water
+TO,2028,WATWASPUMFW,2015,257.6384303945077,k$/Mm3a,WaterWastePumpFresh water
+TO,2028,WATWASGRIFW,2015,0.0,k$/Mm3a,WaterWasteGridFresh water
+TO,2028,WATWASSTPFW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantFresh water
+TO,2029,WATWASFWSPL,2015,0.0,k$/Mm3a,WaterWasteSplitFresh water
+TO,2029,WATWASCOLRW,2015,0.0,k$/Mm3a,WaterWasteRain collectionRain water
+TO,2029,WATWASSEWWW,2015,0.0,k$/Mm3a,WaterWasteSewer CollectionFresh water
+TO,2029,WATWASPUMWW,2015,151.02904074269375,k$/Mm3a,WaterWastePumpWaste water
+TO,2029,WATWASGRIWW,2015,0.0,k$/Mm3a,WaterWasteGridWaste water
+TO,2029,WATWASSTPWW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantWaste water
+TO,2029,WATWASPUMFW,2015,257.6384303945077,k$/Mm3a,WaterWastePumpFresh water
+TO,2029,WATWASGRIFW,2015,0.0,k$/Mm3a,WaterWasteGridFresh water
+TO,2029,WATWASSTPFW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantFresh water
+TO,2030,WATWASFWSPL,2015,0.0,k$/Mm3a,WaterWasteSplitFresh water
+TO,2030,WATWASCOLRW,2015,0.0,k$/Mm3a,WaterWasteRain collectionRain water
+TO,2030,WATWASSEWWW,2015,0.0,k$/Mm3a,WaterWasteSewer CollectionFresh water
+TO,2030,WATWASPUMWW,2015,151.02904074269375,k$/Mm3a,WaterWastePumpWaste water
+TO,2030,WATWASGRIWW,2015,0.0,k$/Mm3a,WaterWasteGridWaste water
+TO,2030,WATWASSTPWW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantWaste water
+TO,2030,WATWASPUMFW,2015,257.6384303945077,k$/Mm3a,WaterWastePumpFresh water
+TO,2030,WATWASGRIFW,2015,0.0,k$/Mm3a,WaterWasteGridFresh water
+TO,2030,WATWASSTPFW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantFresh water
+TO,2031,WATWASFWSPL,2015,0.0,k$/Mm3a,WaterWasteSplitFresh water
+TO,2031,WATWASCOLRW,2015,0.0,k$/Mm3a,WaterWasteRain collectionRain water
+TO,2031,WATWASSEWWW,2015,0.0,k$/Mm3a,WaterWasteSewer CollectionFresh water
+TO,2031,WATWASPUMWW,2015,151.02904074269375,k$/Mm3a,WaterWastePumpWaste water
+TO,2031,WATWASGRIWW,2015,0.0,k$/Mm3a,WaterWasteGridWaste water
+TO,2031,WATWASSTPWW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantWaste water
+TO,2031,WATWASPUMFW,2015,257.6384303945077,k$/Mm3a,WaterWastePumpFresh water
+TO,2031,WATWASGRIFW,2015,0.0,k$/Mm3a,WaterWasteGridFresh water
+TO,2031,WATWASSTPFW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantFresh water
+TO,2032,WATWASFWSPL,2015,0.0,k$/Mm3a,WaterWasteSplitFresh water
+TO,2032,WATWASCOLRW,2015,0.0,k$/Mm3a,WaterWasteRain collectionRain water
+TO,2032,WATWASSEWWW,2015,0.0,k$/Mm3a,WaterWasteSewer CollectionFresh water
+TO,2032,WATWASPUMWW,2015,151.02904074269375,k$/Mm3a,WaterWastePumpWaste water
+TO,2032,WATWASGRIWW,2015,0.0,k$/Mm3a,WaterWasteGridWaste water
+TO,2032,WATWASSTPWW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantWaste water
+TO,2032,WATWASPUMFW,2015,257.6384303945077,k$/Mm3a,WaterWastePumpFresh water
+TO,2032,WATWASGRIFW,2015,0.0,k$/Mm3a,WaterWasteGridFresh water
+TO,2032,WATWASSTPFW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantFresh water
+TO,2033,WATWASFWSPL,2015,0.0,k$/Mm3a,WaterWasteSplitFresh water
+TO,2033,WATWASCOLRW,2015,0.0,k$/Mm3a,WaterWasteRain collectionRain water
+TO,2033,WATWASSEWWW,2015,0.0,k$/Mm3a,WaterWasteSewer CollectionFresh water
+TO,2033,WATWASPUMWW,2015,151.02904074269375,k$/Mm3a,WaterWastePumpWaste water
+TO,2033,WATWASGRIWW,2015,0.0,k$/Mm3a,WaterWasteGridWaste water
+TO,2033,WATWASSTPWW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantWaste water
+TO,2033,WATWASPUMFW,2015,257.6384303945077,k$/Mm3a,WaterWastePumpFresh water
+TO,2033,WATWASGRIFW,2015,0.0,k$/Mm3a,WaterWasteGridFresh water
+TO,2033,WATWASSTPFW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantFresh water
+TO,2034,WATWASFWSPL,2015,0.0,k$/Mm3a,WaterWasteSplitFresh water
+TO,2034,WATWASCOLRW,2015,0.0,k$/Mm3a,WaterWasteRain collectionRain water
+TO,2034,WATWASSEWWW,2015,0.0,k$/Mm3a,WaterWasteSewer CollectionFresh water
+TO,2034,WATWASPUMWW,2015,151.02904074269375,k$/Mm3a,WaterWastePumpWaste water
+TO,2034,WATWASGRIWW,2015,0.0,k$/Mm3a,WaterWasteGridWaste water
+TO,2034,WATWASSTPWW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantWaste water
+TO,2034,WATWASPUMFW,2015,257.6384303945077,k$/Mm3a,WaterWastePumpFresh water
+TO,2034,WATWASGRIFW,2015,0.0,k$/Mm3a,WaterWasteGridFresh water
+TO,2034,WATWASSTPFW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantFresh water
+TO,2035,WATWASFWSPL,2015,0.0,k$/Mm3a,WaterWasteSplitFresh water
+TO,2035,WATWASCOLRW,2015,0.0,k$/Mm3a,WaterWasteRain collectionRain water
+TO,2035,WATWASSEWWW,2015,0.0,k$/Mm3a,WaterWasteSewer CollectionFresh water
+TO,2035,WATWASPUMWW,2015,151.02904074269375,k$/Mm3a,WaterWastePumpWaste water
+TO,2035,WATWASGRIWW,2015,0.0,k$/Mm3a,WaterWasteGridWaste water
+TO,2035,WATWASSTPWW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantWaste water
+TO,2035,WATWASPUMFW,2015,257.6384303945077,k$/Mm3a,WaterWastePumpFresh water
+TO,2035,WATWASGRIFW,2015,0.0,k$/Mm3a,WaterWasteGridFresh water
+TO,2035,WATWASSTPFW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantFresh water
+TO,2036,WATWASFWSPL,2015,0.0,k$/Mm3a,WaterWasteSplitFresh water
+TO,2036,WATWASCOLRW,2015,0.0,k$/Mm3a,WaterWasteRain collectionRain water
+TO,2036,WATWASSEWWW,2015,0.0,k$/Mm3a,WaterWasteSewer CollectionFresh water
+TO,2036,WATWASPUMWW,2015,151.02904074269375,k$/Mm3a,WaterWastePumpWaste water
+TO,2036,WATWASGRIWW,2015,0.0,k$/Mm3a,WaterWasteGridWaste water
+TO,2036,WATWASSTPWW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantWaste water
+TO,2036,WATWASPUMFW,2015,257.6384303945077,k$/Mm3a,WaterWastePumpFresh water
+TO,2036,WATWASGRIFW,2015,0.0,k$/Mm3a,WaterWasteGridFresh water
+TO,2036,WATWASSTPFW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantFresh water
+TO,2037,WATWASFWSPL,2015,0.0,k$/Mm3a,WaterWasteSplitFresh water
+TO,2037,WATWASCOLRW,2015,0.0,k$/Mm3a,WaterWasteRain collectionRain water
+TO,2037,WATWASSEWWW,2015,0.0,k$/Mm3a,WaterWasteSewer CollectionFresh water
+TO,2037,WATWASPUMWW,2015,151.02904074269375,k$/Mm3a,WaterWastePumpWaste water
+TO,2037,WATWASGRIWW,2015,0.0,k$/Mm3a,WaterWasteGridWaste water
+TO,2037,WATWASSTPWW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantWaste water
+TO,2037,WATWASPUMFW,2015,257.6384303945077,k$/Mm3a,WaterWastePumpFresh water
+TO,2037,WATWASGRIFW,2015,0.0,k$/Mm3a,WaterWasteGridFresh water
+TO,2037,WATWASSTPFW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantFresh water
+TO,2038,WATWASFWSPL,2015,0.0,k$/Mm3a,WaterWasteSplitFresh water
+TO,2038,WATWASCOLRW,2015,0.0,k$/Mm3a,WaterWasteRain collectionRain water
+TO,2038,WATWASSEWWW,2015,0.0,k$/Mm3a,WaterWasteSewer CollectionFresh water
+TO,2038,WATWASPUMWW,2015,151.02904074269375,k$/Mm3a,WaterWastePumpWaste water
+TO,2038,WATWASGRIWW,2015,0.0,k$/Mm3a,WaterWasteGridWaste water
+TO,2038,WATWASSTPWW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantWaste water
+TO,2038,WATWASPUMFW,2015,257.6384303945077,k$/Mm3a,WaterWastePumpFresh water
+TO,2038,WATWASGRIFW,2015,0.0,k$/Mm3a,WaterWasteGridFresh water
+TO,2038,WATWASSTPFW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantFresh water
+TO,2039,WATWASFWSPL,2015,0.0,k$/Mm3a,WaterWasteSplitFresh water
+TO,2039,WATWASCOLRW,2015,0.0,k$/Mm3a,WaterWasteRain collectionRain water
+TO,2039,WATWASSEWWW,2015,0.0,k$/Mm3a,WaterWasteSewer CollectionFresh water
+TO,2039,WATWASPUMWW,2015,151.02904074269375,k$/Mm3a,WaterWastePumpWaste water
+TO,2039,WATWASGRIWW,2015,0.0,k$/Mm3a,WaterWasteGridWaste water
+TO,2039,WATWASSTPWW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantWaste water
+TO,2039,WATWASPUMFW,2015,257.6384303945077,k$/Mm3a,WaterWastePumpFresh water
+TO,2039,WATWASGRIFW,2015,0.0,k$/Mm3a,WaterWasteGridFresh water
+TO,2039,WATWASSTPFW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantFresh water
+TO,2040,WATWASFWSPL,2015,0.0,k$/Mm3a,WaterWasteSplitFresh water
+TO,2040,WATWASCOLRW,2015,0.0,k$/Mm3a,WaterWasteRain collectionRain water
+TO,2040,WATWASSEWWW,2015,0.0,k$/Mm3a,WaterWasteSewer CollectionFresh water
+TO,2040,WATWASPUMWW,2015,151.02904074269375,k$/Mm3a,WaterWastePumpWaste water
+TO,2040,WATWASGRIWW,2015,0.0,k$/Mm3a,WaterWasteGridWaste water
+TO,2040,WATWASSTPWW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantWaste water
+TO,2040,WATWASPUMFW,2015,257.6384303945077,k$/Mm3a,WaterWastePumpFresh water
+TO,2040,WATWASGRIFW,2015,0.0,k$/Mm3a,WaterWasteGridFresh water
+TO,2040,WATWASSTPFW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantFresh water
+TO,2041,WATWASFWSPL,2015,0.0,k$/Mm3a,WaterWasteSplitFresh water
+TO,2041,WATWASCOLRW,2015,0.0,k$/Mm3a,WaterWasteRain collectionRain water
+TO,2041,WATWASSEWWW,2015,0.0,k$/Mm3a,WaterWasteSewer CollectionFresh water
+TO,2041,WATWASPUMWW,2015,151.02904074269375,k$/Mm3a,WaterWastePumpWaste water
+TO,2041,WATWASGRIWW,2015,0.0,k$/Mm3a,WaterWasteGridWaste water
+TO,2041,WATWASSTPWW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantWaste water
+TO,2041,WATWASPUMFW,2015,257.6384303945077,k$/Mm3a,WaterWastePumpFresh water
+TO,2041,WATWASGRIFW,2015,0.0,k$/Mm3a,WaterWasteGridFresh water
+TO,2041,WATWASSTPFW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantFresh water
+TO,2042,WATWASFWSPL,2015,0.0,k$/Mm3a,WaterWasteSplitFresh water
+TO,2042,WATWASCOLRW,2015,0.0,k$/Mm3a,WaterWasteRain collectionRain water
+TO,2042,WATWASSEWWW,2015,0.0,k$/Mm3a,WaterWasteSewer CollectionFresh water
+TO,2042,WATWASPUMWW,2015,151.02904074269375,k$/Mm3a,WaterWastePumpWaste water
+TO,2042,WATWASGRIWW,2015,0.0,k$/Mm3a,WaterWasteGridWaste water
+TO,2042,WATWASSTPWW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantWaste water
+TO,2042,WATWASPUMFW,2015,257.6384303945077,k$/Mm3a,WaterWastePumpFresh water
+TO,2042,WATWASGRIFW,2015,0.0,k$/Mm3a,WaterWasteGridFresh water
+TO,2042,WATWASSTPFW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantFresh water
+TO,2043,WATWASFWSPL,2015,0.0,k$/Mm3a,WaterWasteSplitFresh water
+TO,2043,WATWASCOLRW,2015,0.0,k$/Mm3a,WaterWasteRain collectionRain water
+TO,2043,WATWASSEWWW,2015,0.0,k$/Mm3a,WaterWasteSewer CollectionFresh water
+TO,2043,WATWASPUMWW,2015,151.02904074269375,k$/Mm3a,WaterWastePumpWaste water
+TO,2043,WATWASGRIWW,2015,0.0,k$/Mm3a,WaterWasteGridWaste water
+TO,2043,WATWASSTPWW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantWaste water
+TO,2043,WATWASPUMFW,2015,257.6384303945077,k$/Mm3a,WaterWastePumpFresh water
+TO,2043,WATWASGRIFW,2015,0.0,k$/Mm3a,WaterWasteGridFresh water
+TO,2043,WATWASSTPFW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantFresh water
+TO,2044,WATWASFWSPL,2015,0.0,k$/Mm3a,WaterWasteSplitFresh water
+TO,2044,WATWASCOLRW,2015,0.0,k$/Mm3a,WaterWasteRain collectionRain water
+TO,2044,WATWASSEWWW,2015,0.0,k$/Mm3a,WaterWasteSewer CollectionFresh water
+TO,2044,WATWASPUMWW,2015,151.02904074269375,k$/Mm3a,WaterWastePumpWaste water
+TO,2044,WATWASGRIWW,2015,0.0,k$/Mm3a,WaterWasteGridWaste water
+TO,2044,WATWASSTPWW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantWaste water
+TO,2044,WATWASPUMFW,2015,257.6384303945077,k$/Mm3a,WaterWastePumpFresh water
+TO,2044,WATWASGRIFW,2015,0.0,k$/Mm3a,WaterWasteGridFresh water
+TO,2044,WATWASSTPFW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantFresh water
+TO,2045,WATWASFWSPL,2015,0.0,k$/Mm3a,WaterWasteSplitFresh water
+TO,2045,WATWASCOLRW,2015,0.0,k$/Mm3a,WaterWasteRain collectionRain water
+TO,2045,WATWASSEWWW,2015,0.0,k$/Mm3a,WaterWasteSewer CollectionFresh water
+TO,2045,WATWASPUMWW,2015,151.02904074269375,k$/Mm3a,WaterWastePumpWaste water
+TO,2045,WATWASGRIWW,2015,0.0,k$/Mm3a,WaterWasteGridWaste water
+TO,2045,WATWASSTPWW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantWaste water
+TO,2045,WATWASPUMFW,2015,257.6384303945077,k$/Mm3a,WaterWastePumpFresh water
+TO,2045,WATWASGRIFW,2015,0.0,k$/Mm3a,WaterWasteGridFresh water
+TO,2045,WATWASSTPFW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantFresh water
+TO,2046,WATWASFWSPL,2015,0.0,k$/Mm3a,WaterWasteSplitFresh water
+TO,2046,WATWASCOLRW,2015,0.0,k$/Mm3a,WaterWasteRain collectionRain water
+TO,2046,WATWASSEWWW,2015,0.0,k$/Mm3a,WaterWasteSewer CollectionFresh water
+TO,2046,WATWASPUMWW,2015,151.02904074269375,k$/Mm3a,WaterWastePumpWaste water
+TO,2046,WATWASGRIWW,2015,0.0,k$/Mm3a,WaterWasteGridWaste water
+TO,2046,WATWASSTPWW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantWaste water
+TO,2046,WATWASPUMFW,2015,257.6384303945077,k$/Mm3a,WaterWastePumpFresh water
+TO,2046,WATWASGRIFW,2015,0.0,k$/Mm3a,WaterWasteGridFresh water
+TO,2046,WATWASSTPFW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantFresh water
+TO,2047,WATWASFWSPL,2015,0.0,k$/Mm3a,WaterWasteSplitFresh water
+TO,2047,WATWASCOLRW,2015,0.0,k$/Mm3a,WaterWasteRain collectionRain water
+TO,2047,WATWASSEWWW,2015,0.0,k$/Mm3a,WaterWasteSewer CollectionFresh water
+TO,2047,WATWASPUMWW,2015,151.02904074269375,k$/Mm3a,WaterWastePumpWaste water
+TO,2047,WATWASGRIWW,2015,0.0,k$/Mm3a,WaterWasteGridWaste water
+TO,2047,WATWASSTPWW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantWaste water
+TO,2047,WATWASPUMFW,2015,257.6384303945077,k$/Mm3a,WaterWastePumpFresh water
+TO,2047,WATWASGRIFW,2015,0.0,k$/Mm3a,WaterWasteGridFresh water
+TO,2047,WATWASSTPFW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantFresh water
+TO,2048,WATWASFWSPL,2015,0.0,k$/Mm3a,WaterWasteSplitFresh water
+TO,2048,WATWASCOLRW,2015,0.0,k$/Mm3a,WaterWasteRain collectionRain water
+TO,2048,WATWASSEWWW,2015,0.0,k$/Mm3a,WaterWasteSewer CollectionFresh water
+TO,2048,WATWASPUMWW,2015,151.02904074269375,k$/Mm3a,WaterWastePumpWaste water
+TO,2048,WATWASGRIWW,2015,0.0,k$/Mm3a,WaterWasteGridWaste water
+TO,2048,WATWASSTPWW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantWaste water
+TO,2048,WATWASPUMFW,2015,257.6384303945077,k$/Mm3a,WaterWastePumpFresh water
+TO,2048,WATWASGRIFW,2015,0.0,k$/Mm3a,WaterWasteGridFresh water
+TO,2048,WATWASSTPFW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantFresh water
+TO,2049,WATWASFWSPL,2015,0.0,k$/Mm3a,WaterWasteSplitFresh water
+TO,2049,WATWASCOLRW,2015,0.0,k$/Mm3a,WaterWasteRain collectionRain water
+TO,2049,WATWASSEWWW,2015,0.0,k$/Mm3a,WaterWasteSewer CollectionFresh water
+TO,2049,WATWASPUMWW,2015,151.02904074269375,k$/Mm3a,WaterWastePumpWaste water
+TO,2049,WATWASGRIWW,2015,0.0,k$/Mm3a,WaterWasteGridWaste water
+TO,2049,WATWASSTPWW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantWaste water
+TO,2049,WATWASPUMFW,2015,257.6384303945077,k$/Mm3a,WaterWastePumpFresh water
+TO,2049,WATWASGRIFW,2015,0.0,k$/Mm3a,WaterWasteGridFresh water
+TO,2049,WATWASSTPFW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantFresh water
+TO,2050,WATWASFWSPL,2015,0.0,k$/Mm3a,WaterWasteSplitFresh water
+TO,2050,WATWASCOLRW,2015,0.0,k$/Mm3a,WaterWasteRain collectionRain water
+TO,2050,WATWASSEWWW,2015,0.0,k$/Mm3a,WaterWasteSewer CollectionFresh water
+TO,2050,WATWASPUMWW,2015,151.02904074269375,k$/Mm3a,WaterWastePumpWaste water
+TO,2050,WATWASGRIWW,2015,0.0,k$/Mm3a,WaterWasteGridWaste water
+TO,2050,WATWASSTPWW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantWaste water
+TO,2050,WATWASPUMFW,2015,257.6384303945077,k$/Mm3a,WaterWastePumpFresh water
+TO,2050,WATWASGRIFW,2015,0.0,k$/Mm3a,WaterWasteGridFresh water
+TO,2050,WATWASSTPFW,2015,0.0,k$/Mm3a,WaterWasteSplit Treatment PlantFresh water

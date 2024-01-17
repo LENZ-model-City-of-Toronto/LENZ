@@ -1,0 +1,14 @@
+name: linking_tool
+channels:
+  - defaults
+dependencies:
+  - python
+  - xlwings
+  - sqlite
+  - pip:
+    - pip
+    - numpy
+    - openpyxl
+    - pandas
+    - ipython
+prefix: C:\

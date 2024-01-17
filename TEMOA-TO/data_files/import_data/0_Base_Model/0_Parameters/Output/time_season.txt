@@ -1,0 +1,4 @@
+INSERT INTO`time_season`VALUES('W');
+INSERT INTO`time_season`VALUES('F');
+INSERT INTO`time_season`VALUES('S');
+INSERT INTO`time_season`VALUES('R');

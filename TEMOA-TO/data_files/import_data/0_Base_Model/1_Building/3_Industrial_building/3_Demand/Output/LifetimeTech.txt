@@ -1,0 +1,5 @@
+INSERT INTO`LifetimeTech`VALUES('TO','INDBDGLI',200,'IndustryBuildingLighting');
+INSERT INTO`LifetimeTech`VALUES('TO','INDBDGSC',200,'IndustryBuildingSpace Cooling');
+INSERT INTO`LifetimeTech`VALUES('TO','INDBDGIP',200,'IndustryBuildingIndustrial Processes');
+INSERT INTO`LifetimeTech`VALUES('TO','INDBDGSH',200,'IndustryBuildingSpace Heating');
+INSERT INTO`LifetimeTech`VALUES('TO','INDBDGWH',200,'IndustryBuildingWater Heating');

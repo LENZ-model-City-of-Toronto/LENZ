@@ -1,0 +1,4 @@
+INSERT INTO`CapacityToActivity`VALUES('TO','SLDWASGRB',1,'nan');
+INSERT INTO`CapacityToActivity`VALUES('TO','SLDWASLDFGL',1,'nan');
+INSERT INTO`CapacityToActivity`VALUES('TO','TOSLDWASETHOS',1,'nan');
+INSERT INTO`CapacityToActivity`VALUES('TO','TORECSLDASETHOS',1,'nan');

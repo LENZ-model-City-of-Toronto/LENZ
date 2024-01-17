@@ -1,0 +1,5 @@
+INSERT INTO`technologies`VALUES('INDBDGLI','p','INDBDG','IndustryBuildingLighting','nan');
+INSERT INTO`technologies`VALUES('INDBDGSC','p','INDBDG','IndustryBuildingSpace Cooling','nan');
+INSERT INTO`technologies`VALUES('INDBDGIP','p','INDBDG','IndustryBuildingIndustrial Processes','nan');
+INSERT INTO`technologies`VALUES('INDBDGSH','p','INDBDG','IndustryBuildingSpace Heating','nan');
+INSERT INTO`technologies`VALUES('INDBDGWH','p','INDBDG','IndustryBuildingWater Heating','nan');

@@ -1,0 +1,9 @@
+INSERT INTO`tech_groups`VALUES('RESBDGNGAIMP','nan','nan');
+INSERT INTO`tech_groups`VALUES('RESBDGHH2IMP','nan','nan');
+INSERT INTO`tech_groups`VALUES('RESBDGHH2EXP','nan','nan');
+INSERT INTO`tech_groups`VALUES('COMBDGNGAIMP','nan','nan');
+INSERT INTO`tech_groups`VALUES('COMBDGHH2IMP','nan','nan');
+INSERT INTO`tech_groups`VALUES('COMBDGHH2EXP','nan','nan');
+INSERT INTO`tech_groups`VALUES('PUBBDGNGAIMP','nan','nan');
+INSERT INTO`tech_groups`VALUES('PUBBDGHH2IMP','nan','nan');
+INSERT INTO`tech_groups`VALUES('PUBBDGHH2EXP','nan','nan');

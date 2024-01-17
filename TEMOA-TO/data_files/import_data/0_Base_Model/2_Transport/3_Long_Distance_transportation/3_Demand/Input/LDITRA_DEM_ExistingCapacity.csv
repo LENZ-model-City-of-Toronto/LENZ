@@ -1,0 +1,11 @@
+regions,tech,vintage,exist_cap,exist_cap_units,exist_cap_notes
+TO,LDITRADOMROACAR___,2015,10000000000,,Long DistanceTransportationDomesticRoadCars
+TO,LDITRADOMROATRULGT,2015,10000000000,,Long DistanceTransportationDomesticRoadTruckPassenger Light Trucks
+TO,LDITRADOMROABUSIUB,2015,10000000000,,Long DistanceTransportationDomesticRoadInter-city BusesInter Urban Bus
+TO,LDITRADOMAIR______,2015,10000000000,,Long DistanceTransportationDomesticAir
+TO,LDITRADOMRAI______,2015,10000000000,,Long DistanceTransportationDomesticRail
+TO,LDITRAINTROACAR___,2015,10000000000,,Long DistanceTransportationInternationalRoadCars
+TO,LDITRAINTROATRULGT,2015,10000000000,,Long DistanceTransportationInternationalRoadTruckPassenger Light Trucks
+TO,LDITRAINTROABUSIUB,2015,10000000000,,Long DistanceTransportationInternationalRoadInter-city BusesInter Urban Bus
+TO,LDITRAINTAIR______,2015,10000000000,,Long DistanceTransportationInternationalAir
+TO,LDITRAINTRAI______,2015,10000000000,,Long DistanceTransportationInternationalRail

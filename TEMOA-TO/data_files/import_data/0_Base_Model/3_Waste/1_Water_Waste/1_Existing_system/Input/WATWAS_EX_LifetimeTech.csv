@@ -1,0 +1,26 @@
+regions,tech,life,life_notes
+TO,WATWASWWABPRC_EX,200,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess
+TO,WATWASWWABTTE_EX,200,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy
+TO,WATWASWWABADI_EX,30,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,WATWASWWABADIMNGA_EX,200,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester
+TO,WATWASWWABUSE_EX,200,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy
+TO,WATWASWWABFLR_EX,200,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring
+TO,WATWASWWHCPRC_EX,200,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess
+TO,WATWASWWHCINC_EX,200,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,WATWASWWHCINCMNGA_EX,200,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration
+TO,WATWASWWHCTTE_EX,200,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy
+TO,WATWASWWHCADI_EX,30,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,WATWASWWHCADIMNGA_EX,200,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester
+TO,WATWASWWHCUSE_EX,200,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy
+TO,WATWASWWHCFLR_EX,200,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring
+TO,WATWASWWHBPRC_EX,200,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess
+TO,WATWASWWHBTTE_EX,200,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy
+TO,WATWASWWHBADI_EX,30,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,WATWASWWHBADIMNGA_EX,200,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester
+TO,WATWASWWHBUSE_EX,200,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy
+TO,WATWASWWHBFLR_EX,200,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring
+TO,WATWASWWNTPRC_EX,200,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess
+TO,WATWASFWRCHPRC_EX,200,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess
+TO,WATWASFWFJHPRC_EX,200,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess
+TO,WATWASFWRLCPRC_EX,200,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess
+TO,WATWASFWISDPRC_EX,200,WaterWasteFresh waterIsland Water Treatment PlantProcess

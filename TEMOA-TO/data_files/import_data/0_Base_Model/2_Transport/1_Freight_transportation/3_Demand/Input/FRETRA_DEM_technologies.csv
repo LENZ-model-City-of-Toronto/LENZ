@@ -1,0 +1,7 @@
+tech,flag,sector,tech_desc,tech_category
+FRETRAROATRULGT,p,FRETRA,Freight TransportationTransportationRoadTruckPassenger Light Trucks,
+FRETRAROATRUMET,p,FRETRA,Freight TransportationTransportationRoadTruckMedium Trucks,
+FRETRAROATRUHET,p,FRETRA,Freight TransportationTransportationRoadTruckHeavy Trucks,
+FRETRAAIR______,p,FRETRA,Freight TransportationTransportationAir,
+FRETRARAI______,p,FRETRA,Freight TransportationTransportationRail,
+FRETRAMAR______,p,FRETRA,Freight TransportationTransportationMarine,

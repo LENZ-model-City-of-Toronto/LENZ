@@ -1,0 +1,1 @@
+INSERT INTO`GlobalDiscountRate`VALUES(0.03);

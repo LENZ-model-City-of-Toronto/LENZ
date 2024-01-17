@@ -1,0 +1,141 @@
+regions,tech,vintage,exist_cap,exist_cap_units,exist_cap_notes
+TO,COMBDGWSTNewLI,2015,10000000000,,CommercialBuildingWholesale TradeNewLighting
+TO,COMBDGRTTNewLI,2015,10000000000,,CommercialBuildingRetail TradeNewLighting
+TO,COMBDGTAWNewLI,2015,10000000000,,CommercialBuildingTransportation and WarehousingNewLighting
+TO,COMBDGICINewLI,2015,10000000000,,CommercialBuildingInformation and Cultural IndustriesNewLighting
+TO,COMBDGOFFNewLI,2015,10000000000,,CommercialBuildingOfficesNewLighting
+TO,COMBDGEDSNewLI,2015,10000000000,,CommercialBuildingEducational ServicesNewLighting
+TO,COMBDGHLCNewLI,2015,10000000000,,CommercialBuildingHealth Care and Social AssistanceNewLighting
+TO,COMBDGAERNewLI,2015,10000000000,,"CommercialBuildingArts, Entertainment and RecreationNewLighting"
+TO,COMBDGAFSNewLI,2015,10000000000,,CommercialBuildingAccommodation and Food ServicesNewLighting
+TO,COMBDGOTSNewLI,2015,10000000000,,CommercialBuildingOther ServicesNewLighting
+TO,COMBDGWSTNewSC,2015,10000000000,,CommercialBuildingWholesale TradeNewSpace Cooling
+TO,COMBDGRTTNewSC,2015,10000000000,,CommercialBuildingRetail TradeNewSpace Cooling
+TO,COMBDGTAWNewSC,2015,10000000000,,CommercialBuildingTransportation and WarehousingNewSpace Cooling
+TO,COMBDGICINewSC,2015,10000000000,,CommercialBuildingInformation and Cultural IndustriesNewSpace Cooling
+TO,COMBDGOFFNewSC,2015,10000000000,,CommercialBuildingOfficesNewSpace Cooling
+TO,COMBDGEDSNewSC,2015,10000000000,,CommercialBuildingEducational ServicesNewSpace Cooling
+TO,COMBDGHLCNewSC,2015,10000000000,,CommercialBuildingHealth Care and Social AssistanceNewSpace Cooling
+TO,COMBDGAERNewSC,2015,10000000000,,"CommercialBuildingArts, Entertainment and RecreationNewSpace Cooling"
+TO,COMBDGAFSNewSC,2015,10000000000,,CommercialBuildingAccommodation and Food ServicesNewSpace Cooling
+TO,COMBDGOTSNewSC,2015,10000000000,,CommercialBuildingOther ServicesNewSpace Cooling
+TO,COMBDGWSTNewAM,2015,10000000000,,CommercialBuildingWholesale TradeNewAuxiliary Motors
+TO,COMBDGRTTNewAM,2015,10000000000,,CommercialBuildingRetail TradeNewAuxiliary Motors
+TO,COMBDGTAWNewAM,2015,10000000000,,CommercialBuildingTransportation and WarehousingNewAuxiliary Motors
+TO,COMBDGICINewAM,2015,10000000000,,CommercialBuildingInformation and Cultural IndustriesNewAuxiliary Motors
+TO,COMBDGOFFNewAM,2015,10000000000,,CommercialBuildingOfficesNewAuxiliary Motors
+TO,COMBDGEDSNewAM,2015,10000000000,,CommercialBuildingEducational ServicesNewAuxiliary Motors
+TO,COMBDGHLCNewAM,2015,10000000000,,CommercialBuildingHealth Care and Social AssistanceNewAuxiliary Motors
+TO,COMBDGAERNewAM,2015,10000000000,,"CommercialBuildingArts, Entertainment and RecreationNewAuxiliary Motors"
+TO,COMBDGAFSNewAM,2015,10000000000,,CommercialBuildingAccommodation and Food ServicesNewAuxiliary Motors
+TO,COMBDGOTSNewAM,2015,10000000000,,CommercialBuildingOther ServicesNewAuxiliary Motors
+TO,COMBDGWSTNewAE,2015,10000000000,,CommercialBuildingWholesale TradeNewAuxiliary Equipment
+TO,COMBDGRTTNewAE,2015,10000000000,,CommercialBuildingRetail TradeNewAuxiliary Equipment
+TO,COMBDGTAWNewAE,2015,10000000000,,CommercialBuildingTransportation and WarehousingNewAuxiliary Equipment
+TO,COMBDGICINewAE,2015,10000000000,,CommercialBuildingInformation and Cultural IndustriesNewAuxiliary Equipment
+TO,COMBDGOFFNewAE,2015,10000000000,,CommercialBuildingOfficesNewAuxiliary Equipment
+TO,COMBDGEDSNewAE,2015,10000000000,,CommercialBuildingEducational ServicesNewAuxiliary Equipment
+TO,COMBDGHLCNewAE,2015,10000000000,,CommercialBuildingHealth Care and Social AssistanceNewAuxiliary Equipment
+TO,COMBDGAERNewAE,2015,10000000000,,"CommercialBuildingArts, Entertainment and RecreationNewAuxiliary Equipment"
+TO,COMBDGAFSNewAE,2015,10000000000,,CommercialBuildingAccommodation and Food ServicesNewAuxiliary Equipment
+TO,COMBDGOTSNewAE,2015,10000000000,,CommercialBuildingOther ServicesNewAuxiliary Equipment
+TO,COMBDGWSTNewSH,2015,10000000000,,CommercialBuildingWholesale TradeNewSpace Heating
+TO,COMBDGRTTNewSH,2015,10000000000,,CommercialBuildingRetail TradeNewSpace Heating
+TO,COMBDGTAWNewSH,2015,10000000000,,CommercialBuildingTransportation and WarehousingNewSpace Heating
+TO,COMBDGICINewSH,2015,10000000000,,CommercialBuildingInformation and Cultural IndustriesNewSpace Heating
+TO,COMBDGOFFNewSH,2015,10000000000,,CommercialBuildingOfficesNewSpace Heating
+TO,COMBDGEDSNewSH,2015,10000000000,,CommercialBuildingEducational ServicesNewSpace Heating
+TO,COMBDGHLCNewSH,2015,10000000000,,CommercialBuildingHealth Care and Social AssistanceNewSpace Heating
+TO,COMBDGAERNewSH,2015,10000000000,,"CommercialBuildingArts, Entertainment and RecreationNewSpace Heating"
+TO,COMBDGAFSNewSH,2015,10000000000,,CommercialBuildingAccommodation and Food ServicesNewSpace Heating
+TO,COMBDGOTSNewSH,2015,10000000000,,CommercialBuildingOther ServicesNewSpace Heating
+TO,COMBDGWSTNewWH,2015,10000000000,,CommercialBuildingWholesale TradeNewWater Heating
+TO,COMBDGRTTNewWH,2015,10000000000,,CommercialBuildingRetail TradeNewWater Heating
+TO,COMBDGTAWNewWH,2015,10000000000,,CommercialBuildingTransportation and WarehousingNewWater Heating
+TO,COMBDGICINewWH,2015,10000000000,,CommercialBuildingInformation and Cultural IndustriesNewWater Heating
+TO,COMBDGOFFNewWH,2015,10000000000,,CommercialBuildingOfficesNewWater Heating
+TO,COMBDGEDSNewWH,2015,10000000000,,CommercialBuildingEducational ServicesNewWater Heating
+TO,COMBDGHLCNewWH,2015,10000000000,,CommercialBuildingHealth Care and Social AssistanceNewWater Heating
+TO,COMBDGAERNewWH,2015,10000000000,,"CommercialBuildingArts, Entertainment and RecreationNewWater Heating"
+TO,COMBDGAFSNewWH,2015,10000000000,,CommercialBuildingAccommodation and Food ServicesNewWater Heating
+TO,COMBDGOTSNewWH,2015,10000000000,,CommercialBuildingOther ServicesNewWater Heating
+TO,COMBDGWSTNewSL,2015,10000000000,,CommercialBuildingWholesale TradeNewStreet Lighting
+TO,COMBDGRTTNewSL,2015,10000000000,,CommercialBuildingRetail TradeNewStreet Lighting
+TO,COMBDGTAWNewSL,2015,10000000000,,CommercialBuildingTransportation and WarehousingNewStreet Lighting
+TO,COMBDGICINewSL,2015,10000000000,,CommercialBuildingInformation and Cultural IndustriesNewStreet Lighting
+TO,COMBDGOFFNewSL,2015,10000000000,,CommercialBuildingOfficesNewStreet Lighting
+TO,COMBDGEDSNewSL,2015,10000000000,,CommercialBuildingEducational ServicesNewStreet Lighting
+TO,COMBDGHLCNewSL,2015,10000000000,,CommercialBuildingHealth Care and Social AssistanceNewStreet Lighting
+TO,COMBDGAERNewSL,2015,10000000000,,"CommercialBuildingArts, Entertainment and RecreationNewStreet Lighting"
+TO,COMBDGAFSNewSL,2015,10000000000,,CommercialBuildingAccommodation and Food ServicesNewStreet Lighting
+TO,COMBDGOTSNewSL,2015,10000000000,,CommercialBuildingOther ServicesNewStreet Lighting
+TO,COMBDGWSTOldLI,2015,10000000000,,CommercialBuildingWholesale TradeOldLighting
+TO,COMBDGRTTOldLI,2015,10000000000,,CommercialBuildingRetail TradeOldLighting
+TO,COMBDGTAWOldLI,2015,10000000000,,CommercialBuildingTransportation and WarehousingOldLighting
+TO,COMBDGICIOldLI,2015,10000000000,,CommercialBuildingInformation and Cultural IndustriesOldLighting
+TO,COMBDGOFFOldLI,2015,10000000000,,CommercialBuildingOfficesOldLighting
+TO,COMBDGEDSOldLI,2015,10000000000,,CommercialBuildingEducational ServicesOldLighting
+TO,COMBDGHLCOldLI,2015,10000000000,,CommercialBuildingHealth Care and Social AssistanceOldLighting
+TO,COMBDGAEROldLI,2015,10000000000,,"CommercialBuildingArts, Entertainment and RecreationOldLighting"
+TO,COMBDGAFSOldLI,2015,10000000000,,CommercialBuildingAccommodation and Food ServicesOldLighting
+TO,COMBDGOTSOldLI,2015,10000000000,,CommercialBuildingOther ServicesOldLighting
+TO,COMBDGWSTOldSC,2015,10000000000,,CommercialBuildingWholesale TradeOldSpace Cooling
+TO,COMBDGRTTOldSC,2015,10000000000,,CommercialBuildingRetail TradeOldSpace Cooling
+TO,COMBDGTAWOldSC,2015,10000000000,,CommercialBuildingTransportation and WarehousingOldSpace Cooling
+TO,COMBDGICIOldSC,2015,10000000000,,CommercialBuildingInformation and Cultural IndustriesOldSpace Cooling
+TO,COMBDGOFFOldSC,2015,10000000000,,CommercialBuildingOfficesOldSpace Cooling
+TO,COMBDGEDSOldSC,2015,10000000000,,CommercialBuildingEducational ServicesOldSpace Cooling
+TO,COMBDGHLCOldSC,2015,10000000000,,CommercialBuildingHealth Care and Social AssistanceOldSpace Cooling
+TO,COMBDGAEROldSC,2015,10000000000,,"CommercialBuildingArts, Entertainment and RecreationOldSpace Cooling"
+TO,COMBDGAFSOldSC,2015,10000000000,,CommercialBuildingAccommodation and Food ServicesOldSpace Cooling
+TO,COMBDGOTSOldSC,2015,10000000000,,CommercialBuildingOther ServicesOldSpace Cooling
+TO,COMBDGWSTOldAM,2015,10000000000,,CommercialBuildingWholesale TradeOldAuxiliary Motors
+TO,COMBDGRTTOldAM,2015,10000000000,,CommercialBuildingRetail TradeOldAuxiliary Motors
+TO,COMBDGTAWOldAM,2015,10000000000,,CommercialBuildingTransportation and WarehousingOldAuxiliary Motors
+TO,COMBDGICIOldAM,2015,10000000000,,CommercialBuildingInformation and Cultural IndustriesOldAuxiliary Motors
+TO,COMBDGOFFOldAM,2015,10000000000,,CommercialBuildingOfficesOldAuxiliary Motors
+TO,COMBDGEDSOldAM,2015,10000000000,,CommercialBuildingEducational ServicesOldAuxiliary Motors
+TO,COMBDGHLCOldAM,2015,10000000000,,CommercialBuildingHealth Care and Social AssistanceOldAuxiliary Motors
+TO,COMBDGAEROldAM,2015,10000000000,,"CommercialBuildingArts, Entertainment and RecreationOldAuxiliary Motors"
+TO,COMBDGAFSOldAM,2015,10000000000,,CommercialBuildingAccommodation and Food ServicesOldAuxiliary Motors
+TO,COMBDGOTSOldAM,2015,10000000000,,CommercialBuildingOther ServicesOldAuxiliary Motors
+TO,COMBDGWSTOldAE,2015,10000000000,,CommercialBuildingWholesale TradeOldAuxiliary Equipment
+TO,COMBDGRTTOldAE,2015,10000000000,,CommercialBuildingRetail TradeOldAuxiliary Equipment
+TO,COMBDGTAWOldAE,2015,10000000000,,CommercialBuildingTransportation and WarehousingOldAuxiliary Equipment
+TO,COMBDGICIOldAE,2015,10000000000,,CommercialBuildingInformation and Cultural IndustriesOldAuxiliary Equipment
+TO,COMBDGOFFOldAE,2015,10000000000,,CommercialBuildingOfficesOldAuxiliary Equipment
+TO,COMBDGEDSOldAE,2015,10000000000,,CommercialBuildingEducational ServicesOldAuxiliary Equipment
+TO,COMBDGHLCOldAE,2015,10000000000,,CommercialBuildingHealth Care and Social AssistanceOldAuxiliary Equipment
+TO,COMBDGAEROldAE,2015,10000000000,,"CommercialBuildingArts, Entertainment and RecreationOldAuxiliary Equipment"
+TO,COMBDGAFSOldAE,2015,10000000000,,CommercialBuildingAccommodation and Food ServicesOldAuxiliary Equipment
+TO,COMBDGOTSOldAE,2015,10000000000,,CommercialBuildingOther ServicesOldAuxiliary Equipment
+TO,COMBDGWSTOldSH,2015,10000000000,,CommercialBuildingWholesale TradeOldSpace Heating
+TO,COMBDGRTTOldSH,2015,10000000000,,CommercialBuildingRetail TradeOldSpace Heating
+TO,COMBDGTAWOldSH,2015,10000000000,,CommercialBuildingTransportation and WarehousingOldSpace Heating
+TO,COMBDGICIOldSH,2015,10000000000,,CommercialBuildingInformation and Cultural IndustriesOldSpace Heating
+TO,COMBDGOFFOldSH,2015,10000000000,,CommercialBuildingOfficesOldSpace Heating
+TO,COMBDGEDSOldSH,2015,10000000000,,CommercialBuildingEducational ServicesOldSpace Heating
+TO,COMBDGHLCOldSH,2015,10000000000,,CommercialBuildingHealth Care and Social AssistanceOldSpace Heating
+TO,COMBDGAEROldSH,2015,10000000000,,"CommercialBuildingArts, Entertainment and RecreationOldSpace Heating"
+TO,COMBDGAFSOldSH,2015,10000000000,,CommercialBuildingAccommodation and Food ServicesOldSpace Heating
+TO,COMBDGOTSOldSH,2015,10000000000,,CommercialBuildingOther ServicesOldSpace Heating
+TO,COMBDGWSTOldWH,2015,10000000000,,CommercialBuildingWholesale TradeOldWater Heating
+TO,COMBDGRTTOldWH,2015,10000000000,,CommercialBuildingRetail TradeOldWater Heating
+TO,COMBDGTAWOldWH,2015,10000000000,,CommercialBuildingTransportation and WarehousingOldWater Heating
+TO,COMBDGICIOldWH,2015,10000000000,,CommercialBuildingInformation and Cultural IndustriesOldWater Heating
+TO,COMBDGOFFOldWH,2015,10000000000,,CommercialBuildingOfficesOldWater Heating
+TO,COMBDGEDSOldWH,2015,10000000000,,CommercialBuildingEducational ServicesOldWater Heating
+TO,COMBDGHLCOldWH,2015,10000000000,,CommercialBuildingHealth Care and Social AssistanceOldWater Heating
+TO,COMBDGAEROldWH,2015,10000000000,,"CommercialBuildingArts, Entertainment and RecreationOldWater Heating"
+TO,COMBDGAFSOldWH,2015,10000000000,,CommercialBuildingAccommodation and Food ServicesOldWater Heating
+TO,COMBDGOTSOldWH,2015,10000000000,,CommercialBuildingOther ServicesOldWater Heating
+TO,COMBDGWSTOldSL,2015,10000000000,,CommercialBuildingWholesale TradeOldStreet Lighting
+TO,COMBDGRTTOldSL,2015,10000000000,,CommercialBuildingRetail TradeOldStreet Lighting
+TO,COMBDGTAWOldSL,2015,10000000000,,CommercialBuildingTransportation and WarehousingOldStreet Lighting
+TO,COMBDGICIOldSL,2015,10000000000,,CommercialBuildingInformation and Cultural IndustriesOldStreet Lighting
+TO,COMBDGOFFOldSL,2015,10000000000,,CommercialBuildingOfficesOldStreet Lighting
+TO,COMBDGEDSOldSL,2015,10000000000,,CommercialBuildingEducational ServicesOldStreet Lighting
+TO,COMBDGHLCOldSL,2015,10000000000,,CommercialBuildingHealth Care and Social AssistanceOldStreet Lighting
+TO,COMBDGAEROldSL,2015,10000000000,,"CommercialBuildingArts, Entertainment and RecreationOldStreet Lighting"
+TO,COMBDGAFSOldSL,2015,10000000000,,CommercialBuildingAccommodation and Food ServicesOldStreet Lighting
+TO,COMBDGOTSOldSL,2015,10000000000,,CommercialBuildingOther ServicesOldStreet Lighting

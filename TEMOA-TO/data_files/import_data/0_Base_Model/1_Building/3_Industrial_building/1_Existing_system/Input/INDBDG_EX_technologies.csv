@@ -1,0 +1,11 @@
+tech,flag,sector,tech_desc,tech_category
+INDBDGLISEP_EX,p,INDBDG,IndustryBuildingLightingSelf produced,
+INDBDGSCSEP_EX,p,INDBDG,IndustryBuildingSpace CoolingSelf produced,
+INDBDGSCDCO_EX,p,INDBDG,IndustryBuildingSpace CoolingDistrict Cooling,
+INDBDGIPSEP_EX,p,INDBDG,IndustryBuildingIndustrial ProcessesSelf producedMix Energy,
+INDBDGIPSEPMENE_EX,p,INDBDG,IndustryBuildingIndustrial ProcessesSelf producedMix Energy,
+INDBDGSHSEP_EX,p,INDBDG,IndustryBuildingSpace HeatingSelf produced,
+INDBDGSHDHE_EX,p,INDBDG,IndustryBuildingSpace HeatingDistrict Heating,
+INDBDGWHSEP_EX,p,INDBDG,IndustryBuildingWater HeatingSelf produced,
+INDBDGWHDHE_EX,p,INDBDG,IndustryBuildingWater HeatingDistrict Heating,
+INDBDGIPSEPETHOS_EX,p,INDBDG,IndustryBuildingIndustrial ProcessesSelf produced,

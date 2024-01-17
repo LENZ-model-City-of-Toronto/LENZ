@@ -1,0 +1,7 @@
+regions,tech,vintage,exist_cap,exist_cap_units,exist_cap_notes
+TO,FRETRAROATRULGT,2015,10000000000,,Freight TransportationTransportationRoadTruckPassenger Light Trucks
+TO,FRETRAROATRUMET,2015,10000000000,,Freight TransportationTransportationRoadTruckMedium Trucks
+TO,FRETRAROATRUHET,2015,10000000000,,Freight TransportationTransportationRoadTruckHeavy Trucks
+TO,FRETRAAIR______,2015,10000000000,,Freight TransportationTransportationAir
+TO,FRETRARAI______,2015,10000000000,,Freight TransportationTransportationRail
+TO,FRETRAMAR______,2015,10000000000,,Freight TransportationTransportationMarine

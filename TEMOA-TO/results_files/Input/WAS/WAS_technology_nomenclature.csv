@@ -1,0 +1,160 @@
+SLD,WAS,GRB,,,,,,,ARCH,SLDWASGRB,SolidWasteGreen Bin,SLDWAS,N/A,kt
+SLD,WAS,LDF,GL,,,,,,ARCH,SLDWASLDFGL,SolidWasteLandfillGreen Lane,SLDWAS,N/A,kt
+SLD,WAS,,,,,,,,ARCH,TOSLDWASETHOS,Dummy,SLDWAS,N/A,kt
+SLD,WAS,REC,,,,,,,ARCH,TORECSLDASETHOS,Dummy,SLDWAS,N/A,kt
+SLD,WAS,LDF,GL,AGG,,,,,EX,SLDWASLDFGLAGG_EX,SolidWasteLandfillGreen LaneAggregate demand,SLDWAS,kt.y,kt
+SLD,WAS,LDF,GL,GEN,,,,,EX,SLDWASLDFGLGEN_EX,SolidWasteLandfillGreen LaneBiogas generation,SLDWAS,kt.y,kt
+SLD,WAS,LDF,GL,CAP,,,,,EX,SLDWASLDFGLCAP_EX,SolidWasteLandfillGreen LaneBiogas capture,SLDWAS,Tj.y,TJ
+SLD,WAS,LDF,GL,FLR,,,,,EX,SLDWASLDFGLFLR_EX,SolidWasteLandfillGreen LaneFlaring,SLDWAS,Tj.y,TJ
+SLD,WAS,LDF,BW,GEN,,,,,EX,SLDWASLDFBWGEN_EX,SolidWasteHistorical LF wasteBrock WestBiogas generation,SLDWAS,kt.y,kt
+SLD,WAS,LDF,BW,LEK,,,,,EX,SLDWASLDFBWLEK_EX,SolidWasteLandfillBrock WestLeaking,SLDWAS,kt.y,kt
+SLD,WAS,LDF,KV,GEN,,,,,EX,SLDWASLDFKVGEN_EX,SolidWasteHistorical LF wasteKeele ValleyBiogas generation,SLDWAS,kt.y,kt
+SLD,WAS,LDF,KV,CAP,,,,,EX,SLDWASLDFKVCAP_EX,SolidWasteLandfillKeele ValleyBiogas capture,SLDWAS,Tj.y,TJ
+SLD,WAS,LDF,KV,FLR,,,,,EX,SLDWASLDFKVFLR_EX,SolidWasteLandfillKeele ValleyFlaring,SLDWAS,Tj.y,TJ
+SLD,WAS,LDF,BR,GEN,,,,,EX,SLDWASLDFBRGEN_EX,SolidWasteHistorical LF wasteBeare RdBiogas generation,SLDWAS,kt.y,kt
+SLD,WAS,LDF,BR,CAP,,,,,EX,SLDWASLDFBRCAP_EX,SolidWasteLandfillBeare RdBiogas capture,SLDWAS,Tj.y,TJ
+SLD,WAS,LDF,BR,FLR,,,,,EX,SLDWASLDFBRFLR_EX,SolidWasteLandfillBeare RdFlaring,SLDWAS,Tj.y,TJ
+SLD,WAS,LDF,TK,GEN,,,,,EX,SLDWASLDFTKGEN_EX,SolidWasteHistorical LF wasteThackerayBiogas generation,SLDWAS,kt.y,kt
+SLD,WAS,LDF,TK,LEK,,,,,EX,SLDWASLDFTKLEK_EX,SolidWasteLandfillThackerayLeaking,SLDWAS,Tj.y,TJ
+SLD,WAS,LDF,AH,GEN,,,,,EX,SLDWASLDFAHGEN_EX,SolidWasteHistorical LF wasteMI - Arbor HillsBiogas generation,SLDWAS,kt.y,kt
+SLD,WAS,LDF,AH,CAP,,,,,EX,SLDWASLDFAHCAP_EX,SolidWasteLandfillMI - Arbor HillsBiogas capture,SLDWAS,Tj.y,TJ
+SLD,WAS,LDF,AH,FLR,,,,,EX,SLDWASLDFAHFLR_EX,SolidWasteLandfillMI - Arbor HillsFlaring,SLDWAS,Tj.y,TJ
+SLD,WAS,LDF,CF,GEN,,,,,EX,SLDWASLDFCFGEN_EX,SolidWasteHistorical LF wasteMI - Carleton farmsBiogas generation,SLDWAS,kt.y,kt
+SLD,WAS,LDF,CF,CAP,,,,,EX,SLDWASLDFCFCAP_EX,SolidWasteLandfillMI - Carleton farmsBiogas capture,SLDWAS,Tj.y,TJ
+SLD,WAS,LDF,CF,FLR,,,,,EX,SLDWASLDFCFFLR_EX,SolidWasteLandfillMI - Carleton farmsFlaring,SLDWAS,Tj.y,TJ
+SLD,WAS,GRB,DR,TTE,,,,,EX,SLDWASGRBDRTTE_EX,SolidWasteGreen BinDisco RoadTons to Energy,SLDWAS,kt.y,kt
+SLD,WAS,GRB,DR,ADI,,,MNGA,,EX,SLDWASGRBDRADI_EX,SolidWasteGreen BinDisco RoadAnaerobic Digester,SLDWAS,Tj.y,TJ
+SLD,WAS,GRB,DR,ADI,,,MNGA,,EX,SLDWASGRBDRADIMNGA_EX,SolidWasteGreen BinDisco RoadAnaerobic Digester,SLDWAS,Tj.y,TJ
+SLD,WAS,GRB,DR,USE,,,,,EX,SLDWASGRBDRUSE_EX,SolidWasteGreen BinDisco RoadExport of energy,SLDWAS,Tj.y,TJ
+SLD,WAS,GRB,DR,FLR,,,,,EX,SLDWASGRBDRFLR_EX,SolidWasteGreen BinDisco RoadFlaring,SLDWAS,Tj.y,TJ
+SLD,WAS,GRB,DF,TTE,,,,,EX,SLDWASGRBDFTTE_EX,SolidWasteGreen BinDufferinTons to Energy,SLDWAS,kt.y,kt
+SLD,WAS,GRB,DF,ADI,,,MNGA,,EX,SLDWASGRBDFADI_EX,SolidWasteGreen BinDufferinAnaerobic Digester,SLDWAS,Tj.y,TJ
+SLD,WAS,GRB,DF,ADI,,,MNGA,,EX,SLDWASGRBDFADIMNGA_EX,SolidWasteGreen BinDufferinAnaerobic Digester,SLDWAS,Tj.y,TJ
+SLD,WAS,GRB,DF,USE,,,,,EX,SLDWASGRBDFUSE_EX,SolidWasteGreen BinDufferinExport of energy,SLDWAS,Tj.y,TJ
+SLD,WAS,GRB,DF,FLR,,,,,EX,SLDWASGRBDFFLR_EX,SolidWasteGreen BinDufferinFlaring,SLDWAS,Tj.y,TJ
+SLD,WAS,GRB,CP,GEN,,,,,EX,SLDWASGRBCPGEN_EX,SolidWasteGreen BinCompostBiogas generation,SLDWAS,kt.y,kt
+SLD,WAS,GRB,CP,LEK,,,,,EX,SLDWASGRBCPLEK_EX,SolidWasteGreen BinCompostLeaking,SLDWAS,kt.y,kt
+WAT,WAS,,,,,,,,,WATWASFWSPL,WaterWasteSplitFresh water,WATWAS,N/A,Mm3
+WAT,WAS,,,,,,,,,WATWASCOLRW,WaterWasteRain collectionRain water,WATWAS,N/A,Mm3
+WAT,WAS,,,,,,,,,WATWASSEWWW,WaterWasteSewer CollectionRain water,WATWAS,N/A,Mm3
+WAT,WAS,,,,,,,,,WATWASPUMWW,WaterWastePumpWaste water,WATWAS,N/A,Mm3
+WAT,WAS,,,,,,,,,WATWASGRIWW,WaterWasteGridWaste water,WATWAS,N/A,Mm3
+WAT,WAS,,,,,,,,,WATWASSTPWW,WaterWasteSplit Treatment PlantWaste water,WATWAS,N/A,Mm3
+WAT,WAS,,,,,,,,,WATWASPUMFW,WaterWastePumpFresh water,WATWAS,N/A,Mm3
+WAT,WAS,,,,,,,,,WATWASGRIFW,WaterWasteGridFresh water,WATWAS,N/A,Mm3
+WAT,WAS,,,,,,,,,WATWASSTPFW,WaterWasteSplit Treatment PlantFresh water,WATWAS,N/A,Mm3
+WAT,WAS,,,,,,,,,TOWATWASETHOS,Dummy,WATWAS,N/A,N/A
+WAT,WAS,FW,RCH,PRC,,,,1950,EX,WATWASFWRCHPRC_EX,WaterWasteFresh waterR.C. Harris Water Treatment PlantProcess,WATWAS,Mm3.y,Mm3
+WAT,WAS,FW,FJH,PRC,,,,1980,EX,WATWASFWFJHPRC_EX,WaterWasteFresh waterF.J Horgan Water Treatment PlantProcess,WATWAS,Mm3.y,Mm3
+WAT,WAS,FW,RLC,PRC,,,,1950,EX,WATWASFWRLCPRC_EX,WaterWasteFresh waterR.L. Clark Water Treatment PlantProcess,WATWAS,Mm3.y,Mm3
+WAT,WAS,FW,ISD,PRC,,,,1980,EX,WATWASFWISDPRC_EX,WaterWasteFresh waterIsland Water Treatment PlantProcess,WATWAS,Mm3.y,Mm3
+WAT,WAS,WW,AB,PRC,,,ELC,1950,EX,WATWASWWABPRC_EX,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantProcess,WATWAS,Mm3.y,Mm3
+WAT,WAS,WW,AB,TTE,,,,1950,EX,WATWASWWABTTE_EX,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to Energy,WATWAS,kt.y,kt
+WAT,WAS,WW,AB,ADI,,,MNGA,2000,EX,WATWASWWABADI_EX,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester,WATWAS,TJ.y,TJ
+WAT,WAS,WW,AB,ADI,,,MNGA,1950,EX,WATWASWWABADIMNGA_EX,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantAnaerobic Digester,WATWAS,TJ.y,TJ
+WAT,WAS,WW,AB,USE,,,,1950,EX,WATWASWWABUSE_EX,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantExport of energy,WATWAS,TJ.y,TJ
+WAT,WAS,WW,AB,FLR,,,,1950,EX,WATWASWWABFLR_EX,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantFlaring,WATWAS,TJ.y,TJ
+WAT,WAS,WW,HC,PRC,,,ELC,1955,EX,WATWASWWHCPRC_EX,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantProcess,WATWAS,Mm3.y,Mm3
+WAT,WAS,WW,HC,INC,,,MNGA,1955,EX,WATWASWWHCINC_EX,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration,WATWAS,kt.y,kt
+WAT,WAS,WW,HC,INC,,,MNGA,1955,EX,WATWASWWHCINCMNGA_EX,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantIncineration,WATWAS,TJ.y,TJ
+WAT,WAS,WW,HC,TTE,,,,1955,EX,WATWASWWHCTTE_EX,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to Energy,WATWAS,kt.y,kt
+WAT,WAS,WW,HC,ADI,,,MNGA,2000,EX,WATWASWWHCADI_EX,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester,WATWAS,TJ.y,TJ
+WAT,WAS,WW,HC,ADI,,,MNGA,1955,EX,WATWASWWHCADIMNGA_EX,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantAnaerobic Digester,WATWAS,TJ.y,TJ
+WAT,WAS,WW,HC,USE,,,,1955,EX,WATWASWWHCUSE_EX,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantExport of energy,WATWAS,TJ.y,TJ
+WAT,WAS,WW,HC,FLR,,,,1955,EX,WATWASWWHCFLR_EX,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantFlaring,WATWAS,TJ.y,TJ
+WAT,WAS,WW,HB,PRC,,,ELC,1960,EX,WATWASWWHBPRC_EX,WaterWasteWaste waterHumber Wastewater Treatment PlantProcess,WATWAS,Mm3.y,Mm3
+WAT,WAS,WW,HB,TTE,,,,1960,EX,WATWASWWHBTTE_EX,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to Energy,WATWAS,kt.y,kt
+WAT,WAS,WW,HB,ADI,,,MNGA,2000,EX,WATWASWWHBADI_EX,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester,WATWAS,TJ.y,TJ
+WAT,WAS,WW,HB,ADI,,,MNGA,1960,EX,WATWASWWHBADIMNGA_EX,WaterWasteWaste waterHumber Wastewater Treatment PlantAnaerobic Digester,WATWAS,TJ.y,TJ
+WAT,WAS,WW,HB,USE,,,,1960,EX,WATWASWWHBUSE_EX,WaterWasteWaste waterHumber Wastewater Treatment PlantExport of energy,WATWAS,TJ.y,TJ
+WAT,WAS,WW,HB,FLR,,,,1960,EX,WATWASWWHBFLR_EX,WaterWasteWaste waterHumber Wastewater Treatment PlantFlaring,WATWAS,TJ.y,TJ
+WAT,WAS,WW,NT,PRC,,,ELC,1950,EX,WATWASWWNTPRC_EX,WaterWasteWaste waterNorth Toronto Wastewater Treatment PlantProcess,WATWAS,Mm3.y,Mm3
+SLD,WAS,LDF,GL,CAP,___,___,___,23,NEW,SLDWASLDFGLCAP__________23,SolidWasteLandfillGreen LaneBiogas capture,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,GL,BUP,PUB,STD,___,23,NEW,SLDWASLDFGLBUPPUBSTD____23,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,GL,BUP,PUB,STD,MENE,23,NEW,SLDWASLDFGLBUPPUBSTDMENE_23,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,GL,BUP,PUB,STD,___,21,NEW,SLDWASLDFGLBUPPUBSTD____21,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,GL,BUP,PUB,STD,MENE,21,NEW,SLDWASLDFGLBUPPUBSTDMENE_21,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,GL,BUP,PUB,STD,___,17,NEW,SLDWASLDFGLBUPPUBSTD____17,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,GL,BUP,PUB,STD,MENE,17,NEW,SLDWASLDFGLBUPPUBSTDMENE_17,SolidWasteLandfillGreen LaneBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,GL,CHP,ICE,STD,___,20,NEW,SLDWASLDFGLCHPICESTD____20,SolidWasteLandfillGreen LaneCogeneration engineInternal Combustion EngineStandard Efficiency,SLDWAS,MW,TJ
+SLD,WAS,LDF,BW,CAP,___,___,___,23,NEW,SLDWASLDFBWCAP__________23,SolidWasteLandfillBrock WestBiogas capture,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,BW,BUP,PUB,STD,___,23,NEW,SLDWASLDFBWBUPPUBSTD_23,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,BW,BUP,PUB,STD,MENE,23,NEW,SLDWASLDFBWBUPPUBSTDMENE_23,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,BW,BUP,PUB,STD,___,21,NEW,SLDWASLDFBWBUPPUBSTD_21,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,BW,BUP,PUB,STD,MENE,21,NEW,SLDWASLDFBWBUPPUBSTDMENE_21,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,BW,BUP,PUB,STD,___,17,NEW,SLDWASLDFBWBUPPUBSTD_17,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,BW,BUP,PUB,STD,MENE,17,NEW,SLDWASLDFBWBUPPUBSTDMENE_17,SolidWasteLandfillBrock WestBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,BW,CHP,ICE,STD,___,20,NEW,SLDWASLDFBWCHPICESTD____20,SolidWasteLandfillBrock WestCogeneration engineInternal Combustion EngineStandard Efficiency,SLDWAS,MW,TJ
+SLD,WAS,LDF,KV,CAP,___,___,___,23,NEW,SLDWASLDFKVCAP__________23,SolidWasteLandfillKeele ValleyBiogas capture,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,KV,BUP,PUB,STD,___,23,NEW,SLDWASLDFKVBUPPUBSTD_23,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,KV,BUP,PUB,STD,MENE,23,NEW,SLDWASLDFKVBUPPUBSTDMENE_23,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,KV,BUP,PUB,STD,___,21,NEW,SLDWASLDFKVBUPPUBSTD_21,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,KV,BUP,PUB,STD,MENE,21,NEW,SLDWASLDFKVBUPPUBSTDMENE_21,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,KV,BUP,PUB,STD,___,17,NEW,SLDWASLDFKVBUPPUBSTD_17,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,KV,BUP,PUB,STD,MENE,17,NEW,SLDWASLDFKVBUPPUBSTDMENE_17,SolidWasteLandfillKeele ValleyBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,KV,CHP,ICE,STD,___,20,NEW,SLDWASLDFKVCHPICESTD____20,SolidWasteLandfillKeele ValleyCogeneration engineInternal Combustion EngineStandard Efficiency,SLDWAS,MW,TJ
+SLD,WAS,LDF,BR,CAP,___,___,___,23,NEW,SLDWASLDFBRCAP__________23,SolidWasteLandfillBeare RdBiogas capture,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,BR,BUP,PUB,STD,___,23,NEW,SLDWASLDFBRBUPPUBSTD_23,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,BR,BUP,PUB,STD,MENE,23,NEW,SLDWASLDFBRBUPPUBSTDMENE_23,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,BR,BUP,PUB,STD,___,21,NEW,SLDWASLDFBRBUPPUBSTD_21,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,BR,BUP,PUB,STD,MENE,21,NEW,SLDWASLDFBRBUPPUBSTDMENE_21,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,BR,BUP,PUB,STD,___,17,NEW,SLDWASLDFBRBUPPUBSTD_17,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,BR,BUP,PUB,STD,MENE,17,NEW,SLDWASLDFBRBUPPUBSTDMENE_17,SolidWasteLandfillBeare RdBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,BR,CHP,ICE,STD,___,20,NEW,SLDWASLDFBRCHPICESTD____20,SolidWasteLandfillBeare RdCogeneration engineInternal Combustion EngineStandard Efficiency,SLDWAS,MW,TJ
+SLD,WAS,LDF,TK,CAP,___,___,___,23,NEW,SLDWASLDFTKCAP__________23,SolidWasteLandfillThackerayBiogas capture,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,TK,BUP,PUB,STD,___,23,NEW,SLDWASLDFTKBUPPUBSTD_23,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,TK,BUP,PUB,STD,MENE,23,NEW,SLDWASLDFTKBUPPUBSTDMENE_23,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,TK,BUP,PUB,STD,___,21,NEW,SLDWASLDFTKBUPPUBSTD_21,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,TK,BUP,PUB,STD,MENE,21,NEW,SLDWASLDFTKBUPPUBSTDMENE_21,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,TK,BUP,PUB,STD,___,17,NEW,SLDWASLDFTKBUPPUBSTD_17,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,TK,BUP,PUB,STD,MENE,17,NEW,SLDWASLDFTKBUPPUBSTDMENE_17,SolidWasteLandfillThackerayBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,TK,CHP,ICE,STD,___,20,NEW,SLDWASLDFTKCHPICESTD____20,SolidWasteLandfillThackerayCogeneration engineInternal Combustion EngineStandard Efficiency,SLDWAS,MW,TJ
+SLD,WAS,LDF,AH,CAP,___,___,___,23,NEW,SLDWASLDFAHCAP__________23,SolidWasteLandfillMI - Arbor HillsBiogas capture,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,AH,BUP,PUB,STD,___,23,NEW,SLDWASLDFAHBUPPUBSTD_23,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,AH,BUP,PUB,STD,MENE,23,NEW,SLDWASLDFAHBUPPUBSTDMENE_23,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,AH,BUP,PUB,STD,___,21,NEW,SLDWASLDFAHBUPPUBSTD_21,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,AH,BUP,PUB,STD,MENE,21,NEW,SLDWASLDFAHBUPPUBSTDMENE_21,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,AH,BUP,PUB,STD,___,17,NEW,SLDWASLDFAHBUPPUBSTD_17,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,AH,BUP,PUB,STD,MENE,17,NEW,SLDWASLDFAHBUPPUBSTDMENE_17,SolidWasteLandfillMI - Arbor HillsBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,AH,CHP,ICE,STD,___,20,NEW,SLDWASLDFAHCHPICESTD____20,SolidWasteLandfillMI - Arbor HillsCogeneration engineInternal Combustion EngineStandard Efficiency,SLDWAS,MW,TJ
+SLD,WAS,LDF,CF,CAP,___,___,___,23,NEW,SLDWASLDFCFCAP__________23,SolidWasteLandfillMI - Carleton farmsBiogas capture,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,CF,BUP,PUB,STD,___,23,NEW,SLDWASLDFCFBUPPUBSTD_23,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,CF,BUP,PUB,STD,MENE,23,NEW,SLDWASLDFCFBUPPUBSTDMENE_23,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,CF,BUP,PUB,STD,___,21,NEW,SLDWASLDFCFBUPPUBSTD_21,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,CF,BUP,PUB,STD,MENE,21,NEW,SLDWASLDFCFBUPPUBSTDMENE_21,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,CF,BUP,PUB,STD,___,17,NEW,SLDWASLDFCFBUPPUBSTD_17,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,CF,BUP,PUB,STD,MENE,17,NEW,SLDWASLDFCFBUPPUBSTDMENE_17,SolidWasteLandfillMI - Carleton farmsBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,LDF,CF,CHP,ICE,STD,___,20,NEW,SLDWASLDFCFCHPICESTD____20,SolidWasteLandfillMI - Carleton farmsCogeneration engineInternal Combustion EngineStandard Efficiency,SLDWAS,MW,TJ
+SLD,WAS,GRB,CP,CAP,___,___,___,23,NEW,SLDWASGRBCPCAP__________23,SolidWasteGreen BinCompostBiogas capture,SLDWAS,TJ.y,TJ
+SLD,WAS,GRB,CP,BUP,PUB,STD,___,23,NEW,SLDWASGRBCPBUPPUBSTD____23,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,GRB,CP,BUP,PUB,STD,MENE,23,NEW,SLDWASGRBCPBUPPUBSTDMENE_23,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,GRB,CP,BUP,PUB,STD,___,21,NEW,SLDWASGRBCPBUPPUBSTD____21,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,GRB,CP,BUP,PUB,STD,MENE,21,NEW,SLDWASGRBCPBUPPUBSTDMENE_21,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,GRB,CP,BUP,PUB,STD,___,17,NEW,SLDWASGRBCPBUPPUBSTD____17,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,GRB,CP,BUP,PUB,STD,MENE,17,NEW,SLDWASGRBCPBUPPUBSTDMENE_17,SolidWasteGreen BinCompostBiogas upgradePublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,GRB,CP,CHP,ICE,STD,___,20,NEW,SLDWASGRBCPCHPICESTD____20,SolidWasteGreen BinCompostCogeneration engineInternal Combustion EngineStandard Efficiency,SLDWAS,MW,TJ
+SLD,WAS,GRB,DR,GAS,ERK,STD,MENE,21,NEW,SLDWASGRBDRGASERKSTD____21,SolidWasteGreen BinDisco RoadGasificationEnerkemStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,GRB,DR,GAS,ERK,STD,MENE,21,NEW,SLDWASGRBDRGASERKSTDMENE_21,SolidWasteGreen BinDisco RoadGasificationEnerkemStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,GRB,DR,ADI,PUB,STD,MENE,21,NEW,SLDWASGRBDRADIPUBSTD____21,SolidWasteGreen BinDisco RoadAnaerobic DigesterPublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,GRB,DR,ADI,PUB,STD,MENE,21,NEW,SLDWASGRBDRADIPUBSTDMENE_21,SolidWasteGreen BinDisco RoadAnaerobic DigesterPublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,GRB,DR,GAS,CEN,CCS,HH2,21,NEW,SLDWASGRBDRGASCENCCSHH2_21,SolidWasteGreen BinDisco RoadGasificationCentralCarbon Capture Storage,SLDWAS,MW,TJ
+SLD,WAS,GRB,DF,GAS,ERK,STD,MENE,21,NEW,SLDWASGRBDFGASERKSTD____21,SolidWasteGreen BinDufferinGasificationEnerkemStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,GRB,DF,GAS,ERK,STD,MENE,21,NEW,SLDWASGRBDFGASERKSTDMENE_21,SolidWasteGreen BinDufferinGasificationEnerkemStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,GRB,DF,ADI,PUB,STD,MENE,21,NEW,SLDWASGRBDFADIPUBSTD____21,SolidWasteGreen BinDufferinAnaerobic DigesterPublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,GRB,DF,ADI,PUB,STD,MENE,21,NEW,SLDWASGRBDFADIPUBSTDMENE_21,SolidWasteGreen BinDufferinAnaerobic DigesterPublicStandard Efficiency,SLDWAS,TJ.y,TJ
+SLD,WAS,GRB,DF,GAS,CEN,CCS,HH2,21,NEW,SLDWASGRBDFGASCENCCSHH2_21,SolidWasteGreen BinDufferinGasificationCentralCarbon Capture Storage,SLDWAS,MW,TJ
+WAT,WAS,WW,AB,GAS,ERK,STD,MENE,23,NEW,WATWASWWABGASERKSTD____23,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency,WATWAS,TJ.y,TJ
+WAT,WAS,WW,AB,GAS,ERK,STD,MENE,23,NEW,WATWASWWABGASERKSTDMENE_23,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy,WATWAS,TJ.y,TJ
+WAT,WAS,WW,AB,ADI,PUB,___,MENE,23,NEW,WATWASWWABADIPUB_______23,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic,WATWAS,TJ.y,TJ
+WAT,WAS,WW,AB,ADI,PUB,___,MENE,23,NEW,WATWASWWABADIPUB___MENE_23,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy,WATWAS,TJ.y,TJ
+WAT,WAS,WW,AB,GAS,CEN,CCS,HH2,23,NEW,WATWASWWABGASCENCCSHH2_23,WaterWasteWaste waterAhsbridges Bay Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen,WATWAS,MW,TJ
+WAT,WAS,WW,HB,GAS,ERK,STD,MENE,23,NEW,WATWASWWHBGASERKSTD____23,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency,WATWAS,TJ.y,TJ
+WAT,WAS,WW,HB,GAS,ERK,STD,MENE,23,NEW,WATWASWWHBGASERKSTDMENE_23,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy,WATWAS,TJ.y,TJ
+WAT,WAS,WW,HB,ADI,PUB,___,MENE,23,NEW,WATWASWWHBADIPUB_______23,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublic,WATWAS,TJ.y,TJ
+WAT,WAS,WW,HB,ADI,PUB,___,MENE,23,NEW,WATWASWWHBADIPUB___MENE_23,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy,WATWAS,TJ.y,TJ
+WAT,WAS,WW,HB,GAS,CEN,CCS,HH2,23,NEW,WATWASWWHBGASCENCCSHH2_23,WaterWasteWaste waterHumber Wastewater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen,WATWAS,MW,TJ
+WAT,WAS,WW,HC,GAS,ERK,STD,MENE,23,NEW,WATWASWWHCGASERKSTD____23,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard Efficiency,WATWAS,TJ.y,TJ
+WAT,WAS,WW,HC,GAS,ERK,STD,MENE,23,NEW,WATWASWWHCGASERKSTDMENE_23,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationEnerkemStandard EfficiencyMix Energy,WATWAS,TJ.y,TJ
+WAT,WAS,WW,HC,ADI,PUB,___,MENE,23,NEW,WATWASWWHCADIPUB_______23,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublic,WATWAS,TJ.y,TJ
+WAT,WAS,WW,HC,ADI,PUB,___,MENE,23,NEW,WATWASWWHCADIPUB___MENE_23,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyAnaerobic DigesterPublicMix Energy,WATWAS,TJ.y,TJ
+WAT,WAS,WW,HC,GAS,CEN,CCS,HH2,23,NEW,WATWASWWHCGASCENCCSHH2_23,WaterWasteWaste waterHighland Creek Waterwater Treatment PlantTons to EnergyGasificationCentralCarbon Capture StorageHydrogen,WATWAS,MW,TJ
